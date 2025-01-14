@@ -1,0 +1,61 @@
+---
+title:  Hetu
+path: /tipitaka/39P5/2/2.5/2.5.1--7/Hetu
+ref: 261991
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
+    link: /tipitaka/39P5
+  - name: 2 Tika, Kusalattika
+    link: /tipitaka/39P5/2
+  - name: 2.5 Vitakkattika, Kusalattika
+    link: /tipitaka/39P5/2/2.5
+  - name: 2.5.1--7 Paṭiccādivāra
+    link: /tipitaka/39P5/2/2.5/2.5.1--7
+prevL: /tipitaka/39P5/2/2.5/2.5.1--7
+upL: /tipitaka/39P5/2/2.5/2.5.1--7
+nextL: /tipitaka/39P5/2/2.6
+---
+
+# Hetu
+
+### Tika, Kusalattika
+
+### Vitakkattika, Kusalattika
+
+### Paṭiccādivāra
+
+### Hetu
+
+(11.)
+
+333. Savitakkasavicāraṃ kusalaṃ dhammaṃ paṭicca savitakkasavicāro kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+
+334. Avitakkavicāramattaṃ kusalaṃ dhammaṃ paṭicca avitakkavicāramatto kusalo dhammo uppajjati hetupaccayā…  cattāri.
+
+335. Avitakkaavicāraṃ kusalaṃ dhammaṃ paṭicca avitakkaavicāro kusalo dhammo uppajjati hetupaccayā. (1)
+
+336. Avitakkaavicāraṃ kusalaṃ dhammaṃ paṭicca avitakkavicāramatto kusalo dhammo uppajjati hetupaccayā. (1)
+
+337. Avitakkavicāramattaṃ kusalañca avitakkaavicāraṃ kusalañca dhammaṃ…pe…  savitakkasavicāraṃ kusalañca avitakkavicāramattaṃ kusalañca dhammaṃ paṭicca savitakkasavicāro kusalo dhammo uppajjati hetupaccayā. (1)
+
+338. Hetuyā ekādasa…pe…  avigate ekādasa. (Saṃkhittaṃ.)
+
+(12.)
+
+339. Savitakkasavicāraṃ akusalaṃ dhammaṃ paṭicca savitakkasavicāro akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+
+340. Avitakkavicāramattaṃ akusalaṃ dhammaṃ paṭicca savitakkasavicāro akusalo dhammo uppajjati hetupaccayā. (1)
+
+341. Savitakkasavicāraṃ akusalañca avitakkavicāramattaṃ akusalañca dhammaṃ paṭicca savitakkasavicāro akusalo dhammo uppajjati hetupaccayā. (1)
+
+342. Hetuyā pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+
+(13.)
+
+343. Savitakkasavicāraṃ abyākataṃ dhammaṃ paṭicca savitakkasavicāro abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+
+344. Hetuyā sattatiṃsa, ārammaṇe ekavīsa…pe…  aññamaññe aṭṭhavīsa…pe…  purejāte āsevane ekādasa…pe…  avigate sattatiṃsa. (Saṃkhittaṃ.)
+
+

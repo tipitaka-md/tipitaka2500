@@ -1,0 +1,55 @@
+---
+title:  Sahajāta
+path: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Sahajata
+ref: 262762
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/36P1
+  - name: 5 Upādinnattika
+    link: /tipitaka/36P1/5
+  - name: 5.7 Pañhāvāra
+    link: /tipitaka/36P1/5/5.7
+  - name: 5.7.1 Paccayānuloma
+    link: /tipitaka/36P1/5/5.7/5.7.1
+  - name: 5.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
+prevL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Samanantara
+upL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
+nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Annamanna
+---
+
+# Sahajāta
+
+### Upādinnattika
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Sahajāta
+
+(58.)
+
+2632. Upādinnupādāniyo dhammo upādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  upādinnupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe upādinnupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ kaṭattā ca rūpānaṃ sahajātapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ kaṭattā ca rūpānaṃ…pe…  khandhā vatthussa…pe…  vatthu khandhānaṃ…pe…  ekaṃ mahābhūtaṃ tiṇṇannaṃ mahābhūtānaṃ…pe…  tayo mahābhūtā ekassa mahābhūtassa…pe…  dve mahābhūtā dvinnaṃ mahābhūtānaṃ…pe…  mahābhūtā kaṭattārūpānaṃ upādārūpānaṃ sahajātapaccayena paccayo. Asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
+
+2633. Upādinnupādāniyo dhammo anupādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  upādinnupādāniyā khandhā cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (2)
+
+2634. Upādinnupādāniyo dhammo upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa sahajātapaccayena paccayo—  upādinnupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ sahajātapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ sahajātapaccayena paccayo. (3)
+
+2635. Anupādinnupādāniyo dhammo anupādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  anupādinnupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ sahajātapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ sahajātapaccayena paccayo. Anupādinnupādāniyaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūtā cittasamuṭṭhānānaṃ rūpānaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūtā upādārūpānaṃ sahajātapaccayena paccayo. (1)
+
+2636. Anupādinnaanupādāniyo dhammo anupādinnaanupādāniyassa dhammassa sahajātapaccayena paccayo—  anupādinnaanupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā dvinnaṃ khandhānaṃ sahajātapaccayena paccayo. (1)
+
+2637. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  anupādinnaanupādāniyā khandhā cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (2)
+
+2638. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa sahajātapaccayena paccayo; anupādinnaanupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ sahajātapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ sahajātapaccayena paccayo. (3)
+
+2639. Anupādinnupādāniyo ca anupādinnaanupādāniyo ca dhammā anupādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  anupādinnaanupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
+
+2640. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā anupādinnupādāniyassa dhammassa sahajātapaccayena paccayo—  upādinnupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
+
+

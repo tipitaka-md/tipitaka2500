@@ -1,0 +1,61 @@
+---
+title:  Adhipati
+path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Adhipati
+ref: 263029
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/37P1
+  - name: 11 Ācayagāmittika
+    link: /tipitaka/37P1/11
+  - name: 11.7 Pañhāvāra
+    link: /tipitaka/37P1/11/11.7
+  - name: 11.7.1 Paccayānuloma
+    link: /tipitaka/37P1/11/11.7/11.7.1
+  - name: 11.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
+prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Arammana
+upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
+nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Anantara
+---
+
+# Adhipati
+
+### Ācayagāmittika
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Adhipati
+
+(49.)
+
+1572. Ācayagāmī dhammo ācayagāmissa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, ācayagāmī khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  ācayagāmī adhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+
+1573. Ācayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  ācayagāmī adhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+
+1574. Ācayagāmī dhammo ācayagāmissa ca nevācayagāmināpacayagāmissa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  ācayagāmī adhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+
+(50.)
+
+1575. Apacayagāmī dhammo apacayagāmissa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  apacayagāmī adhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+
+1576. Apacayagāmī dhammo ācayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (2)
+
+1577. Apacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  arahā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhati. **Sahajātādhipati**—  apacayagāmī adhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
+
+1578. Apacayagāmī dhammo apacayagāmissa ca nevācayagāmināpacayagāmissa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  apacayagāmī adhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (4)
+
+(51.)
+
+1579. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  arahā phalaṃ garuṃ katvā paccavekkhati, nibbānaṃ garuṃ katvā paccavekkhati, nibbānaṃ phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  nevācayagāmināpacayagāmī adhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+
+1580. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti…pe…  vatthuṃ…  nevācayagāmināpacayagāmī khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+
+1581. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (3)
+
+

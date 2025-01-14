@@ -1,0 +1,63 @@
+---
+title:  Purejāta
+path: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Purejata
+ref: 265287
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 10 Mahantaraduka
+    link: /tipitaka/38P2/10
+  - name: 10.6 Cittasamuṭṭhānaduka
+    link: /tipitaka/38P2/10/10.6
+  - name: 10.6.7 Pañhāvāra
+    link: /tipitaka/38P2/10/10.6/10.6.7
+  - name: 10.6.7.1 Paccayānuloma
+    link: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1
+  - name: 10.6.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1
+prevL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Upanissaya
+upL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1
+nextL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Pacchajatasevana
+---
+
+# Purejāta
+
+### Mahantaraduka
+
+### Cittasamuṭṭhānaduka
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Purejāta
+
+(217.)
+
+2855. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa purejātapaccayena paccayo. **Ārammaṇapurejātaṃ**—  cittasamuṭṭhāne rūpe…pe…  phoṭṭhabbe aniccato…pe…  vipassati…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ purejātapaccayena paccayo…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇasahagatānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+
+2856. Cittasamuṭṭhāno dhammo nocittasamuṭṭhānassa dhammassa purejātapaccayena paccayo. **Ārammaṇapurejātaṃ**—  cittasamuṭṭhāne rūpe…pe…  phoṭṭhabbe aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha cittaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. (2)
+
+2857. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa purejātapaccayena paccayo. **Ārammaṇapurejātaṃ**—  cittasamuṭṭhāne rūpe…pe…  phoṭṭhabbe aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha cittañca sampayuttakā ca khandhā uppajjanti. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo…pe…  phoṭṭhabbāyatanaṃ…pe… . (3)
+
+(218.)
+
+2858. Nocittasamuṭṭhāno dhammo nocittasamuṭṭhānassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  kāyaṃ, rūpe…pe…  phoṭṭhabbe vatthuṃ aniccato…pe…  taṃ ārabbha cittaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ…pe…  vatthu cittassa purejātapaccayena paccayo. (1)
+
+2859. Nocittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ…pe…  kāyāyatanaṃ…pe…  vatthu cittasamuṭṭhānānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+
+2860. Nocittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  taṃ ārabbha cittañca sampayuttakā ca khandhā uppajjanti. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ…pe…  kāyāyatanaṃ…pe…  vatthu cittassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
+
+(219.)
+
+2861. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cittasamuṭṭhānaṃ rūpāyatanañca cakkhāyatanañca cakkhuviññāṇasahagatānaṃ khandhānaṃ…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇasahagatānaṃ khandhānaṃ purejātapaccayena paccayo; cittasamuṭṭhānaṃ rūpāyatanañca vatthu ca cittasamuṭṭhānānaṃ khandhānaṃ purejātapaccayena paccayo…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca vatthu ca…pe… . (1)
+
+2862. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā nocittasamuṭṭhānassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cittasamuṭṭhānaṃ rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇassa purejātapaccayena paccayo; cittasamuṭṭhānaṃ rūpāyatanañca vatthu ca cittassa purejātapaccayena paccayo…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca vatthu ca…pe… . (2)
+
+2863. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cittasamuṭṭhānaṃ rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanaṃ ca…pe…  cittasamuṭṭhānaṃ rūpāyatanañca vatthu ca cittassa sampayuttakānañca khandhānaṃ purejātapaccayena paccayo…pe…  cittasamuṭṭhānaṃ phoṭṭhabbāyatanañca vatthu ca…pe… . (3)
+
+

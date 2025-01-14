@@ -1,0 +1,41 @@
+---
+title:  Anantarādi
+path: /tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Anantaradi
+ref: 263289
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/37P1
+  - name: 21 Ajjhattattika
+    link: /tipitaka/37P1/21
+  - name: 21.1 Paṭiccavāra
+    link: /tipitaka/37P1/21/21.1
+  - name: 21.1.1 Paccayānuloma
+    link: /tipitaka/37P1/21/21.1/21.1.1
+  - name: 21.1.1.1 Vibhaṅgavāra
+    link: /tipitaka/37P1/21/21.1/21.1.1/21.1.1.1
+prevL: /tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Adhipati
+upL: /tipitaka/37P1/21/21.1/21.1.1/21.1.1.1
+nextL: /tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Annamannadi
+---
+
+# Anantarādi
+
+### Ajjhattattika
+
+### Paṭiccavāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Anantarādi
+
+(4.)
+
+2766. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati anantarapaccayā, samanantarapaccayā, sahajātapaccayā—  ajjhattaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe ajjhattaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. Ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+
+2767. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati sahajātapaccayā—  bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. Ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+
+

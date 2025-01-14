@@ -1,0 +1,63 @@
+---
+title:  Vippayutta
+path: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Vippayutta
+ref: 265315
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 10 Mahantaraduka
+    link: /tipitaka/38P2/10
+  - name: 10.7 Cittasahabhūduka
+    link: /tipitaka/38P2/10/10.7
+  - name: 10.7.7 Pañhāvāra
+    link: /tipitaka/38P2/10/10.7/10.7.7
+  - name: 10.7.7.1 Paccayānuloma
+    link: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1
+  - name: 10.7.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1
+prevL: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Vipakadi
+upL: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1
+nextL: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Atthi
+---
+
+# Vippayutta
+
+### Mahantaraduka
+
+### Cittasahabhūduka
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Vippayutta
+
+(265.)
+
+2968. Cittasahabhū dhammo cittasahabhussa dhammassa vippayuttapaccayena paccayo. **Sahajātā**—  cittasahabhū khandhā cittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. (1)
+
+2969. Cittasahabhū dhammo nocittasahabhussa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  cittasahabhū khandhā nocittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  cittasahabhū khandhā purejātassa imassa nocittasahabhussa kāyassa vippayuttapaccayena paccayo. (2)
+
+2970. Cittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa vippayuttapaccayena paccayo. **Sahajātā**—  cittasahabhū khandhā cittasahabhūnañca nocittasahabhūnañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. (3)
+
+(266.)
+
+2971. Nocittasahabhū dhammo nocittasahabhussa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. **Sahajātaṃ**—  cittaṃ nocittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe cittaṃ kaṭattārūpānaṃ vippayuttapaccayena paccayo; cittaṃ vatthussa vippayuttapaccayena paccayo; vatthu cittassa vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa vippayuttapaccayena paccayo…pe…  kāyāyatanaṃ…pe…  vatthu cittassa vippayuttapaccayena paccayo. **Pacchājātaṃ**—  cittaṃ purejātassa imassa nocittasahabhussa kāyassa vippayuttapaccayena paccayo. (1)
+
+2972. Nocittasahabhū dhammo cittasahabhussa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  cittaṃ cittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ vippayuttapaccayena paccayo…pe…  kāyāyatanaṃ…pe…  vatthu cittasahabhūnaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
+
+2973. Nocittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  cittaṃ cittasahabhūnañca nocittasahabhūnañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa sampayuttakānañca rūpānaṃ vippayuttapaccayena paccayo…pe…  kāyāyatanaṃ…pe…  vatthu cittassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
+
+(267.)
+
+2974. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa dhammassa vippayuttapaccayena paccayo. **Sahajātā**—  cittasahabhū khandhā ca cittañca cittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. (1)
+
+2975. Cittasahabhū ca nocittasahabhū ca dhammā nocittasahabhussa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  cittasahabhū khandhā ca cittañca nocittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  cittasahabhū khandhā ca cittañca purejātassa imassa nocittasahabhussa kāyassa vippayuttapaccayena paccayo. (2)
+
+2976. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa ca nocittasahabhussa ca dhammassa vippayuttapaccayena paccayo—  cittasahabhū khandhā ca cittañca cittasahabhūnañca nocittasahabhūnañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. (3)
+
+

@@ -1,0 +1,53 @@
+---
+title:  Hetu
+path: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Hetu
+ref: 262918
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/37P1
+  - name: 9 Dassanenapahātabbattika
+    link: /tipitaka/37P1/9
+  - name: 9.7 Pañhāvāra
+    link: /tipitaka/37P1/9/9.7
+  - name: 9.7.1 Paccayānuloma
+    link: /tipitaka/37P1/9/9.7/9.7.1
+  - name: 9.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
+prevL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
+upL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
+nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Arammana
+---
+
+# Hetu
+
+### Dassanenapahātabbattika
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Hetu
+
+(69.)
+
+940. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa hetupaccayena paccayo—  dassanena pahātabbā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+
+941. Dassanena pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa hetupaccayena paccayo—  dassanena pahātabbā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
+
+942. Dassanena pahātabbo dhammo dassanena pahātabbassa ca nevadassanena nabhāvanāya pahātabbassa ca dhammassa hetupaccayena paccayo—  dassanena pahātabbā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+
+(70.)
+
+943. Bhāvanāya pahātabbo dhammo…pe…  dhammassa hetupaccayena paccayo—  bhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+
+944. Bhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa…pe…  bhāvanāya pahātabbā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
+
+945. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa ca nevadassanena nabhāvanāya pahātabbassa ca dhammassa…pe…  bhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+
+946. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa…pe…  nevadassanena nabhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
+
+

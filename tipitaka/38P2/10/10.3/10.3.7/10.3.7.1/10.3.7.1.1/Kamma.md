@@ -1,0 +1,47 @@
+---
+title:  Kamma
+path: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Kamma
+ref: 265239
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 10 Mahantaraduka
+    link: /tipitaka/38P2/10
+  - name: 10.3 Cetasikaduka
+    link: /tipitaka/38P2/10/10.3
+  - name: 10.3.7 Pañhāvāra
+    link: /tipitaka/38P2/10/10.3/10.3.7
+  - name: 10.3.7.1 Paccayānuloma
+    link: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1
+  - name: 10.3.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1
+prevL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Pacchajatasevana
+upL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1
+nextL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Vipakadi
+---
+
+# Kamma
+
+### Mahantaraduka
+
+### Cetasikaduka
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Kamma
+
+(131.)
+
+2637. Cetasiko dhammo cetasikassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cetasikā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cetasikā cetanā vipākānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+
+2638. Cetasiko dhammo acetasikassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cetasikā cetanā cittassa cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cetasikā cetanā vipākassa cittassa kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
+
+2639. Cetasiko dhammo cetasikassa ca acetasikassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cetasikā cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cetasikā cetanā vipākānaṃ khandhānaṃ cittassa kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+
+

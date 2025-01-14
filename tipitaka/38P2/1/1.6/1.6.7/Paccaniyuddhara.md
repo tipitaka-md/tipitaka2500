@@ -1,0 +1,51 @@
+---
+title:  Paccanīyuddhāra
+path: /tipitaka/38P2/1/1.6/1.6.7/Paccaniyuddhara
+ref: 260953
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 1 Hetugocchaka
+    link: /tipitaka/38P2/1
+  - name: 1.6 Nahetusahetukaduka
+    link: /tipitaka/38P2/1/1.6
+  - name: 1.6.7 Pañhāvāra
+    link: /tipitaka/38P2/1/1.6/1.6.7
+prevL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.2/Suddha
+upL: /tipitaka/38P2/1/1.6/1.6.7
+nextL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.2
+---
+
+# Paccanīyuddhāra
+
+### Hetugocchaka
+
+### Nahetusahetukaduka
+
+### Pañhāvāra
+
+### Paccanīyuddhāra
+
+(196.)
+
+531. Nahetu sahetuko dhammo nahetusahetukassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+
+532. Nahetu sahetuko dhammo nahetuahetukassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo. (2)
+
+533. Nahetu sahetuko dhammo nahetusahetukassa ca nahetuahetukassa ca dhammassa sahajātapaccayena paccayo…  kammapaccayena paccayo. (3)
+
+(197.)
+
+534. Nahetu ahetuko dhammo nahetuahetukassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
+
+535. Nahetu ahetuko dhammo nahetusahetukassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
+
+(198.)
+
+536. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetusahetukassa dhammassa sahajātaṃ…  purejātaṃ. (1)
+
+537. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
+
+

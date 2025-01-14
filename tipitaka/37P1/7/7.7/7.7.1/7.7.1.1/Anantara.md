@@ -1,0 +1,95 @@
+---
+title:  Anantara
+path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Anantara
+ref: 262829
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/37P1
+  - name: 7 Vitakkattika
+    link: /tipitaka/37P1/7
+  - name: 7.7 Pañhāvāra
+    link: /tipitaka/37P1/7/7.7
+  - name: 7.7.1 Paccayānuloma
+    link: /tipitaka/37P1/7/7.7/7.7.1
+  - name: 7.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
+prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Adhipati
+upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
+nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara
+---
+
+# Anantara
+
+### Vitakkattika
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Anantara
+
+(79.)
+
+326. Savitakkasavicāro dhammo savitakkasavicārassa dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ anantarapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu savitakkasavicārassa maggassa…  vodānaṃ savitakkasavicārassa maggassa…  savitakkasavicāro maggo savitakkasavicārassa phalassa…  savitakkasavicāraṃ phalaṃ savitakkasavicārassa phalassa…  anulomaṃ savitakkasavicārāya phalasamāpattiyā anantarapaccayena paccayo. (1)
+
+327. Savitakkasavicāro dhammo avitakkavicāramattassa dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā pacchimassa pacchimassa vitakkassa anantarapaccayena paccayo. Savitakkasavicāraṃ cuticittaṃ avitakkavicāramattassa upapatticittassa…pe…  savitakkasavicārā khandhā avitakkavicāramattassa vuṭṭhānassa vitakkassa ca…pe…  avitakkavicāramattassa jhānassa parikammaṃ avitakkavicāramattassa jhānassa…  gotrabhu avitakkavicāramattassa maggassa…  vodānaṃ avitakkavicāramattassa maggassa…  anulomaṃ avitakkavicāramattāya phalasamāpattiyā vitakkassa ca anantarapaccayena paccayo. (2)
+
+328. Savitakkasavicāro dhammo avitakkaavicārassa dhammassa anantarapaccayena paccayo—  savitakkasavicāraṃ cuticittaṃ avitakkaavicārassa upapatticittassa vicārassa ca anantarapaccayena paccayo—  āvajjanā pañcannaṃ viññāṇānaṃ anantarapaccayena paccayo. Savitakkasavicārā khandhā avitakkaavicārassa vuṭṭhānassa vicārassa ca…pe…  dutiyassa jhānassa parikammaṃ dutiye jhāne vicārassa anantarapaccayena paccayo. Tatiyassa jhānassa parikammaṃ…pe…  catutthassa jhānassa parikammaṃ…pe…  ākāsānañcāyatanassa parikammaṃ…pe…  viññāṇañcāyatanassa parikammaṃ…pe…  ākiñcaññāyatanassa parikammaṃ…pe…  nevasaññānāsaññāyatanassa parikammaṃ…pe…  dibbassa cakkhussa parikammaṃ…pe…  dibbāya sotadhātuyā parikammaṃ…pe…  iddhividhañāṇassa parikammaṃ…pe…  cetopariyañāṇassa parikammaṃ…pe…  pubbenivāsānussatiñāṇassa parikammaṃ…pe…  yathākammūpagañāṇassa parikammaṃ…pe…  anāgataṃsañāṇassa parikammaṃ…pe…  gotrabhu avitakkaavicārassa maggassa vicārassa ca…  vodānaṃ avitakkaavicārassa maggassa vicārassa ca…  anulomaṃ avitakkaavicārāya phalasamāpattiyā vicārassa ca anantarapaccayena paccayo. (3)
+
+329. Savitakkasavicāro dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa anantarapaccayena paccayo—  savitakkasavicāraṃ cuticittaṃ avitakkavicāramattassa upapatticittassa vicārassa ca anantarapaccayena paccayo. Savitakkasavicārā khandhā avitakkavicāramattassa vuṭṭhānassa vicārassa ca anantarapaccayena paccayo. Avitakkavicāramattassa jhānassa parikammaṃ avitakkavicāramattassa jhānassa vicārassa ca anantarapaccayena paccayo. Gotrabhu avitakkavicāramattassa maggassa vicārassa ca…  vodānaṃ avitakkavicāramattassa maggassa vicārassa ca…  anulomaṃ avitakkavicāramattāya phalasamāpattiyā vicārassa ca anantarapaccayena paccayo. (4)
+
+330. Savitakkasavicāro dhammo savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. Anulomaṃ gotrabhussa vitakkassa ca…  anulomaṃ vodānassa vitakkassa ca…  gotrabhu savitakkasavicārassa maggassa vitakkassa ca…  vodānaṃ savitakkasavicārassa maggassa vitakkassa ca…  savitakkasavicāro maggo savitakkasavicārassa phalassa vitakkassa ca…  savitakkasavicāraṃ phalaṃ savitakkasavicārassa phalassa vitakkassa ca…  anulomaṃ savitakkasavicārāya phalasamāpattiyā vitakkassa ca anantarapaccayena paccayo. (5)
+
+(80.)
+
+331. Avitakkavicāramatto dhammo avitakkavicāramattassa dhammassa anantarapaccayena paccayo—  purimo purimo vitakko pacchimassa pacchimassa vitakkassa anantarapaccayena paccayo. Purimā purimā avitakkavicāramattā khandhā pacchimānaṃ pacchimānaṃ avitakkavicāramattānaṃ khandhānaṃ anantarapaccayena paccayo. Avitakkavicāramatto maggo avitakkavicāramattassa phalassa…  avitakkavicāramattaṃ phalaṃ avitakkavicāramattassa phalassa anantarapaccayena paccayo. (1)
+
+332. Avitakkavicāramatto dhammo savitakkasavicārassa dhammassa anantarapaccayena paccayo—  purimo purimo vitakko pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ anantarapaccayena paccayo. Avitakkavicāramattaṃ cuticittaṃ savitakkasavicārassa upapatticittassa anantarapaccayena paccayo. Avitakkavicāramattaṃ bhavaṅgaṃ āvajjanāya anantarapaccayena paccayo. Avitakkavicāramattā khandhā savitakkasavicārassa vuṭṭhānassa anantarapaccayena paccayo. (2)
+
+333. Avitakkavicāramatto dhammo avitakkaavicārassa dhammassa anantarapaccayena paccayo—  purimā purimā avitakkavicāramattā khandhā pacchimassa pacchimassa vicārassa anantarapaccayena paccayo. Avitakkavicāramattaṃ cuticittaṃ vitakko ca avitakkaavicārassa upapatticittassa vicārassa ca anantarapaccayena paccayo. Avitakkavicāramattā khandhā vitakko ca avitakkaavicārassa vuṭṭhānassa vicārassa ca anantarapaccayena paccayo. (3)
+
+334. Avitakkavicāramatto dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa anantarapaccayena paccayo—  purimā purimā avitakkavicāramattā khandhā pacchimānaṃ pacchimānaṃ avitakkavicāramattānaṃ khandhānaṃ vicārassa ca anantarapaccayena paccayo. Avitakkavicāramatto maggo avitakkavicāramattassa phalassa vicārassa ca…  avitakkavicāramattaṃ phalaṃ avitakkavicāramattassa phalassa vicārassa ca anantarapaccayena paccayo. (4)
+
+335. Avitakkavicāramatto dhammo savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  purimo purimo vitakko pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. Avitakkavicāramattaṃ cuticittaṃ savitakkasavicārassa upapatticittassa vitakkassa ca anantarapaccayena paccayo. Avitakkavicāramattaṃ bhavaṅgaṃ āvajjanāya vitakkassa ca anantarapaccayena paccayo. Avitakkavicāramattā khandhā savitakkasavicārassa vuṭṭhānassa vitakkassa ca anantarapaccayena paccayo. (5)
+
+(81.)
+
+336. Avitakkaavicāro dhammo avitakkaavicārassa dhammassa anantarapaccayena paccayo—  purimo purimo vicāro pacchimassa pacchimassa vicārassa anantarapaccayena paccayo. Purimā purimā avitakkaavicārā khandhā pacchimānaṃ pacchimānaṃ avitakkaavicārānaṃ khandhānaṃ anantarapaccayena paccayo. Avitakkaavicāro maggo avitakkaavicārassa phalassa…  avitakkaavicāraṃ phalaṃ avitakkaavicārassa phalassa anantarapaccayena paccayo. Nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ avitakkaavicārāya phalasamāpattiyā vicārassa ca anantarapaccayena paccayo. (1)
+
+337. Avitakkaavicāro dhammo savitakkasavicārassa dhammassa anantarapaccayena paccayo—  avitakkaavicāraṃ cuticittaṃ vicāro ca savitakkasavicārassa upapatticittassa anantarapaccayena paccayo. Avitakkaavicāraṃ bhavaṅgaṃ vicāro ca āvajjanāya anantarapaccayena paccayo. Avitakkaavicārā khandhā vicāro ca savitakkasavicārassa vuṭṭhānassa anantarapaccayena paccayo. Nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ savitakkasavicārāya phalasamāpattiyā anantarapaccayena paccayo. (2)
+
+338. Avitakkaavicāro dhammo avitakkavicāramattassa dhammassa anantarapaccayena paccayo—  purimo purimo vicāro pacchimānaṃ pacchimānaṃ avitakkavicāramattānaṃ khandhānaṃ anantarapaccayena paccayo. Avitakkaavicāraṃ cuticittaṃ vicāro ca avitakkavicāramattassa upapatticittassa vitakkassa ca anantarapaccayena paccayo. Avitakkaavicārā khandhā vicāro ca avitakkavicāramattassa vuṭṭhānassa vitakkassa ca anantarapaccayena paccayo. Nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ avitakkavicāramattāya phalasamāpattiyā vitakkassa ca anantarapaccayena paccayo. (3)
+
+339. Avitakkaavicāro dhammo avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa anantarapaccayena paccayo—  purimo purimo vicāro pacchimānaṃ pacchimānaṃ avitakkavicāramattānaṃ khandhānaṃ vicārassa ca anantarapaccayena paccayo. Avitakkaavicāraṃ cuticittaṃ avitakkavicāramattassa upapatticittassa vicārassa ca anantarapaccayena paccayo. Avitakkaavicārā khandhā avitakkavicāramattassa vuṭṭhānassa vicārassa ca anantarapaccayena paccayo. Nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ avitakkavicāramattāya phalasamāpattiyā vicārassa ca anantarapaccayena paccayo. (4)
+
+340. Avitakkaavicāro dhammo savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  avitakkaavicāraṃ cuticittaṃ vicāro ca savitakkasavicārassa upapatticittassa vitakkassa ca anantarapaccayena paccayo. Avitakkaavicāraṃ bhavaṅgañca vicāro ca āvajjanāya vitakkassa ca anantarapaccayena paccayo. Avitakkaavicārā khandhā vicāro ca savitakkasavicārassa vuṭṭhānassa vitakkassa ca anantarapaccayena paccayo. Nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ savitakkasavicārāya phalasamāpattiyā vitakkassa ca anantarapaccayena paccayo. (5)
+
+(82.)
+
+341. Avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa anantarapaccayena paccayo—  avitakkavicāramattaṃ cuticittañca vicāro ca savitakkasavicārassa upapatticittassa anantarapaccayena paccayo. Avitakkavicāramattaṃ bhavaṅgañca vicāro ca āvajjanāya anantarapaccayena paccayo. Avitakkavicāramattā khandhā ca vicāro ca savitakkasavicārassa vuṭṭhānassa anantarapaccayena paccayo. (1)
+
+342. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkavicāramattassa dhammassa anantarapaccayena paccayo—  purimā purimā avitakkavicāramattā khandhā ca vicāro ca pacchimānaṃ pacchimānaṃ avitakkavicāramattānaṃ khandhānaṃ anantarapaccayena paccayo. Avitakkavicāramatto maggo ca vicāro ca avitakkavicāramattassa phalassa anantarapaccayena paccayo. Avitakkavicāramattaṃ phalañca vicāro ca avitakkavicāramattassa phalassa anantarapaccayena paccayo. (2)
+
+343. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa anantarapaccayena paccayo—  purimā purimā avitakkavicāramattā khandhā ca vicāro ca pacchimassa pacchimassa vicārassa anantarapaccayena paccayo. Avitakkavicāramattaṃ cuticittañca vicāro ca avitakkaavicārassa upapatticittassa anantarapaccayena paccayo. Avitakkavicāramattā khandhā ca vicāro ca avitakkaavicārassa vuṭṭhānassa anantarapaccayena paccayo. (3)
+
+344. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa anantarapaccayena paccayo—  purimā purimā avitakkavicāramattā khandhā ca vicāro ca pacchimānaṃ pacchimānaṃ avitakkavicāramattānaṃ khandhānaṃ vicārassa ca anantarapaccayena paccayo. Avitakkavicāramatto maggo ca vicāro ca avitakkavicāramattassa phalassa vicārassa ca anantarapaccayena paccayo. Avitakkavicāramattaṃ phalañca vicāro ca avitakkavicāramattassa phalassa ca vicārassa ca anantarapaccayena paccayo. (4)
+
+345. Avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  avitakkavicāramattaṃ cuticittañca vicāro ca savitakkasavicārassa upapatticittassa vitakkassa ca anantarapaccayena paccayo. Avitakkavicāramattaṃ bhavaṅgañca vicāro ca āvajjanāya vitakkassa ca anantarapaccayena paccayo. Avitakkavicāramattā khandhā ca vicāro ca savitakkasavicārassa vuṭṭhānassa vitakkassa ca anantarapaccayena paccayo. (5)
+
+(83.)
+
+346. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ anantarapaccayena paccayo. Anulomañca vitakko ca gotrabhussa…  anulomañca vitakko ca vodānassa…  gotrabhu ca vitakko ca savitakkasavicārassa maggassa…  vodānañca vitakko ca savitakkasavicārassa maggassa…  savitakkasavicāro maggo ca vitakko ca savitakkasavicārassa phalassa…  savitakkasavicāraṃ phalañca vitakko ca savitakkasavicārassa phalassa…  anulomañca vitakko ca savitakkasavicārāya phalasamāpattiyā anantarapaccayena paccayo. (1)
+
+347. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimassa pacchimassa vitakkassa anantarapaccayena paccayo. Savitakkasavicāraṃ cuticittañca vitakko ca avitakkavicāramattassa upapatticittassa anantarapaccayena paccayo. Savitakkasavicārā khandhā ca vitakko ca avitakkavicāramattassa vuṭṭhānassa anantarapaccayena paccayo. Avitakkavicāramattassa jhānassa parikammañca vitakko ca avitakkavicāramattassa jhānassa anantarapaccayena paccayo. Gotrabhu ca vitakko ca avitakkavicāramattassa maggassa…  vodānañca vitakko ca avitakkavicāramattassa maggassa…  anulomañca vitakko ca avitakkavicāramattāya phalasamāpattiyā anantarapaccayena paccayo. (2)
+
+348. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa anantarapaccayena paccayo—  savitakkasavicāraṃ cuticittañca vitakko ca avitakkaavicārassa upapatticittassa vicārassa ca anantarapaccayena paccayo. Āvajjanā ca vitakko ca pañcannaṃ viññāṇānaṃ anantarapaccayena paccayo. Savitakkasavicārā khandhā ca vitakko ca avitakkaavicārassa vuṭṭhānassa ca vicārassa ca anantarapaccayena paccayo. Dutiyassa jhānassa parikammañca vitakko ca dutiye jhāne vicārassa anantarapaccayena paccayo. Tatiyassa jhānassa parikammañca vitakko ca…pe…  catutthassa jhānassa parikammañca vitakko ca…pe…  ākāsānañcāyatanassa parikammañca vitakko ca…pe…  viññāṇañcāyatanassa parikammañca vitakko ca…pe…  ākiñcaññāyatanassa parikammañca vitakko ca…pe…  nevasaññānāsaññāyatanassa parikammañca vitakko ca…pe…  dibbassa cakkhussa parikammañca vitakko ca…pe…  dibbāya sotadhātuyā parikammañca vitakko ca…pe…  iddhividhañāṇassa parikammañca vitakko ca…pe…  cetopariyañāṇassa parikammañca vitakko ca…pe…  pubbenivāsānussatiñāṇassa parikammañca vitakko ca…pe…  yathākammūpagañāṇassa parikammañca vitakko ca…pe…  anāgataṃsañāṇassa parikammañca vitakko ca…pe…  gotrabhu ca vitakko ca avitakkaavicārassa maggassa vicārassa ca…  vodānañca vitakko ca avitakkaavicārassa maggassa vicārassa ca…  anulomañca vitakko ca avitakkaavicārāya phalasamāpattiyā vicārassa ca anantarapaccayena paccayo. (3)
+
+349. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa anantarapaccayena paccayo—  savitakkasavicāraṃ cuticittañca vitakko ca avitakkavicāramattassa upapatticittassa ca vicārassa ca anantarapaccayena paccayo. Savitakkasavicārā khandhā ca vitakko ca avitakkavicāramattassa vuṭṭhānassa ca vicārassa ca anantarapaccayena paccayo. Avitakkavicāramattassa jhānassa parikammañca vitakko ca avitakkavicāramattassa jhānassa ca vicārassa ca anantarapaccayena paccayo. Gotrabhu ca vitakko ca avitakkavicāramattassa maggassa ca vicārassa ca anantarapaccayena paccayo. Vodānañca vitakko ca avitakkavicāramattassa maggassa ca vicārassa ca…  anulomañca vitakko ca avitakkavicāramattāya phalasamāpattiyā ca vicārassa ca anantarapaccayena paccayo. (4)
+
+350. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. Anulomañca vitakko ca gotrabhussa ca vitakkassa ca…  anulomañca vitakko ca vodānassa ca vitakkassa ca…  gotrabhu ca vitakko ca savitakkasavicārassa ca maggassa ca vitakkassa ca…  vodānañca vitakko ca savitakkasavicārassa maggassa ca vitakkassa ca anantarapaccayena paccayo. Savitakkasavicāro maggo ca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  savitakkasavicāraṃ phalañca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  anulomañca vitakko ca savitakkasavicārāya phalasamāpattiyā ca vitakkassa ca anantarapaccayena paccayo. (5)
+
+

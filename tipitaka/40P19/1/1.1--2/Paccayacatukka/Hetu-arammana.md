@@ -1,0 +1,61 @@
+---
+title:  Hetu-ārammaṇa
+path: /tipitaka/40P19/1/1.1--2/Paccayacatukka/Hetu-arammana
+ref: 262054
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/40P19
+  - name: 1 Kusalattika
+    link: /tipitaka/40P19/1
+  - name: 1.1--2 Paṭiccādivāra
+    link: /tipitaka/40P19/1/1.1--2
+  - name: Paccayacatukka
+    link: /tipitaka/40P19/1/1.1--2/Paccayacatukka
+prevL: /tipitaka/40P19/1/1.1--2/Paccayacatukka
+upL: /tipitaka/40P19/1/1.1--2/Paccayacatukka
+nextL: /tipitaka/40P19/1/1.1--2/Paccaniya
+---
+
+# Hetu-ārammaṇa
+
+### Kusalattika
+
+### Paṭiccādivāra
+
+### Paccayacatukka
+
+### Hetu-ārammaṇa
+
+(1.)
+
+2. Nakusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati hetupaccayā. Akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā nakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā. Vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  nakusalaṃ dhammaṃ paṭicca akusalo ca abyākato ca dhammā uppajjanti hetupaccayā…  tīṇi.
+
+3. Naakusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati hetupaccayā. Naakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā. Naakusalaṃ dhammaṃ paṭicca kusalo ca abyākato ca dhammā uppajjanti hetupaccayā…  tīṇi.
+
+4. Naabyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā. Naabyākataṃ dhammaṃ paṭicca kusalo dhammo uppajjati hetupaccayā. Naabyākataṃ dhammaṃ paṭicca akusalo dhammo uppajjati hetupaccayā. Naabyākataṃ dhammaṃ paṭicca kusalo ca abyākato ca dhammā uppajjanti hetupaccayā. Naabyākataṃ dhammaṃ paṭicca akusalo ca abyākato ca dhammā uppajjanti hetupaccayā…  pañca.
+
+5. Nakusalañca naabyākatañca dhammaṃ paṭicca akusalo dhammo uppajjati hetupaccayā. Nakusalañca naabyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā. Nakusalañca naabyākatañca dhammaṃ paṭicca akusalo ca abyākato ca dhammā uppajjanti hetupaccayā…  tīṇi.
+
+6. Naakusalañca naabyākatañca dhammaṃ paṭicca kusalo dhammo uppajjati hetupaccayā. Naakusalañca naabyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā. Naakusalañca naabyākatañca dhammaṃ paṭicca kusalo ca abyākato ca dhammā uppajjanti hetupaccayā…  tīṇi.
+
+7. Nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati hetupaccayā…  ekaṃ.
+
+(2.)
+
+8. Nakusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati ārammaṇapaccayā. Nakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā…  dve.
+
+9. Naakusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati ārammaṇapaccayā. Naakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā…  dve.
+
+10. Naabyākataṃ dhammaṃ paṭicca kusalo dhammo uppajjati ārammaṇapaccayā. Naabyākataṃ dhammaṃ paṭicca akusalo dhammo uppajjati ārammaṇapaccayā…  dve.
+
+11. Nakusalañca naabyākatañca dhammaṃ paṭicca akusalo dhammo uppajjati ārammaṇapaccayā…  ekaṃ.
+
+12. Naakusalañca naabyākatañca dhammaṃ paṭicca kusalo dhammo uppajjati ārammaṇapaccayā…  ekaṃ.
+
+13. Nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Saṃkhittaṃ.)
+
+14. Hetuyā aṭṭhārasa, ārammaṇe nava, adhipatiyā aṭṭhārasa…pe…  vipāke tīṇi…pe…  avigate aṭṭhārasa.
+
+

@@ -1,0 +1,51 @@
+---
+title:  Anantara
+path: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Anantara
+ref: 265127
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 9 Parāmāsagocchaka
+    link: /tipitaka/38P2/9
+  - name: 9.1 Parāmāsaduka
+    link: /tipitaka/38P2/9/9.1
+  - name: 9.1.7 Pañhāvāra
+    link: /tipitaka/38P2/9/9.1/9.1.7
+  - name: 9.1.7.1 Paccayānuloma
+    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1
+  - name: 9.1.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
+prevL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Adhipati
+upL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
+nextL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Samanantaradi
+---
+
+# Anantara
+
+### Parāmāsagocchaka
+
+### Parāmāsaduka
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Anantara
+
+(23.)
+
+2169. Parāmāso dhammo parāmāsassa dhammassa anantarapaccayena paccayo—  purimo purimo parāmāso pacchimassa pacchimassa parāmāsassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimo purimo parāmāso pacchimānaṃ pacchimānaṃ noparāmāsānaṃ khandhānaṃ anantarapaccayena paccayo; parāmāso vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimo purimo parāmāso pacchimassa pacchimassa parāmāsassa sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
+
+(24.)
+
+2170. Noparāmāso dhammo noparāmāsassa dhammassa anantarapaccayena paccayo—  purimā purimā noparāmāsā khandhā pacchimānaṃ pacchimānaṃ noparāmāsānaṃ khandhānaṃ anantarapaccayena paccayo…pe…  anulomaṃ phalasamāpattiyā anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā noparāmāsā khandhā pacchimassa pacchimassa parāmāsassa anantarapaccayena paccayo; āvajjanā parāmāsassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā noparāmāsā khandhā pacchimassa pacchimassa parāmāsassa ca sampayuttakānañca khandhānaṃ anantarapaccayena paccayo; āvajjanā parāmāsassa ca sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
+
+(25.)
+
+2171. Parāmāso ca noparāmāso ca dhammā parāmāsassa dhammassa anantarapaccayena paccayo—  purimo purimo parāmāso ca sampayuttakā ca khandhā pacchimassa pacchimassa parāmāsassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimo purimo parāmāso ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ noparāmāsānaṃ khandhānaṃ anantarapaccayena paccayo; parāmāso ca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimo purimo parāmāso ca sampayuttakā ca khandhā pacchimassa pacchimassa parāmāsassa sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
+
+

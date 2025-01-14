@@ -1,0 +1,26 @@
+---
+title: 30Vbh
+path: /tipitaka/30Vbh.html
+ref: None
+breadcrumbs:
+---
+
+* [1 Khandhavibhaṅga](/tipitaka/30Vbh/1)
+* [2 Āyatanavibhaṅga](/tipitaka/30Vbh/2)
+* [3 Dhātuvibhaṅga](/tipitaka/30Vbh/3)
+* [4 Saccavibhaṅga](/tipitaka/30Vbh/4)
+* [5 Indriyavibhaṅga](/tipitaka/30Vbh/5)
+* [6 Paṭiccasamuppādavibhaṅga](/tipitaka/30Vbh/6)
+* [7 Satipaṭṭhānavibhaṅga](/tipitaka/30Vbh/7)
+* [8 Sammappadhānavibhaṅga](/tipitaka/30Vbh/8)
+* [9 Iddhipādavibhaṅga](/tipitaka/30Vbh/9)
+* [10 Bojjhaṅgavibhaṅga](/tipitaka/30Vbh/10)
+* [11 Maggaṅgavibhaṅga](/tipitaka/30Vbh/11)
+* [12 Jhānavibhaṅga](/tipitaka/30Vbh/12)
+* [13 Appamaññāvibhaṅga](/tipitaka/30Vbh/13)
+* [14 Sikkhāpadavibhaṅga](/tipitaka/30Vbh/14)
+* [15 Paṭisambhidāvibhaṅga](/tipitaka/30Vbh/15)
+* [16 Ñāṇavibhaṅga](/tipitaka/30Vbh/16)
+* [17 Khuddakavatthuvibhaṅga](/tipitaka/30Vbh/17)
+* [18 Dhammahadayavibhaṅga](/tipitaka/30Vbh/18)
+

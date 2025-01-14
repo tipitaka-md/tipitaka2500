@@ -1,0 +1,53 @@
+---
+title:  Nakammādi
+path: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Nakammadi
+ref: 265386
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 10 Mahantaraduka
+    link: /tipitaka/38P2/10
+  - name: 10.13 Upādāduka
+    link: /tipitaka/38P2/10/10.13
+  - name: 10.13.3 Paccayavāra
+    link: /tipitaka/38P2/10/10.13/10.13.3
+  - name: 10.13.3.2 Paccayapaccanīya
+    link: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2
+  - name: 10.13.3.2.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1
+prevL: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Nahetvadi
+upL: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1
+nextL: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Najhanadi
+---
+
+# Nakammādi
+
+### Mahantaraduka
+
+### Upādāduka
+
+### Paccayavāra
+
+### Paccayapaccanīya
+
+### Vibhaṅgavāra
+
+### Nakammādi
+
+(390.)
+
+3297. Upādā dhammaṃ paccayā noupādā dhammo uppajjati nakammapaccayā—  vatthuṃ paccayā noupādā cetanā. (1)
+
+3298. Noupādā dhammaṃ paccayā noupādā dhammo uppajjati nakammapaccayā—  noupādā khandhe paccayā sampayuttakā cetanā; bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ…pe…  dve mahābhūte paccayā dve mahābhūtā. (1)
+
+3299. Noupādā dhammaṃ paccayā upādā dhammo uppajjati nakammapaccayā—  bāhire āhārasamuṭṭhāne utusamuṭṭhāne mahābhūte paccayā upādārūpaṃ. (2)
+
+3300. Noupādā dhammaṃ paccayā upādā ca noupādā ca dhammā uppajjanti nakammapaccayā—  bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā upādā ca rūpaṃ…pe…  dve mahābhūte…pe… . (3)
+
+3301. Upādā ca noupādā ca dhammaṃ paccayā noupādā dhammo uppajjati nakammapaccayā—  noupādā khandhe ca vatthuñca paccayā noupādā cetanā. (1)
+
+3302. Navipākapaccayā pañca, naāhārapaccayā tīṇi, naindriyapaccayā tīṇi.
+
+

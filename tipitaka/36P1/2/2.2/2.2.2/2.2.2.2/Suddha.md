@@ -1,0 +1,45 @@
+---
+title:  Suddha
+path: /tipitaka/36P1/2/2.2/2.2.2/2.2.2.2/Suddha
+ref: 262198
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/36P1
+  - name: 2 Kusalattika
+    link: /tipitaka/36P1/2
+  - name: 2.2 Sahajātavāra
+    link: /tipitaka/36P1/2/2.2
+  - name: 2.2.2 Paccayapaccanīya
+    link: /tipitaka/36P1/2/2.2/2.2.2
+  - name: 2.2.2.2 Saṅkhyāvāra
+    link: /tipitaka/36P1/2/2.2/2.2.2/2.2.2.2
+prevL: /tipitaka/36P1/2/2.2/2.2.2/2.2.2.2
+upL: /tipitaka/36P1/2/2.2/2.2.2/2.2.2.2
+nextL: /tipitaka/36P1/2/2.2/2.2.3
+---
+
+# Suddha
+
+### Kusalattika
+
+### Sahajātavāra
+
+### Paccayapaccanīya
+
+### Saṅkhyāvāra
+
+### Suddha
+
+(105.)
+
+414. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+
+===
+
+415. Paccanīyaṃ.
+
+
+
+

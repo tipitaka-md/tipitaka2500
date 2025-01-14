@@ -1,0 +1,63 @@
+---
+title:  Hetu
+path: /tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.1/Hetu
+ref: 264989
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 4 Saññojanagocchaka
+    link: /tipitaka/38P2/4
+  - name: 4.5 Saññojanasaññojanasampayuttaduka
+    link: /tipitaka/38P2/4/4.5
+  - name: 4.5.1 Paṭiccavāra
+    link: /tipitaka/38P2/4/4.5/4.5.1
+  - name: 4.5.1.1 Paccayānuloma
+    link: /tipitaka/38P2/4/4.5/4.5.1/4.5.1.1
+  - name: 4.5.1.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.1
+prevL: /tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.1
+upL: /tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.1
+nextL: /tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.2
+---
+
+# Hetu
+
+### Saññojanagocchaka
+
+### Saññojanasaññojanasampayuttaduka
+
+### Paṭiccavāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Hetu
+
+(100.)
+
+1571. Saññojanañceva saññojanasampayuttañca dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca dhammo uppajjati hetupaccayā—  kāmarāgasaññojanaṃ paṭicca diṭṭhisaññojanaṃ avijjāsaññojanaṃ. (Cakkaṃ.) (1)
+
+1572. Saññojanañceva saññojanasampayuttañca dhammaṃ paṭicca saññojanasampayutto ceva no ca saññojano dhammo uppajjati hetupaccayā—  saññojane paṭicca sampayuttakā khandhā. (2)
+
+1573. Saññojanañceva saññojanasampayuttañca dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca saññojanasampayutto ceva no ca saññojano ca dhammā uppajjanti hetupaccayā—  kāmarāgasaññojanaṃ paṭicca diṭṭhisaññojanaṃ avijjāsaññojanaṃ sampayuttakā ca khandhā. (Cakkaṃ.) (3)
+
+(101.)
+
+1574. Saññojanasampayuttañceva no ca saññojanaṃ dhammaṃ paṭicca saññojanasampayutto ceva no ca saññojano dhammo uppajjati hetupaccayā—  saññojanasampayuttañceva no ca saññojanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+
+1575. Saññojanasampayuttañceva no ca saññojanaṃ dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca dhammo uppajjati hetupaccayā—  saññojanasampayutte ceva no ca saññojane khandhe paṭicca saññojanā (2)
+
+1576. Saññojanasampayuttañceva no ca saññojanaṃ dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca saññojanasampayutto ceva no ca saññojano ca dhammā uppajjanti hetupaccayā—  saññojanasampayuttañceva no ca saññojanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā saññojanā ca…pe…  dve khandhe…pe… . (3)
+
+(102.)
+
+1577. Saññojanañceva saññojanasampayuttañca saññojanasampayuttañceva no ca saññojanañca dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca dhammo uppajjati hetupaccayā—  kāmarāgasaññojanañca sampayuttake ca khandhe paṭicca diṭṭhisaññojanaṃ avijjāsaññojanaṃ. (Cakkaṃ.) (1)
+
+1578. Saññojanañceva saññojanasampayuttañca saññojanasampayuttañceva no ca saññojanañca dhammaṃ paṭicca saññojanasampayutto ceva no ca saññojano dhammo uppajjati hetupaccayā—  saññojanasampayuttañceva no ca saññojanaṃ ekaṃ khandhañca saññojane ca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (2)
+
+1579. Saññojanañceva saññojanasampayuttañca saññojanasampayuttañceva no ca saññojanañca dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca saññojanasampayutto ceva no ca saññojano ca dhammā uppajjanti hetupaccayā—  saññojanasampayuttañceva no ca saññojanaṃ ekaṃ khandhañca kāmarāgasaññojanañca paṭicca tayo khandhā diṭṭhisaññojanaṃ avijjāsaññojanaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
+
+

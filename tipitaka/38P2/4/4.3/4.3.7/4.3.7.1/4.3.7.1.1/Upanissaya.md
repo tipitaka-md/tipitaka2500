@@ -1,0 +1,63 @@
+---
+title:  Upanissaya
+path: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Upanissaya
+ref: 264977
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 4 Saññojanagocchaka
+    link: /tipitaka/38P2/4
+  - name: 4.3 Saññojanasampayuttaduka
+    link: /tipitaka/38P2/4/4.3
+  - name: 4.3.7 Pañhāvāra
+    link: /tipitaka/38P2/4/4.3/4.3.7
+  - name: 4.3.7.1 Paccayānuloma
+    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1
+  - name: 4.3.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
+prevL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Samanantaradi
+upL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
+nextL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Purejata
+---
+
+# Upanissaya
+
+### Saññojanagocchaka
+
+### Saññojanasampayuttaduka
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Upanissaya
+
+(77.)
+
+1507. Saññojanasampayutto dhammo saññojanasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saññojanasampayuttā khandhā saññojanasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)
+
+1508. Saññojanasampayutto dhammo saññojanavippayuttassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saññojanasampayuttā khandhā saññojanavippayuttānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)
+
+1509. Saññojanasampayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saññojanasampayuttā khandhā uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)
+
+(78.)
+
+1510. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti; sīlaṃ…pe…  paññaṃ…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ mohaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti; saddhā…pe…  senāsanaṃ moho ca saddhāya…pe…  phalasamāpattiyā mohassa ca upanissayapaccayena paccayo. (1)
+
+1511. Saññojanavippayutto dhammo saññojanasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  paññaṃ…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ mohaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ moho rāgassa…pe…  patthanāya upanissayapaccayena paccayo. (2)
+
+1512. Saññojanavippayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhā…pe…  paññā…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ moho ca uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)
+
+(79.)
+
+1513. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca saññojanasampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (1)
+
+1514. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanavippayuttassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca saññojanavippayuttānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)
+
+1515. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uddhaccasahagatā khandhā ca moho ca uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)
+
+

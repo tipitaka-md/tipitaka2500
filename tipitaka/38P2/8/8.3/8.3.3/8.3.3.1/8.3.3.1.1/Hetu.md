@@ -1,0 +1,57 @@
+---
+title:  Hetu
+path: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.1/8.3.3.1.1/Hetu
+ref: 265084
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 8 Nīvaraṇagocchaka
+    link: /tipitaka/38P2/8
+  - name: 8.3 Nīvaraṇasampayuttaduka
+    link: /tipitaka/38P2/8/8.3
+  - name: 8.3.3 Paccayavāra
+    link: /tipitaka/38P2/8/8.3/8.3.3
+  - name: 8.3.3.1 Paccayānuloma
+    link: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.1
+  - name: 8.3.3.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.1/8.3.3.1.1
+prevL: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.1/8.3.3.1.1
+upL: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.1/8.3.3.1.1
+nextL: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.1/8.3.3.1.2
+---
+
+# Hetu
+
+### Nīvaraṇagocchaka
+
+### Nīvaraṇasampayuttaduka
+
+### Paccayavāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Hetu
+
+(59.)
+
+2007. Nīvaraṇasampayuttaṃ dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati hetupaccayā…  tīṇi.
+
+2008. Nīvaraṇavippayuttaṃ dhammaṃ paccayā nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇavippayuttaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe…  vatthuṃ paccayā nīvaraṇavippayuttā khandhā. (1)
+
+2009. Nīvaraṇavippayuttaṃ dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati hetupaccayā—  vatthuṃ paccayā nīvaraṇasampayuttā khandhā. (2)
+
+2010. Nīvaraṇavippayuttaṃ dhammaṃ paccayā nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā nīvaraṇasampayuttā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
+
+(60.)
+
+2011. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati hetupaccayā—  nīvaraṇasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
+
+2012. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paccayā nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
+
+2013. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paccayā nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā uppajjanti hetupaccayā—  nīvaraṇasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  nīvaraṇasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
+
+

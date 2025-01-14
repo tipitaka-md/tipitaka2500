@@ -1,0 +1,61 @@
+---
+title:  Hetu-ārammaṇa
+path: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka/Hetu-arammana
+ref: 266060
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
+    link: /tipitaka/39P4
+  - name: 1 Tika, Hetuduka
+    link: /tipitaka/39P4/1
+  - name: 1.10 Ācayagāmittika, Hetuduka
+    link: /tipitaka/39P4/1/1.10
+  - name: 1.10.2 Nahetupada
+    link: /tipitaka/39P4/1/1.10/1.10.2
+  - name: 1.10.2.1--6 Paṭiccādivāra
+    link: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6
+  - name: Paccayacatukka
+    link: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka
+prevL: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka
+upL: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka
+nextL: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka/Nahetu-naarammana
+---
+
+# Hetu-ārammaṇa
+
+### Tika, Hetuduka
+
+### Ācayagāmittika, Hetuduka
+
+### Nahetupada
+
+### Paṭiccādivāra
+
+### Paccayacatukka
+
+### Hetu-ārammaṇa
+
+(138.)
+
+487. Ācayagāmiṃ nahetuṃ dhammaṃ paṭicca ācayagāmī nahetu dhammo uppajjati hetupaccayā. Ācayagāmiṃ nahetuṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī nahetu dhammo uppajjati hetupaccayā. Ācayagāmiṃ nahetuṃ dhammaṃ paṭicca ācayagāmī nahetu ca nevācayagāmināpacayagāmī nahetu ca dhammā uppajjanti hetupaccayā. (3)
+
+488. Apacayagāmiṃ nahetuṃ dhammaṃ paṭicca apacayagāmī nahetu dhammo uppajjati hetupaccayā. Apacayagāmiṃ nahetuṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī nahetu dhammo uppajjati hetupaccayā. Apacayagāmiṃ nahetuṃ dhammaṃ paṭicca apacayagāmī nahetu ca nevācayagāmināpacayagāmī nahetu ca dhammā uppajjanti hetupaccayā. (3)
+
+489. Nevācayagāmināpacayagāmiṃ nahetuṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī nahetu dhammo uppajjati hetupaccayā. (1)
+
+490. Ācayagāmiṃ nahetuñca nevācayagāmināpacayagāmiṃ nahetuñca dhammaṃ paṭicca nevācayagāmināpacayagāmī nahetu dhammo uppajjati hetupaccayā. (1)
+
+491. Apacayagāmiṃ nahetuñca nevācayagāmināpacayagāmiṃ nahetuñca dhammaṃ paṭicca nevācayagāmināpacayagāmī nahetu dhammo uppajjati hetupaccayā. (1)
+
+(139.)
+
+492. Ācayagāmiṃ nahetuṃ dhammaṃ paṭicca ācayagāmī nahetu dhammo uppajjati ārammaṇapaccayā. (1)
+
+493. Apacayagāmiṃ nahetuṃ dhammaṃ paṭicca apacayagāmī nahetu dhammo uppajjati ārammaṇapaccayā. (1)
+
+494. Nevācayagāmināpacayagāmiṃ nahetuṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī nahetu dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+
+495. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+
+

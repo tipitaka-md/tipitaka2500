@@ -1,0 +1,63 @@
+---
+title:  Hetu
+path: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1/Hetu
+ref: 264931
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 3 Āsavagocchaka
+    link: /tipitaka/38P2/3
+  - name: 3.4 Āsavasāsavaduka
+    link: /tipitaka/38P2/3/3.4
+  - name: 3.4.1 Paṭiccavāra
+    link: /tipitaka/38P2/3/3.4/3.4.1
+  - name: 3.4.1.1--4 Paccayānulomādi
+    link: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4
+  - name: 3.4.1.1--4.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1
+prevL: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1
+upL: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1
+nextL: /tipitaka/38P2/3/3.4/3.4.2--6
+---
+
+# Hetu
+
+### Āsavagocchaka
+
+### Āsavasāsavaduka
+
+### Paṭiccavāra
+
+### Paccayānulomādi
+
+### Vibhaṅgavāra
+
+### Hetu
+
+(109.)
+
+1257. Āsavañceva sāsavañca dhammaṃ paṭicca āsavo ceva sāsavo ca dhammo uppajjati hetupaccayā—  kāmāsavaṃ paṭicca diṭṭhāsavo avijjāsavo (cakkaṃ bandhitabbaṃ) bhavāsavaṃ paṭicca avijjāsavo (cakkaṃ bandhitabbaṃ) diṭṭhāsavaṃ paṭicca avijjāsavo. (1)
+
+1258. Āsavañceva sāsavañca dhammaṃ paṭicca sāsavo ceva no ca āsavo dhammo uppajjati hetupaccayā—  āsave paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (2)
+
+1259. Āsavañceva sāsavañca dhammaṃ paṭicca āsavo ceva sāsavo ca sāsavo ceva no ca āsavo ca dhammā uppajjanti hetupaccayā—  kāmāsavaṃ paṭicca diṭṭhāsavo avijjāsavo sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ, bhavāsavaṃ. (Cakkaṃ bandhitabbaṃ.) (3)
+
+(110.)
+
+1260. Sāsavañceva no ca āsavaṃ dhammaṃ paṭicca sāsavo ceva no ca āsavo dhammo uppajjati hetupaccayā—  sāsavañceva no ca āsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… . (1)
+
+1261. Sāsavañceva no ca āsavaṃ dhammaṃ paṭicca āsavo ceva sāsavo ca dhammo uppajjati hetupaccayā—  sāsave ceva no ca āsave khandhe paṭicca āsavā. (2)
+
+1262. Sāsavañceva no ca āsavaṃ dhammaṃ paṭicca āsavo ceva sāsavo ca sāsavo ceva no ca āsavo ca dhammā uppajjanti hetupaccayā—  sāsavañceva no ca āsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā āsavā ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+
+(111.)
+
+1263. Āsavañceva sāsavañca sāsavañceva no ca āsavañca dhammaṃ paṭicca āsavo ceva sāsavo ca dhammo uppajjati hetupaccayā—  kāmāsavañca sampayuttake ca khandhe paṭicca diṭṭhāsavo avijjāsavo. (Evaṃ cakkaṃ bandhitabbaṃ.) (1)
+
+1264. Āsavañceva sāsavañca sāsavañceva no ca āsavañca dhammaṃ paṭicca sāsavo ceva no ca āsavo dhammo uppajjati hetupaccayā—  sāsavañceva no ca āsavaṃ ekaṃ khandhañca āsave ca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (2)
+
+1265. Āsavañceva sāsavañca sāsavañceva no ca āsavañca dhammaṃ paṭicca āsavo ceva sāsavo ca sāsavo ceva no ca āsavo ca dhammā uppajjanti hetupaccayā—  sāsavañceva no ca āsavaṃ ekaṃ khandhañca kāmāsavañca paṭicca tayo khandhā diṭṭhāsavo avijjāsavo cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ. Saṃkhittaṃ.) (3)
+
+

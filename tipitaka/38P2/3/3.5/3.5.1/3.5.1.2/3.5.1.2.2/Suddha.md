@@ -1,0 +1,43 @@
+---
+title:  Suddha
+path: /tipitaka/38P2/3/3.5/3.5.1/3.5.1.2/3.5.1.2.2/Suddha
+ref: 264936
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 3 Āsavagocchaka
+    link: /tipitaka/38P2/3
+  - name: 3.5 Āsavaāsavasampayuttaduka
+    link: /tipitaka/38P2/3/3.5
+  - name: 3.5.1 Paṭiccavāra
+    link: /tipitaka/38P2/3/3.5/3.5.1
+  - name: 3.5.1.2 Paccayapaccanīya
+    link: /tipitaka/38P2/3/3.5/3.5.1/3.5.1.2
+  - name: 3.5.1.2.2 Saṅkhyāvāra
+    link: /tipitaka/38P2/3/3.5/3.5.1/3.5.1.2/3.5.1.2.2
+prevL: /tipitaka/38P2/3/3.5/3.5.1/3.5.1.2/3.5.1.2.2
+upL: /tipitaka/38P2/3/3.5/3.5.1/3.5.1.2/3.5.1.2.2
+nextL: /tipitaka/38P2/3/3.5/3.5.1/3.5.1.3--4
+---
+
+# Suddha
+
+### Āsavagocchaka
+
+### Āsavaāsavasampayuttaduka
+
+### Paṭiccavāra
+
+### Paccayapaccanīya
+
+### Saṅkhyāvāra
+
+### Suddha
+
+(120.)
+
+1292. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava.
+
+

@@ -1,0 +1,28 @@
+---
+title:  Paccayacatukka
+path: /tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka
+ref: 264067
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
+    link: /tipitaka/39P3
+  - name: 1 Hetuduka, Tika
+    link: /tipitaka/39P3/1
+  - name: 1.11 Hetuduka, Sekkhattika
+    link: /tipitaka/39P3/1/1.11
+  - name: 1.11.3 Nevasekkhanāsekkhapada
+    link: /tipitaka/39P3/1/1.11/1.11.3
+  - name: 1.11.3.1--6 Paṭiccādivāra
+    link: /tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6
+prevL: /tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6
+upL: /tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6
+nextL: /tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka/Hetu
+---
+
+# Paccayacatukka
+
+* [Hetu](/tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka/Hetu)
+* [Nahetu-naārammaṇādi](/tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka/Nahetu-naarammanadi)
+
+

@@ -1,0 +1,47 @@
+---
+title:  Adhipati
+path: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Adhipati
+ref: 265713
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 13 Piṭṭhiduka
+    link: /tipitaka/38P2/13
+  - name: 13.13 Arūpāvacaraduka
+    link: /tipitaka/38P2/13/13.13
+  - name: 13.13.7 Pañhāvāra
+    link: /tipitaka/38P2/13/13.13/13.13.7
+  - name: 13.13.7.1 Paccayānuloma
+    link: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1
+  - name: 13.13.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1
+prevL: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Arammana
+upL: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1
+nextL: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Anantaradi
+---
+
+# Adhipati
+
+### Piṭṭhiduka
+
+### Arūpāvacaraduka
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Adhipati
+
+(281.)
+
+4683. Arūpāvacaro dhammo arūpāvacarassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  arūpāvacarādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. Arūpāvacaro dhammo naarūpāvacarassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ākāsānañcāyatanaṃ garuṃ katvā paccavekkhati…pe…  nevasaññānāsaññāyatanaṃ garuṃ katvā paccavekkhati, arūpāvacare khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  arūpāvacarādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (Mūlaṃ kātabbaṃ.) Arūpāvacarādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+
+(282.)
+
+4684. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; pubbe suciṇṇāni…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ…pe…  nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ naarūpāvacare khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  naarūpāvacarādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+
+

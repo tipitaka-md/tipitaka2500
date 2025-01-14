@@ -1,0 +1,43 @@
+---
+title:  Ārammaṇa
+path: /tipitaka/37P1/11/11.1/11.1.1/11.1.1.1/Arammana
+ref: 262995
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
+    link: /tipitaka/37P1
+  - name: 11 Ācayagāmittika
+    link: /tipitaka/37P1/11
+  - name: 11.1 Paṭiccavāra
+    link: /tipitaka/37P1/11/11.1
+  - name: 11.1.1 Paccayānuloma
+    link: /tipitaka/37P1/11/11.1/11.1.1
+  - name: 11.1.1.1 Vibhaṅgavāra
+    link: /tipitaka/37P1/11/11.1/11.1.1/11.1.1.1
+prevL: /tipitaka/37P1/11/11.1/11.1.1/11.1.1.1/Hetu
+upL: /tipitaka/37P1/11/11.1/11.1.1/11.1.1.1
+nextL: /tipitaka/37P1/11/11.1/11.1.1/11.1.1.1/Adhipati
+---
+
+# Ārammaṇa
+
+### Ācayagāmittika
+
+### Paṭiccavāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Ārammaṇa
+
+(4.)
+
+1432. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati ārammaṇapaccayā—  ācayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+
+1433. Apacayagāmiṃ dhammaṃ paṭicca apacayagāmī dhammo uppajjati ārammaṇapaccayā—  apacayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+
+1434. Nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati ārammaṇapaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe…pe…  vatthuṃ paṭicca khandhā. (1)
+
+

@@ -1,0 +1,57 @@
+---
+title:  Ārammaṇa
+path: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1/Arammana
+ref: 264967
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 4 Saññojanagocchaka
+    link: /tipitaka/38P2/4
+  - name: 4.3 Saññojanasampayuttaduka
+    link: /tipitaka/38P2/4/4.3
+  - name: 4.3.3 Paccayavāra
+    link: /tipitaka/38P2/4/4.3/4.3.3
+  - name: 4.3.3.1 Paccayānuloma
+    link: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1
+  - name: 4.3.3.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1
+prevL: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1/Hetu
+upL: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1
+nextL: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1/Adhipatyadi
+---
+
+# Ārammaṇa
+
+### Saññojanagocchaka
+
+### Saññojanasampayuttaduka
+
+### Paccayavāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Ārammaṇa
+
+(53.)
+
+1454. Saññojanasampayuttaṃ dhammaṃ paccayā saññojanasampayutto dhammo uppajjati ārammaṇapaccayā…  tīṇi. (Paṭiccasadisā.)
+
+1455. Saññojanavippayuttaṃ dhammaṃ paccayā saññojanavippayutto dhammo uppajjati ārammaṇapaccayā (yāva paṭisandhi), vatthuṃ paccayā saññojanavippayuttā khandhā, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā saññojanavippayuttā khandhā, vatthuṃ paccayā uddhaccasahagato moho. (1)
+
+1456. Saññojanavippayuttaṃ dhammaṃ paccayā saññojanasampayutto dhammo uppajjati ārammaṇapaccayā—  vatthuṃ paccayā saññojanasampayuttakā khandhā, uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā. (2)
+
+1457. Saññojanavippayuttaṃ dhammaṃ paccayā saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti ārammaṇapaccayā—  vatthuṃ paccayā uddhaccasahagatā khandhā ca moho ca. (3)
+
+(54.)
+
+1458. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanasampayutto dhammo uppajjati ārammaṇapaccayā—  saññojanasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
+
+1459. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanavippayutto dhammo uppajjati ārammaṇapaccayā—  uddhaccasahagate khandhe ca vatthuñca paccayā uddhaccasahagato moho. (2)
+
+1460. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti ārammaṇapaccayā—  uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
+
+

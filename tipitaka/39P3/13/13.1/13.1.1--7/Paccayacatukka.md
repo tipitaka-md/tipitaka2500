@@ -1,0 +1,71 @@
+---
+title:  Paccayacatukka
+path: /tipitaka/39P3/13/13.1/13.1.1--7/Paccayacatukka
+ref: 261768
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
+    link: /tipitaka/39P3
+  - name: 13 Piṭṭhiduka, Kusalattika
+    link: /tipitaka/39P3/13
+  - name: 13.1 Dassanenapahātabbaduka, Kusalattika
+    link: /tipitaka/39P3/13/13.1
+  - name: 13.1.1--7 Paṭiccādivāra
+    link: /tipitaka/39P3/13/13.1/13.1.1--7
+prevL: /tipitaka/39P3/13/13.1/13.1.1--7
+upL: /tipitaka/39P3/13/13.1/13.1.1--7
+nextL: /tipitaka/39P3/13/13.2
+---
+
+# Paccayacatukka
+
+### Piṭṭhiduka, Kusalattika
+
+### Dassanenapahātabbaduka, Kusalattika
+
+### Paṭiccādivāra
+
+### Paccayacatukka
+
+(1.)
+
+2372. Nadassanena pahātabbaṃ kusalaṃ dhammaṃ paṭicca nadassanena pahātabbo kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+
+2373. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+(2.)
+
+2374. Dassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca dassanena pahātabbo akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+
+2375. Hetuyā dve, ārammaṇe dve, adhipatiyā dve…pe…  avigate dve. (Saṃkhittaṃ.)
+
+(3.)
+
+2376. Dassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca dassanena pahātabbo akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe paṭicca vicikicchāsahagato moho. (1)
+
+2377. Nadassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca nadassanena pahātabbo akusalo dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+
+(4.)
+
+2378. Nahetuyā dve, naadhipatiyā dve, napurejāte dve…pe…  nakamme dve, navipāke dve, navippayutte dve. (Saṃkhittaṃ. Sahajātavārepi…pe…  sampayuttavārepi sabbattha vitthāretabbaṃ.)
+
+(5.)
+
+2379. Dassanena pahātabbo akusalo dhammo dassanena pahātabbassa akusalassa dhammassa hetupaccayena paccayo. (1)
+
+2380. Nadassanena pahātabbo akusalo dhammo nadassanena pahātabbassa akusalassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+
+(6.)
+
+2381. Hetuyā dve, ārammaṇe tīṇi (dassane ekaṃ, nadassane dve), adhipatiyā tīṇi (dassanena pahātabbamūlakaṃ ekaṃ, nadassane dve, ārammaṇādhipati, sahajātādhipati, ekārammaṇādhipati), anantare dve (dassanamūlakaṃ ekaṃ, nadassane ekaṃ), samanantare dve, sahajāte dve…pe…  upanissaye tīṇi, āsevane dve, kamme dve, āhāre dve…pe…  sampayutte dve, atthiyā dve, natthiyā dve…pe…  avigate dve. (Saṃkhittaṃ.)
+
+(7.)
+
+2382. Nadassanena pahātabbaṃ abyākataṃ dhammaṃ paṭicca nadassanena pahātabbo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+
+2383. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+
+2384. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+

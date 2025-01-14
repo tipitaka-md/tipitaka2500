@@ -1,0 +1,65 @@
+---
+title:  Hetu
+path: /tipitaka/39P3/6/6.5/6.5.1--7/Paccayacatukka/Hetu
+ref: 264237
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
+    link: /tipitaka/39P3
+  - name: 6 Ganthagocchaka, Kusalattika
+    link: /tipitaka/39P3/6
+  - name: 6.5 Ganthaganthasampayuttaduka, Kusalattika
+    link: /tipitaka/39P3/6/6.5
+  - name: 6.5.1--7 Paṭiccādivāra
+    link: /tipitaka/39P3/6/6.5/6.5.1--7
+  - name: Paccayacatukka
+    link: /tipitaka/39P3/6/6.5/6.5.1--7/Paccayacatukka
+prevL: /tipitaka/39P3/6/6.5/6.5.1--7/Paccayacatukka
+upL: /tipitaka/39P3/6/6.5/6.5.1--7/Paccayacatukka
+nextL: /tipitaka/39P3/6/6.6
+---
+
+# Hetu
+
+### Ganthagocchaka, Kusalattika
+
+### Ganthaganthasampayuttaduka, Kusalattika
+
+### Paṭiccādivāra
+
+### Paccayacatukka
+
+### Hetu
+
+(33.)
+
+1865. Ganthañceva ganthasampayuttañca akusalaṃ dhammaṃ paṭicca gantho ceva ganthasampayutto ca akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+
+(34.)
+
+1866. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+
+1867. Naadhipatiyā nava, napurejāte nava, nakamme tīṇi…pe…  navippayutte nava. (Saṃkhittaṃ.)
+
+1868. (Sahajātavāropi…pe…  sampayuttavāropi paṭiccavārasadisā.)
+
+(35.)
+
+1869. Gantho ceva ganthasampayutto ca akusalo dhammo ganthassa ceva ganthasampayuttassa ca akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+
+(36.)
+
+1870. Hetuyā nava, ārammaṇe nava…pe…  kamme āhāre indriye jhāne tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
+
+(37.)
+
+1871. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+
+1872. Hetupaccayā naārammaṇe nava. (Saṃkhittaṃ.)
+
+1873. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+
+1874. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+

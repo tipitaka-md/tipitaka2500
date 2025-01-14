@@ -1,0 +1,47 @@
+---
+title:  Paccayacatukka
+path: /tipitaka/39P4/7/7.4/7.4.1--7/Paccayacatukka
+ref: 261919
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
+    link: /tipitaka/39P4
+  - name: 7 Kusalattika, Piṭṭhiduka
+    link: /tipitaka/39P4/7
+  - name: 7.4 Kusalattika, Bhāvanāyapahātabbahetukaduka
+    link: /tipitaka/39P4/7/7.4
+  - name: 7.4.1--7 Paṭiccādivāra
+    link: /tipitaka/39P4/7/7.4/7.4.1--7
+prevL: /tipitaka/39P4/7/7.4/7.4.1--7
+upL: /tipitaka/39P4/7/7.4/7.4.1--7
+nextL: /tipitaka/39P4/7/7.5
+---
+
+# Paccayacatukka
+
+### Kusalattika, Piṭṭhiduka
+
+### Kusalattika, Bhāvanāyapahātabbahetukaduka
+
+### Paṭiccādivāra
+
+### Paccayacatukka
+
+(10.)
+
+1552. Akusalaṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca akusalo bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+
+1553. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+
+1554. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+(11.)
+
+1555. Kusalaṃ nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca kusalo nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā.
+
+1556. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
+
+1557. (Sahajātavārepi…pe…  pañhāvārepi vitthāretabbaṃ.)
+
+

@@ -1,0 +1,47 @@
+---
+title:  Ārammaṇa
+path: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Arammana
+ref: 265752
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
+    link: /tipitaka/38P2
+  - name: 13 Piṭṭhiduka
+    link: /tipitaka/38P2/13
+  - name: 13.18 Saraṇaduka
+    link: /tipitaka/38P2/13/13.18
+  - name: 13.18.7 Pañhāvāra
+    link: /tipitaka/38P2/13/13.18/13.18.7
+  - name: 13.18.7.1 Paccayānuloma
+    link: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1
+  - name: 13.18.7.1.1 Vibhaṅgavāra
+    link: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1
+prevL: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Hetu
+upL: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1
+nextL: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Adhipati
+---
+
+# Ārammaṇa
+
+### Piṭṭhiduka
+
+### Saraṇaduka
+
+### Pañhāvāra
+
+### Paccayānuloma
+
+### Vibhaṅgavāra
+
+### Ārammaṇa
+
+(350.)
+
+4814. Saraṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo—  rāgaṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi…pe…  vicikicchā…pe…  uddhaccaṃ…pe…  domanassaṃ uppajjati, diṭṭhiṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati, vicikicchaṃ ārabbha…pe…  uddhaccaṃ ārabbha…pe…  domanassaṃ ārabbha domanassaṃ uppajjati, diṭṭhi…pe…  vicikicchā…pe…  uddhaccaṃ uppajjati. Saraṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo—  ariyā pahīne kilese…pe…  vikkhambhite kilese…pe…  pubbe samudāciṇṇe…pe…  saraṇe khandhe aniccato…pe…  vipassati, cetopariyañāṇena saraṇacittasamaṅgissa cittaṃ jānāti. Saraṇā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
+
+(351.)
+
+4815. Araṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo; dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati, pubbe…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ…pe…  nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Cakkhuṃ…pe…  vatthuṃ araṇe khandhe aniccato…pe…  vipassati, dibbena cakkhunā rūpaṃ passati…pe…  anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. Araṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ, araṇe khandhe assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. (2)
+
+

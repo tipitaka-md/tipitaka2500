@@ -1,0 +1,27 @@
+---
+title:  Paccayacatukka
+path: /tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka
+ref: 261895
+breadcrumbs:
+  - name: Home
+    link: /
+  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
+    link: /tipitaka/39P4
+  - name: 4 Kusalattika, Āsavaparāmāsagocchaka
+    link: /tipitaka/39P4/4
+  - name: 4.1 Kusalattika, Āsavaduka
+    link: /tipitaka/39P4/4/4.1
+  - name: 4.1.1--7 Paṭiccādivāra
+    link: /tipitaka/39P4/4/4.1/4.1.1--7
+prevL: /tipitaka/39P4/4/4.1/4.1.1--7
+upL: /tipitaka/39P4/4/4.1/4.1.1--7
+nextL: /tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka/Hetu
+---
+
+# Paccayacatukka
+
+* [Hetu](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka/Hetu)
+* [Ārammaṇa](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka/Arammana)
+* [Hetu-ārammaṇa](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka/Hetu-arammana)
+
+
