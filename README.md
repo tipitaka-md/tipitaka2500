@@ -90,7 +90,7 @@ This work has been marked as dedicated to the public domain. See the CC0 Deed
 * [Puggalapaññattipāḷi](tipitaka/31Pu.md)
 * [Kathāvatthupāḷi](tipitaka/32Kv.md)
 
-## Yamaka (Y)
+### Yamaka (Y)
 
 * [Mūlayamakapāḷi](tipitaka/33Y1.md)
 * [Khandhayamakapāḷi](tipitaka/33Y2.md)
@@ -103,9 +103,9 @@ This work has been marked as dedicated to the public domain. See the CC0 Deed
 * [Dhammayamakapāḷi](tipitaka/35Y9.md)
 * [Indriyayamakapāḷi](tipitaka/35Y10.md)
 
-## Paṭṭhāna (P)
+### Paṭṭhāna (P)
 
-### Dhammānuloma
+#### Dhammānuloma
 
 * [Tikapaṭṭhānapāḷi](tipitaka/36P1.md)
 * [Tikapaṭṭhānapāḷi](tipitaka/37P1.md)
@@ -115,7 +115,7 @@ This work has been marked as dedicated to the public domain. See the CC0 Deed
 * [Tikatikapaṭṭhānapāḷi](tipitaka/39P5.md)
 * [Dukadukapaṭṭhānapāḷi](tipitaka/39P6.md)
 
-### Dhammapaccanīya
+#### Dhammapaccanīya
 
 * [Tikapaṭṭhānapāḷi](tipitaka/40P7.md)
 * [Dukapaṭṭhānapāḷi](tipitaka/40P8.md)
@@ -124,7 +124,7 @@ This work has been marked as dedicated to the public domain. See the CC0 Deed
 * [Tikatikapaṭṭhānapāḷi](tipitaka/40P11.md)
 * [Dukadukapaṭṭhānapāḷi](tipitaka/40P12.md)
 
-### Dhammānulomapaccanīya
+#### Dhammānulomapaccanīya
 
 * [Tikapaṭṭhānapāḷi](tipitaka/40P13.md)
 * [Dukapaṭṭhānapāḷi](tipitaka/40P14.md)
@@ -133,7 +133,7 @@ This work has been marked as dedicated to the public domain. See the CC0 Deed
 * [Tikatikapaṭṭhānapāḷi](tipitaka/40P17.md)
 * [Dukadukapaṭṭhānapāḷi](tipitaka/40P18.md)
 
-### Dhammapaccanīyānuloma
+#### Dhammapaccanīyānuloma
 
 * [Tikapaṭṭhānapāḷi](tipitaka/40P19.md)
 * [Dukapaṭṭhānapāḷi](tipitaka/40P20.md)
