@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.1 Paccayānuloma](../../2.3.1.md) / [2.3.1.2 Saṅkhyāvāra](../2.3.1.2.md)
 
 # Ārammaṇaduka
 
@@ -17,12 +17,12 @@
 
 504. Ārammaṇapaccayā hetuyā satta, adhipatiyā satta…pe…
 
-===
+---
 
 505. (Ārammaṇamūlakaṃ yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/avisaka_savipaka.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Adhipatiduka.md)
+[Go to previous page (Bāvīsaka (savipāka))](Hetuduka/avisaka_savipaka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (Adhipatiduka)](Adhipatiduka.md)
 
 

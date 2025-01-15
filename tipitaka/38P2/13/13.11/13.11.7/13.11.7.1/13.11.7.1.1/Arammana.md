@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.11 Kāmāvacaraduka](/tipitaka/38P2/13/13.11.md) / [13.11.7 Pañhāvāra](/tipitaka/38P2/13/13.11/13.11.7.md) / [13.11.7.1 Paccayānuloma](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1.md) / [13.11.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.11 Kāmāvacaraduka](../../../../13.11.md) / [13.11.7 Pañhāvāra](../../../13.11.7.md) / [13.11.7.1 Paccayānuloma](../../13.11.7.1.md) / [13.11.7.1.1 Vibhaṅgavāra](../13.11.7.1.1.md)
 
 # Ārammaṇa
 
@@ -27,6 +27,6 @@
 
 4552. Nakāmāvacaro dhammo kāmāvacarassa dhammassa ārammaṇapaccayena paccayo—  jhānā vuṭṭhahitvā jhānaṃ paccavekkhati assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti; phalaṃ…pe…  nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo; ākāsānañcāyatanaṃ paccavekkhati, viññāṇañcāyatanaṃ paccavekkhati, ākiñcaññāyatanaṃ paccavekkhati, nevasaññānāsaññāyatanaṃ paccavekkhati, dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati, iddhividhañāṇaṃ paccavekkhati, cetopariyañāṇaṃ…pe…  pubbenivāsānussatiñāṇaṃ…pe…  yathākammūpagañāṇaṃ…pe…  anāgataṃsañāṇaṃ paccavekkhati, nakāmāvacare khandhe aniccato…pe…  domanassaṃ uppajjati. (2)
 
-[Go to previous page](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.11.7.1.1 Vibhaṅgavāra)](../13.11.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

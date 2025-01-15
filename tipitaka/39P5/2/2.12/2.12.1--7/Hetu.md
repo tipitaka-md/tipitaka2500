@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.12 Parittārammaṇattika, Kusalattika](/tipitaka/39P5/2/2.12.md) / [2.12.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.12/2.12.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.12 Parittārammaṇattika, Kusalattika](../../2.12.md) / [2.12.1--7 Paṭiccādivāra](../2.12.1--7.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 390. Appamāṇārammaṇaṃ abyākataṃ dhammaṃ paṭicca appamāṇārammaṇo abyākato dhammo uppajjati hetupaccayā. (1) (Sabbattha tīṇi. Sabbattha vitthāro.)
 
-[Go to previous page](/tipitaka/39P5/2/2.12/2.12.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.12/2.12.1--7.md) / [Go to next page](/tipitaka/39P5/2/2.13.md)
+[Go to previous page (2.12.1--7 Paṭiccādivāra)](../2.12.1--7.md) / [Go to parent page (2.12.1--7 Paṭiccādivāra)](../2.12.1--7.md) / [Go to next page (2.13 Hīnattika, Kusalattika)](../../2.13.md)
 
 

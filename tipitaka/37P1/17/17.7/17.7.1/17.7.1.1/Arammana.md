@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.7 Pañhāvāra](/tipitaka/37P1/17/17.7.md) / [17.7.1 Paccayānuloma](/tipitaka/37P1/17/17.7/17.7.1.md) / [17.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [17 Maggārammaṇattika](../../../../17.md) / [17.7 Pañhāvāra](../../../17.7.md) / [17.7.1 Paccayānuloma](../../17.7.1.md) / [17.7.1.1 Vibhaṅgavāra](../17.7.1.1.md)
 
 # Ārammaṇa
 
@@ -37,6 +37,6 @@
 
 2508. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (3)
 
-[Go to previous page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md) / [Go to next page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

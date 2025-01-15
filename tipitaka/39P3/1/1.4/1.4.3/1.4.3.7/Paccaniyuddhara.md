@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.4 Hetuduka, Upādinnattika](/tipitaka/39P3/1/1.4.md) / [1.4.3 Anupādinnaanupādāniyapada](/tipitaka/39P3/1/1.4/1.4.3.md) / [1.4.3.7 Pañhāvāra](/tipitaka/39P3/1/1.4/1.4.3/1.4.3.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.4 Hetuduka, Upādinnattika](../../../1.4.md) / [1.4.3 Anupādinnaanupādāniyapada](../../1.4.3.md) / [1.4.3.7 Pañhāvāra](../1.4.3.7.md)
 
 # Paccanīyuddhāra
 
@@ -27,12 +27,12 @@
 
 337. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-===
+---
 
 338. Hetudukaupādinnattikaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/39P3/1/1.4/1.4.3/1.4.3.7/Paccayacatukka/Hetu-arammana.md) / [Go to parent page](/tipitaka/39P3/1/1.4/1.4.3/1.4.3.7.md) / [Go to next page](/tipitaka/39P3/1/1.5.md)
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.4.3.7 Pañhāvāra)](../1.4.3.7.md) / [Go to next page (1.5 Hetuduka, Saṃkiliṭṭhattika)](../../../1.5.md)
 
 

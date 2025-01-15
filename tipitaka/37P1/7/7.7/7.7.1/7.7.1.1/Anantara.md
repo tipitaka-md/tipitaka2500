@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
 
 # Anantara
 
@@ -73,6 +73,6 @@
 
 350. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. Anulomañca vitakko ca gotrabhussa ca vitakkassa ca…  anulomañca vitakko ca vodānassa ca vitakkassa ca…  gotrabhu ca vitakko ca savitakkasavicārassa ca maggassa ca vitakkassa ca…  vodānañca vitakko ca savitakkasavicārassa maggassa ca vitakkassa ca anantarapaccayena paccayo. Savitakkasavicāro maggo ca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  savitakkasavicāraṃ phalañca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  anulomañca vitakko ca savitakkasavicārāya phalasamāpattiyā ca vitakkassa ca anantarapaccayena paccayo. (5)
 
-[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.3 Paccayavāra](/tipitaka/38P2/1/1.2/1.2.3.md) / [1.2.3.2 Paccayapaccanīya](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.2.md) / [1.2.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.2/1.2.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.3 Paccayavāra](../../../1.2.3.md) / [1.2.3.2 Paccayapaccanīya](../../1.2.3.2.md) / [1.2.3.2.1 Vibhaṅgavāra](../1.2.3.2.1.md)
 
 # Nahetu
 
@@ -23,6 +23,6 @@
 
 226. Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.) (1)
 
-[Go to previous page](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.2/1.2.3.2.1.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.2/1.2.3.2.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.2/1.2.3.2.2.md)
+[Go to previous page (1.2.3.2.1 Vibhaṅgavāra)](../1.2.3.2.1.md) / [Go to parent page (1.2.3.2.1 Vibhaṅgavāra)](../1.2.3.2.1.md) / [Go to next page (1.2.3.2.2 Saṅkhyāvāra)](../1.2.3.2.2.md)
 
 

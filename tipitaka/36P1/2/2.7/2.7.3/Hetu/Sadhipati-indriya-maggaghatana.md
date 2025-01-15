@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Hetu](/tipitaka/36P1/2/2.7/2.7.3/Hetu.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Hetu](../Hetu.md)
 
 # Sādhipati-indriya-maggaghaṭanā
 
@@ -27,12 +27,12 @@
 
 1294. Hetādhipati sahajāta nissaya vipāka indriya magga vippayutta atthi avigatanti naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  3]
 
-===
+---
 
 1295. Hetumūlakaṃ.
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Hetu/Saindriya-maggaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Hetu.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Arammana.md)
+[Go to previous page (Saindriya-maggaghaṭanā)](Saindriya-maggaghatana.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Ārammaṇa)](../Arammana.md)
 
 

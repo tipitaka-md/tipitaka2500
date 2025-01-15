@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [9 Dassanenapahātabbattika](../../9.md) / [9.7 Pañhāvāra](../9.7.md)
 
 # Paccanīyuddhāra
 
@@ -45,6 +45,6 @@
 
 1047. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
-[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/9/9.7.md) / [Go to next page](/tipitaka/37P1/9/9.7/9.7.2.md)
+[Go to previous page (Suddha)](9.7.1/9.7.1.2/Suddha.md) / [Go to parent page (9.7 Pañhāvāra)](../9.7.md) / [Go to next page (9.7.2 Paccayapaccanīya)](9.7.2.md)
 
 

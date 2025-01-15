@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.1 Kusalattika, Hetuduka](/tipitaka/39P4/1/1.1.md) / [1.1.1 Hetupada](/tipitaka/39P4/1/1.1/1.1.1.md) / [1.1.1.7 Pañhāvāra](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.1 Kusalattika, Hetuduka](../../../../1.1.md) / [1.1.1 Hetupada](../../../1.1.1.md) / [1.1.1.7 Pañhāvāra](../../1.1.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Anantarādi
 
@@ -31,12 +31,12 @@
 
 30. Abyākato hetu dhammo abyākatassa hetussa dhammassa sahajātapaccayena paccayo. (1)
 
-===
+---
 
 31. (Aññamaññanissayapaccayā sahajātapaccayasadisā.)
 
 
 
-[Go to previous page](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Hetu-arammanadi.md) / [Go to parent page](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Upanissayadi.md)
+[Go to previous page (Hetu-ārammaṇādi)](Hetu-arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Upanissayādi)](Upanissayadi.md)
 
 

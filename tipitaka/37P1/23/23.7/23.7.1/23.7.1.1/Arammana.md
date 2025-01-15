@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.7 Pañhāvāra](/tipitaka/37P1/23/23.7.md) / [23.7.1 Paccayānuloma](/tipitaka/37P1/23/23.7/23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.7 Pañhāvāra](../../../23.7.md) / [23.7.1 Paccayānuloma](../../23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](../23.7.1.1.md)
 
 # Ārammaṇa
 
@@ -23,6 +23,6 @@
 
 3006. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti…pe…  vatthuṃ…  itthindriyaṃ…  purisindriyaṃ…  jīvitindriyaṃ…  āpodhātuṃ…  kabaḷīkāraṃ āhāraṃ…  anidassanaappaṭighe khandhe aniccato…pe…  domanassaṃ uppajjati, cetopariyañāṇena anidassanaappaṭighacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa ārammaṇapaccayena paccayo. Ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  anidassanaappaṭighā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

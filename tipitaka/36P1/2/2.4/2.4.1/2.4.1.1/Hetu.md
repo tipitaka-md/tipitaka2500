@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.4 Nissayavāra](/tipitaka/36P1/2/2.4.md) / [2.4.1 Paccayānuloma](/tipitaka/36P1/2/2.4/2.4.1.md) / [2.4.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.4 Nissayavāra](../../../2.4.md) / [2.4.1 Paccayānuloma](../../2.4.1.md) / [2.4.1.1 Vibhaṅgavāra](../2.4.1.1.md)
 
 # Hetu
 
@@ -39,12 +39,12 @@
 
 676. Akusalañca abyākatañca dhammaṃ nissāya akusalo dhammo uppajjati hetupaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca nissāya tayo khandhā…pe…  dve khandhe ca vatthuñca nissāya dve khandhā. Akusalañca abyākatañca dhammaṃ nissāya abyākato dhammo uppajjati hetupaccayā—  akusale khandhe ca mahābhūte ca nissāya cittasamuṭṭhānaṃ rūpaṃ. Akusalañca abyākatañca dhammaṃ nissāya akusalo ca abyākato ca dhammā uppajjanti hetupaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca nissāya tayo khandhā…pe…  dve khandhe ca vatthuñca nissāya dve khandhā, akusale khandhe ca mahābhūte ca nissāya cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-===
+---
 
 677. (Yathā paccayavāre, evaṃ vitthāretabbaṃ.)
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.1.md) / [Go to parent page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.2.md)
+[Go to previous page (2.4.1.1 Vibhaṅgavāra)](../2.4.1.1.md) / [Go to parent page (2.4.1.1 Vibhaṅgavāra)](../2.4.1.1.md) / [Go to next page (2.4.1.2 Saṅkhyāvāra)](../2.4.1.2.md)
 
 

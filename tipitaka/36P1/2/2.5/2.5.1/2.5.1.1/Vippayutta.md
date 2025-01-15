@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.1 Paccayānuloma](/tipitaka/36P1/2/2.5/2.5.1.md) / [2.5.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.1 Paccayānuloma](../../2.5.1.md) / [2.5.1.1 Vibhaṅgavāra](../2.5.1.1.md)
 
 # Vippayutta
 
@@ -21,6 +21,6 @@
 
 707. Abyākataṃ dhammaṃ…pe…  vatthuṃ vippayuttapaccayā.
 
-[Go to previous page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Aharadi.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Atthyadi.md)
+[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

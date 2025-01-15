@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.21 Sanidassanattika, Kusalattika](/tipitaka/39P5/2/2.21.md) / [2.21.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.21/2.21.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.21 Sanidassanattika, Kusalattika](../../2.21.md) / [2.21.1--7 Paṭiccādivāra](../2.21.1--7.md)
 
 # Hetu
 
@@ -45,6 +45,6 @@
 
 450. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/39P5/2/2.21/2.21.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.21/2.21.1--7.md)
+[Go to previous page (2.21.1--7 Paṭiccādivāra)](../2.21.1--7.md) / [Go to parent page (2.21.1--7 Paṭiccādivāra)](../2.21.1--7.md)
 
 

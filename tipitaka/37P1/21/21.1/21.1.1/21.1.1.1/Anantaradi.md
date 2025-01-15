@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.1 Paṭiccavāra](/tipitaka/37P1/21/21.1.md) / [21.1.1 Paccayānuloma](/tipitaka/37P1/21/21.1/21.1.1.md) / [21.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.1 Paṭiccavāra](../../../21.1.md) / [21.1.1 Paccayānuloma](../../21.1.1.md) / [21.1.1.1 Vibhaṅgavāra](../21.1.1.1.md)
 
 # Anantarādi
 
@@ -19,6 +19,6 @@
 
 2767. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati sahajātapaccayā—  bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. Ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
 
-[Go to previous page](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1.md) / [Go to next page](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Annamannadi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](../21.1.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
 
 

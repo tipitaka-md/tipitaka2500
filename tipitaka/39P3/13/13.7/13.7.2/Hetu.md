@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.7 Sappītikaduka, Kusalattika](/tipitaka/39P3/13/13.7.md) / [13.7.2 Akusalapada](/tipitaka/39P3/13/13.7/13.7.2.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.7 Sappītikaduka, Kusalattika](../../13.7.md) / [13.7.2 Akusalapada](../13.7.2.md)
 
 # Hetu
 
@@ -23,6 +23,6 @@
 
 2491. Hetuyā cha, ārammaṇe cha…pe…  avigate cha. (Saṃkhittaṃ. Kusalasadisaṃ. Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
 
-[Go to previous page](/tipitaka/39P3/13/13.7/13.7.2.md) / [Go to parent page](/tipitaka/39P3/13/13.7/13.7.2.md) / [Go to next page](/tipitaka/39P3/13/13.7/13.7.3.md)
+[Go to previous page (13.7.2 Akusalapada)](../13.7.2.md) / [Go to parent page (13.7.2 Akusalapada)](../13.7.2.md) / [Go to next page (13.7.3 Abyākatapada)](../13.7.3.md)
 
 

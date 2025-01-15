@@ -1,5 +1,5 @@
 
-[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P8.md) / [6 Nahetusahetukaduka](/tipitaka/40P8/6.md) / [6.1--7 Paṭiccādivāra](/tipitaka/40P8/6/6.1--7.md)
+[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](../../../40P8.md) / [6 Nahetusahetukaduka](../../6.md) / [6.1--7 Paṭiccādivāra](../6.1--7.md)
 
 # Ārammaṇa
 
@@ -19,12 +19,12 @@
 
 42. Ārammaṇe cattāri…pe…  anantare cattāri…pe…  sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme…pe…  jhāne cattāri, magge tīṇi, sampayutte dve, vippayutte tīṇi…pe…  avigate satta.
 
-===
+---
 
 43. Hetugocchakaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/40P8/6/6.1--7.md) / [Go to parent page](/tipitaka/40P8/6/6.1--7.md) / [Go to next page](/tipitaka/40P8/7.md)
+[Go to previous page (6.1--7 Paṭiccādivāra)](../6.1--7.md) / [Go to parent page (6.1--7 Paṭiccādivāra)](../6.1--7.md) / [Go to next page (7 Sappaccayaduka)](../../7.md)
 
 

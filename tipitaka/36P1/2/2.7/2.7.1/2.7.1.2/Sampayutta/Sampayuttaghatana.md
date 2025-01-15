@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Sampayutta](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Sampayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Sampayutta](../Sampayutta.md)
 
 # Sampayuttaghaṭanā
 
@@ -21,12 +21,12 @@
 
 1132. Sampayutta sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṃ. [Savipāka—  1]
 
-===
+---
 
 1133. Sampayuttamūlakaṃ.
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Sampayutta/Sampayuttasabhaga.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Sampayutta.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md)
+[Go to previous page (Sampayuttasabhāga)](Sampayuttasabhaga.md) / [Go to parent page (Sampayutta)](../Sampayutta.md) / [Go to next page (Vippayutta)](../Vippayutta.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.5 Āsavaāsavasampayuttaduka](/tipitaka/38P2/3/3.5.md) / [3.5.7 Pañhāvāra](/tipitaka/38P2/3/3.5/3.5.7.md) / [3.5.7.1 Paccayānuloma](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1.md) / [3.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.5 Āsavaāsavasampayuttaduka](../../../../3.5.md) / [3.5.7 Pañhāvāra](../../../3.5.7.md) / [3.5.7.1 Paccayānuloma](../../3.5.7.1.md) / [3.5.7.1.1 Vibhaṅgavāra](../3.5.7.1.1.md)
 
 # Ārammaṇādi
 
@@ -29,6 +29,6 @@
 
 1301. Adhipatipaccayā…  (ārammaṇasadisā, garukārammaṇā) anantarapaccayā…  (ārammaṇasadisāyeva, purimā purimāti kātabbā.) Samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā. (Ārammaṇasadisaṃyeva, vibhajanā natthi…  tīṇi. Upanissayaṃ sabbaṃ kātabbaṃ.)
 
-[Go to previous page](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1/Kammadi.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (3.5.7.1.1 Vibhaṅgavāra)](../3.5.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 
 

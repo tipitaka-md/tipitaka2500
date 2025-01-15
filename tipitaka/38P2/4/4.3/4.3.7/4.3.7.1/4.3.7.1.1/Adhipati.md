@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.7 Pañhāvāra](/tipitaka/38P2/4/4.3/4.3.7.md) / [4.3.7.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.7 Pañhāvāra](../../../4.3.7.md) / [4.3.7.1 Paccayānuloma](../../4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](../4.3.7.1.1.md)
 
 # Adhipati
 
@@ -29,6 +29,6 @@
 
 1496. Saññojanavippayutto dhammo saññojanasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ saññojanavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

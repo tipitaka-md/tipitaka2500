@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [19 Atītattika](/tipitaka/37P1/19.md) / [19.7 Pañhāvāra](/tipitaka/37P1/19/19.7.md) / [19.7.2 Paccayapaccanīya](/tipitaka/37P1/19/19.7/19.7.2.md) / [19.7.2.1 Saṅkhyāvāra](/tipitaka/37P1/19/19.7/19.7.2/19.7.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [19 Atītattika](../../../../19.md) / [19.7 Pañhāvāra](../../../19.7.md) / [19.7.2 Paccayapaccanīya](../../19.7.2.md) / [19.7.2.1 Saṅkhyāvāra](../19.7.2.1.md)
 
 # Suddha
 
@@ -17,12 +17,12 @@
 
 2657. Nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi…pe…  nasampayutte tīṇi, navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve. (Evaṃ gaṇetabbaṃ.)
 
-===
+---
 
 2658. Paccanīyaṃ.
 
 
 
-[Go to previous page](/tipitaka/37P1/19/19.7/19.7.2/19.7.2.1.md) / [Go to parent page](/tipitaka/37P1/19/19.7/19.7.2/19.7.2.1.md) / [Go to next page](/tipitaka/37P1/19/19.7/19.7.3.md)
+[Go to previous page (19.7.2.1 Saṅkhyāvāra)](../19.7.2.1.md) / [Go to parent page (19.7.2.1 Saṅkhyāvāra)](../19.7.2.1.md) / [Go to next page (19.7.3 Paccayānulomapaccanīya)](../../19.7.3.md)
 
 

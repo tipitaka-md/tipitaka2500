@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.1 Sappaccayaduka, Kusalattika](/tipitaka/39P3/3/3.1.md) / [3.1.2 Abyākatapada](/tipitaka/39P3/3/3.1/3.1.2.md) / [3.1.2.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../3.md) / [3.1 Sappaccayaduka, Kusalattika](../../../3.1.md) / [3.1.2 Abyākatapada](../../3.1.2.md) / [3.1.2.1--7 Paṭiccādivāra](../3.1.2.1--7.md)
 
 # Paccanīyuddhāra
 
@@ -27,12 +27,12 @@
 
 1495. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
-===
+---
 
 1496. Sappaccayadukakusalattikaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetvadi.md) / [Go to parent page](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7.md) / [Go to next page](/tipitaka/39P3/3/3.2.md)
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (3.1.2.1--7 Paṭiccādivāra)](../3.1.2.1--7.md) / [Go to next page (3.2 Saṅkhataduka, Kusalattika)](../../../3.2.md)
 
 

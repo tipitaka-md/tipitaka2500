@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.2 Sahajātavāra](/tipitaka/36P1/2/2.2.md) / [2.2.1 Paccayānuloma](/tipitaka/36P1/2/2.2/2.2.1.md) / [2.2.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.2/2.2.1/2.2.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.2 Sahajātavāra](../../../2.2.md) / [2.2.1 Paccayānuloma](../../2.2.1.md) / [2.2.1.1 Vibhaṅgavāra](../2.2.1.1.md)
 
 # Hetu
 
@@ -31,12 +31,12 @@
 
 406. Akusalañca abyākatañca dhammaṃ sahajāto abyākato dhammo uppajjati hetupaccayā—  akusale khandhe ca mahābhūte ca sahajātaṃ cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-===
+---
 
 407. (Yathā paṭiccavāre evaṃ vitthāretabbaṃ.)
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.2/2.2.1/2.2.1.1.md) / [Go to parent page](/tipitaka/36P1/2/2.2/2.2.1/2.2.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.2/2.2.1/2.2.1.2.md)
+[Go to previous page (2.2.1.1 Vibhaṅgavāra)](../2.2.1.1.md) / [Go to parent page (2.2.1.1 Vibhaṅgavāra)](../2.2.1.1.md) / [Go to next page (2.2.1.2 Saṅkhyāvāra)](../2.2.1.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.5.md) / [8.5.7 Pañhāvāra](/tipitaka/38P2/8/8.5/8.5.7.md) / [8.5.7.1 Paccayānuloma](/tipitaka/38P2/8/8.5/8.5.7/8.5.7.1.md) / [8.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.5/8.5.7/8.5.7.1/8.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](../../../../8.5.md) / [8.5.7 Pañhāvāra](../../../8.5.7.md) / [8.5.7.1 Paccayānuloma](../../8.5.7.1.md) / [8.5.7.1.1 Vibhaṅgavāra](../8.5.7.1.1.md)
 
 # Hetu
 
@@ -23,6 +23,6 @@
 
 2109. Nīvaraṇo ceva nīvaraṇasampayutto ca dhammo nīvaraṇassa ceva nīvaraṇasampayuttassa ca nīvaraṇasampayuttassa ceva no ca nīvaraṇassa ca dhammassa hetupaccayena paccayo—  nīvaraṇā ceva nīvaraṇasampayuttā ca hetū sampayuttakānaṃ khandhānaṃ nīvaraṇānañca hetupaccayena paccayo. (3)
 
-[Go to previous page](/tipitaka/38P2/8/8.5/8.5.7/8.5.7.1/8.5.7.1.1.md) / [Go to parent page](/tipitaka/38P2/8/8.5/8.5.7/8.5.7.1/8.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/8/8.5/8.5.7/8.5.7.1/8.5.7.1.1/Arammana.md)
+[Go to previous page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

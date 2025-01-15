@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [14 Parittārammaṇattika](/tipitaka/37P1/14.md) / [14.1 Paṭiccavāra](/tipitaka/37P1/14/14.1.md) / [14.1.1 Paccayānuloma](/tipitaka/37P1/14/14.1/14.1.1.md) / [14.1.1.2 Saṅkhyāvāra](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.2.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [14 Parittārammaṇattika](../../../../14.md) / [14.1 Paṭiccavāra](../../../14.1.md) / [14.1.1 Paccayānuloma](../../14.1.1.md) / [14.1.1.2 Saṅkhyāvāra](../14.1.1.2.md)
 
 # Suddha
 
@@ -17,12 +17,12 @@
 
 2161. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
 
-===
+---
 
 2162. Anulomaṃ.
 
 
 
-[Go to previous page](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.2.md) / [Go to parent page](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.2.md) / [Go to next page](/tipitaka/37P1/14/14.1/14.1.2.md)
+[Go to previous page (14.1.1.2 Saṅkhyāvāra)](../14.1.1.2.md) / [Go to parent page (14.1.1.2 Saṅkhyāvāra)](../14.1.1.2.md) / [Go to next page (14.1.2 Paccayapaccanīya)](../../14.1.2.md)
 
 

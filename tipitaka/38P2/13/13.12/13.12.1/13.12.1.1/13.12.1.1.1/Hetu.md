@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.12 Rūpāvacaraduka](/tipitaka/38P2/13/13.12.md) / [13.12.1 Paṭiccavāra](/tipitaka/38P2/13/13.12/13.12.1.md) / [13.12.1.1 Paccayānuloma](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.1.md) / [13.12.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.1/13.12.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.12 Rūpāvacaraduka](../../../../13.12.md) / [13.12.1 Paṭiccavāra](../../../13.12.1.md) / [13.12.1.1 Paccayānuloma](../../13.12.1.1.md) / [13.12.1.1.1 Vibhaṅgavāra](../13.12.1.1.1.md)
 
 # Hetu
 
@@ -27,6 +27,6 @@
 
 4584. Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca narūpāvacaro dhammo uppajjati hetupaccayā—  rūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (Saṃkhittaṃ.) (3)
 
-[Go to previous page](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.1/13.12.1.1.1.md) / [Go to parent page](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.1/13.12.1.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.1/13.12.1.1.2.md)
+[Go to previous page (13.12.1.1.1 Vibhaṅgavāra)](../13.12.1.1.1.md) / [Go to parent page (13.12.1.1.1 Vibhaṅgavāra)](../13.12.1.1.1.md) / [Go to next page (13.12.1.1.2 Saṅkhyāvāra)](../13.12.1.1.2.md)
 
 

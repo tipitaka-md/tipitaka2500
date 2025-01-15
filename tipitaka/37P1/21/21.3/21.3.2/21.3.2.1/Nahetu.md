@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.3 Paccayavāra](/tipitaka/37P1/21/21.3.md) / [21.3.2 Paccayapaccanīya](/tipitaka/37P1/21/21.3/21.3.2.md) / [21.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.3 Paccayavāra](../../../21.3.md) / [21.3.2 Paccayapaccanīya](../../21.3.2.md) / [21.3.2.1 Vibhaṅgavāra](../21.3.2.1.md)
 
 # Nahetu
 
@@ -19,6 +19,6 @@
 
 2802. Bahiddhā dhammaṃ paccayā bahiddhā dhammo uppajjati nahetupaccayā (pavattipaṭisandhipi mahābhūtāpi kātabbā)—  cakkhāyatanaṃ…pe…  kāyāyatanaṃ…pe…  vatthuṃ paccayā ahetukā bahiddhā khandhā. Vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.1.md) / [Go to parent page](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.1.md) / [Go to next page](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.1/Naarammanadi.md)
+[Go to previous page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to parent page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
 
 

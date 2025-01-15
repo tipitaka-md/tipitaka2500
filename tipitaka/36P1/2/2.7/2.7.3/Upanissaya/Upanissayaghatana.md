@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Upanissaya](/tipitaka/36P1/2/2.7/2.7.3/Upanissaya.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Upanissaya](../Upanissaya.md)
 
 # Upanissayaghaṭanā
 
@@ -29,12 +29,12 @@
 
 1394. Upanissaya anantara samanantara kamma natthi vigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, nanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, noatthiyā ekaṃ, noavigate ekaṃ.
 
-===
+---
 
 1395. Upanissayamūlakaṃ.
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Upanissaya/Upanissayaduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Upanissaya.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Purejata.md)
+[Go to previous page (Upanissayaduka)](Upanissayaduka.md) / [Go to parent page (Upanissaya)](../Upanissaya.md) / [Go to next page (Purejāta)](../Purejata.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.3 Āsavasampayuttaduka, Kusalattika](/tipitaka/39P3/4/4.3.md) / [4.3.3 Abyākatapada](/tipitaka/39P3/4/4.3/4.3.3.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../4.md) / [4.3 Āsavasampayuttaduka, Kusalattika](../../4.3.md) / [4.3.3 Abyākatapada](../4.3.3.md)
 
 # Hetu
 
@@ -33,12 +33,12 @@
 
 1645. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-===
+---
 
 1646. Āsavasampayuttadukakusalattikaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/39P3/4/4.3/4.3.3.md) / [Go to parent page](/tipitaka/39P3/4/4.3/4.3.3.md) / [Go to next page](/tipitaka/39P3/4/4.4.md)
+[Go to previous page (4.3.3 Abyākatapada)](../4.3.3.md) / [Go to parent page (4.3.3 Abyākatapada)](../4.3.3.md) / [Go to next page (4.4 Āsavasāsavaduka, Kusalattika)](../../4.4.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.1 Paṭiccavāra](/tipitaka/37P1/17/17.1.md) / [17.1.2 Paccayapaccanīya](/tipitaka/37P1/17/17.1/17.1.2.md) / [17.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [17 Maggārammaṇattika](../../../../17.md) / [17.1 Paṭiccavāra](../../../17.1.md) / [17.1.2 Paccayapaccanīya](../../17.1.2.md) / [17.1.2.1 Vibhaṅgavāra](../17.1.2.1.md)
 
 # Nakamma
 
@@ -37,6 +37,6 @@
 
 2486. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati nakammapaccayā. (Dutiyaghaṭane tīṇi pañhā.)
 
-[Go to previous page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Naasevana.md) / [Go to parent page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md) / [Go to next page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Navipaka.md)
+[Go to previous page (Naāsevana)](Naasevana.md) / [Go to parent page (17.1.2.1 Vibhaṅgavāra)](../17.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

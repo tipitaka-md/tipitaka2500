@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.2 Saṅkhyāvāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.1 Hetuduka](../../../../1.1.md) / [1.1.7 Pañhāvāra](../../../1.1.7.md) / [1.1.7.1 Paccayānuloma](../../1.1.7.1.md) / [1.1.7.1.2 Saṅkhyāvāra](../1.1.7.1.2.md)
 
 # Suddha
 
@@ -19,7 +19,7 @@
 
 114. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Evaṃ anumajjantena gaṇetabbaṃ.)
 
-===
+---
 
 115. Anulomaṃ.
 
@@ -49,6 +49,6 @@
 
 124. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.2.md)
+[Go to previous page (1.1.7.1.2 Saṅkhyāvāra)](../1.1.7.1.2.md) / [Go to parent page (1.1.7.1.2 Saṅkhyāvāra)](../1.1.7.1.2.md) / [Go to next page (1.1.7.2 Paccayapaccanīya)](../../1.1.7.2.md)
 
 

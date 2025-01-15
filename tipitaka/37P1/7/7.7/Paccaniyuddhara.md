@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [7 Vitakkattika](../../7.md) / [7.7 Pañhāvāra](../7.7.md)
 
 # Paccanīyuddhāra
 
@@ -91,12 +91,12 @@
 
 628. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
 
-===
+---
 
 629. Paccanīyuddhāro.
 
 
 
-[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/7/7.7.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.2.md)
+[Go to previous page (Suddha)](7.7.1/7.7.1.2/Suddha.md) / [Go to parent page (7.7 Pañhāvāra)](../7.7.md) / [Go to next page (7.7.2 Paccayapaccanīya)](7.7.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [6D Sīlakkhandhavaggapāḷi](/tipitaka/6D.md) / [7 Jāliyasutta](/tipitaka/6D/7.md)
+[Home](/) / [6D Sīlakkhandhavaggapāḷi](../../6D.md) / [7 Jāliyasutta](../7.md)
 
 # Dvepabbajitavatthu
 
@@ -23,12 +23,12 @@
 
 628. Idamavoca bhagavā. Attamanā te dve pabbajitā bhagavato bhāsitaṃ abhinandunti.
 
-===
+---
 
 629. Jāliyasuttaṃ niṭṭhitaṃ sattamaṃ.
 
 
 
-[Go to previous page](/tipitaka/6D/7.md) / [Go to parent page](/tipitaka/6D/7.md) / [Go to next page](/tipitaka/6D/8.md)
+[Go to previous page (7 Jāliyasutta)](../7.md) / [Go to parent page (7 Jāliyasutta)](../7.md) / [Go to next page (8 Mahāsīhanādasutta)](../8.md)
 
 

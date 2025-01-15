@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.2 Paccayapaccanīya](/tipitaka/36P1/3/3.1/3.1.2.md) / [3.1.2.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.2 Paccayapaccanīya](../../3.1.2.md) / [3.1.2.2 Saṅkhyāvāra](../3.1.2.2.md)
 
 # Navipākaduka
 
@@ -19,6 +19,6 @@
 
 1845. Navipākapaccayā. (Nakammapaccayasadisaṃ.)
 
-[Go to previous page](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Napacchajatadukadi/Pancaka.md) / [Go to parent page](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2.md) / [Go to next page](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Najhanaduka.md)
+[Go to previous page (Pañcaka)](Napacchajatadukadi/Pancaka.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Najhānaduka)](Najhanaduka.md)
 
 

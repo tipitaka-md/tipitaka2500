@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.10 Upekkhāsahagataduka](/tipitaka/38P2/13/13.10.md) / [13.10.7 Pañhāvāra](/tipitaka/38P2/13/13.10/13.10.7.md) / [13.10.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4.md) / [13.10.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.10 Upekkhāsahagataduka](../../../../13.10.md) / [13.10.7 Pañhāvāra](../../../13.10.7.md) / [13.10.7.1--4 Paccayānulomādi](../../13.10.7.1--4.md) / [13.10.7.1--4.1 Vibhaṅgavāra](../13.10.7.1--4.1.md)
 
 # Upanissaya
 
@@ -27,6 +27,6 @@
 
 4505. Upekkhāsahagato ca naupekkhāsahagato ca dhammā upekkhāsahagatassa dhammassa upanissayapaccayena paccayo…  tīṇi.
 
-[Go to previous page](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Purejata.md)
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](../13.10.7.1--4.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [6D Sīlakkhandhavaggapāḷi](/tipitaka/6D.md) / [10 Subhasutta](/tipitaka/6D/10.md)
+[Home](/) / [6D Sīlakkhandhavaggapāḷi](../../6D.md) / [10 Subhasutta](../10.md)
 
 # Subhamāṇavavatthu
 
@@ -35,6 +35,6 @@
 
 776. “Tiṇṇaṃ kho, māṇava, khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesi. Katamesaṃ tiṇṇaṃ? Ariyassa sīlakkhandhassa, ariyassa samādhikkhandhassa, ariyassa paññākkhandhassa. Imesaṃ kho, māṇava, tiṇṇaṃ khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī”ti.
 
-[Go to previous page](/tipitaka/6D/10.md) / [Go to parent page](/tipitaka/6D/10.md) / [Go to next page](/tipitaka/6D/10/10.1.md)
+[Go to previous page (10 Subhasutta)](../10.md) / [Go to parent page (10 Subhasutta)](../10.md) / [Go to next page (10.1 Sīlakkhandha)](10.1.md)
 
 

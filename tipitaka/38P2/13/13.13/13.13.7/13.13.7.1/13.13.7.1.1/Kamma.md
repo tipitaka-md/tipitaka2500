@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.7 Pañhāvāra](/tipitaka/38P2/13/13.13/13.13.7.md) / [13.13.7.1 Paccayānuloma](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.13 Arūpāvacaraduka](../../../../13.13.md) / [13.13.7 Pañhāvāra](../../../13.13.7.md) / [13.13.7.1 Paccayānuloma](../../13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](../13.13.7.1.1.md)
 
 # Kamma
 
@@ -21,6 +21,6 @@
 
 4694. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  naarūpāvacarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (Saṃkhittaṃ.) (1)
 
-[Go to previous page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Purejata.md) / [Go to parent page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Vipakadi.md)
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 
 

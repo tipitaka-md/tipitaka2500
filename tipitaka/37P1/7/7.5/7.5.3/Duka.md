@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.5 Saṃsaṭṭhavāra](/tipitaka/37P1/7/7.5.md) / [7.5.3 Paccayānulomapaccanīya](/tipitaka/37P1/7/7.5/7.5.3.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [7 Vitakkattika](../../../7.md) / [7.5 Saṃsaṭṭhavāra](../../7.5.md) / [7.5.3 Paccayānulomapaccanīya](../7.5.3.md)
 
 # Duka
 
@@ -15,12 +15,12 @@
 
 266. Hetupaccayā naadhipatiyā ekādasa…pe…  navippayutte ekādasa. (Saṃkhittaṃ.)
 
-===
+---
 
 267. Anulomapaccanīyaṃ.
 
 
 
-[Go to previous page](/tipitaka/37P1/7/7.5/7.5.3.md) / [Go to parent page](/tipitaka/37P1/7/7.5/7.5.3.md) / [Go to next page](/tipitaka/37P1/7/7.5/7.5.4.md)
+[Go to previous page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to parent page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to next page (7.5.4 Paccayapaccanīyānuloma)](../7.5.4.md)
 
 

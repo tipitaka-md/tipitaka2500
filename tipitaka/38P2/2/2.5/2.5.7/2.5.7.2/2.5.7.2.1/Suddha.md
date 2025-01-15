@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.2 Paccayapaccanīya](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.2.md) / [2.5.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.2/2.5.7.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.7 Pañhāvāra](../../../2.5.7.md) / [2.5.7.2 Paccayapaccanīya](../../2.5.7.2.md) / [2.5.7.2.1 Saṅkhyāvāra](../2.5.7.2.1.md)
 
 # Suddha
 
@@ -19,12 +19,12 @@
 
 846. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte cha, naaññamaññe cha, nanissaye cha, naupanissaye satta, napurejāte satta…pe…  namagge satta, nasampayutte cha, navippayutte pañca, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
 
-===
+---
 
 847. Paccanīyaṃ.
 
 
 
-[Go to previous page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.2/2.5.7.2.1.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.2/2.5.7.2.1.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.3.md)
+[Go to previous page (2.5.7.2.1 Saṅkhyāvāra)](../2.5.7.2.1.md) / [Go to parent page (2.5.7.2.1 Saṅkhyāvāra)](../2.5.7.2.1.md) / [Go to next page (2.5.7.3 Paccayānulomapaccanīya)](../../2.5.7.3.md)
 
 

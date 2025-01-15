@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.2 Paccayapaccanīya](/tipitaka/37P1/7/7.1/7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.2 Paccayapaccanīya](../../7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](../7.1.2.1.md)
 
 # Napurejāta
 
@@ -45,6 +45,6 @@
 
 167. (Napurejātamūlake yathā suddhikaṃ arūpaṃ, tathā arūpā kātabbā.)
 
-[Go to previous page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naanantaradi.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Napacchajatadi.md)
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 
 

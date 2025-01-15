@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.7 Pañhāvāra](../../../12.7.md) / [12.7.1 Paccayānuloma](../../12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](../12.7.1.1.md)
 
 # Vipāka
 
@@ -21,6 +21,6 @@
 
 1826. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa vipākapaccayena paccayo—  vipāko nevasekkhanāsekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Kamma.md) / [Go to parent page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Aharadi.md)
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../12.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 
 

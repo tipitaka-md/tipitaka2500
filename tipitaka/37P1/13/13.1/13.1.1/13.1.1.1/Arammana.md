@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.1 Paṭiccavāra](/tipitaka/37P1/13/13.1.md) / [13.1.1 Paccayānuloma](/tipitaka/37P1/13/13.1/13.1.1.md) / [13.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.1 Paṭiccavāra](../../../13.1.md) / [13.1.1 Paccayānuloma](../../13.1.1.md) / [13.1.1.1 Vibhaṅgavāra](../13.1.1.1.md)
 
 # Ārammaṇa
 
@@ -25,6 +25,6 @@
 
 1883. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
-[Go to previous page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

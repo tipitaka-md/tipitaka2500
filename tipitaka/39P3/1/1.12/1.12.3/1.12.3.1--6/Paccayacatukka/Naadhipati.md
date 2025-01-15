@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.12 Hetuduka, Parittattika](/tipitaka/39P3/1/1.12.md) / [1.12.3 Appamāṇapada](/tipitaka/39P3/1/1.12/1.12.3.md) / [1.12.3.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.12/1.12.3/1.12.3.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.12/1.12.3/1.12.3.1--6/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.12 Hetuduka, Parittattika](../../../../1.12.md) / [1.12.3 Appamāṇapada](../../../1.12.3.md) / [1.12.3.1--6 Paṭiccādivāra](../../1.12.3.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Naadhipati
 
@@ -29,6 +29,6 @@
 
 802. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page](/tipitaka/39P3/1/1.12/1.12.3/1.12.3.1--6/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/1/1.12/1.12.3/1.12.3.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.12/1.12.3/1.12.3.7.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.12.3.7 Pañhāvāra)](../../1.12.3.7.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](/tipitaka/18Sn.md) / [5 Pārāyanavagga](/tipitaka/18Sn/5.md)
+[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # Pārāyanānugītigāthā
 
@@ -161,13 +161,13 @@ _Addhā gamissāmi na mettha kaṅkhā,_
 _Evaṃ maṃ dhārehi adhimuttacittan”ti. (19)_  
 
 
-===
+---
 
 1360. Pārāyanavaggo pañcamo.
 
 
 
-===
+---
 
 1361. Suttuddānaṃ
 
@@ -347,12 +347,12 @@ _Tassa sunibbutadassanahetuṃ,_
 _Desayi suttavaraṃ dvipadaggoti._  
 
 
-===
+---
 
 1383. Suttanipātapāḷi samattā.
 
 
 
-[Go to previous page](/tipitaka/18Sn/5/Parayanatthutigatha.md) / [Go to parent page](/tipitaka/18Sn/5.md)
+[Go to previous page (Pārāyanatthutigāthā)](Parayanatthutigatha.md) / [Go to parent page (5 Pārāyanavagga)](../5.md)
 
 

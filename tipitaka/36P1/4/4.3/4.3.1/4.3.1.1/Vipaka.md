@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.1 Paccayānuloma](/tipitaka/36P1/4/4.3/4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.3 Paccayavāra](../../../4.3.md) / [4.3.1 Paccayānuloma](../../4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](../4.3.1.1.md)
 
 # Vipāka
 
@@ -19,12 +19,12 @@
 
 2220. Nevavipākanavipākadhammadhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati vipākapaccayā—  ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  dve mahābhūte paccayā dve mahābhūtā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ…pe…  vipāko ca ubhayañca…  tīṇi.
 
-===
+---
 
 2221. Vipākañca nevavipākanavipākadhammadhammañca…  tīṇi.
 
 
 
-[Go to previous page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Kamma.md) / [Go to parent page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Aharadi.md)
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 
 

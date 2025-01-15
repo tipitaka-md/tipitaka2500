@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.7 Pañhāvāra](/tipitaka/38P2/13/13.15/13.15.7.md) / [13.15.7.1 Paccayānuloma](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.7 Pañhāvāra](../../../13.15.7.md) / [13.15.7.1 Paccayānuloma](../../13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](../13.15.7.1.1.md)
 
 # Upanissaya
 
@@ -23,6 +23,6 @@
 
 4753. Aniyyāniko dhammo aniyyānikassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  aniyyānikaṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ karoti, jhānaṃ uppādeti…  vipassanaṃ…  abhiññaṃ…  samāpattiṃ uppādeti…  mānaṃ jappeti…  diṭṭhiṃ gaṇhāti; aniyyānikaṃ sīlaṃ…pe…  paññaṃ…  rāgaṃ…pe…  patthanaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, pāṇaṃ hanati…pe…  saṃghaṃ bhindati; aniyyānikā saddhā…pe…  senāsanaṃ aniyyānikāya saddhāya…pe…  patthanāya…  kāyikassa sukhassa…  kāyikassa dukkhassa…  phalasamāpattiyā upanissayapaccayena paccayo. Aniyyāniko dhammo niyyānikassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamassa maggassa parikammaṃ paṭhamassa maggassa upanissayapaccayena paccayo…pe…  catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (2)
 
-[Go to previous page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Purejatadi.md)
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.2 Paccayapaccanīya](/tipitaka/36P1/5/5.1/5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.1 Paṭiccavāra](../../../5.1.md) / [5.1.2 Paccayapaccanīya](../../5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](../5.1.2.1.md)
 
 # Nakamma
 
@@ -19,6 +19,6 @@
 
 2493. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca anupādinnaanupādāniyo dhammo uppajjati nakammapaccayā—  kusale anupādinnaanupādāniye khandhe paṭicca anupādinnaanupādāniyā cetanā. (2)
 
-[Go to previous page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Naanantaradi.md) / [Go to parent page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md) / [Go to next page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Navipaka.md)
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

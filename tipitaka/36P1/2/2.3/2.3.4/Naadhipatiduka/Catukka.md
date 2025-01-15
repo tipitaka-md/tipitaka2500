@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.3/2.3.4.md) / [Naadhipatiduka](/tipitaka/36P1/2/2.3/2.3.4/Naadhipatiduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.4 Paccayapaccanīyānuloma](../../2.3.4.md) / [Naadhipatiduka](../Naadhipatiduka.md)
 
 # Catukka
 
@@ -15,6 +15,6 @@
 
 638. Naadhipatipaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-[Go to previous page](/tipitaka/36P1/2/2.3/2.3.4/Naadhipatiduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.4/Naadhipatiduka.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.4/Naanantaradukadi.md)
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Naadhipatiduka)](../Naadhipatiduka.md) / [Go to next page (Naanantaradukādi)](../Naanantaradukadi.md)
 
 

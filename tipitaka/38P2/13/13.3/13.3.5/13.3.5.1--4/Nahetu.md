@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.3 Dassanenapahātabbahetukaduka](/tipitaka/38P2/13/13.3.md) / [13.3.5 Saṃsaṭṭhavāra](/tipitaka/38P2/13/13.3/13.3.5.md) / [13.3.5.1--4 Paccayacatukka](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../13.md) / [13.3 Dassanenapahātabbahetukaduka](../../../13.3.md) / [13.3.5 Saṃsaṭṭhavāra](../../13.3.5.md) / [13.3.5.1--4 Paccayacatukka](../13.3.5.1--4.md)
 
 # Nahetu
 
@@ -21,12 +21,12 @@
 
 4219. Nahetuyā dve, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṃ, namagge ekaṃ, navippayutte cha.
 
-===
+---
 
 4220. Paccanīyaṃ.
 
 
 
-[Go to previous page](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Arammana.md) / [Go to parent page](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to next page](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Hetuduka.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to next page (Hetuduka)](Hetuduka.md)
 
 

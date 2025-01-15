@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.1 Paccayānuloma](/tipitaka/36P1/5/5.1/5.1.1.md) / [5.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.1 Paṭiccavāra](../../../5.1.md) / [5.1.1 Paccayānuloma](../../5.1.1.md) / [5.1.1.1 Vibhaṅgavāra](../5.1.1.1.md)
 
 # Anantarādi
 
@@ -27,6 +27,6 @@
 
 2457. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo…pe… . (1)
 
-[Go to previous page](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Adhipati.md) / [Go to parent page](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Annamanna.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
 
 

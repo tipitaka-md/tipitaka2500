@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.3 Paccayavāra](/tipitaka/37P1/13/13.3.md) / [13.3.2 Paccayapaccanīya](/tipitaka/37P1/13/13.3/13.3.2.md) / [13.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.3 Paccayavāra](../../../13.3.md) / [13.3.2 Paccayapaccanīya](../../13.3.2.md) / [13.3.2.1 Vibhaṅgavāra](../13.3.2.1.md)
 
 # Naadhipati
 
@@ -43,6 +43,6 @@
 
 1987. Parittañca mahaggatañca dhammaṃ paccayā paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā—  vipākaṃ mahaggataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  vipāke mahaggate khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe vipākaṃ mahaggataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  vipāke mahaggate khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)
 
-[Go to previous page](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.1/Naarammana.md) / [Go to parent page](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.1.md) / [Go to next page](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.1/Naanantaradi.md)
+[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (13.3.2.1 Vibhaṅgavāra)](../13.3.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
 
 

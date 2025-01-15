@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [18 Uppannattika](/tipitaka/37P1/18.md) / [18.7 Pañhāvāra](/tipitaka/37P1/18/18.7.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [18 Uppannattika](../../18.md) / [18.7 Pañhāvāra](../18.7.md)
 
 # Paccanīyuddhāra
 
@@ -17,6 +17,6 @@
 
 2621. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/18/18.7.md) / [Go to next page](/tipitaka/37P1/18/18.7/18.7.2.md)
+[Go to previous page (Suddha)](18.7.1/18.7.1.2/Suddha.md) / [Go to parent page (18.7 Pañhāvāra)](../18.7.md) / [Go to next page (18.7.2 Paccayapaccanīya)](18.7.2.md)
 
 

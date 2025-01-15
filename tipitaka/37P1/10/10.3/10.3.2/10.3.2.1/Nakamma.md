@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.3 Paccayavāra](/tipitaka/37P1/10/10.3.md) / [10.3.2 Paccayapaccanīya](/tipitaka/37P1/10/10.3/10.3.2.md) / [10.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.3 Paccayavāra](../../../10.3.md) / [10.3.2 Paccayapaccanīya](../../10.3.2.md) / [10.3.2.1 Vibhaṅgavāra](../10.3.2.1.md)
 
 # Nakamma
 
@@ -31,6 +31,6 @@
 
 1226. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā bhāvanāya pahātabbahetuko dhammo uppajjati nakammapaccayā—  bhāvanāya pahātabbahetuke khandhe ca vatthuñca paccayā bhāvanāya pahātabbahetukā cetanā; uddhaccasahagate khandhe ca mohañca paccayā sampayuttakā cetanā. (1)
 
-[Go to previous page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Naadhipatyadi.md) / [Go to parent page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1.md) / [Go to next page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Navipakadi.md)
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (10.3.2.1 Vibhaṅgavāra)](../10.3.2.1.md) / [Go to next page (Navipākādi)](Navipakadi.md)
 
 

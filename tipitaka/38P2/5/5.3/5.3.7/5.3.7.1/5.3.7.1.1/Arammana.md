@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.7 Pañhāvāra](/tipitaka/38P2/5/5.3/5.3.7.md) / [5.3.7.1 Paccayānuloma](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1.md) / [5.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.3 Ganthasampayuttaduka](../../../../5.3.md) / [5.3.7 Pañhāvāra](../../../5.3.7.md) / [5.3.7.1 Paccayānuloma](../../5.3.7.1.md) / [5.3.7.1.1 Vibhaṅgavāra](../5.3.7.1.1.md)
 
 # Ārammaṇa
 
@@ -31,6 +31,6 @@
 
 1781. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa dhammassa ārammaṇapaccayena paccayo—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca domanassasahagate khandhe ca paṭighañca ārabbha ganthasampayuttakā khandhā uppajjanti. (Mūlaṃ pucchitabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca domanassasahagate khandhe ca paṭighañca ārabbha ganthavippayuttā khandhā uppajjanti, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca domanassasahagate khandhe ca paṭighañca ārabbha diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca uppajjanti. (3)
 
-[Go to previous page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../5.3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

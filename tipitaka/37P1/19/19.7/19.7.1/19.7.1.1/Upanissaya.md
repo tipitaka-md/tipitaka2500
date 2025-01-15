@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [19 Atītattika](/tipitaka/37P1/19.md) / [19.7 Pañhāvāra](/tipitaka/37P1/19/19.7.md) / [19.7.1 Paccayānuloma](/tipitaka/37P1/19/19.7/19.7.1.md) / [19.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [19 Atītattika](../../../../19.md) / [19.7 Pañhāvāra](../../../19.7.md) / [19.7.1 Paccayānuloma](../../19.7.1.md) / [19.7.1.1 Vibhaṅgavāra](../19.7.1.1.md)
 
 # Upanissaya
 
@@ -21,6 +21,6 @@
 
 2641. Paccuppanno dhammo paccuppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paccuppannaṃ utuṃ upanissāya jhānaṃ uppādeti, vipassanaṃ…pe…  paccuppannaṃ bhojanaṃ senāsanaṃ upanissāya jhānaṃ uppādeti…pe…  samāpattiṃ uppādeti. Paccuppannaṃ utu…  bhojanaṃ…  senāsanaṃ paccuppannāya saddhāya…pe…  paññāya kāyikassa…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Sahajatadi.md) / [Go to parent page](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1.md) / [Go to next page](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Purejata.md)
+[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

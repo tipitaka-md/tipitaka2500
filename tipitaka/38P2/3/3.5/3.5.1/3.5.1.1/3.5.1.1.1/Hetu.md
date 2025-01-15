@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.5 Āsavaāsavasampayuttaduka](/tipitaka/38P2/3/3.5.md) / [3.5.1 Paṭiccavāra](/tipitaka/38P2/3/3.5/3.5.1.md) / [3.5.1.1 Paccayānuloma](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1.md) / [3.5.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1/3.5.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.5 Āsavaāsavasampayuttaduka](../../../../3.5.md) / [3.5.1 Paṭiccavāra](../../../3.5.1.md) / [3.5.1.1 Paccayānuloma](../../3.5.1.1.md) / [3.5.1.1.1 Vibhaṅgavāra](../3.5.1.1.1.md)
 
 # Hetu
 
@@ -39,12 +39,12 @@
 
 1287. Āsavañceva āsavasampayuttañca āsavasampayuttañceva no ca āsavañca dhammaṃ paṭicca āsavo ceva āsavasampayutto ca āsavasampayutto ceva no ca āsavo ca dhammā uppajjanti hetupaccayā—  āsavasampayuttañceva no ca āsavaṃ ekaṃ khandhañca kāmāsavañca paṭicca tayo khandhā diṭṭhāsavo avijjāsavo…pe…  dve khandhe…pe… . (3)
 
-===
+---
 
 1288. (Cakkaṃ. Evaṃ sabbe paccayā kātabbā.)
 
 
 
-[Go to previous page](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1/3.5.1.1.1.md) / [Go to parent page](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1/3.5.1.1.1.md) / [Go to next page](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1/3.5.1.1.2.md)
+[Go to previous page (3.5.1.1.1 Vibhaṅgavāra)](../3.5.1.1.1.md) / [Go to parent page (3.5.1.1.1 Vibhaṅgavāra)](../3.5.1.1.1.md) / [Go to next page (3.5.1.1.2 Saṅkhyāvāra)](../3.5.1.1.2.md)
 
 

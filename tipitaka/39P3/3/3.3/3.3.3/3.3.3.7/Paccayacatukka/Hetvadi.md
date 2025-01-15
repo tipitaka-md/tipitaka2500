@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.3 Sanidassanaduka, Kusalattika](/tipitaka/39P3/3/3.3.md) / [3.3.3 Abyākatapada](/tipitaka/39P3/3/3.3/3.3.3.md) / [3.3.3.7 Pañhāvāra](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.3 Sanidassanaduka, Kusalattika](../../../../3.3.md) / [3.3.3 Abyākatapada](../../../3.3.3.md) / [3.3.3.7 Pañhāvāra](../../3.3.3.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetvādi
 
@@ -35,7 +35,7 @@
 
 1514. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā tīṇi, anantare ekaṃ…pe…  sahajāte tīṇi, aññamaññe ekaṃ, nissaye tīṇi, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi (sabbattha tīṇi) sampayutte ekaṃ, vippayutte tīṇi, atthiyā pañca, natthiyā ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ.)
 
-===
+---
 
 1515. Sanidassanadukakusalattikaṃ niṭṭhitaṃ.
 
@@ -44,6 +44,6 @@
 
 
 
-[Go to previous page](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/3/3.4.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.4 Sappaṭighaduka, Kusalattika)](../../../../3.4.md)
 
 

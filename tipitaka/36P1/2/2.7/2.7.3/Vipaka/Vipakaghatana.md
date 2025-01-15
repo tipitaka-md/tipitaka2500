@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Vipāka](/tipitaka/36P1/2/2.7/2.7.3/Vipaka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Vipāka](../Vipaka.md)
 
 # Vipākaghaṭanā
 
@@ -25,12 +25,12 @@
 
 1429. Vipāka sahajāta aññamañña nissaya vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
 
-===
+---
 
 1430. Vipākamūlakaṃ.
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Vipaka/Vipakaduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Vipaka.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Ahara.md)
+[Go to previous page (Vipākaduka)](Vipakaduka.md) / [Go to parent page (Vipāka)](../Vipaka.md) / [Go to next page (Āhāra)](../Ahara.md)
 
 

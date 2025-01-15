@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.1 Paccayānuloma](../../2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](../2.1.1.1.md)
 
 # Adhipati
 
@@ -25,6 +25,6 @@
 
 131. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati adhipatipaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Arammana.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Anantara-samanantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 
 

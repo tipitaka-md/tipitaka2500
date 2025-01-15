@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.3 Sanidassanaduka](/tipitaka/38P2/2/2.3.md) / [2.3.7 Pañhāvāra](/tipitaka/38P2/2/2.3/2.3.7.md) / [2.3.7.1 Paccayānuloma](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1.md) / [2.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1/2.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.3 Sanidassanaduka](../../../../2.3.md) / [2.3.7 Pañhāvāra](../../../2.3.7.md) / [2.3.7.1 Paccayānuloma](../../2.3.7.1.md) / [2.3.7.1.1 Vibhaṅgavāra](../2.3.7.1.1.md)
 
 # Purejāta
 
@@ -23,6 +23,6 @@
 
 628. Sanidassano ca anidassano ca dhammā anidassanassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Rūpāyatanañca vatthu ca anidassanānaṃ khandhānaṃ purejātapaccayena paccayo; rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa purejātapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1/2.3.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1/2.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1/2.3.7.1.1/Pacchajata.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 
 

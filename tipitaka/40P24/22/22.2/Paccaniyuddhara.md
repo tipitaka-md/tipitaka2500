@@ -1,5 +1,5 @@
 
-[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](/tipitaka/40P24/22.md) / [22.2 Anuttarapada](/tipitaka/40P24/22/22.2.md)
+[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](../../../40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](../../22.md) / [22.2 Anuttarapada](../22.2.md)
 
 # Paccanīyuddhāra
 
@@ -23,24 +23,24 @@
 
 200. Anulomadukatikapaṭṭhānato paṭṭhāya yāva pariyosānā tiṃsamattehi bhāṇavārehi paṭṭhānaṃ.
 
-===
+---
 
 201. Dhammapaccanīyānulome dukadukapaṭṭhānaṃ niṭṭhitaṃ.
 
 
 
-===
+---
 
 202. Paccanīyānulomapaṭṭhānaṃ niṭṭhitaṃ.
 
 
 
-===
+---
 
 203. Paṭṭhānapakaraṇaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/40P24/22/22.2/Hetu-anantara.md) / [Go to parent page](/tipitaka/40P24/22/22.2.md)
+[Go to previous page (Hetu-anantara)](Hetu-anantara.md) / [Go to parent page (22.2 Anuttarapada)](../22.2.md)
 
 

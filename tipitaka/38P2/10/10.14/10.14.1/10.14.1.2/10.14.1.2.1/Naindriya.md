@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.14 Upādinnaduka](/tipitaka/38P2/10/10.14.md) / [10.14.1 Paṭiccavāra](/tipitaka/38P2/10/10.14/10.14.1.md) / [10.14.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2.md) / [10.14.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.14 Upādinnaduka](../../../../10.14.md) / [10.14.1 Paṭiccavāra](../../../10.14.1.md) / [10.14.1.2 Paccayapaccanīya](../../10.14.1.2.md) / [10.14.1.2.1 Vibhaṅgavāra](../10.14.1.2.1.md)
 
 # Naindriya
 
@@ -21,6 +21,6 @@
 
 3403. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
 
-[Go to previous page](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Naahara.md) / [Go to parent page](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Najhanadi.md)
+[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
 
 

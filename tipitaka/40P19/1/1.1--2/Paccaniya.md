@@ -1,10 +1,10 @@
 
-[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P19.md) / [1 Kusalattika](/tipitaka/40P19/1.md) / [1.1--2 Paṭiccādivāra](/tipitaka/40P19/1/1.1--2.md)
+[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](../../../40P19.md) / [1 Kusalattika](../../1.md) / [1.1--2 Paṭiccādivāra](../1.1--2.md)
 
 # Paccanīya
 
-* [Nahetu-naārammaṇa](/tipitaka/40P19/1/1.1--2/Paccaniya/Nahetu-naarammana.md)
+* [Nahetu-naārammaṇa](Paccaniya/Nahetu-naarammana.md)
 
-[Go to previous page](/tipitaka/40P19/1/1.1--2/Paccayacatukka/Hetu-arammana.md) / [Go to parent page](/tipitaka/40P19/1/1.1--2.md) / [Go to next page](/tipitaka/40P19/1/1.1--2/Paccaniya/Nahetu-naarammana.md)
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.1--2 Paṭiccādivāra)](../1.1--2.md) / [Go to next page (Nahetu-naārammaṇa)](Paccaniya/Nahetu-naarammana.md)
 
 

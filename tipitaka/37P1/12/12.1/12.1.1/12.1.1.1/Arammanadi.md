@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.1 Paṭiccavāra](/tipitaka/37P1/12/12.1.md) / [12.1.1 Paccayānuloma](/tipitaka/37P1/12/12.1/12.1.1.md) / [12.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.1 Paṭiccavāra](../../../12.1.md) / [12.1.1 Paccayānuloma](../../12.1.1.md) / [12.1.1.1 Vibhaṅgavāra](../12.1.1.1.md)
 
 # Ārammaṇādi
 
@@ -27,6 +27,6 @@
 
 1669. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā—  asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Aharadi.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.1.1.1 Vibhaṅgavāra)](../12.1.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 
 

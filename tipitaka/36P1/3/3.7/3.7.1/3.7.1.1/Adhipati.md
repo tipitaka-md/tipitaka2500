@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.7 Pañhāvāra](../../../3.7.md) / [3.7.1 Paccayānuloma](../../3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](../3.7.1.1.md)
 
 # Adhipati
 
@@ -43,6 +43,6 @@
 
 1903. **Ārammaṇādhipati**—  adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ datvā, sīlaṃ samādiyitvā, uposathakammaṃ katvā sukhāya vedanāya sampayuttena cittena taṃ garuṃ katvā paccavekkhati. Adukkhamasukhāya vedanāya sampayuttā jhānā vuṭṭhahitvā, maggā vuṭṭhahitvā, phalā vuṭṭhahitvā sukhāya vedanāya sampayuttena cittena taṃ garuṃ katvā paccavekkhati. Adukkhamasukhāya vedanāya sampayutte khandhe sukhāya vedanāya sampayuttena cittena garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā sukhāya vedanāya sampayutto rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md) / [Go to next page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

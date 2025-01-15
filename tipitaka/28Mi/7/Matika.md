@@ -1,5 +1,5 @@
 
-[Home](/) / [28Mi Milindapañhapāḷi](/tipitaka/28Mi.md) / [7 Opammakathāpañha](/tipitaka/28Mi/7.md)
+[Home](/) / [28Mi Milindapañhapāḷi](../../28Mi.md) / [7 Opammakathāpañha](../7.md)
 
 # Mātikā
 
@@ -33,7 +33,7 @@
 
 1553. Makkaṭassa dve aṅgāni gahetabbāni.
 
-===
+---
 
 1554. Gadrabhavaggo paṭhamo.
 
@@ -59,7 +59,7 @@
 
 1564. Samuddassa pañca aṅgāni gahetabbāni.
 
-===
+---
 
 1565. Samuddavaggo dutiyo.
 
@@ -85,7 +85,7 @@
 
 1575. Cakkavattissa cattāri aṅgāni gahetabbāni.
 
-===
+---
 
 1576. Pathavīvaggo tatiyo.
 
@@ -111,7 +111,7 @@
 
 1586. Hatthissa pañca aṅgāni gahetabbāni.
 
-===
+---
 
 1587. Upacikāvaggo catuttho.
 
@@ -137,7 +137,7 @@
 
 1597. Ajagarassa ekaṃ aṅgaṃ gahetabbaṃ.
 
-===
+---
 
 1598. Sīhavaggo pañcamo.
 
@@ -163,7 +163,7 @@
 
 1608. Tacchakassa dve aṅgāni gahetabbāni.
 
-===
+---
 
 1609. Makkaṭavaggo chaṭṭho.
 
@@ -183,7 +183,7 @@
 
 1616. Issāsassa cattāri aṅgāni gahetabbāni.
 
-===
+---
 
 1617. Kumbhavaggo sattamo.
 
@@ -265,12 +265,12 @@
 
 1655. Bhamarassa dve aṅgāni gahetabbānī”ti.
 
-===
+---
 
 1656. Mātikā niṭṭhitā.
 
 
 
-[Go to previous page](/tipitaka/28Mi/7.md) / [Go to parent page](/tipitaka/28Mi/7.md) / [Go to next page](/tipitaka/28Mi/7/7.1.md)
+[Go to previous page (7 Opammakathāpañha)](../7.md) / [Go to parent page (7 Opammakathāpañha)](../7.md) / [Go to next page (7.1 Gadrabhavagga)](7.1.md)
 
 

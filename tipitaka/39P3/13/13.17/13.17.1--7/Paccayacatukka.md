@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.17 Saraṇaduka, Kusalattika](/tipitaka/39P3/13/13.17.md) / [13.17.1--7 Paṭiccādivāra](/tipitaka/39P3/13/13.17/13.17.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.17 Saraṇaduka, Kusalattika](../../13.17.md) / [13.17.1--7 Paṭiccādivāra](../13.17.1--7.md)
 
 # Paccayacatukka
 
@@ -37,12 +37,12 @@
 
 2605. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
 
-===
+---
 
 2606. Piṭṭhidukakusalattikaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/39P3/13/13.17/13.17.1--7.md) / [Go to parent page](/tipitaka/39P3/13/13.17/13.17.1--7.md) / [Go to next page](/tipitaka/39P3/14.md)
+[Go to previous page (13.17.1--7 Paṭiccādivāra)](../13.17.1--7.md) / [Go to parent page (13.17.1--7 Paṭiccādivāra)](../13.17.1--7.md) / [Go to next page (14 Saraṇaduka, Tika)](../../../14.md)
 
 

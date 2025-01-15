@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.1 Paṭiccavāra](/tipitaka/38P2/1/1.2/1.2.1.md) / [1.2.1.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1.md) / [1.2.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.1 Paṭiccavāra](../../../1.2.1.md) / [1.2.1.1 Paccayānuloma](../../1.2.1.1.md) / [1.2.1.1.1 Vibhaṅgavāra](../1.2.1.1.1.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 139. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
 
-[Go to previous page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Arammana.md)
+[Go to previous page (1.2.1.1.1 Vibhaṅgavāra)](../1.2.1.1.1.md) / [Go to parent page (1.2.1.1.1 Vibhaṅgavāra)](../1.2.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

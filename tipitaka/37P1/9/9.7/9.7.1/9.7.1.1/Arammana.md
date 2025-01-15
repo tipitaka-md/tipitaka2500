@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md) / [9.7.1 Paccayānuloma](/tipitaka/37P1/9/9.7/9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.1 Paccayānuloma](../../9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](../9.7.1.1.md)
 
 # Ārammaṇa
 
@@ -35,6 +35,6 @@
 
 954. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. Pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe assādeti…pe…  taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. (3)
 
-[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

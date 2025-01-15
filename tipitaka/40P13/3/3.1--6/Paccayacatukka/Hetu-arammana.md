@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [3 Vipākattika](/tipitaka/40P13/3.md) / [3.1--6 Paṭiccādivāra](/tipitaka/40P13/3/3.1--6.md) / [Paccayacatukka](/tipitaka/40P13/3/3.1--6/Paccayacatukka.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [3 Vipākattika](../../../3.md) / [3.1--6 Paṭiccādivāra](../../3.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -47,6 +47,6 @@
 
 44. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/40P13/3/3.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P13/3/3.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/40P13/3/3.7.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.7 Pañhāvāra)](../../3.7.md)
 
 

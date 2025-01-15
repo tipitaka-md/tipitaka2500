@@ -1,5 +1,5 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [7 Lakkhaṇasutta](/tipitaka/8D/7.md)
+[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [7 Lakkhaṇasutta](../7.md)
 
 # Dvattiṃsamahāpurisalakkhaṇāni
 
@@ -31,6 +31,6 @@
 
 405. Imāni kho, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni bāhirakāpi isayo dhārenti, no ca kho te jānanti—  ‘imassa kammassa kaṭattā idaṃ lakkhaṇaṃ paṭilabhatī’ti.
 
-[Go to previous page](/tipitaka/8D/7.md) / [Go to parent page](/tipitaka/8D/7.md) / [Go to next page](/tipitaka/8D/7/7.1.md)
+[Go to previous page (7 Lakkhaṇasutta)](../7.md) / [Go to parent page (7 Lakkhaṇasutta)](../7.md) / [Go to next page (7.1 Suppatiṭṭhitapādatālakkhaṇaṃ)](7.1.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.2 Bhāvanāyapahātabbaduka](/tipitaka/38P2/13/13.2.md) / [13.2.7 Pañhāvāra](/tipitaka/38P2/13/13.2/13.2.7.md) / [13.2.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4.md) / [13.2.7.1.2 Saṅkhyāvāra](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.2 Bhāvanāyapahātabbaduka](../../../../13.2.md) / [13.2.7 Pañhāvāra](../../../13.2.7.md) / [13.2.7.1--4 Paccayānulomādi](../../13.2.7.1--4.md) / [13.2.7.1.2 Saṅkhyāvāra](../13.2.7.1.2.md)
 
 # Suddha
 
@@ -21,12 +21,12 @@
 
 4165. (Paccanīyavibhaṅgo dassanadukasadiso vibhajitabbo. Evaṃ tīṇi gaṇanāpi gaṇetabbā.)
 
-===
+---
 
 4166. Bhāvanāyapahātabbadukaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2.md) / [Go to parent page](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2.md) / [Go to next page](/tipitaka/38P2/13/13.3.md)
+[Go to previous page (13.2.7.1.2 Saṅkhyāvāra)](../13.2.7.1.2.md) / [Go to parent page (13.2.7.1.2 Saṅkhyāvāra)](../13.2.7.1.2.md) / [Go to next page (13.3 Dassanenapahātabbahetukaduka)](../../../../13.3.md)
 
 

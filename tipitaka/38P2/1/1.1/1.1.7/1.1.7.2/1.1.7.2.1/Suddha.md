@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.2 Paccayapaccanīya](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.2.md) / [1.1.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.2/1.1.7.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.1 Hetuduka](../../../../1.1.md) / [1.1.7 Pañhāvāra](../../../1.1.7.md) / [1.1.7.2 Paccayapaccanīya](../../1.1.7.2.md) / [1.1.7.2.1 Saṅkhyāvāra](../1.1.7.2.1.md)
 
 # Suddha
 
@@ -19,12 +19,12 @@
 
 125. Nahetuyā nava, naārammaṇe nava…pe…  noavigate nava. (Evaṃ gaṇetabbaṃ.)
 
-===
+---
 
 126. Paccanīyaṃ.
 
 
 
-[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.2/1.1.7.2.1.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.2/1.1.7.2.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.3.md)
+[Go to previous page (1.1.7.2.1 Saṅkhyāvāra)](../1.1.7.2.1.md) / [Go to parent page (1.1.7.2.1 Saṅkhyāvāra)](../1.1.7.2.1.md) / [Go to next page (1.1.7.3 Paccayānulomapaccanīya)](../../1.1.7.3.md)
 
 

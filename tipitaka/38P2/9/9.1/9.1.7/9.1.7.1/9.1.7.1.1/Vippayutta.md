@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.7 Pañhāvāra](/tipitaka/38P2/9/9.1/9.1.7.md) / [9.1.7.1 Paccayānuloma](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.1 Parāmāsaduka](../../../../9.1.md) / [9.1.7 Pañhāvāra](../../../9.1.7.md) / [9.1.7.1 Paccayānuloma](../../9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](../9.1.7.1.1.md)
 
 # Vippayutta
 
@@ -27,6 +27,6 @@
 
 2189. Parāmāso ca noparāmāso ca dhammā noparāmāsassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
 
-[Go to previous page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Vipakadi.md) / [Go to parent page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Atthi.md)
+[Go to previous page (Vipākādi)](Vipakadi.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

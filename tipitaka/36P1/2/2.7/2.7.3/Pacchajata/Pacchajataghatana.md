@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Pacchājāta](/tipitaka/36P1/2/2.7/2.7.3/Pacchajata.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Pacchājāta](../Pacchajata.md)
 
 # Pacchājātaghaṭanā
 
@@ -17,12 +17,12 @@
 
 1406. Pacchājāta vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte tīṇi, naaññamaññe tīṇi, nanissaye tīṇi, naupanissaye tīṇi, napurejāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-===
+---
 
 1407. Pacchājātamūlakaṃ.
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Pacchajata/Pacchajataduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Pacchajata.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Asevana.md)
+[Go to previous page (Pacchājātaduka)](Pacchajataduka.md) / [Go to parent page (Pacchājāta)](../Pacchajata.md) / [Go to next page (Āsevana)](../Asevana.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](/tipitaka/18Sn.md) / [5 Pārāyanavagga](/tipitaka/18Sn/5.md)
+[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # Vatthugāthā
 
@@ -461,12 +461,12 @@ _Ajito paṭhamaṃ pañhaṃ,_
 _Tattha pucchi tathāgataṃ. (56)_  
 
 
-===
+---
 
 1220. Vatthugāthā niṭṭhitā.
 
 
 
-[Go to previous page](/tipitaka/18Sn/5.md) / [Go to parent page](/tipitaka/18Sn/5.md) / [Go to next page](/tipitaka/18Sn/5/5.1.md)
+[Go to previous page (5 Pārāyanavagga)](../5.md) / [Go to parent page (5 Pārāyanavagga)](../5.md) / [Go to next page (5.1 Ajitamāṇavapucchā)](5.1.md)
 
 

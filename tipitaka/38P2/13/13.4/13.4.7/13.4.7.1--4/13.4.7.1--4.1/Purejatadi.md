@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.4 Bhāvanāyapahātabbahetukaduka](/tipitaka/38P2/13/13.4.md) / [13.4.7 Pañhāvāra](/tipitaka/38P2/13/13.4/13.4.7.md) / [13.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4.md) / [13.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.4 Bhāvanāyapahātabbahetukaduka](../../../../13.4.md) / [13.4.7 Pañhāvāra](../../../13.4.7.md) / [13.4.7.1--4 Paccayānulomādi](../../13.4.7.1--4.md) / [13.4.7.1--4.1 Vibhaṅgavāra](../13.4.7.1--4.1.md)
 
 # Purejātādi
 
@@ -23,12 +23,12 @@
 
 4285. Bhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa…pe… . (Parantena “sakabhaṇḍachandarāgo”ti kātabbaṃ.)
 
-===
+---
 
 4286. Bhāvanāyapahātabbahetukadukaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.5.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.4.7.1--4.1 Vibhaṅgavāra)](../13.4.7.1--4.1.md) / [Go to next page (13.5 Savitakkaduka)](../../../../13.5.md)
 
 

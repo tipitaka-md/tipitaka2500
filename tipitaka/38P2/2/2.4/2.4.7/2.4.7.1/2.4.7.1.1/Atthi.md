@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.7 Pañhāvāra](/tipitaka/38P2/2/2.4/2.4.7.md) / [2.4.7.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
 
 # Atthi
 
@@ -39,6 +39,6 @@
 
 736. Sappaṭigho ca appaṭigho ca dhammā sappaṭighassa ca appaṭighassa ca dhammassa atthipaccayena paccayo. (Paṭiccasadisaṃ.) (3)
 
-[Go to previous page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (2.4.7.1.2 Saṅkhyāvāra)](../2.4.7.1.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.4 Sappaṭighaduka, Kusalattika](/tipitaka/39P3/3/3.4.md) / [3.4.2 Abyākatapada](/tipitaka/39P3/3/3.4/3.4.2.md) / [3.4.2.7 Pañhāvāra](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../3.md) / [3.4 Sappaṭighaduka, Kusalattika](../../../3.4.md) / [3.4.2 Abyākatapada](../../3.4.2.md) / [3.4.2.7 Pañhāvāra](../3.4.2.7.md)
 
 # Paccanīyuddhāra
 
@@ -27,12 +27,12 @@
 
 1532. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-===
+---
 
 1533. Sappaṭighadukakusalattikaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.7.md) / [Go to next page](/tipitaka/39P3/3/3.5.md)
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (3.4.2.7 Pañhāvāra)](../3.4.2.7.md) / [Go to next page (3.5 Rūpīduka, Kusalattika)](../../../3.5.md)
 
 

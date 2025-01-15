@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.12 Rūpāvacaraduka](/tipitaka/38P2/13/13.12.md) / [13.12.7 Pañhāvāra](/tipitaka/38P2/13/13.12/13.12.7.md) / [13.12.7.1 Paccayānuloma](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1.md) / [13.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.12 Rūpāvacaraduka](../../../../13.12.md) / [13.12.7 Pañhāvāra](../../../13.12.7.md) / [13.12.7.1 Paccayānuloma](../../13.12.7.1.md) / [13.12.7.1.1 Vibhaṅgavāra](../13.12.7.1.1.md)
 
 # Atthyādi
 
@@ -27,6 +27,6 @@
 
 4641. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
 
-[Go to previous page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to next page (13.12.7.1.2 Saṅkhyāvāra)](../13.12.7.1.2.md)
 
 

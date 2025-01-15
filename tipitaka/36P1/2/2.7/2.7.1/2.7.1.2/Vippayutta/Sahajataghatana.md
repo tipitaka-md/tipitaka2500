@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Vippayutta](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Vippayutta](../Vippayutta.md)
 
 # Sahajātaghaṭanā
 
@@ -21,12 +21,12 @@
 
 1138. Vippayutta sahajāta nissaya vipāka atthi avigatanti ekaṃ. Vippayutta sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṃ. [Savipāka—  2]
 
-===
+---
 
 1139. Vippayuttamūlakaṃ.
 
 
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta/Pakinnakaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Atthi.md)
+[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Atthi)](../Atthi.md)
 
 

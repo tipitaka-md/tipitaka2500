@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.1 Kusalattika, Sappaccayaduka](/tipitaka/39P4/3/3.1.md) / [3.1.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.1/3.1.1--7.md) / [Paccanīya](/tipitaka/39P4/3/3.1/3.1.1--7/Paccaniya.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../3.md) / [3.1 Kusalattika, Sappaccayaduka](../../../3.1.md) / [3.1.1--7 Paṭiccādivāra](../../3.1.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # Hetu-ārammaṇa
 
@@ -39,12 +39,12 @@
 
 1115. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
-===
+---
 
 1116. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
 
 
-[Go to previous page](/tipitaka/39P4/3/3.1/3.1.1--7/Paccaniya/Nahetu.md) / [Go to parent page](/tipitaka/39P4/3/3.1/3.1.1--7/Paccaniya.md) / [Go to next page](/tipitaka/39P4/3/3.2.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (3.2 Kusalattika, Saṅkhataduka)](../../../3.2.md)
 
 

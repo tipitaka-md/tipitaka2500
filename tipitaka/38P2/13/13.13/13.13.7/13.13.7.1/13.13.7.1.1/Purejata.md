@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.7 Pañhāvāra](/tipitaka/38P2/13/13.13/13.13.7.md) / [13.13.7.1 Paccayānuloma](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.13 Arūpāvacaraduka](../../../../13.13.md) / [13.13.7 Pañhāvāra](../../../13.13.7.md) / [13.13.7.1 Paccayānuloma](../../13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](../13.13.7.1.1.md)
 
 # Purejāta
 
@@ -21,6 +21,6 @@
 
 4692. Pacchājātapaccayena paccayo…  dve…  āsevanapaccayena paccayo…  tīṇi.
 
-[Go to previous page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Kamma.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

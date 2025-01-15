@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.7 Pañhāvāra](/tipitaka/38P2/2/2.4/2.4.7.md) / [2.4.7.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
 
 # Indriyādi
 
@@ -23,6 +23,6 @@
 
 723. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  ekaṃ.
 
-[Go to previous page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Ahara.md) / [Go to parent page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Vippayutta.md)
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Indriya](/tipitaka/36P1/2/2.7/2.7.3/Indriya.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Indriya](../Indriya.md)
 
 # Sāhāraghaṭanā
 
@@ -33,6 +33,6 @@
 
 1516. Indriya sahajāta aññamañña nissaya vipāka āhāra vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Indriya/Sajhana-maggaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Indriya.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Indriya/Sadhipati-aharaghatana.md)
+[Go to previous page (Sajhāna-maggaghaṭanā)](Sajhana-maggaghatana.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Sādhipati-āhāraghaṭanā)](Sadhipati-aharaghatana.md)
 
 

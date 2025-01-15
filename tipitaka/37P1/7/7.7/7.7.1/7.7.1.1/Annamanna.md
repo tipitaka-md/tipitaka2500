@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
 
 # Aññamañña
 
@@ -81,6 +81,6 @@
 
 409. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe savitakkasavicāro eko khandho ca vitakko ca vatthu ca tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo…pe…  dve khandhā ca vitakko ca vatthu ca dvinnaṃ khandhānaṃ aññamaññapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Nissaya.md)
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 
 

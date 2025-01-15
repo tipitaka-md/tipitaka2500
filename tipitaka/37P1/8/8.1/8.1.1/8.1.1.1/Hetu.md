@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.1 Paṭiccavāra](/tipitaka/37P1/8/8.1.md) / [8.1.1 Paccayānuloma](/tipitaka/37P1/8/8.1/8.1.1.md) / [8.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.1 Paṭiccavāra](../../../8.1.md) / [8.1.1 Paccayānuloma](../../8.1.1.md) / [8.1.1.1 Vibhaṅgavāra](../8.1.1.1.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 649. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
 
-[Go to previous page](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md) / [Go to parent page](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md) / [Go to next page](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1/Arammanadi.md)
+[Go to previous page (8.1.1.1 Vibhaṅgavāra)](../8.1.1.1.md) / [Go to parent page (8.1.1.1 Vibhaṅgavāra)](../8.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

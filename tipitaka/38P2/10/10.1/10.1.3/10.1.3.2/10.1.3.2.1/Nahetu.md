@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.1 Sārammaṇaduka](/tipitaka/38P2/10/10.1.md) / [10.1.3 Paccayavāra](/tipitaka/38P2/10/10.1/10.1.3.md) / [10.1.3.2 Paccayapaccanīya](/tipitaka/38P2/10/10.1/10.1.3/10.1.3.2.md) / [10.1.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.1/10.1.3/10.1.3.2/10.1.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.1 Sārammaṇaduka](../../../../10.1.md) / [10.1.3 Paccayavāra](../../../10.1.3.md) / [10.1.3.2 Paccayapaccanīya](../../10.1.3.2.md) / [10.1.3.2.1 Vibhaṅgavāra](../10.1.3.2.1.md)
 
 # Nahetu
 
@@ -33,6 +33,6 @@
 
 2363. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe ahetukaṃ sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ…pe…  (Saṃkhittaṃ.) (3)
 
-[Go to previous page](/tipitaka/38P2/10/10.1/10.1.3/10.1.3.2/10.1.3.2.1.md) / [Go to parent page](/tipitaka/38P2/10/10.1/10.1.3/10.1.3.2/10.1.3.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.1/10.1.3/10.1.3.2/10.1.3.2.2.md)
+[Go to previous page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to parent page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to next page (10.1.3.2.2 Saṅkhyāvāra)](../10.1.3.2.2.md)
 
 

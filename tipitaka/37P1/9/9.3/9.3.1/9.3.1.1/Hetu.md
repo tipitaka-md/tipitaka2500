@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.3 Paccayavāra](/tipitaka/37P1/9/9.3.md) / [9.3.1 Paccayānuloma](/tipitaka/37P1/9/9.3/9.3.1.md) / [9.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.3 Paccayavāra](../../../9.3.md) / [9.3.1 Paccayānuloma](../../9.3.1.md) / [9.3.1.1 Vibhaṅgavāra](../9.3.1.1.md)
 
 # Hetu
 
@@ -47,6 +47,6 @@
 
 871. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā uppajjanti hetupaccayā—  bhāvanāya pahātabbaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca…pe…  bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-[Go to previous page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1.md) / [Go to parent page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Arammana.md)
+[Go to previous page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

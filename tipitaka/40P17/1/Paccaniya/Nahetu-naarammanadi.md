@@ -1,5 +1,5 @@
 
-[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/40P17.md) / [1 Kusalattika, Vedanāttika](/tipitaka/40P17/1.md) / [Paccanīya](/tipitaka/40P17/1/Paccaniya.md)
+[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](../../../40P17.md) / [1 Kusalattika, Vedanāttika](../../1.md) / [Paccanīya](../Paccaniya.md)
 
 # Nahetu-naārammaṇādi
 
@@ -37,6 +37,6 @@
 
 15. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare nava…pe…  sahajāte terasa, aññamaññe nava, nissaye terasa, upanissaye aṭṭhārasa, pacchājāte nava, kamme terasa, vipāke tīṇi, āhāre…pe…  magge terasa, sampayutte nava, vippayutte nava…pe…  avigate terasa. (Pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/40P17/1/Paccaniya.md) / [Go to parent page](/tipitaka/40P17/1/Paccaniya.md) / [Go to next page](/tipitaka/40P17/1/1.1.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.1 Akusalapada)](../1.1.md)
 
 

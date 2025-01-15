@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.1 Paṭiccavāra](/tipitaka/37P1/9/9.1.md) / [9.1.1 Paccayānuloma](/tipitaka/37P1/9/9.1/9.1.1.md) / [9.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.1 Paccayānuloma](../../9.1.1.md) / [9.1.1.1 Vibhaṅgavāra](../9.1.1.1.md)
 
 # Anantara-samanantara
 
@@ -17,6 +17,6 @@
 
 807. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati anantarapaccayā…  samanantarapaccayā. (Ārammaṇasadisaṃ.)
 
-[Go to previous page](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Sahajata.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 
 

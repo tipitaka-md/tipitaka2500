@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.2 Paccayapaccanīya](/tipitaka/36P1/2/2.5/2.5.2.md) / [2.5.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.2 Paccayapaccanīya](../../2.5.2.md) / [2.5.2.2 Saṅkhyāvāra](../2.5.2.2.md)
 
 # Navippayuttaduka
 
@@ -17,9 +17,9 @@
 
 748. Navippayuttapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ.
 
-* [Tika](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka/Tika.md)
-* [Navaka](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka/Navaka.md)
+* [Tika](Navippayuttaduka/Tika.md)
+* [Navaka](Navippayuttaduka/Navaka.md)
 
-[Go to previous page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Namaggaduka.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka/Tika.md)
+[Go to previous page (Namaggaduka)](Namaggaduka.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Tika)](Navippayuttaduka/Tika.md)
 
 

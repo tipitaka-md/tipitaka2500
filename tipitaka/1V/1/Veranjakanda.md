@@ -1,5 +1,5 @@
 
-[Home](/) / [1V Pārājikapāḷi](/tipitaka/1V.md) / [1 Mahāvibhaṅga](/tipitaka/1V/1.md)
+[Home](/) / [1V Pārājikapāḷi](../../1V.md) / [1 Mahāvibhaṅga](../1.md)
 
 # Verañjakaṇḍa
 
@@ -129,12 +129,12 @@
 
 39. Atha kho bhagavā verañjāyaṃ yathābhirantaṃ viharitvā anupagamma soreyyaṃ saṅkassaṃ kaṇṇakujjaṃ yena payāgapatiṭṭhānaṃ tenupasaṅkami; upasaṅkamitvā payāgapatiṭṭhāne gaṅgaṃ nadiṃ uttaritvā yena bārāṇasī tadavasari. Atha kho bhagavā bārāṇasiyaṃ yathābhirantaṃ viharitvā yena vesālī tena cārikaṃ pakkāmi. Anupubbena cārikaṃ caramāno yena vesālī tadavasari. Tatra sudaṃ bhagavā vesāliyaṃ viharati mahāvane kūṭāgārasālāyanti.
 
-===
+---
 
 40. Verañjabhāṇavāro niṭṭhito.
 
 
 
-[Go to previous page](/tipitaka/1V/1.md) / [Go to parent page](/tipitaka/1V/1.md) / [Go to next page](/tipitaka/1V/1/1.1.md)
+[Go to previous page (1 Mahāvibhaṅga)](../1.md) / [Go to parent page (1 Mahāvibhaṅga)](../1.md) / [Go to next page (1.1 Pārājikakaṇḍa)](1.1.md)
 
 

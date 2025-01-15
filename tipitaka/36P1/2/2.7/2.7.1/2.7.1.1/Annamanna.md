@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # Aññamañña
 
@@ -21,6 +21,6 @@
 
 879. Abyākato dhammo abyākatassa dhammassa aññamaññapaccayena paccayo—  vipākābyākato kiriyābyākato eko khandho tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo. Tayo khandhā ekassa khandhassa aññamaññapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ aññamaññapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākato eko khandho tiṇṇannaṃ khandhānaṃ vatthussa ca aññamaññapaccayena paccayo. Tayo khandhā ekassa khandhassa vatthussa ca aññamaññapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ vatthussa ca aññamaññapaccayena paccayo. Khandhā vatthussa aññamaññapaccayena paccayo. Vatthu khandhānaṃ aññamaññapaccayena paccayo. Ekaṃ mahābhūtaṃ tiṇṇannaṃ mahābhūtānaṃ aññamaññapaccayena paccayo. Tayo mahābhūtā ekassa mahābhūtassa aññamaññapaccayena paccayo. Dve mahābhūtā dvinnaṃ mahābhūtānaṃ aññamaññapaccayena paccayo; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ tiṇṇannaṃ mahābhūtānaṃ aññamaññapaccayena paccayo…pe…  dve mahābhūtā dvinnaṃ mahābhūtānaṃ aññamaññapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Sahajata.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Nissaya.md)
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 
 

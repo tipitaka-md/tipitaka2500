@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.3 Upādānasampayuttaduka](/tipitaka/38P2/11/11.3.md) / [11.3.1 Paṭiccavāra](/tipitaka/38P2/11/11.3/11.3.1.md) / [11.3.1.2 Paccayapaccanīya](/tipitaka/38P2/11/11.3/11.3.1/11.3.1.2.md) / [11.3.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.3/11.3.1/11.3.1.2/11.3.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.3 Upādānasampayuttaduka](../../../../11.3.md) / [11.3.1 Paṭiccavāra](../../../11.3.1.md) / [11.3.1.2 Paccayapaccanīya](../../11.3.1.2.md) / [11.3.1.2.1 Vibhaṅgavāra](../11.3.1.2.1.md)
 
 # Nakamma
 
@@ -25,6 +25,6 @@
 
 3669. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānasampayutto dhammo uppajjati nakammapaccayā—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca sampayuttakā cetanā. (1) (Saṃkhittaṃ.)
 
-[Go to previous page](/tipitaka/38P2/11/11.3/11.3.1/11.3.1.2/11.3.1.2.1/Napurejatadi.md) / [Go to parent page](/tipitaka/38P2/11/11.3/11.3.1/11.3.1.2/11.3.1.2.1.md) / [Go to next page](/tipitaka/38P2/11/11.3/11.3.1/11.3.1.2/11.3.1.2.2.md)
+[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (11.3.1.2.1 Vibhaṅgavāra)](../11.3.1.2.1.md) / [Go to next page (11.3.1.2.2 Saṅkhyāvāra)](../11.3.1.2.2.md)
 
 

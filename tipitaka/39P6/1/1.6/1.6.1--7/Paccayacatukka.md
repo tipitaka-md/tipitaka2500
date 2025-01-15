@@ -1,5 +1,5 @@
 
-[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.6 Hetuduka, Sappaccayaduka](/tipitaka/39P6/1/1.6.md) / [1.6.1--7 Paṭiccādivāra](/tipitaka/39P6/1/1.6/1.6.1--7.md)
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../../../39P6.md) / [1 Hetuduka, Duka](../../../1.md) / [1.6 Hetuduka, Sappaccayaduka](../../1.6.md) / [1.6.1--7 Paṭiccādivāra](../1.6.1--7.md)
 
 # Paccayacatukka
 
@@ -29,6 +29,6 @@
 
 55. Hetuyā tīṇi, ārammaṇe…pe…  upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava, vippayutte pañca…pe…  avigate nava. (Saṃkhittaṃ. Pañhāvārampi evaṃ vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/39P6/1/1.6/1.6.1--7.md) / [Go to parent page](/tipitaka/39P6/1/1.6/1.6.1--7.md) / [Go to next page](/tipitaka/39P6/1/1.7.md)
+[Go to previous page (1.6.1--7 Paṭiccādivāra)](../1.6.1--7.md) / [Go to parent page (1.6.1--7 Paṭiccādivāra)](../1.6.1--7.md) / [Go to next page (1.7 Hetuduka, Saṅkhataduka)](../../1.7.md)
 
 

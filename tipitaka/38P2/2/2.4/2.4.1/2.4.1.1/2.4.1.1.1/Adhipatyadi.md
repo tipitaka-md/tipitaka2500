@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.1 Paṭiccavāra](/tipitaka/38P2/2/2.4/2.4.1.md) / [2.4.1.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1.md) / [2.4.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.1 Paṭiccavāra](../../../2.4.1.md) / [2.4.1.1 Paccayānuloma](../../2.4.1.1.md) / [2.4.1.1.1 Vibhaṅgavāra](../2.4.1.1.1.md)
 
 # Adhipatyādi
 
@@ -31,6 +31,6 @@
 
 674. Sappaṭighañca appaṭighañca dhammaṃ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā—  sappaṭighaṃ ekaṃ mahābhūtañca āpodhātuñca paṭicca dve mahābhūtā…pe…  nissayapaccayā…pe…  avigatapaccayā.
 
-[Go to previous page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.2.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.4.1.1.1 Vibhaṅgavāra)](../2.4.1.1.1.md) / [Go to next page (2.4.1.1.2 Saṅkhyāvāra)](../2.4.1.1.2.md)
 
 

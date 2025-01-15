@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.7 Sappītikaduka](/tipitaka/38P2/13/13.7.md) / [13.7.7 Pañhāvāra](/tipitaka/38P2/13/13.7/13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.7 Pañhāvāra](../../../13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](../../13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](../13.7.7.1--4.1.md)
 
 # Ārammaṇa
 
@@ -33,6 +33,6 @@
 
 4407. (Mūlaṃ kātabbaṃ.) Sappītike khandhe ca pītiñca ārabbha sappītikā khandhā ca pīti ca uppajjanti. (3)
 
-[Go to previous page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](../13.7.7.1--4.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

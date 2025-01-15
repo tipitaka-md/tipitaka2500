@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.3 Paccayavāra](/tipitaka/38P2/2/2.5/2.5.3.md) / [2.5.3.2 Paccayapaccanīya](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2.md) / [2.5.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.3 Paccayavāra](../../../2.5.3.md) / [2.5.3.2 Paccayapaccanīya](../../2.5.3.2.md) / [2.5.3.2.1 Vibhaṅgavāra](../2.5.3.2.1.md)
 
 # Nahetu
 
@@ -39,6 +39,6 @@
 
 790. Rūpiñca arūpiñca dhammaṃ paccayā rūpī ca arūpī ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ arūpiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  arūpino khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.1.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.1.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2.md)
+[Go to previous page (2.5.3.2.1 Vibhaṅgavāra)](../2.5.3.2.1.md) / [Go to parent page (2.5.3.2.1 Vibhaṅgavāra)](../2.5.3.2.1.md) / [Go to next page (2.5.3.2.2 Saṅkhyāvāra)](../2.5.3.2.2.md)
 
 

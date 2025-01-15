@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.3 Hetusampayuttaduka](/tipitaka/38P2/1/1.3.md) / [1.3.1--7 Paṭiccādivāra](/tipitaka/38P2/1/1.3/1.3.1--7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [1 Hetugocchaka](../../../1.md) / [1.3 Hetusampayuttaduka](../../1.3.md) / [1.3.1--7 Paṭiccādivāra](../1.3.1--7.md)
 
 # Hetu
 
@@ -19,12 +19,12 @@
 
 351. (Iminā kāraṇena vitthāretabbaṃ yathā sahetukadukaṃ ninnānākaraṇaṃ.)
 
-===
+---
 
 352. Hetusampayuttadukaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/38P2/1/1.3/1.3.1--7.md) / [Go to parent page](/tipitaka/38P2/1/1.3/1.3.1--7.md) / [Go to next page](/tipitaka/38P2/1/1.4.md)
+[Go to previous page (1.3.1--7 Paṭiccādivāra)](../1.3.1--7.md) / [Go to parent page (1.3.1--7 Paṭiccādivāra)](../1.3.1--7.md) / [Go to next page (1.4 Hetusahetukaduka)](../../1.4.md)
 
 

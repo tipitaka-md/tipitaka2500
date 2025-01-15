@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.1 Paṭiccavāra](/tipitaka/37P1/12/12.1.md) / [12.1.2 Paccayapaccanīya](/tipitaka/37P1/12/12.1/12.1.2.md) / [12.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.1 Paṭiccavāra](../../../12.1.md) / [12.1.2 Paccayapaccanīya](../../12.1.2.md) / [12.1.2.1 Vibhaṅgavāra](../12.1.2.1.md)
 
 # Naadhipatyādi
 
@@ -33,6 +33,6 @@
 
 1686. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nakammapaccayā—  nevasekkhanāsekkhe khandhe paṭicca nevasekkhanāsekkhā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  ekaṃ mahābhūtaṃ…pe… .
 
-[Go to previous page](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Naarammana.md) / [Go to parent page](/tipitaka/37P1/12/12.1/12.1.2/2.1.2.1.md) / [Go to next page](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Navipaka.md)
+[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

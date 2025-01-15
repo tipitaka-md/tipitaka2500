@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.7 Pañhāvāra](/tipitaka/38P2/9/9.3/9.3.7.md) / [9.3.7.1 Paccayānuloma](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.3 Parāmāsasampayuttaduka](../../../../9.3.md) / [9.3.7 Pañhāvāra](../../../9.3.7.md) / [9.3.7.1 Paccayānuloma](../../9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](../9.3.7.1.1.md)
 
 # Purejāta
 
@@ -21,6 +21,6 @@
 
 2266. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha parāmāsasampayutto rāgo uppajjati. **Vatthupurejātaṃ**—  vatthu parāmāsasampayuttakānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
-[Go to previous page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Pacchajatasevana.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
 
 

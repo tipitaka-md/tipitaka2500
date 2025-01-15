@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.13 Kusalattika, Niyyānikaduka](/tipitaka/39P4/7/7.13.md) / [7.13.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.13/7.13.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../7.md) / [7.13 Kusalattika, Niyyānikaduka](../../7.13.md) / [7.13.1--7 Paṭiccādivāra](../7.13.1--7.md)
 
 # Paccayacatukka
 
@@ -37,6 +37,6 @@
 
 1667. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/39P4/7/7.13/7.13.1--7.md) / [Go to parent page](/tipitaka/39P4/7/7.13/7.13.1--7.md) / [Go to next page](/tipitaka/39P4/7/7.14.md)
+[Go to previous page (7.13.1--7 Paṭiccādivāra)](../7.13.1--7.md) / [Go to parent page (7.13.1--7 Paṭiccādivāra)](../7.13.1--7.md) / [Go to next page (7.14 Kusalattika, Niyataduka)](../../7.14.md)
 
 

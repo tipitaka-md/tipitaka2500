@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.1/2.1.4.md) / [Naāsevanaduka](/tipitaka/36P1/2/2.1/2.1.4/Naasevanaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.4 Paccayapaccanīyānuloma](../../2.1.4.md) / [Naāsevanaduka](../Naasevanaduka.md)
 
 # Catukka
 
@@ -15,6 +15,6 @@
 
 378. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
-[Go to previous page](/tipitaka/36P1/2/2.1/2.1.4/Naasevanaduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.4/Naasevanaduka.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.4/Nakammaduka.md)
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to next page (Nakammaduka)](../Nakammaduka.md)
 
 

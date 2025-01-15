@@ -1,5 +1,5 @@
 
-[Home](/) / [26Ps Paṭisambhidāmaggapāḷi](/tipitaka/26Ps.md)
+[Home](/) / [26Ps Paṭisambhidāmaggapāḷi](../26Ps.md)
 
 # Mātikā
 
@@ -299,12 +299,12 @@
 
 75. Imāni tesattati ñāṇāni. Imesaṃ tesattatiyā ñāṇānaṃ sattasaṭṭhi ñāṇāni sāvakasādhāraṇāni; cha ñāṇāni asādhāraṇāni sāvakehi.
 
-===
+---
 
 76. Mātikā niṭṭhitā.
 
 
 
-[Go to previous page](/tipitaka/26Ps/0.md) / [Go to parent page](/tipitaka/26Ps/0.md) / [Go to next page](/tipitaka/26Ps/1.md)
+[Go to previous page (26Ps Paṭisambhidāmaggapāḷi)](0.md) / [Go to parent page (26Ps Paṭisambhidāmaggapāḷi)](0.md) / [Go to next page (1 Mahāvagga)](1.md)
 
 

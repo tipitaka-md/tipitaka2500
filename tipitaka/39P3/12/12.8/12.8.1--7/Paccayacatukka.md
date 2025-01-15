@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [12 Kilesagocchaka, Kusalattika](/tipitaka/39P3/12.md) / [12.8 Kilesavippayuttasaṃkilesikaduka, Kusalattika](/tipitaka/39P3/12/12.8.md) / [12.8.1--7 Paṭiccādivāra](/tipitaka/39P3/12/12.8/12.8.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [12 Kilesagocchaka, Kusalattika](../../../12.md) / [12.8 Kilesavippayuttasaṃkilesikaduka, Kusalattika](../../12.8.md) / [12.8.1--7 Paṭiccādivāra](../12.8.1--7.md)
 
 # Paccayacatukka
 
@@ -33,12 +33,12 @@
 
 2370. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ. Lokiyadukaabyākatasadisaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
 
-===
+---
 
 2371. Kilesagocchakakusalattikaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/39P3/12/12.8/12.8.1--7.md) / [Go to parent page](/tipitaka/39P3/12/12.8/12.8.1--7.md) / [Go to next page](/tipitaka/39P3/13.md)
+[Go to previous page (12.8.1--7 Paṭiccādivāra)](../12.8.1--7.md) / [Go to parent page (12.8.1--7 Paṭiccādivāra)](../12.8.1--7.md) / [Go to next page (13 Piṭṭhiduka, Kusalattika)](../../../13.md)
 
 

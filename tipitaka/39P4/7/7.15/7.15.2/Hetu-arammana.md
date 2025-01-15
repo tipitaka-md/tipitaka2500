@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.15 Kusalattika, Sauttaraduka](/tipitaka/39P4/7/7.15.md) / [7.15.2 Anuttarapada](/tipitaka/39P4/7/7.15/7.15.2.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../7.md) / [7.15 Kusalattika, Sauttaraduka](../../7.15.md) / [7.15.2 Anuttarapada](../7.15.2.md)
 
 # Hetu-ārammaṇa
 
@@ -37,6 +37,6 @@
 
 1692. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/39P4/7/7.15/7.15.2.md) / [Go to parent page](/tipitaka/39P4/7/7.15/7.15.2.md) / [Go to next page](/tipitaka/39P4/7/7.16.md)
+[Go to previous page (7.15.2 Anuttarapada)](../7.15.2.md) / [Go to parent page (7.15.2 Anuttarapada)](../7.15.2.md) / [Go to next page (7.16 Kusalattika, Saraṇaduka)](../../7.16.md)
 
 

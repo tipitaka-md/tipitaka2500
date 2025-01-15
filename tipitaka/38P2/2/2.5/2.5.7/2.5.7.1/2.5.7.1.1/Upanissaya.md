@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.7 Pañhāvāra](../../../2.5.7.md) / [2.5.7.1 Paccayānuloma](../../2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](../2.5.7.1.1.md)
 
 # Upanissaya
 
@@ -21,6 +21,6 @@
 
 812. Arūpī dhammo arūpissa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  kāyikaṃ dukkhaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati, saddhā…pe…  kāyikaṃ dukkhaṃ…  saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-[Go to previous page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Purejata.md)
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

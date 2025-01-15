@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.3 Paccayavāra](/tipitaka/38P2/13/13.15/13.15.3.md) / [13.15.3.2 Paccayapaccanīya](/tipitaka/38P2/13/13.15/13.15.3/13.15.3.2.md) / [13.15.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.3/13.15.3.2/13.15.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.3 Paccayavāra](../../../13.15.3.md) / [13.15.3.2 Paccayapaccanīya](../../13.15.3.2.md) / [13.15.3.2.1 Vibhaṅgavāra](../13.15.3.2.1.md)
 
 # Naārammaṇādi
 
@@ -25,6 +25,6 @@
 
 4734. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko dhammo uppajjati naadhipatipaccayā—  niyyānike khandhe ca vatthuñca paccayā niyyānikādhipati. (1)
 
-[Go to previous page](/tipitaka/38P2/13/13.15/13.15.3/13.15.3.2/13.15.3.2.1/Nahetu.md) / [Go to parent page](/tipitaka/38P2/13/13.15/13.15.3/13.15.3.2/13.15.3.2.1.md) / [Go to next page](/tipitaka/38P2/13/13.15/13.15.3/13.15.3.2/13.15.3.2.2.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.15.3.2.1 Vibhaṅgavāra)](../13.15.3.2.1.md) / [Go to next page (13.15.3.2.2 Saṅkhyāvāra)](../13.15.3.2.2.md)
 
 

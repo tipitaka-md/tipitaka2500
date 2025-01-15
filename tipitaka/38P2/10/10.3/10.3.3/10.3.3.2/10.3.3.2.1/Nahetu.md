@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.3 Cetasikaduka](/tipitaka/38P2/10/10.3.md) / [10.3.3 Paccayavāra](/tipitaka/38P2/10/10.3/10.3.3.md) / [10.3.3.2 Paccayapaccanīya](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2.md) / [10.3.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2/10.3.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.3 Cetasikaduka](../../../../10.3.md) / [10.3.3 Paccayavāra](../../../10.3.3.md) / [10.3.3.2 Paccayapaccanīya](../../10.3.3.2.md) / [10.3.3.2.1 Vibhaṅgavāra](../10.3.3.2.1.md)
 
 # Nahetu
 
@@ -21,6 +21,6 @@
 
 2594. (Nava pañhā pañcaviññāṇampi yathā ārammaṇapaccayā evaṃ kātabbaṃ, tīsuyeva moho. Sabbe pañhā pavattipaṭisandhiyā kātabbā asammohantena.)
 
-[Go to previous page](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2/10.3.3.2.1.md) / [Go to parent page](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2/10.3.3.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2/10.3.3.2.2.md)
+[Go to previous page (10.3.3.2.1 Vibhaṅgavāra)](../10.3.3.2.1.md) / [Go to parent page (10.3.3.2.1 Vibhaṅgavāra)](../10.3.3.2.1.md) / [Go to next page (10.3.3.2.2 Saṅkhyāvāra)](../10.3.3.2.2.md)
 
 

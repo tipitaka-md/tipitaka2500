@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.7 Kenaciviññeyyaduka, Kusalattika](/tipitaka/39P3/3/3.7.md) / [3.7.1 Kusalapada](/tipitaka/39P3/3/3.7/3.7.1.md) / [3.7.1.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.7/3.7.1/3.7.1.1--7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.7/3.7.1/3.7.1.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.7 Kenaciviññeyyaduka, Kusalattika](../../../../3.7.md) / [3.7.1 Kusalapada](../../../3.7.1.md) / [3.7.1.1--7 Paṭiccādivāra](../../3.7.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -31,18 +31,18 @@
 
 1588. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ. Kenaci viññeyyaṃ akusalampi kenaci viññeyyaṃ abyākatampi kenaci viññeyyakusalasadisaṃ vitthāretabbaṃ.)
 
-===
+---
 
 1589. Kenaciviññeyyadukakusalattikaṃ niṭṭhitaṃ.
 
 
 
-===
+---
 
 1590. Cūḷantaradukaṃ niṭṭhitaṃ.
 
 
 
-[Go to previous page](/tipitaka/39P3/3/3.7/3.7.1/3.7.1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/3/3.7/3.7.1/3.7.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/4.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4 Āsavagocchaka, Kusalattika)](../../../../../4.md)
 
 

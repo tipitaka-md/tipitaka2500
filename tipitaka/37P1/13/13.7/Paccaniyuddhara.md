@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.7 Pañhāvāra](/tipitaka/37P1/13/13.7.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [13 Parittattika](../../13.md) / [13.7 Pañhāvāra](../13.7.md)
 
 # Paccanīyuddhāra
 
@@ -43,6 +43,6 @@
 
 2149. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa sahajātaṃ, purejātaṃ. (2)
 
-[Go to previous page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/13/13.7.md) / [Go to next page](/tipitaka/37P1/13/13.7/13.7.2.md)
+[Go to previous page (Suddha)](13.7.1/13.7.1.2/Suddha.md) / [Go to parent page (13.7 Pañhāvāra)](../13.7.md) / [Go to next page (13.7.2 Paccayapaccanīya)](13.7.2.md)
 
 

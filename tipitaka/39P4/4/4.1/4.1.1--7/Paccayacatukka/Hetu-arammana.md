@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](/tipitaka/39P4/4.md) / [4.1 Kusalattika, Āsavaduka](/tipitaka/39P4/4/4.1.md) / [4.1.1--7 Paṭiccādivāra](/tipitaka/39P4/4/4.1/4.1.1--7.md) / [Paccayacatukka](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../../../4.md) / [4.1 Kusalattika, Āsavaduka](../../../4.1.md) / [4.1.1--7 Paṭiccādivāra](../../4.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -27,6 +27,6 @@
 
 1241. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka/Arammana.md) / [Go to parent page](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/4/4.2.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.2 Kusalattika, Sāsavaduka)](../../../4.2.md)
 
 

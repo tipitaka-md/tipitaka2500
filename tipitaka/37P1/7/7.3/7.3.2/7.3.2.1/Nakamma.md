@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.3 Paccayavāra](/tipitaka/37P1/7/7.3.md) / [7.3.2 Paccayapaccanīya](/tipitaka/37P1/7/7.3/7.3.2.md) / [7.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.3 Paccayavāra](../../../7.3.md) / [7.3.2 Paccayapaccanīya](../../7.3.2.md) / [7.3.2.1 Vibhaṅgavāra](../7.3.2.1.md)
 
 # Nakamma
 
@@ -35,6 +35,6 @@
 
 242. (Navipāke sattatiṃsa pañhā kātabbā. Naāhāra naindriya najhānanamagga nasampayutta navippayutta nonatthi novigatapaccayā vitthāretabbā.)
 
-[Go to previous page](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Naanantaradi.md) / [Go to parent page](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md) / [Go to next page](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.2.md)
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to next page (7.3.2.2 Saṅkhyāvāra)](../7.3.2.2.md)
 
 

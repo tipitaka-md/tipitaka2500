@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.3 Kusalattika, Sanidassanaduka](/tipitaka/39P4/3/3.3.md) / [3.3.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.3/3.3.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../3.md) / [3.3 Kusalattika, Sanidassanaduka](../../3.3.md) / [3.3.1--7 Paṭiccādivāra](../3.3.1--7.md)
 
 # Paccayacatukka
 
@@ -35,6 +35,6 @@
 
 1126. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page](/tipitaka/39P4/3/3.3/3.3.1--7.md) / [Go to parent page](/tipitaka/39P4/3/3.3/3.3.1--7.md) / [Go to next page](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya.md)
+[Go to previous page (3.3.1--7 Paṭiccādivāra)](../3.3.1--7.md) / [Go to parent page (3.3.1--7 Paṭiccādivāra)](../3.3.1--7.md) / [Go to next page (Paccanīya)](Paccaniya.md)
 
 

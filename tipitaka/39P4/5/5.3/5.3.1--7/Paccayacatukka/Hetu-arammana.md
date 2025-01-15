@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](/tipitaka/39P4/5.md) / [5.3 Kusalattika, Cetasikaduka](/tipitaka/39P4/5/5.3.md) / [5.3.1--7 Paṭiccādivāra](/tipitaka/39P4/5/5.3/5.3.1--7.md) / [Paccayacatukka](/tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](../../../../5.md) / [5.3 Kusalattika, Cetasikaduka](../../../5.3.md) / [5.3.1--7 Paṭiccādivāra](../../5.3.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -53,6 +53,6 @@
 
 1381. (Sahajātavārampi…pe…  pañhāvārampi evaṃ vitthāretabbaṃ.)
 
-[Go to previous page](/tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/5/5.4.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.4 Kusalattika, Cittasampayuttadukādi)](../../../5.4.md)
 
 

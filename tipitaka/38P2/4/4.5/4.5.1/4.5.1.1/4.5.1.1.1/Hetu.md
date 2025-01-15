@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.5 Saññojanasaññojanasampayuttaduka](/tipitaka/38P2/4/4.5.md) / [4.5.1 Paṭiccavāra](/tipitaka/38P2/4/4.5/4.5.1.md) / [4.5.1.1 Paccayānuloma](/tipitaka/38P2/4/4.5/4.5.1/4.5.1.1.md) / [4.5.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.5 Saññojanasaññojanasampayuttaduka](../../../../4.5.md) / [4.5.1 Paṭiccavāra](../../../4.5.1.md) / [4.5.1.1 Paccayānuloma](../../4.5.1.1.md) / [4.5.1.1.1 Vibhaṅgavāra](../4.5.1.1.1.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 1579. Saññojanañceva saññojanasampayuttañca saññojanasampayuttañceva no ca saññojanañca dhammaṃ paṭicca saññojano ceva saññojanasampayutto ca saññojanasampayutto ceva no ca saññojano ca dhammā uppajjanti hetupaccayā—  saññojanasampayuttañceva no ca saññojanaṃ ekaṃ khandhañca kāmarāgasaññojanañca paṭicca tayo khandhā diṭṭhisaññojanaṃ avijjāsaññojanaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
 
-[Go to previous page](/tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.1.md) / [Go to parent page](/tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.5/4.5.1/4.5.1.1/4.5.1.1.2.md)
+[Go to previous page (4.5.1.1.1 Vibhaṅgavāra)](../4.5.1.1.1.md) / [Go to parent page (4.5.1.1.1 Vibhaṅgavāra)](../4.5.1.1.1.md) / [Go to next page (4.5.1.1.2 Saṅkhyāvāra)](../4.5.1.1.2.md)
 
 
