@@ -1,26 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Kamma
-ref: 265045
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.3 Ganthasampayuttaduka
-    link: /tipitaka/38P2/5/5.3
-  - name: 5.3.7 Pañhāvāra
-    link: /tipitaka/38P2/5/5.3/5.3.7
-  - name: 5.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1
-  - name: 5.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1
-prevL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Asevana
-upL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1
-nextL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Vipakadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.7 Pañhāvāra](/tipitaka/38P2/5/5.3/5.3.7.md) / [5.3.7.1 Paccayānuloma](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1.md) / [5.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md)
 
 # Kamma
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Vipakadi
 (89.)
 
 1810. Ganthavippayutto dhammo ganthavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  ganthavippayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  ganthavippayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Asevana.md) / [Go to parent page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Vipakadi.md)
 
 

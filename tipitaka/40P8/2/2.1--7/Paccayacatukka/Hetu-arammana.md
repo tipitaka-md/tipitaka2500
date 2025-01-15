@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P8/2/2.1--7/Paccayacatukka/Hetu-arammana
-ref: 262020
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/40P8
-  - name: 2 Sahetukaduka
-    link: /tipitaka/40P8/2
-  - name: 2.1--7 Paṭiccādivāra
-    link: /tipitaka/40P8/2/2.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P8/2/2.1--7/Paccayacatukka
-prevL: /tipitaka/40P8/2/2.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/40P8/2/2.1--7/Paccayacatukka
-nextL: /tipitaka/40P8/3
----
+
+[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P8.md) / [2 Sahetukaduka](/tipitaka/40P8/2.md) / [2.1--7 Paṭiccādivāra](/tipitaka/40P8/2/2.1--7.md) / [Paccayacatukka](/tipitaka/40P8/2/2.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P8/3
 20. Hetuyā cha, ārammaṇe nava, adhipatiyā cattāri, anantare nava…pe…  sahajāte nava, aññamaññe cha, nissaye upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme…pe…  jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca…pe…  avigate nava.
 
 21. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P8/2/2.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/40P8/2/2.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P8/3.md)
 
 

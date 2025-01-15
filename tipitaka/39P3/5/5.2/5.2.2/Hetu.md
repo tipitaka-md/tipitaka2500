@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/5/5.2/5.2.2/Hetu
-ref: 261711
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 5 Saññojanagocchaka, Kusalattika
-    link: /tipitaka/39P3/5
-  - name: 5.2 Saññojaniyaduka, Kusalattika
-    link: /tipitaka/39P3/5/5.2
-  - name: 5.2.2 Abyākatapada
-    link: /tipitaka/39P3/5/5.2/5.2.2
-prevL: /tipitaka/39P3/5/5.2/5.2.2
-upL: /tipitaka/39P3/5/5.2/5.2.2
-nextL: /tipitaka/39P3/5/5.2/5.2.2/5.2.2.1--6
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.2 Saññojaniyaduka, Kusalattika](/tipitaka/39P3/5/5.2.md) / [5.2.2 Abyākatapada](/tipitaka/39P3/5/5.2/5.2.2.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/39P3/5/5.2/5.2.2/5.2.2.1--6
 1730. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
 
 1731. Cūḷantaraduke lokiyadukasadisaṃ. (Sahajātavāropi…pe…  sampayuttavāropi vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/5/5.2/5.2.2.md) / [Go to parent page](/tipitaka/39P3/5/5.2/5.2.2.md) / [Go to next page](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.1--6.md)
 
 

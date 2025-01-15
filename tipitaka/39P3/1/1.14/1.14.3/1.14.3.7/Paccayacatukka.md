@@ -1,27 +1,10 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/1/1.14/1.14.3/1.14.3.7/Paccayacatukka
-ref: 264095
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.14 Hetuduka, Hīnattika
-    link: /tipitaka/39P3/1/1.14
-  - name: 1.14.3 Paṇītapada
-    link: /tipitaka/39P3/1/1.14/1.14.3
-  - name: 1.14.3.7 Pañhāvāra
-    link: /tipitaka/39P3/1/1.14/1.14.3/1.14.3.7
-prevL: /tipitaka/39P3/1/1.14/1.14.3/1.14.3.7
-upL: /tipitaka/39P3/1/1.14/1.14.3/1.14.3.7
-nextL: /tipitaka/39P3/1/1.14/1.14.3/1.14.3.7/Paccayacatukka/Hetvadi
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.14 Hetuduka, Hīnattika](/tipitaka/39P3/1/1.14.md) / [1.14.3 Paṇītapada](/tipitaka/39P3/1/1.14/1.14.3.md) / [1.14.3.7 Pañhāvāra](/tipitaka/39P3/1/1.14/1.14.3/1.14.3.7.md)
 
 # Paccayacatukka
 
-* [Hetvādi](/tipitaka/39P3/1/1.14/1.14.3/1.14.3.7/Paccayacatukka/Hetvadi)
+* [Hetvādi](/tipitaka/39P3/1/1.14/1.14.3/1.14.3.7/Paccayacatukka/Hetvadi.md)
+
+[Go to previous page](/tipitaka/39P3/1/1.14/1.14.3/1.14.3.7.md) / [Go to parent page](/tipitaka/39P3/1/1.14/1.14.3/1.14.3.7.md) / [Go to next page](/tipitaka/39P3/1/1.14/1.14.3/1.14.3.7/Paccayacatukka/Hetvadi.md)
 
 

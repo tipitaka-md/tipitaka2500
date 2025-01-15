@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Upanissaya
-ref: 262866
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.7 Pañhāvāra
-    link: /tipitaka/37P1/8/8.7
-  - name: 8.7.1 Paccayānuloma
-    link: /tipitaka/37P1/8/8.7/8.7.1
-  - name: 8.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-prevL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Annamanna-nissaya
-upL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Asevana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md) / [8.7.1 Paccayānuloma](/tipitaka/37P1/8/8.7/8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md)
 
 # Upanissaya
 
@@ -71,5 +52,7 @@ nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Asevana
 740. Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  pītisahagatañca sukhasahagatañca saddhaṃ upanissāya upekkhāsahagatena cittena dānaṃ deti …pe…  abhiññaṃ uppādeti…pe…  diṭṭhiṃ gaṇhāti. Pītisahagatañca sukhasahagatañca sīlaṃ…pe…  patthanaṃ upanissāya upekkhāsahagatena cittena dānaṃ deti…pe…  nigamaghātaṃ karoti. Pītisahagatā ca sukhasahagatā ca saddhā…pe…  patthanā upekkhāsahagatāya saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (3)
 
 741. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  pītisahagatañca sukhasahagatañca saddhaṃ upanissāya pītisahagatena ca sukhasahagatena ca cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Pītisahagatañca sukhasahagatañca jhānaṃ uppādeti, vipassanaṃ uppādeti, maggaṃ uppādeti, samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Pītisahagatañca sukhasahagatañca sīlaṃ…  sutaṃ…  cāgaṃ…  paññaṃ…  rāgaṃ…  mohaṃ…  mānaṃ…  diṭṭhiṃ…  patthanaṃ upanissāya pītisahagatena ca sukhasahagatena ca cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Pītisahagatañca sukhasahagatañca jhānaṃ uppādeti…pe…  samāpattiṃ uppādeti. Pītisahagatena ca sukhasahagatena ca cittena adinnaṃ ādiyati, musā bhaṇati, pisuṇaṃ bhaṇati, samphaṃ palapati, sandhiṃ chindati, nillopaṃ harati, ekāgārikaṃ karoti, paripanthe tiṭṭhati, paradāraṃ gacchati, gāmaghātaṃ karoti, nigamaghātaṃ karoti. Pītisahagatā ca sukhasahagatā ca saddhā…pe…  patthanā pītisahagatāya ca sukhasahagatāya ca saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (4)
+
+[Go to previous page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Annamanna-nissaya.md) / [Go to parent page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Asevana.md)
 
 

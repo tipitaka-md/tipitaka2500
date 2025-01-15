@@ -1,22 +1,5 @@
----
-title:  Naāhāraduka
-path: /tipitaka/36P1/2/2.1/2.1.4/Naaharaduka
-ref: 260490
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/2/2.1/2.1.4
-prevL: /tipitaka/36P1/2/2.1/2.1.4/Navipakaduka/Catukka
-upL: /tipitaka/36P1/2/2.1/2.1.4
-nextL: /tipitaka/36P1/2/2.1/2.1.4/Naindriyaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.1/2.1.4.md)
 
 # Naāhāraduka
 
@@ -31,5 +14,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.4/Naindriyaduka
 (92.)
 
 385. Naāhārapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.4/Navipakaduka/Catukka.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.4.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.4/Naindriyaduka.md)
 
 

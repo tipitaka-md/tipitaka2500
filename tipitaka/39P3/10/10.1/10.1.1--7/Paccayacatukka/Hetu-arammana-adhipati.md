@@ -1,24 +1,5 @@
----
-title:  Hetu-ārammaṇa-adhipati
-path: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka/Hetu-arammana-adhipati
-ref: 264251
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.1 Sārammaṇaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.1
-  - name: 10.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/10/10.1/10.1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/10/10.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.1 Sārammaṇaduka, Kusalattika](/tipitaka/39P3/10/10.1.md) / [10.1.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.1/10.1.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa-adhipati
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/39P3/10/10.2
 (8.)
 
 2030. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṃ…pe…  sahajāte satta, aññamaññe cha, nissaye satta, upanissaye dve, purejāte ekaṃ, pacchājāte ekaṃ, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi, āhāre cattāri, indriye cha, jhāne magge tīṇi, sampayutte ekaṃ, vippayutte dve…pe…  avigate satta. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/10/10.2.md)
 
 

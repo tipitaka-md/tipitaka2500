@@ -1,26 +1,5 @@
----
-title:  Naadhipatyādi
-path: /tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Naadhipatyadi
-ref: 265725
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.15 Niyyānikaduka
-    link: /tipitaka/38P2/13/13.15
-  - name: 13.15.1 Paṭiccavāra
-    link: /tipitaka/38P2/13/13.15/13.15.1
-  - name: 13.15.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/13/13.15/13.15.1/13.15.1.2
-  - name: 13.15.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1
-prevL: /tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Nahetu-naarammana
-upL: /tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1
-nextL: /tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Napurejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.1 Paṭiccavāra](/tipitaka/38P2/13/13.15/13.15.1.md) / [13.15.1.2 Paccayapaccanīya](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2.md) / [13.15.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1.md)
 
 # Naadhipatyādi
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Napurejata
 4719. Aniyyānikaṃ dhammaṃ paṭicca aniyyāniko dhammo uppajjati naadhipatipaccayā—  aniyyānikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva asaññasattā kātabbā.) (1)
 
 4720. Naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…pe… .
+
+[Go to previous page](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Nahetu-naarammana.md) / [Go to parent page](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1.md) / [Go to next page](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Napurejata.md)
 
 

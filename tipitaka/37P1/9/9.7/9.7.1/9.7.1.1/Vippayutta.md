@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Vippayutta
-ref: 262933
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.7 Pañhāvāra
-    link: /tipitaka/37P1/9/9.7
-  - name: 9.7.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.7/9.7.1
-  - name: 9.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-prevL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Aharadi
-upL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Atthi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md) / [9.7.1 Paccayānuloma](/tipitaka/37P1/9/9.7/9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md)
 
 # Vippayutta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Atthi
 1019. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa vippayuttapaccayena paccayo—  **purejātaṃ** vatthu dassanena pahātabbānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 1020. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa vippayuttapaccayena paccayo—  **purejātaṃ** vatthu bhāvanāya pahātabbānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Aharadi.md) / [Go to parent page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Atthi.md)
 
 

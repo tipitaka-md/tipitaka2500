@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/2/2.5/2.5.7/Paccaniyuddhara
-ref: 260999
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.5 Rūpīduka
-    link: /tipitaka/38P2/2/2.5
-  - name: 2.5.7 Pañhāvāra
-    link: /tipitaka/38P2/2/2.5/2.5.7
-prevL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.2/Suddha
-upL: /tipitaka/38P2/2/2.5/2.5.7
-nextL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md)
 
 # Paccanīyuddhāra
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.2
 844. Rūpī ca arūpī ca dhammā rūpissa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (1)
 
 845. Rūpī ca arūpī ca dhammā arūpissa dhammassa sahajātaṃ, purejātaṃ. (2)
+
+[Go to previous page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.7.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.2.md)
 
 

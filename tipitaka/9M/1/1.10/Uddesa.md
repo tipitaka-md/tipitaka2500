@@ -1,20 +1,5 @@
----
-title:  Uddesa
-path: /tipitaka/9M/1/1.10/Uddesa
-ref: 273609
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 9M Mūlapaṇṇāsapāḷi
-    link: /tipitaka/9M
-  - name: 1 Mūlapariyāyavagga
-    link: /tipitaka/9M/1
-  - name: 1.10 Mahāsatipaṭṭhānasutta
-    link: /tipitaka/9M/1/1.10
-prevL: /tipitaka/9M/1/1.10
-upL: /tipitaka/9M/1/1.10
-nextL: /tipitaka/9M/1/1.10/1.10.1
----
+
+[Home](/) / [9M Mūlapaṇṇāsapāḷi](/tipitaka/9M.md) / [1 Mūlapariyāyavagga](/tipitaka/9M/1.md) / [1.10 Mahāsatipaṭṭhānasutta](/tipitaka/9M/1/1.10.md)
 
 # Uddesa
 
@@ -35,5 +20,7 @@ nextL: /tipitaka/9M/1/1.10/1.10.1
 304. Uddeso niṭṭhito.
 
 
+
+[Go to previous page](/tipitaka/9M/1/1.10.md) / [Go to parent page](/tipitaka/9M/1/1.10.md) / [Go to next page](/tipitaka/9M/1/1.10/1.10.1.md)
 
 

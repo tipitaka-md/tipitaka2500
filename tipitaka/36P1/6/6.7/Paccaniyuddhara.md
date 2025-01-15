@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/36P1/6/6.7/Paccaniyuddhara
-ref: 258986
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 6 Saṃkiliṭṭhattika
-    link: /tipitaka/36P1/6
-  - name: 6.7 Pañhāvāra
-    link: /tipitaka/36P1/6/6.7
-prevL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.2/Hetusamannaghatana
-upL: /tipitaka/36P1/6/6.7
-nextL: /tipitaka/36P1/6/6.7/6.7.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md)
 
 # Paccanīyuddhāra
 
@@ -55,5 +40,7 @@ nextL: /tipitaka/36P1/6/6.7/6.7.2
 2925. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā saṃkiliṭṭhasaṃkilesikassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 2926. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā asaṃkiliṭṭhasaṃkilesikassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
+
+[Go to previous page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2/Hetusamannaghatana.md) / [Go to parent page](/tipitaka/36P1/6/6.7.md) / [Go to next page](/tipitaka/36P1/6/6.7/6.7.2.md)
 
 

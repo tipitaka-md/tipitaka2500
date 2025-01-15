@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/37P1/13/13.5/13.5.2/13.5.2.1/Nahetu
-ref: 263116
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.5 Saṃsaṭṭhavāra
-    link: /tipitaka/37P1/13/13.5
-  - name: 13.5.2 Paccayapaccanīya
-    link: /tipitaka/37P1/13/13.5/13.5.2
-  - name: 13.5.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.5/13.5.2/13.5.2.1
-prevL: /tipitaka/37P1/13/13.5/13.5.2/13.5.2.1
-upL: /tipitaka/37P1/13/13.5/13.5.2/13.5.2.1
-nextL: /tipitaka/37P1/13/13.5/13.5.2/13.5.2.1/Naadhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.5 Saṃsaṭṭhavāra](/tipitaka/37P1/13/13.5.md) / [13.5.2 Paccayapaccanīya](/tipitaka/37P1/13/13.5/13.5.2.md) / [13.5.2.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1.md)
 
 # Nahetu
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/13/13.5/13.5.2/13.5.2.1/Naadhipati
 (45.)
 
 2002. Parittaṃ dhammaṃ saṃsaṭṭho paritto dhammo uppajjati nahetupaccayā—  ahetukaṃ parittaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
+
+[Go to previous page](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1.md) / [Go to parent page](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1.md) / [Go to next page](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1/Naadhipati.md)
 
 

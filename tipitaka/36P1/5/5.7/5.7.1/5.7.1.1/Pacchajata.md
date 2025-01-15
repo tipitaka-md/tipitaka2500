@@ -1,24 +1,5 @@
----
-title:  Pacchājāta
-path: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Pacchajata
-ref: 262767
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.7 Pañhāvāra
-    link: /tipitaka/36P1/5/5.7
-  - name: 5.7.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.7/5.7.1
-  - name: 5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-prevL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Purejata
-upL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Asevana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md)
 
 # Pacchājāta
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Asevana
 2676. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa pacchājātapaccayena paccayo—  pacchājātā anupādinnaanupādāniyā khandhā purejātassa imassa anupādinnupādāniyassa kāyassa pacchājātapaccayena paccayo. (2)
 
 2677. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa ca anupādinnupādāniyassa ca dhammassa pacchājātapaccayena paccayo—  pacchājātā anupādinnaanupādāniyā khandhā purejātassa imassa upādinnupādāniyassa ca anupādinnupādāniyassa ca kāyassa pacchājātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Purejata.md) / [Go to parent page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Asevana.md)
 
 

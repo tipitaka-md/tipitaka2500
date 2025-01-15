@@ -1,24 +1,5 @@
----
-title:  Nonatthi-novigataduka
-path: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nonatthi-novigataduka
-ref: 262125
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.1/2.1.2
-  - name: 2.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2
-prevL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navippayuttaduka/Catukka
-upL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2
-nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nonatthi-novigataduka/Tika
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.2 Paccayapaccanīya](/tipitaka/36P1/2/2.1/2.1.2.md) / [2.1.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2.md)
 
 # Nonatthi-novigataduka
 
@@ -36,6 +17,8 @@ nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nonatthi-novigataduka/Tika
 
 275. Nonatthipaccayā…  novigatapaccayā nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā pañca, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme ekaṃ, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte ekaṃ, nonatthiyā pañca.
 
-* [Tika](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nonatthi-novigataduka/Tika)
+* [Tika](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nonatthi-novigataduka/Tika.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navippayuttaduka/Catukka.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nonatthi-novigataduka/Tika.md)
 
 

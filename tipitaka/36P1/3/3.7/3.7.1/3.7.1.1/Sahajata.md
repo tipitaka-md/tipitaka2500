@@ -1,24 +1,5 @@
----
-title:  Sahajāta
-path: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Sahajata
-ref: 262598
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.7 Pañhāvāra
-    link: /tipitaka/36P1/3/3.7
-  - name: 3.7.1 Paccayānuloma
-    link: /tipitaka/36P1/3/3.7/3.7.1
-  - name: 3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1
-prevL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Samanantara
-upL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1
-nextL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Annamanna-nissaya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md)
 
 # Sahajāta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Annamanna-nissaya
 (51.)
 
 1914. Adukkhamasukhāya vedanāya sampayutto dhammo adukkhamasukhāya vedanāya sampayuttassa dhammassa sahajātapaccayena paccayo—  adukkhamasukhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ sahajātapaccayena paccayo. Dve khandhā ekassa khandhassa sahajātapaccayena paccayo. Paṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ sahajātapaccayena paccayo. Dve khandhā ekassa khandhassa sahajātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Samanantara.md) / [Go to parent page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md) / [Go to next page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Annamanna-nissaya.md)
 
 

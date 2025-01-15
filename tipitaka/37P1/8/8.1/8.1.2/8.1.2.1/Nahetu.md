@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Nahetu
-ref: 262853
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.1 Paṭiccavāra
-    link: /tipitaka/37P1/8/8.1
-  - name: 8.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/8/8.1/8.1.2
-  - name: 8.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1
-prevL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1
-upL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1
-nextL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Naadhipati-naasevana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.1 Paṭiccavāra](/tipitaka/37P1/8/8.1.md) / [8.1.2 Paccayapaccanīya](/tipitaka/37P1/8/8.1/8.1.2.md) / [8.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md)
 
 # Nahetu
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Naadhipati-naasevana
 661. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca sukhasahagato dhammo uppajjati nahetupaccayā—  ahetukaṃ pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. (2)
 
 662. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
+
+[Go to previous page](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md) / [Go to parent page](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md) / [Go to next page](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Naadhipati-naasevana.md)
 
 

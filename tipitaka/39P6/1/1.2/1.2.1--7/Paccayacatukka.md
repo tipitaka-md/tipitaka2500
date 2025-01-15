@@ -1,25 +1,10 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P6/1/1.2/1.2.1--7/Paccayacatukka
-ref: 262010
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/39P6
-  - name: 1 Hetuduka, Duka
-    link: /tipitaka/39P6/1
-  - name: 1.2 Hetuduka, Hetusampayuttaduka
-    link: /tipitaka/39P6/1/1.2
-  - name: 1.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P6/1/1.2/1.2.1--7
-prevL: /tipitaka/39P6/1/1.2/1.2.1--7
-upL: /tipitaka/39P6/1/1.2/1.2.1--7
-nextL: /tipitaka/39P6/1/1.2/1.2.1--7/Paccayacatukka/Hetu
----
+
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.2 Hetuduka, Hetusampayuttaduka](/tipitaka/39P6/1/1.2.md) / [1.2.1--7 Paṭiccādivāra](/tipitaka/39P6/1/1.2/1.2.1--7.md)
 
 # Paccayacatukka
 
-* [Hetu](/tipitaka/39P6/1/1.2/1.2.1--7/Paccayacatukka/Hetu)
+* [Hetu](/tipitaka/39P6/1/1.2/1.2.1--7/Paccayacatukka/Hetu.md)
+
+[Go to previous page](/tipitaka/39P6/1/1.2/1.2.1--7.md) / [Go to parent page](/tipitaka/39P6/1/1.2/1.2.1--7.md) / [Go to next page](/tipitaka/39P6/1/1.2/1.2.1--7/Paccayacatukka/Hetu.md)
 
 

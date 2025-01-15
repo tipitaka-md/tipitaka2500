@@ -1,24 +1,5 @@
----
-title:  Navippayuttaduka
-path: /tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka
-ref: 262585
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.1 Paṭiccavāra
-    link: /tipitaka/36P1/3/3.1
-  - name: 3.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/3/3.1/3.1.2
-  - name: 3.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/3/3.1/3.1.2/3.1.2.2
-prevL: /tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Namaggaduka/Pancaka
-upL: /tipitaka/36P1/3/3.1/3.1.2/3.1.2.2
-nextL: /tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Tika
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.2 Paccayapaccanīya](/tipitaka/36P1/3/3.1/3.1.2.md) / [3.1.2.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2.md)
 
 # Navippayuttaduka
 
@@ -36,7 +17,9 @@ nextL: /tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Tika
 
 1851. Navippayuttapaccayā nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, namagge ekaṃ.
 
-* [Tika](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Tika)
-* [Navaka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Navaka)
+* [Tika](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Tika.md)
+* [Navaka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Navaka.md)
+
+[Go to previous page](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Namaggaduka/Pancaka.md) / [Go to parent page](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2.md) / [Go to next page](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Tika.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4/9.2.1--7.1--4.1/Hetu
-ref: 265138
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.2 Parāmaṭṭhaduka
-    link: /tipitaka/38P2/9/9.2
-  - name: 9.2.1--7 Paṭiccādivāra
-    link: /tipitaka/38P2/9/9.2/9.2.1--7
-  - name: 9.2.1--7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4
-  - name: 9.2.1--7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4/9.2.1--7.1--4.1
-prevL: /tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4/9.2.1--7.1--4.1
-upL: /tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4/9.2.1--7.1--4.1
-nextL: /tipitaka/38P2/9/9.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.2 Parāmaṭṭhaduka](/tipitaka/38P2/9/9.2.md) / [9.2.1--7 Paṭiccādivāra](/tipitaka/38P2/9/9.2/9.2.1--7.md) / [9.2.1--7.1--4 Paccayānulomādi](/tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4.md) / [9.2.1--7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4/9.2.1--7.1--4.1.md)
 
 # Hetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/9/9.3
 2212. Parāmaṭṭhadukaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4/9.2.1--7.1--4.1.md) / [Go to parent page](/tipitaka/38P2/9/9.2/9.2.1--7/9.2.1--7.1--4/9.2.1--7.1--4.1.md) / [Go to next page](/tipitaka/38P2/9/9.3.md)
 
 

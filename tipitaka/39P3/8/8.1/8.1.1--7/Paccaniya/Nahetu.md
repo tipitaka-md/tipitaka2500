@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/39P3/8/8.1/8.1.1--7/Paccaniya/Nahetu
-ref: 264240
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 8 Nīvaraṇagocchaka, Kusalattika
-    link: /tipitaka/39P3/8
-  - name: 8.1 Nīvaraṇaduka, Kusalattika
-    link: /tipitaka/39P3/8/8.1
-  - name: 8.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/8/8.1/8.1.1--7
-  - name: Paccanīya
-    link: /tipitaka/39P3/8/8.1/8.1.1--7/Paccaniya
-prevL: /tipitaka/39P3/8/8.1/8.1.1--7/Paccaniya
-upL: /tipitaka/39P3/8/8.1/8.1.1--7/Paccaniya
-nextL: /tipitaka/39P3/8/8.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [8 Nīvaraṇagocchaka, Kusalattika](/tipitaka/39P3/8.md) / [8.1 Nīvaraṇaduka, Kusalattika](/tipitaka/39P3/8/8.1.md) / [8.1.1--7 Paṭiccādivāra](/tipitaka/39P3/8/8.1/8.1.1--7.md) / [Paccanīya](/tipitaka/39P3/8/8.1/8.1.1--7/Paccaniya.md)
 
 # Nahetu
 
@@ -71,5 +52,7 @@ nextL: /tipitaka/39P3/8/8.2
 1913. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1914. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/8/8.1/8.1.1--7/Paccaniya.md) / [Go to parent page](/tipitaka/39P3/8/8.1/8.1.1--7/Paccaniya.md) / [Go to next page](/tipitaka/39P3/8/8.2.md)
 
 

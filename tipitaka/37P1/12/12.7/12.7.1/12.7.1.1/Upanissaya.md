@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Upanissaya
-ref: 263079
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.7 Pañhāvāra
-    link: /tipitaka/37P1/12/12.7
-  - name: 12.7.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.7/12.7.1
-  - name: 12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-prevL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Sahajatadi
-upL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Purejata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
 
 # Upanissaya
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Purejata
 1806. Nevasekkhanāsekkho dhammo sekkhassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamassa maggassa parikammaṃ paṭhamassa maggassa upanissayapaccayena paccayo…pe…  catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (2)
 
 1807. Nevasekkhanāsekkho dhammo asekkhassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ asekkhāya phalasamāpattiyā upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Sahajatadi.md) / [Go to parent page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Purejata.md)
 
 

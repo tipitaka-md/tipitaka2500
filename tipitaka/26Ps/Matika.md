@@ -1,16 +1,5 @@
----
-title:  Mātikā
-path: /tipitaka/26Ps/Matika
-ref: 266394
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 26Ps Paṭisambhidāmaggapāḷi
-    link: /tipitaka/26Ps
-prevL: /tipitaka/26Ps/0
-upL: /tipitaka/26Ps/0
-nextL: /tipitaka/26Ps/1
----
+
+[Home](/) / [26Ps Paṭisambhidāmaggapāḷi](/tipitaka/26Ps.md)
 
 # Mātikā
 
@@ -315,5 +304,7 @@ nextL: /tipitaka/26Ps/1
 76. Mātikā niṭṭhitā.
 
 
+
+[Go to previous page](/tipitaka/26Ps/0.md) / [Go to parent page](/tipitaka/26Ps/0.md) / [Go to next page](/tipitaka/26Ps/1.md)
 
 

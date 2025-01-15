@@ -1,24 +1,5 @@
----
-title:  Jhāna
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Jhana
-ref: 262842
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Indriya
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Magga
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Jhāna
 
@@ -61,5 +42,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Magga
 533. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa jhānapaccayena paccayo—  savitakkasavicārāni jhānaṅgāni vitakko ca cittasamuṭṭhānānaṃ rūpānaṃ jhānapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (2)
 
 534. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa jhānapaccayena paccayo—  savitakkasavicārāni jhānaṅgāni vitakko ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ jhānapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Indriya.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Magga.md)
 
 

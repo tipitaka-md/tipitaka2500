@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/7/7.2/7.2.1--7/Hetu
-ref: 261917
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.2 Kusalattika, Bhāvanāyapahātabbaduka
-    link: /tipitaka/39P4/7/7.2
-  - name: 7.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/7/7.2/7.2.1--7
-prevL: /tipitaka/39P4/7/7.2/7.2.1--7
-upL: /tipitaka/39P4/7/7.2/7.2.1--7
-nextL: /tipitaka/39P4/7/7.3
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.2 Kusalattika, Bhāvanāyapahātabbaduka](/tipitaka/39P4/7/7.2.md) / [7.2.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.2/7.2.1--7.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/39P4/7/7.3
 1544. Kusalaṃ nabhāvanāya pahātabbaṃ dhammaṃ paṭicca kusalo nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 1545. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.2/7.2.1--7.md) / [Go to parent page](/tipitaka/39P4/7/7.2/7.2.1--7.md) / [Go to next page](/tipitaka/39P4/7/7.3.md)
 
 

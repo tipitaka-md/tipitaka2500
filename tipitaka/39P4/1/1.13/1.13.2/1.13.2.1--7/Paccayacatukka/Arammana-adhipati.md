@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa-adhipati
-path: /tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka/Arammana-adhipati
-ref: 266072
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.13 Parittārammaṇattika, Hetuduka
-    link: /tipitaka/39P4/1/1.13
-  - name: 1.13.2 Nahetupada
-    link: /tipitaka/39P4/1/1.13/1.13.2
-  - name: 1.13.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.14
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.13 Parittārammaṇattika, Hetuduka](/tipitaka/39P4/1/1.13.md) / [1.13.2 Nahetupada](/tipitaka/39P4/1/1.13/1.13.2.md) / [1.13.2.1--7 Paṭiccādivāra](/tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka.md)
 
 # Ārammaṇa-adhipati
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/39P4/1/1.14
 642. Nahetupaccayā ārammaṇe satta. (Saṃkhittaṃ.)
 
 643. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.14.md)
 
 

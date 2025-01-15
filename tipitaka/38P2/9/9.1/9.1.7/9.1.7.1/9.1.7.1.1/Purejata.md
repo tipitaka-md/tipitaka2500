@@ -1,26 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Purejata
-ref: 265130
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.1 Parāmāsaduka
-    link: /tipitaka/38P2/9/9.1
-  - name: 9.1.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.1/9.1.7
-  - name: 9.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1
-  - name: 9.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
-prevL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Upanissaya
-upL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
-nextL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Pacchajatasevana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.7 Pañhāvāra](/tipitaka/38P2/9/9.1/9.1.7.md) / [9.1.7.1 Paccayānuloma](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md)
 
 # Purejāta
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Pacchajatasevana
 2179. Noparāmāso dhammo parāmāsassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha diṭṭhi uppajjati. **Vatthupurejātaṃ**—  vatthu parāmāsassa purejātapaccayena paccayo. (2)
 
 2180. Noparāmāso dhammo parāmāsassa ca noparāmāsassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha parāmāso ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu parāmāsassa ca sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Pacchajatasevana.md)
 
 

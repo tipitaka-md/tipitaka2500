@@ -1,18 +1,5 @@
----
-title:  Bhinnanigaṇṭhavatthu
-path: /tipitaka/8D/10/Bhinnaniganthavatthu
-ref: 272514
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 8D Pāthikavaggapāḷi
-    link: /tipitaka/8D
-  - name: 10 Saṅgītisutta
-    link: /tipitaka/8D/10
-prevL: /tipitaka/8D/10/Ubbhatakanavasandhagara
-upL: /tipitaka/8D/10
-nextL: /tipitaka/8D/10/10.1
----
+
+[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [10 Saṅgītisutta](/tipitaka/8D/10.md)
 
 # Bhinnanigaṇṭhavatthu
 
@@ -29,5 +16,7 @@ nextL: /tipitaka/8D/10/10.1
 780. Atha kho āyasmā sāriputto bhikkhū āmantesi—  “nigaṇṭho, āvuso, nāṭaputto pāvāyaṃ adhunākālaṅkato, tassa kālaṃkiriyāya bhinnā nigaṇṭhā dvedhikajātā…pe…  bhinnathūpe appaṭisaraṇe. Evañhetaṃ, āvuso, hoti durakkhāte dhammavinaye duppavedite aniyyānike anupasamasaṃvattanike asammāsambuddhappavedite. Ayaṃ kho panāvuso, amhākaṃ bhagavatā dhammo svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito. Tattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ.
 
 781. Katamo cāvuso, amhākaṃ bhagavatā dhammo svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito; yattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ?
+
+[Go to previous page](/tipitaka/8D/10/Ubbhatakanavasandhagara.md) / [Go to parent page](/tipitaka/8D/10.md) / [Go to next page](/tipitaka/8D/10/10.1.md)
 
 

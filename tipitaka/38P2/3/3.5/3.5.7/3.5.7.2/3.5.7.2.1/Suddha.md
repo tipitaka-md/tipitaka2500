@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1/Suddha
-ref: 264941
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.5 Āsavaāsavasampayuttaduka
-    link: /tipitaka/38P2/3/3.5
-  - name: 3.5.7 Pañhāvāra
-    link: /tipitaka/38P2/3/3.5/3.5.7
-  - name: 3.5.7.2 Paccayapaccanīya
-    link: /tipitaka/38P2/3/3.5/3.5.7/3.5.7.2
-  - name: 3.5.7.2.1 Saṅkhyāvāra
-    link: /tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1
-prevL: /tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1
-upL: /tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1
-nextL: /tipitaka/38P2/3/3.5/3.5.7/3.5.7.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.5 Āsavaāsavasampayuttaduka](/tipitaka/38P2/3/3.5.md) / [3.5.7 Pañhāvāra](/tipitaka/38P2/3/3.5/3.5.7.md) / [3.5.7.2 Paccayapaccanīya](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.2.md) / [3.5.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/3/3.5/3.5.7/3.5.7.3
 (128.)
 
 1313. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
+
+[Go to previous page](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1.md) / [Go to parent page](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1.md) / [Go to next page](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.3.md)
 
 

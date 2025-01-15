@@ -1,26 +1,5 @@
----
-title:  Sahajātādi
-path: /tipitaka/39P3/1/1.22/1.22.1/1.22.1.7/Paccayacatukka/Sahajatadi
-ref: 265951
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.22 Hetuduka, Sanidassanasappaṭighattika
-    link: /tipitaka/39P3/1/1.22
-  - name: 1.22.1 Anidassanasappaṭighapada
-    link: /tipitaka/39P3/1/1.22/1.22.1
-  - name: 1.22.1.7 Pañhāvāra
-    link: /tipitaka/39P3/1/1.22/1.22.1/1.22.1.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/1/1.22/1.22.1/1.22.1.7/Paccayacatukka
-prevL: /tipitaka/39P3/1/1.22/1.22.1/1.22.1.7/Paccayacatukka
-upL: /tipitaka/39P3/1/1.22/1.22.1/1.22.1.7/Paccayacatukka
-nextL: /tipitaka/39P3/1/1.22/1.22.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.22 Hetuduka, Sanidassanasappaṭighattika](/tipitaka/39P3/1/1.22.md) / [1.22.1 Anidassanasappaṭighapada](/tipitaka/39P3/1/1.22/1.22.1.md) / [1.22.1.7 Pañhāvāra](/tipitaka/39P3/1/1.22/1.22.1/1.22.1.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.22/1.22.1/1.22.1.7/Paccayacatukka.md)
 
 # Sahajātādi
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/39P3/1/1.22/1.22.2
 (544.)
 
 1219. Nahetu anidassanasappaṭigho dhammo nahetussa anidassanasappaṭighassa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo…  atthipaccayena paccayo…  avigatapaccayena paccayo. (Sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/1/1.22/1.22.1/1.22.1.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/1/1.22/1.22.1/1.22.1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.22/1.22.2.md)
 
 

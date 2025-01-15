@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Arammana
-ref: 263028
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-  - name: 11.7.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.7/11.7.1
-  - name: 11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Hetu
-upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md) / [11.7.1 Paccayānuloma](/tipitaka/37P1/11/11.7/11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Ārammaṇa
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Adhipati
 1570. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa ārammaṇapaccayena paccayo—  sekkhā phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa ārammaṇapaccayena paccayo. Sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  vatthuṃ…  nevācayagāmināpacayagāmī khandhe aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā…pe…  uddhaccaṃ…pe…  domanassaṃ…pe…  dibbena cakkhunā rūpaṃ passanti, dibbāya sotadhātuyā saddaṃ suṇanti, cetopariyañāṇena nevācayagāmināpacayagāmicittasamaṅgissa cittaṃ jānanti, nevācayagāmināpacayagāmī khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (2)
 
 1571. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa ārammaṇapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Adhipati.md)
 
 

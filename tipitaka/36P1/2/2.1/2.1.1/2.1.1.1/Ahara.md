@@ -1,24 +1,5 @@
----
-title:  Āhāra
-path: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Ahara
-ref: 262080
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.1/2.1.1
-  - name: 2.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1
-prevL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Vipaka
-upL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1
-nextL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Indriya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md)
 
 # Āhāra
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Indriya
 158. Kusalañca abyākatañca dhammaṃ paṭicca…pe… .
 
 159. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati āhārapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ.
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Vipaka.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Indriya.md)
 
 

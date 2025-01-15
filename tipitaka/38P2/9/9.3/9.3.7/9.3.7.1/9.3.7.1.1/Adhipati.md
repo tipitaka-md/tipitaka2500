@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Adhipati
-ref: 265149
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.3 Parāmāsasampayuttaduka
-    link: /tipitaka/38P2/9/9.3
-  - name: 9.3.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.3/9.3.7
-  - name: 9.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1
-  - name: 9.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1
-prevL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Arammana
-upL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1
-nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Anantara-samanantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.7 Pañhāvāra](/tipitaka/38P2/9/9.3/9.3.7.md) / [9.3.7.1 Paccayānuloma](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md)
 
 # Adhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Anantara-samanantara
 2254. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, assādeti abhinandati, taṃ garuṃ katvā parāmāsavippayutto rāgo uppajjati, pubbe…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā…pe…  phalaṃ…pe…  nibbānaṃ…pe…  nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ parāmāsavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsavippayutto rāgo uppajjati. **Sahajātādhipati**—  parāmāsavippayuttādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
 
 2255. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsasampayutto rāgo uppajjati, pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ parāmāsavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsasampayutto rāgo uppajjati. (2)
+
+[Go to previous page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Anantara-samanantara.md)
 
 

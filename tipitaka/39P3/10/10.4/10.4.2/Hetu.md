@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/10/10.4/10.4.2/Hetu
-ref: 261742
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.4 Cittasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.4
-  - name: 10.4.2 Abyākatapada
-    link: /tipitaka/39P3/10/10.4/10.4.2
-prevL: /tipitaka/39P3/10/10.4/10.4.2
-upL: /tipitaka/39P3/10/10.4/10.4.2
-nextL: /tipitaka/39P3/10/10.4/10.4.2/Hetu-arammana
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.4 Cittasampayuttaduka, Kusalattika](/tipitaka/39P3/10/10.4.md) / [10.4.2 Abyākatapada](/tipitaka/39P3/10/10.4/10.4.2.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/39P3/10/10.4/10.4.2/Hetu-arammana
 2081. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe…  aññamaññe cha…pe…  purejāte ekaṃ, āsevane ekaṃ, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 2082. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte nava…pe…  nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve…pe…  novigate dve. (Saṃkhittaṃ, sahajātavārādi vitthāretabbo.)
+
+[Go to previous page](/tipitaka/39P3/10/10.4/10.4.2.md) / [Go to parent page](/tipitaka/39P3/10/10.4/10.4.2.md) / [Go to next page](/tipitaka/39P3/10/10.4/10.4.2/Hetu-arammana.md)
 
 

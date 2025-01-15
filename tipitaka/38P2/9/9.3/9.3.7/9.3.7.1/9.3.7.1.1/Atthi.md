@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Atthi
-ref: 265157
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.3 Parāmāsasampayuttaduka
-    link: /tipitaka/38P2/9/9.3
-  - name: 9.3.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.3/9.3.7
-  - name: 9.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1
-  - name: 9.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1
-prevL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Vippayutta
-upL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1
-nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.7 Pañhāvāra](/tipitaka/38P2/9/9.3/9.3.7.md) / [9.3.7.1 Paccayānuloma](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md)
 
 # Atthi
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.2
 2282. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsasampayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  parāmāsasampayutto eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (1)
 
 2283. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsavippayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  parāmāsasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  parāmāsasampayuttā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  parāmāsasampayuttā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.2.md)
 
 

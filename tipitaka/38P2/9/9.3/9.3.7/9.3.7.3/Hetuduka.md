@@ -1,24 +1,5 @@
----
-title:  Hetuduka
-path: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.3/Hetuduka
-ref: 263676
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.3 Parāmāsasampayuttaduka
-    link: /tipitaka/38P2/9/9.3
-  - name: 9.3.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.3/9.3.7
-  - name: 9.3.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.3
-prevL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.3
-upL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.3
-nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.4
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.7 Pañhāvāra](/tipitaka/38P2/9/9.3/9.3.7.md) / [9.3.7.3 Paccayānulomapaccanīya](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.3.md)
 
 # Hetuduka
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.4
 (84.)
 
 2294. Hetupaccayā naārammaṇe cattāri, naadhipatiyā cattāri, naanantare cattāri, nasamanantare cattāri, naaññamaññe dve, naupanissaye cattāri (sabbattha cattāri), namagge cattāri, nasampayutte dve, navippayutte dve, nonatthiyā cattāri, novigate cattāri.
+
+[Go to previous page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.3.md) / [Go to parent page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.3.md) / [Go to next page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.4.md)
 
 

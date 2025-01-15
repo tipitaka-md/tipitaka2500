@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Upanissaya
-ref: 263032
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-  - name: 11.7.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.7/11.7.1
-  - name: 11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Samanantaradi
-upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Purejata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md) / [11.7.1 Paccayānuloma](/tipitaka/37P1/11/11.7/11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Upanissaya
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Purejata
 1596. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, pāṇaṃ hanati…pe…  saṃghaṃ bhindati. Kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati, kāyikaṃ sukhaṃ…pe…  senāsanaṃ ācayagāmiyā saddhāya…pe…  paññāya, rāgassa…pe…  patthanāya upanissayapaccayena paccayo. (2)
 
 1597. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ upanissāya maggaṃ uppādeti. Kāyikaṃ dukkhaṃ…pe…  senāsanaṃ upanissāya maggaṃ uppādeti, kāyikaṃ sukhaṃ, kāyikaṃ dukkhaṃ…pe…  senāsanaṃ maggassa upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Samanantaradi.md) / [Go to parent page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Purejata.md)
 
 

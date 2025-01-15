@@ -1,22 +1,5 @@
----
-title:  Hetuduka
-path: /tipitaka/36P1/4/4.3/4.3.3/Hetuduka
-ref: 260656
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.3 Paccayavāra
-    link: /tipitaka/36P1/4/4.3
-  - name: 4.3.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/4/4.3/4.3.3
-prevL: /tipitaka/36P1/4/4.3/4.3.3
-upL: /tipitaka/36P1/4/4.3/4.3.3
-nextL: /tipitaka/36P1/4/4.3/4.3.4
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.3 Paccayānulomapaccanīya](/tipitaka/36P1/4/4.3/4.3.3.md)
 
 # Hetuduka
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/36P1/4/4.3/4.3.4
 2242. Anulomapaccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/4/4.3/4.3.3.md) / [Go to parent page](/tipitaka/36P1/4/4.3/4.3.3.md) / [Go to next page](/tipitaka/36P1/4/4.3/4.3.4.md)
 
 

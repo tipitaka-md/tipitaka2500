@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/7/7.5/7.5.1/Hetu
-ref: 260708
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.5 Saṃsaṭṭhavāra
-    link: /tipitaka/37P1/7/7.5
-  - name: 7.5.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.5/7.5.1
-prevL: /tipitaka/37P1/7/7.5/7.5.1
-upL: /tipitaka/37P1/7/7.5/7.5.1
-nextL: /tipitaka/37P1/7/7.5/7.5.1/Suddha
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.5 Saṃsaṭṭhavāra](/tipitaka/37P1/7/7.5.md) / [7.5.1 Paccayānuloma](/tipitaka/37P1/7/7.5/7.5.1.md)
 
 # Hetu
 
@@ -57,5 +40,7 @@ nextL: /tipitaka/37P1/7/7.5/7.5.1/Suddha
 259. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ saṃsaṭṭho savitakkasavicāro dhammo uppajjati hetupaccayā—  savitakkasavicāraṃ ekaṃ khandhañca vitakkañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe ca vitakkañca…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 260. (Hetupaccayaṃ anumajjantena sabbe paccayā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/37P1/7/7.5/7.5.1.md) / [Go to parent page](/tipitaka/37P1/7/7.5/7.5.1.md) / [Go to next page](/tipitaka/37P1/7/7.5/7.5.1/Suddha.md)
 
 

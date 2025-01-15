@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/8/8.1/8.1.7/Paccaniyuddhara
-ref: 261138
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.1 Nīvaraṇaduka
-    link: /tipitaka/38P2/8/8.1
-  - name: 8.1.7 Pañhāvāra
-    link: /tipitaka/38P2/8/8.1/8.1.7
-prevL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2/Suddha
-upL: /tipitaka/38P2/8/8.1/8.1.7
-nextL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.7 Pañhāvāra](/tipitaka/38P2/8/8.1/8.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -51,5 +34,7 @@ nextL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.2
 1984. Nīvaraṇo ca nonīvaraṇo ca dhammā nonīvaraṇassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 1985. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa ca nonīvaraṇassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/8/8.1/8.1.7.md) / [Go to next page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.2.md)
 
 

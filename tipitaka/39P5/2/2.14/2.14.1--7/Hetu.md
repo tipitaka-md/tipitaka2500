@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P5/2/2.14/2.14.1--7/Hetu
-ref: 262000
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 2 Tika, Kusalattika
-    link: /tipitaka/39P5/2
-  - name: 2.14 Micchattattika, Kusalattika
-    link: /tipitaka/39P5/2/2.14
-  - name: 2.14.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/2/2.14/2.14.1--7
-prevL: /tipitaka/39P5/2/2.14/2.14.1--7
-upL: /tipitaka/39P5/2/2.14/2.14.1--7
-nextL: /tipitaka/39P5/2/2.15
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.14 Micchattattika, Kusalattika](/tipitaka/39P5/2/2.14.md) / [2.14.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.14/2.14.1--7.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/39P5/2/2.15
 401. Aniyataṃ akusalaṃ dhammaṃ paṭicca aniyato akusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
 
 402. Aniyataṃ abyākataṃ dhammaṃ paṭicca aniyato abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P5/2/2.14/2.14.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.14/2.14.1--7.md) / [Go to next page](/tipitaka/39P5/2/2.15.md)
 
 

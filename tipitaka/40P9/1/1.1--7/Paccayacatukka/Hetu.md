@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P9/1/1.1--7/Paccayacatukka/Hetu
-ref: 262021
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P9
-  - name: 1 Hetuduka, Kusalattika
-    link: /tipitaka/40P9/1
-  - name: 1.1--7 Paṭiccādivāra
-    link: /tipitaka/40P9/1/1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P9/1/1.1--7/Paccayacatukka
-prevL: /tipitaka/40P9/1/1.1--7/Paccayacatukka
-upL: /tipitaka/40P9/1/1.1--7/Paccayacatukka
-nextL: /tipitaka/40P9/1/1.1--7/Paccayacatukka/Hetu-arammana
----
+
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [1 Hetuduka, Kusalattika](/tipitaka/40P9/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P9/1/1.1--7.md) / [Paccayacatukka](/tipitaka/40P9/1/1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/40P9/1/1.1--7/Paccayacatukka/Hetu-arammana
 6. Nahetuyā dve, na ārammaṇe tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi…pe…  naāhāre…pe…  namagge ekaṃ…pe…  novigate tīṇi.
 
 7. (Sahajātavārepi…pe…  sampayuttavārepi sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/40P9/1/1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P9/1/1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P9/1/1.1--7/Paccayacatukka/Hetu-arammana.md)
 
 

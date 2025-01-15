@@ -1,24 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Purejata
-ref: 262377
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Upanissaya
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Pacchajata
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
 
 # Purejāta
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Pacchajata
 934. Abyākato dhammo akusalassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Sotaṃ…pe…  ghānaṃ…pe…  jivhaṃ…pe…  kāyaṃ…pe…  rūpe…pe…  sadde…pe…  gandhe…pe…  rase…pe…  phoṭṭhabbe…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati.
 
 935. **Vatthupurejātaṃ**—  vatthu akusalānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Pacchajata.md)
 
 

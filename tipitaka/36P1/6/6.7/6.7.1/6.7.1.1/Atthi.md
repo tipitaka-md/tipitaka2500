@@ -1,24 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Atthi
-ref: 262799
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 6 Saṃkiliṭṭhattika
-    link: /tipitaka/36P1/6
-  - name: 6.7 Pañhāvāra
-    link: /tipitaka/36P1/6/6.7
-  - name: 6.7.1 Paccayānuloma
-    link: /tipitaka/36P1/6/6.7/6.7.1
-  - name: 6.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1
-prevL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Vippayutta
-upL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1
-nextL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Natthi-vigatavigata
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md) / [6.7.1 Paccayānuloma](/tipitaka/36P1/6/6.7/6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md)
 
 # Atthi
 
@@ -65,5 +46,7 @@ nextL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Natthi-vigatavigata
 2905. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā saṃkiliṭṭhasaṃkilesikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  saṃkiliṭṭhasaṃkilesiko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…  dve khandhā…pe… . (1)
 
 2906. Saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā asaṃkiliṭṭhasaṃkilesikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  saṃkiliṭṭhasaṃkilesikā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  saṃkiliṭṭhasaṃkilesikā khandhā ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  saṃkiliṭṭhasaṃkilesikā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md) / [Go to next page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Natthi-vigatavigata.md)
 
 

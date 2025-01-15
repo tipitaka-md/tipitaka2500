@@ -1,23 +1,10 @@
----
-title:  Paccayacatukka
-path: /tipitaka/40P19/1/1.1--2/Paccayacatukka
-ref: 259987
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P19
-  - name: 1 Kusalattika
-    link: /tipitaka/40P19/1
-  - name: 1.1--2 Paṭiccādivāra
-    link: /tipitaka/40P19/1/1.1--2
-prevL: /tipitaka/40P19/1/1.1--2
-upL: /tipitaka/40P19/1/1.1--2
-nextL: /tipitaka/40P19/1/1.1--2/Paccayacatukka/Hetu-arammana
----
+
+[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P19.md) / [1 Kusalattika](/tipitaka/40P19/1.md) / [1.1--2 Paṭiccādivāra](/tipitaka/40P19/1/1.1--2.md)
 
 # Paccayacatukka
 
-* [Hetu-ārammaṇa](/tipitaka/40P19/1/1.1--2/Paccayacatukka/Hetu-arammana)
+* [Hetu-ārammaṇa](/tipitaka/40P19/1/1.1--2/Paccayacatukka/Hetu-arammana.md)
+
+[Go to previous page](/tipitaka/40P19/1/1.1--2.md) / [Go to parent page](/tipitaka/40P19/1/1.1--2.md) / [Go to next page](/tipitaka/40P19/1/1.1--2/Paccayacatukka/Hetu-arammana.md)
 
 

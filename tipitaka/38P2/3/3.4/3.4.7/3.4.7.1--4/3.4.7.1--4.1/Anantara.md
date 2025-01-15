@@ -1,26 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1/Anantara
-ref: 264932
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.4 Āsavasāsavaduka
-    link: /tipitaka/38P2/3/3.4
-  - name: 3.4.7 Pañhāvāra
-    link: /tipitaka/38P2/3/3.4/3.4.7
-  - name: 3.4.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4
-  - name: 3.4.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1
-prevL: /tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1
-upL: /tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1
-nextL: /tipitaka/38P2/3/3.5
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.4 Āsavasāsavaduka](/tipitaka/38P2/3/3.4.md) / [3.4.7 Pañhāvāra](/tipitaka/38P2/3/3.4/3.4.7.md) / [3.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4.md) / [3.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1.md)
 
 # Anantara
 
@@ -67,5 +46,7 @@ nextL: /tipitaka/38P2/3/3.5
 1278. Āsavasāsavadukaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1.md) / [Go to parent page](/tipitaka/38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/3/3.5.md)
 
 

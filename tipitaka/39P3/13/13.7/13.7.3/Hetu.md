@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/13/13.7/13.7.3/Hetu
-ref: 261777
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 13 Piṭṭhiduka, Kusalattika
-    link: /tipitaka/39P3/13
-  - name: 13.7 Sappītikaduka, Kusalattika
-    link: /tipitaka/39P3/13/13.7
-  - name: 13.7.3 Abyākatapada
-    link: /tipitaka/39P3/13/13.7/13.7.3
-prevL: /tipitaka/39P3/13/13.7/13.7.3
-upL: /tipitaka/39P3/13/13.7/13.7.3
-nextL: /tipitaka/39P3/13/13.8
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.7 Sappītikaduka, Kusalattika](/tipitaka/39P3/13/13.7.md) / [13.7.3 Abyākatapada](/tipitaka/39P3/13/13.7/13.7.3.md)
 
 # Hetu
 
@@ -49,5 +32,7 @@ nextL: /tipitaka/39P3/13/13.8
 (54.)
 
 2498. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava, anantare nava…pe…  (sabbattha nava), upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cattāri, vipāke nava, āhāre cattāri, indriye cattāri, jhāne nava, magge cattāri, sampayutte cha, vippayutte pañca, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/13/13.7/13.7.3.md) / [Go to parent page](/tipitaka/39P3/13/13.7/13.7.3.md) / [Go to next page](/tipitaka/39P3/13/13.8.md)
 
 

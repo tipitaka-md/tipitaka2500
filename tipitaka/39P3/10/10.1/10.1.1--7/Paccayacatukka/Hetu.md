@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka/Hetu
-ref: 264250
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.1 Sārammaṇaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.1
-  - name: 10.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/10/10.1/10.1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka
-upL: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka/Hetu-arammana-adhipati
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.1 Sārammaṇaduka, Kusalattika](/tipitaka/39P3/10/10.1.md) / [10.1.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.1/10.1.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka/Hetu-arammana-adhipati
 2024. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe…  aññamaññe cha…pe…  purejāte ekaṃ, āsevane ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
 
 2025. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte napacchājāte naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/10/10.1/10.1.1--7/Paccayacatukka/Hetu-arammana-adhipati.md)
 
 

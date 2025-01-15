@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1/Hetu
-ref: 265023
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.3 Ganthasampayuttaduka
-    link: /tipitaka/38P2/5/5.3
-  - name: 5.3.1 Paṭiccavāra
-    link: /tipitaka/38P2/5/5.3/5.3.1
-  - name: 5.3.1.1 Paccayānuloma
-    link: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1
-  - name: 5.3.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1
-prevL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1
-upL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1
-nextL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.1 Paṭiccavāra](/tipitaka/38P2/5/5.3/5.3.1.md) / [5.3.1.1 Paccayānuloma](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1.md) / [5.3.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1/Arammana
 1726. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā—  ganthasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate khandhe ca paṭighañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1727. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1.md) / [Go to parent page](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1/Arammana.md)
 
 

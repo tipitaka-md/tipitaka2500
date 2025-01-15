@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1/Upanissaya
-ref: 265647
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.9 Sukhasahagataduka
-    link: /tipitaka/38P2/13/13.9
-  - name: 13.9.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.9/13.9.7
-  - name: 13.9.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4
-  - name: 13.9.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1
-prevL: /tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1/Anantaradi
-upL: /tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1
-nextL: /tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1/Purejatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.9 Sukhasahagataduka](/tipitaka/38P2/13/13.9.md) / [13.9.7 Pañhāvāra](/tipitaka/38P2/13/13.9/13.9.7.md) / [13.9.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4.md) / [13.9.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1.md)
 
 # Upanissaya
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1/Purejatadi
 4456. Nasukhasahagato dhammo sukhasahagatassa ca nasukhasahagatassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nasukhasahagataṃ saddhaṃ upanissāya sukhasahagatena cittena dānaṃ deti…pe…  (dutiyagamanasadisaṃ) mānaṃ jappeti, diṭṭhiṃ gaṇhāti; nasukhasahagataṃ sīlaṃ…pe…  senāsanaṃ sukhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, sukhasahagatena cittena adinnaṃ ādiyati…pe…  nasukhasahagatā saddhā…pe…  senāsanaṃ sukhañca sukhasahagatāya…  saddhāya…pe…  patthanāya…  kāyikassa sukhassa, maggassa, phalasamāpattiyā sukhassa ca upanissayapaccayena paccayo. (3)
 
 4457. Sukhasahagato ca nasukhasahagato ca dhammā sukhasahagatassa dhammassa upanissayapaccayena paccayo…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1/Purejatadi.md)
 
 

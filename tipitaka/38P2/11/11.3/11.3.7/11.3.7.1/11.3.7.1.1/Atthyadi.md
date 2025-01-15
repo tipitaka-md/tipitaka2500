@@ -1,26 +1,5 @@
----
-title:  Atthyādi
-path: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Atthyadi
-ref: 265484
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.3 Upādānasampayuttaduka
-    link: /tipitaka/38P2/11/11.3
-  - name: 11.3.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.3/11.3.7
-  - name: 11.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1
-  - name: 11.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-prevL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Vippayutta
-upL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.3 Upādānasampayuttaduka](/tipitaka/38P2/11/11.3.md) / [11.3.7 Pañhāvāra](/tipitaka/38P2/11/11.3/11.3.7.md) / [11.3.7.1 Paccayānuloma](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md)
 
 # Atthyādi
 
@@ -61,5 +40,7 @@ nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.2
 3742. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa ca upādānavippayuttassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  diṭṭhigatavippayuttalobhasahagato eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  diṭṭhigatavippayuttalobhasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ lobhassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (3)
 
 3743. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+
+[Go to previous page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.2.md)
 
 

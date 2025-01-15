@@ -1,24 +1,5 @@
----
-title:  Sahajāta
-path: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Sahajata
-ref: 263128
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.7 Pañhāvāra
-    link: /tipitaka/37P1/13/13.7
-  - name: 13.7.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.7/13.7.1
-  - name: 13.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-prevL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Anantara
-upL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Annamanna
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.7 Pañhāvāra](/tipitaka/37P1/13/13.7.md) / [13.7.1 Paccayānuloma](/tipitaka/37P1/13/13.7/13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md)
 
 # Sahajāta
 
@@ -61,5 +42,7 @@ nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Annamanna
 2064. Paritto ca mahaggato ca dhammā parittassa dhammassa sahajātapaccayena paccayo—  mahaggatā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. Paṭisandhikkhaṇe mahaggatā khandhā ca mahābhūtā ca kaṭattārūpānaṃ sahajātapaccayena paccayo. (1)
 
 2065. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa sahajātapaccayena paccayo—  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe… . (2)
+
+[Go to previous page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Anantara.md) / [Go to parent page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Annamanna.md)
 
 

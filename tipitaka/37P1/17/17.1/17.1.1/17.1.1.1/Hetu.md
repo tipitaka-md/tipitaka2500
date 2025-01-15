@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/17/17.1/17.1.1/17.1.1.1/Hetu
-ref: 263204
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.1 Paṭiccavāra
-    link: /tipitaka/37P1/17/17.1
-  - name: 17.1.1 Paccayānuloma
-    link: /tipitaka/37P1/17/17.1/17.1.1
-  - name: 17.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/17/17.1/17.1.1/17.1.1.1
-prevL: /tipitaka/37P1/17/17.1/17.1.1/17.1.1.1
-upL: /tipitaka/37P1/17/17.1/17.1.1/17.1.1.1
-nextL: /tipitaka/37P1/17/17.1/17.1.1/17.1.1.1/Arammanadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.1 Paṭiccavāra](/tipitaka/37P1/17/17.1.md) / [17.1.1 Paccayānuloma](/tipitaka/37P1/17/17.1/17.1.1.md) / [17.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.1/17.1.1/17.1.1.1.md)
 
 # Hetu
 
@@ -75,5 +56,7 @@ nextL: /tipitaka/37P1/17/17.1/17.1.1/17.1.1.1/Arammanadi
 2445. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati hetupaccayā—  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 2446. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti hetupaccayā—  maggahetukañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggahetukā ca maggādhipatī ca tayo khandhā…pe…  dve khandhe…pe… . (3)
+
+[Go to previous page](/tipitaka/37P1/17/17.1/17.1.1/17.1.1.1.md) / [Go to parent page](/tipitaka/37P1/17/17.1/17.1.1/17.1.1.1.md) / [Go to next page](/tipitaka/37P1/17/17.1/17.1.1/17.1.1.1/Arammanadi.md)
 
 

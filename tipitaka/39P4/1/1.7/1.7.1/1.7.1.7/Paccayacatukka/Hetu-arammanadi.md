@@ -1,26 +1,5 @@
----
-title:  Hetu-ārammaṇādi
-path: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.7/Paccayacatukka/Hetu-arammanadi
-ref: 266049
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.7 Pītittika, Hetuduka
-    link: /tipitaka/39P4/1/1.7
-  - name: 1.7.1 Hetupada
-    link: /tipitaka/39P4/1/1.7/1.7.1
-  - name: 1.7.1.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.7/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.7/Paccayacatukka
-upL: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.7/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.7/1.7.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.7 Pītittika, Hetuduka](/tipitaka/39P4/1/1.7.md) / [1.7.1 Hetupada](/tipitaka/39P4/1/1.7/1.7.1.md) / [1.7.1.7 Pañhāvāra](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.7/Paccayacatukka.md)
 
 # Hetu-ārammaṇādi
 
@@ -69,5 +48,7 @@ nextL: /tipitaka/39P4/1/1.7/1.7.2
 363. Nahetupaccayā ārammaṇe soḷasa. (Saṃkhittaṃ.)
 
 364. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.7/1.7.2.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Āhāra
-path: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Ahara
-ref: 265361
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.12 Ajjhattikaduka
-    link: /tipitaka/38P2/10/10.12
-  - name: 10.12.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.12/10.12.7
-  - name: 10.12.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1
-  - name: 10.12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1
-prevL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Kamma-vipaka
-upL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1
-nextL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Indriya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.12 Ajjhattikaduka](/tipitaka/38P2/10/10.12.md) / [10.12.7 Pañhāvāra](/tipitaka/38P2/10/10.12/10.12.7.md) / [10.12.7.1 Paccayānuloma](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1.md) / [10.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md)
 
 # Āhāra
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Indriya
 3191. Ajjhattiko ca bāhiro ca dhammā bāhirassa dhammassa āhārapaccayena paccayo—  ajjhattikā ca bāhirā ca āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe ajjhattikā ca bāhirā ca āhārā sampayuttakānaṃ khandhānaṃ bāhirānañca kaṭattārūpānaṃ āhārapaccayena paccayo. (2)
 
 3192. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa āhārapaccayena paccayo—  paṭisandhikkhaṇe ajjhattikā ca bāhirā ca āhārā sampayuttakānaṃ khandhānaṃ ajjhattikānañca bāhirānañca kaṭattārūpānaṃ āhārapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Kamma-vipaka.md) / [Go to parent page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Indriya.md)
 
 

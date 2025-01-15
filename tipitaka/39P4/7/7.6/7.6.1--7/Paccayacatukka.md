@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/7/7.6/7.6.1--7/Paccayacatukka
-ref: 261922
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.6 Kusalattika, Savicāraduka
-    link: /tipitaka/39P4/7/7.6
-  - name: 7.6.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/7/7.6/7.6.1--7
-prevL: /tipitaka/39P4/7/7.6/7.6.1--7
-upL: /tipitaka/39P4/7/7.6/7.6.1--7
-nextL: /tipitaka/39P4/7/7.7
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.6 Kusalattika, Savicāraduka](/tipitaka/39P4/7/7.6.md) / [7.6.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.6/7.6.1--7.md)
 
 # Paccayacatukka
 
@@ -31,5 +14,7 @@ nextL: /tipitaka/39P4/7/7.7
 (19.)
 
 1578. Kusalaṃ savicāraṃ dhammaṃ paṭicca kusalo savicāro dhammo uppajjati hetupaccayā. (Kusalasavitakkasadisaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.6/7.6.1--7.md) / [Go to parent page](/tipitaka/39P4/7/7.6/7.6.1--7.md) / [Go to next page](/tipitaka/39P4/7/7.7.md)
 
 

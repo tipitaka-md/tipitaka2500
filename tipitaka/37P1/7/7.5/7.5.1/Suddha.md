@@ -1,22 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/37P1/7/7.5/7.5.1/Suddha
-ref: 260709
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.5 Saṃsaṭṭhavāra
-    link: /tipitaka/37P1/7/7.5
-  - name: 7.5.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.5/7.5.1
-prevL: /tipitaka/37P1/7/7.5/7.5.1/Hetu
-upL: /tipitaka/37P1/7/7.5/7.5.1
-nextL: /tipitaka/37P1/7/7.5/7.5.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.5 Saṃsaṭṭhavāra](/tipitaka/37P1/7/7.5.md) / [7.5.1 Paccayānuloma](/tipitaka/37P1/7/7.5/7.5.1.md)
 
 # Suddha
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/37P1/7/7.5/7.5.2
 262. Anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/7/7.5/7.5.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/7/7.5/7.5.1.md) / [Go to next page](/tipitaka/37P1/7/7.5/7.5.2.md)
 
 

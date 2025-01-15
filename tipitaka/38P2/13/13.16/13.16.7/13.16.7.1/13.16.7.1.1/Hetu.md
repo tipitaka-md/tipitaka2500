@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1/Hetu
-ref: 265742
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.16 Niyataduka
-    link: /tipitaka/38P2/13/13.16
-  - name: 13.16.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.16/13.16.7
-  - name: 13.16.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.16/13.16.7/13.16.7.1
-  - name: 13.16.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1
-prevL: /tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1
-upL: /tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1
-nextL: /tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.16 Niyataduka](/tipitaka/38P2/13/13.16.md) / [13.16.7 Pañhāvāra](/tipitaka/38P2/13/13.16/13.16.7.md) / [13.16.7.1 Paccayānuloma](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1.md) / [13.16.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md)
 
 # Hetu
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1/Arammana
 (330.)
 
 4767. Niyato dhammo niyatassa dhammassa hetupaccayena paccayo…  cattāri. (Niyyānikadukasadisā ninnānākaraṇā.)
+
+[Go to previous page](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md) / [Go to parent page](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1/Arammana.md)
 
 

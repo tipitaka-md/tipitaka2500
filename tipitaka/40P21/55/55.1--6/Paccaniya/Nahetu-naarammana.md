@@ -1,22 +1,5 @@
----
-title:  Nahetu-naārammaṇa
-path: /tipitaka/40P21/55/55.1--6/Paccaniya/Nahetu-naarammana
-ref: 262058
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P21
-  - name: 55 Piṭṭhiduka, Sanidassanattika
-    link: /tipitaka/40P21/55
-  - name: 55.1--6 Paṭiccādivāra
-    link: /tipitaka/40P21/55/55.1--6
-  - name: Paccanīya
-    link: /tipitaka/40P21/55/55.1--6/Paccaniya
-prevL: /tipitaka/40P21/55/55.1--6/Paccaniya
-upL: /tipitaka/40P21/55/55.1--6/Paccaniya
-nextL: /tipitaka/40P21/55/55.7
----
+
+[Home](/) / [40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P21.md) / [55 Piṭṭhiduka, Sanidassanattika](/tipitaka/40P21/55.md) / [55.1--6 Paṭiccādivāra](/tipitaka/40P21/55/55.1--6.md) / [Paccanīya](/tipitaka/40P21/55/55.1--6/Paccaniya.md)
 
 # Nahetu-naārammaṇa
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/40P21/55/55.7
 356. Naārammaṇapaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
 
 357. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P21/55/55.1--6/Paccaniya.md) / [Go to parent page](/tipitaka/40P21/55/55.1--6/Paccaniya.md) / [Go to next page](/tipitaka/40P21/55/55.7.md)
 
 

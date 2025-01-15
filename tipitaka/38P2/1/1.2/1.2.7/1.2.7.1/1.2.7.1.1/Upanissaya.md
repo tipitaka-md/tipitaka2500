@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Upanissaya
-ref: 264712
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.2/1.2.7
-  - name: 1.2.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1
-  - name: 1.2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1
-prevL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Sahajatadi
-upL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1
-nextL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Purejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.7 Pañhāvāra](/tipitaka/38P2/1/1.2/1.2.7.md) / [1.2.7.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md)
 
 # Upanissaya
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Purejata
 293. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca ahetukānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (2)
 
 294. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Sahajatadi.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Purejata.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2/Suddha
-ref: 264878
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.1 Āsavaduka
-    link: /tipitaka/38P2/3/3.1
-  - name: 3.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/3/3.1/3.1.1
-  - name: 3.1.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/3/3.1/3.1.1/3.1.1.2
-  - name: 3.1.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2
-prevL: /tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2
-upL: /tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2
-nextL: /tipitaka/38P2/3/3.1/3.1.1/3.1.1.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.1 Āsavaduka](/tipitaka/38P2/3/3.1.md) / [3.1.1 Paṭiccavāra](/tipitaka/38P2/3/3.1/3.1.1.md) / [3.1.1.2 Paccayapaccanīya](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.2.md) / [3.1.1.2.2 Saṅkhyāvāra](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2.md)
 
 # Suddha
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/3/3.1/3.1.1/3.1.1.3
 986. Paccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2.md) / [Go to parent page](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2.md) / [Go to next page](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.3.md)
 
 

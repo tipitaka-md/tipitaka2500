@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Upanissaya
-ref: 265694
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.12 Rūpāvacaraduka
-    link: /tipitaka/38P2/13/13.12
-  - name: 13.12.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.12/13.12.7
-  - name: 13.12.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1
-  - name: 13.12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1
-prevL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Anantaradi
-upL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1
-nextL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Purejatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.12 Rūpāvacaraduka](/tipitaka/38P2/13/13.12.md) / [13.12.7 Pañhāvāra](/tipitaka/38P2/13/13.12/13.12.7.md) / [13.12.7.1 Paccayānuloma](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1.md) / [13.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md)
 
 # Upanissaya
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Purejatadi
 4629. Narūpāvacaro dhammo narūpāvacarassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  narūpāvacaraṃ saddhaṃ upanissāya dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ karoti; narūpāvacaraṃ jhānaṃ…pe…  vipassanaṃ…pe…  maggaṃ…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; narūpāvacaraṃ sīlaṃ…pe…  paññaṃ, rāgaṃ…pe…  bhojanaṃ, senāsanaṃ upanissāya dānaṃ deti…pe…  pāṇaṃ hanati…pe…  saṃghaṃ bhindati; narūpāvacarā saddhā…pe…  paññā…  rāgo…pe…  senāsanaṃ narūpāvacarāya saddhāya…pe…  paññāya…  rāgassa…pe…  patthanāya…  kāyikassa sukhassa…  kāyikassa dukkhassa…  maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 4630. Narūpāvacaro dhammo rūpāvacarassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  narūpāvacaraṃ saddhaṃ upanissāya rūpāvacaraṃ jhānaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; narūpāvacaraṃ sīlaṃ…pe…  senāsanaṃ upanissāya rūpāvacaraṃ jhānaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; narūpāvacarā saddhā…pe…  senāsanaṃ rūpāvacarāya saddhāya…pe…  paññāya upanissayapaccayena paccayo, paṭhamassa jhānassa parikammaṃ paṭhamassa jhānassa upanissayapaccayena paccayo…pe…  catutthassa jhānassa…pe…  dibbassa cakkhussa parikammaṃ…pe…  dibbāya sotadhātuyā…pe…  iddhividhañāṇassa…pe…  cetopariyañāṇassa…pe…  pubbenivāsānussatiñāṇassa…pe…  yathākammūpagañāṇassa…pe…  anāgataṃsañāṇassa parikammaṃ anāgataṃsañāṇassa upanissayapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Purejatadi.md)
 
 

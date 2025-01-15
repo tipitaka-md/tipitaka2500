@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.1/Arammana
-ref: 265225
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.3 Cetasikaduka
-    link: /tipitaka/38P2/10/10.3
-  - name: 10.3.3 Paccayavāra
-    link: /tipitaka/38P2/10/10.3/10.3.3
-  - name: 10.3.3.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.3/10.3.3/10.3.3.1
-  - name: 10.3.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.1
-prevL: /tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.1/Hetu
-upL: /tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.1
-nextL: /tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.3 Cetasikaduka](/tipitaka/38P2/10/10.3.md) / [10.3.3 Paccayavāra](/tipitaka/38P2/10/10.3/10.3.3.md) / [10.3.3.1 Paccayānuloma](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.1.md) / [10.3.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.1.md)
 
 # Ārammaṇa
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.2
 2590. Cetasikañca acetasikañca dhammaṃ paccayā acetasiko dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe…  cetasike khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe ekaṃ.) (2)
 
 2591. Cetasikañca acetasikañca dhammaṃ paccayā cetasiko ca acetasiko ca dhammā uppajjanti ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā cakkhuviññāṇañca, dve khandhe ca…pe…  cetasikaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe ca…pe… . (Paṭisandhikkhaṇe ekaṃ, saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.2.md)
 
 

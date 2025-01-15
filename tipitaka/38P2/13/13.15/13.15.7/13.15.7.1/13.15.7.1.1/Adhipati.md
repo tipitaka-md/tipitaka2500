@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Adhipati
-ref: 265735
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.15 Niyyānikaduka
-    link: /tipitaka/38P2/13/13.15
-  - name: 13.15.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.15/13.15.7
-  - name: 13.15.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1
-  - name: 13.15.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1
-prevL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Arammana
-upL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1
-nextL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Anantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.7 Pañhāvāra](/tipitaka/38P2/13/13.15/13.15.7.md) / [13.15.7.1 Paccayānuloma](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md)
 
 # Adhipati
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Anantaradi
 (316.)
 
 4748. Aniyyāniko dhammo aniyyānikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā…pe…  ariyā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ aniyyānike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  aniyyānikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. Aniyyāniko dhammo niyyānikassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Anantaradi.md)
 
 

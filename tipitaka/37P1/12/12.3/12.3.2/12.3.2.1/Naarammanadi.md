@@ -1,24 +1,5 @@
----
-title:  Naārammaṇādi
-path: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naarammanadi
-ref: 263061
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.3 Paccayavāra
-    link: /tipitaka/37P1/12/12.3
-  - name: 12.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/12/12.3/12.3.2
-  - name: 12.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1
-prevL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Nahetu
-upL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1
-nextL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naanantaradi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.3 Paccayavāra](/tipitaka/37P1/12/12.3.md) / [12.3.2 Paccayapaccanīya](/tipitaka/37P1/12/12.3/12.3.2.md) / [12.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1.md)
 
 # Naārammaṇādi
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naanantaradi
 1736. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati naadhipatipaccayā—  sekkhe khandhe ca vatthuñca paccayā sekkho adhipati. (1)
 
 1737. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā asekkho dhammo uppajjati naadhipatipaccayā—  asekkhe khandhe ca vatthuñca paccayā asekkho adhipati. (1)
+
+[Go to previous page](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Nahetu.md) / [Go to parent page](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1.md) / [Go to next page](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naanantaradi.md)
 
 

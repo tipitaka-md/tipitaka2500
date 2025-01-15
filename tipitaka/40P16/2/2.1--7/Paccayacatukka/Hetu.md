@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P16/2/2.1--7/Paccayacatukka/Hetu
-ref: 262053
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/40P16
-  - name: 2 Kusalattika, Sahetukaduka
-    link: /tipitaka/40P16/2
-  - name: 2.1--7 Paṭiccādivāra
-    link: /tipitaka/40P16/2/2.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P16/2/2.1--7/Paccayacatukka
-prevL: /tipitaka/40P16/2/2.1--7/Paccayacatukka
-upL: /tipitaka/40P16/2/2.1--7/Paccayacatukka
-nextL: /tipitaka/40P16/3
----
+
+[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/40P16.md) / [2 Kusalattika, Sahetukaduka](/tipitaka/40P16/2.md) / [2.1--7 Paṭiccādivāra](/tipitaka/40P16/2/2.1--7.md) / [Paccayacatukka](/tipitaka/40P16/2/2.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -57,5 +40,7 @@ nextL: /tipitaka/40P16/3
 25. Abyākataṃ ahetukaṃ dhammaṃ paṭicca nakusalo naahetuko dhammo uppajjati hetupaccayā. Abyākataṃ ahetukaṃ dhammaṃ paṭicca naakusalo naahetuko dhammo uppajjati hetupaccayā. Abyākataṃ ahetukaṃ dhammaṃ paṭicca nakusalo naahetuko ca naakusalo naahetuko ca dhammā uppajjanti hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 26. Hetuyā cha, ārammaṇe cha, vipāke tīṇi…pe…  avigate cha.
+
+[Go to previous page](/tipitaka/40P16/2/2.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P16/2/2.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P16/3.md)
 
 

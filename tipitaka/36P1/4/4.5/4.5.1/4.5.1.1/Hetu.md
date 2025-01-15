@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.1/Hetu
-ref: 262684
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/4/4.5
-  - name: 4.5.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.5/4.5.1
-  - name: 4.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.1
-prevL: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.1
-upL: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.1
-nextL: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.5 Saṃsaṭṭhavāra](/tipitaka/36P1/4/4.5.md) / [4.5.1 Paccayānuloma](/tipitaka/36P1/4/4.5/4.5.1.md) / [4.5.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.5/4.5.1/4.5.1.1.md)
 
 # Hetu
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.2
 (83.)
 
 2253. Vipākaṃ dhammaṃ saṃsaṭṭho vipāko dhammo uppajjati hetupaccayā—  vipākaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā. (Saṃkhittaṃ. Sabbāni padāni vitthāretabbāni.)
+
+[Go to previous page](/tipitaka/36P1/4/4.5/4.5.1/4.5.1.1.md) / [Go to parent page](/tipitaka/36P1/4/4.5/4.5.1/4.5.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.5/4.5.1/4.5.1.2.md)
 
 

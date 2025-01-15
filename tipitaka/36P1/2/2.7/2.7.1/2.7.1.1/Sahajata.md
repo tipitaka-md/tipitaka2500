@@ -1,24 +1,5 @@
----
-title:  Sahajāta
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Sahajata
-ref: 262373
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Samanantara
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Annamanna
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
 
 # Sahajāta
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Annamanna
 875. Kusalo ca abyākato ca dhammā abyākatassa dhammassa sahajātapaccayena paccayo—  kusalā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
 
 876. Akusalo ca abyākato ca dhammā abyākatassa dhammassa sahajātapaccayena paccayo—  akusalā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Samanantara.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Annamanna.md)
 
 

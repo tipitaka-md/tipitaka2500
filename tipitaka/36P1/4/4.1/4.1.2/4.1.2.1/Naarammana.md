@@ -1,24 +1,5 @@
----
-title:  Naārammaṇa
-path: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naarammana
-ref: 262644
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/4/4.1/4.1.2
-  - name: 4.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-prevL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Nahetu
-upL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naadhipati
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.2 Paccayapaccanīya](/tipitaka/36P1/4/4.1/4.1.2.md) / [4.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md)
 
 # Naārammaṇa
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naadhipati
 (31.)
 
 2104. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati naārammaṇapaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Nahetu.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to next page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naadhipati.md)
 
 

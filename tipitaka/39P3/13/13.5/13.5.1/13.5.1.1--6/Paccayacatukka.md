@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/13/13.5/13.5.1/13.5.1.1--6/Paccayacatukka
-ref: 264274
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 13 Piṭṭhiduka, Kusalattika
-    link: /tipitaka/39P3/13
-  - name: 13.5 Savitakkaduka, Kusalattika
-    link: /tipitaka/39P3/13/13.5
-  - name: 13.5.1 Kusalapada
-    link: /tipitaka/39P3/13/13.5/13.5.1
-  - name: 13.5.1.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/13/13.5/13.5.1/13.5.1.1--6
-prevL: /tipitaka/39P3/13/13.5/13.5.1/13.5.1.1--6
-upL: /tipitaka/39P3/13/13.5/13.5.1/13.5.1.1--6
-nextL: /tipitaka/39P3/13/13.5/13.5.1/13.5.1.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.5 Savitakkaduka, Kusalattika](/tipitaka/39P3/13/13.5.md) / [13.5.1 Kusalapada](/tipitaka/39P3/13/13.5/13.5.1.md) / [13.5.1.1--6 Paṭiccādivāra](/tipitaka/39P3/13/13.5/13.5.1/13.5.1.1--6.md)
 
 # Paccayacatukka
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/39P3/13/13.5/13.5.1/13.5.1.7
 2422. Naadhipatiyā cha, napurejāte cha…pe…  nakamme cattāri…pe…  navippayutte cha. (Saṃkhittaṃ.)
 
 2423. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/13/13.5/13.5.1/13.5.1.1--6.md) / [Go to parent page](/tipitaka/39P3/13/13.5/13.5.1/13.5.1.1--6.md) / [Go to next page](/tipitaka/39P3/13/13.5/13.5.1/13.5.1.7.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/10/10.10/10.10.1--7/Hetu
-ref: 261298
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.10 Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka
-    link: /tipitaka/38P2/10/10.10
-  - name: 10.10.1--7 Paṭiccādivāra
-    link: /tipitaka/38P2/10/10.10/10.10.1--7
-prevL: /tipitaka/38P2/10/10.10/10.10.1--7
-upL: /tipitaka/38P2/10/10.10/10.10.1--7
-nextL: /tipitaka/38P2/10/10.11
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.10 Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka](/tipitaka/38P2/10/10.10.md) / [10.10.1--7 Paṭiccādivāra](/tipitaka/38P2/10/10.10/10.10.1--7.md)
 
 # Hetu
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/38P2/10/10.11
 3094. Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/10/10.10/10.10.1--7.md) / [Go to parent page](/tipitaka/38P2/10/10.10/10.10.1--7.md) / [Go to next page](/tipitaka/38P2/10/10.11.md)
 
 

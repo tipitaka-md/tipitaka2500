@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Arammana
-ref: 265427
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.14 Upādinnaduka
-    link: /tipitaka/38P2/10/10.14
-  - name: 10.14.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.14/10.14.7
-  - name: 10.14.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1
-  - name: 10.14.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1
-prevL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Hetu
-upL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1
-nextL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Adhipati
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.14 Upādinnaduka](/tipitaka/38P2/10/10.14.md) / [10.14.7 Pañhāvāra](/tipitaka/38P2/10/10.14/10.14.7.md) / [10.14.7.1 Paccayānuloma](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1.md) / [10.14.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md)
 
 # Ārammaṇa
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Adhipati
 3450. Anupādinno dhammo anupādinnassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati assādeti abhinandati, taṃ ārabbha rāgo…pe…  domanassaṃ uppajjati; pubbe suciṇṇāni…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ…pe…  nibbānaṃ…pe…  nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā pahīne kilese…pe…  vikkhambhite kilese…pe…  pubbe…pe…  anupādinne rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe anupādinne khandhe aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā anupādinnaṃ rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena anupādinnacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ…pe…  ākiñcaññāyatanaṃ…pe…  anupādinnā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 3451. Anupādinno dhammo upādinnassa dhammassa ārammaṇapaccayena paccayo—  anupādinne rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe anupādinne khandhe aniccato…pe…  domanassaṃ uppajjati; kusalākusale niruddhe vipāko tadārammaṇatā uppajjati, ākāsānañcāyatanakusalaṃ viññāṇañcāyatanavipākassa…pe…  ākiñcaññāyatanakusalaṃ…pe…  anupādinnaṃ rūpāyatanaṃ cakkhuviññāṇassa…pe…  saddāyatanaṃ…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa ārammaṇapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Adhipati.md)
 
 

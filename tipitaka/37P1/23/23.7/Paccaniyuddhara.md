@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/23/23.7/Paccaniyuddhara
-ref: 259185
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 23 Sanidassanasappaṭighattika
-    link: /tipitaka/37P1/23
-  - name: 23.7 Pañhāvāra
-    link: /tipitaka/37P1/23/23.7
-prevL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.2/Hetusamannaghatana
-upL: /tipitaka/37P1/23/23.7
-nextL: /tipitaka/37P1/23/23.7/23.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.7 Pañhāvāra](/tipitaka/37P1/23/23.7.md)
 
 # Paccanīyuddhāra
 
@@ -81,5 +66,7 @@ nextL: /tipitaka/37P1/23/23.7/23.7.2
 3089. Sanidassanasappaṭigho ca anidassanasappaṭigho ca dhammā anidassanaappaṭighassa dhammassa purejātaṃ. (1)
 
 3090. Sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa sahajātapaccayena paccayo…  purejātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.2/Hetusamannaghatana.md) / [Go to parent page](/tipitaka/37P1/23/23.7.md) / [Go to next page](/tipitaka/37P1/23/23.7/23.7.2.md)
 
 

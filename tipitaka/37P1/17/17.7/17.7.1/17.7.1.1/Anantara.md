@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Anantara
-ref: 263219
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.7 Pañhāvāra
-    link: /tipitaka/37P1/17/17.7
-  - name: 17.7.1 Paccayānuloma
-    link: /tipitaka/37P1/17/17.7/17.7.1
-  - name: 17.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1
-prevL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Adhipati
-upL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1
-nextL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Samanantaradi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.7 Pañhāvāra](/tipitaka/37P1/17/17.7.md) / [17.7.1 Paccayānuloma](/tipitaka/37P1/17/17.7/17.7.1.md) / [17.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md)
 
 # Anantara
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Samanantaradi
 2537. Maggārammaṇo ca maggādhipati ca dhammā maggādhipatissa dhammassa anantarapaccayena paccayo—  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggādhipatīnaṃ khandhānaṃ anantarapaccayena paccayo. (2)
 
 2538. Maggārammaṇo ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa anantarapaccayena paccayo—  purimā purimā maggārammaṇā ca maggādhipatī ca khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānañca maggādhipatīnañca khandhānaṃ anantarapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md) / [Go to next page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Samanantaradi.md)
 
 

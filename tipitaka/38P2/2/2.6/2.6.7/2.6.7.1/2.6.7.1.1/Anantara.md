@@ -1,26 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Anantara
-ref: 264856
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.6 Lokiyaduka
-    link: /tipitaka/38P2/2/2.6
-  - name: 2.6.7 Pañhāvāra
-    link: /tipitaka/38P2/2/2.6/2.6.7
-  - name: 2.6.7.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1
-  - name: 2.6.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1
-prevL: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Adhipati
-upL: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1
-nextL: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Samanantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.6 Lokiyaduka](/tipitaka/38P2/2/2.6.md) / [2.6.7 Pañhāvāra](/tipitaka/38P2/2/2.6/2.6.7.md) / [2.6.7.1 Paccayānuloma](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1.md) / [2.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md)
 
 # Anantara
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Samanantaradi
 899. Lokuttaro dhammo lokuttarassa dhammassa anantarapaccayena paccayo—  purimā purimā lokuttarā khandhā pacchimānaṃ pacchimānaṃ lokuttarānaṃ khandhānaṃ anantarapaccayena paccayo; maggo phalassa, phalaṃ phalassa anantarapaccayena paccayo. (1)
 
 900. Lokuttaro dhammo lokiyassa dhammassa anantarapaccayena paccayo—  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Samanantaradi.md)
 
 

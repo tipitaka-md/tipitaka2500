@@ -1,24 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Atthi
-ref: 262846
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Vippayutta
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Natthi-vigatavigata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Atthi
 
@@ -97,5 +78,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Natthi-vigatavigata
 587. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  savitakkasavicāro eko khandho ca vitakko ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 588. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Natthi-vigatavigata.md)
 
 

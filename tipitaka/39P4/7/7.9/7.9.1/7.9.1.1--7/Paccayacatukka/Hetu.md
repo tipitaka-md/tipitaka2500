@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka/Hetu
-ref: 266130
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.9 Kusalattika, Kāmāvacaraduka
-    link: /tipitaka/39P4/7/7.9
-  - name: 7.9.1 Kāmāvacarapada
-    link: /tipitaka/39P4/7/7.9/7.9.1
-  - name: 7.9.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka
-prevL: /tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka
-upL: /tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka
-nextL: /tipitaka/39P4/7/7.9/7.9.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.9 Kusalattika, Kāmāvacaraduka](/tipitaka/39P4/7/7.9.md) / [7.9.1 Kāmāvacarapada](/tipitaka/39P4/7/7.9/7.9.1.md) / [7.9.1.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7.md) / [Paccayacatukka](/tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -67,5 +46,7 @@ nextL: /tipitaka/39P4/7/7.9/7.9.2
 1609. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1610. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/7/7.9/7.9.2.md)
 
 

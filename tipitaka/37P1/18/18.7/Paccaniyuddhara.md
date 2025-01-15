@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/18/18.7/Paccaniyuddhara
-ref: 259140
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 18 Uppannattika
-    link: /tipitaka/37P1/18
-  - name: 18.7 Pañhāvāra
-    link: /tipitaka/37P1/18/18.7
-prevL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.2/Suddha
-upL: /tipitaka/37P1/18/18.7
-nextL: /tipitaka/37P1/18/18.7/18.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [18 Uppannattika](/tipitaka/37P1/18.md) / [18.7 Pañhāvāra](/tipitaka/37P1/18/18.7.md)
 
 # Paccanīyuddhāra
 
@@ -31,5 +16,7 @@ nextL: /tipitaka/37P1/18/18.7/18.7.2
 2620. Anuppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo, upanissayapaccayena paccayo. (1)
 
 2621. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/18/18.7.md) / [Go to next page](/tipitaka/37P1/18/18.7/18.7.2.md)
 
 

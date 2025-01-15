@@ -1,26 +1,5 @@
----
-title:  Āhāra
-path: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Ahara
-ref: 264672
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.1/1.1.7
-  - name: 1.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1
-  - name: 1.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-prevL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Vipaka
-upL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Indriya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md)
 
 # Āhāra
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Indriya
 93. Nahetu dhammo hetussa dhammassa āhārapaccayena paccayo—  nahetū āhārā sampayuttakānaṃ hetūnaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
 
 94. Nahetu dhammo hetussa ca nahetussa ca dhammassa āhārapaccayena paccayo—  nahetū āhārā sampayuttakānaṃ khandhānaṃ hetūnaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Vipaka.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Indriya.md)
 
 

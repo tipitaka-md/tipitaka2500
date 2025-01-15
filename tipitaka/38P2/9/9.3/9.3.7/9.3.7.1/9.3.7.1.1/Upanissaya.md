@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Upanissaya
-ref: 265152
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.3 Parāmāsasampayuttaduka
-    link: /tipitaka/38P2/9/9.3
-  - name: 9.3.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.3/9.3.7
-  - name: 9.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1
-  - name: 9.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1
-prevL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Sahajatadi
-upL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1
-nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Purejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.7 Pañhāvāra](/tipitaka/38P2/9/9.3/9.3.7.md) / [9.3.7.1 Paccayānuloma](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md)
 
 # Upanissaya
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Purejata
 2263. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti; sīlaṃ…pe…  paññaṃ, rāgaṃ…pe…  mānaṃ…pe…  patthanaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, pāṇaṃ hanati…pe…  saṃghaṃ bhindati; kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  paññā, rāgo…pe…  māno…  patthanā…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ saddhāya…pe…  paññāya, rāgassa…pe…  mānassa…  patthanāya…  kāyikassa sukhassa…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 2264. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya parāmāsasampayutto rāgo uppajjati; sīlaṃ…pe…  senāsanaṃ upanissāya parāmāsasampayutto rāgo uppajjati; saddhā…pe…  senāsanaṃ parāmāsasampayuttassa rāgassa…pe…  patthanāya upanissayapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Sahajatadi.md) / [Go to parent page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Purejata.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Ghaṭanā
-path: /tipitaka/36P1/4/4.7/4.7.3/Ghatana
-ref: 260666
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/4/4.7/4.7.3
-prevL: /tipitaka/36P1/4/4.7/4.7.3/Hetusabhaga
-upL: /tipitaka/36P1/4/4.7/4.7.3
-nextL: /tipitaka/36P1/4/4.7/4.7.4
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/4/4.7/4.7.3.md)
 
 # Ghaṭanā
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.4
 2431. Anulomapaccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.3/Hetusabhaga.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.3.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.4.md)
 
 

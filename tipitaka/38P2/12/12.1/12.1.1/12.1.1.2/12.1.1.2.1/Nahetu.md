@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1/Nahetu
-ref: 265503
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 12 Kilesagocchaka
-    link: /tipitaka/38P2/12
-  - name: 12.1 Kilesaduka
-    link: /tipitaka/38P2/12/12.1
-  - name: 12.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/12/12.1/12.1.1
-  - name: 12.1.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.2
-  - name: 12.1.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1
-prevL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1
-upL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1
-nextL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1/Naarammanadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.1 Kilesaduka](/tipitaka/38P2/12/12.1.md) / [12.1.1 Paṭiccavāra](/tipitaka/38P2/12/12.1/12.1.1.md) / [12.1.1.2 Paccayapaccanīya](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2.md) / [12.1.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1.md)
 
 # Nahetu
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1/Naarammanadi
 3821. Nokilesaṃ dhammaṃ paṭicca kileso dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
 
 3822. Kilesañca nokilesañca dhammaṃ paṭicca kileso dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe ca vicikicchañca paṭicca vicikicchāsahagato moho, uddhaccasahagate khandhe ca uddhaccañca paṭicca uddhaccasahagato moho. (1)
+
+[Go to previous page](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1.md) / [Go to parent page](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1.md) / [Go to next page](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1/Naarammanadi.md)
 
 

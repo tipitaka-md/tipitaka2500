@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1/Hetu
-ref: 264652
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/1/1.1/1.1.1
-  - name: 1.1.1.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.1
-  - name: 1.1.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1
-prevL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1
-upL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1
-nextL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1/Arammanadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.1 Paṭiccavāra](/tipitaka/38P2/1/1.1/1.1.1.md) / [1.1.1.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1.md) / [1.1.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1/Arammanadi
 9. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā—  nahetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca hetuñca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe…  paṭisandhikkhaṇe vatthuñca hetuñca paṭicca sampayuttakā khandhā. (2)
 
 10. Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti hetupaccayā—  nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca alobhañca paṭicca dve khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ. (Cakkaṃ.) Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuñca alobhañca paṭicca adoso amoho sampayuttakā ca khandhā. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1/Arammanadi.md)
 
 

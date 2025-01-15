@@ -1,18 +1,5 @@
----
-title:  Vatthugāthā
-path: /tipitaka/18Sn/5/Vatthugatha
-ref: 266947
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 18Sn Suttanipātapāḷi
-    link: /tipitaka/18Sn
-  - name: 5 Pārāyanavagga
-    link: /tipitaka/18Sn/5
-prevL: /tipitaka/18Sn/5
-upL: /tipitaka/18Sn/5
-nextL: /tipitaka/18Sn/5/5.1
----
+
+[Home](/) / [18Sn Suttanipātapāḷi](/tipitaka/18Sn.md) / [5 Pārāyanavagga](/tipitaka/18Sn/5.md)
 
 # Vatthugāthā
 
@@ -479,5 +466,7 @@ _Tattha pucchi tathāgataṃ. (56)_
 1220. Vatthugāthā niṭṭhitā.
 
 
+
+[Go to previous page](/tipitaka/18Sn/5.md) / [Go to parent page](/tipitaka/18Sn/5.md) / [Go to next page](/tipitaka/18Sn/5/5.1.md)
 
 

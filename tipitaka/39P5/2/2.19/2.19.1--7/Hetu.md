@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P5/2/2.19/2.19.1--7/Hetu
-ref: 262005
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 2 Tika, Kusalattika
-    link: /tipitaka/39P5/2
-  - name: 2.19 Ajjhattattika, Kusalattika
-    link: /tipitaka/39P5/2/2.19
-  - name: 2.19.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/2/2.19/2.19.1--7
-prevL: /tipitaka/39P5/2/2.19/2.19.1--7
-upL: /tipitaka/39P5/2/2.19/2.19.1--7
-nextL: /tipitaka/39P5/2/2.20
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.19 Ajjhattattika, Kusalattika](/tipitaka/39P5/2/2.19.md) / [2.19.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.19/2.19.1--7.md)
 
 # Hetu
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/39P5/2/2.20
 433. Ajjhattaṃ abyākataṃ dhammaṃ paṭicca ajjhatto abyākato dhammo uppajjati hetupaccayā. (1)
 
 434. Bahiddhā abyākataṃ dhammaṃ paṭicca bahiddhā abyākato dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/39P5/2/2.19/2.19.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.19/2.19.1--7.md) / [Go to next page](/tipitaka/39P5/2/2.20.md)
 
 

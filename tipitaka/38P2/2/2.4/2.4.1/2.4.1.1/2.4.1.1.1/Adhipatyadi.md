@@ -1,26 +1,5 @@
----
-title:  Adhipatyādi
-path: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Adhipatyadi
-ref: 264793
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.4 Sappaṭighaduka
-    link: /tipitaka/38P2/2/2.4
-  - name: 2.4.1 Paṭiccavāra
-    link: /tipitaka/38P2/2/2.4/2.4.1
-  - name: 2.4.1.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1
-  - name: 2.4.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1
-prevL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Arammana
-upL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1
-nextL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.1 Paṭiccavāra](/tipitaka/38P2/2/2.4/2.4.1.md) / [2.4.1.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1.md) / [2.4.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1.md)
 
 # Adhipatyādi
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.2
 673. Appaṭighaṃ dhammaṃ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā—  āpodhātuṃ paṭicca sappaṭighā mahābhūtā. (Ime ajjhattikabāhirā mahābhūtā kātabbā.) (2)
 
 674. Sappaṭighañca appaṭighañca dhammaṃ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā—  sappaṭighaṃ ekaṃ mahābhūtañca āpodhātuñca paṭicca dve mahābhūtā…pe…  nissayapaccayā…pe…  avigatapaccayā.
+
+[Go to previous page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.2.md)
 
 

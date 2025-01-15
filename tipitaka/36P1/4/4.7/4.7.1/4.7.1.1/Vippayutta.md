@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Vippayutta
-ref: 262706
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sampayutta
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Atthi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Vippayutta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Atthi
 2385. Nevavipākanavipākadhammadhammo vipākassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu vipākānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu vipākānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 2386. Nevavipākanavipākadhammadhammo vipākadhammadhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu vipākadhammadhammānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sampayutta.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Atthi.md)
 
 

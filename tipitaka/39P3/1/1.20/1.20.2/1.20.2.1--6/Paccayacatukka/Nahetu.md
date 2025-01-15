@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6/Paccayacatukka/Nahetu
-ref: 265941
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.20 Hetuduka, Ajjhattattika
-    link: /tipitaka/39P3/1/1.20
-  - name: 1.20.2 Bahiddhāpada
-    link: /tipitaka/39P3/1/1.20/1.20.2
-  - name: 1.20.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6/Paccayacatukka
-prevL: /tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6/Paccayacatukka/Hetu
-upL: /tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6/Paccayacatukka
-nextL: /tipitaka/39P3/1/1.20/1.20.2/1.20.2.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.20 Hetuduka, Ajjhattattika](/tipitaka/39P3/1/1.20.md) / [1.20.2 Bahiddhāpada](/tipitaka/39P3/1/1.20/1.20.2.md) / [1.20.2.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6/Paccayacatukka.md)
 
 # Nahetu
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/39P3/1/1.20/1.20.2/1.20.2.7
 1167. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
 1168. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/1/1.20/1.20.2/1.20.2.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.20/1.20.2/1.20.2.7.md)
 
 

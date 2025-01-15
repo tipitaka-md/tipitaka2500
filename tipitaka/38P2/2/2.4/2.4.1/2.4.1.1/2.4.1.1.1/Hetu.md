@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Hetu
-ref: 264791
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.4 Sappaṭighaduka
-    link: /tipitaka/38P2/2/2.4
-  - name: 2.4.1 Paṭiccavāra
-    link: /tipitaka/38P2/2/2.4/2.4.1
-  - name: 2.4.1.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1
-  - name: 2.4.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1
-prevL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1
-upL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1
-nextL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.1 Paṭiccavāra](/tipitaka/38P2/2/2.4/2.4.1.md) / [2.4.1.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1.md) / [2.4.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Arammana
 666. Sappaṭighañca appaṭighañca dhammaṃ paṭicca appaṭigho dhammo uppajjati hetupaccayā—  appaṭighe khandhe ca mahābhūte ca paṭicca appaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe appaṭighe khandhe ca mahābhūte ca paṭicca appaṭighaṃ kaṭattārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca appaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca itthindriyaṃ…pe…  kabaḷīkāro āhāro. (2)
 
 667. Sappaṭighañca appaṭighañca dhammaṃ paṭicca sappaṭigho ca appaṭigho ca dhammā uppajjanti hetupaccayā—  appaṭighe khandhe ca mahābhūte ca paṭicca sappaṭighañca appaṭighañca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  appaṭighe khandhe ca mahābhūte ca paṭicca sappaṭighañca appaṭighañca kaṭattārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca sappaṭighañca appaṭighañca cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ, phoṭṭhabbāyatanañca āpodhātuñca paṭicca cakkhāyatanaṃ…pe…  rasāyatanaṃ, itthindriyaṃ…pe…  kabaḷīkāro āhāro. (3)
+
+[Go to previous page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1.md) / [Go to parent page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.1/2.4.1.1.1/Arammana.md)
 
 

@@ -1,26 +1,11 @@
----
-title:  Paccanīya
-path: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya
-ref: 261889
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 3 Kusalattika, Cūḷantaraduka
-    link: /tipitaka/39P4/3
-  - name: 3.4 Kusalattika, Sappaṭighaduka
-    link: /tipitaka/39P4/3/3.4
-  - name: 3.4.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/3/3.4/3.4.1--7
-prevL: /tipitaka/39P4/3/3.4/3.4.1--7/Paccayacatukka/Arammana
-upL: /tipitaka/39P4/3/3.4/3.4.1--7
-nextL: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Nahetu
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.4 Kusalattika, Sappaṭighaduka](/tipitaka/39P4/3/3.4.md) / [3.4.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.4/3.4.1--7.md)
 
 # Paccanīya
 
-* [Nahetu](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Nahetu)
-* [Hetu](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Hetu)
+* [Nahetu](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Nahetu.md)
+* [Hetu](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Hetu.md)
+
+[Go to previous page](/tipitaka/39P4/3/3.4/3.4.1--7/Paccayacatukka/Arammana.md) / [Go to parent page](/tipitaka/39P4/3/3.4/3.4.1--7.md) / [Go to next page](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Nahetu.md)
 
 

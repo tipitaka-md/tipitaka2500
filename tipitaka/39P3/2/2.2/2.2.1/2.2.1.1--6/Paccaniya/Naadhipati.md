@@ -1,26 +1,5 @@
----
-title:  Naadhipati
-path: /tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya/Naadhipati
-ref: 265956
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 2 Hetugocchaka, Kusalattika
-    link: /tipitaka/39P3/2
-  - name: 2.2 Sahetukaduka, Kusalattika
-    link: /tipitaka/39P3/2/2.2
-  - name: 2.2.1 Kusalapada
-    link: /tipitaka/39P3/2/2.2/2.2.1
-  - name: 2.2.1.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6
-  - name: Paccanīya
-    link: /tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya
-prevL: /tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya
-upL: /tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya
-nextL: /tipitaka/39P3/2/2.2/2.2.1/2.2.1.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [2 Hetugocchaka, Kusalattika](/tipitaka/39P3/2.md) / [2.2 Sahetukaduka, Kusalattika](/tipitaka/39P3/2/2.2.md) / [2.2.1 Kusalapada](/tipitaka/39P3/2/2.2/2.2.1.md) / [2.2.1.1--6 Paṭiccādivāra](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6.md) / [Paccanīya](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya.md)
 
 # Naadhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/39P3/2/2.2/2.2.1/2.2.1.7
 1249. Naadhipatipaccayā hetuyā ekaṃ. (Saṃkhittaṃ.)
 
 1250. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya.md) / [Go to parent page](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya.md) / [Go to next page](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.7.md)
 
 

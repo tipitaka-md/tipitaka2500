@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka/Hetu
-ref: 265771
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.1 Hetuduka, Kusalattika
-    link: /tipitaka/39P3/1/1.1
-  - name: 1.1.2 Akusalapada
-    link: /tipitaka/39P3/1/1.1/1.1.2
-  - name: 1.1.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka
-prevL: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka
-upL: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka
-nextL: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka/Nahetu
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.1 Hetuduka, Kusalattika](/tipitaka/39P3/1/1.1.md) / [1.1.2 Akusalapada](/tipitaka/39P3/1/1.1/1.1.2.md) / [1.1.2.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka.md)
 
 # Hetu
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka/Nahetu
 (30.)
 
 46. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ, anulomaṃ.)
+
+[Go to previous page](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka/Nahetu.md)
 
 

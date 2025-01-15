@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/13/13.12/13.12.1--7/Paccayacatukka
-ref: 261782
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 13 Piṭṭhiduka, Kusalattika
-    link: /tipitaka/39P3/13
-  - name: 13.12 Arūpāvacaraduka, Kusalattika
-    link: /tipitaka/39P3/13/13.12
-  - name: 13.12.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/13/13.12/13.12.1--7
-prevL: /tipitaka/39P3/13/13.12/13.12.1--7
-upL: /tipitaka/39P3/13/13.12/13.12.1--7
-nextL: /tipitaka/39P3/13/13.13
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.12 Arūpāvacaraduka, Kusalattika](/tipitaka/39P3/13/13.12.md) / [13.12.1--7 Paṭiccādivāra](/tipitaka/39P3/13/13.12/13.12.1--7.md)
 
 # Paccayacatukka
 
@@ -75,5 +58,7 @@ nextL: /tipitaka/39P3/13/13.13
 (84.)
 
 2555. Hetuyā cattāri, ārammaṇe tīṇi (arūpāvacaramūle dve, naarūpāvacare ekaṃ), adhipatiyā cattāri (arūpāvacaramūle tīṇi, naarūpe ekaṃ), anantare cattāri…pe…  sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane tīṇi, kamme cattāri, vipāke dve…pe…  sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri…pe…  avigate satta. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/13/13.12/13.12.1--7.md) / [Go to parent page](/tipitaka/39P3/13/13.12/13.12.1--7.md) / [Go to next page](/tipitaka/39P3/13/13.13.md)
 
 

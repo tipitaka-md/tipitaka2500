@@ -1,24 +1,5 @@
----
-title:  Sahajāta
-path: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Sahajata
-ref: 262923
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.7 Pañhāvāra
-    link: /tipitaka/37P1/9/9.7
-  - name: 9.7.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.7/9.7.1
-  - name: 9.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-prevL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Samanantara
-upL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Annamanna
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md) / [9.7.1 Paccayānuloma](/tipitaka/37P1/9/9.7/9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md)
 
 # Sahajāta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Annamanna
 976. Dassanena pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa sahajātapaccayena paccayo—  dassanena pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
 
 977. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa sahajātapaccayena paccayo—  bhāvanāya pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Samanantara.md) / [Go to parent page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Annamanna.md)
 
 

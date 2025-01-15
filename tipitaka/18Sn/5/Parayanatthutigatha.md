@@ -1,18 +1,5 @@
----
-title:  Pārāyanatthutigāthā
-path: /tipitaka/18Sn/5/Parayanatthutigatha
-ref: 266964
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 18Sn Suttanipātapāḷi
-    link: /tipitaka/18Sn
-  - name: 5 Pārāyanavagga
-    link: /tipitaka/18Sn/5
-prevL: /tipitaka/18Sn/5/5.16
-upL: /tipitaka/18Sn/5
-nextL: /tipitaka/18Sn/5/Parayananugitigatha
----
+
+[Home](/) / [18Sn Suttanipātapāḷi](/tipitaka/18Sn.md) / [5 Pārāyanavagga](/tipitaka/18Sn/5.md)
 
 # Pārāyanatthutigāthā
 
@@ -79,5 +66,7 @@ _bhāvento maggamuttamaṃ;_
 _Maggo so pāraṃ gamanāya,_  
 _tasmā pārāyanaṃ iti. (7)_  
 
+
+[Go to previous page](/tipitaka/18Sn/5/5.16.md) / [Go to parent page](/tipitaka/18Sn/5.md) / [Go to next page](/tipitaka/18Sn/5/Parayananugitigatha.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/1/1.8/1.8.2/1.8.2.7/Paccayacatukka
-ref: 264308
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.8 Dassanenapahātabbattika, Hetuduka
-    link: /tipitaka/39P4/1/1.8
-  - name: 1.8.2 Nahetupada
-    link: /tipitaka/39P4/1/1.8/1.8.2
-  - name: 1.8.2.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.8/1.8.2/1.8.2.7
-prevL: /tipitaka/39P4/1/1.8/1.8.2/1.8.2.7
-upL: /tipitaka/39P4/1/1.8/1.8.2/1.8.2.7
-nextL: /tipitaka/39P4/1/1.9
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.8 Dassanenapahātabbattika, Hetuduka](/tipitaka/39P4/1/1.8.md) / [1.8.2 Nahetupada](/tipitaka/39P4/1/1.8/1.8.2.md) / [1.8.2.7 Pañhāvāra](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md)
 
 # Paccayacatukka
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/39P4/1/1.9
 431. Nahetupaccayā ārammaṇe aṭṭha. (Saṃkhittaṃ.)
 
 432. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md) / [Go to parent page](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md) / [Go to next page](/tipitaka/39P4/1/1.9.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/12/12.1--7/Paccayanuloma/Hetu
-ref: 262043
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 12 Parittattika
-    link: /tipitaka/40P13/12
-  - name: 12.1--7 Paṭiccādivāra
-    link: /tipitaka/40P13/12/12.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P13/12/12.1--7/Paccayanuloma
-prevL: /tipitaka/40P13/12/12.1--7/Paccayanuloma
-upL: /tipitaka/40P13/12/12.1--7/Paccayanuloma
-nextL: /tipitaka/40P13/13
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [12 Parittattika](/tipitaka/40P13/12.md) / [12.1--7 Paṭiccādivāra](/tipitaka/40P13/12/12.1--7.md) / [Paccayānuloma](/tipitaka/40P13/12/12.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P13/13
 109. Parittañca mahaggatañca dhammaṃ paṭicca naparitto dhammo uppajjati hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca namahaggato dhammo uppajjati hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca naappamāṇo dhammo uppajjati hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca naparitto ca naappamāṇo ca dhammā uppajjanti hetupaccayā. Parittañca mahaggatañca dhammaṃ paṭicca namahaggato ca naappamāṇo ca dhammā uppajjanti hetupaccayā. (5) (Saṃkhittaṃ.)
 
 110. Hetuyā tevīsa, ārammaṇe cuddasa, adhipatiyā ekūnavīsa…pe…  aññamaññe soḷasa…pe…  purejāte āsevane nava…pe…  avigate tevīsa. (Sabbattha vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P13/12/12.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P13/12/12.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P13/13.md)
 
 

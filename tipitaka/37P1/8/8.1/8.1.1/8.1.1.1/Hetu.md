@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/8/8.1/8.1.1/8.1.1.1/Hetu
-ref: 262850
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.1 Paṭiccavāra
-    link: /tipitaka/37P1/8/8.1
-  - name: 8.1.1 Paccayānuloma
-    link: /tipitaka/37P1/8/8.1/8.1.1
-  - name: 8.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.1/8.1.1/8.1.1.1
-prevL: /tipitaka/37P1/8/8.1/8.1.1/8.1.1.1
-upL: /tipitaka/37P1/8/8.1/8.1.1/8.1.1.1
-nextL: /tipitaka/37P1/8/8.1/8.1.1/8.1.1.1/Arammanadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.1 Paṭiccavāra](/tipitaka/37P1/8/8.1.md) / [8.1.1 Paccayānuloma](/tipitaka/37P1/8/8.1/8.1.1.md) / [8.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md)
 
 # Hetu
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/37P1/8/8.1/8.1.1/8.1.1.1/Arammanadi
 648. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. (2)
 
 649. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
+
+[Go to previous page](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md) / [Go to parent page](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md) / [Go to next page](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1/Arammanadi.md)
 
 

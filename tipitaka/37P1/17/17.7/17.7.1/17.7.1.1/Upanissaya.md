@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Upanissaya
-ref: 263221
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.7 Pañhāvāra
-    link: /tipitaka/37P1/17/17.7
-  - name: 17.7.1 Paccayānuloma
-    link: /tipitaka/37P1/17/17.7/17.7.1
-  - name: 17.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1
-prevL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Samanantaradi
-upL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1
-nextL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Asevana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.7 Pañhāvāra](/tipitaka/37P1/17/17.7.md) / [17.7.1 Paccayānuloma](/tipitaka/37P1/17/17.7/17.7.1.md) / [17.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md)
 
 # Upanissaya
 
@@ -83,5 +64,7 @@ nextL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Asevana
 2559. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo. **Ārammaṇūpanissayo**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (4)
 
 2560. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo. **Pakatūpanissayo**—  paṭhamo maggo dutiyassa maggassa…pe…  tatiyo maggo catutthassa maggassa upanissayapaccayena paccayo. (5)
+
+[Go to previous page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Samanantaradi.md) / [Go to parent page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md) / [Go to next page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Asevana.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Anantaraghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraghatana
-ref: 262448
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.7/2.7.3
-  - name: Anantara
-    link: /tipitaka/36P1/2/2.7/2.7.3/Anantara
-prevL: /tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraduka
-upL: /tipitaka/36P1/2/2.7/2.7.3/Anantara
-nextL: /tipitaka/36P1/2/2.7/2.7.3/Samanantara
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Anantara](/tipitaka/36P1/2/2.7/2.7.3/Anantara.md)
 
 # Anantaraghaṭanā
 
@@ -45,5 +26,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.3/Samanantara
 1339. Anantaramūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Anantara.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Samanantara.md)
 
 

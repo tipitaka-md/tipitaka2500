@@ -1,24 +1,5 @@
----
-title:  Napurejāta
-path: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Napurejata
-ref: 262647
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/4/4.1/4.1.2
-  - name: 4.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-prevL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naanantaradi
-upL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Napacchajatadi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.2 Paccayapaccanīya](/tipitaka/36P1/4/4.1/4.1.2.md) / [4.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md)
 
 # Napurejāta
 
@@ -63,5 +44,7 @@ nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Napacchajatadi
 (37.)
 
 2119. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati napurejātapaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ.
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naanantaradi.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to next page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Napacchajatadi.md)
 
 

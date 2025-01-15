@@ -1,24 +1,5 @@
----
-title:  Namagga
-path: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Namagga
-ref: 262316
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.5/2.5.2
-  - name: 2.5.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1
-prevL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Najhana
-upL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1
-nextL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Navippayutta
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.2 Paccayapaccanīya](/tipitaka/36P1/2/2.5/2.5.2.md) / [2.5.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md)
 
 # Namagga
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Navippayutta
 (221.)
 
 724. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati namaggapaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe…pe… . (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Najhana.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Navippayutta.md)
 
 

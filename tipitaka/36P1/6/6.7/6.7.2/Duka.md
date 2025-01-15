@@ -1,22 +1,5 @@
----
-title:  Duka
-path: /tipitaka/36P1/6/6.7/6.7.2/Duka
-ref: 260696
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 6 Saṃkiliṭṭhattika
-    link: /tipitaka/36P1/6
-  - name: 6.7 Pañhāvāra
-    link: /tipitaka/36P1/6/6.7
-  - name: 6.7.2 Paccayapaccanīya
-    link: /tipitaka/36P1/6/6.7/6.7.2
-prevL: /tipitaka/36P1/6/6.7/6.7.2/Suddha
-upL: /tipitaka/36P1/6/6.7/6.7.2
-nextL: /tipitaka/36P1/6/6.7/6.7.3
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md) / [6.7.2 Paccayapaccanīya](/tipitaka/36P1/6/6.7/6.7.2.md)
 
 # Duka
 
@@ -38,5 +21,7 @@ nextL: /tipitaka/36P1/6/6.7/6.7.3
 Paccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/6/6.7/6.7.2/Suddha.md) / [Go to parent page](/tipitaka/36P1/6/6.7/6.7.2.md) / [Go to next page](/tipitaka/36P1/6/6.7/6.7.3.md)
 
 

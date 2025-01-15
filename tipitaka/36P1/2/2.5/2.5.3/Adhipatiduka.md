@@ -1,22 +1,5 @@
----
-title:  Adhipatiduka
-path: /tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka
-ref: 260548
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.5/2.5.3
-prevL: /tipitaka/36P1/2/2.5/2.5.3/Arammanaduka/Tika
-upL: /tipitaka/36P1/2/2.5/2.5.3
-nextL: /tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.5/2.5.3.md)
 
 # Adhipatiduka
 
@@ -32,6 +15,8 @@ nextL: /tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi
 
 762. Adhipatipaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
-* [Tikādi](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi)
+* [Tikādi](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.3/Arammanaduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.3.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi.md)
 
 

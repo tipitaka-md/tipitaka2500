@@ -1,24 +1,5 @@
----
-title:  Indriya
-path: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Indriya
-ref: 262772
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.7 Pañhāvāra
-    link: /tipitaka/36P1/5/5.7
-  - name: 5.7.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.7/5.7.1
-  - name: 5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-prevL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Ahara
-upL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Jhana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md)
 
 # Indriya
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Jhana
 2711. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa indriyapaccayena paccayo—  anupādinnaanupādāniyā indriyā cittasamuṭṭhānānaṃ rūpānaṃ indriyapaccayena paccayo. (2)
 
 2712. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa indriyapaccayena paccayo—  anupādinnaanupādāniyā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Ahara.md) / [Go to parent page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Jhana.md)
 
 

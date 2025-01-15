@@ -1,24 +1,5 @@
----
-title:  Naadhipati
-path: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naadhipati
-ref: 262813
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/7/7.1/7.1.2
-  - name: 7.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-prevL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naarammana
-upL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naanantaradi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.2 Paccayapaccanīya](/tipitaka/37P1/7/7.1/7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md)
 
 # Naadhipati
 
@@ -61,5 +42,7 @@ nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naanantaradi
 152. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca…  satta. (Saṃkhittaṃ.)
 
 153. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati…pe…  avitakkavicāramatto dhammo uppajjati naadhipatipaccayā, avitakkavicāramatte khandhe ca vicārañca paṭicca avitakkavicāramattā adhipati, vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vicārañca paṭicca. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naarammana.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naanantaradi.md)
 
 

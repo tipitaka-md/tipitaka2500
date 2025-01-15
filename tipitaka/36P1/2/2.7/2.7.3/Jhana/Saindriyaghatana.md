@@ -1,24 +1,5 @@
----
-title:  Saindriyaghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.3/Jhana/Saindriyaghatana
-ref: 262492
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.7/2.7.3
-  - name: Jhāna
-    link: /tipitaka/36P1/2/2.7/2.7.3/Jhana
-prevL: /tipitaka/36P1/2/2.7/2.7.3/Jhana/Jhanasamannaghatana
-upL: /tipitaka/36P1/2/2.7/2.7.3/Jhana
-nextL: /tipitaka/36P1/2/2.7/2.7.3/Jhana/Samaggaghatana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Jhāna](/tipitaka/36P1/2/2.7/2.7.3/Jhana.md)
 
 # Saindriyaghaṭanā
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.3/Jhana/Samaggaghatana
 1562. Jhāna sahajāta nissaya vipāka indriya vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
 1563. Jhāna sahajāta aññamañña nissaya vipāka indriya vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Jhana/Jhanasamannaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Jhana.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Jhana/Samaggaghatana.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Kamma
-ref: 262674
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.3 Paccayavāra
-    link: /tipitaka/36P1/4/4.3
-  - name: 4.3.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.3/4.3.1
-  - name: 4.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1
-prevL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Asevana
-upL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1
-nextL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Vipaka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.1 Paccayānuloma](/tipitaka/36P1/4/4.3/4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md)
 
 # Kamma
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Vipaka
 (71.)
 
 2218. Vipākaṃ dhammaṃ paccayā vipāko dhammo uppajjati kammapaccayā…  tīṇi. (Sahajātasadisaṃ.)
+
+[Go to previous page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Asevana.md) / [Go to parent page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Vipaka.md)
 
 

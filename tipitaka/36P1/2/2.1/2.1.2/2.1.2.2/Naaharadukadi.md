@@ -1,24 +1,5 @@
----
-title:  Naāhāradukādi
-path: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Naaharadukadi
-ref: 262122
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.1/2.1.2
-  - name: 2.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2
-prevL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka/Catukka
-upL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2
-nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nasampayuttaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.2 Paccayapaccanīya](/tipitaka/36P1/2/2.1/2.1.2.md) / [2.1.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2.md)
 
 # Naāhāradukādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nasampayuttaduka
 (60.)
 
 270. Naāhārapaccayā…pe…  naindriyapaccayā…pe…  najhānapaccayā…pe…  namaggapaccayā nahetuyā ekaṃ (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka/Catukka.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nasampayuttaduka.md)
 
 

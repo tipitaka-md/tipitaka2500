@@ -1,19 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/40P14/37/37.7/Paccaniyuddhara
-ref: 259976
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/40P14
-  - name: 37 Saraṇaduka
-    link: /tipitaka/40P14/37
-  - name: 37.7 Pañhāvāra
-    link: /tipitaka/40P14/37/37.7
-prevL: /tipitaka/40P14/37/37.7
-upL: /tipitaka/40P14/37/37.7
----
+
+[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P14.md) / [37 Saraṇaduka](/tipitaka/40P14/37.md) / [37.7 Pañhāvāra](/tipitaka/40P14/37/37.7.md)
 
 # Paccanīyuddhāra
 
@@ -38,5 +24,7 @@ upL: /tipitaka/40P14/37/37.7
 185. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
 
 186. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P14/37/37.7.md) / [Go to parent page](/tipitaka/40P14/37/37.7.md)
 
 

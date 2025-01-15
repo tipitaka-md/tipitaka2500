@@ -1,31 +1,14 @@
----
-title:  Gaṇanā hetumūlakā
-path: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka
-ref: 262089
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.1/2.1.1
-  - name: 2.1.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2
-prevL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Suddha
-upL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2
-nextL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Duka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md)
 
 # Gaṇanā hetumūlakā
 
-* [Duka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Duka)
-* [Tika](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Tika)
-* [Dvādasaka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Dvadasaka)
-* [Terasaka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Terasaka)
-* [Bāvīsaka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Bavisaka)
+* [Duka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Duka.md)
+* [Tika](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Tika.md)
+* [Dvādasaka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Dvadasaka.md)
+* [Terasaka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Terasaka.md)
+* [Bāvīsaka](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Bavisaka.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Suddha.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Duka.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1/Hetu
-ref: 262742
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.3 Paccayavāra
-    link: /tipitaka/36P1/5/5.3
-  - name: 5.3.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.3/5.3.1
-  - name: 5.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1
-prevL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1
-upL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1
-nextL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1/Arammana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.3 Paccayavāra](/tipitaka/36P1/5/5.3.md) / [5.3.1 Paccayānuloma](/tipitaka/36P1/5/5.3/5.3.1.md) / [5.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.1.md)
 
 # Hetu
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1/Arammana
 2531. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati hetupaccayā—  anupādinnaanupādāniye khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2532. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paccayā anupādinnupādāniyo dhammo uppajjati hetupaccayā—  upādinnupādāniye khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; anupādinnupādāniyaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+
+[Go to previous page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.1.md) / [Go to parent page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.1/Arammana.md)
 
 

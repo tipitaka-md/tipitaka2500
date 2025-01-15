@@ -1,26 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Purejata
-ref: 264668
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.1/1.1.7
-  - name: 1.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1
-  - name: 1.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-prevL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Upanissaya
-upL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Pacchajatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md)
 
 # Purejāta
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Pacchajatadi
 82. Nahetu dhammo hetussa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. **Vatthupurejātaṃ**—  vatthu hetūnaṃ purejātapaccayena paccayo. (2)
 
 83. Nahetu dhammo hetussa ca nahetussa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu hetūnaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Pacchajatadi.md)
 
 

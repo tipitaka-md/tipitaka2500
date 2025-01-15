@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/5/5.5/5.5.1--7/Paccayacatukka
-ref: 261905
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 5 Kusalattika, Mahantaradukaupādānagocchaka
-    link: /tipitaka/39P4/5
-  - name: 5.5 Kusalattika, Ajjhattikaduka
-    link: /tipitaka/39P4/5/5.5
-  - name: 5.5.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/5/5.5/5.5.1--7
-prevL: /tipitaka/39P4/5/5.5/5.5.1--7
-upL: /tipitaka/39P4/5/5.5/5.5.1--7
-nextL: /tipitaka/39P4/5/5.6
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](/tipitaka/39P4/5.md) / [5.5 Kusalattika, Ajjhattikaduka](/tipitaka/39P4/5/5.5.md) / [5.5.1--7 Paṭiccādivāra](/tipitaka/39P4/5/5.5/5.5.1--7.md)
 
 # Paccayacatukka
 
@@ -63,5 +46,7 @@ nextL: /tipitaka/39P4/5/5.6
 1396. Hetuyā satta, ārammaṇe nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1397. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/5/5.5/5.5.1--7.md) / [Go to parent page](/tipitaka/39P4/5/5.5/5.5.1--7.md) / [Go to next page](/tipitaka/39P4/5/5.6.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Napurejāta
-path: /tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Napurejata
-ref: 262948
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.1 Paṭiccavāra
-    link: /tipitaka/37P1/10/10.1
-  - name: 10.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/10/10.1/10.1.2
-  - name: 10.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.1/10.1.2/10.1.2.1
-prevL: /tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Naadhipatyadi
-upL: /tipitaka/37P1/10/10.1/10.1.2/10.1.2.1
-nextL: /tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Napacchajatadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.1 Paṭiccavāra](/tipitaka/37P1/10/10.1.md) / [10.1.2 Paccayapaccanīya](/tipitaka/37P1/10/10.1/10.1.2.md) / [10.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1.md)
 
 # Napurejāta
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Napacchajatadi
 1116. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati napurejātapaccayā—  dassanena pahātabbahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; vicikicchāsahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1117. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati napurejātapaccayā. (Imepi dve kātabbā.)
+
+[Go to previous page](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Naadhipatyadi.md) / [Go to parent page](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1.md) / [Go to next page](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Napacchajatadi.md)
 
 

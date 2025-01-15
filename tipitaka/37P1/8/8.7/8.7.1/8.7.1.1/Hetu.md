@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Hetu
-ref: 262859
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.7 Pañhāvāra
-    link: /tipitaka/37P1/8/8.7
-  - name: 8.7.1 Paccayānuloma
-    link: /tipitaka/37P1/8/8.7/8.7.1
-  - name: 8.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-prevL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-upL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md) / [8.7.1 Paccayānuloma](/tipitaka/37P1/8/8.7/8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md)
 
 # Hetu
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Arammana
 682. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa hetupaccayena paccayo—  upekkhāsahagatā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
 
 683. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe…  sukhasahagatassa dhammassa…pe…  pītisahagatassa ca sukhasahagatassa ca dhammassa hetupaccayena paccayo—  pītisahagatā ca sukhasahagatā ca hetū sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
+
+[Go to previous page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to parent page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Arammana.md)
 
 

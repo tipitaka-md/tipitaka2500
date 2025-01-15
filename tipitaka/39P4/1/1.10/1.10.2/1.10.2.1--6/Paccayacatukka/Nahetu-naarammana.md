@@ -1,26 +1,5 @@
----
-title:  Nahetu-naārammaṇa
-path: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka/Nahetu-naarammana
-ref: 266061
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.10 Ācayagāmittika, Hetuduka
-    link: /tipitaka/39P4/1/1.10
-  - name: 1.10.2 Nahetupada
-    link: /tipitaka/39P4/1/1.10/1.10.2
-  - name: 1.10.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka/Hetu-arammana
-upL: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.7
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.10 Ācayagāmittika, Hetuduka](/tipitaka/39P4/1/1.10.md) / [1.10.2 Nahetupada](/tipitaka/39P4/1/1.10/1.10.2.md) / [1.10.2.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6.md) / [Paccayacatukka](/tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka.md)
 
 # Nahetu-naārammaṇa
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/39P4/1/1.10/1.10.2/1.10.2.7
 500. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 501. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka/Hetu-arammana.md) / [Go to parent page](/tipitaka/39P4/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.10/1.10.2/1.10.2.7.md)
 
 

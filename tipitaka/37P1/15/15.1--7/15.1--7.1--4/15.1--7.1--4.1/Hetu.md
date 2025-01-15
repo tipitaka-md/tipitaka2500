@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1/Hetu
-ref: 263163
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 15 Hīnattika
-    link: /tipitaka/37P1/15
-  - name: 15.1--7 Paṭiccādivāra
-    link: /tipitaka/37P1/15/15.1--7
-  - name: 15.1--7.1--4 Paccayānulomādi
-    link: /tipitaka/37P1/15/15.1--7/15.1--7.1--4
-  - name: 15.1--7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1
-prevL: /tipitaka/37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1
-upL: /tipitaka/37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1
-nextL: /tipitaka/37P1/16
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [15 Hīnattika](/tipitaka/37P1/15.md) / [15.1--7 Paṭiccādivāra](/tipitaka/37P1/15/15.1--7.md) / [15.1--7.1--4 Paccayānulomādi](/tipitaka/37P1/15/15.1--7/15.1--7.1--4.md) / [15.1--7.1--4.1 Vibhaṅgavāra](/tipitaka/37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1.md)
 
 # Hetu
 
@@ -67,5 +48,7 @@ nextL: /tipitaka/37P1/16
 2262. Hīnattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1.md) / [Go to parent page](/tipitaka/37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1.md) / [Go to next page](/tipitaka/37P1/16.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/22/22.1--7/Paccayanuloma/Hetu
-ref: 262045
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 22 Sanidassanattika
-    link: /tipitaka/40P13/22
-  - name: 22.1--7 Paṭiccādivāra
-    link: /tipitaka/40P13/22/22.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P13/22/22.1--7/Paccayanuloma
-prevL: /tipitaka/40P13/22/22.1--7/Paccayanuloma
-upL: /tipitaka/40P13/22/22.1--7/Paccayanuloma
-nextL: /tipitaka/40P13/22/22.1--7/Paccayanuloma/Hetu-arammana
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [22 Sanidassanattika](/tipitaka/40P13/22.md) / [22.1--7 Paṭiccādivāra](/tipitaka/40P13/22/22.1--7.md) / [Paccayānuloma](/tipitaka/40P13/22/22.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/40P13/22/22.1--7/Paccayanuloma/Hetu-arammana
 136. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca nasanidassanasappaṭigho dhammo uppajjati hetupaccayā…  cha. (Saṃkhittaṃ.)
 
 137. Hetuyā aṭṭhārasa, ārammaṇe tīṇi…pe…  avigate aṭṭhārasa. (Sabbattha vitthāro. Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P13/22/22.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P13/22/22.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P13/22/22.1--7/Paccayanuloma/Hetu-arammana.md)
 
 

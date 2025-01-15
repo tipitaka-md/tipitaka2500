@@ -1,22 +1,5 @@
----
-title:  Duka
-path: /tipitaka/37P1/8/8.7/8.7.4/Duka
-ref: 260726
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.7 Pañhāvāra
-    link: /tipitaka/37P1/8/8.7
-  - name: 8.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/37P1/8/8.7/8.7.4
-prevL: /tipitaka/37P1/8/8.7/8.7.4
-upL: /tipitaka/37P1/8/8.7/8.7.4
-nextL: /tipitaka/37P1/9
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md) / [8.7.4 Paccayapaccanīyānuloma](/tipitaka/37P1/8/8.7/8.7.4.md)
 
 # Duka
 
@@ -49,5 +32,7 @@ nextL: /tipitaka/37P1/9
 789. Pītittikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/8/8.7/8.7.4.md) / [Go to parent page](/tipitaka/37P1/8/8.7/8.7.4.md) / [Go to next page](/tipitaka/37P1/9.md)
 
 

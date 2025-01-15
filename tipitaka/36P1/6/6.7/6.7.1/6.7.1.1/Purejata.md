@@ -1,24 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Purejata
-ref: 262790
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 6 Saṃkiliṭṭhattika
-    link: /tipitaka/36P1/6
-  - name: 6.7 Pañhāvāra
-    link: /tipitaka/36P1/6/6.7
-  - name: 6.7.1 Paccayānuloma
-    link: /tipitaka/36P1/6/6.7/6.7.1
-  - name: 6.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1
-prevL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Samanantaradi
-upL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1
-nextL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Pacchajata
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md) / [6.7.1 Paccayānuloma](/tipitaka/36P1/6/6.7/6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md)
 
 # Purejāta
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Pacchajata
 2863. Asaṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  phoṭṭhabbe…  vatthuṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saṃkiliṭṭhasaṃkilesikānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 2864. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa purejātapaccayena paccayo—  vatthu asaṃkiliṭṭhaasaṃkilesikānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Samanantaradi.md) / [Go to parent page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md) / [Go to next page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Pacchajata.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Upanissaya
-ref: 265641
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.7 Sappītikaduka
-    link: /tipitaka/38P2/13/13.7
-  - name: 13.7.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.7/13.7.7
-  - name: 13.7.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4
-  - name: 13.7.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1
-prevL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Anantaradi
-upL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1
-nextL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Purejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.7 Sappītikaduka](/tipitaka/38P2/13/13.7.md) / [13.7.7 Pañhāvāra](/tipitaka/38P2/13/13.7/13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md)
 
 # Upanissaya
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Purejata
 4425. Appītiko dhammo sappītikassa ca appītikassa ca dhammassa upanissayapaccayena paccayo (tīṇi upanissayā). Appītikaṃ saddhaṃ upanissāya sappītikena cittena dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; appītikaṃ sīlaṃ…pe…  senāsanaṃ pītiṃ upanissāya sappītikena cittena dānaṃ deti…pe…  samāpattiṃ uppādeti; sappītikena cittena adinnaṃ ādiyati…pe…  (dutiyavārasadisaṃ) nigamaghātaṃ karoti; appītikā saddhā…pe…  senāsanaṃ pīti ca sappītikāya saddhāya…pe…  paññāya…  rāgassa…  mohassa…  mānassa…  diṭṭhiyā…  patthanāya…  maggassa, phalasamāpattiyā pītiyā ca upanissayapaccayena paccayo. (3)
 
 4426. Sappītiko ca appītiko ca dhammā sappītikassa dhammassa upanissayapaccayena paccayo (tīṇipi upanissayā). Sappītikā khandhā ca pīti ca sappītikānaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Sappītikā khandhā ca pīti ca appītikānaṃ khandhānaṃ pītiyā ca upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Sappītikā khandhā ca pīti ca sappītikānaṃ khandhānaṃ pītiyā ca upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Purejata.md)
 
 

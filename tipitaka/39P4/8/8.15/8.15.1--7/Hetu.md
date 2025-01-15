@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/8/8.15/8.15.1--7/Hetu
-ref: 261951
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.15 Micchattaniyatattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.15
-  - name: 8.15.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.15/8.15.1--7
-prevL: /tipitaka/39P4/8/8.15/8.15.1--7
-upL: /tipitaka/39P4/8/8.15/8.15.1--7
-nextL: /tipitaka/39P4/8/8.16
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.15 Micchattaniyatattika, Saraṇaduka](/tipitaka/39P4/8/8.15.md) / [8.15.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.15/8.15.1--7.md)
 
 # Hetu
 
@@ -47,5 +30,7 @@ nextL: /tipitaka/39P4/8/8.16
 1862. Sammattaniyataṃ araṇañca aniyataṃ araṇañca dhammaṃ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 1863. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.15/8.15.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.15/8.15.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.16.md)
 
 

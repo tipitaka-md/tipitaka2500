@@ -1,26 +1,5 @@
----
-title:  Anantarādi
-path: /tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Anantaradi
-ref: 266029
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.1 Kusalattika, Hetuduka
-    link: /tipitaka/39P4/1/1.1
-  - name: 1.1.1 Hetupada
-    link: /tipitaka/39P4/1/1.1/1.1.1
-  - name: 1.1.1.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.1/1.1.1/1.1.1.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Hetu-arammanadi
-upL: /tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Upanissayadi
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.1 Kusalattika, Hetuduka](/tipitaka/39P4/1/1.1.md) / [1.1.1 Hetupada](/tipitaka/39P4/1/1.1/1.1.1.md) / [1.1.1.7 Pañhāvāra](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md)
 
 # Anantarādi
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Upanissayadi
 31. (Aññamaññanissayapaccayā sahajātapaccayasadisā.)
 
 
+
+[Go to previous page](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Hetu-arammanadi.md) / [Go to parent page](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Upanissayadi.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Pacchājāta
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Pacchajata
-ref: 262836
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Purejata
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Asevana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Pacchājāta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Asevana
 460. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa pacchājātapaccayena paccayo—  pacchājātā avitakkavicāramattā khandhā ca vicāro ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 461. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa pacchājātapaccayena paccayo—  pacchājātā savitakkasavicārā khandhā ca vitakko ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Purejata.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Asevana.md)
 
 

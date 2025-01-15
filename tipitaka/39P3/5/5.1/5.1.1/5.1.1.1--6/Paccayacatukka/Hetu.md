@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6/Paccayacatukka/Hetu
-ref: 266020
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 5 Saññojanagocchaka, Kusalattika
-    link: /tipitaka/39P3/5
-  - name: 5.1 Saññojanaduka, Kusalattika
-    link: /tipitaka/39P3/5/5.1
-  - name: 5.1.1 Kusalākusalapada
-    link: /tipitaka/39P3/5/5.1/5.1.1
-  - name: 5.1.1.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6/Paccayacatukka
-prevL: /tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6/Paccayacatukka
-upL: /tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6/Paccayacatukka
-nextL: /tipitaka/39P3/5/5.1/5.1.1/5.1.1.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.1 Saññojanaduka, Kusalattika](/tipitaka/39P3/5/5.1.md) / [5.1.1 Kusalākusalapada](/tipitaka/39P3/5/5.1/5.1.1.md) / [5.1.1.1--6 Paṭiccādivāra](/tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6.md) / [Paccayacatukka](/tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6/Paccayacatukka.md)
 
 # Hetu
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/39P3/5/5.1/5.1.1/5.1.1.7
 1709. Nahetuyā tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi…pe…  navippayutte nava. (Saṃkhittaṃ.)
 
 1710. (Sahajātavāropi…pe…  sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/5/5.1/5.1.1/5.1.1.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/5/5.1/5.1.1/5.1.1.7.md)
 
 

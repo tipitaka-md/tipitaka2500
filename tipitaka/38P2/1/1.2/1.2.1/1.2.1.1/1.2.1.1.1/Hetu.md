@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Hetu
-ref: 264679
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.1 Paṭiccavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1
-  - name: 1.2.1.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1
-  - name: 1.2.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1
-prevL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1
-upL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1
-nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.1 Paṭiccavāra](/tipitaka/38P2/1/1.2/1.2.1.md) / [1.2.1.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1.md) / [1.2.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Arammana
 138. Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati hetupaccayā—  sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 139. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Arammana.md)
 
 

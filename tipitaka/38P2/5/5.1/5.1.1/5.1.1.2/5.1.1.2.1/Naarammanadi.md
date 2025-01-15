@@ -1,26 +1,5 @@
----
-title:  Naārammaṇādi
-path: /tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Naarammanadi
-ref: 265003
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.1 Ganthaduka
-    link: /tipitaka/38P2/5/5.1
-  - name: 5.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/5/5.1/5.1.1
-  - name: 5.1.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/5/5.1/5.1.1/5.1.1.2
-  - name: 5.1.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1
-prevL: /tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Nahetu
-upL: /tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1
-nextL: /tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Napurejatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.1 Ganthaduka](/tipitaka/38P2/5/5.1.md) / [5.1.1 Paṭiccavāra](/tipitaka/38P2/5/5.1/5.1.1.md) / [5.1.1.2 Paccayapaccanīya](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2.md) / [5.1.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1.md)
 
 # Naārammaṇādi
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Napurejatadi
 1628. Ganthañca noganthañca dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  ganthe ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
 
 1629. Naadhipatipaccayā…  nava, naanantarapaccayā…  tīṇi, nasamanantarapaccayā…  tīṇi, naaññamaññapaccayā…  tīṇi, naupanissayapaccayā…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Nahetu.md) / [Go to parent page](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1.md) / [Go to next page](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Napurejatadi.md)
 
 

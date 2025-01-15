@@ -1,26 +1,5 @@
----
-title:  Atthyādi
-path: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Atthyadi
-ref: 264676
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.1/1.1.7
-  - name: 1.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1
-  - name: 1.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-prevL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Vippayutta
-upL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md)
 
 # Atthyādi
 
@@ -61,5 +40,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2
 112. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nahetu eko khandho ca alobho ca tiṇṇannaṃ khandhānaṃ adosassa amohassa cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ). Nahetu eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ mohassa cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo (cakkaṃ); paṭisandhikkhaṇe nahetu eko khandho ca alobho ca (cakkaṃ). Paṭisandhikkhaṇe…pe…  alobho ca vatthu ca adosassa amohassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo, lobho ca vatthu ca mohassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo… .
 
 113. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2.md)
 
 

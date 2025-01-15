@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Hetu
-ref: 264946
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.1 Saññojanaduka
-    link: /tipitaka/38P2/4/4.1
-  - name: 4.1.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.1/4.1.7
-  - name: 4.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1
-  - name: 4.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1
-prevL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1
-upL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1
-nextL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.1 Saññojanaduka](/tipitaka/38P2/4/4.1.md) / [4.1.7 Pañhāvāra](/tipitaka/38P2/4/4.1/4.1.7.md) / [4.1.7.1 Paccayānuloma](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1.md) / [4.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md)
 
 # Hetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Arammana
 (16.)
 
 1360. Nosaññojano dhammo nosaññojanassa dhammassa hetupaccayena paccayo—  nosaññojanā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+
+[Go to previous page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md) / [Go to parent page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Arammana.md)
 
 

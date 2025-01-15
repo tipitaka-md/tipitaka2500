@@ -1,17 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/40P15/90/Paccaniyuddhara
-ref: 258727
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P15
-  - name: 90 Saraṇaduka, Sanidassanattika
-    link: /tipitaka/40P15/90
-prevL: /tipitaka/40P15/90/Nahetu-naarammana
-upL: /tipitaka/40P15/90
----
+
+[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P15.md) / [90 Saraṇaduka, Sanidassanattika](/tipitaka/40P15/90.md)
 
 # Paccanīyuddhāra
 
@@ -26,5 +14,7 @@ upL: /tipitaka/40P15/90
 290. Nahetuyā tīṇi, naārammaṇe tīṇi…pe…  noavigate tīṇi.
 
 291. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P15/90/Nahetu-naarammana.md) / [Go to parent page](/tipitaka/40P15/90.md)
 
 

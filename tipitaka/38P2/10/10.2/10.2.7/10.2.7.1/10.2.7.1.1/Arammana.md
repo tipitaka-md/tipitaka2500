@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Arammana
-ref: 265205
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.2 Cittaduka
-    link: /tipitaka/38P2/10/10.2
-  - name: 10.2.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.2/10.2.7
-  - name: 10.2.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.1
-  - name: 10.2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1
-prevL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Hetu
-upL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1
-nextL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Adhipati
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.2 Cittaduka](/tipitaka/38P2/10/10.2.md) / [10.2.7 Pañhāvāra](/tipitaka/38P2/10/10.2/10.2.7.md) / [10.2.7.1 Paccayānuloma](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1.md) / [10.2.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md)
 
 # Ārammaṇa
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Adhipati
 2489. Nocitto dhammo cittassa ca nocittassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā…pe…  (paṭhamagamanasadisaṃ ninnānākaraṇaṃ, imaṃ nānaṃ), rūpāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa sampayuttakānañca khandhānaṃ…pe…  nocittā khandhā iddhividhañāṇassa…pe…  āvajjanāya ārammaṇapaccayena paccayo. (3)
 
 2490. Citto ca nocitto ca dhammā cittassa dhammassa ārammaṇapaccayena paccayo—  cittañca sampayuttake ca khandhe ārabbha cittaṃ uppajjati…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Adhipati.md)
 
 

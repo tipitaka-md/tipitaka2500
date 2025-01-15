@@ -1,22 +1,5 @@
----
-title:  Nahetuduka
-path: /tipitaka/37P1/7/7.1/7.1.4/Nahetuduka
-ref: 260704
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.4 Paccayapaccanīyānuloma
-    link: /tipitaka/37P1/7/7.1/7.1.4
-prevL: /tipitaka/37P1/7/7.1/7.1.4
-upL: /tipitaka/37P1/7/7.1/7.1.4
-nextL: /tipitaka/37P1/7/7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.4 Paccayapaccanīyānuloma](/tipitaka/37P1/7/7.1/7.1.4.md)
 
 # Nahetuduka
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/37P1/7/7.2
 199. Paṭiccavāro.
 
 
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.4.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.4.md) / [Go to next page](/tipitaka/37P1/7/7.2.md)
 
 

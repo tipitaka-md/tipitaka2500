@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Anantara
-ref: 263277
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 20 Atītārammaṇattika
-    link: /tipitaka/37P1/20
-  - name: 20.7 Pañhāvāra
-    link: /tipitaka/37P1/20/20.7
-  - name: 20.7.1 Paccayānuloma
-    link: /tipitaka/37P1/20/20.7/20.7.1
-  - name: 20.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1
-prevL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Adhipati
-upL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1
-nextL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Samanantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.7 Pañhāvāra](/tipitaka/37P1/20/20.7.md) / [20.7.1 Paccayānuloma](/tipitaka/37P1/20/20.7/20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md)
 
 # Anantara
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Samanantara
 2716. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā paccuppannārammaṇā khandhā pacchimānaṃ pacchimānaṃ paccuppannārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo. Paccuppannārammaṇaṃ paṭisandhicittaṃ paccuppannārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇaṃ bhavaṅgaṃ paccuppannārammaṇassa bhavaṅgassa anantarapaccayena paccayo. (1)
 
 2717. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo—  paccuppannārammaṇaṃ paṭisandhicittaṃ atītārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇaṃ bhavaṅgaṃ atītārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇā khandhā atītārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md) / [Go to next page](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Samanantara.md)
 
 

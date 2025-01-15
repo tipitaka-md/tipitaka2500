@@ -1,24 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Atthi
-ref: 262707
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Vippayutta
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Natthi-vigatavigata
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Atthi
 
@@ -69,5 +50,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Natthi-vigatavigata
 2401. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā vipākadhammadhammassa…pe…  sahajātaṃ, purejātaṃ. **Sahajāto**—  vipākadhammadhammo eko khandho ca vatthu ca tiṇṇannaṃ…pe… . (1)
 
 2402. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  vipākadhammadhammā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  vipākadhammadhammā khandhā ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  vipākadhammadhammā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Natthi-vigatavigata.md)
 
 

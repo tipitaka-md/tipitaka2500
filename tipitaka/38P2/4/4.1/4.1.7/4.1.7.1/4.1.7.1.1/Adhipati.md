@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Adhipati
-ref: 264948
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.1 Saññojanaduka
-    link: /tipitaka/38P2/4/4.1
-  - name: 4.1.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.1/4.1.7
-  - name: 4.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1
-  - name: 4.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1
-prevL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Arammana
-upL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1
-nextL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.1 Saññojanaduka](/tipitaka/38P2/4/4.1.md) / [4.1.7 Pañhāvāra](/tipitaka/38P2/4/4.1/4.1.7.md) / [4.1.7.1 Paccayānuloma](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1.md) / [4.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md)
 
 # Adhipati
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Anantara
 1367. Nosaññojano dhammo nosaññojanassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  tīṇi (tiṇṇampi ārammaṇādhipati, sahajātādhipatipi kātabbā, vibhajitabbā tīṇipi).
 
 1368. Saññojano ca nosaññojano ca dhammā saññojanassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  saññojane ca sampayuttake ca khandhe garuṃ katvā…pe…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Anantara.md)
 
 

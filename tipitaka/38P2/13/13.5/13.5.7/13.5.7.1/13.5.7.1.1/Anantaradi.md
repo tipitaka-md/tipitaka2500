@@ -1,26 +1,5 @@
----
-title:  Anantarādi
-path: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Anantaradi
-ref: 265625
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.5 Savitakkaduka
-    link: /tipitaka/38P2/13/13.5
-  - name: 13.5.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.5/13.5.7
-  - name: 13.5.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1
-  - name: 13.5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1
-prevL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Adhipati
-upL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1
-nextL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Upanissaya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.7 Pañhāvāra](/tipitaka/38P2/13/13.5/13.5.7.md) / [13.5.7.1 Paccayānuloma](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md)
 
 # Anantarādi
 
@@ -61,5 +40,7 @@ nextL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Upanissaya
 4346. Savitakko ca avitakko ca dhammā savitakkassa ca avitakkassa ca dhammassa anantarapaccayena paccayo—  purimā purimā savitakkā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. (3)
 
 4347. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
+
+[Go to previous page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Upanissaya.md)
 
 

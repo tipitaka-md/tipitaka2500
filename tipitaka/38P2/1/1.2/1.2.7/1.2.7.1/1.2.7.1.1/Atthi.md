@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Atthi
-ref: 264720
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.2/1.2.7
-  - name: 1.2.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1
-  - name: 1.2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1
-prevL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Vippayutta
-upL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1
-nextL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.7 Pañhāvāra](/tipitaka/38P2/1/1.2/1.2.7.md) / [1.2.7.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md)
 
 # Atthi
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.2
 330. Sahetuko ca ahetuko ca dhammā ahetukassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  sahetukā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe sahetukā khandhā ca mahābhūtā ca kaṭattārūpānaṃ atthipaccayena paccayo. **Sahajātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca vatthu ca mohassa atthipaccayena paccayo. **Pacchājātā**—  vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  sahetukā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  sahetukā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 331. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  vicikicchāsahagato uddhaccasahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… . **Sahajāto**—  vicikicchāsahagato uddhaccasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ mohassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Anantara
-ref: 263154
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 14 Parittārammaṇattika
-    link: /tipitaka/37P1/14
-  - name: 14.7 Pañhāvāra
-    link: /tipitaka/37P1/14/14.7
-  - name: 14.7.1 Paccayānuloma
-    link: /tipitaka/37P1/14/14.7/14.7.1
-  - name: 14.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/14/14.7/14.7.1/14.7.1.1
-prevL: /tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Adhipati
-upL: /tipitaka/37P1/14/14.7/14.7.1/14.7.1.1
-nextL: /tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Samanantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [14 Parittārammaṇattika](/tipitaka/37P1/14.md) / [14.7 Pañhāvāra](/tipitaka/37P1/14/14.7.md) / [14.7.1 Paccayānuloma](/tipitaka/37P1/14/14.7/14.7.1.md) / [14.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1.md)
 
 # Anantara
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Samanantara
 2212. Appamāṇārammaṇo dhammo parittārammaṇassa dhammassa anantarapaccayena paccayo—  maggapaccavekkhaṇaṃ parittārammaṇassa vuṭṭhānassa…  phalapaccavekkhaṇaṃ parittārammaṇassa vuṭṭhānassa…  nibbānapaccavekkhaṇaṃ parittārammaṇassa vuṭṭhānassa…  appamāṇārammaṇaṃ cetopariyañāṇaṃ parittārammaṇassa vuṭṭhānassa…  pubbenivāsānussatiñāṇaṃ parittārammaṇassa vuṭṭhānassa…  anāgataṃsañāṇaṃ parittārammaṇassa vuṭṭhānassa…  phalaṃ parittārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 2213. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa anantarapaccayena paccayo—  maggapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  phalapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  nibbānapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  phalaṃ mahaggatārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1.md) / [Go to next page](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Samanantara.md)
 
 

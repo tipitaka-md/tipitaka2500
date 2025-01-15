@@ -1,26 +1,5 @@
----
-title:  Tika
-path: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka/Tika
-ref: 264651
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/4/4.1/4.1.2
-  - name: 4.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.2
-  - name: Nahetuduka
-    link: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka
-prevL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka
-upL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka
-nextL: /tipitaka/36P1/4/4.1/4.1.3
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.2 Paccayapaccanīya](/tipitaka/36P1/4/4.1/4.1.2.md) / [4.1.2.2 Saṅkhyāvāra](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.2.md) / [Nahetuduka](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka.md)
 
 # Tika
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/36P1/4/4.1/4.1.3
 2147. Paccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka.md) / [Go to next page](/tipitaka/36P1/4/4.1/4.1.3.md)
 
 

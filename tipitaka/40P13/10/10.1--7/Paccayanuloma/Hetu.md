@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/10/10.1--7/Paccayanuloma/Hetu
-ref: 262041
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 10 Ācayagāmittika
-    link: /tipitaka/40P13/10
-  - name: 10.1--7 Paṭiccādivāra
-    link: /tipitaka/40P13/10/10.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P13/10/10.1--7/Paccayanuloma
-prevL: /tipitaka/40P13/10/10.1--7/Paccayanuloma
-upL: /tipitaka/40P13/10/10.1--7/Paccayanuloma
-nextL: /tipitaka/40P13/11
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [10 Ācayagāmittika](/tipitaka/40P13/10.md) / [10.1--7 Paṭiccādivāra](/tipitaka/40P13/10/10.1--7.md) / [Paccayānuloma](/tipitaka/40P13/10/10.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P13/11
 97. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca naācayagāmī dhammo uppajjati hetupaccayā. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca naapacayagāmī dhammo uppajjati hetupaccayā. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca naācayagāmī ca naapacayagāmī ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 98. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa. (Sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/40P13/10/10.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P13/10/10.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P13/11.md)
 
 

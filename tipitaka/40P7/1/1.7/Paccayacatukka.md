@@ -1,23 +1,10 @@
----
-title:  Paccayacatukka
-path: /tipitaka/40P7/1/1.7/Paccayacatukka
-ref: 259944
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P7
-  - name: 1 Kusalattika
-    link: /tipitaka/40P7/1
-  - name: 1.7 Pañhāvāra
-    link: /tipitaka/40P7/1/1.7
-prevL: /tipitaka/40P7/1/1.7
-upL: /tipitaka/40P7/1/1.7
-nextL: /tipitaka/40P7/1/1.7/Paccayacatukka/Hetu-arammanadi
----
+
+[Home](/) / [40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P7.md) / [1 Kusalattika](/tipitaka/40P7/1.md) / [1.7 Pañhāvāra](/tipitaka/40P7/1/1.7.md)
 
 # Paccayacatukka
 
-* [Hetu-ārammaṇādi](/tipitaka/40P7/1/1.7/Paccayacatukka/Hetu-arammanadi)
+* [Hetu-ārammaṇādi](/tipitaka/40P7/1/1.7/Paccayacatukka/Hetu-arammanadi.md)
+
+[Go to previous page](/tipitaka/40P7/1/1.7.md) / [Go to parent page](/tipitaka/40P7/1/1.7.md) / [Go to next page](/tipitaka/40P7/1/1.7/Paccayacatukka/Hetu-arammanadi.md)
 
 

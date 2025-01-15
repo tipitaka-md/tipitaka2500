@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1/Hetu
-ref: 264909
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.3 Āsavasampayuttaduka
-    link: /tipitaka/38P2/3/3.3
-  - name: 3.3.3 Paccayavāra
-    link: /tipitaka/38P2/3/3.3/3.3.3
-  - name: 3.3.3.1 Paccayānuloma
-    link: /tipitaka/38P2/3/3.3/3.3.3/3.3.3.1
-  - name: 3.3.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1
-prevL: /tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1
-upL: /tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1
-nextL: /tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1/Arammanadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.3 Āsavasampayuttaduka](/tipitaka/38P2/3/3.3.md) / [3.3.3 Paccayavāra](/tipitaka/38P2/3/3.3/3.3.3.md) / [3.3.3.1 Paccayānuloma](/tipitaka/38P2/3/3.3/3.3.3/3.3.3.1.md) / [3.3.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1.md)
 
 # Hetu
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1/Arammanadi
 1149. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paccayā āsavavippayutto dhammo uppajjati hetupaccayā—  āsavasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate khandhe ca vatthuñca paccayā domanassasahagato moho. (2)
 
 1150. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paccayā āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā—  āsavasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  āsavasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1.md) / [Go to parent page](/tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1.md) / [Go to next page](/tipitaka/38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1/Arammanadi.md)
 
 

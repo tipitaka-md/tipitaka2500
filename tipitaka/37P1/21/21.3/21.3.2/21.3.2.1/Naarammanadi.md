@@ -1,24 +1,5 @@
----
-title:  Naārammaṇādi
-path: /tipitaka/37P1/21/21.3/21.3.2/21.3.2.1/Naarammanadi
-ref: 263305
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 21 Ajjhattattika
-    link: /tipitaka/37P1/21
-  - name: 21.3 Paccayavāra
-    link: /tipitaka/37P1/21/21.3
-  - name: 21.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/21/21.3/21.3.2
-  - name: 21.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/21/21.3/21.3.2/21.3.2.1
-prevL: /tipitaka/37P1/21/21.3/21.3.2/21.3.2.1/Nahetu
-upL: /tipitaka/37P1/21/21.3/21.3.2/21.3.2.1
-nextL: /tipitaka/37P1/21/21.3/21.3.2/21.3.2.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.3 Paccayavāra](/tipitaka/37P1/21/21.3.md) / [21.3.2 Paccayapaccanīya](/tipitaka/37P1/21/21.3/21.3.2.md) / [21.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.1.md)
 
 # Naārammaṇādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/21/21.3/21.3.2/21.3.2.2
 (23.)
 
 2803. Naārammaṇapaccayā…  naadhipatipaccayā (sahajātasadisaṃ)…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā (paṭiccavārasadisaṃ)…  napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā…pe…  navippayuttapaccayā (paṭiccavārapaccanīye vippayuttasadisaṃ)…  nonatthipaccayā…  novigatapaccayā… .
+
+[Go to previous page](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.1/Nahetu.md) / [Go to parent page](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.1.md) / [Go to next page](/tipitaka/37P1/21/21.3/21.3.2/21.3.2.2.md)
 
 

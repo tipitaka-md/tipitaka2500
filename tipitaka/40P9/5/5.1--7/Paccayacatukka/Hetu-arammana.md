@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu-arammana
-ref: 262024
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P9
-  - name: 5 Hetuduka, Sanidassanattika
-    link: /tipitaka/40P9/5
-  - name: 5.1--7 Paṭiccādivāra
-    link: /tipitaka/40P9/5/5.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P9/5/5.1--7/Paccayacatukka
-prevL: /tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/40P9/5/5.1--7/Paccayacatukka
-nextL: /tipitaka/40P9/6
----
+
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [5 Hetuduka, Sanidassanattika](/tipitaka/40P9/5.md) / [5.1--7 Paṭiccādivāra](/tipitaka/40P9/5/5.1--7.md) / [Paccayacatukka](/tipitaka/40P9/5/5.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P9/6
 89. Nahetuṃ naanidassanaappaṭighaṃ dhammaṃ paṭicca nahetu naanidassanaappaṭigho dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 90. Hetuyā ekaṃ, adhipatiyā sahajāte aññamaññe nissaye kamme…pe…  magge ekaṃ, vippayutte atthiyā avigate ekaṃ. (Sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/40P9/5/5.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P9/6.md)
 
 

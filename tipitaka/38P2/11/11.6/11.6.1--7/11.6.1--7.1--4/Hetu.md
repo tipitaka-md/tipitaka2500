@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/11/11.6/11.6.1--7/11.6.1--7.1--4/Hetu
-ref: 263826
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.6 Upādānavippayuttaupādāniyaduka
-    link: /tipitaka/38P2/11/11.6
-  - name: 11.6.1--7 Paṭiccavāra
-    link: /tipitaka/38P2/11/11.6/11.6.1--7
-  - name: 11.6.1--7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/11/11.6/11.6.1--7/11.6.1--7.1--4
-prevL: /tipitaka/38P2/11/11.6/11.6.1--7/11.6.1--7.1--4
-upL: /tipitaka/38P2/11/11.6/11.6.1--7/11.6.1--7.1--4
-nextL: /tipitaka/38P2/12
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.6 Upādānavippayuttaupādāniyaduka](/tipitaka/38P2/11/11.6.md) / [11.6.1--7 Paṭiccavāra](/tipitaka/38P2/11/11.6/11.6.1--7.md) / [11.6.1--7.1--4 Paccayānulomādi](/tipitaka/38P2/11/11.6/11.6.1--7/11.6.1--7.1--4.md)
 
 # Hetu
 
@@ -60,5 +41,7 @@ Upādānavippayuttaupādāniyadukaṃ niṭṭhitaṃ.
 3808. Upādānagocchakaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/11/11.6/11.6.1--7/11.6.1--7.1--4.md) / [Go to parent page](/tipitaka/38P2/11/11.6/11.6.1--7/11.6.1--7.1--4.md) / [Go to next page](/tipitaka/38P2/12.md)
 
 

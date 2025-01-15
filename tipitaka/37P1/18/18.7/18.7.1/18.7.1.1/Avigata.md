@@ -1,24 +1,5 @@
----
-title:  Avigata
-path: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Avigata
-ref: 263242
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 18 Uppannattika
-    link: /tipitaka/37P1/18
-  - name: 18.7 Pañhāvāra
-    link: /tipitaka/37P1/18/18.7
-  - name: 18.7.1 Paccayānuloma
-    link: /tipitaka/37P1/18/18.7/18.7.1
-  - name: 18.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-prevL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Atthi
-upL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [18 Uppannattika](/tipitaka/37P1/18.md) / [18.7 Pañhāvāra](/tipitaka/37P1/18/18.7.md) / [18.7.1 Paccayānuloma](/tipitaka/37P1/18/18.7/18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md)
 
 # Avigata
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.2
 (18.)
 
 2616. Uppanno dhammo uppannassa dhammassa avigatapaccayena paccayo…pe… .
+
+[Go to previous page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Atthi.md) / [Go to parent page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.2.md)
 
 

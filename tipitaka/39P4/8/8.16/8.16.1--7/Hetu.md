@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/8/8.16/8.16.1--7/Hetu
-ref: 261952
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.16 Maggārammaṇattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.16
-  - name: 8.16.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.16/8.16.1--7
-prevL: /tipitaka/39P4/8/8.16/8.16.1--7
-upL: /tipitaka/39P4/8/8.16/8.16.1--7
-nextL: /tipitaka/39P4/8/8.17
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.16 Maggārammaṇattika, Saraṇaduka](/tipitaka/39P4/8/8.16.md) / [8.16.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.16/8.16.1--7.md)
 
 # Hetu
 
@@ -61,5 +44,7 @@ nextL: /tipitaka/39P4/8/8.17
 1876. Hetuyā sattarasa, ārammaṇe nava, adhipatiyā ekavīsa, anantare samanantare nava, sahajāte aññamaññe nissaye sattarasa, upanissaye ekavīsa, āsevane nava, kamme sattarasa, āhāre…pe…  sampayutte sattarasa…pe…  avigate sattarasa. (Saṃkhittaṃ.)
 
 1877. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.16/8.16.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.16/8.16.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.17.md)
 
 

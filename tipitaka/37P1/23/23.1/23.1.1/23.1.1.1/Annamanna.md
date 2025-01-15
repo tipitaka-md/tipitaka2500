@@ -1,24 +1,5 @@
----
-title:  Aññamañña
-path: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Annamanna
-ref: 263347
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 23 Sanidassanasappaṭighattika
-    link: /tipitaka/37P1/23
-  - name: 23.1 Paṭiccavāra
-    link: /tipitaka/37P1/23/23.1
-  - name: 23.1.1 Paccayānuloma
-    link: /tipitaka/37P1/23/23.1/23.1.1
-  - name: 23.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1
-prevL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Sahajata
-upL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1
-nextL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Nissayadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.1 Paṭiccavāra](/tipitaka/37P1/23/23.1.md) / [23.1.1 Paccayānuloma](/tipitaka/37P1/23/23.1/23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md)
 
 # Aññamañña
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Nissayadi
 (14.)
 
 2970. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati aññamaññapaccayā—  anidassanasappaṭighaṃ ekaṃ mahābhūtañca āpodhātuñca paṭicca dve mahābhūtā, dve mahābhūte ca āpodhātuñca paṭicca ekaṃ mahābhūtaṃ. Bāhiraṃ…pe… . (1)
+
+[Go to previous page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Sahajata.md) / [Go to parent page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to next page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Nissayadi.md)
 
 

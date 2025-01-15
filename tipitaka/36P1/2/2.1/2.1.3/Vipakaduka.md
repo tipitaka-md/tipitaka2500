@@ -1,22 +1,5 @@
----
-title:  Vipākaduka
-path: /tipitaka/36P1/2/2.1/2.1.3/Vipakaduka
-ref: 260471
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.1/2.1.3
-prevL: /tipitaka/36P1/2/2.1/2.1.3/Kammaduka/Catukka
-upL: /tipitaka/36P1/2/2.1/2.1.3
-nextL: /tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tika
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.1/2.1.3.md)
 
 # Vipākaduka
 
@@ -32,9 +15,11 @@ nextL: /tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tika
 
 313. Vipākapaccayā nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
 
-* [Tika](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tika)
-* [Catukka](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Catukka)
-* [Pañcaka](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Pancaka)
-* [Tevīsaka](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tevisaka)
+* [Tika](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tika.md)
+* [Catukka](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Catukka.md)
+* [Pañcaka](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Pancaka.md)
+* [Tevīsaka](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tevisaka.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.3/Kammaduka/Catukka.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.3.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tika.md)
 
 

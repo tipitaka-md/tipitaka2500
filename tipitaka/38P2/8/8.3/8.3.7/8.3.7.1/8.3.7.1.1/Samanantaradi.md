@@ -1,26 +1,5 @@
----
-title:  Samanantarādi
-path: /tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Samanantaradi
-ref: 265092
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.3 Nīvaraṇasampayuttaduka
-    link: /tipitaka/38P2/8/8.3
-  - name: 8.3.7 Pañhāvāra
-    link: /tipitaka/38P2/8/8.3/8.3.7
-  - name: 8.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/8/8.3/8.3.7/8.3.7.1
-  - name: 8.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1
-prevL: /tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Anantara
-upL: /tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1
-nextL: /tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Upanissaya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.3 Nīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.3.md) / [8.3.7 Pañhāvāra](/tipitaka/38P2/8/8.3/8.3.7.md) / [8.3.7.1 Paccayānuloma](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md)
 
 # Samanantarādi
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Upanissaya
 (72.)
 
 2043. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
+
+[Go to previous page](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Anantara.md) / [Go to parent page](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Upanissaya.md)
 
 

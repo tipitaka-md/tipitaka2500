@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.2/Suddha
-ref: 262294
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.4 Nissayavāra
-    link: /tipitaka/36P1/2/2.4
-  - name: 2.4.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.4/2.4.1
-  - name: 2.4.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.2
-prevL: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.2
-upL: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.2
-nextL: /tipitaka/36P1/2/2.4/2.4.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.4 Nissayavāra](/tipitaka/36P1/2/2.4.md) / [2.4.1 Paccayānuloma](/tipitaka/36P1/2/2.4/2.4.1.md) / [2.4.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.2.md)
 
 # Suddha
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/2/2.4/2.4.2
 680. Nissayavāre anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.2.md) / [Go to parent page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.2.md) / [Go to next page](/tipitaka/36P1/2/2.4/2.4.2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Naadhipatyādi
-path: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Naadhipatyadi
-ref: 262311
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.5/2.5.2
-  - name: 2.5.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1
-prevL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Nahetu
-upL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1
-nextL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Napacchajata-naasevana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.2 Paccayapaccanīya](/tipitaka/36P1/2/2.5/2.5.2.md) / [2.5.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md)
 
 # Naadhipatyādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Napacchajata-naasevana
 (216.)
 
 716. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati naadhipatipaccayā…  napurejātapaccayā—  arūpe kusalaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. Akusalaṃ dhammaṃ…pe…  abyākataṃ dhammaṃ…pe… .
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Nahetu.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Napacchajata-naasevana.md)
 
 

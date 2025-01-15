@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1/Hetu
-ref: 265615
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.5 Savitakkaduka
-    link: /tipitaka/38P2/13/13.5
-  - name: 13.5.1 Paṭiccavāra
-    link: /tipitaka/38P2/13/13.5/13.5.1
-  - name: 13.5.1.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.1
-  - name: 13.5.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1
-prevL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1
-upL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1
-nextL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.1 Paṭiccavāra](/tipitaka/38P2/13/13.5/13.5.1.md) / [13.5.1.1 Paccayānuloma](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.1.md) / [13.5.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1.md)
 
 # Hetu
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.2
 4292. Savitakkañca avitakkañca dhammaṃ paṭicca avitakko dhammo uppajjati hetupaccayā—  savitakke khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe savitakke khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ, paṭisandhikkhaṇe savitakke khandhe ca vatthuñca paṭicca vitakko. (2)
 
 4293. Savitakkañca avitakkañca dhammaṃ paṭicca savitakko ca avitakko ca dhammā uppajjanti hetupaccayā—  savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  savitakke khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  savitakke khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ, paṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā vitakko ca…pe…  dve khandhe…pe… . (3) (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1.md) / [Go to parent page](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.2.md)
 
 

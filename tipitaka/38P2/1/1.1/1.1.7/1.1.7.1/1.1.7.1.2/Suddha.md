@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2/Suddha
-ref: 264677
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.1/1.1.7
-  - name: 1.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1
-  - name: 1.1.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2
-prevL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2
-upL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2
-nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.2 Saṅkhyāvāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2.md)
 
 # Suddha
 
@@ -69,5 +48,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.2
 123. Hetu ca nahetu ca dhammā nahetussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo pacchājātapaccayena paccayo. (2)
 
 124. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.2.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.2.md)
 
 

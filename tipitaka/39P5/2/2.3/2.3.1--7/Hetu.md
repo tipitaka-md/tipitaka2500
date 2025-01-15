@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P5/2/2.3/2.3.1--7/Hetu
-ref: 261989
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 2 Tika, Kusalattika
-    link: /tipitaka/39P5/2
-  - name: 2.3 Upādinnattika, Kusalattika
-    link: /tipitaka/39P5/2/2.3
-  - name: 2.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/2/2.3/2.3.1--7
-prevL: /tipitaka/39P5/2/2.3/2.3.1--7
-upL: /tipitaka/39P5/2/2.3/2.3.1--7
-nextL: /tipitaka/39P5/2/2.4
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.3 Upādinnattika, Kusalattika](/tipitaka/39P5/2/2.3.md) / [2.3.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.3/2.3.1--7.md)
 
 # Hetu
 
@@ -51,5 +34,7 @@ nextL: /tipitaka/39P5/2/2.4
 326. Upādinnupādāniyaṃ abyākatañca anupādinnupādāniyaṃ abyākatañca dhammaṃ paṭicca anupādinnupādāniyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 327. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe…  āsevane ekaṃ…pe…  avigate nava. (Sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/39P5/2/2.3/2.3.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.3/2.3.1--7.md) / [Go to next page](/tipitaka/39P5/2/2.4.md)
 
 

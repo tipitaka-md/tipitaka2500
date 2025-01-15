@@ -1,24 +1,5 @@
----
-title:  Tika
-path: /tipitaka/36P1/2/2.5/2.5.3/Sampayuttaduka/Tika
-ref: 262345
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.5/2.5.3
-  - name: Sampayuttaduka
-    link: /tipitaka/36P1/2/2.5/2.5.3/Sampayuttaduka
-prevL: /tipitaka/36P1/2/2.5/2.5.3/Sampayuttaduka
-upL: /tipitaka/36P1/2/2.5/2.5.3/Sampayuttaduka
-nextL: /tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.5/2.5.3.md) / [Sampayuttaduka](/tipitaka/36P1/2/2.5/2.5.3/Sampayuttaduka.md)
 
 # Tika
 
@@ -33,5 +14,7 @@ nextL: /tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka
 ### Tika
 
 783. Sampayuttapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.3/Sampayuttaduka.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.3/Sampayuttaduka.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Anantarādi
-path: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Anantaradi
-ref: 265640
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.7 Sappītikaduka
-    link: /tipitaka/38P2/13/13.7
-  - name: 13.7.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.7/13.7.7
-  - name: 13.7.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4
-  - name: 13.7.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1
-prevL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Adhipati
-upL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1
-nextL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Upanissaya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.7 Sappītikaduka](/tipitaka/38P2/13/13.7.md) / [13.7.7 Pañhāvāra](/tipitaka/38P2/13/13.7/13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md)
 
 # Anantarādi
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Upanissaya
 4420. Sappītiko ca appītiko ca dhammā sappītikassa ca appītikassa ca dhammassa anantarapaccayena paccayo—  purimā purimā sappītikā khandhā ca pīti ca pacchimānaṃ pacchimānaṃ sappītikānaṃ khandhānaṃ pītiyā ca anantarapaccayena paccayo. (3)
 
 4421. Samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
+
+[Go to previous page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Upanissaya.md)
 
 

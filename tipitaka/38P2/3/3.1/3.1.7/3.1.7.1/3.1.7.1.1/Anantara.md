@@ -1,26 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Anantara
-ref: 264886
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.1 Āsavaduka
-    link: /tipitaka/38P2/3/3.1
-  - name: 3.1.7 Pañhāvāra
-    link: /tipitaka/38P2/3/3.1/3.1.7
-  - name: 3.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1
-  - name: 3.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1
-prevL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Adhipati
-upL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1
-nextL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Samanantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.1 Āsavaduka](/tipitaka/38P2/3/3.1.md) / [3.1.7 Pañhāvāra](/tipitaka/38P2/3/3.1/3.1.7.md) / [3.1.7.1 Paccayānuloma](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1.md) / [3.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1.md)
 
 # Anantara
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Samanantaradi
 (24.)
 
 1036. Āsavo ca noāsavo ca dhammā āsavassa dhammassa anantarapaccayena paccayo…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Samanantaradi.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/8/8.7/8.7.1--7/Paccayacatukka
-ref: 261943
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.7 Pītittika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.7
-  - name: 8.7.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.7/8.7.1--7
-prevL: /tipitaka/39P4/8/8.7/8.7.1--7
-upL: /tipitaka/39P4/8/8.7/8.7.1--7
-nextL: /tipitaka/39P4/8/8.8
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.7 Pītittika, Saraṇaduka](/tipitaka/39P4/8/8.7.md) / [8.7.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.7/8.7.1--7.md)
 
 # Paccayacatukka
 
@@ -65,5 +48,7 @@ nextL: /tipitaka/39P4/8/8.8
 1789. Hetuyā dasa…pe…  avigate dasa. (Saṃkhittaṃ.)
 
 1790. (Sahajātavārepi…pe…  pañhāvārepi tattakāva pañhā.)
+
+[Go to previous page](/tipitaka/39P4/8/8.7/8.7.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.7/8.7.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.8.md)
 
 

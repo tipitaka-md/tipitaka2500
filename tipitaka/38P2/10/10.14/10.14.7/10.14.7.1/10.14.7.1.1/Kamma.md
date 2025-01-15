@@ -1,26 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Kamma
-ref: 265433
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.14 Upādinnaduka
-    link: /tipitaka/38P2/10/10.14
-  - name: 10.14.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.14/10.14.7
-  - name: 10.14.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1
-  - name: 10.14.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1
-prevL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Pacchajatasevana
-upL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1
-nextL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Vipaka
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.14 Upādinnaduka](/tipitaka/38P2/10/10.14.md) / [10.14.7 Pañhāvāra](/tipitaka/38P2/10/10.14/10.14.7.md) / [10.14.7.1 Paccayānuloma](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1.md) / [10.14.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md)
 
 # Kamma
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Vipaka
 3478. Anupādinno dhammo anupādinnassa dhammassa kammapaccayena paccayo—  anupādinnā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (1)
 
 3479. Anupādinno dhammo upādinnassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  anupādinnā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Pacchajatasevana.md) / [Go to parent page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Vipaka.md)
 
 

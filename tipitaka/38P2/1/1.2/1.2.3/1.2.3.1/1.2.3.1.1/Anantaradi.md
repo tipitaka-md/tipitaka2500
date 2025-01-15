@@ -1,26 +1,5 @@
----
-title:  Anantarādi
-path: /tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1/Anantaradi
-ref: 264695
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.3 Paccayavāra
-    link: /tipitaka/38P2/1/1.2/1.2.3
-  - name: 1.2.3.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.2/1.2.3/1.2.3.1
-  - name: 1.2.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1
-prevL: /tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1/Adhipati
-upL: /tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1
-nextL: /tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1/Annamannadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.3 Paccayavāra](/tipitaka/38P2/1/1.2/1.2.3.md) / [1.2.3.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1.md) / [1.2.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1.md)
 
 # Anantarādi
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1/Annamannadi
 219. Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati sahajātapaccayā—  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 220. Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti sahajātapaccayā—  sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1/Annamannadi.md)
 
 

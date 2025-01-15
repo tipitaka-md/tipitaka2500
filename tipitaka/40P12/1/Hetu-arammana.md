@@ -1,18 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P12/1/Hetu-arammana
-ref: 258669
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P12 Dhammapaccanīya (2), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/40P12
-  - name: 1 Hetuduka, Sahetukadukādi
-    link: /tipitaka/40P12/1
-prevL: /tipitaka/40P12/1
-upL: /tipitaka/40P12/1
-nextL: /tipitaka/40P12/2
----
+
+[Home](/) / [40P12 Dhammapaccanīya (2), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P12.md) / [1 Hetuduka, Sahetukadukādi](/tipitaka/40P12/1.md)
 
 # Hetu-ārammaṇa
 
@@ -67,5 +54,7 @@ nextL: /tipitaka/40P12/2
 24. Nahetuṃ nasahetukaṃ dhammaṃ paṭicca nahetu nasahetuko dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
 25. Nahetuṃ naahetukaṃ dhammaṃ paṭicca nahetu naahetuko dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/40P12/1.md) / [Go to parent page](/tipitaka/40P12/1.md) / [Go to next page](/tipitaka/40P12/2.md)
 
 

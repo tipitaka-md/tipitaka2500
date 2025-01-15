@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Hetu
-ref: 264993
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.5 Saññojanasaññojanasampayuttaduka
-    link: /tipitaka/38P2/4/4.5
-  - name: 4.5.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.5/4.5.7
-  - name: 4.5.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1
-  - name: 4.5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1
-prevL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1
-upL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1
-nextL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.5 Saññojanasaññojanasampayuttaduka](/tipitaka/38P2/4/4.5.md) / [4.5.7 Pañhāvāra](/tipitaka/38P2/4/4.5/4.5.7.md) / [4.5.7.1 Paccayānuloma](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1.md) / [4.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md)
 
 # Hetu
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Arammana
 1588. Saññojano ceva saññojanasampayutto ca dhammo saññojanasampayuttassa ceva no ca saññojanassa dhammassa hetupaccayena paccayo—  saññojanā ceva saññojanasampayuttā ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
 
 1589. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca saññojanasampayuttassa ceva no ca saññojanassa ca dhammassa hetupaccayena paccayo—  kāmarāgasaññojano diṭṭhisaññojanassa avijjāsaññojanassa sampayuttakānañca khandhānaṃ hetupaccayena paccayo. (Cakkaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to parent page](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Arammana.md)
 
 

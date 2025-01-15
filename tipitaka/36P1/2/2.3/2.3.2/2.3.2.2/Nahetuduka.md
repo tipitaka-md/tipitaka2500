@@ -1,24 +1,5 @@
----
-title:  Nahetuduka
-path: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka
-ref: 262235
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.3/2.3.2
-  - name: 2.3.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.2
-prevL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Suddha
-upL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.2
-nextL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka/Tika
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.2 Paccayapaccanīya](/tipitaka/36P1/2/2.3/2.3.2.md) / [2.3.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2.md)
 
 # Nahetuduka
 
@@ -36,6 +17,8 @@ nextL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka/Tika
 
 546. Nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā cattāri, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte dve, napacchājāte cattāri, naāsevane cattāri, nakamme ekaṃ, navipāke cattāri, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte dve, nonatthiyā ekaṃ, novigate ekaṃ.
 
-* [Tika](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka/Tika)
+* [Tika](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka/Tika.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Suddha.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka/Tika.md)
 
 

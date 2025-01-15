@@ -1,24 +1,5 @@
----
-title:  Adhipatyādi
-path: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Adhipatyadi
-ref: 263057
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.3 Paccayavāra
-    link: /tipitaka/37P1/12/12.3
-  - name: 12.3.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.3/12.3.1
-  - name: 12.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1
-prevL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Arammana
-upL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1
-nextL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Kammadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.3 Paccayavāra](/tipitaka/37P1/12/12.3.md) / [12.3.1 Paccayānuloma](/tipitaka/37P1/12/12.3/12.3.1.md) / [12.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1.md)
 
 # Adhipatyādi
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Kammadi
 1724. Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati āsevanapaccayā—  vatthuṃ paccayā sekkhā khandhā. (2)
 
 1725. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati āsevanapaccayā—  sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā. (1)
+
+[Go to previous page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Kammadi.md)
 
 

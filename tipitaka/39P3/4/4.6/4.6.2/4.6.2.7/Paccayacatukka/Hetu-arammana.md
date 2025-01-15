@@ -1,26 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka/Hetu-arammana
-ref: 266019
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.6 Āsavavippayuttasāsavaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.6
-  - name: 4.6.2 Abyākatapada
-    link: /tipitaka/39P3/4/4.6/4.6.2
-  - name: 4.6.2.7 Pañhāvāra
-    link: /tipitaka/39P3/4/4.6/4.6.2/4.6.2.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka
-prevL: /tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka
-upL: /tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka
-nextL: /tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccaniyuddhara
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.6 Āsavavippayuttasāsavaduka, Kusalattika](/tipitaka/39P3/4/4.6.md) / [4.6.2 Abyākatapada](/tipitaka/39P3/4/4.6/4.6.2.md) / [4.6.2.7 Pañhāvāra](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7.md) / [Paccayacatukka](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccaniyuddhara
 (55.)
 
 1696. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, āsevane ekaṃ, kamme cattāri, vipāke cattāri, āhāre cattāri…pe…  sampayutte dve, vippayutte tīṇi…pe…  avigate satta. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccaniyuddhara.md)
 
 

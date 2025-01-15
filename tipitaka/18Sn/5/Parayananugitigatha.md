@@ -1,17 +1,5 @@
----
-title:  Pārāyanānugītigāthā
-path: /tipitaka/18Sn/5/Parayananugitigatha
-ref: 266965
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 18Sn Suttanipātapāḷi
-    link: /tipitaka/18Sn
-  - name: 5 Pārāyanavagga
-    link: /tipitaka/18Sn/5
-prevL: /tipitaka/18Sn/5/Parayanatthutigatha
-upL: /tipitaka/18Sn/5
----
+
+[Home](/) / [18Sn Suttanipātapāḷi](/tipitaka/18Sn.md) / [5 Pārāyanavagga](/tipitaka/18Sn/5.md)
 
 # Pārāyanānugītigāthā
 
@@ -364,5 +352,7 @@ _Desayi suttavaraṃ dvipadaggoti._
 1383. Suttanipātapāḷi samattā.
 
 
+
+[Go to previous page](/tipitaka/18Sn/5/Parayanatthutigatha.md) / [Go to parent page](/tipitaka/18Sn/5.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Purejata
-ref: 263362
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 23 Sanidassanasappaṭighattika
-    link: /tipitaka/37P1/23
-  - name: 23.7 Pañhāvāra
-    link: /tipitaka/37P1/23/23.7
-  - name: 23.7.1 Paccayānuloma
-    link: /tipitaka/37P1/23/23.7/23.7.1
-  - name: 23.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1
-prevL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Upanissaya
-upL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1
-nextL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Pacchajata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.7 Pañhāvāra](/tipitaka/37P1/23/23.7.md) / [23.7.1 Paccayānuloma](/tipitaka/37P1/23/23.7/23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md)
 
 # Purejāta
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Pacchajata
 3022. Anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cakkhāyatanañca vatthu ca…pe…  phoṭṭhabbāyatanañca vatthu ca anidassanaappaṭighānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
 3023. Sanidassanasappaṭigho ca anidassanaappaṭigho ca dhammā anidassanaappaṭighassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Rūpāyatanañca cakkhāyatanañca cakkhuviññāṇassa purejātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Pacchajata.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2/Suddha
-ref: 265078
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.1 Nīvaraṇaduka
-    link: /tipitaka/38P2/8/8.1
-  - name: 8.1.7 Pañhāvāra
-    link: /tipitaka/38P2/8/8.1/8.1.7
-  - name: 8.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1
-  - name: 8.1.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2
-prevL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2
-upL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2
-nextL: /tipitaka/38P2/8/8.1/8.1.7/Paccaniyuddhara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.7 Pañhāvāra](/tipitaka/38P2/8/8.1/8.1.7.md) / [8.1.7.1 Paccayānuloma](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1.md) / [8.1.7.1.2 Saṅkhyāvāra](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2.md)
 
 # Suddha
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/8/8.1/8.1.7/Paccaniyuddhara
 1976. Anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2.md) / [Go to parent page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.2.md) / [Go to next page](/tipitaka/38P2/8/8.1/8.1.7/Paccaniyuddhara.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Ārammaṇādi
-path: /tipitaka/37P1/13/13.5/13.5.1/13.5.1.1/Arammanadi
-ref: 263114
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.5 Saṃsaṭṭhavāra
-    link: /tipitaka/37P1/13/13.5
-  - name: 13.5.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.5/13.5.1
-  - name: 13.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.5/13.5.1/13.5.1.1
-prevL: /tipitaka/37P1/13/13.5/13.5.1/13.5.1.1/Hetu
-upL: /tipitaka/37P1/13/13.5/13.5.1/13.5.1.1
-nextL: /tipitaka/37P1/13/13.5/13.5.1/13.5.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.5 Saṃsaṭṭhavāra](/tipitaka/37P1/13/13.5.md) / [13.5.1 Paccayānuloma](/tipitaka/37P1/13/13.5/13.5.1.md) / [13.5.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.5/13.5.1/13.5.1.1.md)
 
 # Ārammaṇādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/13/13.5/13.5.1/13.5.1.2
 (43.)
 
 1999. Parittaṃ dhammaṃ saṃsaṭṭho paritto dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (paṭisandhi natthi)…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā (paṭisandhi natthi)…  āsevanapaccayā (vipākopi paṭisandhipi natthi)…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+
+[Go to previous page](/tipitaka/37P1/13/13.5/13.5.1/13.5.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/13/13.5/13.5.1/13.5.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.5/13.5.1/13.5.1.2.md)
 
 

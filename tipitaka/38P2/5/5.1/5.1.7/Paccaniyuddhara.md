@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/5/5.1/5.1.7/Paccaniyuddhara
-ref: 261102
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.1 Ganthaduka
-    link: /tipitaka/38P2/5/5.1
-  - name: 5.1.7 Pañhāvāra
-    link: /tipitaka/38P2/5/5.1/5.1.7
-prevL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.2/Suddha
-upL: /tipitaka/38P2/5/5.1/5.1.7
-nextL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.1 Ganthaduka](/tipitaka/38P2/5/5.1.md) / [5.1.7 Pañhāvāra](/tipitaka/38P2/5/5.1/5.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -51,5 +34,7 @@ nextL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.2
 1710. Gantho ca nogantho ca dhammā noganthassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 1711. Gantho ca nogantho ca dhammā ganthassa ca noganthassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/5/5.1/5.1.7.md) / [Go to next page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.2.md)
 
 

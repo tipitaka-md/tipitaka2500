@@ -1,20 +1,5 @@
----
-title:  Nahetu-naārammaṇādi
-path: /tipitaka/40P17/1/Paccaniya/Nahetu-naarammanadi
-ref: 259984
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/40P17
-  - name: 1 Kusalattika, Vedanāttika
-    link: /tipitaka/40P17/1
-  - name: Paccanīya
-    link: /tipitaka/40P17/1/Paccaniya
-prevL: /tipitaka/40P17/1/Paccaniya
-upL: /tipitaka/40P17/1/Paccaniya
-nextL: /tipitaka/40P17/1/1.1
----
+
+[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/40P17.md) / [1 Kusalattika, Vedanāttika](/tipitaka/40P17/1.md) / [Paccanīya](/tipitaka/40P17/1/Paccaniya.md)
 
 # Nahetu-naārammaṇādi
 
@@ -51,5 +36,7 @@ nextL: /tipitaka/40P17/1/1.1
 14. Kusalo sukhāya vedanāya sampayutto dhammo nakusalassa nasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo…pe… .
 
 15. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare nava…pe…  sahajāte terasa, aññamaññe nava, nissaye terasa, upanissaye aṭṭhārasa, pacchājāte nava, kamme terasa, vipāke tīṇi, āhāre…pe…  magge terasa, sampayutte nava, vippayutte nava…pe…  avigate terasa. (Pañhāvārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P17/1/Paccaniya.md) / [Go to parent page](/tipitaka/40P17/1/Paccaniya.md) / [Go to next page](/tipitaka/40P17/1/1.1.md)
 
 

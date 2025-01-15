@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Arammana
-ref: 263332
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 22 Ajjhattārammaṇattika
-    link: /tipitaka/37P1/22
-  - name: 22.7 Pañhāvāra
-    link: /tipitaka/37P1/22/22.7
-  - name: 22.7.1 Paccayānuloma
-    link: /tipitaka/37P1/22/22.7/22.7.1
-  - name: 22.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/22/22.7/22.7.1/22.7.1.1
-prevL: /tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Hetu
-upL: /tipitaka/37P1/22/22.7/22.7.1/22.7.1.1
-nextL: /tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [22 Ajjhattārammaṇattika](/tipitaka/37P1/22.md) / [22.7 Pañhāvāra](/tipitaka/37P1/22/22.7.md) / [22.7.1 Paccayānuloma](/tipitaka/37P1/22/22.7/22.7.1.md) / [22.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1.md)
 
 # Ārammaṇa
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Adhipati
 2895. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa ārammaṇapaccayena paccayo—  bahiddhārammaṇaṃ bahiddhā dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati. Iddhividhañāṇaṃ…pe…  cetopariyañāṇaṃ…pe…  pubbenivāsānussatiñāṇaṃ…pe…  yathākammūpagañāṇaṃ…pe…  anāgataṃsañāṇaṃ paccavekkhati. Bahiddhārammaṇe bahiddhā khandhe aniccato dukkhato anattato vipassati…pe…  cetopariyañāṇena bahiddhārammaṇabahiddhācittasamaṅgissa cittaṃ jānāti. Bahiddhārammaṇā bahiddhā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 2896. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ paccavekkhati. Ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, bahiddhārammaṇe pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti. Bahiddhārammaṇaṃ ajjhattaṃ dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ…  iddhividhañāṇaṃ…  cetopariyañāṇaṃ…  pubbenivāsānussatiñāṇaṃ…  yathākammūpagañāṇaṃ…  anāgataṃsañāṇaṃ…  bahiddhārammaṇe ajjhatte khandhe aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha ajjhattārammaṇo rāgo uppajjati…pe…  domanassaṃ uppajjati. Bahiddhārammaṇā ajjhattā khandhā iddhividhañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1.md) / [Go to next page](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Adhipati.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.2/Suddha
-ref: 262685
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/4/4.5
-  - name: 4.5.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.5/4.5.1
-  - name: 4.5.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.2
-prevL: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.2
-upL: /tipitaka/36P1/4/4.5/4.5.1/4.5.1.2
-nextL: /tipitaka/36P1/4/4.5/4.5.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.5 Saṃsaṭṭhavāra](/tipitaka/36P1/4/4.5.md) / [4.5.1 Paccayānuloma](/tipitaka/36P1/4/4.5/4.5.1.md) / [4.5.1.2 Saṅkhyāvāra](/tipitaka/36P1/4/4.5/4.5.1/4.5.1.2.md)
 
 # Suddha
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/4/4.5/4.5.2
 2256. Anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/4/4.5/4.5.1/4.5.1.2.md) / [Go to parent page](/tipitaka/36P1/4/4.5/4.5.1/4.5.1.2.md) / [Go to next page](/tipitaka/36P1/4/4.5/4.5.2.md)
 
 

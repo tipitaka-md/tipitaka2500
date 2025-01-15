@@ -1,26 +1,5 @@
----
-title:  Naārammaṇādi
-path: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Naarammanadi
-ref: 264687
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.1 Paṭiccavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1
-  - name: 1.2.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2
-  - name: 1.2.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1
-prevL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Nahetu
-upL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1
-nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Napacchajatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.1 Paṭiccavāra](/tipitaka/38P2/1/1.2/1.2.1.md) / [1.2.1.2 Paccayapaccanīya](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2.md) / [1.2.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1.md)
 
 # Naārammaṇādi
 
@@ -65,5 +44,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Napacchajatadi
 177. Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati napurejātapaccayā—  sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 178. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti napurejātapaccayā—  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Nahetu.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Napacchajatadi.md)
 
 

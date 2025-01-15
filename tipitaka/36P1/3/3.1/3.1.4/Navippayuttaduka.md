@@ -1,22 +1,5 @@
----
-title:  Navippayuttaduka
-path: /tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka
-ref: 260635
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.1 Paṭiccavāra
-    link: /tipitaka/36P1/3/3.1
-  - name: 3.1.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/3/3.1/3.1.4
-prevL: /tipitaka/36P1/3/3.1/3.1.4/Namaggaduka
-upL: /tipitaka/36P1/3/3.1/3.1.4
-nextL: /tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka/Tika
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/3/3.1/3.1.4.md)
 
 # Navippayuttaduka
 
@@ -32,7 +15,9 @@ nextL: /tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka/Tika
 
 1870. Navippayuttapaccayā hetuyā dve, ārammaṇe dve, adhipatiyā dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, āsevane dve, kamme dve, vipāke dve, āhāre dve, indriye dve, jhāne dve, magge dve, sampayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
 
-* [Tika](/tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka/Tika)
-* [Dasaka](/tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka/Dasaka)
+* [Tika](/tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka/Tika.md)
+* [Dasaka](/tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka/Dasaka.md)
+
+[Go to previous page](/tipitaka/36P1/3/3.1/3.1.4/Namaggaduka.md) / [Go to parent page](/tipitaka/36P1/3/3.1/3.1.4.md) / [Go to next page](/tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka/Tika.md)
 
 

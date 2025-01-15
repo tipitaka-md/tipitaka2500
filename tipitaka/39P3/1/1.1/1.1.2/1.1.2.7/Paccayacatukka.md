@@ -1,29 +1,12 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka
-ref: 263975
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.1 Hetuduka, Kusalattika
-    link: /tipitaka/39P3/1/1.1
-  - name: 1.1.2 Akusalapada
-    link: /tipitaka/39P3/1/1.1/1.1.2
-  - name: 1.1.2.7 Pañhāvāra
-    link: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.7
-prevL: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.7
-upL: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.7
-nextL: /tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Hetu
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.1 Hetuduka, Kusalattika](/tipitaka/39P3/1/1.1.md) / [1.1.2 Akusalapada](/tipitaka/39P3/1/1.1/1.1.2.md) / [1.1.2.7 Pañhāvāra](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7.md)
 
 # Paccayacatukka
 
-* [Hetu](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Hetu)
-* [Ārammaṇādi](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Arammanadi)
-* [Āhārādi](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Aharadi)
+* [Hetu](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Hetu.md)
+* [Ārammaṇādi](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Arammanadi.md)
+* [Āhārādi](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Aharadi.md)
+
+[Go to previous page](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7.md) / [Go to parent page](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7.md) / [Go to next page](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Hetu.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Ārammaṇādi
-path: /tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Arammanadi
-ref: 263044
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.1 Paṭiccavāra
-    link: /tipitaka/37P1/12/12.1
-  - name: 12.1.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.1/12.1.1
-  - name: 12.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.1/12.1.1/12.1.1.1
-prevL: /tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Hetu
-upL: /tipitaka/37P1/12/12.1/12.1.1/12.1.1.1
-nextL: /tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Aharadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.1 Paṭiccavāra](/tipitaka/37P1/12/12.1.md) / [12.1.1 Paccayānuloma](/tipitaka/37P1/12/12.1/12.1.1.md) / [12.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1.md)
 
 # Ārammaṇādi
 
@@ -45,5 +26,7 @@ nextL: /tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Aharadi
 1668. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā—  vipāke sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1669. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati vipākapaccayā—  asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.1/12.1.1/12.1.1.1/Aharadi.md)
 
 

@@ -1,20 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/40P19/1/1.7/Arammana
-ref: 259989
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P19
-  - name: 1 Kusalattika
-    link: /tipitaka/40P19/1
-  - name: 1.7 Pañhāvāra
-    link: /tipitaka/40P19/1/1.7
-prevL: /tipitaka/40P19/1/1.7
-upL: /tipitaka/40P19/1/1.7
-nextL: /tipitaka/40P19/2
----
+
+[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P19.md) / [1 Kusalattika](/tipitaka/40P19/1.md) / [1.7 Pañhāvāra](/tipitaka/40P19/1/1.7.md)
 
 # Ārammaṇa
 
@@ -41,5 +26,7 @@ nextL: /tipitaka/40P19/2
 (9.)
 
 41. Hetuyā aṭṭhārasa, ārammaṇe aṭṭhārasa, adhipatiyā tevīsa, anantare soḷasa…pe…  sahajāte aṭṭhārasa, aññamaññe nava, nissaye bāvīsa, upanissaye aṭṭhārasa, purejāte nava, pacchājāte cha, āsevane nava, kamme aṭṭhārasa, vipāke tīṇi, āhāre…pe…  magge aṭṭhārasa, sampayutte nava, vippayutte dvādasa…pe…  avigate dvāvīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P19/1/1.7.md) / [Go to parent page](/tipitaka/40P19/1/1.7.md) / [Go to next page](/tipitaka/40P19/2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Nakamma
-path: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Nakamma
-ref: 263211
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.1 Paṭiccavāra
-    link: /tipitaka/37P1/17/17.1
-  - name: 17.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/17/17.1/17.1.2
-  - name: 17.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1
-prevL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Naasevana
-upL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1
-nextL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Navipaka
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.1 Paṭiccavāra](/tipitaka/37P1/17/17.1.md) / [17.1.2 Paccayapaccanīya](/tipitaka/37P1/17/17.1/17.1.2.md) / [17.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md)
 
 # Nakamma
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Navipaka
 2485. Maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nakammapaccayā. (Paṭhamaghaṭane tīṇi.)
 
 2486. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko dhammo uppajjati nakammapaccayā. (Dutiyaghaṭane tīṇi pañhā.)
+
+[Go to previous page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Naasevana.md) / [Go to parent page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md) / [Go to next page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Navipaka.md)
 
 

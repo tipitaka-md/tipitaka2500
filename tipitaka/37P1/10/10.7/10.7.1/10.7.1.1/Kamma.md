@@ -1,24 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Kamma
-ref: 262986
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.7 Pañhāvāra
-    link: /tipitaka/37P1/10/10.7
-  - name: 10.7.1 Paccayānuloma
-    link: /tipitaka/37P1/10/10.7/10.7.1
-  - name: 10.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.7/10.7.1/10.7.1.1
-prevL: /tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Asevana
-upL: /tipitaka/37P1/10/10.7/10.7.1/10.7.1.1
-nextL: /tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Vipaka
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.7 Pañhāvāra](/tipitaka/37P1/10/10.7.md) / [10.7.1 Paccayānuloma](/tipitaka/37P1/10/10.7/10.7.1.md) / [10.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1.md)
 
 # Kamma
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Vipaka
 (98.)
 
 1357. Nevadassanena nabhāvanāya pahātabbahetuko dhammo nevadassanena nabhāvanāya pahātabbahetukassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nevadassanena nabhāvanāya pahātabbahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nevadassanena nabhāvanāya pahātabbahetukā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Asevana.md) / [Go to parent page](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1.md) / [Go to next page](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Vipaka.md)
 
 

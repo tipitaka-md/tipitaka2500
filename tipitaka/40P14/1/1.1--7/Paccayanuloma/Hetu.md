@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu
-ref: 262047
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/40P14
-  - name: 1 Hetuduka
-    link: /tipitaka/40P14/1
-  - name: 1.1--7 Paṭiccādivāra
-    link: /tipitaka/40P14/1/1.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P14/1/1.1--7/Paccayanuloma
-prevL: /tipitaka/40P14/1/1.1--7/Paccayanuloma
-upL: /tipitaka/40P14/1/1.1--7/Paccayanuloma
-nextL: /tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu-arammana
----
+
+[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P14.md) / [1 Hetuduka](/tipitaka/40P14/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P14/1/1.1--7.md) / [Paccayānuloma](/tipitaka/40P14/1/1.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu-arammana
 4. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṃ paṭicca nanahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṃ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 5. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/40P14/1/1.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P14/1/1.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu-arammana.md)
 
 

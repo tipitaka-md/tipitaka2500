@@ -1,24 +1,5 @@
----
-title:  Nissaya
-path: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Nissaya
-ref: 262925
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.7 Pañhāvāra
-    link: /tipitaka/37P1/9/9.7
-  - name: 9.7.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.7/9.7.1
-  - name: 9.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-prevL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Annamanna
-upL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Upanissaya
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md) / [9.7.1 Paccayānuloma](/tipitaka/37P1/9/9.7/9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md)
 
 # Nissaya
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Upanissaya
 988. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā bhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (1)
 
 989. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Annamanna.md) / [Go to parent page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Upanissaya.md)
 
 

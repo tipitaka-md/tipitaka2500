@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/12/12.3/12.3.7/Paccaniyuddhara
-ref: 261392
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 12 Kilesagocchaka
-    link: /tipitaka/38P2/12
-  - name: 12.3 Saṃkiliṭṭhaduka
-    link: /tipitaka/38P2/12/12.3
-  - name: 12.3.7 Pañhāvāra
-    link: /tipitaka/38P2/12/12.3/12.3.7
-prevL: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.2/Suddha
-upL: /tipitaka/38P2/12/12.3/12.3.7
-nextL: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.3 Saṃkiliṭṭhaduka](/tipitaka/38P2/12/12.3.md) / [12.3.7 Pañhāvāra](/tipitaka/38P2/12/12.3/12.3.7.md)
 
 # Paccanīyuddhāra
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.2
 3994. Saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā saṃkiliṭṭhassa dhammassa sahajātaṃ…  purejātaṃ. (1)
 
 3995. Saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā asaṃkiliṭṭhassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
+
+[Go to previous page](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/12/12.3/12.3.7.md) / [Go to next page](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.2.md)
 
 

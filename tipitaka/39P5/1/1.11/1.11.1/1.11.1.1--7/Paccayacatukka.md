@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P5/1/1.11/1.11.1/1.11.1.1--7/Paccayacatukka
-ref: 264397
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 1 Kusalattika, Tika
-    link: /tipitaka/39P5/1
-  - name: 1.11 Kusalattika, Parittattika
-    link: /tipitaka/39P5/1/1.11
-  - name: 1.11.1 Parittapada
-    link: /tipitaka/39P5/1/1.11/1.11.1
-  - name: 1.11.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/1/1.11/1.11.1/1.11.1.1--7
-prevL: /tipitaka/39P5/1/1.11/1.11.1/1.11.1.1--7
-upL: /tipitaka/39P5/1/1.11/1.11.1/1.11.1.1--7
-nextL: /tipitaka/39P5/1/1.11/1.11.2
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.11 Kusalattika, Parittattika](/tipitaka/39P5/1/1.11.md) / [1.11.1 Parittapada](/tipitaka/39P5/1/1.11/1.11.1.md) / [1.11.1.1--7 Paṭiccādivāra](/tipitaka/39P5/1/1.11/1.11.1/1.11.1.1--7.md)
 
 # Paccayacatukka
 
@@ -61,5 +42,7 @@ nextL: /tipitaka/39P5/1/1.11/1.11.2
 167. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 168. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P5/1/1.11/1.11.1/1.11.1.1--7.md) / [Go to parent page](/tipitaka/39P5/1/1.11/1.11.1/1.11.1.1--7.md) / [Go to next page](/tipitaka/39P5/1/1.11/1.11.2.md)
 
 

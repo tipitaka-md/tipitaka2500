@@ -1,18 +1,5 @@
----
-title:  Nahetu-naārammaṇa
-path: /tipitaka/40P15/90/Nahetu-naarammana
-ref: 258726
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P15
-  - name: 90 Saraṇaduka, Sanidassanattika
-    link: /tipitaka/40P15/90
-prevL: /tipitaka/40P15/90
-upL: /tipitaka/40P15/90
-nextL: /tipitaka/40P15/90/Paccaniyuddhara
----
+
+[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P15.md) / [90 Saraṇaduka, Sanidassanattika](/tipitaka/40P15/90.md)
 
 # Nahetu-naārammaṇa
 
@@ -37,5 +24,7 @@ nextL: /tipitaka/40P15/90/Paccaniyuddhara
 287. Araṇo anidassanaappaṭigho dhammo nasaraṇassa naanidassanaappaṭighassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
 
 288. Hetuyā dve, adhipatiyā dve, sahajāte nissaye tīṇi, pacchājāte kamme dve, vipāke ekaṃ, āhāre indriye jhāne magge vippayutte dve…pe…  avigate tīṇi.
+
+[Go to previous page](/tipitaka/40P15/90.md) / [Go to parent page](/tipitaka/40P15/90.md) / [Go to next page](/tipitaka/40P15/90/Paccaniyuddhara.md)
 
 

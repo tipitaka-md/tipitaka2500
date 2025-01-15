@@ -1,26 +1,5 @@
----
-title:  Āhārādi
-path: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Aharadi
-ref: 264737
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.4 Hetusahetukaduka
-    link: /tipitaka/38P2/1/1.4
-  - name: 1.4.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.4/1.4.7
-  - name: 1.4.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1
-  - name: 1.4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1
-prevL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Vipaka
-upL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1
-nextL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.4 Hetusahetukaduka](/tipitaka/38P2/1/1.4.md) / [1.4.7 Pañhāvāra](/tipitaka/38P2/1/1.4/1.4.7.md) / [1.4.7.1 Paccayānuloma](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1.md) / [1.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1.md)
 
 # Āhārādi
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.2
 419. Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa dhammassa jhānapaccayena paccayo…  tīṇi.
 
 420. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa maggapaccayena paccayo…  sampayuttapaccayena paccayo…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+
+[Go to previous page](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Vipaka.md) / [Go to parent page](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.2.md)
 
 

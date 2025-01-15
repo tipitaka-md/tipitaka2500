@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Hetu
-ref: 263055
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.3 Paccayavāra
-    link: /tipitaka/37P1/12/12.3
-  - name: 12.3.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.3/12.3.1
-  - name: 12.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1
-prevL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1
-upL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1
-nextL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.3 Paccayavāra](/tipitaka/37P1/12/12.3.md) / [12.3.1 Paccayānuloma](/tipitaka/37P1/12/12.3/12.3.1.md) / [12.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1.md)
 
 # Hetu
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Arammana
 1713. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā—  sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā. Sekkhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1714. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā…  tīṇi. (Sekkhasadisā.)
+
+[Go to previous page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1.md) / [Go to parent page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Arammana.md)
 
 

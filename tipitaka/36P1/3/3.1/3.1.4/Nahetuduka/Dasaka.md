@@ -1,24 +1,5 @@
----
-title:  Dasaka
-path: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Dasaka
-ref: 262590
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.1 Paṭiccavāra
-    link: /tipitaka/36P1/3/3.1
-  - name: 3.1.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/3/3.1/3.1.4
-  - name: Nahetuduka
-    link: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka
-prevL: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Sattaka
-upL: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka
-nextL: /tipitaka/36P1/3/3.1/3.1.4/Naadhipatiduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/3/3.1/3.1.4.md) / [Nahetuduka](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka.md)
 
 # Dasaka
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/3/3.1/3.1.4/Naadhipatiduka
 1864. Nahetumūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Sattaka.md) / [Go to parent page](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka.md) / [Go to next page](/tipitaka/36P1/3/3.1/3.1.4/Naadhipatiduka.md)
 
 

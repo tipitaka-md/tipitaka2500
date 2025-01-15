@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1/Nahetu
-ref: 265373
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.13 Upādāduka
-    link: /tipitaka/38P2/10/10.13
-  - name: 10.13.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.13/10.13.1
-  - name: 10.13.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.13/10.13.1/10.13.1.2
-  - name: 10.13.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1
-prevL: /tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1
-upL: /tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1
-nextL: /tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1/Naarammanadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.13 Upādāduka](/tipitaka/38P2/10/10.13.md) / [10.13.1 Paṭiccavāra](/tipitaka/38P2/10/10.13/10.13.1.md) / [10.13.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.13/10.13.1/10.13.1.2.md) / [10.13.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1.md)
 
 # Nahetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1/Naarammanadi
 3259. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ noupādā ekaṃ khandhaṃ paṭicca tayo khandhā upādā ca noupādā ca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (3)
 
 3260. Upādā ca noupādā ca dhammaṃ paṭicca noupādā dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe noupādā ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+
+[Go to previous page](/tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1.md) / [Go to parent page](/tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1/Naarammanadi.md)
 
 

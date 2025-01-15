@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.5/4.5.1/4.5.1.7/Paccayacatukka/Hetu
-ref: 266018
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.5 Āsavaāsavasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.5
-  - name: 4.5.1 Akusalapada
-    link: /tipitaka/39P3/4/4.5/4.5.1
-  - name: 4.5.1.7 Pañhāvāra
-    link: /tipitaka/39P3/4/4.5/4.5.1/4.5.1.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/4/4.5/4.5.1/4.5.1.7/Paccayacatukka
-prevL: /tipitaka/39P3/4/4.5/4.5.1/4.5.1.7/Paccayacatukka
-upL: /tipitaka/39P3/4/4.5/4.5.1/4.5.1.7/Paccayacatukka
-nextL: /tipitaka/39P3/4/4.6
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.5 Āsavaāsavasampayuttaduka, Kusalattika](/tipitaka/39P3/4/4.5.md) / [4.5.1 Akusalapada](/tipitaka/39P3/4/4.5/4.5.1.md) / [4.5.1.7 Pañhāvāra](/tipitaka/39P3/4/4.5/4.5.1/4.5.1.7.md) / [Paccayacatukka](/tipitaka/39P3/4/4.5/4.5.1/4.5.1.7/Paccayacatukka.md)
 
 # Hetu
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/39P3/4/4.6
 1681. Āsavaāsavasampayuttadukakusalattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/4/4.5/4.5.1/4.5.1.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/4/4.5/4.5.1/4.5.1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/4/4.6.md)
 
 

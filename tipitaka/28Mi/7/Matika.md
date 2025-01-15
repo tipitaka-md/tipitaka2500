@@ -1,18 +1,5 @@
----
-title:  Mātikā
-path: /tipitaka/28Mi/7/Matika
-ref: 267883
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 28Mi Milindapañhapāḷi
-    link: /tipitaka/28Mi
-  - name: 7 Opammakathāpañha
-    link: /tipitaka/28Mi/7
-prevL: /tipitaka/28Mi/7
-upL: /tipitaka/28Mi/7
-nextL: /tipitaka/28Mi/7/7.1
----
+
+[Home](/) / [28Mi Milindapañhapāḷi](/tipitaka/28Mi.md) / [7 Opammakathāpañha](/tipitaka/28Mi/7.md)
 
 # Mātikā
 
@@ -283,5 +270,7 @@ nextL: /tipitaka/28Mi/7/7.1
 1656. Mātikā niṭṭhitā.
 
 
+
+[Go to previous page](/tipitaka/28Mi/7.md) / [Go to parent page](/tipitaka/28Mi/7.md) / [Go to next page](/tipitaka/28Mi/7/7.1.md)
 
 

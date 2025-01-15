@@ -1,28 +1,11 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka
-ref: 264195
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 3 Cūḷantaraduka, Kusalattika
-    link: /tipitaka/39P3/3
-  - name: 3.4 Sappaṭighaduka, Kusalattika
-    link: /tipitaka/39P3/3/3.4
-  - name: 3.4.2 Abyākatapada
-    link: /tipitaka/39P3/3/3.4/3.4.2
-  - name: 3.4.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6
-prevL: /tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6
-upL: /tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6
-nextL: /tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Hetu
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.4 Sappaṭighaduka, Kusalattika](/tipitaka/39P3/3/3.4.md) / [3.4.2 Abyākatapada](/tipitaka/39P3/3/3.4/3.4.2.md) / [3.4.2.1--6 Paṭiccādivāra](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6.md)
 
 # Paccayacatukka
 
-* [Hetu](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Hetu)
-* [Nahetu](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Nahetu)
+* [Hetu](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Hetu.md)
+* [Nahetu](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Nahetu.md)
+
+[Go to previous page](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6.md) / [Go to parent page](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6.md) / [Go to next page](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Hetu.md)
 
 

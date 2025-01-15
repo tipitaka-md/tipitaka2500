@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Adhipati
-ref: 265068
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.1 Nīvaraṇaduka
-    link: /tipitaka/38P2/8/8.1
-  - name: 8.1.7 Pañhāvāra
-    link: /tipitaka/38P2/8/8.1/8.1.7
-  - name: 8.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1
-  - name: 8.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1
-prevL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Arammana
-upL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1
-nextL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.7 Pañhāvāra](/tipitaka/38P2/8/8.1/8.1.7.md) / [8.1.7.1 Paccayānuloma](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md)
 
 # Adhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Anantara
 1951. Nonīvaraṇo dhammo nīvaraṇassa ca nonīvaraṇassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nonīvaraṇe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā nīvaraṇā ca sampayuttakā ca khandhā uppajjanti. **Sahajātādhipati**—  nonīvaraṇādhipati sampayuttakānaṃ khandhānaṃ nīvaraṇānañca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 1952. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi. (Ārammaṇādhipatiyeva.)
+
+[Go to previous page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Anantara.md)
 
 

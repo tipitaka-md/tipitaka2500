@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/10/10.6/10.6.1--7/Paccayacatukka/Hetu
-ref: 264256
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.6 Cittasamuṭṭhānaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.6
-  - name: 10.6.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/10/10.6/10.6.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/10/10.6/10.6.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/10/10.6/10.6.1--7/Paccayacatukka
-upL: /tipitaka/39P3/10/10.6/10.6.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/10/10.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.6 Cittasamuṭṭhānaduka, Kusalattika](/tipitaka/39P3/10/10.6.md) / [10.6.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.6/10.6.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.6/10.6.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -95,5 +76,7 @@ nextL: /tipitaka/39P3/10/10.7
 2116. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava (sabbattha nava), purejāte nava, pacchājāte nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava (cittasamuṭṭhānamūlaṃ nocittasamuṭṭhānassa kabaḷīkāro āhāro kātabbo. Nocittasamuṭṭhāno cittasamuṭṭhānassa kabaḷīkāro āhāro ghaṭane majjhe kabaḷīkāro āhāro), indriye nava (rūpajīvitindriyaṃ ekaṃ), jhāne tīṇi, magge tīṇi, sampayutte pañca, vippayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṃkhittaṃ.)
 
 2117. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/10/10.6/10.6.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/10/10.6/10.6.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/10/10.7.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1/Nahetu
-ref: 265321
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka
-    link: /tipitaka/38P2/10/10.9
-  - name: 10.9.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.9/10.9.1
-  - name: 10.9.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2
-  - name: 10.9.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1
-prevL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1
-upL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1
-nextL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1/Naarammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](/tipitaka/38P2/10/10.9.md) / [10.9.1 Paṭiccavāra](/tipitaka/38P2/10/10.9/10.9.1.md) / [10.9.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2.md) / [10.9.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md)
 
 # Nahetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1/Naarammana
 3021. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paṭicca nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati nahetupaccayā—  ahetuke cittasaṃsaṭṭhasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, ahetuke cittasaṃsaṭṭhasamuṭṭhāne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe cittasaṃsaṭṭhasamuṭṭhāne khandhe ca cittañca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cittasaṃsaṭṭhasamuṭṭhāne khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cittasaṃsaṭṭhasamuṭṭhāne khandhe ca vatthuñca paṭicca cittaṃ. (2)
 
 3022. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe… . (Ahetukapaṭisandhikkhaṇe dvepi kātabbā.) (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md) / [Go to parent page](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1/Naarammana.md)
 
 

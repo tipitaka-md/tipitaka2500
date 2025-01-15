@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.1/Hetu
-ref: 264848
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.6 Lokiyaduka
-    link: /tipitaka/38P2/2/2.6
-  - name: 2.6.3 Paccayavāra
-    link: /tipitaka/38P2/2/2.6/2.6.3
-  - name: 2.6.3.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.6/2.6.3/2.6.3.1
-  - name: 2.6.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.1
-prevL: /tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.1
-upL: /tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.1
-nextL: /tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.6 Lokiyaduka](/tipitaka/38P2/2/2.6.md) / [2.6.3 Paccayavāra](/tipitaka/38P2/2/2.6/2.6.3.md) / [2.6.3.1 Paccayānuloma](/tipitaka/38P2/2/2.6/2.6.3/2.6.3.1.md) / [2.6.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.1.md)
 
 # Hetu
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.2
 872. Lokiyañca lokuttarañca dhammaṃ paccayā lokuttaro dhammo uppajjati hetupaccayā—  lokuttaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 873. Lokiyañca lokuttarañca dhammaṃ paccayā lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā—  lokuttaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  lokuttare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.1.md) / [Go to parent page](/tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.6/2.6.3/2.6.3.1/2.6.3.1.2.md)
 
 

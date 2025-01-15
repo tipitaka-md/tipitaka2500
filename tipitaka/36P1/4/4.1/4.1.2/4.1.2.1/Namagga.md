@@ -1,24 +1,5 @@
----
-title:  Namagga
-path: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Namagga
-ref: 262654
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/4/4.1/4.1.2
-  - name: 4.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-prevL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Najhana
-upL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Nasampayutta
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.2 Paccayapaccanīya](/tipitaka/36P1/4/4.1/4.1.2.md) / [4.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md)
 
 # Namagga
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Nasampayutta
 2133. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati namaggapaccayā—  ahetukaṃ nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca…  tīṇi.
 
 2134. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko dhammo uppajjati namaggapaccayā—  ahetukapaṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca…  tīṇi.
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Najhana.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to next page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Nasampayutta.md)
 
 

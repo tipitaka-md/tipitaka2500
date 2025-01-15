@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/4/4.5/4.5.1--7/Paccayacatukka
-ref: 261900
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 4 Kusalattika, Āsavaparāmāsagocchaka
-    link: /tipitaka/39P4/4
-  - name: 4.5 Kusalattika, Āsavaāsavasampayuttaduka
-    link: /tipitaka/39P4/4/4.5
-  - name: 4.5.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/4/4.5/4.5.1--7
-prevL: /tipitaka/39P4/4/4.5/4.5.1--7
-upL: /tipitaka/39P4/4/4.5/4.5.1--7
-nextL: /tipitaka/39P4/4/4.6
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](/tipitaka/39P4/4.md) / [4.5 Kusalattika, Āsavaāsavasampayuttaduka](/tipitaka/39P4/4/4.5.md) / [4.5.1--7 Paṭiccādivāra](/tipitaka/39P4/4/4.5/4.5.1--7.md)
 
 # Paccayacatukka
 
@@ -73,5 +56,7 @@ nextL: /tipitaka/39P4/4/4.6
 (29.)
 
 1312. Hetuyā pañca, ārammaṇe nava, adhipatiyā cattāri, anantare…pe…  sahajāte satta, aññamaññe dve, nissaye dasa, upanissaye nava, purejāte pacchājāte āsevane tīṇi, kamme cattāri, vipāke ekaṃ, āhāre…pe…  magge cattāri, sampayutte dve, vippayutte pañca…pe…  avigate dasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/4/4.5/4.5.1--7.md) / [Go to parent page](/tipitaka/39P4/4/4.5/4.5.1--7.md) / [Go to next page](/tipitaka/39P4/4/4.6.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/39P4/1/1.18/1.18.2/Arammana
-ref: 261863
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.18 Atītattika, Hetuduka
-    link: /tipitaka/39P4/1/1.18
-  - name: 1.18.2 Nahetupada
-    link: /tipitaka/39P4/1/1.18/1.18.2
-prevL: /tipitaka/39P4/1/1.18/1.18.2
-upL: /tipitaka/39P4/1/1.18/1.18.2
-nextL: /tipitaka/39P4/1/1.19
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.18 Atītattika, Hetuduka](/tipitaka/39P4/1/1.18.md) / [1.18.2 Nahetupada](/tipitaka/39P4/1/1.18/1.18.2.md)
 
 # Ārammaṇa
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/39P4/1/1.19
 812. Ārammaṇapaccayā nahetuyā tīṇi. (Saṃkhittaṃ.)
 
 813. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.18/1.18.2.md) / [Go to parent page](/tipitaka/39P4/1/1.18/1.18.2.md) / [Go to next page](/tipitaka/39P4/1/1.19.md)
 
 

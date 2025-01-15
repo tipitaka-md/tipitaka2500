@@ -1,24 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P4/7/7.5/7.5.1/7.5.1.1--7/Hetu-arammana
-ref: 264382
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.5 Kusalattika, Savitakkaduka
-    link: /tipitaka/39P4/7/7.5
-  - name: 7.5.1 Savitakkapada
-    link: /tipitaka/39P4/7/7.5/7.5.1
-  - name: 7.5.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/7/7.5/7.5.1/7.5.1.1--7
-prevL: /tipitaka/39P4/7/7.5/7.5.1/7.5.1.1--7
-upL: /tipitaka/39P4/7/7.5/7.5.1/7.5.1.1--7
-nextL: /tipitaka/39P4/7/7.5/7.5.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.5 Kusalattika, Savitakkaduka](/tipitaka/39P4/7/7.5.md) / [7.5.1 Savitakkapada](/tipitaka/39P4/7/7.5/7.5.1.md) / [7.5.1.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.5/7.5.1/7.5.1.1--7.md)
 
 # Hetu-ārammaṇa
 
@@ -65,5 +46,7 @@ nextL: /tipitaka/39P4/7/7.5/7.5.2
 1569. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta…pe…  sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 1570. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.5/7.5.1/7.5.1.1--7.md) / [Go to parent page](/tipitaka/39P4/7/7.5/7.5.1/7.5.1.1--7.md) / [Go to next page](/tipitaka/39P4/7/7.5/7.5.2.md)
 
 

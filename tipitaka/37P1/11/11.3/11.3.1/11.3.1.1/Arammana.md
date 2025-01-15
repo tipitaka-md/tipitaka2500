@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Arammana
-ref: 263008
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.3 Paccayavāra
-    link: /tipitaka/37P1/11/11.3
-  - name: 11.3.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.3/11.3.1
-  - name: 11.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1
-prevL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Hetu
-upL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1
-nextL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.3 Paccayavāra](/tipitaka/37P1/11/11.3.md) / [11.3.1 Paccayānuloma](/tipitaka/37P1/11/11.3/11.3.1.md) / [11.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md)
 
 # Ārammaṇa
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Adhipati
 1489. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī dhammo uppajjati ārammaṇapaccayā—  ācayagāmiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 1490. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo uppajjati ārammaṇapaccayā—  apacayagāmiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
+
+[Go to previous page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Adhipati.md)
 
 

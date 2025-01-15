@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Upanissaya
-ref: 263233
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 18 Uppannattika
-    link: /tipitaka/37P1/18
-  - name: 18.7 Pañhāvāra
-    link: /tipitaka/37P1/18/18.7
-  - name: 18.7.1 Paccayānuloma
-    link: /tipitaka/37P1/18/18.7/18.7.1
-  - name: 18.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-prevL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Nissaya
-upL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Purejata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [18 Uppannattika](/tipitaka/37P1/18.md) / [18.7 Pañhāvāra](/tipitaka/37P1/18/18.7.md) / [18.7.1 Paccayānuloma](/tipitaka/37P1/18/18.7/18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md)
 
 # Upanissaya
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Purejata
 2606. Anuppanno dhammo uppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  anuppannaṃ vaṇṇasampadaṃ patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Anuppannaṃ saddasampadaṃ…  gandhasampadaṃ…  rasasampadaṃ…  phoṭṭhabbasampadaṃ…  anuppanne khandhe patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Anuppannā vaṇṇasampadā…pe…  anuppannā khandhā uppannāya saddhāya…pe…  paññāya, kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 2607. Uppādī dhammo uppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uppādiṃ cakkhusampadaṃ patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Uppādiṃ sotasampadaṃ…pe…  kāyasampadaṃ…pe…  vaṇṇasampadaṃ…  gandhasampadaṃ…  rasasampadaṃ…  phoṭṭhabbasampadaṃ…  uppādī khandhe patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Uppādī cakkhusampadā…pe…  kāyasampadā…  vaṇṇasampadā…pe…  phoṭṭhabbasampadā…  uppādī khandhā uppannāya saddhāya…pe…  paññāya, kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Nissaya.md) / [Go to parent page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Purejata.md)
 
 

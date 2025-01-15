@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P5/1/1.18/1.18.2/Hetu
-ref: 261981
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 1 Kusalattika, Tika
-    link: /tipitaka/39P5/1
-  - name: 1.18 Kusalattika, Atītārammaṇattika
-    link: /tipitaka/39P5/1/1.18
-  - name: 1.18.2 Anāgatārammaṇapada
-    link: /tipitaka/39P5/1/1.18/1.18.2
-prevL: /tipitaka/39P5/1/1.18/1.18.2
-upL: /tipitaka/39P5/1/1.18/1.18.2
-nextL: /tipitaka/39P5/1/1.18/1.18.3
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.18 Kusalattika, Atītārammaṇattika](/tipitaka/39P5/1/1.18.md) / [1.18.2 Anāgatārammaṇapada](/tipitaka/39P5/1/1.18/1.18.2.md)
 
 # Hetu
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/39P5/1/1.18/1.18.3
 250. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā pañca…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 251. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P5/1/1.18/1.18.2.md) / [Go to parent page](/tipitaka/39P5/1/1.18/1.18.2.md) / [Go to next page](/tipitaka/39P5/1/1.18/1.18.3.md)
 
 

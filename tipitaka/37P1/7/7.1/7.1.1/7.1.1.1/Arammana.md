@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Arammana
-ref: 262806
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.1/7.1.1
-  - name: 7.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1
-prevL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Hetu
-upL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1
-nextL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Vippayutta
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.1 Paccayānuloma](/tipitaka/37P1/7/7.1/7.1.1.md) / [7.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1.md)
 
 # Ārammaṇa
 
@@ -87,5 +68,7 @@ nextL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Vippayutta
 59. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā. (1)
 
 60. (Dve paccayā sajjhāyamaggena vibhattā, evaṃ avasesā vīsatipaccayā vibhajitabbā.)
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Vippayutta.md)
 
 

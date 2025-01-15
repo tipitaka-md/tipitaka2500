@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Upanissaya
-ref: 263312
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 21 Ajjhattattika
-    link: /tipitaka/37P1/21
-  - name: 21.7 Pañhāvāra
-    link: /tipitaka/37P1/21/21.7
-  - name: 21.7.1 Paccayānuloma
-    link: /tipitaka/37P1/21/21.7/21.7.1
-  - name: 21.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1
-prevL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Samanantaradi
-upL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1
-nextL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Purejata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.7 Pañhāvāra](/tipitaka/37P1/21/21.7.md) / [21.7.1 Paccayānuloma](/tipitaka/37P1/21/21.7/21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md)
 
 # Upanissaya
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Purejata
 2826. Bahiddhā dhammo bahiddhā dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paro bahiddhā saddhaṃ…pe…  patthanaṃ, kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati bahiddhā saddhā…pe…  senāsanaṃ bahiddhā saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 2827. Bahiddhā dhammo ajjhattassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  bahiddhā saddhaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Bahiddhā saddhā…pe…  senāsanaṃ ajjhattāya saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Samanantaradi.md) / [Go to parent page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Purejata.md)
 
 

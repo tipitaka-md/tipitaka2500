@@ -1,24 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Adhipati
-ref: 262370
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Arammana
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Anantara
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
 
 # Adhipati
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Anantara
 852. Abyākato dhammo kusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. (2)
 
 853. Abyākato dhammo akusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  cakkhuṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  vipākābyākate kiriyābyākate khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Anantara.md)
 
 

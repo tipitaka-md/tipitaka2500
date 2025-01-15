@@ -1,24 +1,5 @@
----
-title:  Samanantara
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara
-ref: 262830
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Anantara
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Samanantara
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata
 (84.)
 
 351. Savitakkasavicāro dhammo savitakkasavicārassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayopi samanantarapaccayopi sadiso.)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Anantara.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata.md)
 
 

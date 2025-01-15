@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.1/Hetu
-ref: 265296
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.7 Cittasahabhūduka
-    link: /tipitaka/38P2/10/10.7
-  - name: 10.7.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.7/10.7.1
-  - name: 10.7.1.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.7/10.7.1/10.7.1.1
-  - name: 10.7.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.1
-prevL: /tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.1
-upL: /tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.1
-nextL: /tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.7 Cittasahabhūduka](/tipitaka/38P2/10/10.7.md) / [10.7.1 Paṭiccavāra](/tipitaka/38P2/10/10.7/10.7.1.md) / [10.7.1.1 Paccayānuloma](/tipitaka/38P2/10/10.7/10.7.1/10.7.1.1.md) / [10.7.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.2
 2917. Cittasahabhuñca nocittasahabhuñca dhammaṃ paṭicca nocittasahabhū dhammo uppajjati hetupaccayā—  cittasahabhū khandhe ca cittañca paṭicca nocittasahabhu cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cittasahabhū khandhe ca cittañca paṭicca kaṭattārūpaṃ, paṭisandhikkhaṇe cittasahabhū khandhe ca vatthuñca paṭicca cittaṃ, cittasahabhū khandhe ca mahābhūte ca paṭicca nocittasahabhu cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (2)
 
 2918. Cittasahabhuñca nocittasahabhuñca dhammaṃ paṭicca cittasahabhū ca nocittasahabhū ca dhammā uppajjanti hetupaccayā—  cittasahabhuṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasahabhu ca nocittasahabhu ca cittasamuṭṭhānaṃ rūpaṃ, dve khandhe ca…pe…  paṭisandhikkhaṇe cittasahabhuṃ ekaṃ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe ca…pe…  paṭisandhikkhaṇe cittasahabhuṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe ca…pe…  cittasahabhū khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ upādārūpaṃ. (Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.1.md) / [Go to parent page](/tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.7/10.7.1/10.7.1.1/10.7.1.1.2.md)
 
 

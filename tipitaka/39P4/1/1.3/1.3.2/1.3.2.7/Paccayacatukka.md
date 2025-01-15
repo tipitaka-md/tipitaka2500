@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/1/1.3/1.3.2/1.3.2.7/Paccayacatukka
-ref: 264288
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.3 Vipākattika, Hetuduka
-    link: /tipitaka/39P4/1/1.3
-  - name: 1.3.2 Nahetupada
-    link: /tipitaka/39P4/1/1.3/1.3.2
-  - name: 1.3.2.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.3/1.3.2/1.3.2.7
-prevL: /tipitaka/39P4/1/1.3/1.3.2/1.3.2.7
-upL: /tipitaka/39P4/1/1.3/1.3.2/1.3.2.7
-nextL: /tipitaka/39P4/1/1.4
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.3 Vipākattika, Hetuduka](/tipitaka/39P4/1/1.3.md) / [1.3.2 Nahetupada](/tipitaka/39P4/1/1.3/1.3.2.md) / [1.3.2.7 Pañhāvāra](/tipitaka/39P4/1/1.3/1.3.2/1.3.2.7.md)
 
 # Paccayacatukka
 
@@ -67,5 +48,7 @@ nextL: /tipitaka/39P4/1/1.4
 164. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 165. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.3/1.3.2/1.3.2.7.md) / [Go to parent page](/tipitaka/39P4/1/1.3/1.3.2/1.3.2.7.md) / [Go to next page](/tipitaka/39P4/1/1.4.md)
 
 

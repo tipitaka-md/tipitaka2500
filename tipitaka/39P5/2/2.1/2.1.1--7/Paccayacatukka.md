@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P5/2/2.1/2.1.1--7/Paccayacatukka
-ref: 261987
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 2 Tika, Kusalattika
-    link: /tipitaka/39P5/2
-  - name: 2.1 Vedanāttika, Kusalattika
-    link: /tipitaka/39P5/2/2.1
-  - name: 2.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/2/2.1/2.1.1--7
-prevL: /tipitaka/39P5/2/2.1/2.1.1--7
-upL: /tipitaka/39P5/2/2.1/2.1.1--7
-nextL: /tipitaka/39P5/2/2.2
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.1 Vedanāttika, Kusalattika](/tipitaka/39P5/2/2.1.md) / [2.1.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.1/2.1.1--7.md)
 
 # Paccayacatukka
 
@@ -61,5 +44,7 @@ nextL: /tipitaka/39P5/2/2.2
 308. Adukkhamasukhāya vedanāya sampayuttaṃ abyākataṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 309. Hetuyā dve, ārammaṇe tīṇi…pe…  āsevane dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P5/2/2.1/2.1.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.1/2.1.1--7.md) / [Go to next page](/tipitaka/39P5/2/2.2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Sampayutta
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sampayutta
-ref: 262844
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Magga
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Vippayutta
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Sampayutta
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Vippayutta
 552. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkavicāramattassa dhammassa sampayuttapaccayena paccayo—  avitakkavicāramatto eko khandho ca vicāro ca tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo…pe…  dve khandhā ca vicāro ca dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 553. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa dhammassa sampayuttapaccayena paccayo—  savitakkasavicāro eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo…pe…  dve khandhā ca vitakko ca dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe… . (1)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Magga.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Vippayutta.md)
 
 

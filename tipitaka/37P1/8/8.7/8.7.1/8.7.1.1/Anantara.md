@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Anantara
-ref: 262862
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.7 Pañhāvāra
-    link: /tipitaka/37P1/8/8.7
-  - name: 8.7.1 Paccayānuloma
-    link: /tipitaka/37P1/8/8.7/8.7.1
-  - name: 8.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-prevL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Adhipati
-upL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Samanantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md) / [8.7.1 Paccayānuloma](/tipitaka/37P1/8/8.7/8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md)
 
 # Anantara
 
@@ -71,5 +52,7 @@ nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Samanantara
 721. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe…  sukhasahagatassa dhammassa…pe…  upekkhāsahagatassa dhammassa anantarapaccayena paccayo—  pītisahagatañca sukhasahagatañca cuticittaṃ upekkhāsahagatassa upapatticittassa…pe…  pītisahagatañca sukhasahagatañca bhavaṅgaṃ āvajjanāya…pe…  pītisahagatā ca sukhasahagatā ca vipākamanoviññāṇadhātu kiriyamanoviññāṇadhātuyā…pe…  pītisahagatañca sukhasahagatañca bhavaṅgaṃ upekkhāsahagatassa bhavaṅgassa…pe…  pītisahagatañca sukhasahagatañca kusalākusalaṃ upekkhāsahagatassa vuṭṭhānassa…  kiriyaṃ vuṭṭhānassa…  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (3)
 
 722. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa anantarapaccayena paccayo—  purimā purimā pītisahagatā ca sukhasahagatā ca khandhā pacchimānaṃ pacchimānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ…pe…  pītisahagatañca sukhasahagatañca anulomaṃ pītisahagatāya ca sukhasahagatāya ca phalasamāpattiyā anantarapaccayena paccayo. (4)
+
+[Go to previous page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Samanantara.md)
 
 

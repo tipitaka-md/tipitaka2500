@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/6/6.8/6.8.1--7/Hetu
-ref: 261915
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 6 Kusalattika, Kilesagocchaka
-    link: /tipitaka/39P4/6
-  - name: 6.8 Kusalattika, Kilesavippayuttasaṃkilesikaduka
-    link: /tipitaka/39P4/6/6.8
-  - name: 6.8.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/6/6.8/6.8.1--7
-prevL: /tipitaka/39P4/6/6.8/6.8.1--7
-upL: /tipitaka/39P4/6/6.8/6.8.1--7
-nextL: /tipitaka/39P4/7
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [6 Kusalattika, Kilesagocchaka](/tipitaka/39P4/6.md) / [6.8 Kusalattika, Kilesavippayuttasaṃkilesikaduka](/tipitaka/39P4/6/6.8.md) / [6.8.1--7 Paṭiccādivāra](/tipitaka/39P4/6/6.8/6.8.1--7.md)
 
 # Hetu
 
@@ -79,5 +62,7 @@ nextL: /tipitaka/39P4/7
 1525. Kusalattikakilesagocchakaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P4/6/6.8/6.8.1--7.md) / [Go to parent page](/tipitaka/39P4/6/6.8/6.8.1--7.md) / [Go to next page](/tipitaka/39P4/7.md)
 
 

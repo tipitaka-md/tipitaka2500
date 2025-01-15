@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.2/Suddha
-ref: 263264
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 20 Atītārammaṇattika
-    link: /tipitaka/37P1/20
-  - name: 20.1 Paṭiccavāra
-    link: /tipitaka/37P1/20/20.1
-  - name: 20.1.1 Paccayānuloma
-    link: /tipitaka/37P1/20/20.1/20.1.1
-  - name: 20.1.1.2 Saṅkhyāvāra
-    link: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.2
-prevL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.2
-upL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.2
-nextL: /tipitaka/37P1/20/20.1/20.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.1 Paṭiccavāra](/tipitaka/37P1/20/20.1.md) / [20.1.1 Paccayānuloma](/tipitaka/37P1/20/20.1/20.1.1.md) / [20.1.1.2 Saṅkhyāvāra](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.2.md)
 
 # Suddha
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/20/20.1/20.1.2
 2669. Anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.2.md) / [Go to parent page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.2.md) / [Go to next page](/tipitaka/37P1/20/20.1/20.1.2.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/4/4.1--6/Paccayacatukka/Hetu
-ref: 262035
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 4 Upādinnattika
-    link: /tipitaka/40P13/4
-  - name: 4.1--6 Paṭiccādivāra
-    link: /tipitaka/40P13/4/4.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/40P13/4/4.1--6/Paccayacatukka
-prevL: /tipitaka/40P13/4/4.1--6/Paccayacatukka
-upL: /tipitaka/40P13/4/4.1--6/Paccayacatukka
-nextL: /tipitaka/40P13/4/4.7
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [4 Upādinnattika](/tipitaka/40P13/4.md) / [4.1--6 Paṭiccādivāra](/tipitaka/40P13/4/4.1--6.md) / [Paccayacatukka](/tipitaka/40P13/4/4.1--6/Paccayacatukka.md)
 
 # Hetu
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/40P13/4/4.7
 55. Hetuyā ekūnavīsa, ārammaṇe nava, adhipatiyā ekādasa…pe…  sahajāte ekūnavīsa…pe…  āsevane cha…pe…  vipāke terasa…pe…  avigate ekūnavīsa.
 
 56. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P13/4/4.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P13/4/4.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/40P13/4/4.7.md)
 
 

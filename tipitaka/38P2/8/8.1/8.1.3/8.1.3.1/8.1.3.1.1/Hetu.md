@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.1/Hetu
-ref: 265062
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.1 Nīvaraṇaduka
-    link: /tipitaka/38P2/8/8.1
-  - name: 8.1.3 Paccayavāra
-    link: /tipitaka/38P2/8/8.1/8.1.3
-  - name: 8.1.3.1 Paccayānuloma
-    link: /tipitaka/38P2/8/8.1/8.1.3/8.1.3.1
-  - name: 8.1.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.1
-prevL: /tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.1
-upL: /tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.1
-nextL: /tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.3 Paccayavāra](/tipitaka/38P2/8/8.1/8.1.3.md) / [8.1.3.1 Paccayānuloma](/tipitaka/38P2/8/8.1/8.1.3/8.1.3.1.md) / [8.1.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.1.md)
 
 # Hetu
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.2
 1921. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nonīvaraṇo dhammo uppajjati hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca nīvaraṇañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  nīvaraṇañca vatthuñca paccayā sampayuttakā khandhā, nīvaraṇañca sampayuttake ca khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ, nīvaraṇe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1922. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paccayā tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe…pe…  (cakkaṃ). Kāmacchandanīvaraṇañca vatthuñca paccayā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ sampayuttakā ca khandhā. (Cakkaṃ. Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.1.md) / [Go to parent page](/tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.1.md) / [Go to next page](/tipitaka/38P2/8/8.1/8.1.3/8.1.3.1/8.1.3.1.2.md)
 
 

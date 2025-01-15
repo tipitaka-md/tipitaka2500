@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Upanissaya
-ref: 262765
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.7 Pañhāvāra
-    link: /tipitaka/36P1/5/5.7
-  - name: 5.7.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.7/5.7.1
-  - name: 5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-prevL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Nissaya
-upL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Purejata
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md)
 
 # Upanissaya
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Purejata
 2660. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. (2)
 
 2661. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpattiṃ samāpajjanti, saṅkhāre aniccato dukkhato anattato vipassanti. Maggo ariyānaṃ atthappaṭisambhidāya dhammappaṭisambhidāya niruttippaṭisambhidāya paṭibhānappaṭisambhidāya ṭhānāṭṭhānakosallassa upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Nissaya.md) / [Go to parent page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Purejata.md)
 
 

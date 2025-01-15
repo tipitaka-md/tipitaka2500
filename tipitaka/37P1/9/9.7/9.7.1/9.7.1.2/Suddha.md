@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.2/Suddha
-ref: 262936
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.7 Pañhāvāra
-    link: /tipitaka/37P1/9/9.7
-  - name: 9.7.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.7/9.7.1
-  - name: 9.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.2
-prevL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.2
-upL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.2
-nextL: /tipitaka/37P1/9/9.7/Paccaniyuddhara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md) / [9.7.1 Paccayānuloma](/tipitaka/37P1/9/9.7/9.7.1.md) / [9.7.1.2 Saṅkhyāvāra](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.2.md)
 
 # Suddha
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/9/9.7/Paccaniyuddhara
 1033. Anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.2.md) / [Go to parent page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.2.md) / [Go to next page](/tipitaka/37P1/9/9.7/Paccaniyuddhara.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/8/8.20/8.20.1--7/Hetu
-ref: 261956
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.20 Ajjhattattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.20
-  - name: 8.20.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.20/8.20.1--7
-prevL: /tipitaka/39P4/8/8.20/8.20.1--7
-upL: /tipitaka/39P4/8/8.20/8.20.1--7
-nextL: /tipitaka/39P4/8/8.21
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.20 Ajjhattattika, Saraṇaduka](/tipitaka/39P4/8/8.20.md) / [8.20.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.20/8.20.1--7.md)
 
 # Hetu
 
@@ -47,5 +30,7 @@ nextL: /tipitaka/39P4/8/8.21
 1909. Hetuyā dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1910. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/39P4/8/8.20/8.20.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.20/8.20.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.21.md)
 
 

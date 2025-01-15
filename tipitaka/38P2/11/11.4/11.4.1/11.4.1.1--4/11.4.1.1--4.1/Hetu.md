@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1/Hetu
-ref: 265487
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.4 Upādānaupādāniyaduka
-    link: /tipitaka/38P2/11/11.4
-  - name: 11.4.1 Paṭiccavāra
-    link: /tipitaka/38P2/11/11.4/11.4.1
-  - name: 11.4.1.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4
-  - name: 11.4.1.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1
-prevL: /tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1
-upL: /tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1
-nextL: /tipitaka/38P2/11/11.4/11.4.2--6
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.4 Upādānaupādāniyaduka](/tipitaka/38P2/11/11.4.md) / [11.4.1 Paṭiccavāra](/tipitaka/38P2/11/11.4/11.4.1.md) / [11.4.1.1--4 Paccayānulomādi](/tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4.md) / [11.4.1.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/11/11.4/11.4.2--6
 3765. Upādānañceva upādāniyañca upādāniyañceva no ca upādānañca dhammaṃ paṭicca upādāniyo ceva no ca upādāno dhammo uppajjati hetupaccayā—  upādāniyañceva no ca upādānaṃ ekaṃ khandhañca upādāne ca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  upādāne ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3766. Upādānañceva upādāniyañca upādāniyañceva no ca upādānañca dhammaṃ paṭicca upādāno ceva upādāniyo ca upādāniyo ceva no ca upādāno ca dhammā uppajjanti hetupaccayā—  upādāniyañceva no ca upādānaṃ ekaṃ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1.md) / [Go to parent page](/tipitaka/38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1.md) / [Go to next page](/tipitaka/38P2/11/11.4/11.4.2--6.md)
 
 

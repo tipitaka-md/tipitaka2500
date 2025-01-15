@@ -1,18 +1,5 @@
----
-title:  Dvepabbajitavatthu
-path: /tipitaka/6D/7/Dvepabbajitavatthu
-ref: 272293
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 6D Sīlakkhandhavaggapāḷi
-    link: /tipitaka/6D
-  - name: 7 Jāliyasutta
-    link: /tipitaka/6D/7
-prevL: /tipitaka/6D/7
-upL: /tipitaka/6D/7
-nextL: /tipitaka/6D/8
----
+
+[Home](/) / [6D Sīlakkhandhavaggapāḷi](/tipitaka/6D.md) / [7 Jāliyasutta](/tipitaka/6D/7.md)
 
 # Dvepabbajitavatthu
 
@@ -41,5 +28,7 @@ nextL: /tipitaka/6D/8
 629. Jāliyasuttaṃ niṭṭhitaṃ sattamaṃ.
 
 
+
+[Go to previous page](/tipitaka/6D/7.md) / [Go to parent page](/tipitaka/6D/7.md) / [Go to next page](/tipitaka/6D/8.md)
 
 

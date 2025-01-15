@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/10/10.7/Paccaniyuddhara
-ref: 259048
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.7 Pañhāvāra
-    link: /tipitaka/37P1/10/10.7
-prevL: /tipitaka/37P1/10/10.7/10.7.1/10.7.1.2/Suddha
-upL: /tipitaka/37P1/10/10.7
-nextL: /tipitaka/37P1/10/10.7/10.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.7 Pañhāvāra](/tipitaka/37P1/10/10.7.md)
 
 # Paccanīyuddhāra
 
@@ -83,5 +68,7 @@ nextL: /tipitaka/37P1/10/10.7/10.7.2
 1414. Bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā bhāvanāya pahātabbahetukassa ca nevadassanena nabhāvanāya pahātabbahetukassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (5)
 
 1415. (Idhāpi sahajātaṃ, purejātaṃ atthi. Ye te pañhā na likhitā, te pāḷiyaṃ gaṇentānaṃ byañjanena na samenti. Te pāḷiyaṃ na likhitā gaṇanā pākaṭā honti. Yadi saṃsayo uppajjati, anulome atthipaccaye pekkhitabbaṃ.)
+
+[Go to previous page](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/10/10.7.md) / [Go to next page](/tipitaka/37P1/10/10.7/10.7.2.md)
 
 

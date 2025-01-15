@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu
-ref: 262023
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P9
-  - name: 5 Hetuduka, Sanidassanattika
-    link: /tipitaka/40P9/5
-  - name: 5.1--7 Paṭiccādivāra
-    link: /tipitaka/40P9/5/5.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P9/5/5.1--7/Paccayacatukka
-prevL: /tipitaka/40P9/5/5.1--7/Paccayacatukka
-upL: /tipitaka/40P9/5/5.1--7/Paccayacatukka
-nextL: /tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu-arammana
----
+
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [5 Hetuduka, Sanidassanattika](/tipitaka/40P9/5.md) / [5.1--7 Paṭiccādivāra](/tipitaka/40P9/5/5.1--7.md) / [Paccayacatukka](/tipitaka/40P9/5/5.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -47,5 +30,7 @@ nextL: /tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu-arammana
 84. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 85. Hetuyā nava…pe…  avigate nava. (Sahajātavārepi…pe…  sampayuttavārepi sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/40P9/5/5.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P9/5/5.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu-arammana.md)
 
 

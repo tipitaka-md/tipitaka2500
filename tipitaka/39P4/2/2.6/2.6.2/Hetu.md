@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/2/2.6/2.6.2/Hetu
-ref: 261882
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 2 Kusalattika, Hetugocchaka
-    link: /tipitaka/39P4/2
-  - name: 2.6 Kusalattika, Nahetusahetukaduka
-    link: /tipitaka/39P4/2/2.6
-  - name: 2.6.2 Nahetuahetukapada
-    link: /tipitaka/39P4/2/2.6/2.6.2
-prevL: /tipitaka/39P4/2/2.6/2.6.2
-upL: /tipitaka/39P4/2/2.6/2.6.2
-nextL: /tipitaka/39P4/3
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [2 Kusalattika, Hetugocchaka](/tipitaka/39P4/2.md) / [2.6 Kusalattika, Nahetusahetukaduka](/tipitaka/39P4/2/2.6.md) / [2.6.2 Nahetuahetukapada](/tipitaka/39P4/2/2.6/2.6.2.md)
 
 # Hetu
 
@@ -51,5 +34,7 @@ nextL: /tipitaka/39P4/3
 1090. Hetugocchakaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P4/2/2.6/2.6.2.md) / [Go to parent page](/tipitaka/39P4/2/2.6/2.6.2.md) / [Go to next page](/tipitaka/39P4/3.md)
 
 

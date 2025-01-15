@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.1/Hetu
-ref: 262293
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.4 Nissayavāra
-    link: /tipitaka/36P1/2/2.4
-  - name: 2.4.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.4/2.4.1
-  - name: 2.4.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.1
-prevL: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.1
-upL: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.1
-nextL: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.4 Nissayavāra](/tipitaka/36P1/2/2.4.md) / [2.4.1 Paccayānuloma](/tipitaka/36P1/2/2.4/2.4.1.md) / [2.4.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.1.md)
 
 # Hetu
 
@@ -63,5 +44,7 @@ nextL: /tipitaka/36P1/2/2.4/2.4.1/2.4.1.2
 677. (Yathā paccayavāre, evaṃ vitthāretabbaṃ.)
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.1.md) / [Go to parent page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.4/2.4.1/2.4.1.2.md)
 
 

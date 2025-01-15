@@ -1,26 +1,5 @@
----
-title:  Hetvādi
-path: /tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka/Hetvadi
-ref: 266001
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 3 Cūḷantaraduka, Kusalattika
-    link: /tipitaka/39P3/3
-  - name: 3.3 Sanidassanaduka, Kusalattika
-    link: /tipitaka/39P3/3/3.3
-  - name: 3.3.3 Abyākatapada
-    link: /tipitaka/39P3/3/3.3/3.3.3
-  - name: 3.3.3.7 Pañhāvāra
-    link: /tipitaka/39P3/3/3.3/3.3.3/3.3.3.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka
-prevL: /tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka
-upL: /tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka
-nextL: /tipitaka/39P3/3/3.4
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.3 Sanidassanaduka, Kusalattika](/tipitaka/39P3/3/3.3.md) / [3.3.3 Abyākatapada](/tipitaka/39P3/3/3.3/3.3.3.md) / [3.3.3.7 Pañhāvāra](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md)
 
 # Hetvādi
 
@@ -64,5 +43,7 @@ nextL: /tipitaka/39P3/3/3.4
 (Appaccayampi asaṅkhatampi sanidassanampi na labbhati.)
 
 
+
+[Go to previous page](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/3/3.4.md)
 
 

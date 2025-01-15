@@ -1,26 +1,5 @@
----
-title:  Naārammaṇādi
-path: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Naarammanadi
-ref: 265059
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.1 Nīvaraṇaduka
-    link: /tipitaka/38P2/8/8.1
-  - name: 8.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/8/8.1/8.1.1
-  - name: 8.1.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2
-  - name: 8.1.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1
-prevL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Nahetu
-upL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1
-nextL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Napurejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.1 Paṭiccavāra](/tipitaka/38P2/8/8.1/8.1.1.md) / [8.1.1.2 Paccayapaccanīya](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2.md) / [8.1.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1.md)
 
 # Naārammaṇādi
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Napurejata
 1905. Nonīvaraṇaṃ dhammaṃ paṭicca nonīvaraṇo dhammo uppajjati naārammaṇapaccayā—  nonīvaraṇe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
 1906. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nonīvaraṇo dhammo uppajjati naārammaṇapaccayā—  nīvaraṇe ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ…  (saṃkhittaṃ) naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
+
+[Go to previous page](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Nahetu.md) / [Go to parent page](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1.md) / [Go to next page](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Napurejata.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/39P3/1/1.21/1.21.2/1.21.2.7/Paccaniyuddhara
-ref: 264139
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.21 Hetuduka, Ajjhattārammaṇattika
-    link: /tipitaka/39P3/1/1.21
-  - name: 1.21.2 Bahiddhārammaṇapada
-    link: /tipitaka/39P3/1/1.21/1.21.2
-  - name: 1.21.2.7 Pañhāvāra
-    link: /tipitaka/39P3/1/1.21/1.21.2/1.21.2.7
-prevL: /tipitaka/39P3/1/1.21/1.21.2/1.21.2.7/Paccayacatukka/Hetvadi
-upL: /tipitaka/39P3/1/1.21/1.21.2/1.21.2.7
-nextL: /tipitaka/39P3/1/1.22
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.21 Hetuduka, Ajjhattārammaṇattika](/tipitaka/39P3/1/1.21.md) / [1.21.2 Bahiddhārammaṇapada](/tipitaka/39P3/1/1.21/1.21.2.md) / [1.21.2.7 Pañhāvāra](/tipitaka/39P3/1/1.21/1.21.2/1.21.2.7.md)
 
 # Paccanīyuddhāra
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/39P3/1/1.22
 1215. Hetudukaajjhattārammaṇattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/1/1.21/1.21.2/1.21.2.7/Paccayacatukka/Hetvadi.md) / [Go to parent page](/tipitaka/39P3/1/1.21/1.21.2/1.21.2.7.md) / [Go to next page](/tipitaka/39P3/1/1.22.md)
 
 

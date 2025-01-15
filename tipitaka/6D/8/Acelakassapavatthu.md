@@ -1,18 +1,5 @@
----
-title:  Acelakassapavatthu
-path: /tipitaka/6D/8/Acelakassapavatthu
-ref: 272294
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 6D Sīlakkhandhavaggapāḷi
-    link: /tipitaka/6D
-  - name: 8 Mahāsīhanādasutta
-    link: /tipitaka/6D/8
-prevL: /tipitaka/6D/8
-upL: /tipitaka/6D/8
-nextL: /tipitaka/6D/8/8.1
----
+
+[Home](/) / [6D Sīlakkhandhavaggapāḷi](/tipitaka/6D.md) / [8 Mahāsīhanādasutta](/tipitaka/6D/8.md)
 
 # Acelakassapavatthu
 
@@ -37,5 +24,7 @@ nextL: /tipitaka/6D/8/8.1
 633. Santi, kassapa, eke samaṇabrāhmaṇā paṇḍitā nipuṇā kataparappavādā vālavedhirūpā. Te bhindantā maññe caranti paññāgatena diṭṭhigatāni. Tehipi me saddhiṃ ekaccesu ṭhānesu sameti, ekaccesu ṭhānesu na sameti. Yaṃ te ekaccaṃ vadanti ‘sādhū’ti, mayampi taṃ ekaccaṃ vadema ‘sādhū’ti. Yaṃ te ekaccaṃ vadanti ‘na sādhū’ti, mayampi taṃ ekaccaṃ vadema ‘na sādhū’ti. Yaṃ te ekaccaṃ vadanti ‘sādhū’ti, mayaṃ taṃ ekaccaṃ vadema ‘na sādhū’ti. Yaṃ te ekaccaṃ vadanti ‘na sādhū’ti, mayaṃ taṃ ekaccaṃ vadema ‘sādhū’ti.
 
 634. Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, parepi taṃ ekaccaṃ vadanti ‘na sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘na sādhū’ti, pare taṃ ekaccaṃ vadanti ‘sādhū’ti. Yaṃ mayaṃ ekaccaṃ vadema ‘sādhū’ti, pare taṃ ekaccaṃ vadanti ‘na sādhū’ti.
+
+[Go to previous page](/tipitaka/6D/8.md) / [Go to parent page](/tipitaka/6D/8.md) / [Go to next page](/tipitaka/6D/8/8.1.md)
 
 

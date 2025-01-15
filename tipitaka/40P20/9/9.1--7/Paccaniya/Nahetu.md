@@ -1,22 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/40P20/9/9.1--7/Paccaniya/Nahetu
-ref: 262056
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/40P20
-  - name: 9 Saraṇaduka
-    link: /tipitaka/40P20/9
-  - name: 9.1--7 Paṭiccādivāra
-    link: /tipitaka/40P20/9/9.1--7
-  - name: Paccanīya
-    link: /tipitaka/40P20/9/9.1--7/Paccaniya
-prevL: /tipitaka/40P20/9/9.1--7/Paccaniya
-upL: /tipitaka/40P20/9/9.1--7/Paccaniya
-nextL: /tipitaka/40P20/9/9.1--7/Paccaniya/Hetu-arammana
----
+
+[Home](/) / [40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P20.md) / [9 Saraṇaduka](/tipitaka/40P20/9.md) / [9.1--7 Paṭiccādivāra](/tipitaka/40P20/9/9.1--7.md) / [Paccanīya](/tipitaka/40P20/9/9.1--7/Paccaniya.md)
 
 # Nahetu
 
@@ -35,5 +18,7 @@ nextL: /tipitaka/40P20/9/9.1--7/Paccaniya/Hetu-arammana
 158. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā pañca…pe…  napurejāte cattāri…pe…  nakamme dve…pe…  naāhāre naindriye najhāne namagge ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi.
 
 159. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/40P20/9/9.1--7/Paccaniya.md) / [Go to parent page](/tipitaka/40P20/9/9.1--7/Paccaniya.md) / [Go to next page](/tipitaka/40P20/9/9.1--7/Paccaniya/Hetu-arammana.md)
 
 

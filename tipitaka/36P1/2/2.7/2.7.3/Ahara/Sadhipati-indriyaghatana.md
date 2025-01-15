@@ -1,24 +1,5 @@
----
-title:  Sādhipati-indriyaghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.3/Ahara/Sadhipati-indriyaghatana
-ref: 262477
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.7/2.7.3
-  - name: Āhāra
-    link: /tipitaka/36P1/2/2.7/2.7.3/Ahara
-prevL: /tipitaka/36P1/2/2.7/2.7.3/Ahara/Saindriyaghatana
-upL: /tipitaka/36P1/2/2.7/2.7.3/Ahara
-nextL: /tipitaka/36P1/2/2.7/2.7.3/Indriya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Āhāra](/tipitaka/36P1/2/2.7/2.7.3/Ahara.md)
 
 # Sādhipati-indriyaghaṭanā
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.3/Indriya
 1466. Āhāramūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Ahara/Saindriyaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Ahara.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Indriya.md)
 
 

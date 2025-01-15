@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P13/1/1.7/Paccayacatukka/Hetu-arammana
-ref: 262029
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 1 Kusalattika
-    link: /tipitaka/40P13/1
-  - name: 1.7 Pañhāvāra
-    link: /tipitaka/40P13/1/1.7
-  - name: Paccayacatukka
-    link: /tipitaka/40P13/1/1.7/Paccayacatukka
-prevL: /tipitaka/40P13/1/1.7/Paccayacatukka
-upL: /tipitaka/40P13/1/1.7/Paccayacatukka
-nextL: /tipitaka/40P13/2
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [1 Kusalattika](/tipitaka/40P13/1.md) / [1.7 Pañhāvāra](/tipitaka/40P13/1/1.7.md) / [Paccayacatukka](/tipitaka/40P13/1/1.7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -49,5 +32,7 @@ nextL: /tipitaka/40P13/2
 (11.)
 
 23. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare soḷasa, samanantare soḷasa, sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye aṭṭhārasa, purejāte cha, pacchājāte nava, āsevane nava, kamme terasa, vipāke tīṇi, āhāre terasa…pe…  magge terasa, sampayutte nava, vippayutte dvādasa…pe…  avigate chabbīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P13/1/1.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P13/1/1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P13/2.md)
 
 

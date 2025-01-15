@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/39P3/4/4.4/4.4.2/Paccaniya/Nahetu
-ref: 264214
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.4 Āsavasāsavaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.4
-  - name: 4.4.2 Akusalapada
-    link: /tipitaka/39P3/4/4.4/4.4.2
-  - name: Paccanīya
-    link: /tipitaka/39P3/4/4.4/4.4.2/Paccaniya
-prevL: /tipitaka/39P3/4/4.4/4.4.2/Paccaniya
-upL: /tipitaka/39P3/4/4.4/4.4.2/Paccaniya
-nextL: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.1--6
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.4 Āsavasāsavaduka, Kusalattika](/tipitaka/39P3/4/4.4.md) / [4.4.2 Akusalapada](/tipitaka/39P3/4/4.4/4.4.2.md) / [Paccanīya](/tipitaka/39P3/4/4.4/4.4.2/Paccaniya.md)
 
 # Nahetu
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.1--6
 1655. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
 
 1656. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/4/4.4/4.4.2/Paccaniya.md) / [Go to parent page](/tipitaka/39P3/4/4.4/4.4.2/Paccaniya.md) / [Go to next page](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.1--6.md)
 
 

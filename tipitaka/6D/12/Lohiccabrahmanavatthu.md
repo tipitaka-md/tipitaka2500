@@ -1,18 +1,5 @@
----
-title:  Lohiccabrāhmaṇavatthu
-path: /tipitaka/6D/12/Lohiccabrahmanavatthu
-ref: 272313
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 6D Sīlakkhandhavaggapāḷi
-    link: /tipitaka/6D
-  - name: 12 Lohiccasutta
-    link: /tipitaka/6D/12
-prevL: /tipitaka/6D/12
-upL: /tipitaka/6D/12
-nextL: /tipitaka/6D/12/12.1
----
+
+[Home](/) / [6D Sīlakkhandhavaggapāḷi](/tipitaka/6D.md) / [12 Lohiccasutta](/tipitaka/6D/12.md)
 
 # Lohiccabrāhmaṇavatthu
 
@@ -53,5 +40,7 @@ nextL: /tipitaka/6D/12/12.1
 872. Atha kho bhagavā pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya saddhiṃ bhikkhusaṃghena yena sālavatikā tenupasaṅkami. Tena kho pana samayena rosikā nhāpito bhagavantaṃ piṭṭhito piṭṭhito anubandho hoti. Atha kho rosikā nhāpito bhagavantaṃ etadavoca—  “lohiccassa, bhante, brāhmaṇassa evarūpaṃ pāpakaṃ diṭṭhigataṃ uppannaṃ—  ‘idha samaṇo vā brāhmaṇo vā kusalaṃ dhammaṃ adhigaccheyya, kusalaṃ dhammaṃ adhigantvā na parassa āroceyya—  kiñhi paro parassa karissati. Seyyathāpi nāma purāṇaṃ bandhanaṃ chinditvā aññaṃ navaṃ bandhanaṃ kareyya; evaṃ sampadamidaṃ pāpakaṃ lobhadhammaṃ vadāmi—  kiñhi paro parassa karissatī’ti. Sādhu, bhante, bhagavā lohiccaṃ brāhmaṇaṃ etasmā pāpakā diṭṭhigatā vivecetū”ti. “Appeva nāma siyā, rosike, appeva nāma siyā, rosike”ti.
 
 873. Atha kho bhagavā yena lohiccassa brāhmaṇassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho lohicco brāhmaṇo buddhappamukhaṃ bhikkhusaṃghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.
+
+[Go to previous page](/tipitaka/6D/12.md) / [Go to parent page](/tipitaka/6D/12.md) / [Go to next page](/tipitaka/6D/12/12.1.md)
 
 

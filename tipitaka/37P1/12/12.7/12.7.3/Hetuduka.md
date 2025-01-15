@@ -1,22 +1,5 @@
----
-title:  Hetuduka
-path: /tipitaka/37P1/12/12.7/12.7.3/Hetuduka
-ref: 260802
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.7 Pañhāvāra
-    link: /tipitaka/37P1/12/12.7
-  - name: 12.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/37P1/12/12.7/12.7.3
-prevL: /tipitaka/37P1/12/12.7/12.7.3
-upL: /tipitaka/37P1/12/12.7/12.7.3
-nextL: /tipitaka/37P1/12/12.7/12.7.4
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.3 Paccayānulomapaccanīya](/tipitaka/37P1/12/12.7/12.7.3.md)
 
 # Hetuduka
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/37P1/12/12.7/12.7.4
 1862. Anulomapaccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/12/12.7/12.7.3.md) / [Go to parent page](/tipitaka/37P1/12/12.7/12.7.3.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.4.md)
 
 

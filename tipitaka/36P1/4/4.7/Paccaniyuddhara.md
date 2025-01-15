@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/36P1/4/4.7/Paccaniyuddhara
-ref: 258959
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Sabhaga
-upL: /tipitaka/36P1/4/4.7
-nextL: /tipitaka/36P1/4/4.7/4.7.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md)
 
 # Paccanīyuddhāra
 
@@ -57,5 +42,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.2
 2422. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā vipākadhammadhammassa sahajātaṃ…  purejātaṃ. (1)
 
 2423. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Sabhaga.md) / [Go to parent page](/tipitaka/36P1/4/4.7.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.2.md)
 
 

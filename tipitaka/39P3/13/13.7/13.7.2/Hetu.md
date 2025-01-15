@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/13/13.7/13.7.2/Hetu
-ref: 261776
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 13 Piṭṭhiduka, Kusalattika
-    link: /tipitaka/39P3/13
-  - name: 13.7 Sappītikaduka, Kusalattika
-    link: /tipitaka/39P3/13/13.7
-  - name: 13.7.2 Akusalapada
-    link: /tipitaka/39P3/13/13.7/13.7.2
-prevL: /tipitaka/39P3/13/13.7/13.7.2
-upL: /tipitaka/39P3/13/13.7/13.7.2
-nextL: /tipitaka/39P3/13/13.7/13.7.3
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.7 Sappītikaduka, Kusalattika](/tipitaka/39P3/13/13.7.md) / [13.7.2 Akusalapada](/tipitaka/39P3/13/13.7/13.7.2.md)
 
 # Hetu
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/39P3/13/13.7/13.7.3
 (50.)
 
 2491. Hetuyā cha, ārammaṇe cha…pe…  avigate cha. (Saṃkhittaṃ. Kusalasadisaṃ. Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/13/13.7/13.7.2.md) / [Go to parent page](/tipitaka/39P3/13/13.7/13.7.2.md) / [Go to next page](/tipitaka/39P3/13/13.7/13.7.3.md)
 
 

@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/11/11.7/Paccaniyuddhara
-ref: 259065
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.2/Suddha
-upL: /tipitaka/37P1/11/11.7
-nextL: /tipitaka/37P1/11/11.7/11.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md)
 
 # Paccanīyuddhāra
 
@@ -61,5 +46,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.2
 1646. Apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā apacayagāmissa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 1647. Apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā nevācayagāmināpacayagāmissa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/11/11.7.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.2.md)
 
 

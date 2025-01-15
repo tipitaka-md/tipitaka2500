@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/13/13.3/13.3.1/13.3.1.1/Hetu
-ref: 263105
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.3 Paccayavāra
-    link: /tipitaka/37P1/13/13.3
-  - name: 13.3.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.3/13.3.1
-  - name: 13.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.3/13.3.1/13.3.1.1
-prevL: /tipitaka/37P1/13/13.3/13.3.1/13.3.1.1
-upL: /tipitaka/37P1/13/13.3/13.3.1/13.3.1.1
-nextL: /tipitaka/37P1/13/13.3/13.3.1/13.3.1.1/Arammanadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.3 Paccayavāra](/tipitaka/37P1/13/13.3.md) / [13.3.1 Paccayānuloma](/tipitaka/37P1/13/13.3/13.3.1.md) / [13.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1.md)
 
 # Hetu
 
@@ -63,5 +44,7 @@ nextL: /tipitaka/37P1/13/13.3/13.3.1/13.3.1.1/Arammanadi
 1969. Parittañca appamāṇañca dhammaṃ paccayā paritto ca appamāṇo ca dhammā uppajjanti hetupaccayā—  appamāṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  appamāṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1970. Parittañca mahaggatañca dhammaṃ paccayā paritto dhammo uppajjati hetupaccayā…  tīṇi. (Paṭisandhikkhaṇe tīṇipi kātabbā.)
+
+[Go to previous page](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1.md) / [Go to parent page](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1/Arammanadi.md)
 
 

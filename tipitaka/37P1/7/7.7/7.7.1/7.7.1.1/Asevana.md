@@ -1,24 +1,5 @@
----
-title:  Āsevana
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Asevana
-ref: 262837
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Pacchajata
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Kamma
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Āsevana
 
@@ -83,5 +64,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Kamma
 481. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa āsevanapaccayena paccayo—  avitakkavicāramattassa jhānassa parikammañca vitakko ca avitakkavicāramattassa jhānassa vicārassa ca…  gotrabhu ca vitakko ca avitakkavicāramattassa maggassa vicārassa ca…  vodānañca vitakko ca avitakkavicāramattassa maggassa vicārassa ca āsevanapaccayena paccayo. (4)
 
 482. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa āsevanapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca āsevanapaccayena paccayo. Anulomañca vitakko ca gotrabhussa vitakkassa ca…  anulomañca vitakko ca vodānassa vitakkassa ca…  gotrabhu ca vitakko ca savitakkasavicārassa maggassa vitakkassa ca…  vodānañca vitakko ca savitakkasavicārassa maggassa vitakkassa ca āsevanapaccayena paccayo. (5)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Pacchajata.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Kamma.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Adhipati
-ref: 265475
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.3 Upādānasampayuttaduka
-    link: /tipitaka/38P2/11/11.3
-  - name: 11.3.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.3/11.3.7
-  - name: 11.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1
-  - name: 11.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-prevL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Arammana
-upL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.3 Upādānasampayuttaduka](/tipitaka/38P2/11/11.3.md) / [11.3.7 Pañhāvāra](/tipitaka/38P2/11/11.3/11.3.7.md) / [11.3.7.1 Paccayānuloma](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md)
 
 # Adhipati
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Anantara
 (71.)
 
 3707. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā upādānasampayuttā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayutto lobho uppajjati. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. (3)
+
+[Go to previous page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Anantara.md)
 
 

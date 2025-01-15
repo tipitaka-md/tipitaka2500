@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Atthi
-ref: 264816
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.4 Sappaṭighaduka
-    link: /tipitaka/38P2/2/2.4
-  - name: 2.4.7 Pañhāvāra
-    link: /tipitaka/38P2/2/2.4/2.4.7
-  - name: 2.4.7.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.4/2.4.7/2.4.7.1
-  - name: 2.4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1
-prevL: /tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Vippayutta
-upL: /tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1
-nextL: /tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.7 Pañhāvāra](/tipitaka/38P2/2/2.4/2.4.7.md) / [2.4.7.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md)
 
 # Atthi
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.2
 735. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātā**—  appaṭighā khandhā ca mahābhūtā ca appaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ…pe…  (paṭiccasadisaṃ yāva asaññasattā). **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā ca…pe…  kāyaviññāṇasahagato eko khandho ca kāyāyatanañca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (2)
 
 736. Sappaṭigho ca appaṭigho ca dhammā sappaṭighassa ca appaṭighassa ca dhammassa atthipaccayena paccayo. (Paṭiccasadisaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Vippayutta
-ref: 263039
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-  - name: 11.7.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.7/11.7.1
-  - name: 11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Aharadi
-upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Atthyadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md) / [11.7.1 Paccayānuloma](/tipitaka/37P1/11/11.7/11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Vippayutta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Atthyadi
 1619. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu ācayagāmīnaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 1620. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu apacayagāmīnaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Aharadi.md) / [Go to parent page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Atthyadi.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Āhāra
-path: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Ahara
-ref: 265435
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.14 Upādinnaduka
-    link: /tipitaka/38P2/10/10.14
-  - name: 10.14.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.14/10.14.7
-  - name: 10.14.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1
-  - name: 10.14.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1
-prevL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Vipaka
-upL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1
-nextL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Indriyadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.14 Upādinnaduka](/tipitaka/38P2/10/10.14.md) / [10.14.7 Pañhāvāra](/tipitaka/38P2/10/10.14/10.14.7.md) / [10.14.7.1 Paccayānuloma](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1.md) / [10.14.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md)
 
 # Āhāra
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Indriyadi
 3489. Upādinno ca anupādinno ca dhammā anupādinnassa dhammassa āhārapaccayena paccayo—  upādinno ca anupādinno ca kabaḷīkāro āhāro imassa anupādinnassa kāyassa āhārapaccayena paccayo. (2)
 
 3490. Upādinno ca anupādinno ca dhammā upādinnassa ca anupādinnassa ca dhammassa āhārapaccayena paccayo—  upādinno ca anupādinno ca kabaḷīkāro āhāro imassa upādinnassa ca anupādinnassa ca kāyassa āhārapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Vipaka.md) / [Go to parent page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Indriyadi.md)
 
 

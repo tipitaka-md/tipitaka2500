@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P5/2/2.10/2.10.1--7/Hetu
-ref: 261996
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 2 Tika, Kusalattika
-    link: /tipitaka/39P5/2
-  - name: 2.10 Sekkhattika, Kusalattika
-    link: /tipitaka/39P5/2/2.10
-  - name: 2.10.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/2/2.10/2.10.1--7
-prevL: /tipitaka/39P5/2/2.10/2.10.1--7
-upL: /tipitaka/39P5/2/2.10/2.10.1--7
-nextL: /tipitaka/39P5/2/2.11
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.10 Sekkhattika, Kusalattika](/tipitaka/39P5/2/2.10.md) / [2.10.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.10/2.10.1--7.md)
 
 # Hetu
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/39P5/2/2.11
 373. Sekkhaṃ abyākataṃ dhammaṃ paṭicca sekkho abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 374. Hetuyā nava, ārammaṇe tīṇi…pe…  āsevane ekaṃ…pe…  avigate nava. (Sabbattha vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P5/2/2.10/2.10.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.10/2.10.1--7.md) / [Go to next page](/tipitaka/39P5/2/2.11.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.2/Suddha
-ref: 265323
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka
-    link: /tipitaka/38P2/10/10.9
-  - name: 10.9.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.9/10.9.1
-  - name: 10.9.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2
-  - name: 10.9.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.2
-prevL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.2
-upL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.2
-nextL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](/tipitaka/38P2/10/10.9.md) / [10.9.1 Paṭiccavāra](/tipitaka/38P2/10/10.9/10.9.1.md) / [10.9.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2.md) / [10.9.1.2.2 Saṅkhyāvāra](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.2.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/10/10.9/10.9.1/10.9.1.3
 (286.)
 
 3026. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne cha, namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi.
+
+[Go to previous page](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.2.md) / [Go to parent page](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.2.md) / [Go to next page](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.3.md)
 
 

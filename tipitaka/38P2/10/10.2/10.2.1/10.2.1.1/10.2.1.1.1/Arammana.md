@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.1/Arammana
-ref: 265191
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.2 Cittaduka
-    link: /tipitaka/38P2/10/10.2
-  - name: 10.2.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.2/10.2.1
-  - name: 10.2.1.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.1
-  - name: 10.2.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.1
-prevL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.1/Hetu
-upL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.1
-nextL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.2 Cittaduka](/tipitaka/38P2/10/10.2.md) / [10.2.1 Paṭiccavāra](/tipitaka/38P2/10/10.2/10.2.1.md) / [10.2.1.1 Paccayānuloma](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.1.md) / [10.2.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.1.md)
 
 # Ārammaṇa
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.2
 2430. Nocittaṃ dhammaṃ paṭicca citto ca nocitto ca dhammā uppajjanti ārammaṇapaccayā—  nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca, dve khandhe paṭicca…pe…  paṭisandhikkhaṇe nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca, dve khandhe…pe…  paṭisandhikkhaṇe vatthuṃ paṭicca cittañca sampayuttakā ca khandhā. (3)
 
 2431. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati ārammaṇapaccayā—  nocittaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  paṭisandhikkhaṇe cittañca vatthuñca paṭicca nocittā khandhā. (1) (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.1/10.2.1.1.2.md)
 
 

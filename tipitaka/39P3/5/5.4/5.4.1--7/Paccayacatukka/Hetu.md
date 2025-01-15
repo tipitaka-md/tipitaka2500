@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/5/5.4/5.4.1--7/Paccayacatukka/Hetu
-ref: 264231
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 5 Saññojanagocchaka, Kusalattika
-    link: /tipitaka/39P3/5
-  - name: 5.4 Saññojanasaññojaniyaduka, Kusalattika
-    link: /tipitaka/39P3/5/5.4
-  - name: 5.4.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/5/5.4/5.4.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/5/5.4/5.4.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/5/5.4/5.4.1--7/Paccayacatukka
-upL: /tipitaka/39P3/5/5.4/5.4.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/5/5.5
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.4 Saññojanasaññojaniyaduka, Kusalattika](/tipitaka/39P3/5/5.4.md) / [5.4.1--7 Paṭiccādivāra](/tipitaka/39P3/5/5.4/5.4.1--7.md) / [Paccayacatukka](/tipitaka/39P3/5/5.4/5.4.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -81,5 +62,7 @@ nextL: /tipitaka/39P3/5/5.5
 1770. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1771. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/5/5.4/5.4.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/5/5.4/5.4.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/5/5.5.md)
 
 

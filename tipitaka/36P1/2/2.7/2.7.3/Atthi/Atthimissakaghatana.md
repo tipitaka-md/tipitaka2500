@@ -1,24 +1,5 @@
----
-title:  Atthimissakaghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Atthimissakaghatana
-ref: 262510
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.7/2.7.3
-  - name: Atthi
-    link: /tipitaka/36P1/2/2.7/2.7.3/Atthi
-prevL: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Atthiduka
-upL: /tipitaka/36P1/2/2.7/2.7.3/Atthi
-nextL: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Pakinnakaghatana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Atthi](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md)
 
 # Atthimissakaghaṭanā
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Pakinnakaghatana
 1671. Atthi adhipati nissaya vippayutta avigatanti nahetuyā cattāri, naārammaṇe tīṇi, naanantare cattāri, nasamanantare cattāri, nasahajāte ekaṃ, naaññamaññe cattāri, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte cattāri, naāsevane cattāri, nakamme cattāri, navipāke cattāri, naāhāre cattāri, naindriye cattāri, najhāne cattāri, namagge cattāri, nasampayutte cattāri, nonatthiyā cattāri, novigate cattāri.
 
 1672. Atthi nissaya indriya vippayutta avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte ekaṃ, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Atthi/Atthiduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Atthi/Pakinnakaghatana.md)
 
 

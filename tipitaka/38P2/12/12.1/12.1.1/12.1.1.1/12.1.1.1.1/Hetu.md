@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.1/Hetu
-ref: 265501
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 12 Kilesagocchaka
-    link: /tipitaka/38P2/12
-  - name: 12.1 Kilesaduka
-    link: /tipitaka/38P2/12/12.1
-  - name: 12.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/12/12.1/12.1.1
-  - name: 12.1.1.1 Paccayānuloma
-    link: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.1
-  - name: 12.1.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.1
-prevL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.1
-upL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.1
-nextL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.1 Kilesaduka](/tipitaka/38P2/12/12.1.md) / [12.1.1 Paṭiccavāra](/tipitaka/38P2/12/12.1/12.1.1.md) / [12.1.1.1 Paccayānuloma](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.1.md) / [12.1.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.2
 3816. Kilesañca nokilesañca dhammaṃ paṭicca nokileso dhammo uppajjati hetupaccayā—  nokilesaṃ ekaṃ khandhañca kilese ca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  kilese ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3817. Kilesañca nokilesañca dhammaṃ paṭicca kileso ca nokileso ca dhammā uppajjanti hetupaccayā—  nokilesaṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ, saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.1.md) / [Go to parent page](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.1.md) / [Go to next page](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.1/12.1.1.1.2.md)
 
 

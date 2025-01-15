@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/7/7.13/7.13.1--7/Paccayacatukka
-ref: 261932
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.13 Kusalattika, Niyyānikaduka
-    link: /tipitaka/39P4/7/7.13
-  - name: 7.13.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/7/7.13/7.13.1--7
-prevL: /tipitaka/39P4/7/7.13/7.13.1--7
-upL: /tipitaka/39P4/7/7.13/7.13.1--7
-nextL: /tipitaka/39P4/7/7.14
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.13 Kusalattika, Niyyānikaduka](/tipitaka/39P4/7/7.13.md) / [7.13.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.13/7.13.1--7.md)
 
 # Paccayacatukka
 
@@ -53,5 +36,7 @@ nextL: /tipitaka/39P4/7/7.14
 1666. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
 
 1667. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.13/7.13.1--7.md) / [Go to parent page](/tipitaka/39P4/7/7.13/7.13.1--7.md) / [Go to next page](/tipitaka/39P4/7/7.14.md)
 
 

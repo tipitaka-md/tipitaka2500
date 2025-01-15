@@ -1,24 +1,5 @@
----
-title:  Hetuduka
-path: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.3/Hetuduka
-ref: 263405
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/38P2/1/1.2/1.2.5
-  - name: 1.2.5.3 Paccayānulomapaccanīya
-    link: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.3
-prevL: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.3
-upL: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.3
-nextL: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.4
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.5 Saṃsaṭṭhavāra](/tipitaka/38P2/1/1.2/1.2.5.md) / [1.2.5.3 Paccayānulomapaccanīya](/tipitaka/38P2/1/1.2/1.2.5/1.2.5.3.md)
 
 # Hetuduka
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.4
 253. Anulomapaccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.5/1.2.5.3.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.5/1.2.5.3.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.5/1.2.5.4.md)
 
 

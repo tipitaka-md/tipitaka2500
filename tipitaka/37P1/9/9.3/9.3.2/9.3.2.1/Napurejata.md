@@ -1,24 +1,5 @@
----
-title:  Napurejāta
-path: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Napurejata
-ref: 262907
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.3 Paccayavāra
-    link: /tipitaka/37P1/9/9.3
-  - name: 9.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/9/9.3/9.3.2
-  - name: 9.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1
-prevL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Naadhipatyadi
-upL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1
-nextL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Napacchajatadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.3 Paccayavāra](/tipitaka/37P1/9/9.3.md) / [9.3.2 Paccayapaccanīya](/tipitaka/37P1/9/9.3/9.3.2.md) / [9.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1.md)
 
 # Napurejāta
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Napacchajatadi
 905. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati napurejātapaccayā—  dassanena pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 906. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati napurejātapaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Naadhipatyadi.md) / [Go to parent page](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1.md) / [Go to next page](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Napacchajatadi.md)
 
 

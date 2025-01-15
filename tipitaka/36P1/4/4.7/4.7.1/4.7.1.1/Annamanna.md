@@ -1,24 +1,5 @@
----
-title:  Aññamañña
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Annamanna
-ref: 262693
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sahajata
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Nissaya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Aññamañña
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Nissaya
 2319. Nevavipākanavipākadhammadhammo vipākassa dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe vatthu vipākānaṃ khandhānaṃ…pe… . (2)
 
 2320. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā vipākassa dhammassa…pe…  paṭisandhikkhaṇe vipāko eko khandho ca vatthu ca…pe… . (1) (Satta pañhā.)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sahajata.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Nissaya.md)
 
 

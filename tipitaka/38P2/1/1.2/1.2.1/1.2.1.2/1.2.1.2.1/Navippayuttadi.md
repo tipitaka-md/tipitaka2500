@@ -1,26 +1,5 @@
----
-title:  Navippayuttādi
-path: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Navippayuttadi
-ref: 264690
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.1 Paṭiccavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1
-  - name: 1.2.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2
-  - name: 1.2.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1
-prevL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Naaharadi
-upL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1
-nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.1 Paṭiccavāra](/tipitaka/38P2/1/1.2/1.2.1.md) / [1.2.1.2 Paccayapaccanīya](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2.md) / [1.2.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1.md)
 
 # Navippayuttādi
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.2
 188. Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
 189. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nonatthipaccayā…  novigatapaccayā. (1)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Naaharadi.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.2.md)
 
 

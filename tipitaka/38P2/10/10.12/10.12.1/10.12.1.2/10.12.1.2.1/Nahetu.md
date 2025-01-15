@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Nahetu
-ref: 265344
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.12 Ajjhattikaduka
-    link: /tipitaka/38P2/10/10.12
-  - name: 10.12.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.12/10.12.1
-  - name: 10.12.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2
-  - name: 10.12.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1
-prevL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1
-upL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1
-nextL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Naarammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.12 Ajjhattikaduka](/tipitaka/38P2/10/10.12.md) / [10.12.1 Paṭiccavāra](/tipitaka/38P2/10/10.12/10.12.1.md) / [10.12.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2.md) / [10.12.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1.md)
 
 # Nahetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Naarammana
 3119. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati nahetupaccayā—  ahetukaṃ bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  ahetukaṃ cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā bāhiraṃ kaṭattā ca rūpaṃ; ahetukapaṭisandhikkhaṇe cittañca mahābhūte ca paṭicca bāhiraṃ kaṭattārūpaṃ, ahetukapaṭisandhikkhaṇe cittañca vatthuñca paṭicca bāhirā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca cittañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
 
 3120. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā ajjhattikañca bāhirañca kaṭattārūpaṃ, dve khandhe ca…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1.md) / [Go to parent page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Naarammana.md)
 
 

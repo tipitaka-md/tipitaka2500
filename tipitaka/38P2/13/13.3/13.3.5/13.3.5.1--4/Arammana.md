@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Arammana
-ref: 263880
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.3 Dassanenapahātabbahetukaduka
-    link: /tipitaka/38P2/13/13.3
-  - name: 13.3.5 Saṃsaṭṭhavāra
-    link: /tipitaka/38P2/13/13.3/13.3.5
-  - name: 13.3.5.1--4 Paccayacatukka
-    link: /tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4
-prevL: /tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Hetu
-upL: /tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4
-nextL: /tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Nahetu
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.3 Dassanenapahātabbahetukaduka](/tipitaka/38P2/13/13.3.md) / [13.3.5 Saṃsaṭṭhavāra](/tipitaka/38P2/13/13.3/13.3.5.md) / [13.3.5.1--4 Paccayacatukka](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md)
 
 # Ārammaṇa
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Nahetu
 4216. Anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Hetu.md) / [Go to parent page](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to next page](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Nahetu.md)
 
 

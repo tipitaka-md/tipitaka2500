@@ -1,22 +1,5 @@
----
-title:  Hetuduka
-path: /tipitaka/36P1/2/2.6/2.6.3/Hetuduka
-ref: 260573
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.6 Sampayuttavāra
-    link: /tipitaka/36P1/2/2.6
-  - name: 2.6.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.6/2.6.3
-prevL: /tipitaka/36P1/2/2.6/2.6.3
-upL: /tipitaka/36P1/2/2.6/2.6.3
-nextL: /tipitaka/36P1/2/2.6/2.6.4
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.6 Sampayuttavāra](/tipitaka/36P1/2/2.6.md) / [2.6.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.6/2.6.3.md)
 
 # Hetuduka
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.6/2.6.4
 828. Anulomapaccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.6/2.6.3.md) / [Go to parent page](/tipitaka/36P1/2/2.6/2.6.3.md) / [Go to next page](/tipitaka/36P1/2/2.6/2.6.4.md)
 
 

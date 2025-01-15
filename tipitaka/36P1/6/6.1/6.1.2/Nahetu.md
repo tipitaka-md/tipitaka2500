@@ -1,22 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/36P1/6/6.1/6.1.2/Nahetu
-ref: 260689
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 6 Saṃkiliṭṭhattika
-    link: /tipitaka/36P1/6
-  - name: 6.1 Paṭiccavāra
-    link: /tipitaka/36P1/6/6.1
-  - name: 6.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/6/6.1/6.1.2
-prevL: /tipitaka/36P1/6/6.1/6.1.2
-upL: /tipitaka/36P1/6/6.1/6.1.2
-nextL: /tipitaka/36P1/6/6.1/6.1.2/Suddha
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.1 Paṭiccavāra](/tipitaka/36P1/6/6.1.md) / [6.1.2 Paccayapaccanīya](/tipitaka/36P1/6/6.1/6.1.2.md)
 
 # Nahetu
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/36P1/6/6.1/6.1.2/Suddha
 2819. (Yathā kusalattike vibhattaṃ, evaṃ vibhajitabbaṃ.)
 
 
+
+[Go to previous page](/tipitaka/36P1/6/6.1/6.1.2.md) / [Go to parent page](/tipitaka/36P1/6/6.1/6.1.2.md) / [Go to next page](/tipitaka/36P1/6/6.1/6.1.2/Suddha.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/8/8.11/8.11.1--7/Hetu
-ref: 261947
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.11 Sekkhattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.11
-  - name: 8.11.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.11/8.11.1--7
-prevL: /tipitaka/39P4/8/8.11/8.11.1--7
-upL: /tipitaka/39P4/8/8.11/8.11.1--7
-nextL: /tipitaka/39P4/8/8.12
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.11 Sekkhattika, Saraṇaduka](/tipitaka/39P4/8/8.11.md) / [8.11.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.11/8.11.1--7.md)
 
 # Hetu
 
@@ -67,5 +50,7 @@ nextL: /tipitaka/39P4/8/8.12
 1828. Hetuyā satta, ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha…pe…  upanissaye aṭṭha…pe…  āsevane dve, kamme aṭṭha, vipāke satta…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1829. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.11/8.11.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.11/8.11.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.12.md)
 
 

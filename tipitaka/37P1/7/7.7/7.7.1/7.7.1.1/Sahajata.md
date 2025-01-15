@@ -1,24 +1,5 @@
----
-title:  Sahajāta
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata
-ref: 262831
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Annamanna
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Sahajāta
 
@@ -105,5 +86,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Annamanna
 380. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa sahajātapaccayena paccayo—  paṭisandhikkhaṇe savitakkasavicāro eko khandho ca vitakko ca vatthu ca tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe…  dve khandhā ca vitakko ca vatthu ca dvinnaṃ khandhānaṃ sahajātapaccayena paccayo. (1)
 
 381. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa sahajātapaccayena paccayo—  savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. Paṭisandhikkhaṇe savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca kaṭattārūpānaṃ sahajātapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Annamanna.md)
 
 

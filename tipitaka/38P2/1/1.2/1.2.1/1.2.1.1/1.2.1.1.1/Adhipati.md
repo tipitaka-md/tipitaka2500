@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Adhipati
-ref: 264681
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.1 Paṭiccavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1
-  - name: 1.2.1.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1
-  - name: 1.2.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1
-prevL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Arammana
-upL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1
-nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Anantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.1 Paṭiccavāra](/tipitaka/38P2/1/1.2/1.2.1.md) / [1.2.1.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1.md) / [1.2.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md)
 
 # Adhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Anantaradi
 149. Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā—  ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
 
 150. Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā—  sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Anantaradi.md)
 
 

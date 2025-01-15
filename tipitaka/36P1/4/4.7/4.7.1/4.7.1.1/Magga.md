@@ -1,24 +1,5 @@
----
-title:  Magga
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Magga
-ref: 262704
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Jhana
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sampayutta
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Magga
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sampayutta
 (113.)
 
 2380. Vipāko dhammo vipākassa dhammassa maggapaccayena paccayo…  tīṇi. Vipākadhammadhammo vipākadhammadhammassa maggapaccayena paccayo…  tīṇi. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa maggapaccayena paccayo. Nevavipākanavipākadhammadhammā maggaṅgā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo.
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Jhana.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sampayutta.md)
 
 

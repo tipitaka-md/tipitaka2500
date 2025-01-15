@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/15/15.1--7/Paccayanuloma/Hetu
-ref: 262044
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 15 Micchattattika
-    link: /tipitaka/40P13/15
-  - name: 15.1--7 Paṭiccādivāra
-    link: /tipitaka/40P13/15/15.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P13/15/15.1--7/Paccayanuloma
-prevL: /tipitaka/40P13/15/15.1--7/Paccayanuloma
-upL: /tipitaka/40P13/15/15.1--7/Paccayanuloma
-nextL: /tipitaka/40P13/16
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [15 Micchattattika](/tipitaka/40P13/15.md) / [15.1--7 Paṭiccādivāra](/tipitaka/40P13/15/15.1--7.md) / [Paccayānuloma](/tipitaka/40P13/15/15.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P13/16
 119. Sammattaniyatañca aniyatañca dhammaṃ paṭicca namicchattaniyato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 120. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa. (Sabbattha vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P13/15/15.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P13/15/15.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P13/16.md)
 
 

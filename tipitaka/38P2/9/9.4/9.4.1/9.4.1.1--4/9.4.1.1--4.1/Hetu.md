@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4/9.4.1.1--4.1/Hetu
-ref: 265160
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.4 Parāmāsaparāmaṭṭhaduka
-    link: /tipitaka/38P2/9/9.4
-  - name: 9.4.1 Paṭiccavāra
-    link: /tipitaka/38P2/9/9.4/9.4.1
-  - name: 9.4.1.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4
-  - name: 9.4.1.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4/9.4.1.1--4.1
-prevL: /tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4/9.4.1.1--4.1
-upL: /tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4/9.4.1.1--4.1
-nextL: /tipitaka/38P2/9/9.4/9.4.2--6
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.4 Parāmāsaparāmaṭṭhaduka](/tipitaka/38P2/9/9.4.md) / [9.4.1 Paṭiccavāra](/tipitaka/38P2/9/9.4/9.4.1.md) / [9.4.1.1--4 Paccayānulomādi](/tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4.md) / [9.4.1.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4/9.4.1.1--4.1.md)
 
 # Hetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/9/9.4/9.4.2--6
 2300. Parāmaṭṭhañceva no ca parāmāsaṃ dhammaṃ paṭicca parāmāso ceva parāmaṭṭho ca parāmaṭṭho ceva no ca parāmāso ca dhammā uppajjanti hetupaccayā—  parāmaṭṭhañceva no ca parāmāsaṃ ekaṃ khandhaṃ paṭicca tayo khandhā parāmāso ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
 
 2301. Parāmāsañceva parāmaṭṭhañca parāmaṭṭhañceva no ca parāmāsañca dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso dhammo uppajjati hetupaccayā—  parāmaṭṭhañceva no ca parāmāsaṃ ekaṃ khandhañca parāmāsañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4/9.4.1.1--4.1.md) / [Go to parent page](/tipitaka/38P2/9/9.4/9.4.1/9.4.1.1--4/9.4.1.1--4.1.md) / [Go to next page](/tipitaka/38P2/9/9.4/9.4.2--6.md)
 
 

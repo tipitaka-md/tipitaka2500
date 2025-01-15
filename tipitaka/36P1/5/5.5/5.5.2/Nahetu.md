@@ -1,22 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/36P1/5/5.5/5.5.2/Nahetu
-ref: 260680
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/5/5.5
-  - name: 5.5.2 Paccayapaccanīya
-    link: /tipitaka/36P1/5/5.5/5.5.2
-prevL: /tipitaka/36P1/5/5.5/5.5.2
-upL: /tipitaka/36P1/5/5.5/5.5.2
-nextL: /tipitaka/36P1/5/5.5/5.5.3
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.5 Saṃsaṭṭhavāra](/tipitaka/36P1/5/5.5.md) / [5.5.2 Paccayapaccanīya](/tipitaka/36P1/5/5.5/5.5.2.md)
 
 # Nahetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/36P1/5/5.5/5.5.3
 2599. Paccanīyaṃ
 
 
+
+[Go to previous page](/tipitaka/36P1/5/5.5/5.5.2.md) / [Go to parent page](/tipitaka/36P1/5/5.5/5.5.2.md) / [Go to next page](/tipitaka/36P1/5/5.5/5.5.3.md)
 
 

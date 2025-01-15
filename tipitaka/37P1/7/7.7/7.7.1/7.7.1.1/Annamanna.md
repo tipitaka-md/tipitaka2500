@@ -1,24 +1,5 @@
----
-title:  Aññamañña
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Annamanna
-ref: 262832
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Nissaya
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Aññamañña
 
@@ -99,5 +80,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Nissaya
 408. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe savitakkasavicāro eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ vatthussa ca aññamaññapaccayena paccayo…pe…  dve khandhā ca vitakko ca dvinnaṃ khandhānaṃ vatthussa ca aññamaññapaccayena paccayo. (3)
 
 409. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe savitakkasavicāro eko khandho ca vitakko ca vatthu ca tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo…pe…  dve khandhā ca vitakko ca vatthu ca dvinnaṃ khandhānaṃ aññamaññapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Nissaya.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Chakka
-path: /tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Chakka
-ref: 262517
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.4
-  - name: Nahetuduka
-    link: /tipitaka/36P1/2/2.7/2.7.4/Nahetuduka
-prevL: /tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Catukka
-upL: /tipitaka/36P1/2/2.7/2.7.4/Nahetuduka
-nextL: /tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Sattaka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md) / [Nahetuduka](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka.md)
 
 # Chakka
 
@@ -33,5 +14,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Sattaka
 ### Chakka
 
 1698. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, avigate terasa.
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Catukka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Sattaka.md)
 
 

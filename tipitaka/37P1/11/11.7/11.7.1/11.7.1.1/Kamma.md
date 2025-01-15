@@ -1,24 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Kamma
-ref: 263036
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-  - name: 11.7.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.7/11.7.1
-  - name: 11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Asevana
-upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Vipaka
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md) / [11.7.1 Paccayānuloma](/tipitaka/37P1/11/11.7/11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Kamma
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Vipaka
 1612. Apacayagāmī dhammo apacayagāmissa ca nevācayagāmināpacayagāmissa ca dhammassa kammapaccayena paccayo—  apacayagāmī cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
 1613. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa kammapaccayena paccayo—  nevācayagāmināpacayagāmī cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe nevācayagāmināpacayagāmī cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Asevana.md) / [Go to parent page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Vipaka.md)
 
 

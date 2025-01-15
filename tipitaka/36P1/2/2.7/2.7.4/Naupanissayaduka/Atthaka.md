@@ -1,24 +1,5 @@
----
-title:  Aṭṭhaka
-path: /tipitaka/36P1/2/2.7/2.7.4/Naupanissayaduka/Atthaka
-ref: 262535
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.4
-  - name: Naupanissayaduka
-    link: /tipitaka/36P1/2/2.7/2.7.4/Naupanissayaduka
-prevL: /tipitaka/36P1/2/2.7/2.7.4/Naupanissayaduka
-upL: /tipitaka/36P1/2/2.7/2.7.4/Naupanissayaduka
-nextL: /tipitaka/36P1/2/2.7/2.7.4/Napurejataduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md) / [Naupanissayaduka](/tipitaka/36P1/2/2.7/2.7.4/Naupanissayaduka.md)
 
 # Aṭṭhaka
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.4/Napurejataduka
 1732. Naupanissayamūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.4/Naupanissayaduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.4/Naupanissayaduka.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.4/Napurejataduka.md)
 
 

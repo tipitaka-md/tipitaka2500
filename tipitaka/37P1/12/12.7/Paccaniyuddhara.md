@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/12/12.7/Paccaniyuddhara
-ref: 259082
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.7 Pañhāvāra
-    link: /tipitaka/37P1/12/12.7
-prevL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.2/Suddha
-upL: /tipitaka/37P1/12/12.7
-nextL: /tipitaka/37P1/12/12.7/12.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md)
 
 # Paccanīyuddhāra
 
@@ -59,5 +44,7 @@ nextL: /tipitaka/37P1/12/12.7/12.7.2
 1857. Asekkho ca nevasekkhanāsekkho ca dhammā asekkhassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 1858. Asekkho ca nevasekkhanāsekkho ca dhammā nevasekkhanāsekkhassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
+
+[Go to previous page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/12/12.7.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.2.md)
 
 

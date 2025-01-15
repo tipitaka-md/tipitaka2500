@@ -1,24 +1,5 @@
----
-title:  Pacchājāta
-path: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Pacchajata
-ref: 263081
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.7 Pañhāvāra
-    link: /tipitaka/37P1/12/12.7
-  - name: 12.7.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.7/12.7.1
-  - name: 12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-prevL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Purejata
-upL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Asevana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
 
 # Pacchājāta
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Asevana
 1812. Asekkho dhammo nevasekkhanāsekkhassa dhammassa pacchājātapaccayena paccayo—  pacchājātā asekkhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 1813. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa pacchājātapaccayena paccayo—  pacchājātā nevasekkhanāsekkhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Purejata.md) / [Go to parent page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Asevana.md)
 
 

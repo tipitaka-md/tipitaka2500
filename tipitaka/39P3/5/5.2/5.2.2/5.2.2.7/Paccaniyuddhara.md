@@ -1,24 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/39P3/5/5.2/5.2.2/5.2.2.7/Paccaniyuddhara
-ref: 264227
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 5 Saññojanagocchaka, Kusalattika
-    link: /tipitaka/39P3/5
-  - name: 5.2 Saññojaniyaduka, Kusalattika
-    link: /tipitaka/39P3/5/5.2
-  - name: 5.2.2 Abyākatapada
-    link: /tipitaka/39P3/5/5.2/5.2.2
-  - name: 5.2.2.7 Pañhāvāra
-    link: /tipitaka/39P3/5/5.2/5.2.2/5.2.2.7
-prevL: /tipitaka/39P3/5/5.2/5.2.2/5.2.2.7/Hetu
-upL: /tipitaka/39P3/5/5.2/5.2.2/5.2.2.7
-nextL: /tipitaka/39P3/5/5.3
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.2 Saññojaniyaduka, Kusalattika](/tipitaka/39P3/5/5.2.md) / [5.2.2 Abyākatapada](/tipitaka/39P3/5/5.2/5.2.2.md) / [5.2.2.7 Pañhāvāra](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.7.md)
 
 # Paccanīyuddhāra
 
@@ -45,5 +26,7 @@ nextL: /tipitaka/39P3/5/5.3
 1738. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
 
 1739. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.7/Hetu.md) / [Go to parent page](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.7.md) / [Go to next page](/tipitaka/39P3/5/5.3.md)
 
 

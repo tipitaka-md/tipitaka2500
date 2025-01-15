@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.3/4.3.2/Hetu
-ref: 261692
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.3 Āsavasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.3
-  - name: 4.3.2 Akusalapada
-    link: /tipitaka/39P3/4/4.3/4.3.2
-prevL: /tipitaka/39P3/4/4.3/4.3.2
-upL: /tipitaka/39P3/4/4.3/4.3.2
-nextL: /tipitaka/39P3/4/4.3/4.3.3
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.3 Āsavasampayuttaduka, Kusalattika](/tipitaka/39P3/4/4.3.md) / [4.3.2 Akusalapada](/tipitaka/39P3/4/4.3/4.3.2.md)
 
 # Hetu
 
@@ -55,5 +38,7 @@ nextL: /tipitaka/39P3/4/4.3/4.3.3
 1637. Hetuyā pañca, ārammaṇe nava, adhipatiyā ekaṃ, anantare samanantare nava, sahajāte aññamaññe nissaye pañca, upanissaye āsevane nava, kamme āhāre indriye jhāne magge tīṇi, sampayutte pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
 
 1638. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/4/4.3/4.3.2.md) / [Go to parent page](/tipitaka/39P3/4/4.3/4.3.2.md) / [Go to next page](/tipitaka/39P3/4/4.3/4.3.3.md)
 
 

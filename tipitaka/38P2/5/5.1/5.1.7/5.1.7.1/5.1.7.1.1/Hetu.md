@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Hetu
-ref: 265010
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.1 Ganthaduka
-    link: /tipitaka/38P2/5/5.1
-  - name: 5.1.7 Pañhāvāra
-    link: /tipitaka/38P2/5/5.1/5.1.7
-  - name: 5.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1
-  - name: 5.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1
-prevL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1
-upL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1
-nextL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.1 Ganthaduka](/tipitaka/38P2/5/5.1.md) / [5.1.7 Pañhāvāra](/tipitaka/38P2/5/5.1/5.1.7.md) / [5.1.7.1 Paccayānuloma](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1.md) / [5.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Arammana
 1656. Gantho ca nogantho ca dhammā noganthassa dhammassa hetupaccayena paccayo—  ganthā ca noganthā ca hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (2)
 
 1657. Gantho ca nogantho ca dhammā ganthassa ca noganthassa ca dhammassa hetupaccayena paccayo—  ganthā ca noganthā ca hetū sampayuttakānaṃ khandhānaṃ ganthānañca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1.md) / [Go to parent page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Arammana.md)
 
 

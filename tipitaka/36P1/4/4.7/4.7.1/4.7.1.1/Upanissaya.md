@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Upanissaya
-ref: 262695
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Nissaya
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Purejata
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Upanissaya
 
@@ -73,5 +54,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Purejata
 2345. Nevavipākanavipākadhammadhammo vipākadhammadhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo …pe… .
 
 2346. **Pakatūpanissayo**—  utuṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati. Utu…  bhojanaṃ…  senāsanaṃ saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Nissaya.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Purejata.md)
 
 

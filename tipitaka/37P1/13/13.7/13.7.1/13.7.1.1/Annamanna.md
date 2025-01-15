@@ -1,24 +1,5 @@
----
-title:  Aññamañña
-path: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Annamanna
-ref: 263129
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.7 Pañhāvāra
-    link: /tipitaka/37P1/13/13.7
-  - name: 13.7.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.7/13.7.1
-  - name: 13.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-prevL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Sahajata
-upL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Nissaya
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.7 Pañhāvāra](/tipitaka/37P1/13/13.7.md) / [13.7.1 Paccayānuloma](/tipitaka/37P1/13/13.7/13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md)
 
 # Aññamañña
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Nissaya
 2071. Appamāṇo dhammo appamāṇassa dhammassa aññamaññapaccayena paccayo—  appamāṇo eko khandho tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo…pe…  dve khandhā…pe… . (1)
 
 2072. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa aññamaññapaccayena paccayo—  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ aññamaññapaccayena paccayo…pe… . (1)
+
+[Go to previous page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Sahajata.md) / [Go to parent page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Nissaya.md)
 
 

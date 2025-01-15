@@ -1,24 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Kamma
-ref: 263365
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 23 Sanidassanasappaṭighattika
-    link: /tipitaka/37P1/23
-  - name: 23.7 Pañhāvāra
-    link: /tipitaka/37P1/23/23.7
-  - name: 23.7.1 Paccayānuloma
-    link: /tipitaka/37P1/23/23.7/23.7.1
-  - name: 23.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1
-prevL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Asevana
-upL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1
-nextL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Vipaka
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.7 Pañhāvāra](/tipitaka/37P1/23/23.7.md) / [23.7.1 Paccayānuloma](/tipitaka/37P1/23/23.7/23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md)
 
 # Kamma
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Vipaka
 3029. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  anidassanaappaṭighā cetanā sanidassanasappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  anidassanaappaṭighā cetanā sanidassanasappaṭighānaṃ kaṭattārūpānaṃ kammapaccayena paccayo. (2)
 
 3030. (Evaṃ satta pañhā sahajātā nānākkhaṇikā iminā kāraṇena vibhajitabbā, tividharūpasaṅgaho.) (7)
+
+[Go to previous page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Asevana.md) / [Go to parent page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Vipaka.md)
 
 

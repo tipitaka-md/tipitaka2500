@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P3/10/10.4/10.4.2/Hetu-arammana
-ref: 261743
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.4 Cittasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.4
-  - name: 10.4.2 Abyākatapada
-    link: /tipitaka/39P3/10/10.4/10.4.2
-prevL: /tipitaka/39P3/10/10.4/10.4.2/Hetu
-upL: /tipitaka/39P3/10/10.4/10.4.2
-nextL: /tipitaka/39P3/10/10.5
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.4 Cittasampayuttaduka, Kusalattika](/tipitaka/39P3/10/10.4.md) / [10.4.2 Abyākatapada](/tipitaka/39P3/10/10.4/10.4.2.md)
 
 # Hetu-ārammaṇa
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/39P3/10/10.5
 (36.)
 
 2086. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṃ…pe…  sahajāte satta, aññamaññe cha, nissaye satta, upanissaye dve, purejāte ekaṃ, pacchājāte ekaṃ, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi, āhāre cattāri, indriye cha, jhāne tīṇi, magge tīṇi, sampayutte ekaṃ, vippayutte dve…pe…  avigate satta. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/10/10.4/10.4.2/Hetu.md) / [Go to parent page](/tipitaka/39P3/10/10.4/10.4.2.md) / [Go to next page](/tipitaka/39P3/10/10.5.md)
 
 

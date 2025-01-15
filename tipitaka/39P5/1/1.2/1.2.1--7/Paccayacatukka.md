@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P5/1/1.2/1.2.1--7/Paccayacatukka
-ref: 261962
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 1 Kusalattika, Tika
-    link: /tipitaka/39P5/1
-  - name: 1.2 Kusalattika, Vipākattika
-    link: /tipitaka/39P5/1/1.2
-  - name: 1.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/1/1.2/1.2.1--7
-prevL: /tipitaka/39P5/1/1.2/1.2.1--7
-upL: /tipitaka/39P5/1/1.2/1.2.1--7
-nextL: /tipitaka/39P5/1/1.3
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.2 Kusalattika, Vipākattika](/tipitaka/39P5/1/1.2.md) / [1.2.1--7 Paṭiccādivāra](/tipitaka/39P5/1/1.2/1.2.1--7.md)
 
 # Paccayacatukka
 
@@ -69,5 +52,7 @@ nextL: /tipitaka/39P5/1/1.3
 45. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 46. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P5/1/1.2/1.2.1--7.md) / [Go to parent page](/tipitaka/39P5/1/1.2/1.2.1--7.md) / [Go to next page](/tipitaka/39P5/1/1.3.md)
 
 

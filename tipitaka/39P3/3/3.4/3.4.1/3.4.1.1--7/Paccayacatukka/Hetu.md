@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7/Paccayacatukka/Hetu
-ref: 266002
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 3 Cūḷantaraduka, Kusalattika
-    link: /tipitaka/39P3/3
-  - name: 3.4 Sappaṭighaduka, Kusalattika
-    link: /tipitaka/39P3/3/3.4
-  - name: 3.4.1 Kusalākusalapada
-    link: /tipitaka/39P3/3/3.4/3.4.1
-  - name: 3.4.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7/Paccayacatukka
-upL: /tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/3/3.4/3.4.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.4 Sappaṭighaduka, Kusalattika](/tipitaka/39P3/3/3.4.md) / [3.4.1 Kusalākusalapada](/tipitaka/39P3/3/3.4/3.4.1.md) / [3.4.1.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/39P3/3/3.4/3.4.2
 1519. Appaṭighaṃ akusalaṃ dhammaṃ paṭicca appaṭigho akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 1520. Hetuyā ekaṃ…pe…  avigate ekaṃ (pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/3/3.4/3.4.1/3.4.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/3/3.4/3.4.2.md)
 
 

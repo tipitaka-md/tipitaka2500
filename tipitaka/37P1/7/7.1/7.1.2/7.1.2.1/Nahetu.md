@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Nahetu
-ref: 262811
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/7/7.1/7.1.2
-  - name: 7.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-prevL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-upL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naarammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.2 Paccayapaccanīya](/tipitaka/37P1/7/7.1/7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md)
 
 # Nahetu
 
@@ -109,5 +90,7 @@ nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naarammana
 133. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetuke savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe…pe… . (2)
 
 134. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā; savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naarammana.md)
 
 

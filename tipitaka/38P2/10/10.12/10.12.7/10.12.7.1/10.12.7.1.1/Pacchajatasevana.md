@@ -1,26 +1,5 @@
----
-title:  Pacchājātāsevana
-path: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Pacchajatasevana
-ref: 265359
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.12 Ajjhattikaduka
-    link: /tipitaka/38P2/10/10.12
-  - name: 10.12.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.12/10.12.7
-  - name: 10.12.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1
-  - name: 10.12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1
-prevL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Purejata
-upL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1
-nextL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Kamma-vipaka
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.12 Ajjhattikaduka](/tipitaka/38P2/10/10.12.md) / [10.12.7 Pañhāvāra](/tipitaka/38P2/10/10.12/10.12.7.md) / [10.12.7.1 Paccayānuloma](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1.md) / [10.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md)
 
 # Pacchājātāsevana
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Kamma-vipaka
 (348.)
 
 3181. Ajjhattiko dhammo ajjhattikassa dhammassa pacchājātapaccayena paccayo—  pacchājātā ajjhattikā khandhā purejātassa imassa ajjhattikassa kāyassa pacchājātapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Pacchājātā ajjhattikā khandhā purejātassa imassa bāhirassa kāyassa pacchājātapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Pacchājātā ajjhattikā khandhā purejātassa imassa ajjhattikassa ca bāhirassa ca kāyassa pacchājātapaccayena paccayo (evaṃ navapi pañhā kātabbā), āsevanapaccayena paccayo. (Nava pañhā kātabbā.)
+
+[Go to previous page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Purejata.md) / [Go to parent page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Kamma-vipaka.md)
 
 

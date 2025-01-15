@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Atthi
-ref: 265135
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.1 Parāmāsaduka
-    link: /tipitaka/38P2/9/9.1
-  - name: 9.1.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.1/9.1.7
-  - name: 9.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1
-  - name: 9.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
-prevL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Vippayutta
-upL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
-nextL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.7 Pañhāvāra](/tipitaka/38P2/9/9.1/9.1.7.md) / [9.1.7.1 Paccayānuloma](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md)
 
 # Atthi
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.2
 (37.)
 
 2194. Parāmāso ca noparāmāso ca dhammā noparāmāsassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  noparāmāso eko khandho ca parāmāso ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  parāmāso ca sampayuttakā ca khandhā cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; parāmāso ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; parāmāso ca vatthu ca noparāmāsānaṃ khandhānaṃ atthipaccayena paccayo. **Pacchājāto**—  parāmāso ca sampayuttakā ca khandhā purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājāto**—  parāmāso ca sampayuttakā ca khandhā kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājāto**—  parāmāso ca sampayuttakā ca khandhā rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.2.md)
 
 

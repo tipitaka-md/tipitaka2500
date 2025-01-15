@@ -1,26 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Vippayutta
-ref: 264760
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.6 Nahetusahetukaduka
-    link: /tipitaka/38P2/1/1.6
-  - name: 1.6.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.6/1.6.7
-  - name: 1.6.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1
-  - name: 1.6.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1
-prevL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Sampayutta
-upL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1
-nextL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Atthi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.1 Paccayānuloma](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md)
 
 # Vippayutta
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Atthi
 520. Nahetu ahetuko dhammo nahetuahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. **Sahajātā**—  nahetū ahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe…  khandhā vatthussa vippayuttapaccayena paccayo; vatthu khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  nahetū ahetukā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
 521. Nahetu ahetuko dhammo nahetusahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Sampayutta.md) / [Go to parent page](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Atthi.md)
 
 

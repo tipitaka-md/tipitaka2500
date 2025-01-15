@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Nahetu
-ref: 265058
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.1 Nīvaraṇaduka
-    link: /tipitaka/38P2/8/8.1
-  - name: 8.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/8/8.1/8.1.1
-  - name: 8.1.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2
-  - name: 8.1.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1
-prevL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1
-upL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1
-nextL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Naarammanadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.1 Paṭiccavāra](/tipitaka/38P2/8/8.1/8.1.1.md) / [8.1.1.2 Paccayapaccanīya](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2.md) / [8.1.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1.md)
 
 # Nahetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Naarammanadi
 (6.)
 
 1903. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nīvaraṇo dhammo uppajjati nahetupaccayā—  vicikicchānīvaraṇañca sampayuttake ca khandhe paṭicca avijjānīvaraṇaṃ, uddhaccanīvaraṇañca sampayuttake ca khandhe paṭicca avijjānīvaraṇaṃ. (1)
+
+[Go to previous page](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1.md) / [Go to parent page](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1.md) / [Go to next page](/tipitaka/38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1/Naarammanadi.md)
 
 

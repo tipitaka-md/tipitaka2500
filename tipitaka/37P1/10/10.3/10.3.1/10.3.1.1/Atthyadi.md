@@ -1,24 +1,5 @@
----
-title:  Atthyādi
-path: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1/Atthyadi
-ref: 262961
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.3 Paccayavāra
-    link: /tipitaka/37P1/10/10.3
-  - name: 10.3.1 Paccayānuloma
-    link: /tipitaka/37P1/10/10.3/10.3.1
-  - name: 10.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1
-prevL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1/Vippayutta
-upL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1
-nextL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.3 Paccayavāra](/tipitaka/37P1/10/10.3.md) / [10.3.1 Paccayānuloma](/tipitaka/37P1/10/10.3/10.3.1.md) / [10.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.1.md)
 
 # Atthyādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.2
 (50.)
 
 1206. Dassanena pahātabbahetukaṃ dhammaṃ paccayā dassanena pahātabbahetuko dhammo uppajjati atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+
+[Go to previous page](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.1.md) / [Go to next page](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/37P1/11/11.3/11.3.2/11.3.2.1/Nahetu
-ref: 263013
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.3 Paccayavāra
-    link: /tipitaka/37P1/11/11.3
-  - name: 11.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/11/11.3/11.3.2
-  - name: 11.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.3/11.3.2/11.3.2.1
-prevL: /tipitaka/37P1/11/11.3/11.3.2/11.3.2.1
-upL: /tipitaka/37P1/11/11.3/11.3.2/11.3.2.1
-nextL: /tipitaka/37P1/11/11.3/11.3.2/11.3.2.1/Naarammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.3 Paccayavāra](/tipitaka/37P1/11/11.3.md) / [11.3.2 Paccayapaccanīya](/tipitaka/37P1/11/11.3/11.3.2.md) / [11.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.3/11.3.2/11.3.2.1.md)
 
 # Nahetu
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/11/11.3/11.3.2/11.3.2.1/Naarammana
 1504. Nevācayagāmināpacayagāmiṃ dhammaṃ paccayā ācayagāmī dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 1505. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+
+[Go to previous page](/tipitaka/37P1/11/11.3/11.3.2/11.3.2.1.md) / [Go to parent page](/tipitaka/37P1/11/11.3/11.3.2/11.3.2.1.md) / [Go to next page](/tipitaka/37P1/11/11.3/11.3.2/11.3.2.1/Naarammana.md)
 
 

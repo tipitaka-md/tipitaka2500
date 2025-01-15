@@ -1,28 +1,11 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7/Paccayacatukka
-ref: 264351
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 2 Kusalattika, Hetugocchaka
-    link: /tipitaka/39P4/2
-  - name: 2.5 Kusalattika, Hetuhetusampayuttaduka
-    link: /tipitaka/39P4/2/2.5
-  - name: 2.5.1 Hetuhetusampayuttapada
-    link: /tipitaka/39P4/2/2.5/2.5.1
-  - name: 2.5.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7
-prevL: /tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7
-upL: /tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7
-nextL: /tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7/Paccayacatukka/Hetu
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [2 Kusalattika, Hetugocchaka](/tipitaka/39P4/2.md) / [2.5 Kusalattika, Hetuhetusampayuttaduka](/tipitaka/39P4/2/2.5.md) / [2.5.1 Hetuhetusampayuttapada](/tipitaka/39P4/2/2.5/2.5.1.md) / [2.5.1.1--7 Paṭiccādivāra](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7.md)
 
 # Paccayacatukka
 
-* [Hetu](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7/Paccayacatukka/Hetu)
-* [Hetu-ārammaṇa](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7/Paccayacatukka/Hetu-arammana)
+* [Hetu](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7/Paccayacatukka/Hetu.md)
+* [Hetu-ārammaṇa](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7/Paccayacatukka/Hetu-arammana.md)
+
+[Go to previous page](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7.md) / [Go to parent page](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7.md) / [Go to next page](/tipitaka/39P4/2/2.5/2.5.1/2.5.1.1--7/Paccayacatukka/Hetu.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1/Hetu
-ref: 264931
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.4 Āsavasāsavaduka
-    link: /tipitaka/38P2/3/3.4
-  - name: 3.4.1 Paṭiccavāra
-    link: /tipitaka/38P2/3/3.4/3.4.1
-  - name: 3.4.1.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4
-  - name: 3.4.1.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1
-prevL: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1
-upL: /tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1
-nextL: /tipitaka/38P2/3/3.4/3.4.2--6
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.4 Āsavasāsavaduka](/tipitaka/38P2/3/3.4.md) / [3.4.1 Paṭiccavāra](/tipitaka/38P2/3/3.4/3.4.1.md) / [3.4.1.1--4 Paccayānulomādi](/tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4.md) / [3.4.1.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/3/3.4/3.4.2--6
 1264. Āsavañceva sāsavañca sāsavañceva no ca āsavañca dhammaṃ paṭicca sāsavo ceva no ca āsavo dhammo uppajjati hetupaccayā—  sāsavañceva no ca āsavaṃ ekaṃ khandhañca āsave ca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (2)
 
 1265. Āsavañceva sāsavañca sāsavañceva no ca āsavañca dhammaṃ paṭicca āsavo ceva sāsavo ca sāsavo ceva no ca āsavo ca dhammā uppajjanti hetupaccayā—  sāsavañceva no ca āsavaṃ ekaṃ khandhañca kāmāsavañca paṭicca tayo khandhā diṭṭhāsavo avijjāsavo cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ. Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1.md) / [Go to parent page](/tipitaka/38P2/3/3.4/3.4.1/3.4.1.1--4/3.4.1.1--4.1.md) / [Go to next page](/tipitaka/38P2/3/3.4/3.4.2--6.md)
 
 

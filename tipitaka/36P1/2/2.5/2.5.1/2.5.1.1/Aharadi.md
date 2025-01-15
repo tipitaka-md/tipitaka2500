@@ -1,24 +1,5 @@
----
-title:  Āhārādi
-path: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Aharadi
-ref: 262303
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.5/2.5.1
-  - name: 2.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1
-prevL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Vipaka
-upL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1
-nextL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Vippayutta
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.1 Paccayānuloma](/tipitaka/36P1/2/2.5/2.5.1.md) / [2.5.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1.md)
 
 # Āhārādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Vippayutta
 (208.)
 
 704. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā. (Imāni padāni hetupaccayasadisāni.)
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Vipaka.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Vippayutta.md)
 
 

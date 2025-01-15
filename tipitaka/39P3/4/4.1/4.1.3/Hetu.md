@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.1/4.1.3/Hetu
-ref: 261683
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.1 Āsavaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.1
-  - name: 4.1.3 Abyākatapada
-    link: /tipitaka/39P3/4/4.1/4.1.3
-prevL: /tipitaka/39P3/4/4.1/4.1.3
-upL: /tipitaka/39P3/4/4.1/4.1.3
-nextL: /tipitaka/39P3/4/4.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.1 Āsavaduka, Kusalattika](/tipitaka/39P3/4/4.1.md) / [4.1.3 Abyākatapada](/tipitaka/39P3/4/4.1/4.1.3.md)
 
 # Hetu
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/39P3/4/4.2
 1603. Āsavadukakusalattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/4/4.1/4.1.3.md) / [Go to parent page](/tipitaka/39P3/4/4.1/4.1.3.md) / [Go to next page](/tipitaka/39P3/4/4.2.md)
 
 

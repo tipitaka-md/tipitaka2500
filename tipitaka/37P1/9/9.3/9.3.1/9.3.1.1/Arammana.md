@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Arammana
-ref: 262899
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.3 Paccayavāra
-    link: /tipitaka/37P1/9/9.3
-  - name: 9.3.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.3/9.3.1
-  - name: 9.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1
-prevL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Hetu
-upL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1
-nextL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Adhipatyadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.3 Paccayavāra](/tipitaka/37P1/9/9.3.md) / [9.3.1 Paccayānuloma](/tipitaka/37P1/9/9.3/9.3.1.md) / [9.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1.md)
 
 # Ārammaṇa
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Adhipatyadi
 877. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati ārammaṇapaccayā—  dassanena pahātabbaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā…pe… . (1)
 
 878. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā bhāvanāya pahātabbo dhammo uppajjati ārammaṇapaccayā—  bhāvanāya pahātabbaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+
+[Go to previous page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Adhipatyadi.md)
 
 

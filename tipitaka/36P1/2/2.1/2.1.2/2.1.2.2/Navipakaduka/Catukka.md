@@ -1,26 +1,5 @@
----
-title:  Catukka
-path: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka/Catukka
-ref: 264423
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.1/2.1.2
-  - name: 2.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2
-  - name: Navipākaduka
-    link: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka
-prevL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka/Tika
-upL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka
-nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Naaharadukadi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.2 Paccayapaccanīya](/tipitaka/36P1/2/2.1/2.1.2.md) / [2.1.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2.md) / [Navipākaduka](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka.md)
 
 # Catukka
 
@@ -37,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Naaharadukadi
 ### Catukka
 
 269. Navipākapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Naaharadukadi.md)
 
 

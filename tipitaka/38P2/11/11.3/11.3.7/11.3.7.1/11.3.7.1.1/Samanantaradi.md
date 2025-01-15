@@ -1,26 +1,5 @@
----
-title:  Samanantarādi
-path: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Samanantaradi
-ref: 265477
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.3 Upādānasampayuttaduka
-    link: /tipitaka/38P2/11/11.3
-  - name: 11.3.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.3/11.3.7
-  - name: 11.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1
-  - name: 11.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-prevL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Anantara
-upL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Upanissaya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.3 Upādānasampayuttaduka](/tipitaka/38P2/11/11.3.md) / [11.3.7 Pañhāvāra](/tipitaka/38P2/11/11.3/11.3.7.md) / [11.3.7.1 Paccayānuloma](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md)
 
 # Samanantarādi
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Upanissaya
 (75.)
 
 3711. Upādānasampayutto dhammo upādānasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  (paṭiccasadisaṃ) nava…  aññamaññapaccayena paccayo…  (paṭiccasadisaṃ) cha…  nissayapaccayena paccayo…  (paccayavārasadisaṃ) nava.
+
+[Go to previous page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Anantara.md) / [Go to parent page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Upanissaya.md)
 
 

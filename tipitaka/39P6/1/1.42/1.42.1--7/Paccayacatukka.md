@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P6/1/1.42/1.42.1--7/Paccayacatukka
-ref: 262014
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/39P6
-  - name: 1 Hetuduka, Duka
-    link: /tipitaka/39P6/1
-  - name: 1.42 Cūḷantaraduka, Hetuduka
-    link: /tipitaka/39P6/1/1.42
-  - name: 1.42.1--7 Paṭiccādivāra
-    link: /tipitaka/39P6/1/1.42/1.42.1--7
-prevL: /tipitaka/39P6/1/1.42/1.42.1--7
-upL: /tipitaka/39P6/1/1.42/1.42.1--7
-nextL: /tipitaka/39P6/1/1.43
----
+
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.42 Cūḷantaraduka, Hetuduka](/tipitaka/39P6/1/1.42.md) / [1.42.1--7 Paṭiccādivāra](/tipitaka/39P6/1/1.42/1.42.1--7.md)
 
 # Paccayacatukka
 
@@ -87,5 +70,7 @@ nextL: /tipitaka/39P6/1/1.43
 230. Kenaci viññeyyaṃ hetuṃ dhammaṃ paṭicca…pe…  nakenaci viññeyyaṃ hetuṃ dhammaṃ paṭicca… . (Sabbattha nava.)
 
 231. Kenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca…pe…  nakenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca… . (Sabbattha nava.)
+
+[Go to previous page](/tipitaka/39P6/1/1.42/1.42.1--7.md) / [Go to parent page](/tipitaka/39P6/1/1.42/1.42.1--7.md) / [Go to next page](/tipitaka/39P6/1/1.43.md)
 
 

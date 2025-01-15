@@ -1,24 +1,5 @@
----
-title:  Nissaya
-path: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Nissaya
-ref: 262764
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.7 Pañhāvāra
-    link: /tipitaka/36P1/5/5.7
-  - name: 5.7.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.7/5.7.1
-  - name: 5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-prevL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Annamanna
-upL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Upanissaya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md)
 
 # Nissaya
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Upanissaya
 2651. Anupādinnupādāniyo ca anupādinnaanupādāniyo ca dhammā anupādinnupādāniyassa dhammassa nissayapaccayena paccayo—  anupādinnaanupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (1)
 
 2652. Upādinnupādāniyo ca anupādinnupādāniyo ca dhammā anupādinnupādāniyassa dhammassa nissayapaccayena paccayo—  upādinnupādāniyā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. Anupādinnupādāniyo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā ca vatthu ca dvinnaṃ khandhānaṃ nissayapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Annamanna.md) / [Go to parent page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Upanissaya.md)
 
 

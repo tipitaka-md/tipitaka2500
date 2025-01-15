@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.1--6/Paccayacatukka
-ref: 264302
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.7 Pītittika, Hetuduka
-    link: /tipitaka/39P4/1/1.7
-  - name: 1.7.1 Hetupada
-    link: /tipitaka/39P4/1/1.7/1.7.1
-  - name: 1.7.1.1--6 Paṭiccādivāra
-    link: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.1--6
-prevL: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.1--6
-upL: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.1--6
-nextL: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.7
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.7 Pītittika, Hetuduka](/tipitaka/39P4/1/1.7.md) / [1.7.1 Hetupada](/tipitaka/39P4/1/1.7/1.7.1.md) / [1.7.1.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.1--6.md)
 
 # Paccayacatukka
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/39P4/1/1.7/1.7.1/1.7.1.7
 349. Naadhipatiyā dasa, napurejāte dasa, napacchājāte dasa, naāsevane dasa, navipāke dasa, navippayutte dasa. (Saṃkhittaṃ.)
 
 350. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.1--6.md) / [Go to parent page](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.1--6.md) / [Go to next page](/tipitaka/39P4/1/1.7/1.7.1/1.7.1.7.md)
 
 

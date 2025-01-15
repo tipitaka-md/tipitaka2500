@@ -1,24 +1,5 @@
----
-title:  Napurejāta
-path: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Napurejata
-ref: 262815
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/7/7.1/7.1.2
-  - name: 7.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-prevL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naanantaradi
-upL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Napacchajatadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.2 Paccayapaccanīya](/tipitaka/37P1/7/7.1/7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md)
 
 # Napurejāta
 
@@ -63,5 +44,7 @@ nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Napacchajatadi
 166. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti…pe…  paṭisandhikkhaṇe…  (Saṃkhittaṃ.)
 
 167. (Napurejātamūlake yathā suddhikaṃ arūpaṃ, tathā arūpā kātabbā.)
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Naanantaradi.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Napacchajatadi.md)
 
 

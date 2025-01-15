@@ -1,24 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Purejata
-ref: 263313
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 21 Ajjhattattika
-    link: /tipitaka/37P1/21
-  - name: 21.7 Pañhāvāra
-    link: /tipitaka/37P1/21/21.7
-  - name: 21.7.1 Paccayānuloma
-    link: /tipitaka/37P1/21/21.7/21.7.1
-  - name: 21.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1
-prevL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Upanissaya
-upL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1
-nextL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Pacchajata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.7 Pañhāvāra](/tipitaka/37P1/21/21.7.md) / [21.7.1 Paccayānuloma](/tipitaka/37P1/21/21.7/21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md)
 
 # Purejāta
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Pacchajata
 2832. Ajjhatto ca bahiddhā ca dhammā ajjhattassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Bahiddhā rūpāyatanañca ajjhattaṃ cakkhāyatanañca ajjhattassa cakkhuviññāṇassa purejātapaccayena paccayo…pe…  bahiddhā phoṭṭhabbāyatanañca ajjhattaṃ kāyāyatanañca ajjhattassa kāyaviññāṇassa…pe…  bahiddhā rūpāyatanañca ajjhattaṃ vatthu ca…pe…  bahiddhā phoṭṭhabbāyatanañca ajjhattaṃ vatthu ca ajjhattānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
 2833. Ajjhatto ca bahiddhā ca dhammā bahiddhā dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Ajjhattaṃ rūpāyatanañca bahiddhā cakkhāyatanañca bahiddhā cakkhuviññāṇassa purejātapaccayena paccayo…pe…  ajjhattaṃ phoṭṭhabbāyatanañca bahiddhā kāyāyatanañca bahiddhā kāyaviññāṇassa purejātapaccayena paccayo. Ajjhattaṃ rūpāyatanañca bahiddhā vatthu ca…pe…  ajjhattaṃ phoṭṭhabbāyatanañca bahiddhā vatthu ca bahiddhā khandhānaṃ purejātapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Pacchajata.md)
 
 

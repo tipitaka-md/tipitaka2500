@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Nahetu
-ref: 262643
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/4/4.1/4.1.2
-  - name: 4.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-prevL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-upL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1
-nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naarammana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.2 Paccayapaccanīya](/tipitaka/36P1/4/4.1/4.1.2.md) / [4.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md)
 
 # Nahetu
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naarammana
 2098. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nahetupaccayā—  ahetuke vipāke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (2)
 
 2099. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā, vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to next page](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Naarammana.md)
 
 

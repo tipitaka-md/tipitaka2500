@@ -1,20 +1,5 @@
----
-title:  Hetu-anantara
-path: /tipitaka/40P24/22/22.2/Hetu-anantara
-ref: 259996
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/40P24
-  - name: 22 Saraṇaduka, Piṭṭhiduka
-    link: /tipitaka/40P24/22
-  - name: 22.2 Anuttarapada
-    link: /tipitaka/40P24/22/22.2
-prevL: /tipitaka/40P24/22/22.2
-upL: /tipitaka/40P24/22/22.2
-nextL: /tipitaka/40P24/22/22.2/Paccaniyuddhara
----
+
+[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](/tipitaka/40P24/22.md) / [22.2 Anuttarapada](/tipitaka/40P24/22/22.2.md)
 
 # Hetu-anantara
 
@@ -31,5 +16,7 @@ nextL: /tipitaka/40P24/22/22.2/Paccaniyuddhara
 (91.)
 
 194. Nasaraṇo naanuttaro dhammo araṇassa anuttarassa dhammassa anantarapaccayena paccayo. (Saṃkhittaṃ.) Anantare ekaṃ, samanantare ekaṃ, nissaye ekaṃ, upanissaye dve, purejāte ekaṃ, āsevane ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ.
+
+[Go to previous page](/tipitaka/40P24/22/22.2.md) / [Go to parent page](/tipitaka/40P24/22/22.2.md) / [Go to next page](/tipitaka/40P24/22/22.2/Paccaniyuddhara.md)
 
 

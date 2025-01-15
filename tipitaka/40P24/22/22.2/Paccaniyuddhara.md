@@ -1,19 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/40P24/22/22.2/Paccaniyuddhara
-ref: 259997
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/40P24
-  - name: 22 Saraṇaduka, Piṭṭhiduka
-    link: /tipitaka/40P24/22
-  - name: 22.2 Anuttarapada
-    link: /tipitaka/40P24/22/22.2
-prevL: /tipitaka/40P24/22/22.2/Hetu-anantara
-upL: /tipitaka/40P24/22/22.2
----
+
+[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](/tipitaka/40P24/22.md) / [22.2 Anuttarapada](/tipitaka/40P24/22/22.2.md)
 
 # Paccanīyuddhāra
 
@@ -54,5 +40,7 @@ upL: /tipitaka/40P24/22/22.2
 203. Paṭṭhānapakaraṇaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/40P24/22/22.2/Hetu-anantara.md) / [Go to parent page](/tipitaka/40P24/22/22.2.md)
 
 

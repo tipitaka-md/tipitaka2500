@@ -1,24 +1,5 @@
----
-title:  Nissaya
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Nissaya
-ref: 262833
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Annamanna
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Upanissaya
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Nissaya
 
@@ -73,5 +54,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Upanissaya
 425. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa dhammassa…pe…  avitakkaavicārassa dhammassa…pe…  savitakkasavicārassa ca avitakkaavicārassa ca dhammassa…pe…  tīṇi.
 
 426. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā savitakkasavicārassa dhammassa…pe…  avitakkaavicārassa dhammassa nissayapaccayena paccayo. (Dve vārā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Annamanna.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Upanissaya.md)
 
 

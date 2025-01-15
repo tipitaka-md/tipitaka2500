@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Adhipati
-ref: 265234
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.3 Cetasikaduka
-    link: /tipitaka/38P2/10/10.3
-  - name: 10.3.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.3/10.3.7
-  - name: 10.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1
-  - name: 10.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1
-prevL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Arammana
-upL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1
-nextL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Anantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.3 Cetasikaduka](/tipitaka/38P2/10/10.3.md) / [10.3.7 Pañhāvāra](/tipitaka/38P2/10/10.3/10.3.7.md) / [10.3.7.1 Paccayānuloma](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1.md) / [10.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md)
 
 # Adhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Anantaradi
 2619. Acetasiko dhammo cetasikassa ca acetasikassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā…pe…  nibbānaṃ…pe…  (paṭhamagamanaṃ) acetasike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā cetasikā khandhā ca cittañca uppajjanti. **Sahajātādhipati**—  acetasikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 2620. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi. (Ārammaṇādhipatiyeva.)
+
+[Go to previous page](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Anantaradi.md)
 
 

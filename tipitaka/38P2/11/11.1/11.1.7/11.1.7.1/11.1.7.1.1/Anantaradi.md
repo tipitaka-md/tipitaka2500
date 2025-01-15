@@ -1,26 +1,5 @@
----
-title:  Anantarādi
-path: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1/Anantaradi
-ref: 265451
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.1 Upādānaduka
-    link: /tipitaka/38P2/11/11.1
-  - name: 11.1.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.1/11.1.7
-  - name: 11.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1
-  - name: 11.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1
-prevL: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1/Adhipati
-upL: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1
-nextL: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1/Upanissaya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.1 Upādānaduka](/tipitaka/38P2/11/11.1.md) / [11.1.7 Pañhāvāra](/tipitaka/38P2/11/11.1/11.1.7.md) / [11.1.7.1 Paccayānuloma](/tipitaka/38P2/11/11.1/11.1.7/11.1.7.1.md) / [11.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1.md)
 
 # Anantarādi
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1/Upanissaya
 3588. Upādāno ca noupādāno ca dhammā upādānassa dhammassa anantarapaccayena paccayo—  purimā purimā upādānā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ upādānānaṃ anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā upādānā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ noupādānānaṃ khandhānaṃ anantarapaccayena paccayo; upādānā ca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā upādānā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ upādānānaṃ sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
 
 3589. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo (paṭiccasadisaṃ)…  aññamaññapaccayena paccayo (paṭiccasadisaṃ)…  nissayapaccayena paccayo. (Paccayasadisaṃ.)
+
+[Go to previous page](/tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1/Upanissaya.md)
 
 

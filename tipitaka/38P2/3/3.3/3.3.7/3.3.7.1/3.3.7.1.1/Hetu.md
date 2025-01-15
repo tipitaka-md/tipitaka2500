@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Hetu
-ref: 264914
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.3 Āsavasampayuttaduka
-    link: /tipitaka/38P2/3/3.3
-  - name: 3.3.7 Pañhāvāra
-    link: /tipitaka/38P2/3/3.3/3.3.7
-  - name: 3.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1
-  - name: 3.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1
-prevL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1
-upL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1
-nextL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.3 Āsavasampayuttaduka](/tipitaka/38P2/3/3.3.md) / [3.3.7 Pañhāvāra](/tipitaka/38P2/3/3.3/3.3.7.md) / [3.3.7.1 Paccayānuloma](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Arammana
 1178. Āsavasampayutto ca āsavavippayutto ca dhammā āsavavippayuttassa dhammassa hetupaccayena paccayo—  doso ca moho ca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 1179. Āsavasampayutto ca āsavavippayutto ca dhammā āsavasampayuttassa ca āsavavippayuttassa ca dhammassa hetupaccayena paccayo—  doso ca moho ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md) / [Go to parent page](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Arammana.md)
 
 

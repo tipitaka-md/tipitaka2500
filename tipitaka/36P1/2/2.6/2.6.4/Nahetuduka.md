@@ -1,22 +1,5 @@
----
-title:  Nahetuduka
-path: /tipitaka/36P1/2/2.6/2.6.4/Nahetuduka
-ref: 260574
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.6 Sampayuttavāra
-    link: /tipitaka/36P1/2/2.6
-  - name: 2.6.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/2/2.6/2.6.4
-prevL: /tipitaka/36P1/2/2.6/2.6.4
-upL: /tipitaka/36P1/2/2.6/2.6.4
-nextL: /tipitaka/36P1/2/2.7
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.6 Sampayuttavāra](/tipitaka/36P1/2/2.6.md) / [2.6.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.6/2.6.4.md)
 
 # Nahetuduka
 
@@ -42,5 +25,7 @@ Sampayuttavāro.
 
 
 831. (Saṃsaṭṭhattaṃ nāma sampayuttattaṃ, sampayuttattaṃ nāma saṃsaṭṭhattaṃ.)
+
+[Go to previous page](/tipitaka/36P1/2/2.6/2.6.4.md) / [Go to parent page](/tipitaka/36P1/2/2.6/2.6.4.md) / [Go to next page](/tipitaka/36P1/2/2.7.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Nahetuduka
-path: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.4/Nahetuduka
-ref: 263406
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/38P2/1/1.2/1.2.5
-  - name: 1.2.5.4 Paccayapaccanīyānuloma
-    link: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.4
-prevL: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.4
-upL: /tipitaka/38P2/1/1.2/1.2.5/1.2.5.4
-nextL: /tipitaka/38P2/1/1.2/1.2.6
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.5 Saṃsaṭṭhavāra](/tipitaka/38P2/1/1.2/1.2.5.md) / [1.2.5.4 Paccayapaccanīyānuloma](/tipitaka/38P2/1/1.2/1.2.5/1.2.5.4.md)
 
 # Nahetuduka
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.6
 255. Paccanīyānulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.5/1.2.5.4.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.5/1.2.5.4.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.6.md)
 
 

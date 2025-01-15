@@ -1,26 +1,5 @@
----
-title:  Napurejātādi
-path: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.1/Napurejatadi
-ref: 265705
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.13 Arūpāvacaraduka
-    link: /tipitaka/38P2/13/13.13
-  - name: 13.13.1 Paṭiccavāra
-    link: /tipitaka/38P2/13/13.13/13.13.1
-  - name: 13.13.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.2
-  - name: 13.13.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.1
-prevL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.1/Naadhipatyadi
-upL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.1
-nextL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.1 Paṭiccavāra](/tipitaka/38P2/13/13.13/13.13.1.md) / [13.13.1.2 Paccayapaccanīya](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.2.md) / [13.13.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.1.md)
 
 # Napurejātādi
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.2
 4661. Naarūpāvacaraṃ dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  naarūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (Yāva asaññasattā.) (1)
 
 4662. Arūpāvacarañca naarūpāvacarañca dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.1/Naadhipatyadi.md) / [Go to parent page](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.1.md) / [Go to next page](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.2/13.13.1.2.2.md)
 
 

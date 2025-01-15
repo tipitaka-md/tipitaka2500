@@ -1,24 +1,5 @@
----
-title:  Samanantara
-path: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Samanantara
-ref: 263077
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.7 Pañhāvāra
-    link: /tipitaka/37P1/12/12.7
-  - name: 12.7.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.7/12.7.1
-  - name: 12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-prevL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Anantara
-upL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Sahajatadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
 
 # Samanantara
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Sahajatadi
 (51.)
 
 1798. Sekkho dhammo sekkhassa dhammassa samanantarapaccayena paccayo…pe… . (Anantarasadisaṃ, aṭṭha pañhā.)
+
+[Go to previous page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Anantara.md) / [Go to parent page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Sahajatadi.md)
 
 

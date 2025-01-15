@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/13/13.5/13.5.7/Paccaniyuddhara
-ref: 261443
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.5 Savitakkaduka
-    link: /tipitaka/38P2/13/13.5
-  - name: 13.5.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.5/13.5.7
-prevL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2/Suddha
-upL: /tipitaka/38P2/13/13.5/13.5.7
-nextL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.7 Pañhāvāra](/tipitaka/38P2/13/13.5/13.5.7.md)
 
 # Paccanīyuddhāra
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.2
 (137.)
 
 4372. Savitakko ca avitakko ca dhammā savitakkassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. Savitakko ca avitakko ca dhammā avitakkassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. Savitakko ca avitakko ca dhammā savitakkassa ca avitakkassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/13/13.5/13.5.7.md) / [Go to next page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.2.md)
 
 

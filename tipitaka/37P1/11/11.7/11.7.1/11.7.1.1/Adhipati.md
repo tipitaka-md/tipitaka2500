@@ -1,24 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Adhipati
-ref: 263029
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-  - name: 11.7.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.7/11.7.1
-  - name: 11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Arammana
-upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Anantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md) / [11.7.1 Paccayānuloma](/tipitaka/37P1/11/11.7/11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Adhipati
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Anantara
 1580. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti…pe…  vatthuṃ…  nevācayagāmināpacayagāmī khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
 1581. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Anantara.md)
 
 

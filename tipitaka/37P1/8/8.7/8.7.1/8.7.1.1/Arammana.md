@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Arammana
-ref: 262860
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.7 Pañhāvāra
-    link: /tipitaka/37P1/8/8.7
-  - name: 8.7.1 Paccayānuloma
-    link: /tipitaka/37P1/8/8.7/8.7.1
-  - name: 8.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-prevL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Hetu
-upL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md) / [8.7.1 Paccayānuloma](/tipitaka/37P1/8/8.7/8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md)
 
 # Ārammaṇa
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Adhipati
 691. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa…pe…  sukhasahagatassa dhammassa…pe…  upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo—  pītisahagatena ca sukhasahagatena ca cittena dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā…pe…  pītisahagate ca sukhasahagate ca khandhe upekkhāsahagatena cittena aniccato dukkhato anattato vipassati assādeti abhinandati; taṃ ārabbha upekkhāsahagato rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati. Cetopariyañāṇena pītisahagatasukhasahagatacittasamaṅgissa cittaṃ jānāti. Pītisahagatā ca sukhasahagatā ca khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. Pītisahagate ca sukhasahagate ca khandhe ārabbha upekkhāsahagatā khandhā uppajjanti. (3)
 
 692. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.) (4)
+
+[Go to previous page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Adhipati.md)
 
 

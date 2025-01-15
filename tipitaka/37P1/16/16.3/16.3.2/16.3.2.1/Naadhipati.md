@@ -1,24 +1,5 @@
----
-title:  Naadhipati
-path: /tipitaka/37P1/16/16.3/16.3.2/16.3.2.1/Naadhipati
-ref: 263177
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 16 Micchattaniyatattika
-    link: /tipitaka/37P1/16
-  - name: 16.3 Paccayavāra
-    link: /tipitaka/37P1/16/16.3
-  - name: 16.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/16/16.3/16.3.2
-  - name: 16.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/16/16.3/16.3.2/16.3.2.1
-prevL: /tipitaka/37P1/16/16.3/16.3.2/16.3.2.1/Naarammana
-upL: /tipitaka/37P1/16/16.3/16.3.2/16.3.2.1
-nextL: /tipitaka/37P1/16/16.3/16.3.2/16.3.2.1/Naanantaradi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.3 Paccayavāra](/tipitaka/37P1/16/16.3.md) / [16.3.2 Paccayapaccanīya](/tipitaka/37P1/16/16.3/16.3.2.md) / [16.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.3/16.3.2/16.3.2.1.md)
 
 # Naadhipati
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/37P1/16/16.3/16.3.2/16.3.2.1/Naanantaradi
 2309. Micchattaniyatañca aniyatañca dhammaṃ paccayā micchattaniyato dhammo uppajjati naadhipatipaccayā—  micchattaniyate khandhe ca vatthuñca paccayā micchattaniyatādhipati. (1)
 
 2310. Sammattaniyatañca aniyatañca dhammaṃ paccayā sammattaniyato dhammo uppajjati naadhipatipaccayā—  sammattaniyate khandhe ca vatthuñca paccayā sammattaniyatādhipati. (1)
+
+[Go to previous page](/tipitaka/37P1/16/16.3/16.3.2/16.3.2.1/Naarammana.md) / [Go to parent page](/tipitaka/37P1/16/16.3/16.3.2/16.3.2.1.md) / [Go to next page](/tipitaka/37P1/16/16.3/16.3.2/16.3.2.1/Naanantaradi.md)
 
 

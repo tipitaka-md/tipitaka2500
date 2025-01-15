@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Atthi
-ref: 265048
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.3 Ganthasampayuttaduka
-    link: /tipitaka/38P2/5/5.3
-  - name: 5.3.7 Pañhāvāra
-    link: /tipitaka/38P2/5/5.3/5.3.7
-  - name: 5.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1
-  - name: 5.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1
-prevL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Vippayutta
-upL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1
-nextL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.7 Pañhāvāra](/tipitaka/38P2/5/5.3/5.3.7.md) / [5.3.7.1 Paccayānuloma](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1.md) / [5.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md)
 
 # Atthi
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.2
 1825. Ganthasampayutto ca ganthavippayutto ca dhammā ganthavippayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  ganthasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Sahajātā**—  diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Sahajātā**—  domanassasahagatā khandhā ca paṭighañca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; diṭṭhigatavippayuttalobhasahagatā khandhā ca vatthu ca lobhassa atthipaccayena paccayo; domanassasahagatā khandhā ca vatthu ca paṭighassa atthipaccayena paccayo. **Pacchājātā**—  diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  ganthasampayuttā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  ganthasampayuttā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 1826. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa ca ganthavippayuttassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  diṭṭhigatavippayuttalobhasahagato eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  domanassasahagato eko khandho ca paṭighañca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  diṭṭhigatavippayuttalobhasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ lobhassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  domanassasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ paṭighassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.2.md)
 
 

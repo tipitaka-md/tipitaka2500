@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/9/9.4/9.4.1--7/Paccayacatukka
-ref: 261736
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 9 Parāmāsagocchaka, Kusalattika
-    link: /tipitaka/39P3/9
-  - name: 9.4 Parāmāsaparāmaṭṭhaduka, Kusalattika
-    link: /tipitaka/39P3/9/9.4
-  - name: 9.4.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/9/9.4/9.4.1--7
-prevL: /tipitaka/39P3/9/9.4/9.4.1--7
-upL: /tipitaka/39P3/9/9.4/9.4.1--7
-nextL: /tipitaka/39P3/9/9.5
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [9 Parāmāsagocchaka, Kusalattika](/tipitaka/39P3/9.md) / [9.4 Parāmāsaparāmaṭṭhaduka, Kusalattika](/tipitaka/39P3/9/9.4.md) / [9.4.1--7 Paṭiccādivāra](/tipitaka/39P3/9/9.4/9.4.1--7.md)
 
 # Paccayacatukka
 
@@ -69,5 +52,7 @@ nextL: /tipitaka/39P3/9/9.5
 (30.)
 
 2009. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/9/9.4/9.4.1--7.md) / [Go to parent page](/tipitaka/39P3/9/9.4/9.4.1--7.md) / [Go to next page](/tipitaka/39P3/9/9.5.md)
 
 

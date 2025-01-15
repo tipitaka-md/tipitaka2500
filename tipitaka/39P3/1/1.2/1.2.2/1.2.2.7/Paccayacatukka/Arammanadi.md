@@ -1,26 +1,5 @@
----
-title:  Ārammaṇādi
-path: /tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Arammanadi
-ref: 265792
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.2 Hetuduka, Vedanāttika
-    link: /tipitaka/39P3/1/1.2
-  - name: 1.2.2 Dukkhāyavedanāyasampayuttapada
-    link: /tipitaka/39P3/1/1.2/1.2.2
-  - name: 1.2.2.7 Pañhāvāra
-    link: /tipitaka/39P3/1/1.2/1.2.2/1.2.2.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka
-prevL: /tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Hetu
-upL: /tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka
-nextL: /tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccaniyuddhara
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.2 Hetuduka, Vedanāttika](/tipitaka/39P3/1/1.2.md) / [1.2.2 Dukkhāyavedanāyasampayuttapada](/tipitaka/39P3/1/1.2/1.2.2.md) / [1.2.2.7 Pañhāvāra](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md)
 
 # Ārammaṇādi
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccaniyuddhara
 (91.)
 
 155. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā tīṇi, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Anulomaṃ.)
+
+[Go to previous page](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccaniyuddhara.md)
 
 

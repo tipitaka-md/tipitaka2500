@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Upanissaya
-ref: 263131
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.7 Pañhāvāra
-    link: /tipitaka/37P1/13/13.7
-  - name: 13.7.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.7/13.7.1
-  - name: 13.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-prevL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Nissaya
-upL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Purejata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.7 Pañhāvāra](/tipitaka/37P1/13/13.7.md) / [13.7.1 Paccayānuloma](/tipitaka/37P1/13/13.7/13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md)
 
 # Upanissaya
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Purejata
 2093. Appamāṇo dhammo parittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  appamāṇaṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…  vipassanaṃ uppādeti. Appamāṇaṃ sīlaṃ…pe…  paññaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ…  vipassanaṃ…  appamāṇā saddhā…pe…  paññā parittāya saddhāya…pe…  paññāya…pe…  kāyikassa sukhassa, kāyikassa dukkhassa upanissayapaccayena paccayo. Phalasamāpatti kāyikassa sukhassa upanissayapaccayena paccayo. Ariyā maggaṃ upanissāya saṅkhāre aniccato…pe…  vipassanti, maggo ariyānaṃ atthappaṭisambhidāya…pe…  paṭibhānappaṭisambhidāya…  ṭhānāṭhānakosallassa upanissayapaccayena paccayo. (2)
 
 2094. Appamāṇo dhammo mahaggatassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  appamāṇaṃ saddhaṃ upanissāya mahaggataṃ jhānaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti, appamāṇaṃ sīlaṃ…pe…  paññaṃ upanissāya mahaggataṃ jhānaṃ uppādeti, abhiññaṃ uppādeti, samāpattiṃ uppādeti. Appamāṇā saddhā…pe…  paññā mahaggatāya saddhāya…pe…  paññāya upanissayapaccayena paccayo, ariyā maggaṃ upanissāya anuppannaṃ samāpattiṃ uppādenti, uppannaṃ samāpajjanti. (3)
+
+[Go to previous page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Nissaya.md) / [Go to parent page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Purejata.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.2/4.2.3/Hetu
-ref: 261688
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.2 Sāsavaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.2
-  - name: 4.2.3 Abyākatapada
-    link: /tipitaka/39P3/4/4.2/4.2.3
-prevL: /tipitaka/39P3/4/4.2/4.2.3
-upL: /tipitaka/39P3/4/4.2/4.2.3
-nextL: /tipitaka/39P3/4/4.2/4.2.3/4.2.3.1--6
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.2 Sāsavaduka, Kusalattika](/tipitaka/39P3/4/4.2.md) / [4.2.3 Abyākatapada](/tipitaka/39P3/4/4.2/4.2.3.md)
 
 # Hetu
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/39P3/4/4.2/4.2.3/4.2.3.1--6
 1619. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā dve, napurejāte cattāri, napacchājāte naāsevane pañca, nakamme…pe…  namagge ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi. (Saṃkhittaṃ.)
 
 1620. (Sahajātavāropi…pe…  sampayuttavāropi sabbattha vitthāretabbo.)
+
+[Go to previous page](/tipitaka/39P3/4/4.2/4.2.3.md) / [Go to parent page](/tipitaka/39P3/4/4.2/4.2.3.md) / [Go to next page](/tipitaka/39P3/4/4.2/4.2.3/4.2.3.1--6.md)
 
 

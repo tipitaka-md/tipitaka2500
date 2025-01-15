@@ -1,27 +1,10 @@
----
-title: Paccayacatukka
-path: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/accayacatukka
-ref: 264190
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 3 Cūḷantaraduka, Kusalattika
-    link: /tipitaka/39P3/3
-  - name: 3.1 Sappaccayaduka, Kusalattika
-    link: /tipitaka/39P3/3/3.1
-  - name: 3.1.2 Abyākatapada
-    link: /tipitaka/39P3/3/3.1/3.1.2
-  - name: 3.1.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7
-prevL: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7
-nextL: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetvadi
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.1 Sappaccayaduka, Kusalattika](/tipitaka/39P3/3/3.1.md) / [3.1.2 Abyākatapada](/tipitaka/39P3/3/3.1/3.1.2.md) / [3.1.2.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7.md)
 
 # Paccayacatukka
 
-* [Hetvādi](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetvadi)
+* [Hetvādi](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetvadi.md)
+
+[Go to previous page](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7.md) / [Go to next page](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetvadi.md)
 
 

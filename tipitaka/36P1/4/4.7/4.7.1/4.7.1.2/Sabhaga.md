@@ -1,24 +1,5 @@
----
-title:  Sabhāga
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Sabhaga
-ref: 262710
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Suddha
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2
-nextL: /tipitaka/36P1/4/4.7/Paccaniyuddhara
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2.md)
 
 # Sabhāga
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/36P1/4/4.7/Paccaniyuddhara
 2407. Anulomaṃ
 
 
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2.md) / [Go to next page](/tipitaka/36P1/4/4.7/Paccaniyuddhara.md)
 
 

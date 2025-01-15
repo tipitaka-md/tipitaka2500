@@ -1,24 +1,5 @@
----
-title:  Pakiṇṇakaghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Pakinnakaghatana
-ref: 262511
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.7/2.7.3
-  - name: Atthi
-    link: /tipitaka/36P1/2/2.7/2.7.3/Atthi
-prevL: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Atthimissakaghatana
-upL: /tipitaka/36P1/2/2.7/2.7.3/Atthi
-nextL: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Sahajataghatana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Atthi](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md)
 
 # Pakiṇṇakaghaṭanā
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.3/Atthi/Sahajataghatana
 1679. Atthi ārammaṇa adhipati nissaya upanissaya purejāta vippayutta avigatanti nahetuyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
 
 1680. Atthi nissaya purejāta indriya vippayutta avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Atthi/Atthimissakaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Atthi/Sahajataghatana.md)
 
 

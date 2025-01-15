@@ -1,24 +1,5 @@
----
-title:  Navippayutta
-path: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Navippayutta
-ref: 262819
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/7/7.1/7.1.2
-  - name: 7.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-prevL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Navipakadi
-upL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1
-nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Nonatthi-novigata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.2 Paccayapaccanīya](/tipitaka/37P1/7/7.1/7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md)
 
 # Navippayutta
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Nonatthi-novigata
 189. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati navippayuttapaccayā—  arūpe avitakkavicāramattaṃ ekaṃ khandhañca vicārañca paṭicca tayo khandhā…pe…  dve khandhe ca vicārañca paṭicca dve khandhā. (1)
 
 190. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati navippayuttapaccayā—  arūpe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca paṭicca dve khandhā. (1)
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Navipakadi.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Nonatthi-novigata.md)
 
 

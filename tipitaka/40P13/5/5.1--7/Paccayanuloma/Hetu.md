@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/5/5.1--7/Paccayanuloma/Hetu
-ref: 262037
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 5 Saṃkiliṭṭhattika
-    link: /tipitaka/40P13/5
-  - name: 5.1--7 Paṭiccādivāra
-    link: /tipitaka/40P13/5/5.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P13/5/5.1--7/Paccayanuloma
-prevL: /tipitaka/40P13/5/5.1--7/Paccayanuloma
-upL: /tipitaka/40P13/5/5.1--7/Paccayanuloma
-nextL: /tipitaka/40P13/6
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [5 Saṃkiliṭṭhattika](/tipitaka/40P13/5.md) / [5.1--7 Paṭiccādivāra](/tipitaka/40P13/5/5.1--7.md) / [Paccayānuloma](/tipitaka/40P13/5/5.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/40P13/6
 (32.)
 
 68. Hetuyā terasa, ārammaṇe pannarasa, adhipatiyā pannarasa, anantare soḷasa…pe…  sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye sattarasa, purejāte cha, pacchājāte nava, āsevane aṭṭha, kamme terasa, vipāke aṭṭha, āhāre terasa…pe…  magge terasa, sampayutte nava, vippayutte dvādasa…pe…  avigate chabbīsa.
+
+[Go to previous page](/tipitaka/40P13/5/5.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P13/5/5.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P13/6.md)
 
 

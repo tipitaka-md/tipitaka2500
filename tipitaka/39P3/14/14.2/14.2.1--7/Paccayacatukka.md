@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/14/14.2/14.2.1--7/Paccayacatukka
-ref: 261788
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 14 Saraṇaduka, Tika
-    link: /tipitaka/39P3/14
-  - name: 14.2 Saraṇaduka, Vedanāttika
-    link: /tipitaka/39P3/14/14.2
-  - name: 14.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/14/14.2/14.2.1--7
-prevL: /tipitaka/39P3/14/14.2/14.2.1--7
-upL: /tipitaka/39P3/14/14.2/14.2.1--7
-nextL: /tipitaka/39P3/14/14.3
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [14 Saraṇaduka, Tika](/tipitaka/39P3/14.md) / [14.2 Saraṇaduka, Vedanāttika](/tipitaka/39P3/14/14.2.md) / [14.2.1--7 Paṭiccādivāra](/tipitaka/39P3/14/14.2/14.2.1--7.md)
 
 # Paccayacatukka
 
@@ -67,5 +50,7 @@ nextL: /tipitaka/39P3/14/14.3
 2618. Saraṇadukavedanāttikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/14/14.2/14.2.1--7.md) / [Go to parent page](/tipitaka/39P3/14/14.2/14.2.1--7.md) / [Go to next page](/tipitaka/39P3/14/14.3.md)
 
 

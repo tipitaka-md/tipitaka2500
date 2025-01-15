@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.1/Hetu
-ref: 265080
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.3 Nīvaraṇasampayuttaduka
-    link: /tipitaka/38P2/8/8.3
-  - name: 8.3.1 Paṭiccavāra
-    link: /tipitaka/38P2/8/8.3/8.3.1
-  - name: 8.3.1.1 Paccayānuloma
-    link: /tipitaka/38P2/8/8.3/8.3.1/8.3.1.1
-  - name: 8.3.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.1
-prevL: /tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.1
-upL: /tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.1
-nextL: /tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.3 Nīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.3.md) / [8.3.1 Paṭiccavāra](/tipitaka/38P2/8/8.3/8.3.1.md) / [8.3.1.1 Paccayānuloma](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.1.md) / [8.3.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.1.md)
 
 # Hetu
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.2
 1997. Nīvaraṇavippayuttaṃ dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva ajjhattikā mahābhūtā.) (1)
 
 1998. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.1.md) / [Go to parent page](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.1.md) / [Go to next page](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.1/8.3.1.1.2.md)
 
 

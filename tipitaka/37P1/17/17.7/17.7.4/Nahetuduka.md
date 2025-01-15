@@ -1,22 +1,5 @@
----
-title:  Nahetuduka
-path: /tipitaka/37P1/17/17.7/17.7.4/Nahetuduka
-ref: 260863
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.7 Pañhāvāra
-    link: /tipitaka/37P1/17/17.7
-  - name: 17.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/37P1/17/17.7/17.7.4
-prevL: /tipitaka/37P1/17/17.7/17.7.4
-upL: /tipitaka/37P1/17/17.7/17.7.4
-nextL: /tipitaka/37P1/18
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.7 Pañhāvāra](/tipitaka/37P1/17/17.7.md) / [17.7.4 Paccayapaccanīyānuloma](/tipitaka/37P1/17/17.7/17.7.4.md)
 
 # Nahetuduka
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/37P1/18
 2594. Maggārammaṇattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/17/17.7/17.7.4.md) / [Go to parent page](/tipitaka/37P1/17/17.7/17.7.4.md) / [Go to next page](/tipitaka/37P1/18.md)
 
 

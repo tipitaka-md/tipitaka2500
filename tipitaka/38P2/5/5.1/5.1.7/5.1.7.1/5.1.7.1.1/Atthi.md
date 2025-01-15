@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Atthi
-ref: 265020
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.1 Ganthaduka
-    link: /tipitaka/38P2/5/5.1
-  - name: 5.1.7 Pañhāvāra
-    link: /tipitaka/38P2/5/5.1/5.1.7
-  - name: 5.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1
-  - name: 5.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1
-prevL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Vippayutta
-upL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1
-nextL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.1 Ganthaduka](/tipitaka/38P2/5/5.1.md) / [5.1.7 Pañhāvāra](/tipitaka/38P2/5/5.1/5.1.7.md) / [5.1.7.1 Paccayānuloma](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1.md) / [5.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1.md)
 
 # Atthi
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.2
 1699. Gantho ca nogantho ca dhammā noganthassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  nogantho eko khandho ca gantho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajātā**—  ganthā ca vatthu ca noganthānaṃ khandhānaṃ atthipaccayena paccayo. **Sahajātā**—  ganthā ca mahābhūtā ca cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  ganthā ca sampayuttakā ca khandhā purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  ganthā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  ganthā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 1700. Gantho ca nogantho ca dhammā ganthassa ca noganthassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nogantho eko khandho ca sīlabbataparāmāso kāyagantho ca tiṇṇannaṃ khandhānaṃ abhijjhākāyaganthassa ca cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… . **Sahajāto**—  sīlabbataparāmāso kāyagantho ca vatthu ca abhijjhākāyaganthassa ca sampayuttakānañca khandhānaṃ atthipaccayena paccayo. (Cakkaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.2.md)
 
 

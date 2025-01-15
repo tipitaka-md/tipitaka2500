@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Adhipati
-ref: 264830
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.5 Rūpīduka
-    link: /tipitaka/38P2/2/2.5
-  - name: 2.5.7 Pañhāvāra
-    link: /tipitaka/38P2/2/2.5/2.5.7
-  - name: 2.5.7.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1
-  - name: 2.5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1
-prevL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Arammana
-upL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1
-nextL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Anantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md)
 
 # Adhipati
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Anantaradi
 807. Arūpī dhammo rūpissa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  arūpī adhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
 
 808. Arūpī dhammo rūpissa ca arūpissa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  arūpī adhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Anantaradi.md)
 
 

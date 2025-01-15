@@ -1,24 +1,5 @@
----
-title:  Tika
-path: /tipitaka/36P1/4/4.1/4.1.3/Hetuduka/Tika
-ref: 262660
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/4/4.1/4.1.3
-  - name: Hetuduka
-    link: /tipitaka/36P1/4/4.1/4.1.3/Hetuduka
-prevL: /tipitaka/36P1/4/4.1/4.1.3/Hetuduka
-upL: /tipitaka/36P1/4/4.1/4.1.3/Hetuduka
-nextL: /tipitaka/36P1/4/4.1/4.1.3/Hetuduka/Catukka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/4/4.1/4.1.3.md) / [Hetuduka](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka.md)
 
 # Tika
 
@@ -33,5 +14,7 @@ nextL: /tipitaka/36P1/4/4.1/4.1.3/Hetuduka/Catukka
 ### Tika
 
 2149. Hetupaccayā ārammaṇapaccayā naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme dve, navipāke dve, navippayutte tīṇi.
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka.md) / [Go to next page](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka/Catukka.md)
 
 

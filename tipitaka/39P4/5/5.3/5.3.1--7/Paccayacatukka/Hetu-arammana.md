@@ -1,24 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka/Hetu-arammana
-ref: 264380
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 5 Kusalattika, Mahantaradukaupādānagocchaka
-    link: /tipitaka/39P4/5
-  - name: 5.3 Kusalattika, Cetasikaduka
-    link: /tipitaka/39P4/5/5.3
-  - name: 5.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/5/5.3/5.3.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka
-prevL: /tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka
-upL: /tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka
-nextL: /tipitaka/39P4/5/5.4
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](/tipitaka/39P4/5.md) / [5.3 Kusalattika, Cetasikaduka](/tipitaka/39P4/5/5.3.md) / [5.3.1--7 Paṭiccādivāra](/tipitaka/39P4/5/5.3/5.3.1--7.md) / [Paccayacatukka](/tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -71,5 +52,7 @@ nextL: /tipitaka/39P4/5/5.4
 1380. Nahetuyā ekaṃ, naārammaṇe pañca, novigate pañca.
 
 1381. (Sahajātavārampi…pe…  pañhāvārampi evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/5/5.3/5.3.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/5/5.4.md)
 
 

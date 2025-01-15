@@ -1,24 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Kamma
-ref: 262209
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.3/2.3.1
-  - name: 2.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-prevL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Asevana
-upL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Vipaka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md)
 
 # Kamma
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Vipaka
 476. Kusalañca abyākatañca dhammaṃ paccayā kusalo dhammo…pe…  abyākato dhammo…pe…  kusalo ca abyākato ca dhammā uppajjanti kammapaccayā…pe… .
 
 477. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo…pe…  abyākato dhammo…pe…  akusalo ca abyākato ca dhammā uppajjanti kammapaccayā, akusalaṃ ekaṃ khandhañca vatthuñca paccayā…pe…  akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Asevana.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Vipaka.md)
 
 

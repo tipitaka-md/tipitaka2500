@@ -1,26 +1,5 @@
----
-title:  Adhipatimissakaghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Adhipatimissakaghatana
-ref: 264466
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2
-  - name: Adhipati
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Adhipatisabhaga
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Pakinnakaghatana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Adhipati](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati.md)
 
 # Adhipatimissakaghaṭanā
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Pakinnakaghatana
 (311.)
 
 1020. Adhipati atthi avigatanti aṭṭha. Adhipati nissaya atthi avigatanti aṭṭha. Adhipati nissaya vippayutta atthi avigatanti cattāri.
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Adhipatisabhaga.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Pakinnakaghatana.md)
 
 

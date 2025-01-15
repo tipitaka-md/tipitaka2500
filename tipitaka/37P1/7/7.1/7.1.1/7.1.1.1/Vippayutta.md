@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Vippayutta
-ref: 262807
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.1/7.1.1
-  - name: 7.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1
-prevL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Arammana
-upL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1
-nextL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Atthi-avigata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.1 Paccayānuloma](/tipitaka/37P1/7/7.1/7.1.1.md) / [7.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1.md)
 
 # Vippayutta
 
@@ -119,5 +100,7 @@ nextL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Atthi-avigata
 96. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati…pe…  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Khandhe ca vitakkañca vippayuttapaccayā. Paṭisandhikkhaṇe…pe…  khandhe ca vitakkañca vippayuttapaccayā. (2)
 
 97. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti vippayuttapaccayā—  paṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. Khandhā vatthuṃ vippayuttapaccayā. Kaṭattārūpaṃ khandhe ca vitakkañca vippayuttapaccayā. (3)
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Atthi-avigata.md)
 
 

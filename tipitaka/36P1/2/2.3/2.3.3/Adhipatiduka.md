@@ -1,22 +1,5 @@
----
-title:  Adhipatiduka
-path: /tipitaka/36P1/2/2.3/2.3.3/Adhipatiduka
-ref: 260507
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.3/2.3.3
-prevL: /tipitaka/36P1/2/2.3/2.3.3/Arammanaduka/Tika
-upL: /tipitaka/36P1/2/2.3/2.3.3
-nextL: /tipitaka/36P1/2/2.3/2.3.3/Sahajataduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.3/2.3.3.md)
 
 # Adhipatiduka
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.3/Sahajataduka
 588. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.3/Arammanaduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.3.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.3/Sahajataduka.md)
 
 

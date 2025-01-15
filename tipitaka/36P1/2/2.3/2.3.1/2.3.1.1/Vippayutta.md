@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Vippayutta
-ref: 262215
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.3/2.3.1
-  - name: 2.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-prevL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Sampayutta
-upL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Atthyadi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md)
 
 # Vippayutta
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Atthyadi
 494. Kusalañca abyākatañca dhammaṃ paccayā kusalo dhammo uppajjati vippayuttapaccayā—  kusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā, vatthuṃ vippayuttapaccayā. Kusalañca abyākatañca dhammaṃ paccayā abyākato dhammo uppajjati vippayuttapaccayā—  kusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhe vippayuttapaccayā. Kusalañca abyākatañca dhammaṃ paccayā kusalo ca abyākato ca dhammā uppajjanti vippayuttapaccayā—  kusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā, kusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhā vatthuṃ vippayuttapaccayā, cittasamuṭṭhānaṃ rūpaṃ khandhe vippayuttapaccayā. (3)
 
 495. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati vippayuttapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vatthuṃ vippayuttapaccayā. Akusalañca abyākatañca dhammaṃ paccayā abyākato dhammo uppajjati vippayuttapaccayā—  akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhe vippayuttapaccayā. Akusalañca abyākatañca dhammaṃ paccayā akusalo ca abyākato ca dhammā uppajjanti vippayuttapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā, akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhā vatthuṃ vippayuttapaccayā, cittasamuṭṭhānaṃ rūpaṃ khandhe vippayuttapaccayā. (3)
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Sampayutta.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Atthyadi.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Kammādi
-path: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Kammadi
-ref: 263058
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.3 Paccayavāra
-    link: /tipitaka/37P1/12/12.3
-  - name: 12.3.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.3/12.3.1
-  - name: 12.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1
-prevL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Adhipatyadi
-upL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.1
-nextL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.3 Paccayavāra](/tipitaka/37P1/12/12.3.md) / [12.3.1 Paccayānuloma](/tipitaka/37P1/12/12.3/12.3.1.md) / [12.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1.md)
 
 # Kammādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/12/12.3/12.3.1/12.3.1.2
 (23.)
 
 1726. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati kammapaccayā…  vipākapaccayā—  vipākaṃ sekkhaṃ ekaṃ khandhaṃ…pe…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+
+[Go to previous page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1/Adhipatyadi.md) / [Go to parent page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.3/12.3.1/12.3.1.2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Āhāra
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Ahara
-ref: 262382
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Vipaka
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Indriya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
 
 # Āhāra
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Indriya
 955. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa āhārapaccayena paccayo—  akusalā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. (3)
 
 956. Abyākato dhammo abyākatassa dhammassa āhārapaccayena paccayo—  vipākābyākatā kiriyābyākatā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatā āhārā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ āhārapaccayena paccayo. **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Vipaka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Indriya.md)
 
 

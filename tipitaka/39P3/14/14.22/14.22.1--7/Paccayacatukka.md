@@ -1,21 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/14/14.22/14.22.1--7/Paccayacatukka
-ref: 261808
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 14 Saraṇaduka, Tika
-    link: /tipitaka/39P3/14
-  - name: 14.22 Saraṇaduka, Sanidassanattika
-    link: /tipitaka/39P3/14/14.22
-  - name: 14.22.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/14/14.22/14.22.1--7
-prevL: /tipitaka/39P3/14/14.22/14.22.1--7
-upL: /tipitaka/39P3/14/14.22/14.22.1--7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [14 Saraṇaduka, Tika](/tipitaka/39P3/14.md) / [14.22 Saraṇaduka, Sanidassanattika](/tipitaka/39P3/14/14.22.md) / [14.22.1--7 Paṭiccādivāra](/tipitaka/39P3/14/14.22/14.22.1--7.md)
 
 # Paccayacatukka
 
@@ -62,5 +46,7 @@ upL: /tipitaka/39P3/14/14.22/14.22.1--7
 2766. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
 
 2767. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/14/14.22/14.22.1--7.md) / [Go to parent page](/tipitaka/39P3/14/14.22/14.22.1--7.md)
 
 

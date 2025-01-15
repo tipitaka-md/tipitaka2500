@@ -1,26 +1,5 @@
----
-title:  Nahetvādi
-path: /tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6/Paccayacatukka/Nahetvadi
-ref: 265810
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.4 Hetuduka, Upādinnattika
-    link: /tipitaka/39P3/1/1.4
-  - name: 1.4.1 Upādinnupādāniyapada
-    link: /tipitaka/39P3/1/1.4/1.4.1
-  - name: 1.4.1.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6/Paccayacatukka
-prevL: /tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6/Paccayacatukka/Hetu
-upL: /tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6/Paccayacatukka
-nextL: /tipitaka/39P3/1/1.4/1.4.1/1.4.1.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.4 Hetuduka, Upādinnattika](/tipitaka/39P3/1/1.4.md) / [1.4.1 Upādinnupādāniyapada](/tipitaka/39P3/1/1.4/1.4.1.md) / [1.4.1.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6/Paccayacatukka.md)
 
 # Nahetvādi
 
@@ -65,5 +44,7 @@ nextL: /tipitaka/39P3/1/1.4/1.4.1/1.4.1.7
 281. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 282. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/1/1.4/1.4.1/1.4.1.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.4/1.4.1/1.4.1.7.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Adhipati
-ref: 262689
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Arammana
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Anantara
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Adhipati
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Anantara
 2297. Nevavipākanavipākadhammadhammo vipākassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ phalassa adhipatipaccayena paccayo. (2)
 
 2298. Nevavipākanavipākadhammadhammo vipākadhammadhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…pe…  nevavipākanavipākadhammadhamme khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Anantara.md)
 
 

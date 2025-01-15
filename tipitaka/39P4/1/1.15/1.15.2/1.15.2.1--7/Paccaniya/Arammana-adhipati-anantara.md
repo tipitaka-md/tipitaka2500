@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa-adhipati-anantara
-path: /tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7/Paccaniya/Arammana-adhipati-anantara
-ref: 266080
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.15 Micchattaniyatattika, Hetuduka
-    link: /tipitaka/39P4/1/1.15
-  - name: 1.15.2 Nahetupada
-    link: /tipitaka/39P4/1/1.15/1.15.2
-  - name: 1.15.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7
-  - name: Paccanīya
-    link: /tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7/Paccaniya
-prevL: /tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7/Paccaniya/Nahetu
-upL: /tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7/Paccaniya
-nextL: /tipitaka/39P4/1/1.16
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.15 Micchattaniyatattika, Hetuduka](/tipitaka/39P4/1/1.15.md) / [1.15.2 Nahetupada](/tipitaka/39P4/1/1.15/1.15.2.md) / [1.15.2.1--7 Paṭiccādivāra](/tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7.md) / [Paccanīya](/tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7/Paccaniya.md)
 
 # Ārammaṇa-adhipati-anantara
 
@@ -69,5 +48,7 @@ nextL: /tipitaka/39P4/1/1.16
 716. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
 
 717. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7/Paccaniya/Nahetu.md) / [Go to parent page](/tipitaka/39P4/1/1.15/1.15.2/1.15.2.1--7/Paccaniya.md) / [Go to next page](/tipitaka/39P4/1/1.16.md)
 
 

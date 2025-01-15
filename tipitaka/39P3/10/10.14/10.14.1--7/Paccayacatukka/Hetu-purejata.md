@@ -1,24 +1,5 @@
----
-title:  Hetu-purejāta
-path: /tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka/Hetu-purejata
-ref: 264266
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.14 Upādinnaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.14
-  - name: 10.14.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/10/10.14/10.14.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/11
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.14 Upādinnaduka, Kusalattika](/tipitaka/39P3/10/10.14.md) / [10.14.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.14/10.14.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka.md)
 
 # Hetu-purejāta
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/39P3/11
 2239. Mahantaradukakusalattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/11.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1/Adhipati
-ref: 265490
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.4 Upādānaupādāniyaduka
-    link: /tipitaka/38P2/11/11.4
-  - name: 11.4.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.4/11.4.7
-  - name: 11.4.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4
-  - name: 11.4.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1
-prevL: /tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1/Arammana
-upL: /tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1
-nextL: /tipitaka/38P2/11/11.5
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.4 Upādānaupādāniyaduka](/tipitaka/38P2/11/11.4.md) / [11.4.7 Pañhāvāra](/tipitaka/38P2/11/11.4/11.4.7.md) / [11.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4.md) / [11.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1.md)
 
 # Adhipati
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/11/11.5
 3776. Upādānaupādāniyadukaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/11/11.5.md)
 
 

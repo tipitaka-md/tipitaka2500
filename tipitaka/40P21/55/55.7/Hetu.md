@@ -1,19 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P21/55/55.7/Hetu
-ref: 259993
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P21
-  - name: 55 Piṭṭhiduka, Sanidassanattika
-    link: /tipitaka/40P21/55
-  - name: 55.7 Pañhāvāra
-    link: /tipitaka/40P21/55/55.7
-prevL: /tipitaka/40P21/55/55.7
-upL: /tipitaka/40P21/55/55.7
----
+
+[Home](/) / [40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P21.md) / [55 Piṭṭhiduka, Sanidassanattika](/tipitaka/40P21/55.md) / [55.7 Pañhāvāra](/tipitaka/40P21/55/55.7.md)
 
 # Hetu
 
@@ -30,5 +16,7 @@ upL: /tipitaka/40P21/55/55.7
 359. Hetuyā dve, adhipatiyā dve…pe…  sahajāte nissaye tīṇi, pacchājāte kamme dve, vipāke ekaṃ, āhāre indriye jhāne magge vippayutte dve…pe…  avigate tīṇi.
 
 360. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/40P21/55/55.7.md) / [Go to parent page](/tipitaka/40P21/55/55.7.md)
 
 

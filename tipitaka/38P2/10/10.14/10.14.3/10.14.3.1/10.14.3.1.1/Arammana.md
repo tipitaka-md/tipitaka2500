@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1/Arammana
-ref: 265421
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.14 Upādinnaduka
-    link: /tipitaka/38P2/10/10.14
-  - name: 10.14.3 Paccayavāra
-    link: /tipitaka/38P2/10/10.14/10.14.3
-  - name: 10.14.3.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.14/10.14.3/10.14.3.1
-  - name: 10.14.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1
-prevL: /tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1/Hetu
-upL: /tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1
-nextL: /tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1/Adhipati
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.14 Upādinnaduka](/tipitaka/38P2/10/10.14.md) / [10.14.3 Paccayavāra](/tipitaka/38P2/10/10.14/10.14.3.md) / [10.14.3.1 Paccayānuloma](/tipitaka/38P2/10/10.14/10.14.3/10.14.3.1.md) / [10.14.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1.md)
 
 # Ārammaṇa
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1/Adhipati
 3420. Anupādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati ārammaṇapaccayā—  anupādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 3421. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati ārammaṇapaccayā—  anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+
+[Go to previous page](/tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.14/10.14.3/10.14.3.1/10.14.3.1.1/Adhipati.md)
 
 

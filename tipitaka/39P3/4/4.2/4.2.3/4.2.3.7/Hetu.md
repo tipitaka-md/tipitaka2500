@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.2/4.2.3/4.2.3.7/Hetu
-ref: 264211
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.2 Sāsavaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.2
-  - name: 4.2.3 Abyākatapada
-    link: /tipitaka/39P3/4/4.2/4.2.3
-  - name: 4.2.3.7 Pañhāvāra
-    link: /tipitaka/39P3/4/4.2/4.2.3/4.2.3.7
-prevL: /tipitaka/39P3/4/4.2/4.2.3/4.2.3.7
-upL: /tipitaka/39P3/4/4.2/4.2.3/4.2.3.7
-nextL: /tipitaka/39P3/4/4.3
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.2 Sāsavaduka, Kusalattika](/tipitaka/39P3/4/4.2.md) / [4.2.3 Abyākatapada](/tipitaka/39P3/4/4.2/4.2.3.md) / [4.2.3.7 Pañhāvāra](/tipitaka/39P3/4/4.2/4.2.3/4.2.3.7.md)
 
 # Hetu
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/39P3/4/4.3
 1625. Sāsavadukakusalattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/4/4.2/4.2.3/4.2.3.7.md) / [Go to parent page](/tipitaka/39P3/4/4.2/4.2.3/4.2.3.7.md) / [Go to next page](/tipitaka/39P3/4/4.3.md)
 
 

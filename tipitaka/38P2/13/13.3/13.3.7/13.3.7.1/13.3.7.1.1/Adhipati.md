@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Adhipati
-ref: 265601
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.3 Dassanenapahātabbahetukaduka
-    link: /tipitaka/38P2/13/13.3
-  - name: 13.3.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.3/13.3.7
-  - name: 13.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1
-  - name: 13.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1
-prevL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Arammana
-upL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1
-nextL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.3 Dassanenapahātabbahetukaduka](/tipitaka/38P2/13/13.3.md) / [13.3.7 Pañhāvāra](/tipitaka/38P2/13/13.3/13.3.7.md) / [13.3.7.1 Paccayānuloma](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1.md) / [13.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1.md)
 
 # Adhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Anantara
 4234. Nadassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā nadassanena pahātabbahetuko rāgo uppajjati, pubbe suciṇṇāni…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā…pe…  phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ nadassanena pahātabbahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā nadassanena pahātabbahetuko rāgo uppajjati. **Sahajātādhipati**—  nadassanena pahātabbahetukādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
 
 4235. Nadassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nadassanena pahātabbahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbahetuko rāgo uppajjati, diṭṭhi uppajjati. (2)
+
+[Go to previous page](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Anantara.md)
 
 

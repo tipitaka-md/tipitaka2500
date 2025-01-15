@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Hetu
-ref: 263007
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.3 Paccayavāra
-    link: /tipitaka/37P1/11/11.3
-  - name: 11.3.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.3/11.3.1
-  - name: 11.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1
-prevL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1
-upL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1
-nextL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.3 Paccayavāra](/tipitaka/37P1/11/11.3.md) / [11.3.1 Paccayānuloma](/tipitaka/37P1/11/11.3/11.3.1.md) / [11.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md)
 
 # Hetu
 
@@ -63,5 +44,7 @@ nextL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Arammana
 1482. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā ācayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti hetupaccayā—  ācayagāmiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  ācayagāmī khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
 1483. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo…  tīṇi.
+
+[Go to previous page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md) / [Go to parent page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Arammana.md)
 
 

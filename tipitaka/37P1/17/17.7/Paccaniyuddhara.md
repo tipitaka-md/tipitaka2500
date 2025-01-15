@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/17/17.7/Paccaniyuddhara
-ref: 259135
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.7 Pañhāvāra
-    link: /tipitaka/37P1/17/17.7
-prevL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.2/Suddha
-upL: /tipitaka/37P1/17/17.7
-nextL: /tipitaka/37P1/17/17.7/17.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.7 Pañhāvāra](/tipitaka/37P1/17/17.7.md)
 
 # Paccanīyuddhāra
 
@@ -75,5 +60,7 @@ nextL: /tipitaka/37P1/17/17.7/17.7.2
 2586. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa upanissayapaccayena paccayo. (4)
 
 2587. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (5)
+
+[Go to previous page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/17/17.7.md) / [Go to next page](/tipitaka/37P1/17/17.7/17.7.2.md)
 
 

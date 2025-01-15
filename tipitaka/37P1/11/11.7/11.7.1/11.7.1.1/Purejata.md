@@ -1,24 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Purejata
-ref: 263033
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-  - name: 11.7.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.7/11.7.1
-  - name: 11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Upanissaya
-upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Pacchajata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md) / [11.7.1 Paccayānuloma](/tipitaka/37P1/11/11.7/11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Purejāta
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Pacchajata
 1599. Nevācayagāmināpacayagāmī dhammo ācayagāmissa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  sekkhā vā puthujjanā vā cakkhuṃ…pe…  vatthuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. **Vatthupurejātaṃ**—  vatthu ācayagāmīnaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 1600. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu apacayagāmīnaṃ khandhānaṃ purejātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Pacchajata.md)
 
 

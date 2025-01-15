@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.2/10.2.7.2.1/Suddha
-ref: 265216
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.2 Cittaduka
-    link: /tipitaka/38P2/10/10.2
-  - name: 10.2.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.2/10.2.7
-  - name: 10.2.7.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.2
-  - name: 10.2.7.2.1 Saṅkhyāvāra
-    link: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.2/10.2.7.2.1
-prevL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.2/10.2.7.2.1
-upL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.2/10.2.7.2.1
-nextL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.2 Cittaduka](/tipitaka/38P2/10/10.2.md) / [10.2.7 Pañhāvāra](/tipitaka/38P2/10/10.2/10.2.7.md) / [10.2.7.2 Paccayapaccanīya](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.2.md) / [10.2.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.2/10.2.7.2.1.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/10/10.2/10.2.7/10.2.7.3
 (89.)
 
 2538. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
+
+[Go to previous page](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.2/10.2.7.2.1.md) / [Go to parent page](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.2/10.2.7.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.3.md)
 
 

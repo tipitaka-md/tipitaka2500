@@ -1,24 +1,5 @@
----
-title:  Sattaka
-path: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Sattaka
-ref: 262589
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.1 Paṭiccavāra
-    link: /tipitaka/36P1/3/3.1
-  - name: 3.1.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/3/3.1/3.1.4
-  - name: Nahetuduka
-    link: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka
-prevL: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Catukka
-upL: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka
-nextL: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Dasaka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/3/3.1/3.1.4.md) / [Nahetuduka](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka.md)
 
 # Sattaka
 
@@ -33,5 +14,7 @@ nextL: /tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Dasaka
 ### Sattaka
 
 1862. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, sampayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
+
+[Go to previous page](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Catukka.md) / [Go to parent page](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka.md) / [Go to next page](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Dasaka.md)
 
 

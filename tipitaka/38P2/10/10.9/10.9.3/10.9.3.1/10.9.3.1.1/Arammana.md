@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.1/Arammana
-ref: 265325
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka
-    link: /tipitaka/38P2/10/10.9
-  - name: 10.9.3 Paccayavāra
-    link: /tipitaka/38P2/10/10.9/10.9.3
-  - name: 10.9.3.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.9/10.9.3/10.9.3.1
-  - name: 10.9.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.1
-prevL: /tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.1/Hetu
-upL: /tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.1
-nextL: /tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](/tipitaka/38P2/10/10.9.md) / [10.9.3 Paccayavāra](/tipitaka/38P2/10/10.9/10.9.3.md) / [10.9.3.1 Paccayānuloma](/tipitaka/38P2/10/10.9/10.9.3/10.9.3.1.md) / [10.9.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.1.md)
 
 # Ārammaṇa
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.2
 3041. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paccayā nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe…  cittasaṃsaṭṭhasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe ekaṃ kātabbaṃ.) (2)
 
 3042. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paccayā cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā—  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe… . (Paṭisandhikkhaṇe ekaṃ kātabbaṃ, saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.9/10.9.3/10.9.3.1/10.9.3.1.2.md)
 
 

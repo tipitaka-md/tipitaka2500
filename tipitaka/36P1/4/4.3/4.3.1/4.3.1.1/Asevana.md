@@ -1,24 +1,5 @@
----
-title:  Āsevana
-path: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Asevana
-ref: 262673
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.3 Paccayavāra
-    link: /tipitaka/36P1/4/4.3
-  - name: 4.3.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.3/4.3.1
-  - name: 4.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1
-prevL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Upanissaya-purejata
-upL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1
-nextL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Kamma
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.1 Paccayānuloma](/tipitaka/36P1/4/4.3/4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md)
 
 # Āsevana
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Kamma
 2216. Nevavipākanavipākadhammadhammaṃ paccayā vipākadhammadhammo uppajjati āsevanapaccayā—  vatthuṃ paccayā vipākadhammadhammā khandhā. (2)
 
 2217. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati āsevanapaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā, tayo khandhe ca vatthuñca paccayā eko khandho, dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+
+[Go to previous page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Upanissaya-purejata.md) / [Go to parent page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Kamma.md)
 
 

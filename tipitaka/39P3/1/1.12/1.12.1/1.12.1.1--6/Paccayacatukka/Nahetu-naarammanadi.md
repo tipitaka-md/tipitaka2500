@@ -1,26 +1,5 @@
----
-title:  Nahetu-naārammaṇādi
-path: /tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6/Paccayacatukka/Nahetu-naarammanadi
-ref: 265882
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.12 Hetuduka, Parittattika
-    link: /tipitaka/39P3/1/1.12
-  - name: 1.12.1 Parittapada
-    link: /tipitaka/39P3/1/1.12/1.12.1
-  - name: 1.12.1.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6/Paccayacatukka
-prevL: /tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6/Paccayacatukka/Hetu
-upL: /tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6/Paccayacatukka
-nextL: /tipitaka/39P3/1/1.12/1.12.1/1.12.1.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.12 Hetuduka, Parittattika](/tipitaka/39P3/1/1.12.md) / [1.12.1 Parittapada](/tipitaka/39P3/1/1.12/1.12.1.md) / [1.12.1.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6/Paccayacatukka.md)
 
 # Nahetu-naārammaṇādi
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/39P3/1/1.12/1.12.1/1.12.1.7
 762. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
 763. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P3/1/1.12/1.12.1/1.12.1.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.12/1.12.1/1.12.1.7.md)
 
 

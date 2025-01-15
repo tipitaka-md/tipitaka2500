@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/5/5.5/5.5.1--7/Paccayacatukka/Hetu
-ref: 264232
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 5 Saññojanagocchaka, Kusalattika
-    link: /tipitaka/39P3/5
-  - name: 5.5 Saññojanasaññojanasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/5/5.5
-  - name: 5.5.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/5/5.5/5.5.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/5/5.5/5.5.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/5/5.5/5.5.1--7/Paccayacatukka
-upL: /tipitaka/39P3/5/5.5/5.5.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/5/5.6
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.5 Saññojanasaññojanasampayuttaduka, Kusalattika](/tipitaka/39P3/5/5.5.md) / [5.5.1--7 Paṭiccādivāra](/tipitaka/39P3/5/5.5/5.5.1--7.md) / [Paccayacatukka](/tipitaka/39P3/5/5.5/5.5.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -65,5 +46,7 @@ nextL: /tipitaka/39P3/5/5.6
 1782. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 1783. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/5/5.5/5.5.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/5/5.5/5.5.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/5/5.6.md)
 
 

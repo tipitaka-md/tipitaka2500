@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1/Anantara
-ref: 262745
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.3 Paccayavāra
-    link: /tipitaka/36P1/5/5.3
-  - name: 5.3.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.3/5.3.1
-  - name: 5.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1
-prevL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1/Adhipati
-upL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.1
-nextL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.3 Paccayavāra](/tipitaka/36P1/5/5.3.md) / [5.3.1 Paccayānuloma](/tipitaka/36P1/5/5.3/5.3.1.md) / [5.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.1.md)
 
 # Anantara
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2
 2548. (Catuvīsatipaccayā vitthāretabbā, avigatapaccayā.)
 
 
+
+[Go to previous page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.1/Adhipati.md) / [Go to parent page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.2.md)
 
 

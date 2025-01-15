@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Hetu
-ref: 265473
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.3 Upādānasampayuttaduka
-    link: /tipitaka/38P2/11/11.3
-  - name: 11.3.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.3/11.3.7
-  - name: 11.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1
-  - name: 11.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-prevL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-upL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.3 Upādānasampayuttaduka](/tipitaka/38P2/11/11.3.md) / [11.3.7 Pañhāvāra](/tipitaka/38P2/11/11.3/11.3.7.md) / [11.3.7.1 Paccayānuloma](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md)
 
 # Hetu
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Arammana
 3696. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa dhammassa hetupaccayena paccayo—  diṭṭhigatavippayuttalobhasahagato moho ca lobho ca sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Diṭṭhigatavippayuttalobhasahagato moho ca lobho ca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 3697. Upādānasampayutto ca upādānavippayutto ca dhammā upādānasampayuttassa ca upādānavippayuttassa ca dhammassa hetupaccayena paccayo—  diṭṭhigatavippayuttalobhasahagato moho ca lobho ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md) / [Go to parent page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Arammana.md)
 
 

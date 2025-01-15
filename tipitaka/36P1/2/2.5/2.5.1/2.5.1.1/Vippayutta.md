@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Vippayutta
-ref: 262304
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.5/2.5.1
-  - name: 2.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1
-prevL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Aharadi
-upL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1
-nextL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Atthyadi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.1 Paccayānuloma](/tipitaka/36P1/2/2.5/2.5.1.md) / [2.5.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1.md)
 
 # Vippayutta
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Atthyadi
 706. Akusalaṃ dhammaṃ…pe…  vatthuṃ vippayuttapaccayā.
 
 707. Abyākataṃ dhammaṃ…pe…  vatthuṃ vippayuttapaccayā.
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Aharadi.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Atthyadi.md)
 
 

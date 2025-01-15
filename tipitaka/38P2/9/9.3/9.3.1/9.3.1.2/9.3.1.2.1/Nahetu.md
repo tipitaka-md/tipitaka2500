@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1/Nahetu
-ref: 265141
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.3 Parāmāsasampayuttaduka
-    link: /tipitaka/38P2/9/9.3
-  - name: 9.3.1 Paṭiccavāra
-    link: /tipitaka/38P2/9/9.3/9.3.1
-  - name: 9.3.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/9/9.3/9.3.1/9.3.1.2
-  - name: 9.3.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1
-prevL: /tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1
-upL: /tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1
-nextL: /tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1/Naarammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.1 Paṭiccavāra](/tipitaka/38P2/9/9.3/9.3.1.md) / [9.3.1.2 Paccayapaccanīya](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2.md) / [9.3.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1.md)
 
 # Nahetu
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1/Naarammana
 (49.)
 
 2220. Parāmāsavippayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ parāmāsavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+
+[Go to previous page](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1.md) / [Go to parent page](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1.md) / [Go to next page](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1/Naarammana.md)
 
 

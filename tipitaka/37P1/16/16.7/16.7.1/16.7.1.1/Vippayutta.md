@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Vippayutta
-ref: 263200
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 16 Micchattaniyatattika
-    link: /tipitaka/37P1/16
-  - name: 16.7 Pañhāvāra
-    link: /tipitaka/37P1/16/16.7
-  - name: 16.7.1 Paccayānuloma
-    link: /tipitaka/37P1/16/16.7/16.7.1
-  - name: 16.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-prevL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Aharadi
-upL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Atthi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.7 Pañhāvāra](/tipitaka/37P1/16/16.7.md) / [16.7.1 Paccayānuloma](/tipitaka/37P1/16/16.7/16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md)
 
 # Vippayutta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Atthi
 2396. Aniyato dhammo micchattaniyatassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu micchattaniyatānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 2397. Aniyato dhammo sammattaniyatassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu sammattaniyatānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Aharadi.md) / [Go to parent page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md) / [Go to next page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Atthi.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7/Hetu
-ref: 264212
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.3 Āsavasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.3
-  - name: 4.3.1 Kusalapada
-    link: /tipitaka/39P3/4/4.3/4.3.1
-  - name: 4.3.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7
-prevL: /tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7
-upL: /tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7
-nextL: /tipitaka/39P3/4/4.3/4.3.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.3 Āsavasampayuttaduka, Kusalattika](/tipitaka/39P3/4/4.3.md) / [4.3.1 Kusalapada](/tipitaka/39P3/4/4.3/4.3.1.md) / [4.3.1.1--7 Paṭiccādivāra](/tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7.md)
 
 # Hetu
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/39P3/4/4.3/4.3.2
 1627. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1628. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7.md) / [Go to parent page](/tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7.md) / [Go to next page](/tipitaka/39P3/4/4.3/4.3.2.md)
 
 

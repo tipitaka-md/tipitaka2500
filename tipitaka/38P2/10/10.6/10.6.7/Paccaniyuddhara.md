@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/10/10.6/10.6.7/Paccaniyuddhara
-ref: 261266
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.6 Cittasamuṭṭhānaduka
-    link: /tipitaka/38P2/10/10.6
-  - name: 10.6.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.6/10.6.7
-prevL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.2/Suddha
-upL: /tipitaka/38P2/10/10.6/10.6.7
-nextL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.6 Cittasamuṭṭhānaduka](/tipitaka/38P2/10/10.6.md) / [10.6.7 Pañhāvāra](/tipitaka/38P2/10/10.6/10.6.7.md)
 
 # Paccanīyuddhāra
 
@@ -51,5 +34,7 @@ nextL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.2
 2904. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā nocittasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  āhārapaccayena paccayo. (2)
 
 2905. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/10/10.6/10.6.7.md) / [Go to next page](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.2.md)
 
 

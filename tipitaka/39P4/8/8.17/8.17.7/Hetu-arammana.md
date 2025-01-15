@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P4/8/8.17/8.17.7/Hetu-arammana
-ref: 261953
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.17 Uppannattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.17
-  - name: 8.17.7 Pañhāvāra
-    link: /tipitaka/39P4/8/8.17/8.17.7
-prevL: /tipitaka/39P4/8/8.17/8.17.7
-upL: /tipitaka/39P4/8/8.17/8.17.7
-nextL: /tipitaka/39P4/8/8.18
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.17 Uppannattika, Saraṇaduka](/tipitaka/39P4/8/8.17.md) / [8.17.7 Pañhāvāra](/tipitaka/39P4/8/8.17/8.17.7.md)
 
 # Hetu-ārammaṇa
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/39P4/8/8.18
 1880. Uppanno araṇo dhammo uppannassa araṇassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
 1881. Hetuyā ekaṃ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  upanissaye tīṇi…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.17/8.17.7.md) / [Go to parent page](/tipitaka/39P4/8/8.17/8.17.7.md) / [Go to next page](/tipitaka/39P4/8/8.18.md)
 
 

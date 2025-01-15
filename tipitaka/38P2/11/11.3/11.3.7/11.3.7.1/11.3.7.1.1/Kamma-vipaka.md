@@ -1,26 +1,5 @@
----
-title:  Kamma-vipāka
-path: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Kamma-vipaka
-ref: 265481
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.3 Upādānasampayuttaduka
-    link: /tipitaka/38P2/11/11.3
-  - name: 11.3.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.3/11.3.7
-  - name: 11.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1
-  - name: 11.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-prevL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Pacchajatasevana
-upL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1
-nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Aharadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.3 Upādānasampayuttaduka](/tipitaka/38P2/11/11.3.md) / [11.3.7 Pañhāvāra](/tipitaka/38P2/11/11.3/11.3.7.md) / [11.3.7.1 Paccayānuloma](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1.md) / [11.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md)
 
 # Kamma-vipāka
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Aharadi
 3726. Upādānavippayutto dhammo upādānavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  upādānavippayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  upādānavippayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
 3727. Upādānavippayutto dhammo upādānavippayuttassa dhammassa vipākapaccayena paccayo—  vipāko upādānavippayutto eko…pe…  ekaṃ.
+
+[Go to previous page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Pacchajatasevana.md) / [Go to parent page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/11/11.3/11.3.7/11.3.7.1/11.3.7.1.1/Aharadi.md)
 
 

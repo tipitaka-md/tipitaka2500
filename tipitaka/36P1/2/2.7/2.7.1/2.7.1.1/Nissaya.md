@@ -1,24 +1,5 @@
----
-title:  Nissaya
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Nissaya
-ref: 262375
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Annamanna
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Upanissaya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
 
 # Nissaya
 
@@ -61,5 +42,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Upanissaya
 891. Akusalo ca abyākato ca dhammā akusalassa dhammassa nissayapaccayena paccayo—  akusalo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo. Tayo khandhā ca vatthu ca ekassa khandhassa nissayapaccayena paccayo. Dve khandhā ca vatthu ca dvinnaṃ khandhānaṃ nissayapaccayena paccayo. (1)
 
 892. Akusalo ca abyākato ca dhammā abyākatassa dhammassa nissayapaccayena paccayo—  akusalā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Annamanna.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Upanissaya.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Nissayādi
-path: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Nissayadi
-ref: 263348
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 23 Sanidassanasappaṭighattika
-    link: /tipitaka/37P1/23
-  - name: 23.1 Paṭiccavāra
-    link: /tipitaka/37P1/23/23.1
-  - name: 23.1.1 Paccayānuloma
-    link: /tipitaka/37P1/23/23.1/23.1.1
-  - name: 23.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1
-prevL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Annamanna
-upL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1
-nextL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.1 Paṭiccavāra](/tipitaka/37P1/23/23.1.md) / [23.1.1 Paccayānuloma](/tipitaka/37P1/23/23.1/23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md)
 
 # Nissayādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.2
 (15.)
 
 2971. Anidassanasappaṭighaṃ dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+
+[Go to previous page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Annamanna.md) / [Go to parent page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to next page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.2.md)
 
 

@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/8/8.7/Paccaniyuddhara
-ref: 259012
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.7 Pañhāvāra
-    link: /tipitaka/37P1/8/8.7
-prevL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.2/Suddha
-upL: /tipitaka/37P1/8/8.7
-nextL: /tipitaka/37P1/8/8.7/8.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md)
 
 # Paccanīyuddhāra
 
@@ -63,5 +48,7 @@ nextL: /tipitaka/37P1/8/8.7/8.7.2
 778. Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
 779. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
+
+[Go to previous page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/8/8.7.md) / [Go to next page](/tipitaka/37P1/8/8.7/8.7.2.md)
 
 

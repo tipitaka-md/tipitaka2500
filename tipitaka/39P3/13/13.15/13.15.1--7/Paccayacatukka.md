@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/13/13.15/13.15.1--7/Paccayacatukka
-ref: 261785
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 13 Piṭṭhiduka, Kusalattika
-    link: /tipitaka/39P3/13
-  - name: 13.15 Niyataduka, Kusalattika
-    link: /tipitaka/39P3/13/13.15
-  - name: 13.15.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/13/13.15/13.15.1--7
-prevL: /tipitaka/39P3/13/13.15/13.15.1--7
-upL: /tipitaka/39P3/13/13.15/13.15.1--7
-nextL: /tipitaka/39P3/13/13.16
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.15 Niyataduka, Kusalattika](/tipitaka/39P3/13/13.15.md) / [13.15.1--7 Paṭiccādivāra](/tipitaka/39P3/13/13.15/13.15.1--7.md)
 
 # Paccayacatukka
 
@@ -65,5 +48,7 @@ nextL: /tipitaka/39P3/13/13.16
 2585. Aniyataṃ abyākataṃ dhammaṃ paṭicca aniyato abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2586. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/13/13.15/13.15.1--7.md) / [Go to parent page](/tipitaka/39P3/13/13.15/13.15.1--7.md) / [Go to next page](/tipitaka/39P3/13/13.16.md)
 
 

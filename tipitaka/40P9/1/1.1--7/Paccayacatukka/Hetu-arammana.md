@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P9/1/1.1--7/Paccayacatukka/Hetu-arammana
-ref: 262022
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P9
-  - name: 1 Hetuduka, Kusalattika
-    link: /tipitaka/40P9/1
-  - name: 1.1--7 Paṭiccādivāra
-    link: /tipitaka/40P9/1/1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P9/1/1.1--7/Paccayacatukka
-prevL: /tipitaka/40P9/1/1.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/40P9/1/1.1--7/Paccayacatukka
-nextL: /tipitaka/40P9/2
----
+
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [1 Hetuduka, Kusalattika](/tipitaka/40P9/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P9/1/1.1--7.md) / [Paccayacatukka](/tipitaka/40P9/1/1.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -57,5 +40,7 @@ nextL: /tipitaka/40P9/2
 17. Nahetuṃ naabyākatañca nanahetuṃ naabyākatañca dhammaṃ paṭicca nahetu naabyākato dhammo uppajjati hetupaccayā. Nahetuṃ naabyākatañca nanahetuṃ naabyākatañca dhammaṃ paṭicca nanahetu naabyākato dhammo uppajjati hetupaccayā. Nahetuṃ naabyākatañca nanahetuṃ naabyākatañca dhammaṃ paṭicca nahetu naabyākato ca nanahetu naabyākato ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 18. Hetuyā nava…pe…  avigate nava. (Sabbattha nava.)
+
+[Go to previous page](/tipitaka/40P9/1/1.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/40P9/1/1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P9/2.md)
 
 

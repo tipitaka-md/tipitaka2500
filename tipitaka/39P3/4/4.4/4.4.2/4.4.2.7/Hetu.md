@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.7/Hetu
-ref: 264215
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.4 Āsavasāsavaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.4
-  - name: 4.4.2 Akusalapada
-    link: /tipitaka/39P3/4/4.4/4.4.2
-  - name: 4.4.2.7 Pañhāvāra
-    link: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.7
-prevL: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.7
-upL: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.7
-nextL: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.7/Paccaniyuddhara
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.4 Āsavasāsavaduka, Kusalattika](/tipitaka/39P3/4/4.4.md) / [4.4.2 Akusalapada](/tipitaka/39P3/4/4.4/4.4.2.md) / [4.4.2.7 Pañhāvāra](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7.md)
 
 # Hetu
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/39P3/4/4.4/4.4.2/4.4.2.7/Paccaniyuddhara
 (37.)
 
 1658. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  upanissaye āsevane nava, kamme āhāre indriye jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7.md) / [Go to parent page](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7.md) / [Go to next page](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7/Paccaniyuddhara.md)
 
 

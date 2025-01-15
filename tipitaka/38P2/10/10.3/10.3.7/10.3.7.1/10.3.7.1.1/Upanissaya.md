@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Upanissaya
-ref: 265236
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.3 Cetasikaduka
-    link: /tipitaka/38P2/10/10.3
-  - name: 10.3.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.3/10.3.7
-  - name: 10.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1
-  - name: 10.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1
-prevL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Anantaradi
-upL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1
-nextL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Purejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.3 Cetasikaduka](/tipitaka/38P2/10/10.3.md) / [10.3.7 Pañhāvāra](/tipitaka/38P2/10/10.3/10.3.7.md) / [10.3.7.1 Paccayānuloma](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1.md) / [10.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md)
 
 # Upanissaya
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Purejata
 2628. Acetasiko dhammo cetasikassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo pakatūpanissayo…pe… . **Pakatūpanissayo**—  utuṃ…  bhojanaṃ…  senāsanaṃ cittaṃ upanissāya dānaṃ deti…pe… . (Tīṇi, paṭhamagamanasadisaṃ ninnānākaraṇaṃ.)
 
 2629. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa upanissayapaccayena paccayo…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Purejata.md)
 
 

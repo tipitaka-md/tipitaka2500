@@ -1,26 +1,5 @@
----
-title:  Ārammaṇādi
-path: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Arammanadi
-ref: 266036
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.2 Vedanāttika, Hetuduka
-    link: /tipitaka/39P4/1/1.2
-  - name: 1.2.2 Nahetupada
-    link: /tipitaka/39P4/1/1.2/1.2.2
-  - name: 1.2.2.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka
-upL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Anantara-upanissaya
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.2 Vedanāttika, Hetuduka](/tipitaka/39P4/1/1.2.md) / [1.2.2 Nahetupada](/tipitaka/39P4/1/1.2/1.2.2.md) / [1.2.2.7 Pañhāvāra](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md)
 
 # Ārammaṇādi
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Anantara-upanissaya
 109. Dukkhāya vedanāya sampayutto nahetu dhammo dukkhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. (1)
 
 110. Adukkhamasukhāya vedanāya sampayutto nahetu dhammo adukkhamasukhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. Adukkhamasukhāya vedanāya sampayutto nahetu dhammo sukhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Anantara-upanissaya.md)
 
 

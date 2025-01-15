@@ -1,26 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Anantara
-ref: 264975
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.3 Saññojanasampayuttaduka
-    link: /tipitaka/38P2/4/4.3
-  - name: 4.3.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.3/4.3.7
-  - name: 4.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1
-  - name: 4.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
-prevL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Adhipati
-upL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
-nextL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Samanantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.7 Pañhāvāra](/tipitaka/38P2/4/4.3/4.3.7.md) / [4.3.7.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md)
 
 # Anantara
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Samanantaradi
 1504. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanavippayuttassa dhammassa anantarapaccayena paccayo—  purimā purimā uddhaccasahagatā khandhā ca moho ca pacchimassa pacchimassa uddhaccasahagatassa mohassa anantarapaccayena paccayo; uddhaccasahagatā khandhā ca moho ca vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 1505. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa anantarapaccayena paccayo—  purimā purimā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Samanantaradi.md)
 
 

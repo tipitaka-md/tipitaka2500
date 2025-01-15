@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Adhipati
-ref: 264664
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.1/1.1.7
-  - name: 1.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1
-  - name: 1.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-prevL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Arammana
-upL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md)
 
 # Adhipati
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Anantara
 60. Hetu ca nahetu ca dhammā nahetussa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  hetuñca sampayuttake ca khandhe garuṃ katvā nahetū khandhā uppajjanti. (2)
 
 61. Hetu ca nahetu ca dhammā hetussa ca nahetussa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  hetuñca sampayuttake ca khandhe garuṃ katvā hetū ca sampayuttakā ca khandhā uppajjanti. (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Anantara.md)
 
 

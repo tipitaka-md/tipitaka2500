@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Arammana
-ref: 262919
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.7 Pañhāvāra
-    link: /tipitaka/37P1/9/9.7
-  - name: 9.7.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.7/9.7.1
-  - name: 9.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-prevL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Hetu
-upL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md) / [9.7.1 Paccayānuloma](/tipitaka/37P1/9/9.7/9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md)
 
 # Ārammaṇa
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Adhipati
 953. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, dassanena pahātabbaṃ domanassaṃ uppajjati. Pubbe suciṇṇāni assādeti abhinandati…pe…  jhānā vuṭṭhahitvā jhānaṃ assādeti abhinandati, taṃ ārabbha dassanena pahātabbo rāgo…pe…  diṭṭhi…pe…  vicikicchā…pe…  jhāne parihīne vippaṭisārissa dassanena pahātabbaṃ domanassaṃ uppajjati. Cakkhuṃ assādeti abhinandati…pe…  sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe assādeti abhinandati, taṃ ārabbha dassanena pahātabbo rāgo…pe…  diṭṭhi…pe…  vicikicchā…pe…  dassanena pahātabbaṃ domanassaṃ uppajjati. (2)
 
 954. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ assādeti abhinandati, taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. Pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe assādeti…pe…  taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. (3)
+
+[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Adhipati.md)
 
 

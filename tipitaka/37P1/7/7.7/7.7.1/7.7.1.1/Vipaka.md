@@ -1,24 +1,5 @@
----
-title:  Vipāka
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Vipaka
-ref: 262839
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Kamma
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Ahara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Vipāka
 
@@ -65,5 +46,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Ahara
 506. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa vipākapaccayena paccayo—  vipākā savitakkasavicārā khandhā ca vitakko ca cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (2)
 
 507. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa vipākapaccayena paccayo—  vipāko savitakkasavicāro eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Kamma.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Ahara.md)
 
 

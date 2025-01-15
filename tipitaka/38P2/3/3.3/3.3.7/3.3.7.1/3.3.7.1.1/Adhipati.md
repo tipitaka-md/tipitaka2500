@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Adhipati
-ref: 264916
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.3 Āsavasampayuttaduka
-    link: /tipitaka/38P2/3/3.3
-  - name: 3.3.7 Pañhāvāra
-    link: /tipitaka/38P2/3/3.3/3.3.7
-  - name: 3.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1
-  - name: 3.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1
-prevL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Arammana
-upL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1
-nextL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.3 Āsavasampayuttaduka](/tipitaka/38P2/3/3.3.md) / [3.3.7 Pañhāvāra](/tipitaka/38P2/3/3.3/3.3.7.md) / [3.3.7.1 Paccayānuloma](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md)
 
 # Adhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Anantara
 1192. Āsavavippayutto dhammo āsavavippayuttassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā, sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati; pubbe suciṇṇāni…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ…pe…  phalaṃ…pe…  nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  āsavavippayuttādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
 
 1193. Āsavavippayutto dhammo āsavasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ āsavavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+
+[Go to previous page](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Anantara.md)
 
 

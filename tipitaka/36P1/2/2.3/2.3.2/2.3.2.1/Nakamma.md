@@ -1,24 +1,5 @@
----
-title:  Nakamma
-path: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Nakamma
-ref: 262230
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.3/2.3.2
-  - name: 2.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1
-prevL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Napacchajatadi
-upL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1
-nextL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Navipaka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.2 Paccayapaccanīya](/tipitaka/36P1/2/2.3/2.3.2.md) / [2.3.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1.md)
 
 # Nakamma
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Navipaka
 534. Kusalañca abyākatañca dhammaṃ paccayā kusalo dhammo uppajjati nakammapaccayā—  kusale khandhe ca vatthuñca paccayā kusalā cetanā. (1)
 
 535. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati nakammapaccayā—  akusale khandhe ca vatthuñca paccayā akusalā cetanā. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Napacchajatadi.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Navipaka.md)
 
 

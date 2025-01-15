@@ -1,24 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Adhipati
-ref: 263218
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.7 Pañhāvāra
-    link: /tipitaka/37P1/17/17.7
-  - name: 17.7.1 Paccayānuloma
-    link: /tipitaka/37P1/17/17.7/17.7.1
-  - name: 17.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1
-prevL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Arammana
-upL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1
-nextL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Anantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.7 Pañhāvāra](/tipitaka/37P1/17/17.7.md) / [17.7.1 Paccayānuloma](/tipitaka/37P1/17/17.7/17.7.1.md) / [17.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md)
 
 # Adhipati
 
@@ -83,5 +64,7 @@ nextL: /tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Anantara
 2528. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (4)
 
 2529. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  maggahetukā ca maggādhipatī ca adhipati sampayuttakānaṃ maggahetukānañca maggādhipatīnañca khandhānaṃ adhipatipaccayena paccayo. (5)
+
+[Go to previous page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md) / [Go to next page](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Anantara.md)
 
 

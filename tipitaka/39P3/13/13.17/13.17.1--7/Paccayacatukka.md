@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/13/13.17/13.17.1--7/Paccayacatukka
-ref: 261787
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 13 Piṭṭhiduka, Kusalattika
-    link: /tipitaka/39P3/13
-  - name: 13.17 Saraṇaduka, Kusalattika
-    link: /tipitaka/39P3/13/13.17
-  - name: 13.17.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/13/13.17/13.17.1--7
-prevL: /tipitaka/39P3/13/13.17/13.17.1--7
-upL: /tipitaka/39P3/13/13.17/13.17.1--7
-nextL: /tipitaka/39P3/14
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.17 Saraṇaduka, Kusalattika](/tipitaka/39P3/13/13.17.md) / [13.17.1--7 Paṭiccādivāra](/tipitaka/39P3/13/13.17/13.17.1--7.md)
 
 # Paccayacatukka
 
@@ -59,5 +42,7 @@ nextL: /tipitaka/39P3/14
 2606. Piṭṭhidukakusalattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/13/13.17/13.17.1--7.md) / [Go to parent page](/tipitaka/39P3/13/13.17/13.17.1--7.md) / [Go to next page](/tipitaka/39P3/14.md)
 
 

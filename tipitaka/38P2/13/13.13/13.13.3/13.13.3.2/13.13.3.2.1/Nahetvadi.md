@@ -1,26 +1,5 @@
----
-title:  Nahetvādi
-path: /tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1/Nahetvadi
-ref: 265709
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.13 Arūpāvacaraduka
-    link: /tipitaka/38P2/13/13.13
-  - name: 13.13.3 Paccayavāra
-    link: /tipitaka/38P2/13/13.13/13.13.3
-  - name: 13.13.3.2 Paccayapaccanīya
-    link: /tipitaka/38P2/13/13.13/13.13.3/13.13.3.2
-  - name: 13.13.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1
-prevL: /tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1
-upL: /tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1
-nextL: /tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.3 Paccayavāra](/tipitaka/38P2/13/13.13/13.13.3.md) / [13.13.3.2 Paccayapaccanīya](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2.md) / [13.13.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1.md)
 
 # Nahetvādi
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.2
 4670. Arūpāvacaraṃ dhammaṃ paccayā arūpāvacaro dhammo uppajjati naadhipatipaccayā—  arūpāvacare khandhe paccayā arūpāvacarādhipati, vipākaṃ arūpāvacaraṃ ekaṃ khandhaṃ…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 4671. Naarūpāvacaraṃ dhammaṃ paccayā naarūpāvacaro dhammo uppajjati naadhipatipaccayā—  naarūpāvacaraṃ ekaṃ khandhaṃ…pe…  paṭisandhikkhaṇe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā naarūpāvacarā khandhā. (1)
+
+[Go to previous page](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1.md) / [Go to parent page](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1.md) / [Go to next page](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.2.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.1/Hetu
-ref: 265701
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.13 Arūpāvacaraduka
-    link: /tipitaka/38P2/13/13.13
-  - name: 13.13.1 Paṭiccavāra
-    link: /tipitaka/38P2/13/13.13/13.13.1
-  - name: 13.13.1.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.1
-  - name: 13.13.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.1
-prevL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.1
-upL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.1
-nextL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.1 Paṭiccavāra](/tipitaka/38P2/13/13.13/13.13.1.md) / [13.13.1.1 Paccayānuloma](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.1.md) / [13.13.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.1.md)
 
 # Hetu
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.2
 4651. Naarūpāvacaraṃ dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati hetupaccayā—  naarūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe naarūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… . (1)
 
 4652. Arūpāvacarañca naarūpāvacarañca dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati hetupaccayā—  arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.1.md) / [Go to parent page](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.13/13.13.1/13.13.1.1/13.13.1.1.2.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Naārammaṇa
-path: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Naarammana
-ref: 265194
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.2 Cittaduka
-    link: /tipitaka/38P2/10/10.2
-  - name: 10.2.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.2/10.2.1
-  - name: 10.2.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.2
-  - name: 10.2.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1
-prevL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Nahetu
-upL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1
-nextL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Naadhipatyadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.2 Cittaduka](/tipitaka/38P2/10/10.2.md) / [10.2.1 Paṭiccavāra](/tipitaka/38P2/10/10.2/10.2.1.md) / [10.2.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2.md) / [10.2.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md)
 
 # Naārammaṇa
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Naadhipatyadi
 2439. Nocittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā—  nocitte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (2)
 
 2440. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā—  cittañca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca kaṭattārūpaṃ, cittañca mahābhūte ca paṭicca kaṭattārūpaṃ. (1)
+
+[Go to previous page](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Nahetu.md) / [Go to parent page](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Naadhipatyadi.md)
 
 

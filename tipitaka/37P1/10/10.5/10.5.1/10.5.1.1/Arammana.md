@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Arammana
-ref: 262970
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.5 Saṃsaṭṭhavāra
-    link: /tipitaka/37P1/10/10.5
-  - name: 10.5.1 Paccayānuloma
-    link: /tipitaka/37P1/10/10.5/10.5.1
-  - name: 10.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1
-prevL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Hetu
-upL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1
-nextL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Adhipatyadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.5 Saṃsaṭṭhavāra](/tipitaka/37P1/10/10.5.md) / [10.5.1 Paccayānuloma](/tipitaka/37P1/10/10.5/10.5.1.md) / [10.5.1.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1.md)
 
 # Ārammaṇa
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Adhipatyadi
 1249. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe ca mohañca saṃsaṭṭhā dve khandhā. (1)
 
 1250. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ saṃsaṭṭho bhāvanāya pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
+
+[Go to previous page](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1.md) / [Go to next page](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Adhipatyadi.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Atthyādi
-path: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Atthyadi
-ref: 264985
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.3 Saññojanasampayuttaduka
-    link: /tipitaka/38P2/4/4.3
-  - name: 4.3.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.3/4.3.7
-  - name: 4.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1
-  - name: 4.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
-prevL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Vippayutta
-upL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
-nextL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.7 Pañhāvāra](/tipitaka/38P2/4/4.3/4.3.7.md) / [4.3.7.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md)
 
 # Atthyādi
 
@@ -61,5 +40,7 @@ nextL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.2
 1542. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  uddhaccasahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  uddhaccasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ mohassa ca atthipaccayena paccayo…pe…  dve khandhā…pe… . (3)
 
 1543. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+
+[Go to previous page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.2.md)
 
 

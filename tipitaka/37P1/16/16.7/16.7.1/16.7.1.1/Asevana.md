@@ -1,24 +1,5 @@
----
-title:  Āsevana
-path: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Asevana
-ref: 263196
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 16 Micchattaniyatattika
-    link: /tipitaka/37P1/16
-  - name: 16.7 Pañhāvāra
-    link: /tipitaka/37P1/16/16.7
-  - name: 16.7.1 Paccayānuloma
-    link: /tipitaka/37P1/16/16.7/16.7.1
-  - name: 16.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-prevL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Pacchajata
-upL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Kamma
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.7 Pañhāvāra](/tipitaka/37P1/16/16.7.md) / [16.7.1 Paccayānuloma](/tipitaka/37P1/16/16.7/16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md)
 
 # Āsevana
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Kamma
 2382. Aniyato dhammo micchattaniyatassa dhammassa āsevanapaccayena paccayo—  aniyataṃ domanassaṃ micchattaniyatassa domanassassa āsevanapaccayena paccayo. Aniyatamicchādiṭṭhi niyatamicchādiṭṭhiyā āsevanapaccayena paccayo. (2)
 
 2383. Aniyato dhammo sammattaniyatassa dhammassa āsevanapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Pacchajata.md) / [Go to parent page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md) / [Go to next page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Kamma.md)
 
 

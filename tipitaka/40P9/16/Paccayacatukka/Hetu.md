@@ -1,20 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P9/16/Paccayacatukka/Hetu
-ref: 259950
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P9
-  - name: 16 Saraṇaduka, Vedanāttikādi
-    link: /tipitaka/40P9/16
-  - name: Paccayacatukka
-    link: /tipitaka/40P9/16/Paccayacatukka
-prevL: /tipitaka/40P9/16/Paccayacatukka
-upL: /tipitaka/40P9/16/Paccayacatukka
-nextL: /tipitaka/40P9/17
----
+
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [16 Saraṇaduka, Vedanāttikādi](/tipitaka/40P9/16.md) / [Paccayacatukka](/tipitaka/40P9/16/Paccayacatukka.md)
 
 # Hetu
 
@@ -45,5 +30,7 @@ nextL: /tipitaka/40P9/17
 215. Nasaraṇaṃ naanupādinnupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ. Sabbattha ekaṃ.)
 
 216. Nasaraṇaṃ naanupādinnaanupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ.) Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca.
+
+[Go to previous page](/tipitaka/40P9/16/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P9/16/Paccayacatukka.md) / [Go to next page](/tipitaka/40P9/17.md)
 
 

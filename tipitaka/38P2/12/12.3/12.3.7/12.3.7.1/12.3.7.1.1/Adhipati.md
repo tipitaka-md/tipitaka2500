@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Adhipati
-ref: 265535
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 12 Kilesagocchaka
-    link: /tipitaka/38P2/12
-  - name: 12.3 Saṃkiliṭṭhaduka
-    link: /tipitaka/38P2/12/12.3
-  - name: 12.3.7 Pañhāvāra
-    link: /tipitaka/38P2/12/12.3/12.3.7
-  - name: 12.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1
-  - name: 12.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1
-prevL: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Arammana
-upL: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1
-nextL: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Anantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.3 Saṃkiliṭṭhaduka](/tipitaka/38P2/12/12.3.md) / [12.3.7 Pañhāvāra](/tipitaka/38P2/12/12.3/12.3.7.md) / [12.3.7.1 Paccayānuloma](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1.md) / [12.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1.md)
 
 # Adhipati
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Anantaradi
 3962. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti…pe…  nibbānaṃ phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  asaṃkiliṭṭhādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
 
 3963. Asaṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ asaṃkiliṭṭhe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+
+[Go to previous page](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Anantaradi.md)
 
 

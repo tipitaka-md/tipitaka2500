@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P16/1/1.1--7/Paccayacatukka/Hetu
-ref: 262050
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/40P16
-  - name: 1 Kusalattika, Hetuduka
-    link: /tipitaka/40P16/1
-  - name: 1.1--7 Paṭiccādivāra
-    link: /tipitaka/40P16/1/1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P16/1/1.1--7/Paccayacatukka
-prevL: /tipitaka/40P16/1/1.1--7/Paccayacatukka
-upL: /tipitaka/40P16/1/1.1--7/Paccayacatukka
-nextL: /tipitaka/40P16/1/1.1--7/Paccaniya
----
+
+[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/40P16.md) / [1 Kusalattika, Hetuduka](/tipitaka/40P16/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P16/1/1.1--7.md) / [Paccayacatukka](/tipitaka/40P16/1/1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/40P16/1/1.1--7/Paccaniya
 4. Abyākataṃ hetuṃ dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Abyākataṃ hetuṃ dhammaṃ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Abyākataṃ hetuṃ dhammaṃ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 5. Hetuyā terasa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate terasa.
+
+[Go to previous page](/tipitaka/40P16/1/1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P16/1/1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P16/1/1.1--7/Paccaniya.md)
 
 

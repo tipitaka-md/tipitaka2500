@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1/Hetu
-ref: 262955
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.3 Paccayavāra
-    link: /tipitaka/37P1/10/10.3
-  - name: 10.3.1 Paccayānuloma
-    link: /tipitaka/37P1/10/10.3/10.3.1
-  - name: 10.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1
-prevL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1
-upL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1
-nextL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.3 Paccayavāra](/tipitaka/37P1/10/10.3.md) / [10.3.1 Paccayānuloma](/tipitaka/37P1/10/10.3/10.3.1.md) / [10.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.1.md)
 
 # Hetu
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/37P1/10/10.3/10.3.1/10.3.1.1/Arammana
 1153. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā uppajjanti hetupaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā; dassanena pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; vicikicchāsahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe… . (3)
 
 1154. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā…  tīṇi.
+
+[Go to previous page](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.1.md) / [Go to parent page](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.1.md) / [Go to next page](/tipitaka/37P1/10/10.3/10.3.1/10.3.1.1/Arammana.md)
 
 

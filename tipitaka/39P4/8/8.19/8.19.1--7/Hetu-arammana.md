@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P4/8/8.19/8.19.1--7/Hetu-arammana
-ref: 261955
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.19 Atītārammaṇattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.19
-  - name: 8.19.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.19/8.19.1--7
-prevL: /tipitaka/39P4/8/8.19/8.19.1--7
-upL: /tipitaka/39P4/8/8.19/8.19.1--7
-nextL: /tipitaka/39P4/8/8.20
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.19 Atītārammaṇattika, Saraṇaduka](/tipitaka/39P4/8/8.19.md) / [8.19.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.19/8.19.1--7.md)
 
 # Hetu-ārammaṇa
 
@@ -67,5 +50,7 @@ nextL: /tipitaka/39P4/8/8.20
 1901. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā…pe…  samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme nava, vipāke…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 1902. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.19/8.19.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.19/8.19.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.20.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/7/7.15/7.15.1/7.15.1.1--7/Paccayacatukka
-ref: 264387
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.15 Kusalattika, Sauttaraduka
-    link: /tipitaka/39P4/7/7.15
-  - name: 7.15.1 Sauttarapada
-    link: /tipitaka/39P4/7/7.15/7.15.1
-  - name: 7.15.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/7/7.15/7.15.1/7.15.1.1--7
-prevL: /tipitaka/39P4/7/7.15/7.15.1/7.15.1.1--7
-upL: /tipitaka/39P4/7/7.15/7.15.1/7.15.1.1--7
-nextL: /tipitaka/39P4/7/7.15/7.15.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.15 Kusalattika, Sauttaraduka](/tipitaka/39P4/7/7.15.md) / [7.15.1 Sauttarapada](/tipitaka/39P4/7/7.15/7.15.1.md) / [7.15.1.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.15/7.15.1/7.15.1.1--7.md)
 
 # Paccayacatukka
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/39P4/7/7.15/7.15.2
 (56.)
 
 1682. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.15/7.15.1/7.15.1.1--7.md) / [Go to parent page](/tipitaka/39P4/7/7.15/7.15.1/7.15.1.1--7.md) / [Go to next page](/tipitaka/39P4/7/7.15/7.15.2.md)
 
 

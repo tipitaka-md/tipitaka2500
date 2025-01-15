@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P13/3/3.1--6/Paccayacatukka/Hetu-arammana
-ref: 262033
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 3 Vipākattika
-    link: /tipitaka/40P13/3
-  - name: 3.1--6 Paṭiccādivāra
-    link: /tipitaka/40P13/3/3.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/40P13/3/3.1--6/Paccayacatukka
-prevL: /tipitaka/40P13/3/3.1--6/Paccayacatukka
-upL: /tipitaka/40P13/3/3.1--6/Paccayacatukka
-nextL: /tipitaka/40P13/3/3.7
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [3 Vipākattika](/tipitaka/40P13/3.md) / [3.1--6 Paṭiccādivāra](/tipitaka/40P13/3/3.1--6.md) / [Paccayacatukka](/tipitaka/40P13/3/3.1--6/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -63,5 +46,7 @@ nextL: /tipitaka/40P13/3/3.7
 43. Nahetuyā aṭṭhārasa, naārammaṇe pannarasa. Naadhipatiyā tevīsa…pe…  nakamme cha, navipāke ekādasa, naāhāre naindriye tīṇi, najhāne cha, namagge pannarasa…pe…  navippayutte nava…pe…  novigate pannarasa.
 
 44. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P13/3/3.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P13/3/3.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/40P13/3/3.7.md)
 
 

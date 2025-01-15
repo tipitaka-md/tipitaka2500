@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/10/10.1/10.1.7/10.1.7.2/10.1.7.2.1/Suddha
-ref: 265189
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.1 Sārammaṇaduka
-    link: /tipitaka/38P2/10/10.1
-  - name: 10.1.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.1/10.1.7
-  - name: 10.1.7.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.1/10.1.7/10.1.7.2
-  - name: 10.1.7.2.1 Saṅkhyāvāra
-    link: /tipitaka/38P2/10/10.1/10.1.7/10.1.7.2/10.1.7.2.1
-prevL: /tipitaka/38P2/10/10.1/10.1.7/10.1.7.2/10.1.7.2.1
-upL: /tipitaka/38P2/10/10.1/10.1.7/10.1.7.2/10.1.7.2.1
-nextL: /tipitaka/38P2/10/10.1/10.1.7/10.1.7.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.1 Sārammaṇaduka](/tipitaka/38P2/10/10.1.md) / [10.1.7 Pañhāvāra](/tipitaka/38P2/10/10.1/10.1.7.md) / [10.1.7.2 Paccayapaccanīya](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.2.md) / [10.1.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.2/10.1.7.2.1.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/10/10.1/10.1.7/10.1.7.3
 (47.)
 
 2418. Nahetuyā satta, naārammaṇe satta…pe…  nasamanantare satta, nasahajāte cha, na aññamaññe cha, nanissaye cha, naupanissaye satta, napurejāte satta, napacchājāte satta…pe…  namagge satta, nasampayutte cha, navippayutte pañca, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
+
+[Go to previous page](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.2/10.1.7.2.1.md) / [Go to parent page](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.2/10.1.7.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.3.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Hetu
-ref: 263090
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.1 Paṭiccavāra
-    link: /tipitaka/37P1/13/13.1
-  - name: 13.1.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.1/13.1.1
-  - name: 13.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1
-prevL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1
-upL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1
-nextL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.1 Paṭiccavāra](/tipitaka/37P1/13/13.1.md) / [13.1.1 Paccayānuloma](/tipitaka/37P1/13/13.1/13.1.1.md) / [13.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1.md)
 
 # Hetu
 
@@ -65,5 +46,7 @@ nextL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Arammana
 1877. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 1878. Parittañca mahaggatañca dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+
+[Go to previous page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1.md) / [Go to parent page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Arammana.md)
 
 

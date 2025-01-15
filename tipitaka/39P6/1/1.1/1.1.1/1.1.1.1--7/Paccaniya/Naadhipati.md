@@ -1,26 +1,5 @@
----
-title:  Naadhipati
-path: /tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya/Naadhipati
-ref: 266136
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/39P6
-  - name: 1 Hetuduka, Duka
-    link: /tipitaka/39P6/1
-  - name: 1.1 Hetuduka, Sahetukaduka
-    link: /tipitaka/39P6/1/1.1
-  - name: 1.1.1 Sahetukapada
-    link: /tipitaka/39P6/1/1.1/1.1.1
-  - name: 1.1.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7
-  - name: Paccanīya
-    link: /tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya
-prevL: /tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya
-upL: /tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya
-nextL: /tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya/Hetu-arammana
----
+
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.1 Hetuduka, Sahetukaduka](/tipitaka/39P6/1/1.1.md) / [1.1.1 Sahetukapada](/tipitaka/39P6/1/1.1/1.1.1.md) / [1.1.1.1--7 Paṭiccādivāra](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7.md) / [Paccanīya](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya.md)
 
 # Naadhipati
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya/Hetu-arammana
 9. Naadhipatipaccayā hetuyā nava. (Saṃkhittaṃ.)
 
 10. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya.md) / [Go to parent page](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya.md) / [Go to next page](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya/Hetu-arammana.md)
 
 

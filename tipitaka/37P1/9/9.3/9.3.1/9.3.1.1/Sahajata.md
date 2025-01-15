@@ -1,24 +1,5 @@
----
-title:  Sahajāta
-path: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Sahajata
-ref: 262901
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.3 Paccayavāra
-    link: /tipitaka/37P1/9/9.3
-  - name: 9.3.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.3/9.3.1
-  - name: 9.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1
-prevL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Adhipatyadi
-upL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1
-nextL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Annamannadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.3 Paccayavāra](/tipitaka/37P1/9/9.3.md) / [9.3.1 Paccayānuloma](/tipitaka/37P1/9/9.3/9.3.1.md) / [9.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1.md)
 
 # Sahajāta
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Annamannadi
 882. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati sahajātapaccayā—  nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paccayā dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā nevadassanena nabhāvanāya pahātabbā khandhā.
 
 883. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati sahajātapaccayā. (Avasesā hetupaccayasadisā.)
+
+[Go to previous page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Adhipatyadi.md) / [Go to parent page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.3/9.3.1/9.3.1.1/Annamannadi.md)
 
 

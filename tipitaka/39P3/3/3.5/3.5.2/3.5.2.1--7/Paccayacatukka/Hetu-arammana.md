@@ -1,26 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka/Hetu-arammana
-ref: 266007
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 3 Cūḷantaraduka, Kusalattika
-    link: /tipitaka/39P3/3
-  - name: 3.5 Rūpīduka, Kusalattika
-    link: /tipitaka/39P3/3/3.5
-  - name: 3.5.2 Abyākatapada
-    link: /tipitaka/39P3/3/3.5/3.5.2
-  - name: 3.5.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka%281%29
-prevL: /tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/accayacatukka
-upL: /tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/accayacatukka
-nextL: /tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.5 Rūpīduka, Kusalattika](/tipitaka/39P3/3/3.5.md) / [3.5.2 Abyākatapada](/tipitaka/39P3/3/3.5/3.5.2.md) / [3.5.2.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka%281%29.md)
 
 # Hetu-ārammaṇa
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka
 (40.)
 
 1543. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte nava…pe…  nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ, paccanīyaṃ.)
+
+[Go to previous page](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/accayacatukka.md) / [Go to parent page](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/accayacatukka.md) / [Go to next page](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Sahajāta
-path: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Sahajata
-ref: 262072
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.1/2.1.1
-  - name: 2.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1
-prevL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Anantara-samanantara
-upL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1
-nextL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Annamanna
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md)
 
 # Sahajāta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Annamanna
 136. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati sahajātapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 137. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati sahajātapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Anantara-samanantara.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Annamanna.md)
 
 

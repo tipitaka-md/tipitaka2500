@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1/Hetu
-ref: 263262
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 20 Atītārammaṇattika
-    link: /tipitaka/37P1/20
-  - name: 20.1 Paṭiccavāra
-    link: /tipitaka/37P1/20/20.1
-  - name: 20.1.1 Paccayānuloma
-    link: /tipitaka/37P1/20/20.1/20.1.1
-  - name: 20.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1
-prevL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1
-upL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1
-nextL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1/Arammanadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.1 Paṭiccavāra](/tipitaka/37P1/20/20.1.md) / [20.1.1 Paccayānuloma](/tipitaka/37P1/20/20.1/20.1.1.md) / [20.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.1.md)
 
 # Hetu
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1/Arammanadi
 (3.)
 
 2666. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati hetupaccayā—  paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. Paṭisandhikkhaṇe paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+
+[Go to previous page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.1.md) / [Go to parent page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.1.md) / [Go to next page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.1/Arammanadi.md)
 
 

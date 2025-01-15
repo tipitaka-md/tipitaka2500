@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.2/Suddha
-ref: 262740
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.1 Paṭiccavāra
-    link: /tipitaka/36P1/5/5.1
-  - name: 5.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/5/5.1/5.1.2
-  - name: 5.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.2
-prevL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.2
-upL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.2
-nextL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.2/Nahetuduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.2 Paccayapaccanīya](/tipitaka/36P1/5/5.1/5.1.2.md) / [5.1.2.2 Saṅkhyāvāra](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.2.md)
 
 # Suddha
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.2/Nahetuduka
 (26.)
 
 2511. Nahetuyā pañca, naārammaṇe cha, naadhipatiyā cha, naanantare cha, nasamanantare cha, naaññamaññe cha, naupanissaye cha, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme dve, navipāke cha, naāhāre dve, naindriye dve, najhāne dve, namagge pañca, nasampayutte cha, navippayutte tīṇi, nonatthiyā cha, novigate cha.
+
+[Go to previous page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.2.md) / [Go to parent page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.2.md) / [Go to next page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.2/Nahetuduka.md)
 
 

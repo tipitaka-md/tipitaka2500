@@ -1,26 +1,5 @@
----
-title:  Nakammādi
-path: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Nakammadi
-ref: 265386
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.13 Upādāduka
-    link: /tipitaka/38P2/10/10.13
-  - name: 10.13.3 Paccayavāra
-    link: /tipitaka/38P2/10/10.13/10.13.3
-  - name: 10.13.3.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2
-  - name: 10.13.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1
-prevL: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Nahetvadi
-upL: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1
-nextL: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Najhanadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.13 Upādāduka](/tipitaka/38P2/10/10.13.md) / [10.13.3 Paccayavāra](/tipitaka/38P2/10/10.13/10.13.3.md) / [10.13.3.2 Paccayapaccanīya](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2.md) / [10.13.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1.md)
 
 # Nakammādi
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Najhanadi
 3301. Upādā ca noupādā ca dhammaṃ paccayā noupādā dhammo uppajjati nakammapaccayā—  noupādā khandhe ca vatthuñca paccayā noupādā cetanā. (1)
 
 3302. Navipākapaccayā pañca, naāhārapaccayā tīṇi, naindriyapaccayā tīṇi.
+
+[Go to previous page](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Nahetvadi.md) / [Go to parent page](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Najhanadi.md)
 
 

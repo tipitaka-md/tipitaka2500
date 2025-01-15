@@ -1,26 +1,5 @@
----
-title:  Upanissayādi
-path: /tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccayacatukka/Upanissayadi
-ref: 265800
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.3 Hetuduka, Vipākattika
-    link: /tipitaka/39P3/1/1.3
-  - name: 1.3.1 Vipākapada
-    link: /tipitaka/39P3/1/1.3/1.3.1
-  - name: 1.3.1.7 Pañhāvāra
-    link: /tipitaka/39P3/1/1.3/1.3.1/1.3.1.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccayacatukka
-prevL: /tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccayacatukka/Hetvadi
-upL: /tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccayacatukka
-nextL: /tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccaniyuddhara
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.3 Hetuduka, Vipākattika](/tipitaka/39P3/1/1.3.md) / [1.3.1 Vipākapada](/tipitaka/39P3/1/1.3/1.3.1.md) / [1.3.1.7 Pañhāvāra](/tipitaka/39P3/1/1.3/1.3.1/1.3.1.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccayacatukka.md)
 
 # Upanissayādi
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccaniyuddhara
 (118.)
 
 206. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā cha, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Anulomaṃ.)
+
+[Go to previous page](/tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccayacatukka/Hetvadi.md) / [Go to parent page](/tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/1/1.3/1.3.1/1.3.1.7/Paccaniyuddhara.md)
 
 

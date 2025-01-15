@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/13/13.9/13.9.1--6/13.9.1--6.1--4/Hetu
-ref: 263906
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.9 Sukhasahagataduka
-    link: /tipitaka/38P2/13/13.9
-  - name: 13.9.1--6 Paṭiccādivāra
-    link: /tipitaka/38P2/13/13.9/13.9.1--6
-  - name: 13.9.1--6.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.9/13.9.1--6/13.9.1--6.1--4
-prevL: /tipitaka/38P2/13/13.9/13.9.1--6/13.9.1--6.1--4
-upL: /tipitaka/38P2/13/13.9/13.9.1--6/13.9.1--6.1--4
-nextL: /tipitaka/38P2/13/13.9/13.9.7
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.9 Sukhasahagataduka](/tipitaka/38P2/13/13.9.md) / [13.9.1--6 Paṭiccādivāra](/tipitaka/38P2/13/13.9/13.9.1--6.md) / [13.9.1--6.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.9/13.9.1--6/13.9.1--6.1--4.md)
 
 # Hetu
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/38P2/13/13.9/13.9.7
 
 
 4447. (Evaṃ itare dve gaṇanāpi sahajātavāropi paṭiccavārasadisā. Paccayavāre pavattipi paṭisandhipi vitthāretabbā, yathā sappītikadukapaccayavārapaccanīyepi pavatte vatthu ca vitthāretabbaṃ, yathā sappītikaduke ekoyeva moho, evaṃ itare dve gaṇanāpi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi yathā sappītikadukaṃ, evaṃ kātabbaṃ.)
+
+[Go to previous page](/tipitaka/38P2/13/13.9/13.9.1--6/13.9.1--6.1--4.md) / [Go to parent page](/tipitaka/38P2/13/13.9/13.9.1--6/13.9.1--6.1--4.md) / [Go to next page](/tipitaka/38P2/13/13.9/13.9.7.md)
 
 

@@ -1,18 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P18/1/Hetu-arammana
-ref: 258733
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P18 Dhammānulomapaccanīya (3), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/40P18
-  - name: 1 Hetuduka, Sahetukaduka
-    link: /tipitaka/40P18/1
-prevL: /tipitaka/40P18/1
-upL: /tipitaka/40P18/1
-nextL: /tipitaka/40P18/2
----
+
+[Home](/) / [40P18 Dhammānulomapaccanīya (3), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P18.md) / [1 Hetuduka, Sahetukaduka](/tipitaka/40P18/1.md)
 
 # Hetu-ārammaṇa
 
@@ -39,5 +26,7 @@ nextL: /tipitaka/40P18/2
 14. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nanahetu naahetuko dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 15. Hetuyā cattāri, ārammaṇe cattāri…pe…  purejāte āsevane ekaṃ…pe…  vipāke tīṇi…pe…  avigate cattāri.
+
+[Go to previous page](/tipitaka/40P18/1.md) / [Go to parent page](/tipitaka/40P18/1.md) / [Go to next page](/tipitaka/40P18/2.md)
 
 

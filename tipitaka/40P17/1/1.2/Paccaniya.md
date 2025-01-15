@@ -1,20 +1,5 @@
----
-title:  Paccanīya
-path: /tipitaka/40P17/1/1.2/Paccaniya
-ref: 259986
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/40P17
-  - name: 1 Kusalattika, Vedanāttika
-    link: /tipitaka/40P17/1
-  - name: 1.2 Abyākatapada
-    link: /tipitaka/40P17/1/1.2
-prevL: /tipitaka/40P17/1/1.2
-upL: /tipitaka/40P17/1/1.2
-nextL: /tipitaka/40P17/2
----
+
+[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/40P17.md) / [1 Kusalattika, Vedanāttika](/tipitaka/40P17/1.md) / [1.2 Abyākatapada](/tipitaka/40P17/1/1.2.md)
 
 # Paccanīya
 
@@ -35,5 +20,7 @@ nextL: /tipitaka/40P17/2
 20. Kusalaṃ adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 21. Hetuyā terasa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate terasa. (Sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/40P17/1/1.2.md) / [Go to parent page](/tipitaka/40P17/1/1.2.md) / [Go to next page](/tipitaka/40P17/2.md)
 
 

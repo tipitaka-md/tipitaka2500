@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/8/8.3/8.3.1--7/Paccayacatukka
-ref: 261939
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.3 Vipākattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.3
-  - name: 8.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.3/8.3.1--7
-prevL: /tipitaka/39P4/8/8.3/8.3.1--7
-upL: /tipitaka/39P4/8/8.3/8.3.1--7
-nextL: /tipitaka/39P4/8/8.4
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.3 Vipākattika, Saraṇaduka](/tipitaka/39P4/8/8.3.md) / [8.3.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.3/8.3.1--7.md)
 
 # Paccayacatukka
 
@@ -67,5 +50,7 @@ nextL: /tipitaka/39P4/8/8.4
 1738. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  sahajāte ekādasa, aññamaññe satta…pe…  āsevane dve, kamme nava, vipāke tīṇi…pe…  indriye nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1739. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.3/8.3.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.3/8.3.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.4.md)
 
 

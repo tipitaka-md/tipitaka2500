@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2/Suddha
-ref: 265588
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.2 Bhāvanāyapahātabbaduka
-    link: /tipitaka/38P2/13/13.2
-  - name: 13.2.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.2/13.2.7
-  - name: 13.2.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4
-  - name: 13.2.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2
-prevL: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2
-upL: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2
-nextL: /tipitaka/38P2/13/13.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.2 Bhāvanāyapahātabbaduka](/tipitaka/38P2/13/13.2.md) / [13.2.7 Pañhāvāra](/tipitaka/38P2/13/13.2/13.2.7.md) / [13.2.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4.md) / [13.2.7.1.2 Saṅkhyāvāra](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2.md)
 
 # Suddha
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.3
 4166. Bhāvanāyapahātabbadukaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2.md) / [Go to parent page](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2.md) / [Go to next page](/tipitaka/38P2/13/13.3.md)
 
 

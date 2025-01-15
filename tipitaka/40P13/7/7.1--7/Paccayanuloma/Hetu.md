@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/7/7.1--7/Paccayanuloma/Hetu
-ref: 262039
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 7 Pītittika
-    link: /tipitaka/40P13/7
-  - name: 7.1--7 Paṭiccādivāra
-    link: /tipitaka/40P13/7/7.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P13/7/7.1--7/Paccayanuloma
-prevL: /tipitaka/40P13/7/7.1--7/Paccayanuloma
-upL: /tipitaka/40P13/7/7.1--7/Paccayanuloma
-nextL: /tipitaka/40P13/8
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [7 Pītittika](/tipitaka/40P13/7.md) / [7.1--7 Paṭiccādivāra](/tipitaka/40P13/7/7.1--7.md) / [Paccayānuloma](/tipitaka/40P13/7/7.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P13/8
 82. Hetuyā aṭṭhavīsa, ārammaṇe catuvīsa…pe…  avigate aṭṭhavīsa.
 
 83. (Sahajātavārampi…pe…  sampayuttavārampi pañhāvārampi sabbattha vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P13/7/7.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P13/7/7.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P13/8.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Adhipati
-ref: 264885
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 3 Āsavagocchaka
-    link: /tipitaka/38P2/3
-  - name: 3.1 Āsavaduka
-    link: /tipitaka/38P2/3/3.1
-  - name: 3.1.7 Pañhāvāra
-    link: /tipitaka/38P2/3/3.1/3.1.7
-  - name: 3.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1
-  - name: 3.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1
-prevL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Arammana
-upL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1
-nextL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.1 Āsavaduka](/tipitaka/38P2/3/3.1.md) / [3.1.7 Pañhāvāra](/tipitaka/38P2/3/3.1/3.1.7.md) / [3.1.7.1 Paccayānuloma](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1.md) / [3.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1.md)
 
 # Adhipati
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Anantara
 1028. Noāsavo dhammo āsavassa ca noāsavassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  noāsave khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  noāsavā adhipati sampayuttakānaṃ khandhānaṃ āsavānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 1029. Āsavo ca noāsavo ca dhammā āsavassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  āsave ca sampayuttake ca khandhe garuṃ katvā assādeti…pe…  āsavā uppajjanti. (Tīṇi, garukārammaṇā.)
+
+[Go to previous page](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Anantara.md)
 
 

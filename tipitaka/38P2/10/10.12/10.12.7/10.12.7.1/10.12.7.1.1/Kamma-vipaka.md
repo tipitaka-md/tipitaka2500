@@ -1,26 +1,5 @@
----
-title:  Kamma-vipāka
-path: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Kamma-vipaka
-ref: 265360
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.12 Ajjhattikaduka
-    link: /tipitaka/38P2/10/10.12
-  - name: 10.12.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.12/10.12.7
-  - name: 10.12.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1
-  - name: 10.12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1
-prevL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Pacchajatasevana
-upL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1
-nextL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Ahara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.12 Ajjhattikaduka](/tipitaka/38P2/10/10.12.md) / [10.12.7 Pañhāvāra](/tipitaka/38P2/10/10.12/10.12.7.md) / [10.12.7.1 Paccayānuloma](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1.md) / [10.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md)
 
 # Kamma-vipāka
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Ahara
 3183. Bāhiro dhammo ajjhattikassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  bāhirā cetanā cittassa kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  bāhirā cetanā vipākassa cittassa ajjhattikānañca kaṭattārūpānaṃ kammapaccayena paccayo. (2)
 
 3184. Bāhiro dhammo ajjhattikassa ca bāhirassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  bāhirā cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  bāhirā cetanā vipākānaṃ khandhānaṃ cittassa ca ajjhattikānañca bāhirānañca kaṭattārūpānaṃ kammapaccayena paccayo. (3) Vipākapaccayena paccayo…  nava.
+
+[Go to previous page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Pacchajatasevana.md) / [Go to parent page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Ahara.md)
 
 

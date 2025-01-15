@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4/Hetu
-ref: 263913
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.10 Upekkhāsahagataduka
-    link: /tipitaka/38P2/13/13.10
-  - name: 13.10.3 Paccayavāra
-    link: /tipitaka/38P2/13/13.10/13.10.3
-  - name: 13.10.3.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4
-prevL: /tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4
-upL: /tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4
-nextL: /tipitaka/38P2/13/13.10/13.10.4
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.10 Upekkhāsahagataduka](/tipitaka/38P2/13/13.10.md) / [13.10.3 Paccayavāra](/tipitaka/38P2/13/13.10/13.10.3.md) / [13.10.3.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4.md)
 
 # Hetu
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/38P2/13/13.10/13.10.4
 4483. Paccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4.md) / [Go to parent page](/tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4.md) / [Go to next page](/tipitaka/38P2/13/13.10/13.10.4.md)
 
 

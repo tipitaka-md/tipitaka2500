@@ -1,26 +1,11 @@
----
-title:  Anantara
-path: /tipitaka/36P1/2/2.7/2.7.3/Anantara
-ref: 260581
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.7/2.7.3
-prevL: /tipitaka/36P1/2/2.7/2.7.3/Adhipati/Vimamsadhipatighatana
-upL: /tipitaka/36P1/2/2.7/2.7.3
-nextL: /tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md)
 
 # Anantara
 
-* [Anantaraduka](/tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraduka)
-* [Anantaraghaṭanā](/tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraghatana)
+* [Anantaraduka](/tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraduka.md)
+* [Anantaraghaṭanā](/tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraghatana.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Adhipati/Vimamsadhipatighatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraduka.md)
 
 

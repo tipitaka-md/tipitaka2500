@@ -1,26 +1,5 @@
----
-title:  Naadhipatyādi
-path: /tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Naadhipatyadi
-ref: 265411
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.14 Upādinnaduka
-    link: /tipitaka/38P2/10/10.14
-  - name: 10.14.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.14/10.14.1
-  - name: 10.14.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.14/10.14.1/10.14.1.2
-  - name: 10.14.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1
-prevL: /tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Naarammana
-upL: /tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1
-nextL: /tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Napurejatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.14 Upādinnaduka](/tipitaka/38P2/10/10.14.md) / [10.14.1 Paṭiccavāra](/tipitaka/38P2/10/10.14/10.14.1.md) / [10.14.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2.md) / [10.14.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1.md)
 
 # Naadhipatyādi
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Napurejatadi
 (423.)
 
 3392. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
+
+[Go to previous page](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Naarammana.md) / [Go to parent page](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Napurejatadi.md)
 
 

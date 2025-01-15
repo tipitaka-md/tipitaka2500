@@ -1,21 +1,5 @@
----
-title:  Nahetuduka
-path: /tipitaka/37P1/23/23.7/23.7.4/Nahetuduka
-ref: 260910
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 23 Sanidassanasappaṭighattika
-    link: /tipitaka/37P1/23
-  - name: 23.7 Pañhāvāra
-    link: /tipitaka/37P1/23/23.7
-  - name: 23.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/37P1/23/23.7/23.7.4
-prevL: /tipitaka/37P1/23/23.7/23.7.4
-upL: /tipitaka/37P1/23/23.7/23.7.4
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.7 Pañhāvāra](/tipitaka/37P1/23/23.7.md) / [23.7.4 Paccayapaccanīyānuloma](/tipitaka/37P1/23/23.7/23.7.4.md)
 
 # Nahetuduka
 
@@ -51,5 +35,7 @@ Pañhāvāro niṭṭhito.
 3102. Dhammānulome tikapaṭṭhānaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/23/23.7/23.7.4.md) / [Go to parent page](/tipitaka/37P1/23/23.7/23.7.4.md)
 
 

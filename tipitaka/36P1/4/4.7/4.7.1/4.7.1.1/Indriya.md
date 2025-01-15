@@ -1,24 +1,5 @@
----
-title:  Indriya
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Indriya
-ref: 262702
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Ahara
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Jhana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Indriya
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Jhana
 2376. Nevavipākanavipākadhammadhammo vipākassa dhammassa indriyapaccayena paccayo—  cakkhundriyaṃ cakkhuviññāṇassa indriyapaccayena paccayo; kāyindriyaṃ…pe… . (2)
 
 2377. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā vipākassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Ahara.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Jhana.md)
 
 

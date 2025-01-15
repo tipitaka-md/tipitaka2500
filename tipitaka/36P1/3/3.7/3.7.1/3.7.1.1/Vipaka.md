@@ -1,24 +1,5 @@
----
-title:  Vipāka
-path: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Vipaka
-ref: 262603
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.7 Pañhāvāra
-    link: /tipitaka/36P1/3/3.7
-  - name: 3.7.1 Paccayānuloma
-    link: /tipitaka/36P1/3/3.7/3.7.1
-  - name: 3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1
-prevL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Kamma
-upL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1
-nextL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Aharadi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md)
 
 # Vipāka
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Aharadi
 1946. Dukkhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa vipākapaccayena paccayo—  vipāko dukkhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ vipākapaccayena paccayo…pe… . (1)
 
 1947. Adukkhamasukhāya vedanāya…pe…  vipāko adukkhamasukhāya vedanāya sampayutto eko khandho dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe… . (1)
+
+[Go to previous page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Kamma.md) / [Go to parent page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md) / [Go to next page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Aharadi.md)
 
 

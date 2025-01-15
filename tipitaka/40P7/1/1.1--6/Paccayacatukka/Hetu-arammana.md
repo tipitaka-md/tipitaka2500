@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P7/1/1.1--6/Paccayacatukka/Hetu-arammana
-ref: 262015
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P7
-  - name: 1 Kusalattika
-    link: /tipitaka/40P7/1
-  - name: 1.1--6 Paṭiccādivāra
-    link: /tipitaka/40P7/1/1.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/40P7/1/1.1--6/Paccayacatukka
-prevL: /tipitaka/40P7/1/1.1--6/Paccayacatukka
-upL: /tipitaka/40P7/1/1.1--6/Paccayacatukka
-nextL: /tipitaka/40P7/1/1.7
----
+
+[Home](/) / [40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P7.md) / [1 Kusalattika](/tipitaka/40P7/1.md) / [1.1--6 Paṭiccādivāra](/tipitaka/40P7/1/1.1--6.md) / [Paccayacatukka](/tipitaka/40P7/1/1.1--6/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -59,5 +42,7 @@ nextL: /tipitaka/40P7/1/1.7
 9. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa.
 
 10. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/40P7/1/1.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P7/1/1.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/40P7/1/1.7.md)
 
 

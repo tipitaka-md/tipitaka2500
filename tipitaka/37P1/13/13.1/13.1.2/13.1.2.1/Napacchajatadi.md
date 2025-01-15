@@ -1,24 +1,5 @@
----
-title:  Napacchājātādi
-path: /tipitaka/37P1/13/13.1/13.1.2/13.1.2.1/Napacchajatadi
-ref: 263100
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.1 Paṭiccavāra
-    link: /tipitaka/37P1/13/13.1
-  - name: 13.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/13/13.1/13.1.2
-  - name: 13.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.1/13.1.2/13.1.2.1
-prevL: /tipitaka/37P1/13/13.1/13.1.2/13.1.2.1/Napurejata
-upL: /tipitaka/37P1/13/13.1/13.1.2/13.1.2.1
-nextL: /tipitaka/37P1/13/13.1/13.1.2/13.1.2.1/Nakamma
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.1 Paṭiccavāra](/tipitaka/37P1/13/13.1.md) / [13.1.2 Paccayapaccanīya](/tipitaka/37P1/13/13.1/13.1.2.md) / [13.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.1/13.1.2/13.1.2.1.md)
 
 # Napacchājātādi
 
@@ -65,5 +46,7 @@ nextL: /tipitaka/37P1/13/13.1/13.1.2/13.1.2.1/Nakamma
 1934. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati naāsevanapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 1935. Parittañca mahaggatañca dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti naāsevanapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+
+[Go to previous page](/tipitaka/37P1/13/13.1/13.1.2/13.1.2.1/Napurejata.md) / [Go to parent page](/tipitaka/37P1/13/13.1/13.1.2/13.1.2.1.md) / [Go to next page](/tipitaka/37P1/13/13.1/13.1.2/13.1.2.1/Nakamma.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/11/11.5/11.5.1/11.5.1.1/Hetu
-ref: 263021
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.5 Saṃsaṭṭhavāra
-    link: /tipitaka/37P1/11/11.5
-  - name: 11.5.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.5/11.5.1
-  - name: 11.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.5/11.5.1/11.5.1.1
-prevL: /tipitaka/37P1/11/11.5/11.5.1/11.5.1.1
-upL: /tipitaka/37P1/11/11.5/11.5.1/11.5.1.1
-nextL: /tipitaka/37P1/11/11.5/11.5.1/11.5.1.1/Arammanadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.5 Saṃsaṭṭhavāra](/tipitaka/37P1/11/11.5.md) / [11.5.1 Paccayānuloma](/tipitaka/37P1/11/11.5/11.5.1.md) / [11.5.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.5/11.5.1/11.5.1.1.md)
 
 # Hetu
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/11/11.5/11.5.1/11.5.1.1/Arammanadi
 1544. Apacayagāmiṃ dhammaṃ saṃsaṭṭho apacayagāmī dhammo uppajjati hetupaccayā—  apacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 1545. Nevācayagāmināpacayagāmiṃ dhammaṃ saṃsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+
+[Go to previous page](/tipitaka/37P1/11/11.5/11.5.1/11.5.1.1.md) / [Go to parent page](/tipitaka/37P1/11/11.5/11.5.1/11.5.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.5/11.5.1/11.5.1.1/Arammanadi.md)
 
 

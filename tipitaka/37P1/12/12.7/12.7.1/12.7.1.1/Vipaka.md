@@ -1,24 +1,5 @@
----
-title:  Vipāka
-path: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Vipaka
-ref: 263084
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.7 Pañhāvāra
-    link: /tipitaka/37P1/12/12.7
-  - name: 12.7.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.7/12.7.1
-  - name: 12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-prevL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Kamma
-upL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Aharadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
 
 # Vipāka
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Aharadi
 1825. Asekkho dhammo asekkhassa dhammassa vipākapaccayena paccayo—  asekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe… . (Asekkhamūlake tīṇi.)
 
 1826. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa vipākapaccayena paccayo—  vipāko nevasekkhanāsekkho eko khandho tiṇṇannaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Kamma.md) / [Go to parent page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Aharadi.md)
 
 

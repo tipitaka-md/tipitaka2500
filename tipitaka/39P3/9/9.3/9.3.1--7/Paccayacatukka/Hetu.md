@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/9/9.3/9.3.1--7/Paccayacatukka/Hetu
-ref: 264248
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 9 Parāmāsagocchaka, Kusalattika
-    link: /tipitaka/39P3/9
-  - name: 9.3 Parāmāsasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/9/9.3
-  - name: 9.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/9/9.3/9.3.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/9/9.3/9.3.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/9/9.3/9.3.1--7/Paccayacatukka
-upL: /tipitaka/39P3/9/9.3/9.3.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/9/9.4
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [9 Parāmāsagocchaka, Kusalattika](/tipitaka/39P3/9.md) / [9.3 Parāmāsasampayuttaduka, Kusalattika](/tipitaka/39P3/9/9.3.md) / [9.3.1--7 Paṭiccādivāra](/tipitaka/39P3/9/9.3/9.3.1--7.md) / [Paccayacatukka](/tipitaka/39P3/9/9.3/9.3.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -73,5 +54,7 @@ nextL: /tipitaka/39P3/9/9.4
 1995. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 1996. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/9/9.3/9.3.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/9/9.3/9.3.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/9/9.4.md)
 
 

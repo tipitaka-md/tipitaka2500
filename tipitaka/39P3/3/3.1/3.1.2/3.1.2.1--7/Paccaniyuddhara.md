@@ -1,24 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccaniyuddhara
-ref: 264191
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 3 Cūḷantaraduka, Kusalattika
-    link: /tipitaka/39P3/3
-  - name: 3.1 Sappaccayaduka, Kusalattika
-    link: /tipitaka/39P3/3/3.1
-  - name: 3.1.2 Abyākatapada
-    link: /tipitaka/39P3/3/3.1/3.1.2
-  - name: 3.1.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7
-prevL: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetvadi
-upL: /tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7
-nextL: /tipitaka/39P3/3/3.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.1 Sappaccayaduka, Kusalattika](/tipitaka/39P3/3/3.1.md) / [3.1.2 Abyākatapada](/tipitaka/39P3/3/3.1/3.1.2.md) / [3.1.2.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7.md)
 
 # Paccanīyuddhāra
 
@@ -51,5 +32,7 @@ nextL: /tipitaka/39P3/3/3.2
 1496. Sappaccayadukakusalattikaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka/Hetvadi.md) / [Go to parent page](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7.md) / [Go to next page](/tipitaka/39P3/3/3.2.md)
 
 

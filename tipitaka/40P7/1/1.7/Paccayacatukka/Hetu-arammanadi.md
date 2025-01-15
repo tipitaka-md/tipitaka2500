@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇādi
-path: /tipitaka/40P7/1/1.7/Paccayacatukka/Hetu-arammanadi
-ref: 262016
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P7
-  - name: 1 Kusalattika
-    link: /tipitaka/40P7/1
-  - name: 1.7 Pañhāvāra
-    link: /tipitaka/40P7/1/1.7
-  - name: Paccayacatukka
-    link: /tipitaka/40P7/1/1.7/Paccayacatukka
-prevL: /tipitaka/40P7/1/1.7/Paccayacatukka
-upL: /tipitaka/40P7/1/1.7/Paccayacatukka
-nextL: /tipitaka/40P7/2
----
+
+[Home](/) / [40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P7.md) / [1 Kusalattika](/tipitaka/40P7/1.md) / [1.7 Pañhāvāra](/tipitaka/40P7/1/1.7.md) / [Paccayacatukka](/tipitaka/40P7/1/1.7/Paccayacatukka.md)
 
 # Hetu-ārammaṇādi
 
@@ -55,5 +38,7 @@ nextL: /tipitaka/40P7/2
 20. Hetuyā ekūnatiṃsa, ārammaṇe chattiṃsa, adhipatiyā pañcatiṃsa, anantare catuttiṃsa, samanantare catuttiṃsa, sahajāte ekūnatiṃsa, aññamaññe catuvīsa, nissaye catuttiṃsa, upanissaye chattiṃsa, purejāte aṭṭhārasa, pacchājāte aṭṭhārasa, āsevane catuvīsa, kamme ekūnatiṃsa, vipāke nava, āhāre ekūnatiṃsa…pe…  sampayutte catuvīsa, vippayutte sattavīsa…pe…  avigate catuttiṃsa.
 
 21. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/40P7/1/1.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P7/1/1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P7/2.md)
 
 

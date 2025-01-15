@@ -1,24 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Adhipati
-ref: 262920
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.7 Pañhāvāra
-    link: /tipitaka/37P1/9/9.7
-  - name: 9.7.1 Paccayānuloma
-    link: /tipitaka/37P1/9/9.7/9.7.1
-  - name: 9.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-prevL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Arammana
-upL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1
-nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Anantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.7 Pañhāvāra](/tipitaka/37P1/9/9.7.md) / [9.7.1 Paccayānuloma](/tipitaka/37P1/9/9.7/9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md)
 
 # Adhipati
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Anantara
 963. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. Pubbe suciṇṇāni garuṃ katvā…pe…  jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā…pe…  cakkhuṃ…pe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. (2)
 
 964. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbo rāgo uppajjati. Pubbe…pe…  nevadassanena nabhāvanāya pahātabbe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbo rāgo uppajjati. (3)
+
+[Go to previous page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Anantara.md)
 
 

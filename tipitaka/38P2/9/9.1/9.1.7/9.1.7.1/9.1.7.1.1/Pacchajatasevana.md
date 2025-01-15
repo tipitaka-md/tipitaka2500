@@ -1,26 +1,5 @@
----
-title:  Pacchājātāsevana
-path: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Pacchajatasevana
-ref: 265131
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.1 Parāmāsaduka
-    link: /tipitaka/38P2/9/9.1
-  - name: 9.1.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.1/9.1.7
-  - name: 9.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1
-  - name: 9.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
-prevL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Purejata
-upL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1
-nextL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Kamma
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.7 Pañhāvāra](/tipitaka/38P2/9/9.1/9.1.7.md) / [9.1.7.1 Paccayānuloma](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md)
 
 # Pacchājātāsevana
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Kamma
 (31.)
 
 2181. Parāmāso dhammo noparāmāsassa dhammassa pacchājātapaccayena paccayo…  tīṇi (pacchājātā kātabbā)…  āsevanapaccayena paccayo…  nava.
+
+[Go to previous page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Purejata.md) / [Go to parent page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Kamma.md)
 
 

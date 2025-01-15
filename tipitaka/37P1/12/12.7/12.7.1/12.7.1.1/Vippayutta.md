@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Vippayutta
-ref: 263086
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.7 Pañhāvāra
-    link: /tipitaka/37P1/12/12.7
-  - name: 12.7.1 Paccayānuloma
-    link: /tipitaka/37P1/12/12.7/12.7.1
-  - name: 12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-prevL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Aharadi
-upL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1
-nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Atthi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
 
 # Vippayutta
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Atthi
 1831. Nevasekkhanāsekkho dhammo sekkhassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu sekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 1832. Nevasekkhanāsekkho dhammo asekkhassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu asekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Aharadi.md) / [Go to parent page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Atthi.md)
 
 

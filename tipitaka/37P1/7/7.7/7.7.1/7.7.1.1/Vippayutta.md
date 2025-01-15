@@ -1,24 +1,5 @@
----
-title:  Vippayutta
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Vippayutta
-ref: 262845
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sampayutta
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Atthi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Vippayutta
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Atthi
 561. Avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  avitakkavicāramattā khandhā ca vicāro ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe avitakkavicāramattā khandhā ca vicāro ca kaṭattārūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  avitakkavicāramattā khandhā ca vicāro ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
 562. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkaavicārassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  savitakkasavicārā khandhā ca vitakko ca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe savitakkasavicārā khandhā ca vitakko ca kaṭattārūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  savitakkasavicārā khandhā ca vitakko ca purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sampayutta.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Atthi.md)
 
 

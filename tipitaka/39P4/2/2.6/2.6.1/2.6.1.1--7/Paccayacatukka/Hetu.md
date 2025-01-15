@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka/Hetu
-ref: 266120
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 2 Kusalattika, Hetugocchaka
-    link: /tipitaka/39P4/2
-  - name: 2.6 Kusalattika, Nahetusahetukaduka
-    link: /tipitaka/39P4/2/2.6
-  - name: 2.6.1 Nahetusahetukapada
-    link: /tipitaka/39P4/2/2.6/2.6.1
-  - name: 2.6.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka
-prevL: /tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka
-upL: /tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka
-nextL: /tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka/Arammana
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [2 Kusalattika, Hetugocchaka](/tipitaka/39P4/2.md) / [2.6 Kusalattika, Nahetusahetukaduka](/tipitaka/39P4/2/2.6.md) / [2.6.1 Nahetusahetukapada](/tipitaka/39P4/2/2.6/2.6.1.md) / [2.6.1.1--7 Paṭiccādivāra](/tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7.md) / [Paccayacatukka](/tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka/Arammana
 1073. Naadhipatiyā tīṇi…pe…  navippayutte tīṇi. (Saṃkhittaṃ.)
 
 1074. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/2/2.6/2.6.1/2.6.1.1--7/Paccayacatukka/Arammana.md)
 
 

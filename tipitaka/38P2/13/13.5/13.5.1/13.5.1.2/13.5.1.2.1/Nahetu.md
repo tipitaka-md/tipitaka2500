@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.1/Nahetu
-ref: 265617
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.5 Savitakkaduka
-    link: /tipitaka/38P2/13/13.5
-  - name: 13.5.1 Paṭiccavāra
-    link: /tipitaka/38P2/13/13.5/13.5.1
-  - name: 13.5.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.2
-  - name: 13.5.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.1
-prevL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.1
-upL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.1
-nextL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.1 Paṭiccavāra](/tipitaka/38P2/13/13.5/13.5.1.md) / [13.5.1.2 Paccayapaccanīya](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.2.md) / [13.5.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.1.md)
 
 # Nahetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.2
 4298. Avitakkaṃ dhammaṃ paṭicca savitakko ca avitakko ca dhammā uppajjanti nahetupaccayā. (Saṃkhittaṃ. Hetupaccayasadisaṃ. “Ahetukan”ti niyāmetabbaṃ.) (3)
 
 4299. Savitakkañca avitakkañca dhammaṃ paṭicca savitakko dhammo uppajjati nahetupaccayā—  ahetukaṃ savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vatthuñca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vitakkañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (Avasesā dve pañhā hetupaccayasadisā ninnānā, ahetukanti niyāmetabbaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.1.md) / [Go to parent page](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.1.md) / [Go to next page](/tipitaka/38P2/13/13.5/13.5.1/13.5.1.2/13.5.1.2.2.md)
 
 

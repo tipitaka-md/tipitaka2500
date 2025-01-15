@@ -1,26 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka/Hetu-arammana
-ref: 265966
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 2 Hetugocchaka, Kusalattika
-    link: /tipitaka/39P3/2
-  - name: 2.3 Hetusampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/2/2.3
-  - name: 2.3.2 Akusalapada
-    link: /tipitaka/39P3/2/2.3/2.3.2
-  - name: 2.3.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka
-prevL: /tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka
-upL: /tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka
-nextL: /tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka/Nahetu-naadhipati
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [2 Hetugocchaka, Kusalattika](/tipitaka/39P3/2.md) / [2.3 Hetusampayuttaduka, Kusalattika](/tipitaka/39P3/2/2.3.md) / [2.3.2 Akusalapada](/tipitaka/39P3/2/2.3/2.3.2.md) / [2.3.2.1--6 Paṭiccādivāra](/tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6.md) / [Paccayacatukka](/tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka/Nahetu-naadhipati
 (32.)
 
 1326. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā ekaṃ, anantare pañca, samanantare pañca, sahajāte pañca, aññamaññe pañca, nissaye pañca, upanissaye pañca, purejāte pañca, āsevane pañca, kamme pañca, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, sampayutte pañca, vippayutte pañca, atthiyā pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/2/2.3/2.3.2/2.3.2.1--6/Paccayacatukka/Nahetu-naadhipati.md)
 
 

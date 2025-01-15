@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya/Nahetu
-ref: 264356
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 3 Kusalattika, Cūḷantaraduka
-    link: /tipitaka/39P4/3
-  - name: 3.3 Kusalattika, Sanidassanaduka
-    link: /tipitaka/39P4/3/3.3
-  - name: 3.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/3/3.3/3.3.1--7
-  - name: Paccanīya
-    link: /tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya
-prevL: /tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya
-upL: /tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya
-nextL: /tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya/Hetu-arammana
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.3 Kusalattika, Sanidassanaduka](/tipitaka/39P4/3/3.3.md) / [3.3.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.3/3.3.1--7.md) / [Paccanīya](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya.md)
 
 # Nahetu
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya/Hetu-arammana
 1128. Abyākataṃ anidassanaṃ dhammaṃ paṭicca abyākato anidassano dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
 
 1129. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya.md) / [Go to parent page](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya.md) / [Go to next page](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya/Hetu-arammana.md)
 
 

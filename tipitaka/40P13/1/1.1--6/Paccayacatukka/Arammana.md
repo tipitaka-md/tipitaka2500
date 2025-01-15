@@ -1,22 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/40P13/1/1.1--6/Paccayacatukka/Arammana
-ref: 262027
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 1 Kusalattika
-    link: /tipitaka/40P13/1
-  - name: 1.1--6 Paṭiccādivāra
-    link: /tipitaka/40P13/1/1.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/40P13/1/1.1--6/Paccayacatukka
-prevL: /tipitaka/40P13/1/1.1--6/Paccayacatukka/Hetu
-upL: /tipitaka/40P13/1/1.1--6/Paccayacatukka
-nextL: /tipitaka/40P13/1/1.1--6/Paccaniya
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [1 Kusalattika](/tipitaka/40P13/1.md) / [1.1--6 Paṭiccādivāra](/tipitaka/40P13/1/1.1--6.md) / [Paccayacatukka](/tipitaka/40P13/1/1.1--6/Paccayacatukka.md)
 
 # Ārammaṇa
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/40P13/1/1.1--6/Paccaniya
 9. Abyākataṃ dhammaṃ paṭicca nakusalo dhammo uppajjati ārammaṇapaccayā. Abyākataṃ dhammaṃ paṭicca naakusalo dhammo uppajjati ārammaṇapaccayā. Abyākataṃ dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti ārammaṇapaccayā. (3) (Saṃkhittaṃ.)
 
 10. Hetuyā ekūnavīsa, ārammaṇe nava, adhipatiyā ekūnavīsa, anantare nava, samanantare nava, sahajāte ekūnavīsa…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa.
+
+[Go to previous page](/tipitaka/40P13/1/1.1--6/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/40P13/1/1.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/40P13/1/1.1--6/Paccaniya.md)
 
 

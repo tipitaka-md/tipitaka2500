@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1/Arammana
-ref: 265024
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.3 Ganthasampayuttaduka
-    link: /tipitaka/38P2/5/5.3
-  - name: 5.3.1 Paṭiccavāra
-    link: /tipitaka/38P2/5/5.3/5.3.1
-  - name: 5.3.1.1 Paccayānuloma
-    link: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1
-  - name: 5.3.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1
-prevL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1/Hetu
-upL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1
-nextL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.1 Paṭiccavāra](/tipitaka/38P2/5/5.3/5.3.1.md) / [5.3.1.1 Paccayānuloma](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1.md) / [5.3.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1.md)
 
 # Ārammaṇa
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.2
 1732. Ganthavippayuttaṃ dhammaṃ paṭicca ganthasampayutto dhammo uppajjati ārammaṇapaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā khandhā, paṭighaṃ paṭicca sampayuttakā khandhā. (2)
 
 1733. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthasampayutto dhammo uppajjati ārammaṇapaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  (Saṃkhittaṃ.) (1)
+
+[Go to previous page](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.3/5.3.1/5.3.1.1/5.3.1.1.2.md)
 
 

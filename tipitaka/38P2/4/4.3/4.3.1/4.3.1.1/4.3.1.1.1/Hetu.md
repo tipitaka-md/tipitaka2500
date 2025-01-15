@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1/Hetu
-ref: 264960
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.3 Saññojanasampayuttaduka
-    link: /tipitaka/38P2/4/4.3
-  - name: 4.3.1 Paṭiccavāra
-    link: /tipitaka/38P2/4/4.3/4.3.1
-  - name: 4.3.1.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.3/4.3.1/4.3.1.1
-  - name: 4.3.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1
-prevL: /tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1
-upL: /tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1
-nextL: /tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.1 Paṭiccavāra](/tipitaka/38P2/4/4.3/4.3.1.md) / [4.3.1.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.1/4.3.1.1.md) / [4.3.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1/Arammana
 1426. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paṭicca saññojanavippayutto dhammo uppajjati hetupaccayā—  saññojanasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 1427. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paṭicca saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti hetupaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1.md) / [Go to parent page](/tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1/Arammana.md)
 
 

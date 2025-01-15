@@ -1,24 +1,5 @@
----
-title:  Navaka
-path: /tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka/Navaka
-ref: 262530
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.4
-  - name: Nasahajātaduka
-    link: /tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka
-prevL: /tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka/Pancaka
-upL: /tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka
-nextL: /tipitaka/36P1/2/2.7/2.7.4/Naannamannaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md) / [Nasahajātaduka](/tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka.md)
 
 # Navaka
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.4/Naannamannaduka
 1721. Nasahajātamūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka/Pancaka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.4/Naannamannaduka.md)
 
 

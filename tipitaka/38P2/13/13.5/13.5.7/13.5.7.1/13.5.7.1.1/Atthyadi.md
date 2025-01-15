@@ -1,26 +1,5 @@
----
-title:  Atthyādi
-path: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Atthyadi
-ref: 265630
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.5 Savitakkaduka
-    link: /tipitaka/38P2/13/13.5
-  - name: 13.5.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.5/13.5.7
-  - name: 13.5.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1
-  - name: 13.5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1
-prevL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Kammadi
-upL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1
-nextL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.7 Pañhāvāra](/tipitaka/38P2/13/13.5/13.5.7.md) / [13.5.7.1 Paccayānuloma](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md)
 
 # Atthyādi
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2
 4366. Savitakko ca avitakko ca dhammā savitakkassa ca avitakkassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  savitakko eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  savitakko eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ vitakkassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (Paṭisandhiyāpi dve.) (3)
 
 4367. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+
+[Go to previous page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Kammadi.md) / [Go to parent page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Nahetu-naārammaṇa
-path: /tipitaka/40P13/1/1.1--6/Paccaniya/Nahetu-naarammana
-ref: 262028
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 1 Kusalattika
-    link: /tipitaka/40P13/1
-  - name: 1.1--6 Paṭiccādivāra
-    link: /tipitaka/40P13/1/1.1--6
-  - name: Paccanīya
-    link: /tipitaka/40P13/1/1.1--6/Paccaniya
-prevL: /tipitaka/40P13/1/1.1--6/Paccaniya
-upL: /tipitaka/40P13/1/1.1--6/Paccaniya
-nextL: /tipitaka/40P13/1/1.7
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [1 Kusalattika](/tipitaka/40P13/1.md) / [1.1--6 Paṭiccādivāra](/tipitaka/40P13/1/1.1--6.md) / [Paccanīya](/tipitaka/40P13/1/1.1--6/Paccaniya.md)
 
 # Nahetu-naārammaṇa
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/40P13/1/1.7
 15. Nahetuyā cha, naārammaṇe pannarasa, naadhipatiyā ekūnavīsa…pe…  nakamme nava…pe…  naāhāre…pe…  namagge tīṇi…pe…  novigate pannarasa.
 
 16. (Paccanīyaṃ vitthāretabbaṃ. Sahajātavārampi paccayavārampi vitthāretabbaṃ. Paccayavārepi hetuyā chabbīsa, ārammaṇe aṭṭhārasa…pe…  avigate chabbīsa. Nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/40P13/1/1.1--6/Paccaniya.md) / [Go to parent page](/tipitaka/40P13/1/1.1--6/Paccaniya.md) / [Go to next page](/tipitaka/40P13/1/1.7.md)
 
 

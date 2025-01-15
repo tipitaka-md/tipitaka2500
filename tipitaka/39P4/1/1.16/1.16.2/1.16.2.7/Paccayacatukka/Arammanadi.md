@@ -1,26 +1,5 @@
----
-title:  Ārammaṇādi
-path: /tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka/Arammanadi
-ref: 266085
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.16 Maggārammaṇattika, Hetuduka
-    link: /tipitaka/39P4/1/1.16
-  - name: 1.16.2 Nahetupada
-    link: /tipitaka/39P4/1/1.16/1.16.2
-  - name: 1.16.2.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.16/1.16.2/1.16.2.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka
-upL: /tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka/Anantara-upanissaya
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.16 Maggārammaṇattika, Hetuduka](/tipitaka/39P4/1/1.16.md) / [1.16.2 Nahetupada](/tipitaka/39P4/1/1.16/1.16.2.md) / [1.16.2.7 Pañhāvāra](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka.md)
 
 # Ārammaṇādi
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka/Anantara-upanissaya
 764. Maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā maggārammaṇassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
 
 765. Maggahetuko nahetu ca maggādhipati nahetu ca dhammā maggahetukassa nahetussa dhammassa adhipatipaccayena paccayo…  pañca.
+
+[Go to previous page](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka/Anantara-upanissaya.md)
 
 

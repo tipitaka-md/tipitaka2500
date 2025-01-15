@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/12/12.2/12.2.1--7/Paccayacatukka/Hetu
-ref: 264273
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 12 Kilesagocchaka, Kusalattika
-    link: /tipitaka/39P3/12
-  - name: 12.2 Saṃkilesikaduka, Kusalattika
-    link: /tipitaka/39P3/12/12.2
-  - name: 12.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/12/12.2/12.2.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/12/12.2/12.2.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/12/12.2/12.2.1--7/Paccayacatukka
-upL: /tipitaka/39P3/12/12.2/12.2.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/12/12.3
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [12 Kilesagocchaka, Kusalattika](/tipitaka/39P3/12.md) / [12.2 Saṃkilesikaduka, Kusalattika](/tipitaka/39P3/12/12.2.md) / [12.2.1--7 Paṭiccādivāra](/tipitaka/39P3/12/12.2/12.2.1--7.md) / [Paccayacatukka](/tipitaka/39P3/12/12.2/12.2.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -61,5 +42,7 @@ nextL: /tipitaka/39P3/12/12.3
 (13.)
 
 2327. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ. Lokiyadukaabyākatasadisaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/12/12.2/12.2.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/12/12.2/12.2.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/12/12.3.md)
 
 

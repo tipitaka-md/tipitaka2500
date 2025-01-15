@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/5/5.6/5.6.1--7/Hetu
-ref: 261127
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.6 Ganthavippayuttaganthaniyaduka
-    link: /tipitaka/38P2/5/5.6
-  - name: 5.6.1--7 Paṭiccādivāra
-    link: /tipitaka/38P2/5/5.6/5.6.1--7
-prevL: /tipitaka/38P2/5/5.6/5.6.1--7
-upL: /tipitaka/38P2/5/5.6/5.6.1--7
-nextL: /tipitaka/38P2/6--7
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.6 Ganthavippayuttaganthaniyaduka](/tipitaka/38P2/5/5.6.md) / [5.6.1--7 Paṭiccādivāra](/tipitaka/38P2/5/5.6/5.6.1--7.md)
 
 # Hetu
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/38P2/6--7
 1885. Ganthagocchakaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/5/5.6/5.6.1--7.md) / [Go to parent page](/tipitaka/38P2/5/5.6/5.6.1--7.md) / [Go to next page](/tipitaka/38P2/6--7.md)
 
 

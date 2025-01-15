@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/16/16.1/16.1.1/16.1.1.1/Hetu
-ref: 263164
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 16 Micchattaniyatattika
-    link: /tipitaka/37P1/16
-  - name: 16.1 Paṭiccavāra
-    link: /tipitaka/37P1/16/16.1
-  - name: 16.1.1 Paccayānuloma
-    link: /tipitaka/37P1/16/16.1/16.1.1
-  - name: 16.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/16/16.1/16.1.1/16.1.1.1
-prevL: /tipitaka/37P1/16/16.1/16.1.1/16.1.1.1
-upL: /tipitaka/37P1/16/16.1/16.1.1/16.1.1.1
-nextL: /tipitaka/37P1/16/16.1/16.1.1/16.1.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.1 Paṭiccavāra](/tipitaka/37P1/16/16.1.md) / [16.1.1 Paccayānuloma](/tipitaka/37P1/16/16.1/16.1.1.md) / [16.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.1/16.1.1/16.1.1.1.md)
 
 # Hetu
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/37P1/16/16.1/16.1.1/16.1.1.1/Arammana
 2268. Micchattaniyatañca aniyatañca dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  micchattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 2269. Sammattaniyatañca aniyatañca dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  sammattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/37P1/16/16.1/16.1.1/16.1.1.1.md) / [Go to parent page](/tipitaka/37P1/16/16.1/16.1.1/16.1.1.1.md) / [Go to next page](/tipitaka/37P1/16/16.1/16.1.1/16.1.1.1/Arammana.md)
 
 

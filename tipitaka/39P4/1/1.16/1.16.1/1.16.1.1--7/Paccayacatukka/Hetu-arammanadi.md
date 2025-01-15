@@ -1,26 +1,5 @@
----
-title:  Hetu-ārammaṇādi
-path: /tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7/Paccayacatukka/Hetu-arammanadi
-ref: 266082
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.16 Maggārammaṇattika, Hetuduka
-    link: /tipitaka/39P4/1/1.16
-  - name: 1.16.1 Hetupada
-    link: /tipitaka/39P4/1/1.16/1.16.1
-  - name: 1.16.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.16/1.16.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.16 Maggārammaṇattika, Hetuduka](/tipitaka/39P4/1/1.16.md) / [1.16.1 Hetupada](/tipitaka/39P4/1/1.16/1.16.1.md) / [1.16.1.1--7 Paṭiccādivāra](/tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇādi
 
@@ -83,5 +62,7 @@ nextL: /tipitaka/39P4/1/1.16/1.16.2
 745. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 746. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P4/1/1.16/1.16.1/1.16.1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.16/1.16.2.md)
 
 

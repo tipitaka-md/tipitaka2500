@@ -1,24 +1,5 @@
----
-title:  Ārammaṇadukādi
-path: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Arammanadukadi
-ref: 262090
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.1/2.1.1
-  - name: 2.1.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2
-prevL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Bavisaka
-upL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2
-nextL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Asevanaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md)
 
 # Ārammaṇadukādi
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Asevanaduka
 189. Upanissayapaccayā hetuyā tīṇi…pe… .
 
 190. Purejātapaccayā hetuyā tīṇi…pe… .
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Bavisaka.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Asevanaduka.md)
 
 

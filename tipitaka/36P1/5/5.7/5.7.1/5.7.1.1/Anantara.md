@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Anantara
-ref: 262760
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.7 Pañhāvāra
-    link: /tipitaka/36P1/5/5.7
-  - name: 5.7.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.7/5.7.1
-  - name: 5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-prevL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Adhipati
-upL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Samanantara
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md)
 
 # Anantara
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Samanantara
 2629. Anupādinnaanupādāniyo dhammo anupādinnaanupādāniyassa dhammassa anantarapaccayena paccayo—  purimā purimā anupādinnaanupādāniyā khandhā pacchimānaṃ pacchimānaṃ anupādinnaanupādāniyānaṃ khandhānaṃ anantarapaccayena paccayo. Maggo phalassa…  phalaṃ phalassa anantarapaccayena paccayo. (1)
 
 2630. Anupādinnaanupādāniyo dhammo upādinnupādāniyassa dhammassa anantarapaccayena paccayo—  phalaṃ vuṭṭhānassa anantarapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Samanantara.md)
 
 

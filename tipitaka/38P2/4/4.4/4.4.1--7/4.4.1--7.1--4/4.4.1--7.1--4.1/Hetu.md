@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1/Hetu
-ref: 264988
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.4 Saññojanasaññojaniyaduka
-    link: /tipitaka/38P2/4/4.4
-  - name: 4.4.1--7 Paṭiccādivāra
-    link: /tipitaka/38P2/4/4.4/4.4.1--7
-  - name: 4.4.1--7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4
-  - name: 4.4.1--7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1
-prevL: /tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1
-upL: /tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1
-nextL: /tipitaka/38P2/4/4.5
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.4 Saññojanasaññojaniyaduka](/tipitaka/38P2/4/4.4.md) / [4.4.1--7 Paṭiccādivāra](/tipitaka/38P2/4/4.4/4.4.1--7.md) / [4.4.1--7.1--4 Paccayānulomādi](/tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4.md) / [4.4.1--7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1.md)
 
 # Hetu
 
@@ -69,5 +48,7 @@ nextL: /tipitaka/38P2/4/4.5
 1570. Saññojanasaññojaniyadukaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1.md) / [Go to parent page](/tipitaka/38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1.md) / [Go to next page](/tipitaka/38P2/4/4.5.md)
 
 

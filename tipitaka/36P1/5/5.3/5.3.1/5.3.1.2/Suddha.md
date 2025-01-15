@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2/Suddha
-ref: 262746
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.3 Paccayavāra
-    link: /tipitaka/36P1/5/5.3
-  - name: 5.3.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.3/5.3.1
-  - name: 5.3.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2
-prevL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2
-upL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2
-nextL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2/Hetuduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.3 Paccayavāra](/tipitaka/36P1/5/5.3.md) / [5.3.1 Paccayānuloma](/tipitaka/36P1/5/5.3/5.3.1.md) / [5.3.1.2 Saṅkhyāvāra](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.2.md)
 
 # Suddha
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/5/5.3/5.3.1/5.3.1.2/Hetuduka
 (35.)
 
 2549. Hetuyā ekādasa, ārammaṇe satta, adhipatiyā nava, anantare satta, samanantare satta, sahajāte ekādasa, aññamaññe satta, nissaye ekādasa, upanissaye satta, purejāte satta, āsevane cha, kamme ekādasa, vipāke ekādasa, āhāre ekādasa, indriye ekādasa, jhāne ekādasa, magge ekādasa, sampayutte satta, vippayutte ekādasa, atthiyā ekādasa, natthiyā satta, vigate satta, avigate ekādasa.
+
+[Go to previous page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.2.md) / [Go to parent page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.2.md) / [Go to next page](/tipitaka/36P1/5/5.3/5.3.1/5.3.1.2/Hetuduka.md)
 
 

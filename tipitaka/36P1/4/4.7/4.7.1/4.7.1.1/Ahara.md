@@ -1,24 +1,5 @@
----
-title:  Āhāra
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Ahara
-ref: 262701
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Vipaka
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Indriya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Āhāra
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Indriya
 2372. Vipākadhammadhammo vipākadhammadhammassa āhārapaccayena paccayo…  tīṇi.
 
 2373. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa āhārapaccayena paccayo—  nevavipākanavipākadhammadhammā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānañca rūpānaṃ āhārapaccayena paccayo. **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Vipaka.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Indriya.md)
 
 

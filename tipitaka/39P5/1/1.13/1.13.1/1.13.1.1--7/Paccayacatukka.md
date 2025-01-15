@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P5/1/1.13/1.13.1/1.13.1.1--7/Paccayacatukka
-ref: 264398
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 1 Kusalattika, Tika
-    link: /tipitaka/39P5/1
-  - name: 1.13 Kusalattika, Hīnattika
-    link: /tipitaka/39P5/1/1.13
-  - name: 1.13.1 Hīnapada
-    link: /tipitaka/39P5/1/1.13/1.13.1
-  - name: 1.13.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/1/1.13/1.13.1/1.13.1.1--7
-prevL: /tipitaka/39P5/1/1.13/1.13.1/1.13.1.1--7
-upL: /tipitaka/39P5/1/1.13/1.13.1/1.13.1.1--7
-nextL: /tipitaka/39P5/1/1.13/1.13.2
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.13 Kusalattika, Hīnattika](/tipitaka/39P5/1/1.13.md) / [1.13.1 Hīnapada](/tipitaka/39P5/1/1.13/1.13.1.md) / [1.13.1.1--7 Paṭiccādivāra](/tipitaka/39P5/1/1.13/1.13.1/1.13.1.1--7.md)
 
 # Paccayacatukka
 
@@ -71,5 +52,7 @@ nextL: /tipitaka/39P5/1/1.13/1.13.2
 203. (Saṃkhittaṃ.)
 
 204. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P5/1/1.13/1.13.1/1.13.1.1--7.md) / [Go to parent page](/tipitaka/39P5/1/1.13/1.13.1/1.13.1.1--7.md) / [Go to next page](/tipitaka/39P5/1/1.13/1.13.2.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Upanissaya
-ref: 265755
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.18 Saraṇaduka
-    link: /tipitaka/38P2/13/13.18
-  - name: 13.18.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.18/13.18.7
-  - name: 13.18.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1
-  - name: 13.18.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1
-prevL: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Anantaradi
-upL: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1
-nextL: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Purejatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.18 Saraṇaduka](/tipitaka/38P2/13/13.18.md) / [13.18.7 Pañhāvāra](/tipitaka/38P2/13/13.18/13.18.7.md) / [13.18.7.1 Paccayānuloma](/tipitaka/38P2/13/13.18/13.18.7/13.18.7.1.md) / [13.18.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1.md)
 
 # Upanissaya
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Purejatadi
 4822. Araṇo dhammo araṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti; sīlaṃ…pe…  paññaṃ…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti; saddhā…pe…  senāsanaṃ saddhāya…pe…  paññāya…  kāyikassa sukhassa…  kāyikassa dukkhassa…  maggassa…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 4823. Araṇo dhammo saraṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ rāgassa…pe…  patthanāya upanissayapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1/Purejatadi.md)
 
 

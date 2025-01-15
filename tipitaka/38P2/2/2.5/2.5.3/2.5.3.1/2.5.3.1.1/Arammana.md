@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.1/Arammana
-ref: 264824
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.5 Rūpīduka
-    link: /tipitaka/38P2/2/2.5
-  - name: 2.5.3 Paccayavāra
-    link: /tipitaka/38P2/2/2.5/2.5.3
-  - name: 2.5.3.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.1
-  - name: 2.5.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.1
-prevL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.1/Hetu
-upL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.1
-nextL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.3 Paccayavāra](/tipitaka/38P2/2/2.5/2.5.3.md) / [2.5.3.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.1.md) / [2.5.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.1.md)
 
 # Ārammaṇa
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.2
 778. Arūpiṃ dhammaṃ paccayā arūpī dhammo uppajjati ārammaṇapaccayā—  arūpiṃ ekaṃ khandhaṃ…pe…  dve khandhe…pe… . (2)
 
 779. Rūpiñca arūpiñca dhammaṃ paccayā arūpī dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe…pe…  kāyaviññāṇasahagataṃ…pe…  arūpiṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  (Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.1/2.5.3.1.2.md)
 
 

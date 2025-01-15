@@ -1,18 +1,5 @@
----
-title:  Verañjakaṇḍa
-path: /tipitaka/1V/1/Veranjakanda
-ref: 271796
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 1V Pārājikapāḷi
-    link: /tipitaka/1V
-  - name: 1 Mahāvibhaṅga
-    link: /tipitaka/1V/1
-prevL: /tipitaka/1V/1
-upL: /tipitaka/1V/1
-nextL: /tipitaka/1V/1/1.1
----
+
+[Home](/) / [1V Pārājikapāḷi](/tipitaka/1V.md) / [1 Mahāvibhaṅga](/tipitaka/1V/1.md)
 
 # Verañjakaṇḍa
 
@@ -147,5 +134,7 @@ nextL: /tipitaka/1V/1/1.1
 40. Verañjabhāṇavāro niṭṭhito.
 
 
+
+[Go to previous page](/tipitaka/1V/1.md) / [Go to parent page](/tipitaka/1V/1.md) / [Go to next page](/tipitaka/1V/1/1.1.md)
 
 

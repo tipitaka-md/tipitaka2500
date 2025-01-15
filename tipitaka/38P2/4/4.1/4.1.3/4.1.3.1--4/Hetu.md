@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4/Hetu
-ref: 263551
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.1 Saññojanaduka
-    link: /tipitaka/38P2/4/4.1
-  - name: 4.1.3 Paccayavāra
-    link: /tipitaka/38P2/4/4.1/4.1.3
-  - name: 4.1.3.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4
-prevL: /tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4
-upL: /tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4
-nextL: /tipitaka/38P2/4/4.1/4.1.4
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.1 Saññojanaduka](/tipitaka/38P2/4/4.1.md) / [4.1.3 Paccayavāra](/tipitaka/38P2/4/4.1/4.1.3.md) / [4.1.3.1--4 Paccayānulomādi](/tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4.md)
 
 # Hetu
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/38P2/4/4.1/4.1.4
 (13.)
 
 1353. Nahetuyā cattāri (yattha yattha vatthu labbhati, tattha tattha ninnetabbaṃ), naārammaṇe tīṇi…pe…  novigate tīṇi.
+
+[Go to previous page](/tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4.md) / [Go to parent page](/tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4.md) / [Go to next page](/tipitaka/38P2/4/4.1/4.1.4.md)
 
 

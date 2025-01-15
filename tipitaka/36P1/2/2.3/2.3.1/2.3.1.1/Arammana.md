@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Arammana
-ref: 262200
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.3/2.3.1
-  - name: 2.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-prevL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Hetu
-upL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Adhipati
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md)
 
 # Ārammaṇa
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Adhipati
 (117.)
 
 436. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati ārammaṇapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Hetu.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Adhipati.md)
 
 

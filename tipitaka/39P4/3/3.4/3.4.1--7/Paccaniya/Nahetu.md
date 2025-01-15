@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Nahetu
-ref: 264360
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 3 Kusalattika, Cūḷantaraduka
-    link: /tipitaka/39P4/3
-  - name: 3.4 Kusalattika, Sappaṭighaduka
-    link: /tipitaka/39P4/3/3.4
-  - name: 3.4.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/3/3.4/3.4.1--7
-  - name: Paccanīya
-    link: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya
-prevL: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya
-upL: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya
-nextL: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Hetu
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.4 Kusalattika, Sappaṭighaduka](/tipitaka/39P4/3/3.4.md) / [3.4.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.4/3.4.1--7.md) / [Paccanīya](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya.md)
 
 # Nahetu
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Hetu
 1152. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ.)
 
 1153. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya.md) / [Go to parent page](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya.md) / [Go to next page](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya/Hetu.md)
 
 

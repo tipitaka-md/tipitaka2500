@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P5/2/2.7/2.7.1--7/Hetu
-ref: 261993
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 2 Tika, Kusalattika
-    link: /tipitaka/39P5/2
-  - name: 2.7 Dassanattika, Kusalattika
-    link: /tipitaka/39P5/2/2.7
-  - name: 2.7.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/2/2.7/2.7.1--7
-prevL: /tipitaka/39P5/2/2.7/2.7.1--7
-upL: /tipitaka/39P5/2/2.7/2.7.1--7
-nextL: /tipitaka/39P5/2/2.8
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.7 Dassanattika, Kusalattika](/tipitaka/39P5/2/2.7.md) / [2.7.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.7/2.7.1--7.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/39P5/2/2.8
 (19.)
 
 360. Nevadassanena nabhāvanāya pahātabbaṃ abyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P5/2/2.7/2.7.1--7.md) / [Go to parent page](/tipitaka/39P5/2/2.7/2.7.1--7.md) / [Go to next page](/tipitaka/39P5/2/2.8.md)
 
 

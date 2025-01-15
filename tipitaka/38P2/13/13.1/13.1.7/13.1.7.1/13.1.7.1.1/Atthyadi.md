@@ -1,26 +1,5 @@
----
-title:  Atthyādi
-path: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Atthyadi
-ref: 265579
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.1 Dassanenapahātabbaduka
-    link: /tipitaka/38P2/13/13.1
-  - name: 13.1.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.1/13.1.7
-  - name: 13.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1
-  - name: 13.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1
-prevL: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Vippayutta
-upL: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1
-nextL: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.1 Dassanenapahātabbaduka](/tipitaka/38P2/13/13.1.md) / [13.1.7 Pañhāvāra](/tipitaka/38P2/13/13.1/13.1.7.md) / [13.1.7.1 Paccayānuloma](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1.md) / [13.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1.md)
 
 # Atthyādi
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.2
 4122. Dassanena pahātabbo ca nadassanena pahātabbo ca dhammā nadassanena pahātabbassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  dassanena pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  dassanena pahātabbā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  dassanena pahātabbā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 4123. Natthipaccayena paccayo, vigatapaccayena paccayo, avigatapaccayena paccayo.
+
+[Go to previous page](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.2.md)
 
 

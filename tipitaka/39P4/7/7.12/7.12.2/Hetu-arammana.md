@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P4/7/7.12/7.12.2/Hetu-arammana
-ref: 261931
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.12 Kusalattika, Pariyāpannaduka
-    link: /tipitaka/39P4/7/7.12
-  - name: 7.12.2 Apariyāpannapada
-    link: /tipitaka/39P4/7/7.12/7.12.2
-prevL: /tipitaka/39P4/7/7.12/7.12.2
-upL: /tipitaka/39P4/7/7.12/7.12.2
-nextL: /tipitaka/39P4/7/7.13
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.12 Kusalattika, Pariyāpannaduka](/tipitaka/39P4/7/7.12.md) / [7.12.2 Apariyāpannapada](/tipitaka/39P4/7/7.12/7.12.2.md)
 
 # Hetu-ārammaṇa
 
@@ -49,5 +32,7 @@ nextL: /tipitaka/39P4/7/7.13
 1656. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe…  upanissaye cattāri…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1657. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.12/7.12.2.md) / [Go to parent page](/tipitaka/39P4/7/7.12/7.12.2.md) / [Go to next page](/tipitaka/39P4/7/7.13.md)
 
 

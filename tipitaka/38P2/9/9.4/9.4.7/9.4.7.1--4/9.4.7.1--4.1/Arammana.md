@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1/Arammana
-ref: 265162
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.4 Parāmāsaparāmaṭṭhaduka
-    link: /tipitaka/38P2/9/9.4
-  - name: 9.4.7 Pañhāvāra
-    link: /tipitaka/38P2/9/9.4/9.4.7
-  - name: 9.4.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4
-  - name: 9.4.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1
-prevL: /tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1/Hetu
-upL: /tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1
-nextL: /tipitaka/38P2/9/9.5
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.4 Parāmāsaparāmaṭṭhaduka](/tipitaka/38P2/9/9.4.md) / [9.4.7 Pañhāvāra](/tipitaka/38P2/9/9.4/9.4.7.md) / [9.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4.md) / [9.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1.md)
 
 # Ārammaṇa
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/38P2/9/9.5
 2311. Parāmāsaparāmaṭṭhadukaṃ niṭṭhitaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/9/9.5.md)
 
 

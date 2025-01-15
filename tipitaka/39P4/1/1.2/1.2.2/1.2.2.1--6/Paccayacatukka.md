@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.1--6/Paccayacatukka
-ref: 264283
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.2 Vedanāttika, Hetuduka
-    link: /tipitaka/39P4/1/1.2
-  - name: 1.2.2 Nahetupada
-    link: /tipitaka/39P4/1/1.2/1.2.2
-  - name: 1.2.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.1--6
-prevL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.1--6
-upL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.1--6
-nextL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.2 Vedanāttika, Hetuduka](/tipitaka/39P4/1/1.2.md) / [1.2.2 Nahetupada](/tipitaka/39P4/1/1.2/1.2.2.md) / [1.2.2.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.1--6.md)
 
 # Paccayacatukka
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/39P4/1/1.2/1.2.2/1.2.2.7
 103. Nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe…  navippayutte dve. (Saṃkhittaṃ.)
 
 104. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.1--6.md) / [Go to parent page](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.1--6.md) / [Go to next page](/tipitaka/39P4/1/1.2/1.2.2/1.2.2.7.md)
 
 

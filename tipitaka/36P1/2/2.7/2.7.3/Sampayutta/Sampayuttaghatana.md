@@ -1,24 +1,5 @@
----
-title:  Sampayuttaghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.3/Sampayutta/Sampayuttaghatana
-ref: 262504
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.7/2.7.3
-  - name: Sampayutta
-    link: /tipitaka/36P1/2/2.7/2.7.3/Sampayutta
-prevL: /tipitaka/36P1/2/2.7/2.7.3/Sampayutta/Sampayuttaduka
-upL: /tipitaka/36P1/2/2.7/2.7.3/Sampayutta
-nextL: /tipitaka/36P1/2/2.7/2.7.3/Vippayutta
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Sampayutta](/tipitaka/36P1/2/2.7/2.7.3/Sampayutta.md)
 
 # Sampayuttaghaṭanā
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.3/Vippayutta
 1645. Sampayuttamūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.3/Sampayutta/Sampayuttaduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.3/Sampayutta.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.3/Vippayutta.md)
 
 

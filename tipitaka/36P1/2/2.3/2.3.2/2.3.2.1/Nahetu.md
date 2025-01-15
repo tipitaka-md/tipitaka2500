@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Nahetu
-ref: 262225
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.3/2.3.2
-  - name: 2.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1
-prevL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1
-upL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1
-nextL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Naarammana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.2 Paccayapaccanīya](/tipitaka/36P1/2/2.3/2.3.2.md) / [2.3.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1.md)
 
 # Nahetu
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Naarammana
 516. Abyākataṃ dhammaṃ paccayā akusalo dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 517. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Naarammana.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/11/11.1--7/Paccayanuloma/Hetu
-ref: 262042
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 11 Sekkhattika
-    link: /tipitaka/40P13/11
-  - name: 11.1--7 Paṭiccādivāra
-    link: /tipitaka/40P13/11/11.1--7
-  - name: Paccayānuloma
-    link: /tipitaka/40P13/11/11.1--7/Paccayanuloma
-prevL: /tipitaka/40P13/11/11.1--7/Paccayanuloma
-upL: /tipitaka/40P13/11/11.1--7/Paccayanuloma
-nextL: /tipitaka/40P13/12
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [11 Sekkhattika](/tipitaka/40P13/11.md) / [11.1--7 Paṭiccādivāra](/tipitaka/40P13/11/11.1--7.md) / [Paccayānuloma](/tipitaka/40P13/11/11.1--7/Paccayanuloma.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P13/12
 103. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nasekkho dhammo uppajjati hetupaccayā. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca naasekkho dhammo uppajjati hetupaccayā. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
 
 104. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  avigate ekūnavīsa. (Sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/40P13/11/11.1--7/Paccayanuloma.md) / [Go to parent page](/tipitaka/40P13/11/11.1--7/Paccayanuloma.md) / [Go to next page](/tipitaka/40P13/12.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/36P1/4/4.2/4.2.1/4.2.1.2/Suddha
-ref: 262665
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.2 Sahajātavāra
-    link: /tipitaka/36P1/4/4.2
-  - name: 4.2.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.2/4.2.1
-  - name: 4.2.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/4/4.2/4.2.1/4.2.1.2
-prevL: /tipitaka/36P1/4/4.2/4.2.1/4.2.1.2
-upL: /tipitaka/36P1/4/4.2/4.2.1/4.2.1.2
-nextL: /tipitaka/36P1/4/4.2/4.2.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.2 Sahajātavāra](/tipitaka/36P1/4/4.2.md) / [4.2.1 Paccayānuloma](/tipitaka/36P1/4/4.2/4.2.1.md) / [4.2.1.2 Saṅkhyāvāra](/tipitaka/36P1/4/4.2/4.2.1/4.2.1.2.md)
 
 # Suddha
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/4/4.2/4.2.2
 (54.)
 
 2160. Hetuyā terasa…pe…  avigate terasa…pe… .
+
+[Go to previous page](/tipitaka/36P1/4/4.2/4.2.1/4.2.1.2.md) / [Go to parent page](/tipitaka/36P1/4/4.2/4.2.1/4.2.1.2.md) / [Go to next page](/tipitaka/36P1/4/4.2/4.2.2.md)
 
 

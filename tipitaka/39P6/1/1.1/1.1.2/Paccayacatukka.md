@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P6/1/1.1/1.1.2/Paccayacatukka
-ref: 262009
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)
-    link: /tipitaka/39P6
-  - name: 1 Hetuduka, Duka
-    link: /tipitaka/39P6/1
-  - name: 1.1 Hetuduka, Sahetukaduka
-    link: /tipitaka/39P6/1/1.1
-  - name: 1.1.2 Ahetukapada
-    link: /tipitaka/39P6/1/1.1/1.1.2
-prevL: /tipitaka/39P6/1/1.1/1.1.2
-upL: /tipitaka/39P6/1/1.1/1.1.2
-nextL: /tipitaka/39P6/1/1.2
----
+
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.1 Hetuduka, Sahetukaduka](/tipitaka/39P6/1/1.1.md) / [1.1.2 Ahetukapada](/tipitaka/39P6/1/1.1/1.1.2.md)
 
 # Paccayacatukka
 
@@ -53,5 +36,7 @@ nextL: /tipitaka/39P6/1/1.2
 25. Hetuyā ekaṃ, ārammaṇe cattāri, anantare cattāri…pe…  sahajāte tīṇi, aññamaññe ekaṃ, nissaye upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme…pe…  jhāne ekaṃ, sampayutte ekaṃ, vippayutte tīṇi…pe…  avigate cattāri. (Saṃkhittaṃ.)
 
 26. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P6/1/1.1/1.1.2.md) / [Go to parent page](/tipitaka/39P6/1/1.1/1.1.2.md) / [Go to next page](/tipitaka/39P6/1/1.2.md)
 
 

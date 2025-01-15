@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Atthi
-ref: 265316
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.7 Cittasahabhūduka
-    link: /tipitaka/38P2/10/10.7
-  - name: 10.7.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.7/10.7.7
-  - name: 10.7.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1
-  - name: 10.7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1
-prevL: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Vippayutta
-upL: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1
-nextL: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.7 Cittasahabhūduka](/tipitaka/38P2/10/10.7.md) / [10.7.7 Pañhāvāra](/tipitaka/38P2/10/10.7/10.7.7.md) / [10.7.7.1 Paccayānuloma](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1.md) / [10.7.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md)
 
 # Atthi
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.2
 2984. Cittasahabhū ca nocittasahabhū ca dhammā nocittasahabhussa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  cakkhuviññāṇasahagatā khandhā cakkhāyatanañca cakkhuviññāṇassa atthipaccayena paccayo…pe…  kāyaviññāṇasahagatā…pe…  cittasahabhū khandhā ca cittañca nocittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Sahajātā**—  cittasahabhū khandhā ca vatthu ca cittassa atthipaccayena paccayo. **Sahajātā**—  cittasahabhū khandhā ca mahābhūtā ca nocittasahabhūnaṃ cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo (paṭisandhikkhaṇe tīṇipi kātabbā). **Pacchājātā**—  cittasahabhū khandhā ca cittañca purejātassa imassa nocittasahabhussa kāyassa atthipaccayena paccayo. **Pacchājātā**—  cittasahabhū khandhā ca kabaḷīkāro āhāro ca imassa nocittasahabhussa kāyassa atthipaccayena paccayo. **Pacchājātā**—  cittasahabhū khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 2985. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa ca nocittasahabhussa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanaṃ ca…pe… . (Paccayavārasadisaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.2.md)
 
 

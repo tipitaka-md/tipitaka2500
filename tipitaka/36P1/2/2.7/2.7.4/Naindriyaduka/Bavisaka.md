@@ -1,24 +1,5 @@
----
-title:  Bāvīsaka
-path: /tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka/Bavisaka
-ref: 262544
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.4
-  - name: Naindriyaduka
-    link: /tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka
-prevL: /tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka
-upL: /tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka
-nextL: /tipitaka/36P1/2/2.7/2.7.4/Najhanaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md) / [Naindriyaduka](/tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka.md)
 
 # Bāvīsaka
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.4/Najhanaduka
 1756. Naindriyamūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.4/Najhanaduka.md)
 
 

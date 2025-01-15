@@ -1,20 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/37P1/22/22.7/Paccaniyuddhara
-ref: 259176
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 22 Ajjhattārammaṇattika
-    link: /tipitaka/37P1/22
-  - name: 22.7 Pañhāvāra
-    link: /tipitaka/37P1/22/22.7
-prevL: /tipitaka/37P1/22/22.7/22.7.1/22.7.1.2/Suddha
-upL: /tipitaka/37P1/22/22.7
-nextL: /tipitaka/37P1/22/22.7/22.7.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [22 Ajjhattārammaṇattika](/tipitaka/37P1/22.md) / [22.7 Pañhāvāra](/tipitaka/37P1/22/22.7.md)
 
 # Paccanīyuddhāra
 
@@ -33,5 +18,7 @@ nextL: /tipitaka/37P1/22/22.7/22.7.2
 2921. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
 
 2922. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/37P1/22/22.7.md) / [Go to next page](/tipitaka/37P1/22/22.7/22.7.2.md)
 
 

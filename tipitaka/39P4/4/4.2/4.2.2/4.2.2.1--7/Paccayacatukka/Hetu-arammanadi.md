@@ -1,26 +1,5 @@
----
-title:  Hetu-ārammaṇādi
-path: /tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7/Paccayacatukka/Hetu-arammanadi
-ref: 266129
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 4 Kusalattika, Āsavaparāmāsagocchaka
-    link: /tipitaka/39P4/4
-  - name: 4.2 Kusalattika, Sāsavaduka
-    link: /tipitaka/39P4/4/4.2
-  - name: 4.2.2 Anāsavapada
-    link: /tipitaka/39P4/4/4.2/4.2.2
-  - name: 4.2.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7/Paccayacatukka
-prevL: /tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7/Paccayacatukka/Hetu
-upL: /tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7/Paccayacatukka
-nextL: /tipitaka/39P4/4/4.3
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](/tipitaka/39P4/4.md) / [4.2 Kusalattika, Sāsavaduka](/tipitaka/39P4/4/4.2.md) / [4.2.2 Anāsavapada](/tipitaka/39P4/4/4.2/4.2.2.md) / [4.2.2.1--7 Paṭiccādivāra](/tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7.md) / [Paccayacatukka](/tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇādi
 
@@ -55,5 +34,7 @@ nextL: /tipitaka/39P4/4/4.3
 (13.)
 
 1266. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe…  kamme tīṇi, vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7/Paccayacatukka/Hetu.md) / [Go to parent page](/tipitaka/39P4/4/4.2/4.2.2/4.2.2.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/4/4.3.md)
 
 

@@ -1,18 +1,5 @@
----
-title:  Dvattiṃsamahāpurisalakkhaṇāni
-path: /tipitaka/8D/7/Dvattimsamahapurisalakkhanani
-ref: 272477
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 8D Pāthikavaggapāḷi
-    link: /tipitaka/8D
-  - name: 7 Lakkhaṇasutta
-    link: /tipitaka/8D/7
-prevL: /tipitaka/8D/7
-upL: /tipitaka/8D/7
-nextL: /tipitaka/8D/7/7.1
----
+
+[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [7 Lakkhaṇasutta](/tipitaka/8D/7.md)
 
 # Dvattiṃsamahāpurisalakkhaṇāni
 
@@ -43,5 +30,7 @@ nextL: /tipitaka/8D/7/7.1
 404. Imāni kho tāni, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni, yehi samannāgatassa mahāpurisassa dveva gatiyo bhavanti anaññā. Sace agāraṃ ajjhāvasati, rājā hoti cakkavattī…pe…  sace kho pana agārasmā anagāriyaṃ pabbajati, arahaṃ hoti sammāsambuddho loke vivaṭṭacchado.
 
 405. Imāni kho, bhikkhave, dvattiṃsa mahāpurisassa mahāpurisalakkhaṇāni bāhirakāpi isayo dhārenti, no ca kho te jānanti—  ‘imassa kammassa kaṭattā idaṃ lakkhaṇaṃ paṭilabhatī’ti.
+
+[Go to previous page](/tipitaka/8D/7.md) / [Go to parent page](/tipitaka/8D/7.md) / [Go to next page](/tipitaka/8D/7/7.1.md)
 
 

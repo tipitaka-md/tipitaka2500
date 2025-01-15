@@ -1,26 +1,5 @@
----
-title:  Sādhipati-āhāraghaṭanā
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Sadhipati-aharaghatana
-ref: 264511
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2
-  - name: Indriya
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Saharaghatana
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Sadhipati-maggaghatana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Indriya](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya.md)
 
 # Sādhipati-āhāraghaṭanā
 
@@ -41,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Sadhipati-maggaghatana
 1095. Indriyādhipati sahajāta nissaya āhāra atthi avigatanti satta. Indriyādhipati sahajāta aññamañña nissaya āhāra sampayutta atthi avigatanti tīṇi. Indriyādhipati sahajāta nissaya āhāra vippayutta atthi avigatanti tīṇi. [Avipāka—  3]
 
 1096. Indriyādhipati sahajāta nissaya vipāka āhāra atthi avigatanti ekaṃ. Indriyādhipati sahajāta aññamañña nissaya vipāka āhāra sampayutta atthi avigatanti ekaṃ. Indriyādhipati sahajāta nissaya vipāka āhāra vippayutta atthi avigatanti ekaṃ. [Savipāka—  3]
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Saharaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Sadhipati-maggaghatana.md)
 
 

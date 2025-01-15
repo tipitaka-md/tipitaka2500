@@ -1,24 +1,5 @@
----
-title:  Navipākādi
-path: /tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Navipakadi
-ref: 263005
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.1 Paṭiccavāra
-    link: /tipitaka/37P1/11/11.1
-  - name: 11.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/11/11.1/11.1.2
-  - name: 11.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.1/11.1.2/11.1.2.1
-prevL: /tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Nakamma
-upL: /tipitaka/37P1/11/11.1/11.1.2/11.1.2.1
-nextL: /tipitaka/37P1/11/11.1/11.1.2/11.1.2.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.1 Paṭiccavāra](/tipitaka/37P1/11/11.1.md) / [11.1.2 Paccayapaccanīya](/tipitaka/37P1/11/11.1/11.1.2.md) / [11.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1.md)
 
 # Navipākādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/11/11.1/11.1.2/11.1.2.2
 (14.)
 
 1463. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati navipākapaccayā (paripuṇṇaṃ, paṭisandhi natthi)…  naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā…  nasampayuttapaccayā…  navippayuttapaccayā (tīṇi)…  nonatthipaccayā…  novigatapaccayā.
+
+[Go to previous page](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Nakamma.md) / [Go to parent page](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1.md) / [Go to next page](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.2.md)
 
 

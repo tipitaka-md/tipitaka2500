@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/11/11.1/11.1.7/Paccaniyuddhara
-ref: 261347
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.1 Upādānaduka
-    link: /tipitaka/38P2/11/11.1
-  - name: 11.1.7 Pañhāvāra
-    link: /tipitaka/38P2/11/11.1/11.1.7
-prevL: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.2/Suddha
-upL: /tipitaka/38P2/11/11.1/11.1.7
-nextL: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.1 Upādānaduka](/tipitaka/38P2/11/11.1.md) / [11.1.7 Pañhāvāra](/tipitaka/38P2/11/11.1/11.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -51,5 +34,7 @@ nextL: /tipitaka/38P2/11/11.1/11.1.7/11.1.7.2
 3629. Upādāno ca noupādāno ca dhammā noupādānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
 3630. Upādāno ca noupādāno ca dhammā upādānassa ca noupādānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/11/11.1/11.1.7.md) / [Go to next page](/tipitaka/38P2/11/11.1/11.1.7/11.1.7.2.md)
 
 

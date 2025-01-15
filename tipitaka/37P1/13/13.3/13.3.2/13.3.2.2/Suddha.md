@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/37P1/13/13.3/13.3.2/13.3.2.2/Suddha
-ref: 263112
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.3 Paccayavāra
-    link: /tipitaka/37P1/13/13.3
-  - name: 13.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/13/13.3/13.3.2
-  - name: 13.3.2.2 Saṅkhyāvāra
-    link: /tipitaka/37P1/13/13.3/13.3.2/13.3.2.2
-prevL: /tipitaka/37P1/13/13.3/13.3.2/13.3.2.2
-upL: /tipitaka/37P1/13/13.3/13.3.2/13.3.2.2
-nextL: /tipitaka/37P1/13/13.3/13.3.3
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.3 Paccayavāra](/tipitaka/37P1/13/13.3.md) / [13.3.2 Paccayapaccanīya](/tipitaka/37P1/13/13.3/13.3.2.md) / [13.3.2.2 Saṅkhyāvāra](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.2.md)
 
 # Suddha
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/13/13.3/13.3.3
 1990. Paccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.2.md) / [Go to parent page](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.2.md) / [Go to next page](/tipitaka/37P1/13/13.3/13.3.3.md)
 
 

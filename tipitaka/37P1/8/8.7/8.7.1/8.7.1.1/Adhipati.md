@@ -1,24 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Adhipati
-ref: 262861
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.7 Pañhāvāra
-    link: /tipitaka/37P1/8/8.7
-  - name: 8.7.1 Paccayānuloma
-    link: /tipitaka/37P1/8/8.7/8.7.1
-  - name: 8.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-prevL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Arammana
-upL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1
-nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Anantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md) / [8.7.1 Paccayānuloma](/tipitaka/37P1/8/8.7/8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md)
 
 # Adhipati
 
@@ -71,5 +52,7 @@ nextL: /tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Anantara
 707. Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa adhipatipaccayena paccayo—  **ārammaṇādhipati** (Saṃkhittaṃ.) (3)
 
 708. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…pe… . **Sahajātādhipati**—  pītisahagatā ca sukhasahagatā ca adhipati sampayuttakānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ adhipatipaccayena paccayo. (4)
+
+[Go to previous page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Anantara.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Arammana
-ref: 263189
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 16 Micchattaniyatattika
-    link: /tipitaka/37P1/16
-  - name: 16.7 Pañhāvāra
-    link: /tipitaka/37P1/16/16.7
-  - name: 16.7.1 Paccayānuloma
-    link: /tipitaka/37P1/16/16.7/16.7.1
-  - name: 16.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-prevL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Hetu
-upL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.7 Pañhāvāra](/tipitaka/37P1/16/16.7.md) / [16.7.1 Paccayānuloma](/tipitaka/37P1/16/16.7/16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md)
 
 # Ārammaṇa
 
@@ -45,5 +26,7 @@ nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Adhipati
 2352. Aniyato dhammo micchattaniyatassa dhammassa ārammaṇapaccayena paccayo—  rūpajīvitindriyaṃ mātughātikammassa…  pitughātikammassa…  arahantaghātikammassa…  ruhiruppādakammassa ārammaṇapaccayena paccayo. Yaṃ vatthuṃ parāmasantassa micchattaniyatā khandhā uppajjanti, taṃ vatthu micchattaniyatānaṃ khandhānaṃ ārammaṇapaccayena paccayo. (2)
 
 2353. Aniyato dhammo sammattaniyatassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa ārammaṇapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md) / [Go to next page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Adhipati.md)
 
 

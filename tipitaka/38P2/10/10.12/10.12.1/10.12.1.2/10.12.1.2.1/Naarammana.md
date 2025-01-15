@@ -1,26 +1,5 @@
----
-title:  Naārammaṇa
-path: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Naarammana
-ref: 265345
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.12 Ajjhattikaduka
-    link: /tipitaka/38P2/10/10.12
-  - name: 10.12.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.12/10.12.1
-  - name: 10.12.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2
-  - name: 10.12.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1
-prevL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Nahetu
-upL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1
-nextL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Najhana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.12 Ajjhattikaduka](/tipitaka/38P2/10/10.12.md) / [10.12.1 Paṭiccavāra](/tipitaka/38P2/10/10.12/10.12.1.md) / [10.12.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2.md) / [10.12.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1.md)
 
 # Naārammaṇa
 
@@ -57,5 +36,7 @@ nextL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Najhana
 3128. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati naārammaṇapaccayā—  bāhire khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Paṭisandhikkhaṇe dve kātabbā.)
 
 3129. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti naārammaṇapaccayā—  paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca ajjhattikañca bāhirañca kaṭattārūpaṃ. (Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Nahetu.md) / [Go to parent page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1.md) / [Go to next page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2/10.12.1.2.1/Najhana.md)
 
 

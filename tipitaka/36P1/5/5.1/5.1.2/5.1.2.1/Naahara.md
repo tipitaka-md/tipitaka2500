@@ -1,24 +1,5 @@
----
-title:  Naāhāra
-path: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Naahara
-ref: 262733
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.1 Paṭiccavāra
-    link: /tipitaka/36P1/5/5.1
-  - name: 5.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/5/5.1/5.1.2
-  - name: 5.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.1
-prevL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Navipaka
-upL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.1
-nextL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Naindriya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.2 Paccayapaccanīya](/tipitaka/36P1/5/5.1/5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md)
 
 # Naāhāra
 
@@ -37,5 +18,7 @@ nextL: /tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Naindriya
 2498. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati naāhārapaccayā—  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
 
 2499. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
+
+[Go to previous page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Navipaka.md) / [Go to parent page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md) / [Go to next page](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Naindriya.md)
 
 

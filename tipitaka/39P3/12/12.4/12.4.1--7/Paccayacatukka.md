@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P3/12/12.4/12.4.1--7/Paccayacatukka
-ref: 261763
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 12 Kilesagocchaka, Kusalattika
-    link: /tipitaka/39P3/12
-  - name: 12.4 Kilesasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/12/12.4
-  - name: 12.4.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/12/12.4/12.4.1--7
-prevL: /tipitaka/39P3/12/12.4/12.4.1--7
-upL: /tipitaka/39P3/12/12.4/12.4.1--7
-nextL: /tipitaka/39P3/12/12.5
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [12 Kilesagocchaka, Kusalattika](/tipitaka/39P3/12.md) / [12.4 Kilesasampayuttaduka, Kusalattika](/tipitaka/39P3/12/12.4.md) / [12.4.1--7 Paṭiccādivāra](/tipitaka/39P3/12/12.4/12.4.1--7.md)
 
 # Paccayacatukka
 
@@ -51,5 +34,7 @@ nextL: /tipitaka/39P3/12/12.5
 2344. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 2345. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+
+[Go to previous page](/tipitaka/39P3/12/12.4/12.4.1--7.md) / [Go to parent page](/tipitaka/39P3/12/12.4/12.4.1--7.md) / [Go to next page](/tipitaka/39P3/12/12.5.md)
 
 

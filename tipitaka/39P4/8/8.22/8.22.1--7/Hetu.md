@@ -1,21 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/8/8.22/8.22.1--7/Hetu
-ref: 261958
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.22 Sanidassanattika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.22
-  - name: 8.22.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.22/8.22.1--7
-prevL: /tipitaka/39P4/8/8.22/8.22.1--7
-upL: /tipitaka/39P4/8/8.22/8.22.1--7
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.22 Sanidassanattika, Saraṇaduka](/tipitaka/39P4/8/8.22.md) / [8.22.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.22/8.22.1--7.md)
 
 # Hetu
 
@@ -46,5 +30,7 @@ upL: /tipitaka/39P4/8/8.22/8.22.1--7
 1924. Hetuyā satta, ārammaṇe tīṇi, adhipatiyā nava, anantare samanantare ekaṃ, sahajāte ekavīsa, aññamaññe cha, nissaye ekavīsa, upanissaye tīṇi, purejāte cha, pacchājāte satta, āsevane ekaṃ, kamme vipāke āhāre satta, indriye nava, jhāne magge satta, sampayutte ekaṃ, vippayutte aṭṭha…pe…  avigate pañcavīsa. (Saṃkhittaṃ.)
 
 1925. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.22/8.22.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.22/8.22.1--7.md)
 
 

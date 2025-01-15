@@ -1,24 +1,5 @@
----
-title:  Vipāka
-path: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Vipaka
-ref: 262210
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.3/2.3.1
-  - name: 2.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-prevL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Kamma
-upL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1
-nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Ahara
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md)
 
 # Vipāka
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Ahara
 (127.)
 
 478. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati vipākapaccayā. Vipākābyākataṃ ekaṃ khandhaṃ paccayā…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ paccayā…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā vipākābyākatā khandhā.
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Kamma.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Ahara.md)
 
 

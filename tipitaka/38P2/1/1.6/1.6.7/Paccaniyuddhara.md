@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/1/1.6/1.6.7/Paccaniyuddhara
-ref: 260953
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.6 Nahetusahetukaduka
-    link: /tipitaka/38P2/1/1.6
-  - name: 1.6.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.6/1.6.7
-prevL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.2/Suddha
-upL: /tipitaka/38P2/1/1.6/1.6.7
-nextL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md)
 
 # Paccanīyuddhāra
 
@@ -47,5 +30,7 @@ nextL: /tipitaka/38P2/1/1.6/1.6.7/1.6.7.2
 536. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetusahetukassa dhammassa sahajātaṃ…  purejātaṃ. (1)
 
 537. Nahetu sahetuko ca nahetu ahetuko ca dhammā nahetuahetukassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (2)
+
+[Go to previous page](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/1/1.6/1.6.7.md) / [Go to next page](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.2.md)
 
 

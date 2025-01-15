@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/4/4.3/4.3.1--7/Paccayacatukka/Hetu
-ref: 264374
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 4 Kusalattika, Āsavaparāmāsagocchaka
-    link: /tipitaka/39P4/4
-  - name: 4.3 Kusalattika, Āsavasampayuttaduka
-    link: /tipitaka/39P4/4/4.3
-  - name: 4.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/4/4.3/4.3.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/4/4.3/4.3.1--7/Paccayacatukka
-prevL: /tipitaka/39P4/4/4.3/4.3.1--7/Paccayacatukka
-upL: /tipitaka/39P4/4/4.3/4.3.1--7/Paccayacatukka
-nextL: /tipitaka/39P4/4/4.4
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](/tipitaka/39P4/4.md) / [4.3 Kusalattika, Āsavasampayuttaduka](/tipitaka/39P4/4/4.3.md) / [4.3.1--7 Paṭiccādivāra](/tipitaka/39P4/4/4.3/4.3.1--7.md) / [Paccayacatukka](/tipitaka/39P4/4/4.3/4.3.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -71,5 +52,7 @@ nextL: /tipitaka/39P4/4/4.4
 1280. Hetuyā pañca, ārammaṇe nava, adhipatiyā pañca, anantare…pe…  sahajāte satta, aññamaññe dve, nissaye dasa, upanissaye nava, purejāte pacchājāte āsevane tīṇi, kamme cattāri, vipāke ekaṃ, āhāre indriye jhāne magge cattāri, sampayutte dve, vippayutte pañca…pe…  avigate dasa. (Saṃkhittaṃ.)
 
 1281. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/4/4.3/4.3.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/4/4.3/4.3.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/4/4.4.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Anantarādi
-path: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Anantaradi
-ref: 263010
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.3 Paccayavāra
-    link: /tipitaka/37P1/11/11.3
-  - name: 11.3.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.3/11.3.1
-  - name: 11.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1
-prevL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Adhipati
-upL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1
-nextL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Annamannadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.3 Paccayavāra](/tipitaka/37P1/11/11.3.md) / [11.3.1 Paccayānuloma](/tipitaka/37P1/11/11.3/11.3.1.md) / [11.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md)
 
 # Anantarādi
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Annamannadi
 1497. Nevācayagāmināpacayagāmiṃ dhammaṃ paccayā nevācayagāmināpacayagāmī dhammo uppajjati sahajātapaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ. Vatthuṃ paccayā…pe… . (1)
 
 1498. Nevācayagāmināpacayagāmiṃ dhammaṃ paccayā ācayagāmī dhammo uppajjati sahajātapaccayā. (Saṃkhittaṃ, sabbe ghaṭanā kātabbā.)
+
+[Go to previous page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Annamannadi.md)
 
 

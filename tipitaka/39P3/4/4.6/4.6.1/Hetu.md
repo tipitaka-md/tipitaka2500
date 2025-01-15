@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/4/4.6/4.6.1/Hetu
-ref: 261702
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 4 Āsavagocchaka, Kusalattika
-    link: /tipitaka/39P3/4
-  - name: 4.6 Āsavavippayuttasāsavaduka, Kusalattika
-    link: /tipitaka/39P3/4/4.6
-  - name: 4.6.1 Kusalapada
-    link: /tipitaka/39P3/4/4.6/4.6.1
-prevL: /tipitaka/39P3/4/4.6/4.6.1
-upL: /tipitaka/39P3/4/4.6/4.6.1
-nextL: /tipitaka/39P3/4/4.6/4.6.2
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.6 Āsavavippayuttasāsavaduka, Kusalattika](/tipitaka/39P3/4/4.6.md) / [4.6.1 Kusalapada](/tipitaka/39P3/4/4.6/4.6.1.md)
 
 # Hetu
 
@@ -37,5 +20,7 @@ nextL: /tipitaka/39P3/4/4.6/4.6.2
 1683. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
 1684. (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbo.)
+
+[Go to previous page](/tipitaka/39P3/4/4.6/4.6.1.md) / [Go to parent page](/tipitaka/39P3/4/4.6/4.6.1.md) / [Go to next page](/tipitaka/39P3/4/4.6/4.6.2.md)
 
 

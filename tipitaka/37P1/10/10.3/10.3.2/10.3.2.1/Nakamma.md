@@ -1,24 +1,5 @@
----
-title:  Nakamma
-path: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Nakamma
-ref: 262966
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.3 Paccayavāra
-    link: /tipitaka/37P1/10/10.3
-  - name: 10.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/10/10.3/10.3.2
-  - name: 10.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1
-prevL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Naadhipatyadi
-upL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1
-nextL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Navipakadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.3 Paccayavāra](/tipitaka/37P1/10/10.3.md) / [10.3.2 Paccayapaccanīya](/tipitaka/37P1/10/10.3/10.3.2.md) / [10.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1.md)
 
 # Nakamma
 
@@ -49,5 +30,7 @@ nextL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Navipakadi
 1225. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā dassanena pahātabbahetuko dhammo uppajjati nakammapaccayā—  dassanena pahātabbahetuke khandhe ca vatthuñca paccayā dassanena pahātabbahetukā cetanā; vicikicchāsahagate khandhe ca mohañca paccayā sampayuttakā cetanā. (1)
 
 1226. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā bhāvanāya pahātabbahetuko dhammo uppajjati nakammapaccayā—  bhāvanāya pahātabbahetuke khandhe ca vatthuñca paccayā bhāvanāya pahātabbahetukā cetanā; uddhaccasahagate khandhe ca mohañca paccayā sampayuttakā cetanā. (1)
+
+[Go to previous page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Naadhipatyadi.md) / [Go to parent page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1.md) / [Go to next page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Navipakadi.md)
 
 

@@ -1,18 +1,5 @@
----
-title:  Uddesa
-path: /tipitaka/7D/9/Uddesa
-ref: 272410
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 7D Mahāvaggapāḷi
-    link: /tipitaka/7D
-  - name: 9 Mahāsatipaṭṭhānasutta
-    link: /tipitaka/7D/9
-prevL: /tipitaka/7D/9
-upL: /tipitaka/7D/9
-nextL: /tipitaka/7D/9/9.1
----
+
+[Home](/) / [7D Mahāvaggapāḷi](/tipitaka/7D.md) / [9 Mahāsatipaṭṭhānasutta](/tipitaka/7D/9.md)
 
 # Uddesa
 
@@ -31,5 +18,7 @@ nextL: /tipitaka/7D/9/9.1
 944. Uddeso niṭṭhito.
 
 
+
+[Go to previous page](/tipitaka/7D/9.md) / [Go to parent page](/tipitaka/7D/9.md) / [Go to next page](/tipitaka/7D/9/9.1.md)
 
 

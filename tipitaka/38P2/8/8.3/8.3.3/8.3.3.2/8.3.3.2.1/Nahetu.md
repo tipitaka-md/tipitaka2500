@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.1/Nahetu
-ref: 265086
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.3 Nīvaraṇasampayuttaduka
-    link: /tipitaka/38P2/8/8.3
-  - name: 8.3.3 Paccayavāra
-    link: /tipitaka/38P2/8/8.3/8.3.3
-  - name: 8.3.3.2 Paccayapaccanīya
-    link: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.2
-  - name: 8.3.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.1
-prevL: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.1
-upL: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.1
-nextL: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.3 Nīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.3.md) / [8.3.3 Paccayavāra](/tipitaka/38P2/8/8.3/8.3.3.md) / [8.3.3.2 Paccayapaccanīya](/tipitaka/38P2/8/8.3/8.3.3/8.3.3.2.md) / [8.3.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.1.md)
 
 # Nahetu
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.2
 2018. Nīvaraṇavippayuttaṃ dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 2019. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.) (1)
+
+[Go to previous page](/tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.1.md) / [Go to parent page](/tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.1.md) / [Go to next page](/tipitaka/38P2/8/8.3/8.3.3/8.3.3.2/8.3.3.2.2.md)
 
 

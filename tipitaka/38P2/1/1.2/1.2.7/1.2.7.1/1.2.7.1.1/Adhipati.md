@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Adhipati
-ref: 264709
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.2 Sahetukaduka
-    link: /tipitaka/38P2/1/1.2
-  - name: 1.2.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.2/1.2.7
-  - name: 1.2.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1
-  - name: 1.2.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1
-prevL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Arammana
-upL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1
-nextL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Anantara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.7 Pañhāvāra](/tipitaka/38P2/1/1.2/1.2.7.md) / [1.2.7.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md)
 
 # Adhipati
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Anantara
 274. Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  sahetukādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
 
 275. Ahetuko dhammo sahetukassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ…  ahetuke khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
+
+[Go to previous page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Anantara.md)
 
 

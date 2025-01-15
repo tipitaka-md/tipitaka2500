@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1/Hetu
-ref: 265341
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.12 Ajjhattikaduka
-    link: /tipitaka/38P2/10/10.12
-  - name: 10.12.1 Paṭiccavāra
-    link: /tipitaka/38P2/10/10.12/10.12.1
-  - name: 10.12.1.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.1
-  - name: 10.12.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1
-prevL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1
-upL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1
-nextL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.12 Ajjhattikaduka](/tipitaka/38P2/10/10.12.md) / [10.12.1 Paṭiccavāra](/tipitaka/38P2/10/10.12/10.12.1.md) / [10.12.1.1 Paccayānuloma](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.1.md) / [10.12.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1/Arammana
 3104. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati hetupaccayā—  bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā bāhiraṃ kaṭattā ca rūpaṃ, dve khandhe ca…pe…  cittañca mahābhūte ca paṭicca bāhiraṃ kaṭattārūpaṃ, paṭisandhikkhaṇe cittañca vatthuñca paṭicca bāhirā khandhā. (2)
 
 3105. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā ajjhattikañca bāhirañca kaṭattārūpaṃ, dve khandhe ca…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1.md) / [Go to parent page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.1/Arammana.md)
 
 

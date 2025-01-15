@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.1/Hetu
-ref: 265661
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.11 Kāmāvacaraduka
-    link: /tipitaka/38P2/13/13.11
-  - name: 13.11.1 Paṭiccavāra
-    link: /tipitaka/38P2/13/13.11/13.11.1
-  - name: 13.11.1.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.11/13.11.1/13.11.1.1
-  - name: 13.11.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.1
-prevL: /tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.1
-upL: /tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.1
-nextL: /tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.11 Kāmāvacaraduka](/tipitaka/38P2/13/13.11.md) / [13.11.1 Paṭiccavāra](/tipitaka/38P2/13/13.11/13.11.1.md) / [13.11.1.1 Paccayānuloma](/tipitaka/38P2/13/13.11/13.11.1/13.11.1.1.md) / [13.11.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.1.md)
 
 # Hetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.2
 (196.)
 
 4513. Kāmāvacarañca nakāmāvacarañca dhammaṃ paṭicca kāmāvacaro dhammo uppajjati hetupaccayā—  nakāmāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe nakāmāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. Kāmāvacarañca nakāmāvacarañca dhammaṃ paṭicca nakāmāvacaro dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe nakāmāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Kāmāvacarañca nakāmāvacarañca dhammaṃ paṭicca kāmāvacaro ca nakāmāvacaro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe nakāmāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  nakāmāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3) (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.1.md) / [Go to parent page](/tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.11/13.11.1/13.11.1.1/13.11.1.1.2.md)
 
 

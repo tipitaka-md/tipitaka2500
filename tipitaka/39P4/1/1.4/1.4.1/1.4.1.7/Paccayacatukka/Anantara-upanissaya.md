@@ -1,26 +1,5 @@
----
-title:  Anantara-upanissaya
-path: /tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka/Anantara-upanissaya
-ref: 266039
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.4 Upādinnattika, Hetuduka
-    link: /tipitaka/39P4/1/1.4
-  - name: 1.4.1 Hetupada
-    link: /tipitaka/39P4/1/1.4/1.4.1
-  - name: 1.4.1.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.4/1.4.1/1.4.1.7
-  - name: Paccayacatukka
-    link: /tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka
-prevL: /tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka
-upL: /tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka
-nextL: /tipitaka/39P4/1/1.4/1.4.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.4 Upādinnattika, Hetuduka](/tipitaka/39P4/1/1.4.md) / [1.4.1 Hetupada](/tipitaka/39P4/1/1.4/1.4.1.md) / [1.4.1.7 Pañhāvāra](/tipitaka/39P4/1/1.4/1.4.1/1.4.1.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka.md)
 
 # Anantara-upanissaya
 
@@ -63,5 +42,7 @@ nextL: /tipitaka/39P4/1/1.4/1.4.2
 190. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
 
 191. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P4/1/1.4/1.4.2.md)
 
 

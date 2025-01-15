@@ -1,24 +1,5 @@
----
-title:  Tika
-path: /tipitaka/36P1/2/2.3/2.3.3/Sahajataduka/Tika
-ref: 262252
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.3/2.3.3
-  - name: Sahajātaduka
-    link: /tipitaka/36P1/2/2.3/2.3.3/Sahajataduka
-prevL: /tipitaka/36P1/2/2.3/2.3.3/Sahajataduka
-upL: /tipitaka/36P1/2/2.3/2.3.3/Sahajataduka
-nextL: /tipitaka/36P1/2/2.3/2.3.3/Annamannaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.3/2.3.3.md) / [Sahajātaduka](/tipitaka/36P1/2/2.3/2.3.3/Sahajataduka.md)
 
 # Tika
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.3/Annamannaduka
 590. Sahajātapaccayā hetupaccayā naārammaṇe pañca (saṃkhittaṃ) navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 591. Sahajātapaccayā hetupaccayā ārammaṇapaccayā. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.3/Sahajataduka.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.3/Sahajataduka.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.3/Annamannaduka.md)
 
 

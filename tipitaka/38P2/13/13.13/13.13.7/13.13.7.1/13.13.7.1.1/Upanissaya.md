@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Upanissaya
-ref: 265715
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.13 Arūpāvacaraduka
-    link: /tipitaka/38P2/13/13.13
-  - name: 13.13.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.13/13.13.7
-  - name: 13.13.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1
-  - name: 13.13.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1
-prevL: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Anantaradi
-upL: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1
-nextL: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Purejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.7 Pañhāvāra](/tipitaka/38P2/13/13.13/13.13.7.md) / [13.13.7.1 Paccayānuloma](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md)
 
 # Upanissaya
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Purejata
 4689. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  naarūpāvacaraṃ saddhaṃ upanissāya dānaṃ deti, sīlaṃ…pe…  uposathakammaṃ karoti, naarūpāvacaraṃ jhānaṃ uppādeti, vipassanaṃ…pe…  maggaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti, mānaṃ jappeti…  diṭṭhiṃ gaṇhāti; naarūpāvacaraṃ sīlaṃ…pe…  paññaṃ…pe…  rāgaṃ…pe…  patthanaṃ…pe…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti…  pāṇaṃ hanati…pe…  saṃghaṃ bhindati; naarūpāvacarā saddhā…pe…  senāsanaṃ naarūpāvacarāya saddhāya…pe…  patthanāya…  kāyikassa sukhassa…  kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 4690. Naarūpāvacaro dhammo arūpāvacarassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ākāsānañcāyatanassa parikammaṃ ākāsānañcāyatanassa upanissayapaccayena paccayo…pe…  nevasaññānāsaññāyatanassa parikammaṃ nevasaññānāsaññāyatanassa upanissayapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Purejata.md)
 
 

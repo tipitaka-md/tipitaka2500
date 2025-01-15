@@ -1,24 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Atthi
-ref: 263201
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 16 Micchattaniyatattika
-    link: /tipitaka/37P1/16
-  - name: 16.7 Pañhāvāra
-    link: /tipitaka/37P1/16/16.7
-  - name: 16.7.1 Paccayānuloma
-    link: /tipitaka/37P1/16/16.7/16.7.1
-  - name: 16.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-prevL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Vippayutta
-upL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.1
-nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.7 Pañhāvāra](/tipitaka/37P1/16/16.7.md) / [16.7.1 Paccayānuloma](/tipitaka/37P1/16/16.7/16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md)
 
 # Atthi
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/16/16.7/16.7.1/16.7.1.2
 2406. Micchattaniyato ca aniyato ca dhammā aniyatassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  micchattaniyatā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  micchattaniyatā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  micchattaniyatā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 2407. Sammattaniyato ca aniyato ca dhammā sammattaniyatassa dhammassa atthipaccayena paccayo…pe… . (Dve pañhā micchattaniyatasadisā.)
+
+[Go to previous page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md) / [Go to next page](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.2.md)
 
 

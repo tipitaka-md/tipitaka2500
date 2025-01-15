@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.2/5.3.5.2.2/Suddha
-ref: 265035
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.3 Ganthasampayuttaduka
-    link: /tipitaka/38P2/5/5.3
-  - name: 5.3.5 Saṃsaṭṭhavāra
-    link: /tipitaka/38P2/5/5.3/5.3.5
-  - name: 5.3.5.2 Paccayapaccanīya
-    link: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.2
-  - name: 5.3.5.2.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.2/5.3.5.2.2
-prevL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.2/5.3.5.2.2
-upL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.2/5.3.5.2.2
-nextL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.5 Saṃsaṭṭhavāra](/tipitaka/38P2/5/5.3/5.3.5.md) / [5.3.5.2 Paccayapaccanīya](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.2.md) / [5.3.5.2.2 Saṅkhyāvāra](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.2/5.3.5.2.2.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.3
 (66.)
 
 1764. Nahetuyā ekaṃ, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṃ, namagge ekaṃ, navippayutte cha.
+
+[Go to previous page](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.2/5.3.5.2.2.md) / [Go to parent page](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.2/5.3.5.2.2.md) / [Go to next page](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.3.md)
 
 

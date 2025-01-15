@@ -1,24 +1,5 @@
----
-title:  Nakamma
-path: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Nakamma
-ref: 262104
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.1/2.1.2
-  - name: 2.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.1
-prevL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Napacchajata-naasevana
-upL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.1
-nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Navipaka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.2 Paccayapaccanīya](/tipitaka/36P1/2/2.1/2.1.2.md) / [2.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1.md)
 
 # Nakamma
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Navipaka
 232. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati nakammapaccayā—  akusale khandhe paṭicca akusalā cetanā. (1)
 
 233. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati nakammapaccayā—  kiriyābyākate khandhe paṭicca kiriyābyākatā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca upādārūpaṃ. (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Napacchajata-naasevana.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Navipaka.md)
 
 

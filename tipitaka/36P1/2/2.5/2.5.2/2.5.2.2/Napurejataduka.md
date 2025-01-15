@@ -1,24 +1,5 @@
----
-title:  Napurejātaduka
-path: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Napurejataduka
-ref: 262321
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.5/2.5.2
-  - name: 2.5.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2
-prevL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Naadhipatiduka/Tika
-upL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2
-nextL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Napurejataduka/Tika
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.2 Paccayapaccanīya](/tipitaka/36P1/2/2.5/2.5.2.md) / [2.5.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2.md)
 
 # Napurejātaduka
 
@@ -36,6 +17,8 @@ nextL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Napurejataduka/Tika
 
 737. Napurejātapaccayā nahetuyā dve, naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ, navippayutte tīṇi.
 
-* [Tika](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Napurejataduka/Tika)
+* [Tika](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Napurejataduka/Tika.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Naadhipatiduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Napurejataduka/Tika.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Anantara
-ref: 262829
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Adhipati
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Anantara
 
@@ -91,5 +72,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara
 349. Savitakkasavicāro ca avitakkavicāramatto ca dhammā avitakkavicāramattassa ca avitakkaavicārassa ca dhammassa anantarapaccayena paccayo—  savitakkasavicāraṃ cuticittañca vitakko ca avitakkavicāramattassa upapatticittassa ca vicārassa ca anantarapaccayena paccayo. Savitakkasavicārā khandhā ca vitakko ca avitakkavicāramattassa vuṭṭhānassa ca vicārassa ca anantarapaccayena paccayo. Avitakkavicāramattassa jhānassa parikammañca vitakko ca avitakkavicāramattassa jhānassa ca vicārassa ca anantarapaccayena paccayo. Gotrabhu ca vitakko ca avitakkavicāramattassa maggassa ca vicārassa ca anantarapaccayena paccayo. Vodānañca vitakko ca avitakkavicāramattassa maggassa ca vicārassa ca…  anulomañca vitakko ca avitakkavicāramattāya phalasamāpattiyā ca vicārassa ca anantarapaccayena paccayo. (4)
 
 350. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkavicāramattassa ca dhammassa anantarapaccayena paccayo—  purimā purimā savitakkasavicārā khandhā ca vitakko ca pacchimānaṃ pacchimānaṃ savitakkasavicārānaṃ khandhānaṃ vitakkassa ca anantarapaccayena paccayo. Anulomañca vitakko ca gotrabhussa ca vitakkassa ca…  anulomañca vitakko ca vodānassa ca vitakkassa ca…  gotrabhu ca vitakko ca savitakkasavicārassa ca maggassa ca vitakkassa ca…  vodānañca vitakko ca savitakkasavicārassa maggassa ca vitakkassa ca anantarapaccayena paccayo. Savitakkasavicāro maggo ca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  savitakkasavicāraṃ phalañca vitakko ca savitakkasavicārassa phalassa ca vitakkassa ca…  anulomañca vitakko ca savitakkasavicārāya phalasamāpattiyā ca vitakkassa ca anantarapaccayena paccayo. (5)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Samanantara.md)
 
 

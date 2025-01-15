@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Upanissaya
-ref: 265613
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.4 Bhāvanāyapahātabbahetukaduka
-    link: /tipitaka/38P2/13/13.4
-  - name: 13.4.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.4/13.4.7
-  - name: 13.4.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4
-  - name: 13.4.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1
-prevL: /tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Adhipatyadi
-upL: /tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1
-nextL: /tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Purejatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.4 Bhāvanāyapahātabbahetukaduka](/tipitaka/38P2/13/13.4.md) / [13.4.7 Pañhāvāra](/tipitaka/38P2/13/13.4/13.4.7.md) / [13.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4.md) / [13.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1.md)
 
 # Upanissaya
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Purejatadi
 4281. Nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti…pe…  saddhā…pe…  senāsanaṃ bhāvanāya pahātabbahetukassa rāgassa…  dosassa…  mohassa…  mānassa…  patthanāya upanissayapaccayena paccayo. (2)
 
 4282. Nabhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa ca nabhāvanāya pahātabbahetukassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhā…pe…  paññā…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca upanissayapaccayena paccayo. (Ghaṭanūpanissayāpi tīṇipi kātabbā.) (3)
+
+[Go to previous page](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Adhipatyadi.md) / [Go to parent page](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Purejatadi.md)
 
 

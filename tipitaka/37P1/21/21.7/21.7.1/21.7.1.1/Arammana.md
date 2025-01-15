@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Arammana
-ref: 263308
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 21 Ajjhattattika
-    link: /tipitaka/37P1/21
-  - name: 21.7 Pañhāvāra
-    link: /tipitaka/37P1/21/21.7
-  - name: 21.7.1 Paccayānuloma
-    link: /tipitaka/37P1/21/21.7/21.7.1
-  - name: 21.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1
-prevL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Hetu
-upL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1
-nextL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.7 Pañhāvāra](/tipitaka/37P1/21/21.7.md) / [21.7.1 Paccayānuloma](/tipitaka/37P1/21/21.7/21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md)
 
 # Ārammaṇa
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Adhipati
 2815. Bahiddhā dhammo bahiddhā dhammassa ārammaṇapaccayena paccayo—  paro dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti…  nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe…pe…  paro bahiddhā cakkhuṃ…pe…  vatthuṃ…  bahiddhā khandhe aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena bahiddhā cittasamaṅgissa…pe…  ākāsānañcāyatanaṃ viññāṇañcāyatanassa ārammaṇapaccayena paccayo. Ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa ārammaṇapaccayena paccayo. Bahiddhā rūpāyatanaṃ bahiddhā cakkhuviññāṇassa…pe…  bahiddhā phoṭṭhabbāyatanaṃ bahiddhā kāyaviññāṇassa…pe…  bahiddhā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 2816. Bahiddhā dhammo ajjhattassa dhammassa ārammaṇapaccayena paccayo—  ariyā nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Bahiddhā cakkhuṃ…pe…  vatthuṃ…  bahiddhā khandhe aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena bahiddhā cittasamaṅgissa cittaṃ jānāti. Bahiddhā rūpāyatanaṃ ajjhattaṃ cakkhuviññāṇassa…pe…  bahiddhā phoṭṭhabbāyatanaṃ ajjhattaṃ kāyaviññāṇassa…pe…  bahiddhā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
+
+[Go to previous page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Adhipati.md)
 
 

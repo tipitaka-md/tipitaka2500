@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/36P1/2/2.6/2.6.1/2.6.1.1/Hetu
-ref: 262364
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.6 Sampayuttavāra
-    link: /tipitaka/36P1/2/2.6
-  - name: 2.6.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.6/2.6.1
-  - name: 2.6.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/2/2.6/2.6.1/2.6.1.1
-prevL: /tipitaka/36P1/2/2.6/2.6.1/2.6.1.1
-upL: /tipitaka/36P1/2/2.6/2.6.1/2.6.1.1
-nextL: /tipitaka/36P1/2/2.6/2.6.1/2.6.1.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.6 Sampayuttavāra](/tipitaka/36P1/2/2.6.md) / [2.6.1 Paccayānuloma](/tipitaka/36P1/2/2.6/2.6.1.md) / [2.6.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.6/2.6.1/2.6.1.1.md)
 
 # Hetu
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/36P1/2/2.6/2.6.1/2.6.1.2
 (258.)
 
 820. Abyākataṃ dhammaṃ sampayutto abyākato dhammo uppajjati hetupaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (Saṃkhittaṃ.) (1)
+
+[Go to previous page](/tipitaka/36P1/2/2.6/2.6.1/2.6.1.1.md) / [Go to parent page](/tipitaka/36P1/2/2.6/2.6.1/2.6.1.1.md) / [Go to next page](/tipitaka/36P1/2/2.6/2.6.1/2.6.1.2.md)
 
 

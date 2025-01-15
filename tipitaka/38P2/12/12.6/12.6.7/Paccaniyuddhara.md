@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/12/12.6/12.6.7/Paccaniyuddhara
-ref: 261402
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 12 Kilesagocchaka
-    link: /tipitaka/38P2/12
-  - name: 12.6 Kilesasaṃkiliṭṭhaduka
-    link: /tipitaka/38P2/12/12.6
-  - name: 12.6.7 Pañhāvāra
-    link: /tipitaka/38P2/12/12.6/12.6.7
-prevL: /tipitaka/38P2/12/12.6/12.6.7/12.6.7.1/12.6.7.1.2/Suddha
-upL: /tipitaka/38P2/12/12.6/12.6.7
-nextL: /tipitaka/38P2/12/12.6/12.6.7/12.6.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.6 Kilesasaṃkiliṭṭhaduka](/tipitaka/38P2/12/12.6.md) / [12.6.7 Pañhāvāra](/tipitaka/38P2/12/12.6/12.6.7.md)
 
 # Paccanīyuddhāra
 
@@ -31,5 +14,7 @@ nextL: /tipitaka/38P2/12/12.6/12.6.7/12.6.7.2
 (93.)
 
 4046. Kileso ceva saṃkiliṭṭho ca dhammo kilesassa ceva saṃkiliṭṭhassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Navapi, tīṇiyeva padā kātabbā.)
+
+[Go to previous page](/tipitaka/38P2/12/12.6/12.6.7/12.6.7.1/12.6.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/12/12.6/12.6.7.md) / [Go to next page](/tipitaka/38P2/12/12.6/12.6.7/12.6.7.2.md)
 
 

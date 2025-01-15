@@ -1,26 +1,5 @@
----
-title:  Purejāta
-path: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Purejata
-ref: 264978
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.3 Saññojanasampayuttaduka
-    link: /tipitaka/38P2/4/4.3
-  - name: 4.3.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.3/4.3.7
-  - name: 4.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1
-  - name: 4.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
-prevL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Upanissaya
-upL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1
-nextL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Pacchajata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.7 Pañhāvāra](/tipitaka/38P2/4/4.3/4.3.7.md) / [4.3.7.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md)
 
 # Purejāta
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Pacchajata
 1517. Saññojanavippayutto dhammo saññojanasampayuttassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saññojanasampayuttakānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 1518. Saññojanavippayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha uddhaccasahagatā khandhā ca moho ca uppajjanti. **Vatthupurejātaṃ**—  vatthu uddhaccasahagatānaṃ khandhānaṃ mohassa ca purejātapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Pacchajata.md)
 
 

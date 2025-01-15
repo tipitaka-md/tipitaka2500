@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.1/Hetu
-ref: 265104
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.5 Nīvaraṇanīvaraṇasampayuttaduka
-    link: /tipitaka/38P2/8/8.5
-  - name: 8.5.1 Paṭiccavāra
-    link: /tipitaka/38P2/8/8.5/8.5.1
-  - name: 8.5.1.1 Paccayānuloma
-    link: /tipitaka/38P2/8/8.5/8.5.1/8.5.1.1
-  - name: 8.5.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.1
-prevL: /tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.1
-upL: /tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.1
-nextL: /tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.5.md) / [8.5.1 Paṭiccavāra](/tipitaka/38P2/8/8.5/8.5.1.md) / [8.5.1.1 Paccayānuloma](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1.md) / [8.5.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.2
 2096. Nīvaraṇañceva nīvaraṇasampayuttañca nīvaraṇasampayuttañceva no ca nīvaraṇañca dhammaṃ paṭicca nīvaraṇasampayutto ceva no ca nīvaraṇo dhammo uppajjati hetupaccayā—  nīvaraṇasampayuttañceva no ca nīvaraṇaṃ ekaṃ khandhañca nīvaraṇañca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (2)
 
 2097. Nīvaraṇañceva nīvaraṇasampayuttañca nīvaraṇasampayuttañceva no ca nīvaraṇañca dhammaṃ paṭicca nīvaraṇo ceva nīvaraṇasampayutto ca nīvaraṇasampayutto ceva no ca nīvaraṇo ca dhammā uppajjanti hetupaccayā—  nīvaraṇasampayuttañceva no ca nīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paṭicca tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe ca…pe…  (cakkaṃ. Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.1.md) / [Go to parent page](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.1.md) / [Go to next page](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.2.md)
 
 

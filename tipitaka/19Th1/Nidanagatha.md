@@ -1,16 +1,5 @@
----
-title:  Nidānagāthā
-path: /tipitaka/19Th1/Nidanagatha
-ref: 266238
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 19Th1 Theragāthāpāḷi
-    link: /tipitaka/19Th1
-prevL: /tipitaka/19Th1/0
-upL: /tipitaka/19Th1/0
-nextL: /tipitaka/19Th1/1
----
+
+[Home](/) / [19Th1 Theragāthāpāḷi](/tipitaka/19Th1.md)
 
 # Nidānagāthā
 
@@ -35,5 +24,7 @@ _phusitvā accutaṃ padaṃ;_
 _Katantaṃ paccavekkhantā,_  
 _imamatthamabhāsisuṃ._  
 
+
+[Go to previous page](/tipitaka/19Th1/0.md) / [Go to parent page](/tipitaka/19Th1/0.md) / [Go to next page](/tipitaka/19Th1/1.md)
 
 

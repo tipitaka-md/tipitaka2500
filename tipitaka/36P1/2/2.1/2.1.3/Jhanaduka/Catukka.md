@@ -1,24 +1,5 @@
----
-title:  Catukka
-path: /tipitaka/36P1/2/2.1/2.1.3/Jhanaduka/Catukka
-ref: 262152
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.1 Paṭiccavāra
-    link: /tipitaka/36P1/2/2.1
-  - name: 2.1.3 Paccayānulomapaccanīya
-    link: /tipitaka/36P1/2/2.1/2.1.3
-  - name: Jhānaduka
-    link: /tipitaka/36P1/2/2.1/2.1.3/Jhanaduka
-prevL: /tipitaka/36P1/2/2.1/2.1.3/Jhanaduka/Tika
-upL: /tipitaka/36P1/2/2.1/2.1.3/Jhanaduka
-nextL: /tipitaka/36P1/2/2.1/2.1.3/Maggaduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.1/2.1.3.md) / [Jhānaduka](/tipitaka/36P1/2/2.1/2.1.3/Jhanaduka.md)
 
 # Catukka
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/2/2.1/2.1.3/Maggaduka
 329. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.1/2.1.3/Jhanaduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.1/2.1.3/Jhanaduka.md) / [Go to next page](/tipitaka/36P1/2/2.1/2.1.3/Maggaduka.md)
 
 

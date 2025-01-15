@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6/Paccayacatukka
-ref: 264295
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.5 Saṃkiliṭṭhattika, Hetuduka
-    link: /tipitaka/39P4/1/1.5
-  - name: 1.5.2 Nahetupada
-    link: /tipitaka/39P4/1/1.5/1.5.2
-  - name: 1.5.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6
-prevL: /tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6
-upL: /tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6
-nextL: /tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6/Paccaniya
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.5 Saṃkiliṭṭhattika, Hetuduka](/tipitaka/39P4/1/1.5.md) / [1.5.2 Nahetupada](/tipitaka/39P4/1/1.5/1.5.2.md) / [1.5.2.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6.md)
 
 # Paccayacatukka
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6/Paccaniya
 (73.)
 
 239. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke pañca, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6.md) / [Go to parent page](/tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6.md) / [Go to next page](/tipitaka/39P4/1/1.5/1.5.2/1.5.2.1--6/Paccaniya.md)
 
 

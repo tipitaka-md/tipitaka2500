@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1/Arammana
-ref: 265590
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.3 Dassanenapahātabbahetukaduka
-    link: /tipitaka/38P2/13/13.3
-  - name: 13.3.1 Paṭiccavāra
-    link: /tipitaka/38P2/13/13.3/13.3.1
-  - name: 13.3.1.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.3/13.3.1/13.3.1.1
-  - name: 13.3.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1
-prevL: /tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1/Hetu
-upL: /tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1
-nextL: /tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.3 Dassanenapahātabbahetukaduka](/tipitaka/38P2/13/13.3.md) / [13.3.1 Paṭiccavāra](/tipitaka/38P2/13/13.3/13.3.1.md) / [13.3.1.1 Paccayānuloma](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1.md) / [13.3.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1.md)
 
 # Ārammaṇa
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.2
 4180. Nadassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
 4181. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1) (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.2.md)
 
 

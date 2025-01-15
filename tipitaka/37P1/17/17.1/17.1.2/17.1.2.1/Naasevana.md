@@ -1,24 +1,5 @@
----
-title:  Naāsevana
-path: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Naasevana
-ref: 263210
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 17 Maggārammaṇattika
-    link: /tipitaka/37P1/17
-  - name: 17.1 Paṭiccavāra
-    link: /tipitaka/37P1/17/17.1
-  - name: 17.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/17/17.1/17.1.2
-  - name: 17.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1
-prevL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Napurejatadi
-upL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1
-nextL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Nakamma
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [17 Maggārammaṇattika](/tipitaka/37P1/17.md) / [17.1 Paṭiccavāra](/tipitaka/37P1/17/17.1.md) / [17.1.2 Paccayapaccanīya](/tipitaka/37P1/17/17.1/17.1.2.md) / [17.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md)
 
 # Naāsevana
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Nakamma
 2476. Maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggādhipati dhammo uppajjati naāsevanapaccayā—  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggādhipatī tayo khandhā…pe…  dve khandhe…pe… . (2)
 
 2477. Maggārammaṇañca maggādhipatiñca dhammaṃ paṭicca maggārammaṇo ca maggādhipati ca dhammā uppajjanti naāsevanapaccayā—  maggārammaṇañca maggādhipatiñca ekaṃ khandhaṃ paṭicca maggārammaṇā ca maggādhipatī ca tayo khandhā…pe…  dve khandhe…pe… . (3)
+
+[Go to previous page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Napurejatadi.md) / [Go to parent page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md) / [Go to next page](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Nakamma.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1/Hetu
-ref: 265441
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 11 Upādānagocchaka
-    link: /tipitaka/38P2/11
-  - name: 11.1 Upādānaduka
-    link: /tipitaka/38P2/11/11.1
-  - name: 11.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/11/11.1/11.1.1
-  - name: 11.1.1.1 Paccayānuloma
-    link: /tipitaka/38P2/11/11.1/11.1.1/11.1.1.1
-  - name: 11.1.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1
-prevL: /tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1
-upL: /tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1
-nextL: /tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.1 Upādānaduka](/tipitaka/38P2/11/11.1.md) / [11.1.1 Paṭiccavāra](/tipitaka/38P2/11/11.1/11.1.1.md) / [11.1.1.1 Paccayānuloma](/tipitaka/38P2/11/11.1/11.1.1/11.1.1.1.md) / [11.1.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1.md)
 
 # Hetu
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1/Arammana
 3534. Upādānañca noupādānañca dhammaṃ paṭicca noupādāno dhammo uppajjati hetupaccayā—  noupādānaṃ ekaṃ khandhañca upādānañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  upādānañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3535. Upādānañca noupādānañca dhammaṃ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā—  noupādānaṃ ekaṃ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānaṃ rūpaṃ, dve khandhe ca…pe… . (Cakkaṃ kātabbaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1.md) / [Go to parent page](/tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1.md) / [Go to next page](/tipitaka/38P2/11/11.1/11.1.1/11.1.1.1/11.1.1.1.1/Arammana.md)
 
 

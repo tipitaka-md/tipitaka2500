@@ -1,26 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Anantara
-ref: 265602
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.3 Dassanenapahātabbahetukaduka
-    link: /tipitaka/38P2/13/13.3
-  - name: 13.3.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.3/13.3.7
-  - name: 13.3.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1
-  - name: 13.3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1
-prevL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Adhipati
-upL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1
-nextL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Upanissaya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.3 Dassanenapahātabbahetukaduka](/tipitaka/38P2/13/13.3.md) / [13.3.7 Pañhāvāra](/tipitaka/38P2/13/13.3/13.3.7.md) / [13.3.7.1 Paccayānuloma](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1.md) / [13.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1.md)
 
 # Anantara
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Upanissaya
 4238. Dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā dassanena pahātabbahetukassa dhammassa anantarapaccayena paccayo—  purimā purimā vicikicchāsahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ khandhānaṃ anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā vicikicchāsahagatā khandhā ca moho ca pacchimassa pacchimassa vicikicchāsahagatassa mohassa anantarapaccayena paccayo; vicikicchāsahagatā khandhā ca moho ca vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Purimā purimā vicikicchāsahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
 
 4239. Samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
+
+[Go to previous page](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Upanissaya.md)
 
 

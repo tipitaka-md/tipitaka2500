@@ -1,18 +1,5 @@
----
-title:  Vāseṭṭhabhāradvāja
-path: /tipitaka/8D/4/Vasetthabharadvaja
-ref: 272442
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 8D Pāthikavaggapāḷi
-    link: /tipitaka/8D
-  - name: 4 Aggaññasutta
-    link: /tipitaka/8D/4
-prevL: /tipitaka/8D/4
-upL: /tipitaka/8D/4
-nextL: /tipitaka/8D/4/4.1
----
+
+[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [4 Aggaññasutta](/tipitaka/8D/4.md)
 
 # Vāseṭṭhabhāradvāja
 
@@ -35,5 +22,7 @@ nextL: /tipitaka/8D/4/4.1
 (114.)
 
 244. “Taggha vo, vāseṭṭha, brāhmaṇā porāṇaṃ assarantā evamāhaṃsu—  ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā; brāhmaṇova sukko vaṇṇo, kaṇhā aññe vaṇṇā; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Dissanti kho pana, vāseṭṭha, brāhmaṇānaṃ brāhmaṇiyo utuniyopi gabbhiniyopi vijāyamānāpi pāyamānāpi. Te ca brāhmaṇā yonijāva samānā evamāhaṃsu—  ‘brāhmaṇova seṭṭho vaṇṇo, hīnā aññe vaṇṇā; brāhmaṇova sukko vaṇṇo, kaṇhā aññe vaṇṇā; brāhmaṇāva sujjhanti, no abrāhmaṇā; brāhmaṇāva brahmuno puttā orasā mukhato jātā brahmajā brahmanimmitā brahmadāyādā’ti. Te brahmānañceva abbhācikkhanti, musā ca bhāsanti, bahuñca apuññaṃ pasavanti.
+
+[Go to previous page](/tipitaka/8D/4.md) / [Go to parent page](/tipitaka/8D/4.md) / [Go to next page](/tipitaka/8D/4/4.1.md)
 
 

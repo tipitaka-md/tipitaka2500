@@ -1,24 +1,5 @@
----
-title:  Aññamaññādi
-path: /tipitaka/37P1/10/10.1/10.1.1/10.1.1.1/Annamannadi
-ref: 262943
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.1 Paṭiccavāra
-    link: /tipitaka/37P1/10/10.1
-  - name: 10.1.1 Paccayānuloma
-    link: /tipitaka/37P1/10/10.1/10.1.1
-  - name: 10.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.1/10.1.1/10.1.1.1
-prevL: /tipitaka/37P1/10/10.1/10.1.1/10.1.1.1/Sahajata
-upL: /tipitaka/37P1/10/10.1/10.1.1/10.1.1.1
-nextL: /tipitaka/37P1/10/10.1/10.1.1/10.1.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.1 Paṭiccavāra](/tipitaka/37P1/10/10.1.md) / [10.1.1 Paccayānuloma](/tipitaka/37P1/10/10.1/10.1.1.md) / [10.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.1/10.1.1/10.1.1.1.md)
 
 # Aññamaññādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/10/10.1/10.1.1/10.1.1.2
 (15.)
 
 1096. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati aññamaññapaccayā, nissayapaccayā, upanissayapaccayā, purejātapaccayā, āsevanapaccayā, kammapaccayā, vipākapaccayā, āhārapaccayā, indriyapaccayā, jhānapaccayā, maggapaccayā, sampayuttapaccayā, vippayuttapaccayā, atthipaccayā, natthipaccayā, vigatapaccayā, avigatapaccayā.
+
+[Go to previous page](/tipitaka/37P1/10/10.1/10.1.1/10.1.1.1/Sahajata.md) / [Go to parent page](/tipitaka/37P1/10/10.1/10.1.1/10.1.1.1.md) / [Go to next page](/tipitaka/37P1/10/10.1/10.1.1/10.1.1.2.md)
 
 

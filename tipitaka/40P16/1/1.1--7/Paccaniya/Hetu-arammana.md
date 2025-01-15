@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P16/1/1.1--7/Paccaniya/Hetu-arammana
-ref: 262052
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/40P16
-  - name: 1 Kusalattika, Hetuduka
-    link: /tipitaka/40P16/1
-  - name: 1.1--7 Paṭiccādivāra
-    link: /tipitaka/40P16/1/1.1--7
-  - name: Paccanīya
-    link: /tipitaka/40P16/1/1.1--7/Paccaniya
-prevL: /tipitaka/40P16/1/1.1--7/Paccaniya/Naarammana
-upL: /tipitaka/40P16/1/1.1--7/Paccaniya
-nextL: /tipitaka/40P16/2
----
+
+[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/40P16.md) / [1 Kusalattika, Hetuduka](/tipitaka/40P16/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P16/1/1.1--7.md) / [Paccanīya](/tipitaka/40P16/1/1.1--7/Paccaniya.md)
 
 # Hetu-ārammaṇa
 
@@ -47,5 +30,7 @@ nextL: /tipitaka/40P16/2
 14. Kusalaṃ nahetuṃ dhammaṃ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā. Kusalaṃ nahetuṃ dhammaṃ paṭicca naabyākato nanahetu dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 15. Hetuyā nava, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate nava. (Sabbattha nava.)
+
+[Go to previous page](/tipitaka/40P16/1/1.1--7/Paccaniya/Naarammana.md) / [Go to parent page](/tipitaka/40P16/1/1.1--7/Paccaniya.md) / [Go to next page](/tipitaka/40P16/2.md)
 
 

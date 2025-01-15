@@ -1,26 +1,5 @@
----
-title:  Atthi
-path: /tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1/Atthi
-ref: 265402
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.13 Upādāduka
-    link: /tipitaka/38P2/10/10.13
-  - name: 10.13.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.13/10.13.7
-  - name: 10.13.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.13/10.13.7/10.13.7.1
-  - name: 10.13.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1
-prevL: /tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1/Vippayutta
-upL: /tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1
-nextL: /tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.13 Upādāduka](/tipitaka/38P2/10/10.13.md) / [10.13.7 Pañhāvāra](/tipitaka/38P2/10/10.13/10.13.7.md) / [10.13.7.1 Paccayānuloma](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1.md) / [10.13.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1.md)
 
 # Atthi
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.2
 3357. Upādā ca noupādā ca dhammā noupādā dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  noupādā eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe…  paṭisandhikkhaṇe noupādā eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Purejātaṃ**—  phoṭṭhabbāyatanañca kāyāyatanañca kāyaviññāṇassa atthipaccayena paccayo. Phoṭṭhabbāyatanañca vatthu ca noupādā khandhānaṃ atthipaccayena paccayo. **Pacchājātā**—  noupādā khandhā ca kabaḷīkāro āhāro ca imassa noupādā kāyassa atthipaccayena paccayo. **Pacchājātā**—  noupādā khandhā ca rūpajīvitindriyañca noupādā kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
 3358. Upādā ca noupādā ca dhammā upādā dhammassa ca noupādā dhammassa ca atthipaccayena paccayo—  pacchājātaṃ, āhāraṃ, indriyaṃ. **Pacchājātā**—  noupādā khandhā ca kabaḷīkāro āhāro ca imassa upādā kāyassa ca noupādā kāyassa ca atthipaccayena paccayo. **Pacchājātā**—  noupādā khandhā ca rūpajīvitindriyañca upādā ca noupādā ca kaṭattārūpānaṃ atthipaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1/Vippayutta.md) / [Go to parent page](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.2.md)
 
 

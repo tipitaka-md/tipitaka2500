@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P4/7/7.7/7.7.2/Hetu
-ref: 261924
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 7 Kusalattika, Piṭṭhiduka
-    link: /tipitaka/39P4/7
-  - name: 7.7 Kusalattika, Sappītikaduka
-    link: /tipitaka/39P4/7/7.7
-  - name: 7.7.2 Appītikapada
-    link: /tipitaka/39P4/7/7.7/7.7.2
-prevL: /tipitaka/39P4/7/7.7/7.7.2
-upL: /tipitaka/39P4/7/7.7/7.7.2
-nextL: /tipitaka/39P4/7/7.8
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.7 Kusalattika, Sappītikaduka](/tipitaka/39P4/7/7.7.md) / [7.7.2 Appītikapada](/tipitaka/39P4/7/7.7/7.7.2.md)
 
 # Hetu
 
@@ -53,5 +36,7 @@ nextL: /tipitaka/39P4/7/7.8
 1596. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 1597. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/7/7.7/7.7.2.md) / [Go to parent page](/tipitaka/39P4/7/7.7/7.7.2.md) / [Go to next page](/tipitaka/39P4/7/7.8.md)
 
 

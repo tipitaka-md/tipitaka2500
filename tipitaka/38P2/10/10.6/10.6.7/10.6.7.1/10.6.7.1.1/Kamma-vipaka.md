@@ -1,26 +1,5 @@
----
-title:  Kamma-vipāka
-path: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Kamma-vipaka
-ref: 265289
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.6 Cittasamuṭṭhānaduka
-    link: /tipitaka/38P2/10/10.6
-  - name: 10.6.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.6/10.6.7
-  - name: 10.6.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1
-  - name: 10.6.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1
-prevL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Pacchajatasevana
-upL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1
-nextL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Ahara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.6 Cittasamuṭṭhānaduka](/tipitaka/38P2/10/10.6.md) / [10.6.7 Pañhāvāra](/tipitaka/38P2/10/10.6/10.6.7.md) / [10.6.7.1 Paccayānuloma](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1.md) / [10.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1.md)
 
 # Kamma-vipāka
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Ahara
 2867. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasamuṭṭhānā cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasamuṭṭhānā cetanā vipākānaṃ khandhānaṃ cittassa ca kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
 
 2868. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa vipākapaccayena paccayo…  nava.
+
+[Go to previous page](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Pacchajatasevana.md) / [Go to parent page](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Ahara.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Arammana
-ref: 264829
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.5 Rūpīduka
-    link: /tipitaka/38P2/2/2.5
-  - name: 2.5.7 Pañhāvāra
-    link: /tipitaka/38P2/2/2.5/2.5.7
-  - name: 2.5.7.1 Paccayānuloma
-    link: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1
-  - name: 2.5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1
-prevL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Hetu
-upL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1
-nextL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Adhipati
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md)
 
 # Ārammaṇa
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Adhipati
 (113.)
 
 804. Arūpī dhammo arūpissa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; ariyā pahīne kilese…pe…  vikkhambhite kilese…pe…  pubbe…pe…  arūpino khandhe aniccato…pe…  domanassaṃ uppajjati, cetopariyañāṇena arūpicittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ…pe…  nevasaññānāsaññāyatanassa…pe…  arūpino khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Adhipati.md)
 
 

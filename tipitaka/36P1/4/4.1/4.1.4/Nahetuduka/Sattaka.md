@@ -1,24 +1,5 @@
----
-title:  Sattaka
-path: /tipitaka/36P1/4/4.1/4.1.4/Nahetuduka/Sattaka
-ref: 262664
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/4/4.1/4.1.4
-  - name: Nahetuduka
-    link: /tipitaka/36P1/4/4.1/4.1.4/Nahetuduka
-prevL: /tipitaka/36P1/4/4.1/4.1.4/Nahetuduka/Tika
-upL: /tipitaka/36P1/4/4.1/4.1.4/Nahetuduka
-nextL: /tipitaka/36P1/4/4.2
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/4/4.1/4.1.4.md) / [Nahetuduka](/tipitaka/36P1/4/4.1/4.1.4/Nahetuduka.md)
 
 # Sattaka
 
@@ -44,5 +25,7 @@ nextL: /tipitaka/36P1/4/4.2
 Paṭiccavāro.
 
 
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.4/Nahetuduka/Tika.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.4/Nahetuduka.md) / [Go to next page](/tipitaka/36P1/4/4.2.md)
 
 

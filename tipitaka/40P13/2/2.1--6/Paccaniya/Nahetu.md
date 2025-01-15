@@ -1,22 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/40P13/2/2.1--6/Paccaniya/Nahetu
-ref: 262031
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 2 Vedanāttika
-    link: /tipitaka/40P13/2
-  - name: 2.1--6 Paṭiccādivāra
-    link: /tipitaka/40P13/2/2.1--6
-  - name: Paccanīya
-    link: /tipitaka/40P13/2/2.1--6/Paccaniya
-prevL: /tipitaka/40P13/2/2.1--6/Paccaniya
-upL: /tipitaka/40P13/2/2.1--6/Paccaniya
-nextL: /tipitaka/40P13/2/2.7
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [2 Vedanāttika](/tipitaka/40P13/2.md) / [2.1--6 Paṭiccādivāra](/tipitaka/40P13/2/2.1--6.md) / [Paccanīya](/tipitaka/40P13/2/2.1--6/Paccaniya.md)
 
 # Nahetu
 
@@ -35,5 +18,7 @@ nextL: /tipitaka/40P13/2/2.7
 29. Nahetuyā ekavīsa, naārammaṇe ekavīsa…pe…  nakamme nava…pe…  navippayutte cuddasa…pe…  novigate ekavīsa.
 
 30. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
+
+[Go to previous page](/tipitaka/40P13/2/2.1--6/Paccaniya.md) / [Go to parent page](/tipitaka/40P13/2/2.1--6/Paccaniya.md) / [Go to next page](/tipitaka/40P13/2/2.7.md)
 
 

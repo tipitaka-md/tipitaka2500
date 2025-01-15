@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Arammana
-ref: 262688
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Hetu
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Adhipati
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Ārammaṇa
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Adhipati
 2287. Nevavipākanavipākadhammadhammo vipākassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ phalassa ārammaṇapaccayena paccayo. Sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Kusalākusale niruddhe vipāko tadārammaṇatā uppajjati. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  nevavipākanavipākadhammadhamme khandhe aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Kusalākusale niruddhe vipāko tadārammaṇatā uppajjati. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa ārammaṇapaccayena paccayo. (2)
 
 2288. Nevavipākanavipākadhammadhammo vipākadhammadhammassa ārammaṇapaccayena paccayo—  sekkhā nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa ārammaṇapaccayena paccayo. Sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  nevavipākanavipākadhammadhamme khandhe aniccato dukkhato anattato vipassanti, assādenti abhinandanti…pe…  dibbena cakkhunā rūpaṃ passanti, dibbāya sotadhātuyā saddaṃ suṇanti, cetopariyañāṇena nevavipākanavipākadhammadhammacittasamaṅgissa cittaṃ jānanti. Nevavipākanavipākadhammadhammā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Adhipati.md)
 
 

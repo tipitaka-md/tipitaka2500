@@ -1,26 +1,5 @@
----
-title:  Anantarādi
-path: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Anantaradi
-ref: 265736
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.15 Niyyānikaduka
-    link: /tipitaka/38P2/13/13.15
-  - name: 13.15.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.15/13.15.7
-  - name: 13.15.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1
-  - name: 13.15.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1
-prevL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Adhipati
-upL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1
-nextL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Upanissaya
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.7 Pañhāvāra](/tipitaka/38P2/13/13.15/13.15.7.md) / [13.15.7.1 Paccayānuloma](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md)
 
 # Anantarādi
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Upanissaya
 4750. Aniyyāniko dhammo aniyyānikassa dhammassa anantarapaccayena paccayo—  purimā purimā aniyyānikā khandhā pacchimānaṃ pacchimānaṃ aniyyānikānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  phalaṃ phalassa…  anulomaṃ phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. Aniyyāniko dhammo niyyānikassa dhammassa anantarapaccayena paccayo…  gotrabhu maggassa; vodānaṃ maggassa anantarapaccayena paccayo. (2)
 
 4751. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
+
+[Go to previous page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Upanissaya.md)
 
 

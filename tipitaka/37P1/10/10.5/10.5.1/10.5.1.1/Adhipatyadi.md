@@ -1,24 +1,5 @@
----
-title:  Adhipatyādi
-path: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Adhipatyadi
-ref: 262971
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.5 Saṃsaṭṭhavāra
-    link: /tipitaka/37P1/10/10.5
-  - name: 10.5.1 Paccayānuloma
-    link: /tipitaka/37P1/10/10.5/10.5.1
-  - name: 10.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1
-prevL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Arammana
-upL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1
-nextL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Sahajatadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.5 Saṃsaṭṭhavāra](/tipitaka/37P1/10/10.5.md) / [10.5.1 Paccayānuloma](/tipitaka/37P1/10/10.5/10.5.1.md) / [10.5.1.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1.md)
 
 # Adhipatyādi
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Sahajatadi
 1252. Bhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho…  ekaṃ.
 
 1253. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati adhipatipaccayā—  nevadassanena nabhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhā; anantarapaccayā…  samanantarapaccayā.
+
+[Go to previous page](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1.md) / [Go to next page](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Sahajatadi.md)
 
 

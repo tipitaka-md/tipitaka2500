@@ -1,26 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7/Paccayacatukka/Hetu-arammana
-ref: 266133
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/39P5
-  - name: 1 Kusalattika, Tika
-    link: /tipitaka/39P5/1
-  - name: 1.1 Kusalattika, Vedanāttika
-    link: /tipitaka/39P5/1/1.1
-  - name: 1.1.2 Dukkhāyavedanāyasampayuttapada
-    link: /tipitaka/39P5/1/1.1/1.1.2
-  - name: 1.1.2.1--7 Paṭiccādivāra
-    link: /tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7/Paccayacatukka
-prevL: /tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7/Paccayacatukka
-upL: /tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7/Paccayacatukka
-nextL: /tipitaka/39P5/1/1.1/1.1.3
----
+
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.1 Kusalattika, Vedanāttika](/tipitaka/39P5/1/1.1.md) / [1.1.2 Dukkhāyavedanāyasampayuttapada](/tipitaka/39P5/1/1.1/1.1.2.md) / [1.1.2.1--7 Paṭiccādivāra](/tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7.md) / [Paccayacatukka](/tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -61,5 +40,7 @@ nextL: /tipitaka/39P5/1/1.1/1.1.3
 19. Hetuyā ekaṃ, ārammaṇe dve, adhipatiyā ekaṃ, anantare…pe…  nissaye dve, upanissaye cattāri, āsevane ekaṃ, kamme tīṇi, vipāke ekaṃ, āhāre indriye dve, jhāne magge ekaṃ, sampayutte…pe…  avigate dve. (Saṃkhittaṃ.)
 
 20. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P5/1/1.1/1.1.2/1.1.2.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P5/1/1.1/1.1.3.md)
 
 

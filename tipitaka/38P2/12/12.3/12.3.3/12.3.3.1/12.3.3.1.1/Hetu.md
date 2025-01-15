@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.1/Hetu
-ref: 265529
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 12 Kilesagocchaka
-    link: /tipitaka/38P2/12
-  - name: 12.3 Saṃkiliṭṭhaduka
-    link: /tipitaka/38P2/12/12.3
-  - name: 12.3.3 Paccayavāra
-    link: /tipitaka/38P2/12/12.3/12.3.3
-  - name: 12.3.3.1 Paccayānuloma
-    link: /tipitaka/38P2/12/12.3/12.3.3/12.3.3.1
-  - name: 12.3.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.1
-prevL: /tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.1
-upL: /tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.1
-nextL: /tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.3 Saṃkiliṭṭhaduka](/tipitaka/38P2/12/12.3.md) / [12.3.3 Paccayavāra](/tipitaka/38P2/12/12.3/12.3.3.md) / [12.3.3.1 Paccayānuloma](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.1.md) / [12.3.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.1.md)
 
 # Hetu
 
@@ -53,5 +32,7 @@ nextL: /tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.2
 3933. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā asaṃkiliṭṭho dhammo uppajjati hetupaccayā—  saṃkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
 
 3934. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  saṃkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
+
+[Go to previous page](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.1.md) / [Go to parent page](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.1.md) / [Go to next page](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.1/12.3.3.1.2.md)
 
 

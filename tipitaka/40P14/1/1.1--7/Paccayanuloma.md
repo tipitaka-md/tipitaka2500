@@ -1,24 +1,11 @@
----
-title:  Paccayānuloma
-path: /tipitaka/40P14/1/1.1--7/Paccayanuloma
-ref: 259974
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/40P14
-  - name: 1 Hetuduka
-    link: /tipitaka/40P14/1
-  - name: 1.1--7 Paṭiccādivāra
-    link: /tipitaka/40P14/1/1.1--7
-prevL: /tipitaka/40P14/1/1.1--7
-upL: /tipitaka/40P14/1/1.1--7
-nextL: /tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu
----
+
+[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P14.md) / [1 Hetuduka](/tipitaka/40P14/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P14/1/1.1--7.md)
 
 # Paccayānuloma
 
-* [Hetu](/tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu)
-* [Hetu-ārammaṇa](/tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu-arammana)
+* [Hetu](/tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu.md)
+* [Hetu-ārammaṇa](/tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu-arammana.md)
+
+[Go to previous page](/tipitaka/40P14/1/1.1--7.md) / [Go to parent page](/tipitaka/40P14/1/1.1--7.md) / [Go to next page](/tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu.md)
 
 

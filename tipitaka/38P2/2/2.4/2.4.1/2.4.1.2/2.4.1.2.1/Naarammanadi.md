@@ -1,26 +1,5 @@
----
-title:  Naārammaṇādi
-path: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1/Naarammanadi
-ref: 264796
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.4 Sappaṭighaduka
-    link: /tipitaka/38P2/2/2.4
-  - name: 2.4.1 Paṭiccavāra
-    link: /tipitaka/38P2/2/2.4/2.4.1
-  - name: 2.4.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.2
-  - name: 2.4.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1
-prevL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1/Nahetu
-upL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1
-nextL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.1 Paṭiccavāra](/tipitaka/38P2/2/2.4/2.4.1.md) / [2.4.1.2 Paccayapaccanīya](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2.md) / [2.4.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1.md)
 
 # Naārammaṇādi
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.2
 (61.)
 
 680. Sappaṭighaṃ dhammaṃ paṭicca sappaṭigho dhammo uppajjati naārammaṇapaccayā (sabbaṃ saṃkhittaṃ)…  novigatapaccayā.
+
+[Go to previous page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1/Nahetu.md) / [Go to parent page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1.md) / [Go to next page](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.2.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Pacchājāta
-path: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Pacchajata
-ref: 263133
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.7 Pañhāvāra
-    link: /tipitaka/37P1/13/13.7
-  - name: 13.7.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.7/13.7.1
-  - name: 13.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-prevL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Purejata
-upL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1
-nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Asevana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.7 Pañhāvāra](/tipitaka/37P1/13/13.7.md) / [13.7.1 Paccayānuloma](/tipitaka/37P1/13/13.7/13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md)
 
 # Pacchājāta
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Asevana
 2099. Mahaggato dhammo parittassa dhammassa pacchājātapaccayena paccayo—  pacchājātā mahaggatā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 2100. Appamāṇo dhammo parittassa dhammassa pacchājātapaccayena paccayo—  pacchājātā appamāṇā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Purejata.md) / [Go to parent page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Asevana.md)
 
 

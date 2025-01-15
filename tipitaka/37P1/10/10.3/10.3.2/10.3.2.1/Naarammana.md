@@ -1,24 +1,5 @@
----
-title:  Naārammaṇa
-path: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Naarammana
-ref: 262964
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 10 Dassanenapahātabbahetukattika
-    link: /tipitaka/37P1/10
-  - name: 10.3 Paccayavāra
-    link: /tipitaka/37P1/10/10.3
-  - name: 10.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/10/10.3/10.3.2
-  - name: 10.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1
-prevL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Nahetu
-upL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1
-nextL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Naadhipatyadi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.3 Paccayavāra](/tipitaka/37P1/10/10.3.md) / [10.3.2 Paccayapaccanīya](/tipitaka/37P1/10/10.3/10.3.2.md) / [10.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1.md)
 
 # Naārammaṇa
 
@@ -45,5 +26,7 @@ nextL: /tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Naadhipatyadi
 1217. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naārammaṇapaccayā—  dassanena pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; vicikicchāsahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1218. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naārammaṇapaccayā—  bhāvanāya pahātabbahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Nahetu.md) / [Go to parent page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1.md) / [Go to next page](/tipitaka/37P1/10/10.3/10.3.2/10.3.2.1/Naadhipatyadi.md)
 
 

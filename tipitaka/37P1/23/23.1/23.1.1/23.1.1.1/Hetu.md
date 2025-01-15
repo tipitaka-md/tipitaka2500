@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Hetu
-ref: 263342
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 23 Sanidassanasappaṭighattika
-    link: /tipitaka/37P1/23
-  - name: 23.1 Paṭiccavāra
-    link: /tipitaka/37P1/23/23.1
-  - name: 23.1.1 Paccayānuloma
-    link: /tipitaka/37P1/23/23.1/23.1.1
-  - name: 23.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1
-prevL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1
-upL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1
-nextL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.1 Paṭiccavāra](/tipitaka/37P1/23/23.1.md) / [23.1.1 Paccayānuloma](/tipitaka/37P1/23/23.1/23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md)
 
 # Hetu
 
@@ -79,5 +60,7 @@ nextL: /tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Arammana
 2949. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca dhammā uppajjanti hetupaccayā—  anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ, cakkhāyatanaṃ…pe…  rasāyatanaṃ. (6)
 
 2950. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā uppajjanti hetupaccayā—  anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ, cakkhāyatanaṃ…pe…  rasāyatanaṃ, itthindriyaṃ…pe…  kabaḷīkāro āhāro. (7)
+
+[Go to previous page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to parent page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to next page](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Arammana.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/8/8.2/8.2.1/8.2.1.1--7/Paccayacatukka
-ref: 264388
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 8 Tika, Saraṇaduka
-    link: /tipitaka/39P4/8
-  - name: 8.2 Vedanāttika, Saraṇaduka
-    link: /tipitaka/39P4/8/8.2
-  - name: 8.2.1 Saraṇapada
-    link: /tipitaka/39P4/8/8.2/8.2.1
-  - name: 8.2.1.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/8/8.2/8.2.1/8.2.1.1--7
-prevL: /tipitaka/39P4/8/8.2/8.2.1/8.2.1.1--7
-upL: /tipitaka/39P4/8/8.2/8.2.1/8.2.1.1--7
-nextL: /tipitaka/39P4/8/8.2/8.2.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.2 Vedanāttika, Saraṇaduka](/tipitaka/39P4/8/8.2.md) / [8.2.1 Saraṇapada](/tipitaka/39P4/8/8.2/8.2.1.md) / [8.2.1.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.2/8.2.1/8.2.1.1--7.md)
 
 # Paccayacatukka
 
@@ -57,5 +38,7 @@ nextL: /tipitaka/39P4/8/8.2/8.2.2
 (4.)
 
 1716. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā pañca, anantare…pe…  nissaye tīṇi, upanissaye nava, āsevane tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/8/8.2/8.2.1/8.2.1.1--7.md) / [Go to parent page](/tipitaka/39P4/8/8.2/8.2.1/8.2.1.1--7.md) / [Go to next page](/tipitaka/39P4/8/8.2/8.2.2.md)
 
 

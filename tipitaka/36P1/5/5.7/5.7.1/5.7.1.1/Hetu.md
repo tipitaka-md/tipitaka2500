@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Hetu
-ref: 262757
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 5 Upādinnattika
-    link: /tipitaka/36P1/5
-  - name: 5.7 Pañhāvāra
-    link: /tipitaka/36P1/5/5.7
-  - name: 5.7.1 Paccayānuloma
-    link: /tipitaka/36P1/5/5.7/5.7.1
-  - name: 5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-prevL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-upL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1
-nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Arammana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md)
 
 # Hetu
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Arammana
 2611. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa dhammassa hetupaccayena paccayo—  anupādinnaanupādāniyā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
 
 2612. Anupādinnaanupādāniyo dhammo anupādinnupādāniyassa ca anupādinnaanupādāniyassa ca dhammassa hetupaccayena paccayo—  anupādinnaanupādāniyā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to parent page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to next page](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Arammana.md)
 
 

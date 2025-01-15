@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4/2.7.1.2--4.1/Suddha
-ref: 264873
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.7 Kenaciviññeyyaduka
-    link: /tipitaka/38P2/2/2.7
-  - name: 2.7.1 Paṭiccavāra
-    link: /tipitaka/38P2/2/2.7/2.7.1
-  - name: 2.7.1.2--4 Paccayapaccanīyādi
-    link: /tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4
-  - name: 2.7.1.2--4.1 Saṅkhyāvāra
-    link: /tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4/2.7.1.2--4.1
-prevL: /tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4/2.7.1.2--4.1
-upL: /tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4/2.7.1.2--4.1
-nextL: /tipitaka/38P2/2/2.7/2.7.2--6
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.7 Kenaciviññeyyaduka](/tipitaka/38P2/2/2.7.md) / [2.7.1 Paṭiccavāra](/tipitaka/38P2/2/2.7/2.7.1.md) / [2.7.1.2--4 Paccayapaccanīyādi](/tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4.md) / [2.7.1.2--4.1 Saṅkhyāvāra](/tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4/2.7.1.2--4.1.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/2/2.7/2.7.2--6
 (180.)
 
 961. Nahetuyā nava, naārammaṇe nava…pe…  novigate nava. (Evaṃ cattāripi gaṇanā paripuṇṇā.)
+
+[Go to previous page](/tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4/2.7.1.2--4.1.md) / [Go to parent page](/tipitaka/38P2/2/2.7/2.7.1/2.7.1.2--4/2.7.1.2--4.1.md) / [Go to next page](/tipitaka/38P2/2/2.7/2.7.2--6.md)
 
 

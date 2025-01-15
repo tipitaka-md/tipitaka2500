@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Arammana
-ref: 265668
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.11 Kāmāvacaraduka
-    link: /tipitaka/38P2/13/13.11
-  - name: 13.11.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.11/13.11.7
-  - name: 13.11.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.11/13.11.7/13.11.7.1
-  - name: 13.11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1
-prevL: /tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Hetu
-upL: /tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1
-nextL: /tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Adhipati
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.11 Kāmāvacaraduka](/tipitaka/38P2/13/13.11.md) / [13.11.7 Pañhāvāra](/tipitaka/38P2/13/13.11/13.11.7.md) / [13.11.7.1 Paccayānuloma](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1.md) / [13.11.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1.md)
 
 # Ārammaṇa
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Adhipati
 4551. Nakāmāvacaro dhammo nakāmāvacarassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, phalassa ārammaṇapaccayena paccayo; cetopariyañāṇena nakāmāvacaracittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe…  ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  nakāmāvacarā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa ārammaṇapaccayena paccayo. (1)
 
 4552. Nakāmāvacaro dhammo kāmāvacarassa dhammassa ārammaṇapaccayena paccayo—  jhānā vuṭṭhahitvā jhānaṃ paccavekkhati assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti; phalaṃ…pe…  nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo; ākāsānañcāyatanaṃ paccavekkhati, viññāṇañcāyatanaṃ paccavekkhati, ākiñcaññāyatanaṃ paccavekkhati, nevasaññānāsaññāyatanaṃ paccavekkhati, dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati, iddhividhañāṇaṃ paccavekkhati, cetopariyañāṇaṃ…pe…  pubbenivāsānussatiñāṇaṃ…pe…  yathākammūpagañāṇaṃ…pe…  anāgataṃsañāṇaṃ paccavekkhati, nakāmāvacare khandhe aniccato…pe…  domanassaṃ uppajjati. (2)
+
+[Go to previous page](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Adhipati.md)
 
 

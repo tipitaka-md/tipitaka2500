@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/2/2.6/2.6.7/Paccaniyuddhara
-ref: 261013
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.6 Lokiyaduka
-    link: /tipitaka/38P2/2/2.6
-  - name: 2.6.7 Pañhāvāra
-    link: /tipitaka/38P2/2/2.6/2.6.7
-prevL: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.2/Suddha
-upL: /tipitaka/38P2/2/2.6/2.6.7
-nextL: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.6 Lokiyaduka](/tipitaka/38P2/2/2.6.md) / [2.6.7 Pañhāvāra](/tipitaka/38P2/2/2.6/2.6.7.md)
 
 # Paccanīyuddhāra
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/38P2/2/2.6/2.6.7/2.6.7.2
 942. Lokiyo ca lokuttaro ca dhammā lokiyassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (1)
 
 943. Lokiyo ca lokuttaro ca dhammā lokuttarassa dhammassa sahajātaṃ…  purejātaṃ. (2)
+
+[Go to previous page](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/2/2.6/2.6.7.md) / [Go to next page](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.2.md)
 
 

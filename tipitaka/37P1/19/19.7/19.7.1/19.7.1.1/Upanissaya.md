@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Upanissaya
-ref: 263251
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 19 Atītattika
-    link: /tipitaka/37P1/19
-  - name: 19.7 Pañhāvāra
-    link: /tipitaka/37P1/19/19.7
-  - name: 19.7.1 Paccayānuloma
-    link: /tipitaka/37P1/19/19.7/19.7.1
-  - name: 19.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/19/19.7/19.7.1/19.7.1.1
-prevL: /tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Sahajatadi
-upL: /tipitaka/37P1/19/19.7/19.7.1/19.7.1.1
-nextL: /tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Purejata
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [19 Atītattika](/tipitaka/37P1/19.md) / [19.7 Pañhāvāra](/tipitaka/37P1/19/19.7.md) / [19.7.1 Paccayānuloma](/tipitaka/37P1/19/19.7/19.7.1.md) / [19.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1.md)
 
 # Upanissaya
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Purejata
 2640. Anāgato dhammo paccuppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  anāgataṃ cakkhusampadaṃ patthayamāno…pe…  sotasampadaṃ…  ghānasampadaṃ jivhāsampadaṃ…  kāyasampadaṃ…  vaṇṇasampadaṃ…  saddasampadaṃ…  gandhasampadaṃ…  rasasampadaṃ…  phoṭṭhabbasampadaṃ…  patthayamāno…pe…  anāgate khandhe patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ…  anāgatā cakkhusampadā…pe…  vaṇṇasampadā…pe…  phoṭṭhabbasampadā…  anāgatā khandhā paccuppannāya saddhāya…pe…  paññāya, kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 2641. Paccuppanno dhammo paccuppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paccuppannaṃ utuṃ upanissāya jhānaṃ uppādeti, vipassanaṃ…pe…  paccuppannaṃ bhojanaṃ senāsanaṃ upanissāya jhānaṃ uppādeti…pe…  samāpattiṃ uppādeti. Paccuppannaṃ utu…  bhojanaṃ…  senāsanaṃ paccuppannāya saddhāya…pe…  paññāya kāyikassa…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Sahajatadi.md) / [Go to parent page](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1.md) / [Go to next page](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Purejata.md)
 
 

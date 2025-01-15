@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Suddha
-ref: 262709
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Sabhaga
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2.md)
 
 # Suddha
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Sabhaga
 (120.)
 
 2404. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa, anantare satta, samanantare satta, sahajāte ekādasa, aññamaññe satta, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane dve, kamme nava, vipāke tīṇi, āhāre satta, indriye nava, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā satta, vigate satta, avigate terasa.
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2/Sabhaga.md)
 
 

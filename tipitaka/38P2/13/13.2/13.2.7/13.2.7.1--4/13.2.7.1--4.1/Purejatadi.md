@@ -1,26 +1,5 @@
----
-title:  Purejātādi
-path: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1/Purejatadi
-ref: 265587
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.2 Bhāvanāyapahātabbaduka
-    link: /tipitaka/38P2/13/13.2
-  - name: 13.2.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.2/13.2.7
-  - name: 13.2.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4
-  - name: 13.2.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1
-prevL: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1/Upanissaya
-upL: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1
-nextL: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.2 Bhāvanāyapahātabbaduka](/tipitaka/38P2/13/13.2.md) / [13.2.7 Pañhāvāra](/tipitaka/38P2/13/13.2/13.2.7.md) / [13.2.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4.md) / [13.2.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1.md)
 
 # Purejātādi
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2
 4162. Pacchājātapaccayena paccayo…  dve, āsevanapaccayena paccayo…  dve, kammapaccayena paccayo—  bhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Bhāvanāya pahātabbā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Bhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
 4163. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nabhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nabhāvanāya pahātabbā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo…  vipākapaccayena paccayo…  ekaṃ…pe…  avigatapaccayena paccayo. (Sabbapaccayā dassanadukasadisā, bhāvanā ninnānākaraṇā.)
+
+[Go to previous page](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1/Upanissaya.md) / [Go to parent page](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1.2.md)
 
 

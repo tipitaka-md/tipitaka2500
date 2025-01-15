@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Hetu
-ref: 262826
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.7 Pañhāvāra
-    link: /tipitaka/37P1/7/7.7
-  - name: 7.7.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.7/7.7.1
-  - name: 7.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-prevL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-upL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1
-nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Hetu
 
@@ -59,5 +40,7 @@ nextL: /tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Arammana
 (68.)
 
 281. Avitakkaavicāro dhammo avitakkaavicārassa dhammassa hetupaccayena paccayo—  avitakkaavicārā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe avitakkaavicārā hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to parent page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Arammana.md)
 
 

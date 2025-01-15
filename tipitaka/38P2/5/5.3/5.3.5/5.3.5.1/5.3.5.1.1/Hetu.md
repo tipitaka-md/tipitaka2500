@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.1/Hetu
-ref: 265032
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 5 Ganthagocchaka
-    link: /tipitaka/38P2/5
-  - name: 5.3 Ganthasampayuttaduka
-    link: /tipitaka/38P2/5/5.3
-  - name: 5.3.5 Saṃsaṭṭhavāra
-    link: /tipitaka/38P2/5/5.3/5.3.5
-  - name: 5.3.5.1 Paccayānuloma
-    link: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.1
-  - name: 5.3.5.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.1
-prevL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.1
-upL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.1
-nextL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.5 Saṃsaṭṭhavāra](/tipitaka/38P2/5/5.3/5.3.5.md) / [5.3.5.1 Paccayānuloma](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.1.md) / [5.3.5.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.1.md)
 
 # Hetu
 
@@ -51,5 +30,7 @@ nextL: /tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.2
 1759. Ganthavippayuttaṃ dhammaṃ saṃsaṭṭho ganthasampayutto dhammo uppajjati hetupaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ saṃsaṭṭhā sampayuttakā khandhā, paṭighaṃ saṃsaṭṭhā sampayuttakā khandhā. (2)
 
 1760. Ganthasampayuttañca ganthavippayuttañca dhammaṃ saṃsaṭṭho ganthasampayutto dhammo uppajjati hetupaccayā—  diṭṭhigatavippayuttaṃ lobhasahagataṃ ekaṃ khandhañca lobhañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.1.md) / [Go to parent page](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.1.md) / [Go to next page](/tipitaka/38P2/5/5.3/5.3.5/5.3.5.1/5.3.5.1.2.md)
 
 

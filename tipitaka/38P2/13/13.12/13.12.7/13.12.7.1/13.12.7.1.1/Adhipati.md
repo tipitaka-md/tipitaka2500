@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Adhipati
-ref: 265692
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.12 Rūpāvacaraduka
-    link: /tipitaka/38P2/13/13.12
-  - name: 13.12.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.12/13.12.7
-  - name: 13.12.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1
-  - name: 13.12.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1
-prevL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Arammana
-upL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1
-nextL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Anantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.12 Rūpāvacaraduka](/tipitaka/38P2/13/13.12.md) / [13.12.7 Pañhāvāra](/tipitaka/38P2/13/13.12/13.12.7.md) / [13.12.7.1 Paccayānuloma](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1.md) / [13.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md)
 
 # Adhipati
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Anantaradi
 (249.)
 
 4623. Narūpāvacaro dhammo narūpāvacarassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe suciṇṇāni garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā…pe…  phalaṃ…pe…  nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ narūpāvacare khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; ākāsānañcāyatanaṃ garuṃ katvā paccavekkhati…pe…  nevasaññānāsaññāyatanaṃ garuṃ katvā paccavekkhati. **Sahajātādhipati**—  narūpāvacarādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md) / [Go to next page](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Anantaradi.md)
 
 

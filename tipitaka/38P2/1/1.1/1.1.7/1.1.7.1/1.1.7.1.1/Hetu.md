@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Hetu
-ref: 264662
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.1/1.1.7
-  - name: 1.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1
-  - name: 1.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-prevL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-upL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1
-nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Arammana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md)
 
 # Hetu
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Arammana
 42. Hetu dhammo nahetussa dhammassa hetupaccayena paccayo—  hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
 
 43. Hetu dhammo hetussa ca nahetussa ca dhammassa hetupaccayena paccayo—  alobho adosassa amohassa sampayuttakānañca khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (Cakkaṃ.) Lobho mohassa…pe…  paṭisandhikkhaṇe…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Arammana.md)
 
 

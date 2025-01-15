@@ -1,26 +1,5 @@
----
-title:  Napurejāta
-path: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1/Napurejata
-ref: 264657
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.1 Hetuduka
-    link: /tipitaka/38P2/1/1.1
-  - name: 1.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/1/1.1/1.1.1
-  - name: 1.1.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.2
-  - name: 1.1.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1
-prevL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1/Naarammanadi
-upL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1
-nextL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1/Napacchajatadi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.1 Paṭiccavāra](/tipitaka/38P2/1/1.1/1.1.1.md) / [1.1.1.2 Paccayapaccanīya](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.2.md) / [1.1.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1.md)
 
 # Napurejāta
 
@@ -59,5 +38,7 @@ nextL: /tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1/Napacchajatadi
 26. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nahetū khandhe ca hetuñca paṭicca cittasamuṭṭhānaṃ rūpaṃ, hetuñca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
 
 27. Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca…pe…  dve khandhe…pe…  (cakkaṃ). Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca (cakkaṃ); paṭisandhikkhaṇe…pe… . (3)
+
+[Go to previous page](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1/Naarammanadi.md) / [Go to parent page](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1.md) / [Go to next page](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1/Napacchajatadi.md)
 
 

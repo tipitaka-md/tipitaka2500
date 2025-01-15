@@ -1,26 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Adhipati
-ref: 265258
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.4 Cittasampayuttaduka
-    link: /tipitaka/38P2/10/10.4
-  - name: 10.4.7 Pañhāvāra
-    link: /tipitaka/38P2/10/10.4/10.4.7
-  - name: 10.4.7.1 Paccayānuloma
-    link: /tipitaka/38P2/10/10.4/10.4.7/10.4.7.1
-  - name: 10.4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1
-prevL: /tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Arammana
-upL: /tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1
-nextL: /tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Anantaradi
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.4 Cittasampayuttaduka](/tipitaka/38P2/10/10.4.md) / [10.4.7 Pañhāvāra](/tipitaka/38P2/10/10.4/10.4.7.md) / [10.4.7.1 Paccayānuloma](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1.md) / [10.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1.md)
 
 # Adhipati
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Anantaradi
 (167.)
 
 2724. Cittavippayutto dhammo cittasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ cittavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
+
+[Go to previous page](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1.md) / [Go to next page](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Anantaradi.md)
 
 

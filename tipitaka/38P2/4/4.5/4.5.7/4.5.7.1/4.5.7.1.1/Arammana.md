@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Arammana
-ref: 264994
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.5 Saññojanasaññojanasampayuttaduka
-    link: /tipitaka/38P2/4/4.5
-  - name: 4.5.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.5/4.5.7
-  - name: 4.5.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1
-  - name: 4.5.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1
-prevL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Hetu
-upL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1
-nextL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Adhipati
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.5 Saññojanasaññojanasampayuttaduka](/tipitaka/38P2/4/4.5.md) / [4.5.7 Pañhāvāra](/tipitaka/38P2/4/4.5/4.5.7.md) / [4.5.7.1 Paccayānuloma](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1.md) / [4.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md)
 
 # Ārammaṇa
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Adhipati
 1593. Saññojanasampayutto ceva no ca saññojano dhammo saññojanassa ceva saññojanasampayuttassa ca saññojanasampayuttassa ceva no ca saññojanassa ca dhammassa ārammaṇapaccayena paccayo—  saññojanasampayutte ceva no ca saññojane khandhe ārabbha saññojanā ca saññojanasampayuttakā ca khandhā uppajjanti. (3)
 
 1594. Saññojano ceva saññojanasampayutto ca saññojanasampayutto ceva no ca saññojano ca dhammā saññojanassa ceva saññojanasampayuttassa ca dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Adhipati.md)
 
 

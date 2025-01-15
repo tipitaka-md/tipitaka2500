@@ -1,24 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Upanissaya
-ref: 262600
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.7 Pañhāvāra
-    link: /tipitaka/36P1/3/3.7
-  - name: 3.7.1 Paccayānuloma
-    link: /tipitaka/36P1/3/3.7/3.7.1
-  - name: 3.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1
-prevL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Annamanna-nissaya
-upL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1
-nextL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Asevana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md)
 
 # Upanissaya
 
@@ -73,5 +54,7 @@ nextL: /tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Asevana
 1932. Adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… .
 
 1933. **Pakatūpanissayo**—  adukkhamasukhāya vedanāya sampayuttaṃ saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti. Adukkhamasukhāya vedanāya sampayuttaṃ sīlaṃ…pe…  patthanaṃ upanissāya pāṇaṃ hanati. Dukkhāya vedanāya sampayuttena cittena adinnaṃ ādiyati…pe…  saṃghaṃ bhindati. Adukkhamasukhāya vedanāya sampayuttā saddhā…pe…  patthanā…  dosassa…  mohassa…  dukkhasahagatassa kāyaviññāṇassa…  dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Annamanna-nissaya.md) / [Go to parent page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md) / [Go to next page](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Asevana.md)
 
 

@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/39P4/6/6.3/6.3.1--7/Hetu-arammana
-ref: 261910
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 6 Kusalattika, Kilesagocchaka
-    link: /tipitaka/39P4/6
-  - name: 6.3 Kusalattika, Saṃkiliṭṭhaduka
-    link: /tipitaka/39P4/6/6.3
-  - name: 6.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/6/6.3/6.3.1--7
-prevL: /tipitaka/39P4/6/6.3/6.3.1--7
-upL: /tipitaka/39P4/6/6.3/6.3.1--7
-nextL: /tipitaka/39P4/6/6.4
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [6 Kusalattika, Kilesagocchaka](/tipitaka/39P4/6.md) / [6.3 Kusalattika, Saṃkiliṭṭhaduka](/tipitaka/39P4/6/6.3.md) / [6.3.1--7 Paṭiccādivāra](/tipitaka/39P4/6/6.3/6.3.1--7.md)
 
 # Hetu-ārammaṇa
 
@@ -69,5 +52,7 @@ nextL: /tipitaka/39P4/6/6.4
 1481. Hetuyā cattāri, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri…pe…  sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme cattāri, vipāke ekaṃ, āhāre…pe…  magge cattāri, sampayutte dve, vippayutte tīṇi…pe…  avigate satta. (Saṃkhittaṃ.)
 
 1482. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P4/6/6.3/6.3.1--7.md) / [Go to parent page](/tipitaka/39P4/6/6.3/6.3.1--7.md) / [Go to next page](/tipitaka/39P4/6/6.4.md)
 
 

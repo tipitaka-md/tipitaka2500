@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2/Suddha
-ref: 265631
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.5 Savitakkaduka
-    link: /tipitaka/38P2/13/13.5
-  - name: 13.5.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.5/13.5.7
-  - name: 13.5.7.1 Paccayānuloma
-    link: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1
-  - name: 13.5.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2
-prevL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2
-upL: /tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2
-nextL: /tipitaka/38P2/13/13.5/13.5.7/Paccaniyuddhara
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.7 Pañhāvāra](/tipitaka/38P2/13/13.5/13.5.7.md) / [13.5.7.1 Paccayānuloma](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1.md) / [13.5.7.1.2 Saṅkhyāvāra](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2.md)
 
 # Suddha
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/13/13.5/13.5.7/Paccaniyuddhara
 4369. Anulomaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2.md) / [Go to parent page](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.2.md) / [Go to next page](/tipitaka/38P2/13/13.5/13.5.7/Paccaniyuddhara.md)
 
 

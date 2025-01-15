@@ -1,18 +1,5 @@
----
-title:  Ubbhatakanavasandhāgāra
-path: /tipitaka/8D/10/Ubbhatakanavasandhagara
-ref: 272513
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 8D Pāthikavaggapāḷi
-    link: /tipitaka/8D
-  - name: 10 Saṅgītisutta
-    link: /tipitaka/8D/10
-prevL: /tipitaka/8D/10
-upL: /tipitaka/8D/10
-nextL: /tipitaka/8D/10/Bhinnaniganthavatthu
----
+
+[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [10 Saṅgītisutta](/tipitaka/8D/10.md)
 
 # Ubbhatakanavasandhāgāra
 
@@ -37,5 +24,7 @@ nextL: /tipitaka/8D/10/Bhinnaniganthavatthu
 777. Atha kho bhagavā acirapakkantesu pāveyyakesu mallesu tuṇhībhūtaṃ tuṇhībhūtaṃ bhikkhusaṃghaṃ anuviloketvā āyasmantaṃ sāriputtaṃ āmantesi—  “vigatathinamiddho kho, sāriputta, bhikkhusaṃgho. Paṭibhātu taṃ, sāriputta, bhikkhūnaṃ dhammīkathā. Piṭṭhi me āgilāyati. Tamahaṃ āyamissāmī”ti. “Evaṃ, bhante”ti kho āyasmā sāriputto bhagavato paccassosi.
 
 778. Atha kho bhagavā catugguṇaṃ saṅghāṭiṃ paññāpetvā dakkhiṇena passena sīhaseyyaṃ kappesi pāde pādaṃ accādhāya, sato sampajāno uṭṭhānasaññaṃ manasi karitvā.
+
+[Go to previous page](/tipitaka/8D/10.md) / [Go to parent page](/tipitaka/8D/10.md) / [Go to next page](/tipitaka/8D/10/Bhinnaniganthavatthu.md)
 
 

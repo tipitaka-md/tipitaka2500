@@ -1,26 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka/Hetu
-ref: 265992
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 2 Hetugocchaka, Kusalattika
-    link: /tipitaka/39P3/2
-  - name: 2.6 Nahetusahetukaduka, Kusalattika
-    link: /tipitaka/39P3/2/2.6
-  - name: 2.6.2 Abyākatapada
-    link: /tipitaka/39P3/2/2.6/2.6.2
-  - name: 2.6.2.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka
-prevL: /tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka
-upL: /tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka
-nextL: /tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka/Nahetu
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [2 Hetugocchaka, Kusalattika](/tipitaka/39P3/2.md) / [2.6 Nahetusahetukaduka, Kusalattika](/tipitaka/39P3/2/2.6.md) / [2.6.2 Abyākatapada](/tipitaka/39P3/2/2.6/2.6.2.md) / [2.6.2.1--6 Paṭiccādivāra](/tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6.md) / [Paccayacatukka](/tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka.md)
 
 # Hetu
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka/Nahetu
 (98.)
 
 1458. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca…pe…  purejāte āsevane dve, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/2/2.6/2.6.2/2.6.2.1--6/Paccayacatukka/Nahetu.md)
 
 

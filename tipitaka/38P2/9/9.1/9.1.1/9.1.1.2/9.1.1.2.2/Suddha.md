@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.2/Suddha
-ref: 265119
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 9 Parāmāsagocchaka
-    link: /tipitaka/38P2/9
-  - name: 9.1 Parāmāsaduka
-    link: /tipitaka/38P2/9/9.1
-  - name: 9.1.1 Paṭiccavāra
-    link: /tipitaka/38P2/9/9.1/9.1.1
-  - name: 9.1.1.2 Paccayapaccanīya
-    link: /tipitaka/38P2/9/9.1/9.1.1/9.1.1.2
-  - name: 9.1.1.2.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.2
-prevL: /tipitaka/38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.2
-upL: /tipitaka/38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.2
-nextL: /tipitaka/38P2/9/9.1/9.1.1/9.1.1.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.1 Paṭiccavāra](/tipitaka/38P2/9/9.1/9.1.1.md) / [9.1.1.2 Paccayapaccanīya](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.2.md) / [9.1.1.2.2 Saṅkhyāvāra](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.2.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/9/9.1/9.1.1/9.1.1.3
 (7.)
 
 2140. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte pañca, nonatthiyā tīṇi, novigate tīṇi.
+
+[Go to previous page](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.2.md) / [Go to parent page](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.2.md) / [Go to next page](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.3.md)
 
 

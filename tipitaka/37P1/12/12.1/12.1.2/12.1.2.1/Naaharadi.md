@@ -1,24 +1,5 @@
----
-title:  Naāhārādi
-path: /tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Naaharadi
-ref: 263051
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.1 Paṭiccavāra
-    link: /tipitaka/37P1/12/12.1
-  - name: 12.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/12/12.1/12.1.2
-  - name: 12.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.1/12.1.2/12.1.2.1
-prevL: /tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Navipaka
-upL: /tipitaka/37P1/12/12.1/12.1.2/2.1.2.1
-nextL: /tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Nasampayutta
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.1 Paṭiccavāra](/tipitaka/37P1/12/12.1.md) / [12.1.2 Paccayapaccanīya](/tipitaka/37P1/12/12.1/12.1.2.md) / [12.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1.md)
 
 # Naāhārādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Nasampayutta
 (13.)
 
 1692. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā.
+
+[Go to previous page](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Navipaka.md) / [Go to parent page](/tipitaka/37P1/12/12.1/12.1.2/2.1.2.1.md) / [Go to next page](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Nasampayutta.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2/Suddha
-ref: 264827
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 2 Cūḷantaraduka
-    link: /tipitaka/38P2/2
-  - name: 2.5 Rūpīduka
-    link: /tipitaka/38P2/2/2.5
-  - name: 2.5.3 Paccayavāra
-    link: /tipitaka/38P2/2/2.5/2.5.3
-  - name: 2.5.3.2 Paccayapaccanīya
-    link: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.2
-  - name: 2.5.3.2.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2
-prevL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2
-upL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2
-nextL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.3
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.3 Paccayavāra](/tipitaka/38P2/2/2.5/2.5.3.md) / [2.5.3.2 Paccayapaccanīya](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2.md) / [2.5.3.2.2 Saṅkhyāvāra](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2.md)
 
 # Suddha
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/2/2.5/2.5.3/2.5.3.3
 792. Paccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2.md) / [Go to parent page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.2/2.5.3.2.2.md) / [Go to next page](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.3.md)
 
 

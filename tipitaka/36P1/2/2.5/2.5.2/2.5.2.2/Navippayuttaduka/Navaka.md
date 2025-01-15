@@ -1,26 +1,5 @@
----
-title:  Navaka
-path: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka/Navaka
-ref: 264457
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.5 Saṃsaṭṭhavāra
-    link: /tipitaka/36P1/2/2.5
-  - name: 2.5.2 Paccayapaccanīya
-    link: /tipitaka/36P1/2/2.5/2.5.2
-  - name: 2.5.2.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2
-  - name: Navippayuttaduka
-    link: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka
-prevL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka/Tika
-upL: /tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka
-nextL: /tipitaka/36P1/2/2.5/2.5.3
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.2 Paccayapaccanīya](/tipitaka/36P1/2/2.5/2.5.2.md) / [2.5.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2.md) / [Navippayuttaduka](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka.md)
 
 # Navaka
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/36P1/2/2.5/2.5.3
 751. Paccanīyaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka/Tika.md) / [Go to parent page](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka.md) / [Go to next page](/tipitaka/36P1/2/2.5/2.5.3.md)
 
 

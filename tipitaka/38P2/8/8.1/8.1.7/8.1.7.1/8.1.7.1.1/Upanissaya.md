@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Upanissaya
-ref: 265071
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 8 Nīvaraṇagocchaka
-    link: /tipitaka/38P2/8
-  - name: 8.1 Nīvaraṇaduka
-    link: /tipitaka/38P2/8/8.1
-  - name: 8.1.7 Pañhāvāra
-    link: /tipitaka/38P2/8/8.1/8.1.7
-  - name: 8.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1
-  - name: 8.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1
-prevL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Samanantaradi
-upL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1
-nextL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Purejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.7 Pañhāvāra](/tipitaka/38P2/8/8.1/8.1.7.md) / [8.1.7.1 Paccayānuloma](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md)
 
 # Upanissaya
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Purejata
 1960. Nonīvaraṇo dhammo nīvaraṇassa ca nonīvaraṇassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ nīvaraṇānaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)
 
 1961. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nīvaraṇā ca sampayuttakā ca khandhā nīvaraṇānaṃ upanissayapaccayena paccayo…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Samanantaradi.md) / [Go to parent page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Purejata.md)
 
 

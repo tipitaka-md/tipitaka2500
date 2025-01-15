@@ -1,24 +1,5 @@
----
-title:  Adhipati
-path: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Adhipati
-ref: 263092
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 13 Parittattika
-    link: /tipitaka/37P1/13
-  - name: 13.1 Paṭiccavāra
-    link: /tipitaka/37P1/13/13.1
-  - name: 13.1.1 Paccayānuloma
-    link: /tipitaka/37P1/13/13.1/13.1.1
-  - name: 13.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1
-prevL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Arammana
-upL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1
-nextL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Anantaradi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.1 Paṭiccavāra](/tipitaka/37P1/13/13.1.md) / [13.1.1 Paccayānuloma](/tipitaka/37P1/13/13.1/13.1.1.md) / [13.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1.md)
 
 # Adhipati
 
@@ -53,5 +34,7 @@ nextL: /tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Anantaradi
 1891. Parittañca appamāṇañca dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 1892. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Arammana.md) / [Go to parent page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1.md) / [Go to next page](/tipitaka/37P1/13/13.1/13.1.1/13.1.1.1/Anantaradi.md)
 
 

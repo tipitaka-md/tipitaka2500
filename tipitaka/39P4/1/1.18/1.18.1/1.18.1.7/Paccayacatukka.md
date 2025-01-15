@@ -1,24 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/1/1.18/1.18.1/1.18.1.7/Paccayacatukka
-ref: 264334
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 1 Tika, Hetuduka
-    link: /tipitaka/39P4/1
-  - name: 1.18 Atītattika, Hetuduka
-    link: /tipitaka/39P4/1/1.18
-  - name: 1.18.1 Hetupada
-    link: /tipitaka/39P4/1/1.18/1.18.1
-  - name: 1.18.1.7 Pañhāvāra
-    link: /tipitaka/39P4/1/1.18/1.18.1/1.18.1.7
-prevL: /tipitaka/39P4/1/1.18/1.18.1/1.18.1.7
-upL: /tipitaka/39P4/1/1.18/1.18.1/1.18.1.7
-nextL: /tipitaka/39P4/1/1.18/1.18.2
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.18 Atītattika, Hetuduka](/tipitaka/39P4/1/1.18.md) / [1.18.1 Hetupada](/tipitaka/39P4/1/1.18/1.18.1.md) / [1.18.1.7 Pañhāvāra](/tipitaka/39P4/1/1.18/1.18.1/1.18.1.7.md)
 
 # Paccayacatukka
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/39P4/1/1.18/1.18.2
 805. Hetupaccayā naārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
 806. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P4/1/1.18/1.18.1/1.18.1.7.md) / [Go to parent page](/tipitaka/39P4/1/1.18/1.18.1/1.18.1.7.md) / [Go to next page](/tipitaka/39P4/1/1.18/1.18.2.md)
 
 

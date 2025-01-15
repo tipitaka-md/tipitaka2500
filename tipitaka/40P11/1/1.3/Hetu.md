@@ -1,20 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P11/1/1.3/Hetu
-ref: 259954
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)
-    link: /tipitaka/40P11
-  - name: 1 Kusalattika, Vedanāttika
-    link: /tipitaka/40P11/1
-  - name: 1.3 Adukkhamasukhavedanāyasampayuttapada
-    link: /tipitaka/40P11/1/1.3
-prevL: /tipitaka/40P11/1/1.3
-upL: /tipitaka/40P11/1/1.3
-nextL: /tipitaka/40P11/2
----
+
+[Home](/) / [40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/40P11.md) / [1 Kusalattika, Vedanāttika](/tipitaka/40P11/1.md) / [1.3 Adukkhamasukhavedanāyasampayuttapada](/tipitaka/40P11/1/1.3.md)
 
 # Hetu
 
@@ -39,5 +24,7 @@ nextL: /tipitaka/40P11/2
 21. Nakusalaṃ naadukkhamasukhāya vedanāya sampayuttañca naakusalaṃ naadukkhamasukhāya vedanāya sampayuttañca dhammaṃ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 22. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa. (Sabbattha vitthāro.)
+
+[Go to previous page](/tipitaka/40P11/1/1.3.md) / [Go to parent page](/tipitaka/40P11/1/1.3.md) / [Go to next page](/tipitaka/40P11/2.md)
 
 

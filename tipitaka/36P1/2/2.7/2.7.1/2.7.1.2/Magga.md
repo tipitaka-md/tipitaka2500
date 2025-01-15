@@ -1,34 +1,17 @@
----
-title:  Magga
-path: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga
-ref: 262409
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.1
-  - name: 2.7.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2
-prevL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Jhana/Saindriya-maggaghatana
-upL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2
-nextL: /tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Maggasabhaga
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md)
 
 # Magga
 
-* [Maggasabhāga](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Maggasabhaga)
-* [Maggasāmaññaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Maggasamannaghatana)
-* [Saindriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Saindriyaghatana)
-* [Sajhānaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sajhanaghatana)
-* [Saindriya-jhānaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Saindriya-jhanaghatana)
-* [Sādhipati-indriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sadhipati-indriyaghatana)
-* [Sahetu-indriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sahetu-indriyaghatana)
-* [Sahetādhipati-indriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sahetadhipati-indriyaghatana)
+* [Maggasabhāga](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Maggasabhaga.md)
+* [Maggasāmaññaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Maggasamannaghatana.md)
+* [Saindriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Saindriyaghatana.md)
+* [Sajhānaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sajhanaghatana.md)
+* [Saindriya-jhānaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Saindriya-jhanaghatana.md)
+* [Sādhipati-indriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sadhipati-indriyaghatana.md)
+* [Sahetu-indriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sahetu-indriyaghatana.md)
+* [Sahetādhipati-indriyaghaṭanā](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Sahetadhipati-indriyaghatana.md)
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Jhana/Saindriya-maggaghatana.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Magga/Maggasabhaga.md)
 
 

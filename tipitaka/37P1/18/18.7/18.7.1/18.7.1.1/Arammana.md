@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Arammana
-ref: 263228
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 18 Uppannattika
-    link: /tipitaka/37P1/18
-  - name: 18.7 Pañhāvāra
-    link: /tipitaka/37P1/18/18.7
-  - name: 18.7.1 Paccayānuloma
-    link: /tipitaka/37P1/18/18.7/18.7.1
-  - name: 18.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-prevL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Hetu
-upL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [18 Uppannattika](/tipitaka/37P1/18.md) / [18.7 Pañhāvāra](/tipitaka/37P1/18/18.7.md) / [18.7.1 Paccayānuloma](/tipitaka/37P1/18/18.7/18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md)
 
 # Ārammaṇa
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Adhipati
 (4.)
 
 2598. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—  uppādiṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  uppādī khandhe aniccato dukkhato anattato…pe…  domanassaṃ uppajjati. Uppādī khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Adhipati.md)
 
 

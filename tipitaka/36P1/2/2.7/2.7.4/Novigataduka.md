@@ -1,22 +1,5 @@
----
-title:  Novigataduka
-path: /tipitaka/36P1/2/2.7/2.7.4/Novigataduka
-ref: 260622
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.7 Pañhāvāra
-    link: /tipitaka/36P1/2/2.7
-  - name: 2.7.4 Paccayapaccanīyānuloma
-    link: /tipitaka/36P1/2/2.7/2.7.4
-prevL: /tipitaka/36P1/2/2.7/2.7.4/Nonatthiduka
-upL: /tipitaka/36P1/2/2.7/2.7.4
-nextL: /tipitaka/36P1/2/2.7/2.7.4/Noavigataduka
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md)
 
 # Novigataduka
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/36P1/2/2.7/2.7.4/Noavigataduka
 1791. Novigatamūlakaṃ.
 
 
+
+[Go to previous page](/tipitaka/36P1/2/2.7/2.7.4/Nonatthiduka.md) / [Go to parent page](/tipitaka/36P1/2/2.7/2.7.4.md) / [Go to next page](/tipitaka/36P1/2/2.7/2.7.4/Noavigataduka.md)
 
 

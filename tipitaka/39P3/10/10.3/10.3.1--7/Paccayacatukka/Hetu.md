@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/10/10.3/10.3.1--7/Paccayacatukka/Hetu
-ref: 264253
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.3 Cetasikaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.3
-  - name: 10.3.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/10/10.3/10.3.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/10/10.3/10.3.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/10/10.3/10.3.1--7/Paccayacatukka
-upL: /tipitaka/39P3/10/10.3/10.3.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/10/10.4
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.3 Cetasikaduka, Kusalattika](/tipitaka/39P3/10/10.3.md) / [10.3.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.3/10.3.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.3/10.3.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -87,5 +68,7 @@ nextL: /tipitaka/39P3/10/10.4
 (28.)
 
 2072. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ettha chasu sahajātādhipati), anantare nava…pe…  sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava, indriye nava, jhāne tīṇi, magge tīṇi, sampayutte pañca, vippayutte pañca, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/39P3/10/10.3/10.3.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/10/10.3/10.3.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/10/10.4.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Napacchājātādi
-path: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Napacchajatadi
-ref: 262908
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 9 Dassanenapahātabbattika
-    link: /tipitaka/37P1/9
-  - name: 9.3 Paccayavāra
-    link: /tipitaka/37P1/9/9.3
-  - name: 9.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/9/9.3/9.3.2
-  - name: 9.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1
-prevL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Napurejata
-upL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1
-nextL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Nakamma
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.3 Paccayavāra](/tipitaka/37P1/9/9.3.md) / [9.3.2 Paccayapaccanīya](/tipitaka/37P1/9/9.3/9.3.2.md) / [9.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1.md)
 
 # Napacchājātādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Nakamma
 (53.)
 
 907. Dassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati napacchājātapaccayā…  naāsevanapaccayā.
+
+[Go to previous page](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Napurejata.md) / [Go to parent page](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1.md) / [Go to next page](/tipitaka/37P1/9/9.3/9.3.2/9.3.2.1/Nakamma.md)
 
 

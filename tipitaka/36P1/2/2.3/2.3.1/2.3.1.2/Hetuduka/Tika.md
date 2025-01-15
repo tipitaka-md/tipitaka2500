@@ -1,26 +1,5 @@
----
-title:  Tika
-path: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/Tika
-ref: 264427
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 2 Kusalattika
-    link: /tipitaka/36P1/2
-  - name: 2.3 Paccayavāra
-    link: /tipitaka/36P1/2/2.3
-  - name: 2.3.1 Paccayānuloma
-    link: /tipitaka/36P1/2/2.3/2.3.1
-  - name: 2.3.1.2 Saṅkhyāvāra
-    link: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.2
-  - name: Hetuduka
-    link: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka
-prevL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka
-upL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka
-nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/vadasaka_sasevana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2.md) / [Hetuduka](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka.md)
 
 # Tika
 
@@ -37,5 +16,7 @@ nextL: /tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/vadasaka_sasevana
 ### Tika
 
 499. Hetupaccayā ārammaṇapaccayā adhipatiyā satta (sabbattha satta) vipāke ekaṃ, avigate satta…pe… .
+
+[Go to previous page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka.md) / [Go to parent page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka.md) / [Go to next page](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/vadasaka_sasevana.md)
 
 

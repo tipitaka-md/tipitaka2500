@@ -1,24 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.2/Suddha
-ref: 262809
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.1 Paṭiccavāra
-    link: /tipitaka/37P1/7/7.1
-  - name: 7.1.1 Paccayānuloma
-    link: /tipitaka/37P1/7/7.1/7.1.1
-  - name: 7.1.1.2 Saṅkhyāvāra
-    link: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.2
-prevL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.2
-upL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.2
-nextL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.2/Duka
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.1 Paccayānuloma](/tipitaka/37P1/7/7.1/7.1.1.md) / [7.1.1.2 Saṅkhyāvāra](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.2.md)
 
 # Suddha
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/7/7.1/7.1.1/7.1.1.2/Duka
 (22.)
 
 99. Hetuyā sattatiṃsa, ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare ekavīsa, samanantare ekavīsa, sahajāte sattatiṃsa, aññamaññe aṭṭhavīsa, nissaye sattatiṃsa, upanissaye ekavīsa, purejāte ekādasa, āsevane ekādasa, kamme sattatiṃsa, vipāke sattatiṃsa, āhāre indriye jhāne magge sattatiṃsa, sampayutte ekavīsa, vippayutte sattatiṃsa, atthiyā sattatiṃsa, natthiyā ekavīsa, vigate ekavīsa, avigate sattatiṃsa.
+
+[Go to previous page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.2.md) / [Go to parent page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.2.md) / [Go to next page](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.2/Duka.md)
 
 

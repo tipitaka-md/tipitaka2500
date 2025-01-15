@@ -1,18 +1,5 @@
----
-title:  Nigaṇṭhanāṭaputtakālaṃkiriyā
-path: /tipitaka/8D/6/Niganthanataputtakalamkiriya
-ref: 272460
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 8D Pāthikavaggapāḷi
-    link: /tipitaka/8D
-  - name: 6 Pāsādikasutta
-    link: /tipitaka/8D/6
-prevL: /tipitaka/8D/6
-upL: /tipitaka/8D/6
-nextL: /tipitaka/8D/6/6.1
----
+
+[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [6 Pāsādikasutta](/tipitaka/8D/6.md)
 
 # Nigaṇṭhanāṭaputtakālaṃkiriyā
 
@@ -29,5 +16,7 @@ nextL: /tipitaka/8D/6/6.1
 337. Evaṃ vutte, āyasmā ānando cundaṃ samaṇuddesaṃ etadavoca—  “atthi kho idaṃ, āvuso cunda, kathāpābhataṃ bhagavantaṃ dassanāya. Āyāmāvuso cunda, yena bhagavā tenupasaṅkamissāma; upasaṅkamitvā etamatthaṃ bhagavato ārocessāmā”ti. “Evaṃ, bhante”ti kho cundo samaṇuddeso āyasmato ānandassa paccassosi.
 
 338. Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca—  “ayaṃ, bhante, cundo samaṇuddeso evamāha, ‘nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato, tassa kālaṃkiriyāya bhinnā nigaṇṭhā…pe…  bhinnathūpe appaṭisaraṇe’”ti.
+
+[Go to previous page](/tipitaka/8D/6.md) / [Go to parent page](/tipitaka/8D/6.md) / [Go to next page](/tipitaka/8D/6/6.1.md)
 
 

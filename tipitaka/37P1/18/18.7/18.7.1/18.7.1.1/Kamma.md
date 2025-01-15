@@ -1,24 +1,5 @@
----
-title:  Kamma
-path: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Kamma
-ref: 263236
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 18 Uppannattika
-    link: /tipitaka/37P1/18
-  - name: 18.7 Pañhāvāra
-    link: /tipitaka/37P1/18/18.7
-  - name: 18.7.1 Paccayānuloma
-    link: /tipitaka/37P1/18/18.7/18.7.1
-  - name: 18.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-prevL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Pacchajata
-upL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1
-nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Vipaka
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [18 Uppannattika](/tipitaka/37P1/18.md) / [18.7 Pañhāvāra](/tipitaka/37P1/18/18.7.md) / [18.7.1 Paccayānuloma](/tipitaka/37P1/18/18.7/18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md)
 
 # Kamma
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Vipaka
 (12.)
 
 2610. Uppanno dhammo uppannassa dhammassa kammapaccayena paccayo—  uppannā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe uppannā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Pacchajata.md) / [Go to parent page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Vipaka.md)
 
 

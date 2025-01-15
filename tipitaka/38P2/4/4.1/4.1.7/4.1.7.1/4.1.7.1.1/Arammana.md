@@ -1,26 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Arammana
-ref: 264947
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.1 Saññojanaduka
-    link: /tipitaka/38P2/4/4.1
-  - name: 4.1.7 Pañhāvāra
-    link: /tipitaka/38P2/4/4.1/4.1.7
-  - name: 4.1.7.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1
-  - name: 4.1.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1
-prevL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Hetu
-upL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1
-nextL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Adhipati
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.1 Saññojanaduka](/tipitaka/38P2/4/4.1.md) / [4.1.7 Pañhāvāra](/tipitaka/38P2/4/4.1/4.1.7.md) / [4.1.7.1 Paccayānuloma](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1.md) / [4.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md)
 
 # Ārammaṇa
 
@@ -49,5 +28,7 @@ nextL: /tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Adhipati
 1364. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa ārammaṇapaccayena paccayo—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nosaññojane khandhe assādeti abhinandati, taṃ ārabbha saññojanā ca saññojanasampayuttakā ca khandhā uppajjanti. (3)
 
 1365. Saññojano ca nosaññojano ca dhammā saññojanassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbhayeva kātabbā.)
+
+[Go to previous page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Adhipati.md)
 
 

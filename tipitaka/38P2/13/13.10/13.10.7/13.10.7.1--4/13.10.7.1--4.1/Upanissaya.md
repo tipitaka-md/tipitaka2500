@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Upanissaya
-ref: 265657
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.10 Upekkhāsahagataduka
-    link: /tipitaka/38P2/13/13.10
-  - name: 13.10.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.10/13.10.7
-  - name: 13.10.7.1--4 Paccayānulomādi
-    link: /tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4
-  - name: 13.10.7.1--4.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1
-prevL: /tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Anantaradi
-upL: /tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1
-nextL: /tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Purejata
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.10 Upekkhāsahagataduka](/tipitaka/38P2/13/13.10.md) / [13.10.7 Pañhāvāra](/tipitaka/38P2/13/13.10/13.10.7.md) / [13.10.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4.md) / [13.10.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md)
 
 # Upanissaya
 
@@ -47,5 +26,7 @@ nextL: /tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Purejata
 4504. Naupekkhāsahagato dhammo upekkhāsahagatassa ca naupekkhāsahagatassa ca dhammassa upanissayapaccayena paccayo. (Tīṇi upanissayā dutiyagamanasadisā.) (3)
 
 4505. Upekkhāsahagato ca naupekkhāsahagato ca dhammā upekkhāsahagatassa dhammassa upanissayapaccayena paccayo…  tīṇi.
+
+[Go to previous page](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Anantaradi.md) / [Go to parent page](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md) / [Go to next page](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Purejata.md)
 
 

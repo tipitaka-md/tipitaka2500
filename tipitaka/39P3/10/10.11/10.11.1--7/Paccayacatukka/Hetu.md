@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/10/10.11/10.11.1--7/Paccayacatukka/Hetu
-ref: 264261
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka, Kusalattika
-    link: /tipitaka/39P3/10/10.11
-  - name: 10.11.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/10/10.11/10.11.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/10/10.11/10.11.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/10/10.11/10.11.1--7/Paccayacatukka
-upL: /tipitaka/39P3/10/10.11/10.11.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/10/10.12
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka, Kusalattika](/tipitaka/39P3/10/10.11.md) / [10.11.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.11/10.11.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.11/10.11.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -61,5 +42,7 @@ nextL: /tipitaka/39P3/10/10.12
 2183. Cittasaṃsaṭṭhasamuṭṭhānānuparivattiṃ abyākataṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānānuparivattī abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 2184. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ. Cittasaṃsaṭṭhasamuṭṭhānadukaabyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/10/10.11/10.11.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/10/10.11/10.11.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/10/10.12.md)
 
 

@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/10/10.9/10.9.1--7/Paccayacatukka/Hetu
-ref: 264259
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 10 Mahantaraduka, Kusalattika
-    link: /tipitaka/39P3/10
-  - name: 10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka, Kusalattika
-    link: /tipitaka/39P3/10/10.9
-  - name: 10.9.1--7 Paṭiccādivāra
-    link: /tipitaka/39P3/10/10.9/10.9.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/39P3/10/10.9/10.9.1--7/Paccayacatukka
-prevL: /tipitaka/39P3/10/10.9/10.9.1--7/Paccayacatukka
-upL: /tipitaka/39P3/10/10.9/10.9.1--7/Paccayacatukka
-nextL: /tipitaka/39P3/10/10.10
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka, Kusalattika](/tipitaka/39P3/10/10.9.md) / [10.9.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.9/10.9.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.9/10.9.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -87,5 +68,7 @@ nextL: /tipitaka/39P3/10/10.10
 2161. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 2162. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/10/10.9/10.9.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/39P3/10/10.9/10.9.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/39P3/10/10.10.md)
 
 

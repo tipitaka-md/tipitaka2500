@@ -1,24 +1,5 @@
----
-title:  Ārammaṇādi
-path: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1/Arammanadi
-ref: 263263
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 20 Atītārammaṇattika
-    link: /tipitaka/37P1/20
-  - name: 20.1 Paṭiccavāra
-    link: /tipitaka/37P1/20/20.1
-  - name: 20.1.1 Paccayānuloma
-    link: /tipitaka/37P1/20/20.1/20.1.1
-  - name: 20.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1
-prevL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1/Hetu
-upL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.1
-nextL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.1 Paṭiccavāra](/tipitaka/37P1/20/20.1.md) / [20.1.1 Paccayānuloma](/tipitaka/37P1/20/20.1/20.1.1.md) / [20.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.1.md)
 
 # Ārammaṇādi
 
@@ -35,5 +16,7 @@ nextL: /tipitaka/37P1/20/20.1/20.1.1/20.1.1.2
 (4.)
 
 2667. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (adhipatiyā paṭisandhi natthi)…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā (purejātepi āsevanepi paṭisandhi natthi)…  kammapaccayā…  vipākapaccayā (vipākaṃ atītārammaṇaṃ ekaṃ khandhaṃ, tissopi pañhā paripuṇṇā. Pavattipaṭisandhi kātabbā)…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+
+[Go to previous page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.1.md) / [Go to next page](/tipitaka/37P1/20/20.1/20.1.1/20.1.1.2.md)
 
 

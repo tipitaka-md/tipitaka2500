@@ -1,26 +1,5 @@
----
-title:  Upanissaya
-path: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Upanissaya
-ref: 264733
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 1 Hetugocchaka
-    link: /tipitaka/38P2/1
-  - name: 1.4 Hetusahetukaduka
-    link: /tipitaka/38P2/1/1.4
-  - name: 1.4.7 Pañhāvāra
-    link: /tipitaka/38P2/1/1.4/1.4.7
-  - name: 1.4.7.1 Paccayānuloma
-    link: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1
-  - name: 1.4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1
-prevL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Sahajatadi
-upL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1
-nextL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Asevana
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.4 Hetusahetukaduka](/tipitaka/38P2/1/1.4.md) / [1.4.7 Pañhāvāra](/tipitaka/38P2/1/1.4/1.4.7.md) / [1.4.7.1 Paccayānuloma](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1.md) / [1.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1.md)
 
 # Upanissaya
 
@@ -45,5 +24,7 @@ nextL: /tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Asevana
 410. (Sahetuko ceva na ca hetumūlake iminākārena vitthāretabbā avasesā dve pañhā.)
 
 411. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  hetū ca sampayuttakā ca khandhā hetūnaṃ upanissayapaccayena paccayo. (Dve mūlāni pucchitabbāni) Hetū ca sampayuttakā ca khandhā sahetukānañceva na ca hetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Hetū ca sampayuttakā ca khandhā hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Sahajatadi.md) / [Go to parent page](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1.md) / [Go to next page](/tipitaka/38P2/1/1.4/1.4.7/1.4.7.1/1.4.7.1.1/Asevana.md)
 
 

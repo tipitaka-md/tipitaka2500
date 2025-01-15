@@ -1,24 +1,5 @@
----
-title:  Ārammaṇa
-path: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Arammana
-ref: 263275
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 20 Atītārammaṇattika
-    link: /tipitaka/37P1/20
-  - name: 20.7 Pañhāvāra
-    link: /tipitaka/37P1/20/20.7
-  - name: 20.7.1 Paccayānuloma
-    link: /tipitaka/37P1/20/20.7/20.7.1
-  - name: 20.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1
-prevL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Hetu
-upL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1
-nextL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Adhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.7 Pañhāvāra](/tipitaka/37P1/20/20.7.md) / [20.7.1 Paccayānuloma](/tipitaka/37P1/20/20.7/20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md)
 
 # Ārammaṇa
 
@@ -55,5 +36,7 @@ nextL: /tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Adhipati
 2702. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa ārammaṇapaccayena paccayo—  atītaṃ dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati, paccuppannārammaṇaṃ atītaṃ iddhividhañāṇaṃ paccavekkhati, cetopariyañāṇaṃ paccavekkhati. Ariyā paccuppannārammaṇe pahīne kilese paccavekkhanti, vikkhambhite kilese paccavekkhanti, pubbe samudāciṇṇe kilese jānanti. Paccuppannārammaṇe atīte khandhe aniccato…pe…  vipassati, assādeti abhinandati; taṃ ārabbha atītārammaṇo rāgo uppajjati…pe…  domanassaṃ uppajjati. Paccuppannārammaṇā atītā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
 2703. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa ārammaṇapaccayena paccayo—  anāgataṃ dibbaṃ cakkhuṃ paccavekkhati, dibbaṃ sotadhātuṃ paccavekkhati, paccuppannārammaṇaṃ anāgataṃ iddhividhañāṇaṃ paccavekkhati, cetopariyañāṇaṃ…pe…  paccuppannārammaṇe anāgate khandhe aniccato…pe…  vipassati…pe…  taṃ ārabbha anāgatārammaṇo rāgo uppajjati…pe…  domanassaṃ uppajjati. Paccuppannārammaṇā anāgatā khandhā cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Hetu.md) / [Go to parent page](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md) / [Go to next page](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Adhipati.md)
 
 

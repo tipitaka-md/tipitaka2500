@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P8/1/1.1--7/Paccayacatukka/Hetu
-ref: 262017
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/40P8
-  - name: 1 Hetuduka
-    link: /tipitaka/40P8/1
-  - name: 1.1--7 Paṭiccādivāra
-    link: /tipitaka/40P8/1/1.1--7
-  - name: Paccayacatukka
-    link: /tipitaka/40P8/1/1.1--7/Paccayacatukka
-prevL: /tipitaka/40P8/1/1.1--7/Paccayacatukka
-upL: /tipitaka/40P8/1/1.1--7/Paccayacatukka
-nextL: /tipitaka/40P8/1/1.1--7/Paccayacatukka/Hetu-arammana
----
+
+[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P8.md) / [1 Hetuduka](/tipitaka/40P8/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P8/1/1.1--7.md) / [Paccayacatukka](/tipitaka/40P8/1/1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -41,5 +24,7 @@ nextL: /tipitaka/40P8/1/1.1--7/Paccayacatukka/Hetu-arammana
 5. Hetuyā nava, ārammaṇe nava…pe…  avigate nava.
 
 6. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ evaṃ vitthāretabbaṃ.)
+
+[Go to previous page](/tipitaka/40P8/1/1.1--7/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P8/1/1.1--7/Paccayacatukka.md) / [Go to next page](/tipitaka/40P8/1/1.1--7/Paccayacatukka/Hetu-arammana.md)
 
 

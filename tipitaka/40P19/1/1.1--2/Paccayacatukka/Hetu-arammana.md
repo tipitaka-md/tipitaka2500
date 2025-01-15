@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P19/1/1.1--2/Paccayacatukka/Hetu-arammana
-ref: 262054
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P19
-  - name: 1 Kusalattika
-    link: /tipitaka/40P19/1
-  - name: 1.1--2 Paṭiccādivāra
-    link: /tipitaka/40P19/1/1.1--2
-  - name: Paccayacatukka
-    link: /tipitaka/40P19/1/1.1--2/Paccayacatukka
-prevL: /tipitaka/40P19/1/1.1--2/Paccayacatukka
-upL: /tipitaka/40P19/1/1.1--2/Paccayacatukka
-nextL: /tipitaka/40P19/1/1.1--2/Paccaniya
----
+
+[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P19.md) / [1 Kusalattika](/tipitaka/40P19/1.md) / [1.1--2 Paṭiccādivāra](/tipitaka/40P19/1/1.1--2.md) / [Paccayacatukka](/tipitaka/40P19/1/1.1--2/Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -57,5 +40,7 @@ nextL: /tipitaka/40P19/1/1.1--2/Paccaniya
 13. Nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Saṃkhittaṃ.)
 
 14. Hetuyā aṭṭhārasa, ārammaṇe nava, adhipatiyā aṭṭhārasa…pe…  vipāke tīṇi…pe…  avigate aṭṭhārasa.
+
+[Go to previous page](/tipitaka/40P19/1/1.1--2/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P19/1/1.1--2/Paccayacatukka.md) / [Go to next page](/tipitaka/40P19/1/1.1--2/Paccaniya.md)
 
 

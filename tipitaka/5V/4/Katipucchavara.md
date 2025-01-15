@@ -1,18 +1,5 @@
----
-title:  Katipucchāvāra
-path: /tipitaka/5V/4/Katipucchavara
-ref: 272159
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 5V Parivārapāḷi
-    link: /tipitaka/5V
-  - name: 4 Antarapeyyāla
-    link: /tipitaka/5V/4
-prevL: /tipitaka/5V/4
-upL: /tipitaka/5V/4
-nextL: /tipitaka/5V/4/4.1
----
+
+[Home](/) / [5V Parivārapāḷi](/tipitaka/5V.md) / [4 Antarapeyyāla](/tipitaka/5V/4.md)
 
 # Katipucchāvāra
 
@@ -107,5 +94,7 @@ _bhedādhikaraṇena ca;_
 _Satteva samathā vuttā,_  
 _padā sattarasā imeti._  
 
+
+[Go to previous page](/tipitaka/5V/4.md) / [Go to parent page](/tipitaka/5V/4.md) / [Go to next page](/tipitaka/5V/4/4.1.md)
 
 

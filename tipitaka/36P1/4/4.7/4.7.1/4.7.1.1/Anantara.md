@@ -1,24 +1,5 @@
----
-title:  Anantara
-path: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Anantara
-ref: 262690
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.7 Pañhāvāra
-    link: /tipitaka/36P1/4/4.7
-  - name: 4.7.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.7/4.7.1
-  - name: 4.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-prevL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Adhipati
-upL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1
-nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Samanantara
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Anantara
 
@@ -47,5 +28,7 @@ nextL: /tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Samanantara
 2304. Nevavipākanavipākadhammadhammo vipākassa dhammassa anantarapaccayena paccayo—  āvajjanā pañcannaṃ viññāṇānaṃ anantarapaccayena paccayo. Nevavipākanavipākadhammadhammā khandhā vuṭṭhānassa, arahato anulomaṃ phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanakiriyaṃ phalasamāpattiyā anantarapaccayena paccayo. (2)
 
 2305. Nevavipākanavipākadhammadhammo vipākadhammadhammassa anantarapaccayena paccayo—  āvajjanā vipākadhammadhammānaṃ khandhānaṃ anantarapaccayena paccayo. (3)
+
+[Go to previous page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Adhipati.md) / [Go to parent page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Samanantara.md)
 
 

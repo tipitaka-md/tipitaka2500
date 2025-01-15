@@ -1,24 +1,5 @@
----
-title:  Naanantarādi
-path: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naanantaradi
-ref: 263062
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 12 Sekkhattika
-    link: /tipitaka/37P1/12
-  - name: 12.3 Paccayavāra
-    link: /tipitaka/37P1/12/12.3
-  - name: 12.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/12/12.3/12.3.2
-  - name: 12.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1
-prevL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naarammanadi
-upL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1
-nextL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Navipaka
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.3 Paccayavāra](/tipitaka/37P1/12/12.3.md) / [12.3.2 Paccayapaccanīya](/tipitaka/37P1/12/12.3/12.3.2.md) / [12.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1.md)
 
 # Naanantarādi
 
@@ -41,5 +22,7 @@ nextL: /tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Navipaka
 1740. Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati nakammapaccayā—  vatthuṃ paccayā sekkhā cetanā. (2)
 
 1741. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati nakammapaccayā—  sekkhe khandhe ca vatthuñca paccayā sekkhā cetanā. (1)
+
+[Go to previous page](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naarammanadi.md) / [Go to parent page](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1.md) / [Go to next page](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Navipaka.md)
 
 

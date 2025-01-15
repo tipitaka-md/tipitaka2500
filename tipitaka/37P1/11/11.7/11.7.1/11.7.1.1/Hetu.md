@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Hetu
-ref: 263027
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 11 Ācayagāmittika
-    link: /tipitaka/37P1/11
-  - name: 11.7 Pañhāvāra
-    link: /tipitaka/37P1/11/11.7
-  - name: 11.7.1 Paccayānuloma
-    link: /tipitaka/37P1/11/11.7/11.7.1
-  - name: 11.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-prevL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-upL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1
-nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Arammana
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md) / [11.7.1 Paccayānuloma](/tipitaka/37P1/11/11.7/11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Hetu
 
@@ -43,5 +24,7 @@ nextL: /tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Arammana
 1563. Apacayagāmī dhammo apacayagāmissa dhammassa hetupaccayena paccayo…  tīṇi.
 
 1564. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa hetupaccayena paccayo—  nevācayagāmināpacayagāmī hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe nevācayagāmināpacayagāmī hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
+
+[Go to previous page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to parent page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Arammana.md)
 
 

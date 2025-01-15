@@ -1,24 +1,5 @@
----
-title:  Āhārādi
-path: /tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Aharadi
-ref: 262565
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 3 Vedanāttika
-    link: /tipitaka/36P1/3
-  - name: 3.1 Paṭiccavāra
-    link: /tipitaka/36P1/3/3.1
-  - name: 3.1.1 Paccayānuloma
-    link: /tipitaka/36P1/3/3.1/3.1.1
-  - name: 3.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/3/3.1/3.1.1/3.1.1.1
-prevL: /tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Asevanadi
-upL: /tipitaka/36P1/3/3.1/3.1.1/3.1.1.1
-nextL: /tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Atthyadi
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.1 Paccayānuloma](/tipitaka/36P1/3/3.1/3.1.1.md) / [3.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1.md)
 
 # Āhārādi
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Atthyadi
 1804. Dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā—  dukkhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ vippayuttapaccayā.
 
 1805. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā—  adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vatthuṃ vippayuttapaccayā; paṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ vippayuttapaccayā. (Saṃkhittaṃ.)
+
+[Go to previous page](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Asevanadi.md) / [Go to parent page](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1.md) / [Go to next page](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Atthyadi.md)
 
 

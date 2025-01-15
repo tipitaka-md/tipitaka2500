@@ -1,24 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Hetu
-ref: 262630
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 4 Vipākattika
-    link: /tipitaka/36P1/4
-  - name: 4.1 Paṭiccavāra
-    link: /tipitaka/36P1/4/4.1
-  - name: 4.1.1 Paccayānuloma
-    link: /tipitaka/36P1/4/4.1/4.1.1
-  - name: 4.1.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/4/4.1/4.1.1/4.1.1.1
-prevL: /tipitaka/36P1/4/4.1/4.1.1/4.1.1.1
-upL: /tipitaka/36P1/4/4.1/4.1.1/4.1.1.1
-nextL: /tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Arammana
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.1 Paccayānuloma](/tipitaka/36P1/4/4.1/4.1.1.md) / [4.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1.md)
 
 # Hetu
 
@@ -67,5 +48,7 @@ nextL: /tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Arammana
 (5.)
 
 2053. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+
+[Go to previous page](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1.md) / [Go to parent page](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1.md) / [Go to next page](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Arammana.md)
 
 

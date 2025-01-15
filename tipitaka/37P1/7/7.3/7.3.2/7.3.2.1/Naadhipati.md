@@ -1,24 +1,5 @@
----
-title:  Naadhipati
-path: /tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Naadhipati
-ref: 262822
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 7 Vitakkattika
-    link: /tipitaka/37P1/7
-  - name: 7.3 Paccayavāra
-    link: /tipitaka/37P1/7/7.3
-  - name: 7.3.2 Paccayapaccanīya
-    link: /tipitaka/37P1/7/7.3/7.3.2
-  - name: 7.3.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/7/7.3/7.3.2/7.3.2.1
-prevL: /tipitaka/37P1/7/7.3/7.3.2/7.3.2.1
-upL: /tipitaka/37P1/7/7.3/7.3.2/7.3.2.1
-nextL: /tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Naanantaradi
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.3 Paccayavāra](/tipitaka/37P1/7/7.3.md) / [7.3.2 Paccayapaccanīya](/tipitaka/37P1/7/7.3/7.3.2.md) / [7.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md)
 
 # Naadhipati
 
@@ -63,5 +44,7 @@ nextL: /tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Naanantaradi
 231. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paccayā avitakkavicāramatto dhammo uppajjati…pe…  avitakkavicāramatte khandhe ca vicārañca paccayā avitakkavicāramattā adhipati, avitakkavicāramatte khandhe ca vatthuñca paccayā avitakkavicāramattā adhipati, vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vicārañca paccayā…pe…  vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… .
 
 232. (Paṭisandhikkhaṇe pañca pañhā kātabbā. Yattha avitakkavicāramattaṃ āgacchati tattha vipākaṃ kātabbaṃ. Naadhipatimūlake sattatiṃsa pañhā kātabbā.)
+
+[Go to previous page](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md) / [Go to parent page](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md) / [Go to next page](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Naanantaradi.md)
 
 

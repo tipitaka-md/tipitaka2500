@@ -1,24 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Nahetu
-ref: 263144
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 14 Parittārammaṇattika
-    link: /tipitaka/37P1/14
-  - name: 14.1 Paṭiccavāra
-    link: /tipitaka/37P1/14/14.1
-  - name: 14.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/14/14.1/14.1.2
-  - name: 14.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/14/14.1/14.1.2/14.1.2.1
-prevL: /tipitaka/37P1/14/14.1/14.1.2/14.1.2.1
-upL: /tipitaka/37P1/14/14.1/14.1.2/14.1.2.1
-nextL: /tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Naadhipati
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [14 Parittārammaṇattika](/tipitaka/37P1/14.md) / [14.1 Paṭiccavāra](/tipitaka/37P1/14/14.1.md) / [14.1.2 Paccayapaccanīya](/tipitaka/37P1/14/14.1/14.1.2.md) / [14.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1.md)
 
 # Nahetu
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Naadhipati
 2164. Mahaggatārammaṇaṃ dhammaṃ paṭicca mahaggatārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ mahaggatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā, vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
 2165. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ appamāṇārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+
+[Go to previous page](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1.md) / [Go to parent page](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1.md) / [Go to next page](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Naadhipati.md)
 
 

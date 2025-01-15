@@ -1,24 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/39P3/1/1.19/1.19.2/1.19.2.7/Paccaniyuddhara
-ref: 264124
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 1 Hetuduka, Tika
-    link: /tipitaka/39P3/1
-  - name: 1.19 Hetuduka, Atītārammaṇattika
-    link: /tipitaka/39P3/1/1.19
-  - name: 1.19.2 Anāgatārammaṇapada
-    link: /tipitaka/39P3/1/1.19/1.19.2
-  - name: 1.19.2.7 Pañhāvāra
-    link: /tipitaka/39P3/1/1.19/1.19.2/1.19.2.7
-prevL: /tipitaka/39P3/1/1.19/1.19.2/1.19.2.7/Paccayacatukka/Hetvadi
-upL: /tipitaka/39P3/1/1.19/1.19.2/1.19.2.7
-nextL: /tipitaka/39P3/1/1.19/1.19.3
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.19 Hetuduka, Atītārammaṇattika](/tipitaka/39P3/1/1.19.md) / [1.19.2 Anāgatārammaṇapada](/tipitaka/39P3/1/1.19/1.19.2.md) / [1.19.2.7 Pañhāvāra](/tipitaka/39P3/1/1.19/1.19.2/1.19.2.7.md)
 
 # Paccanīyuddhāra
 
@@ -45,5 +26,7 @@ nextL: /tipitaka/39P3/1/1.19/1.19.3
 1114. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
 1115. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+
+[Go to previous page](/tipitaka/39P3/1/1.19/1.19.2/1.19.2.7/Paccayacatukka/Hetvadi.md) / [Go to parent page](/tipitaka/39P3/1/1.19/1.19.2/1.19.2.7.md) / [Go to next page](/tipitaka/39P3/1/1.19/1.19.3.md)
 
 

@@ -1,26 +1,5 @@
----
-title:  Nahetu
-path: /tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6/Paccaniya/Nahetu
-ref: 266024
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 5 Saññojanagocchaka, Kusalattika
-    link: /tipitaka/39P3/5
-  - name: 5.3 Saññojanasampayuttaduka, Kusalattika
-    link: /tipitaka/39P3/5/5.3
-  - name: 5.3.1 Kusalākusalapada
-    link: /tipitaka/39P3/5/5.3/5.3.1
-  - name: 5.3.1.1--6 Paṭiccādivāra
-    link: /tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6
-  - name: Paccanīya
-    link: /tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6/Paccaniya
-prevL: /tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6/Paccaniya
-upL: /tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6/Paccaniya
-nextL: /tipitaka/39P3/5/5.3/5.3.1/5.3.1.7
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.3 Saññojanasampayuttaduka, Kusalattika](/tipitaka/39P3/5/5.3.md) / [5.3.1 Kusalākusalapada](/tipitaka/39P3/5/5.3/5.3.1.md) / [5.3.1.1--6 Paṭiccādivāra](/tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6.md) / [Paccanīya](/tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6/Paccaniya.md)
 
 # Nahetu
 
@@ -43,5 +22,7 @@ nextL: /tipitaka/39P3/5/5.3/5.3.1/5.3.1.7
 (24.)
 
 1747. Nahetuyā dve, naadhipatiyā pañca, napurejāte pañca…pe…  nakamme tīṇi…pe…  navippayutte pañca. (Saṃkhittaṃ, paccanīyaṃ.)
+
+[Go to previous page](/tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6/Paccaniya.md) / [Go to parent page](/tipitaka/39P3/5/5.3/5.3.1/5.3.1.1--6/Paccaniya.md) / [Go to next page](/tipitaka/39P3/5/5.3/5.3.1/5.3.1.7.md)
 
 

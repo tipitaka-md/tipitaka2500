@@ -1,24 +1,5 @@
----
-title:  Najhānādi
-path: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Najhanadi
-ref: 262857
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/37P1
-  - name: 8 Pītittika
-    link: /tipitaka/37P1/8
-  - name: 8.1 Paṭiccavāra
-    link: /tipitaka/37P1/8/8.1
-  - name: 8.1.2 Paccayapaccanīya
-    link: /tipitaka/37P1/8/8.1/8.1.2
-  - name: 8.1.2.1 Vibhaṅgavāra
-    link: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1
-prevL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Navipaka
-upL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.1
-nextL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.2
----
+
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.1 Paṭiccavāra](/tipitaka/37P1/8/8.1.md) / [8.1.2 Paccayapaccanīya](/tipitaka/37P1/8/8.1/8.1.2.md) / [8.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md)
 
 # Najhānādi
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/37P1/8/8.1/8.1.2/8.1.2.2
 669. Upekkhāsahagataṃ dhammaṃ paṭicca upekkhāsahagato dhammo uppajjati najhānapaccayā—  catuviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. (1)
 
 670. (Namaggapaccayā nahetupaccayasadisaṃ. Moho natthi. Navippayuttapaccayā paripuṇṇaṃ, arūpapañhameva.)
+
+[Go to previous page](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Navipaka.md) / [Go to parent page](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md) / [Go to next page](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.2.md)
 
 

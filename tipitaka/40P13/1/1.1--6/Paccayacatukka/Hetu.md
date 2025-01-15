@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/40P13/1/1.1--6/Paccayacatukka/Hetu
-ref: 262026
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/40P13
-  - name: 1 Kusalattika
-    link: /tipitaka/40P13/1
-  - name: 1.1--6 Paṭiccādivāra
-    link: /tipitaka/40P13/1/1.1--6
-  - name: Paccayacatukka
-    link: /tipitaka/40P13/1/1.1--6/Paccayacatukka
-prevL: /tipitaka/40P13/1/1.1--6/Paccayacatukka
-upL: /tipitaka/40P13/1/1.1--6/Paccayacatukka
-nextL: /tipitaka/40P13/1/1.1--6/Paccayacatukka/Arammana
----
+
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [1 Kusalattika](/tipitaka/40P13/1.md) / [1.1--6 Paṭiccādivāra](/tipitaka/40P13/1/1.1--6.md) / [Paccayacatukka](/tipitaka/40P13/1/1.1--6/Paccayacatukka.md)
 
 # Hetu
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/40P13/1/1.1--6/Paccayacatukka/Arammana
 5. Kusalañca abyākatañca dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Kusalañca abyākatañca dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā. Kusalañca abyākatañca dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3)
 
 6. Akusalañca abyākatañca dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3) (Cittasamuṭṭhānarūpameva ettha vattati, ekūnavīsati pañhā kātabbā.)
+
+[Go to previous page](/tipitaka/40P13/1/1.1--6/Paccayacatukka.md) / [Go to parent page](/tipitaka/40P13/1/1.1--6/Paccayacatukka.md) / [Go to next page](/tipitaka/40P13/1/1.1--6/Paccayacatukka/Arammana.md)
 
 

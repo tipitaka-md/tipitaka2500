@@ -1,22 +1,5 @@
----
-title:  Hetu-ārammaṇa
-path: /tipitaka/40P20/9/9.1--7/Paccaniya/Hetu-arammana
-ref: 262057
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/40P20
-  - name: 9 Saraṇaduka
-    link: /tipitaka/40P20/9
-  - name: 9.1--7 Paṭiccādivāra
-    link: /tipitaka/40P20/9/9.1--7
-  - name: Paccanīya
-    link: /tipitaka/40P20/9/9.1--7/Paccaniya
-prevL: /tipitaka/40P20/9/9.1--7/Paccaniya/Nahetu
-upL: /tipitaka/40P20/9/9.1--7/Paccaniya
-nextL: /tipitaka/40P20/9/9.1--7/Paccaniyuddhara
----
+
+[Home](/) / [40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P20.md) / [9 Saraṇaduka](/tipitaka/40P20/9.md) / [9.1--7 Paṭiccādivāra](/tipitaka/40P20/9/9.1--7.md) / [Paccanīya](/tipitaka/40P20/9/9.1--7/Paccaniya.md)
 
 # Hetu-ārammaṇa
 
@@ -43,5 +26,7 @@ nextL: /tipitaka/40P20/9/9.1--7/Paccaniyuddhara
 (59.)
 
 164. Hetuyā cattāri, ārammaṇe cattāri, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri…pe…  sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme cattāri, vipāke ekaṃ, āhāre indriye jhāne magge cattāri, sampayutte dve, vippayutte tīṇi…pe…  avigate satta.
+
+[Go to previous page](/tipitaka/40P20/9/9.1--7/Paccaniya/Nahetu.md) / [Go to parent page](/tipitaka/40P20/9/9.1--7/Paccaniya.md) / [Go to next page](/tipitaka/40P20/9/9.1--7/Paccaniyuddhara.md)
 
 

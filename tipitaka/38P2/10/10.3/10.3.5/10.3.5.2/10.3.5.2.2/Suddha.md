@@ -1,26 +1,5 @@
----
-title:  Suddha
-path: /tipitaka/38P2/10/10.3/10.3.5/10.3.5.2/10.3.5.2.2/Suddha
-ref: 265231
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 10 Mahantaraduka
-    link: /tipitaka/38P2/10
-  - name: 10.3 Cetasikaduka
-    link: /tipitaka/38P2/10/10.3
-  - name: 10.3.5 Saṃsaṭṭhavāra
-    link: /tipitaka/38P2/10/10.3/10.3.5
-  - name: 10.3.5.2 Paccayapaccanīya
-    link: /tipitaka/38P2/10/10.3/10.3.5/10.3.5.2
-  - name: 10.3.5.2.2 Saṅkhyāvāra
-    link: /tipitaka/38P2/10/10.3/10.3.5/10.3.5.2/10.3.5.2.2
-prevL: /tipitaka/38P2/10/10.3/10.3.5/10.3.5.2/10.3.5.2.2
-upL: /tipitaka/38P2/10/10.3/10.3.5/10.3.5.2/10.3.5.2.2
-nextL: /tipitaka/38P2/10/10.3/10.3.5/10.3.5.3--4
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.3 Cetasikaduka](/tipitaka/38P2/10/10.3.md) / [10.3.5 Saṃsaṭṭhavāra](/tipitaka/38P2/10/10.3/10.3.5.md) / [10.3.5.2 Paccayapaccanīya](/tipitaka/38P2/10/10.3/10.3.5/10.3.5.2.md) / [10.3.5.2.2 Saṅkhyāvāra](/tipitaka/38P2/10/10.3/10.3.5/10.3.5.2/10.3.5.2.2.md)
 
 # Suddha
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/10/10.3/10.3.5/10.3.5.3--4
 (118.)
 
 2606. Nahetuyā pañca, naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, najhāne pañca, namagge pañca, navippayutte pañca.
+
+[Go to previous page](/tipitaka/38P2/10/10.3/10.3.5/10.3.5.2/10.3.5.2.2.md) / [Go to parent page](/tipitaka/38P2/10/10.3/10.3.5/10.3.5.2/10.3.5.2.2.md) / [Go to next page](/tipitaka/38P2/10/10.3/10.3.5/10.3.5.3--4.md)
 
 

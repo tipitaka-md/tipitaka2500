@@ -1,23 +1,10 @@
----
-title:  Paccanīya
-path: /tipitaka/40P21/55/55.1--6/Paccaniya
-ref: 259992
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/40P21
-  - name: 55 Piṭṭhiduka, Sanidassanattika
-    link: /tipitaka/40P21/55
-  - name: 55.1--6 Paṭiccādivāra
-    link: /tipitaka/40P21/55/55.1--6
-prevL: /tipitaka/40P21/55/55.1--6
-upL: /tipitaka/40P21/55/55.1--6
-nextL: /tipitaka/40P21/55/55.1--6/Paccaniya/Nahetu-naarammana
----
+
+[Home](/) / [40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P21.md) / [55 Piṭṭhiduka, Sanidassanattika](/tipitaka/40P21/55.md) / [55.1--6 Paṭiccādivāra](/tipitaka/40P21/55/55.1--6.md)
 
 # Paccanīya
 
-* [Nahetu-naārammaṇa](/tipitaka/40P21/55/55.1--6/Paccaniya/Nahetu-naarammana)
+* [Nahetu-naārammaṇa](/tipitaka/40P21/55/55.1--6/Paccaniya/Nahetu-naarammana.md)
+
+[Go to previous page](/tipitaka/40P21/55/55.1--6.md) / [Go to parent page](/tipitaka/40P21/55/55.1--6.md) / [Go to next page](/tipitaka/40P21/55/55.1--6/Paccaniya/Nahetu-naarammana.md)
 
 

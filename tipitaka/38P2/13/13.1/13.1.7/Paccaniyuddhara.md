@@ -1,22 +1,5 @@
----
-title:  Paccanīyuddhāra
-path: /tipitaka/38P2/13/13.1/13.1.7/Paccaniyuddhara
-ref: 261414
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 13 Piṭṭhiduka
-    link: /tipitaka/38P2/13
-  - name: 13.1 Dassanenapahātabbaduka
-    link: /tipitaka/38P2/13/13.1
-  - name: 13.1.7 Pañhāvāra
-    link: /tipitaka/38P2/13/13.1/13.1.7
-prevL: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.2/Suddha
-upL: /tipitaka/38P2/13/13.1/13.1.7
-nextL: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.1 Dassanenapahātabbaduka](/tipitaka/38P2/13/13.1.md) / [13.1.7 Pañhāvāra](/tipitaka/38P2/13/13.1/13.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -45,5 +28,7 @@ nextL: /tipitaka/38P2/13/13.1/13.1.7/13.1.7.2
 4130. Dassanena pahātabbo ca nadassanena pahātabbo ca dhammā dassanena pahātabbassa dhammassa sahajātaṃ, purejātaṃ. (1)
 
 4131. Dassanena pahātabbo ca nadassanena pahātabbo ca dhammā nadassanena pahātabbassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
+
+[Go to previous page](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.2/Suddha.md) / [Go to parent page](/tipitaka/38P2/13/13.1/13.1.7.md) / [Go to next page](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.2.md)
 
 

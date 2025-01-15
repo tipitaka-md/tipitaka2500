@@ -1,22 +1,5 @@
----
-title:  Hetu
-path: /tipitaka/39P3/3/3.3/3.3.3/Hetu
-ref: 261669
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)
-    link: /tipitaka/39P3
-  - name: 3 Cūḷantaraduka, Kusalattika
-    link: /tipitaka/39P3/3
-  - name: 3.3 Sanidassanaduka, Kusalattika
-    link: /tipitaka/39P3/3/3.3
-  - name: 3.3.3 Abyākatapada
-    link: /tipitaka/39P3/3/3.3/3.3.3
-prevL: /tipitaka/39P3/3/3.3/3.3.3
-upL: /tipitaka/39P3/3/3.3/3.3.3
-nextL: /tipitaka/39P3/3/3.3/3.3.3/3.3.3.1--6
----
+
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.3 Sanidassanaduka, Kusalattika](/tipitaka/39P3/3/3.3.md) / [3.3.3 Abyākatapada](/tipitaka/39P3/3/3.3/3.3.3.md)
 
 # Hetu
 
@@ -39,5 +22,7 @@ nextL: /tipitaka/39P3/3/3.3/3.3.3/3.3.3.1--6
 1505. Nahetuyā tīṇi (sabbattha tīṇi), nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi…pe…  novigate tīṇi. (Saṃkhittaṃ.)
 
 1506. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+
+[Go to previous page](/tipitaka/39P3/3/3.3/3.3.3.md) / [Go to parent page](/tipitaka/39P3/3/3.3/3.3.3.md) / [Go to next page](/tipitaka/39P3/3/3.3/3.3.3/3.3.3.1--6.md)
 
 

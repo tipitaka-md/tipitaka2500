@@ -1,26 +1,5 @@
----
-title:  Adhipatyādi
-path: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1/Adhipatyadi
-ref: 264968
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)
-    link: /tipitaka/38P2
-  - name: 4 Saññojanagocchaka
-    link: /tipitaka/38P2/4
-  - name: 4.3 Saññojanasampayuttaduka
-    link: /tipitaka/38P2/4/4.3
-  - name: 4.3.3 Paccayavāra
-    link: /tipitaka/38P2/4/4.3/4.3.3
-  - name: 4.3.3.1 Paccayānuloma
-    link: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1
-  - name: 4.3.3.1.1 Vibhaṅgavāra
-    link: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1
-prevL: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1/Arammana
-upL: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1
-nextL: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.2
----
+
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.3 Paccayavāra](/tipitaka/38P2/4/4.3/4.3.3.md) / [4.3.3.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1.md) / [4.3.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1.md)
 
 # Adhipatyādi
 
@@ -39,5 +18,7 @@ nextL: /tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.2
 (55.)
 
 1461. Saññojanasampayuttaṃ dhammaṃ paccayā saññojanasampayutto dhammo uppajjati adhipatipaccayā…pe…  avigatapaccayā…pe… .
+
+[Go to previous page](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1/Arammana.md) / [Go to parent page](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1.md) / [Go to next page](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.2.md)
 
 

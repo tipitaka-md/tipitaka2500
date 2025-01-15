@@ -1,22 +1,5 @@
----
-title:  Paccayacatukka
-path: /tipitaka/39P4/5/5.7/5.7.1--7/Paccayacatukka
-ref: 261907
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)
-    link: /tipitaka/39P4
-  - name: 5 Kusalattika, Mahantaradukaupādānagocchaka
-    link: /tipitaka/39P4/5
-  - name: 5.7 Kusalattika, Upādinnaduka
-    link: /tipitaka/39P4/5/5.7
-  - name: 5.7.1--7 Paṭiccādivāra
-    link: /tipitaka/39P4/5/5.7/5.7.1--7
-prevL: /tipitaka/39P4/5/5.7/5.7.1--7
-upL: /tipitaka/39P4/5/5.7/5.7.1--7
-nextL: /tipitaka/39P4/5/5.7/5.7.1--7/Paccayacatukka/Hetu-arammana
----
+
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](/tipitaka/39P4/5.md) / [5.7 Kusalattika, Upādinnaduka](/tipitaka/39P4/5/5.7.md) / [5.7.1--7 Paṭiccādivāra](/tipitaka/39P4/5/5.7/5.7.1--7.md)
 
 # Paccayacatukka
 
@@ -126,6 +109,8 @@ nextL: /tipitaka/39P4/5/5.7/5.7.1--7/Paccayacatukka/Hetu-arammana
 
 1424. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
-* [Hetu-ārammaṇa](/tipitaka/39P4/5/5.7/5.7.1--7/Paccayacatukka/Hetu-arammana)
+* [Hetu-ārammaṇa](/tipitaka/39P4/5/5.7/5.7.1--7/Paccayacatukka/Hetu-arammana.md)
+
+[Go to previous page](/tipitaka/39P4/5/5.7/5.7.1--7.md) / [Go to parent page](/tipitaka/39P4/5/5.7/5.7.1--7.md) / [Go to next page](/tipitaka/39P4/5/5.7/5.7.1--7/Paccayacatukka/Hetu-arammana.md)
 
 

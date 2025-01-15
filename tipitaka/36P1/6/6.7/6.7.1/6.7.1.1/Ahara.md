@@ -1,24 +1,5 @@
----
-title:  Āhāra
-path: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Ahara
-ref: 262795
-breadcrumbs:
-  - name: Home
-    link: /
-  - name: 36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)
-    link: /tipitaka/36P1
-  - name: 6 Saṃkiliṭṭhattika
-    link: /tipitaka/36P1/6
-  - name: 6.7 Pañhāvāra
-    link: /tipitaka/36P1/6/6.7
-  - name: 6.7.1 Paccayānuloma
-    link: /tipitaka/36P1/6/6.7/6.7.1
-  - name: 6.7.1.1 Vibhaṅgavāra
-    link: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1
-prevL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Vipaka
-upL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1
-nextL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Indriya
----
+
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md) / [6.7.1 Paccayānuloma](/tipitaka/36P1/6/6.7/6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md)
 
 # Āhāra
 
@@ -39,5 +20,7 @@ nextL: /tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Indriya
 2883. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa āhārapaccayena paccayo—  asaṃkiliṭṭhasaṃkilesikā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe…  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo.
 
 2884. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa āhārapaccayena paccayo…  tīṇi.
+
+[Go to previous page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Vipaka.md) / [Go to parent page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md) / [Go to next page](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Indriya.md)
 
 
