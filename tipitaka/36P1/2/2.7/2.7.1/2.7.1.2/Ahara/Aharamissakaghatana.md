@@ -17,7 +17,7 @@
 
 (343.)
 
-1072. 𑀆𑀳𑀸𑀭 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀲𑀢𑁆𑀢𑁇
+1072\. 𑀆𑀳𑀸𑀭 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀲𑀢𑁆𑀢𑁇
 
 [Go to previous page (Āhārasabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Ahara/Aharasabhaga.md) / [Go to parent page (Āhāra)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Ahara.md) / [Go to next page (Sahajātasāmaññaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Ahara/Sahajatasamannaghatana.md)
 
