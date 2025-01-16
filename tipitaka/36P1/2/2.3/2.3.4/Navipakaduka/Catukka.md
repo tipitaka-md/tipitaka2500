@@ -1,19 +1,19 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.3/2.3.4.md) / [Navipākaduka](/tipitaka/36P1/2/2.3/2.3.4/Navipakaduka.md)
 
-# 𑀘𑀢𑀼𑀓𑁆𑀓
+# Catukka
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Kusalattika
 
-### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
+### Paccayavāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+### Paccayapaccanīyānuloma
 
-### 𑀦𑀯𑀺𑀧𑀸𑀓𑀤𑀼𑀓
+### Navipākaduka
 
-### 𑀘𑀢𑀼𑀓𑁆𑀓
+### Catukka
 
-654. 𑀦𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 𑀲𑀳𑀚𑀸𑀢𑁂 𑀏𑀓𑀁, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀏𑀓𑀁, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀏𑀓𑀁, 𑀓𑀫𑁆𑀫𑁂 𑀏𑀓𑀁, 𑀆𑀳𑀸𑀭𑁂 𑀏𑀓𑀁, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀏𑀓𑀁, 𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀏𑀓𑀁, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+654. Navipākapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.4/Navipakaduka/Tika.md) / [Go to parent page (Navipākaduka)](/tipitaka/36P1/2/2.3/2.3.4/Navipakaduka.md) / [Go to next page (Naāhāraduka)](/tipitaka/36P1/2/2.3/2.3.4/Naaharaduka.md)
 

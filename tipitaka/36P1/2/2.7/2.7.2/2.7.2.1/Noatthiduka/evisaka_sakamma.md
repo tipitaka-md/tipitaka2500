@@ -1,21 +1,21 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Noatthiduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md)
 
-# 𑀢𑁂𑀯𑀻𑀲𑀓 (𑀲𑀓𑀫𑁆𑀫)
+# Tevīsaka (sakamma)
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Kusalattika
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+### Pañhāvāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+### Paccayapaccanīya
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+### Saṅkhyāvāra
 
-### 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀤𑀼𑀓
+### Noatthiduka
 
-### 𑀢𑁂𑀯𑀻𑀲𑀓 (𑀲𑀓𑀫𑁆𑀫)
+### Tevīsaka (sakamma)
 
-1264. 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 (𑀫𑀽𑀮𑀓𑀁 𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁) 𑀦𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 (𑀫𑀽𑀮𑀓𑀁 𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁) 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑁄𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
+1264. Noatthipaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) nanissayapaccayā napurejātapaccayā (mūlakaṃ saṃkhittaṃ) nakammapaccayā…pe…  novigatapaccayā noavigate nava.
 
 [Go to previous page (Tevīsaka (saupanissaya))](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/evisaka_saupanissaya.md) / [Go to parent page (Noatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md) / [Go to next page (Nonatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nonatthiduka.md)
 

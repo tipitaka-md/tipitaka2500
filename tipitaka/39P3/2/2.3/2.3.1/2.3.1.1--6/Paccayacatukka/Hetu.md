@@ -1,27 +1,27 @@
 
 [Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [2 Hetugocchaka, Kusalattika](/tipitaka/39P3/2.md) / [2.3 Hetusampayuttaduka, Kusalattika](/tipitaka/39P3/2/2.3.md) / [2.3.1 Kusalapada](/tipitaka/39P3/2/2.3/2.3.1.md) / [2.3.1.1--6 Paṭiccādivāra](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.1--6.md) / [Paccayacatukka](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.1--6/Paccayacatukka.md)
 
-# 𑀳𑁂𑀢𑀼
+# Hetu
 
-### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Hetugocchaka, Kusalattika
 
-### 𑀳𑁂𑀢𑀼𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Hetusampayuttaduka, Kusalattika
 
-### 𑀓𑀼𑀲𑀮𑀧𑀤
+### Kusalapada
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+### Paṭiccādivāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+### Paccayacatukka
 
-### 𑀳𑁂𑀢𑀼
+### Hetu
 
 (25.)
 
-1306. 𑀳𑁂𑀢𑀼𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀁 𑀓𑀼𑀲𑀮𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑁧) (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+1306. Hetusampayuttaṃ kusalaṃ dhammaṃ paṭicca hetusampayutto kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 (26.)
 
-1307. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+1307. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.1--6/Paccayacatukka.md) / [Go to next page (Paccanīya)](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.1--6/Paccaniya.md)
 

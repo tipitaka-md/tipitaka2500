@@ -1,21 +1,21 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Naāhāraduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md)
 
-# 𑀧𑀦𑁆𑀦𑀭𑀲𑀓
+# Pannarasaka
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Kusalattika
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+### Pañhāvāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+### Paccayapaccanīya
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+### Saṅkhyāvāra
 
-### 𑀦𑀆𑀳𑀸𑀭𑀤𑀼𑀓
+### Naāhāraduka
 
-### 𑀧𑀦𑁆𑀦𑀭𑀲𑀓
+### Pannarasaka
 
-1238. 𑀦𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁, 𑀦𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀏𑀓𑀁, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁…𑀧𑁂… 𑁇
+1238. Naāhārapaccayā nahetupaccayā…pe…  napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 
 [Go to previous page (Terasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Terasaka.md) / [Go to parent page (Naāhāraduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md) / [Go to next page (Aṭṭhārasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Attharasaka.md)
 

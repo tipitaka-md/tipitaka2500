@@ -1,21 +1,21 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.1 Paccayānuloma](/tipitaka/36P1/5/5.1/5.1.1.md) / [5.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md)
 
-# 𑀧𑀼𑀭𑁂𑀚𑀸𑀢
+# Purejāta
 
-### 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀢𑁆𑀢𑀺𑀓
+### Upādinnattika
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+### Paṭiccavāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+### Paccayānuloma
 
-### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
+### Vibhaṅgavāra
 
-### 𑀧𑀼𑀭𑁂𑀚𑀸𑀢
+### Purejāta
 
 (7.)
 
-2462. 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀼𑀧𑀸𑀤𑀸𑀦𑀺𑀬𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀼𑀧𑀸𑀤𑀸𑀦𑀺𑀬𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
+2462. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati purejātapaccayā…  tīṇi.
 
 [Go to previous page (Nissaya-upanissaya)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Nissaya-upanissaya.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md) / [Go to next page (Āsevana)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Asevana.md)
 

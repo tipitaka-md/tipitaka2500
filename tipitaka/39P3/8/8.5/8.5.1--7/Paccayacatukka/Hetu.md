@@ -1,27 +1,27 @@
 
 [Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [8 Nīvaraṇagocchaka, Kusalattika](/tipitaka/39P3/8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka, Kusalattika](/tipitaka/39P3/8/8.5.md) / [8.5.1--7 Paṭiccādivāra](/tipitaka/39P3/8/8.5/8.5.1--7.md) / [Paccayacatukka](/tipitaka/39P3/8/8.5/8.5.1--7/Paccayacatukka.md)
 
-# 𑀳𑁂𑀢𑀼
+# Hetu
 
-### 𑀦𑀻𑀯𑀭𑀡𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Nīvaraṇagocchaka, Kusalattika
 
-### 𑀦𑀻𑀯𑀭𑀡𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Nīvaraṇanīvaraṇasampayuttaduka, Kusalattika
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+### Paṭiccādivāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+### Paccayacatukka
 
-### 𑀳𑁂𑀢𑀼
+### Hetu
 
 (29.)
 
-1946. 𑀦𑀻𑀯𑀭𑀡𑀜𑁆𑀘𑁂𑀯 𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀜𑁆𑀘 𑀅𑀓𑀼𑀲𑀮𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑀻𑀯𑀭𑀡𑁄 𑀘𑁂𑀯 𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀘 𑀅𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+1946. Nīvaraṇañceva nīvaraṇasampayuttañca akusalaṃ dhammaṃ paṭicca nīvaraṇo ceva nīvaraṇasampayutto ca akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (30.)
 
-1947. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+1947. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
-1948. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯𑁇)
+1948. (Sahajātavārepi…pe…  pañhāvārepi sabbattha nava.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/8/8.5/8.5.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/8/8.5/8.5.1--7/Paccayacatukka.md) / [Go to next page (8.6 Nīvaraṇavippayuttanīvaraṇiyaduka, Kusalattika)](/tipitaka/39P3/8/8.6.md)
 

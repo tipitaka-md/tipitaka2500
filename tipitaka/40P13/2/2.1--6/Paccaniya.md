@@ -1,7 +1,7 @@
 
 [Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [2 Vedanāttika](/tipitaka/40P13/2.md) / [2.1--6 Paṭiccādivāra](/tipitaka/40P13/2/2.1--6.md)
 
-# 𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+# Paccanīya
 
 * [Nahetu](/tipitaka/40P13/2/2.1--6/Paccaniya/Nahetu.md)
 

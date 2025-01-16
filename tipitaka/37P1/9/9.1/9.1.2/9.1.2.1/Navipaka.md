@@ -1,21 +1,21 @@
 
 [Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.1 Paṭiccavāra](/tipitaka/37P1/9/9.1.md) / [9.1.2 Paccayapaccanīya](/tipitaka/37P1/9/9.1/9.1.2.md) / [9.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md)
 
-# 𑀦𑀯𑀺𑀧𑀸𑀓
+# Navipāka
 
-### 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀢𑁆𑀢𑀺𑀓
+### Dassanenapahātabbattika
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+### Paṭiccavāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+### Paccayapaccanīya
 
-### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
+### Vibhaṅgavāra
 
-### 𑀦𑀯𑀺𑀧𑀸𑀓
+### Navipāka
 
 (24.)
 
-841. 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀲𑀤𑀺𑀲𑀁, 𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺 𑀦𑀢𑁆𑀣𑀺𑁇)
+841. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati navipākapaccayā. (Naadhipatipaccayasadisaṃ, paṭisandhi natthi.)
 
 [Go to previous page (Nakamma)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Nakamma.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md) / [Go to next page (Naāhāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Naahara.md)
 

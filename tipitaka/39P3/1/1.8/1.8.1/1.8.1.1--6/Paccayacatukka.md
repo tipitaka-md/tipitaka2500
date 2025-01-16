@@ -1,7 +1,7 @@
 
 [Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.8 Hetuduka, Dassanenapahātabbattika](/tipitaka/39P3/1/1.8.md) / [1.8.1 Dassanenapahātabbapada](/tipitaka/39P3/1/1.8/1.8.1.md) / [1.8.1.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.1--6.md)
 
-# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+# Paccayacatukka
 
 * [Hetu](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.1--6/Paccayacatukka/Hetu.md)
 * [Nahetu-naadhipati](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.1--6/Paccayacatukka/Nahetu-naadhipati.md)

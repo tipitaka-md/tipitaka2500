@@ -1,19 +1,19 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.5/2.5.3.md) / [Vipākaduka](/tipitaka/36P1/2/2.5/2.5.3/Vipakaduka.md)
 
-# 𑀢𑀺𑀓
+# Tika
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Kusalattika
 
-### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
+### Saṃsaṭṭhavāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+### Paccayānulomapaccanīya
 
-### 𑀯𑀺𑀧𑀸𑀓𑀤𑀼𑀓
+### Vipākaduka
 
-### 𑀢𑀺𑀓
+### Tika
 
-773. 𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+773. Vipākapaccayā hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Vipākaduka)](/tipitaka/36P1/2/2.5/2.5.3/Vipakaduka.md) / [Go to parent page (Vipākaduka)](/tipitaka/36P1/2/2.5/2.5.3/Vipakaduka.md) / [Go to next page (Āhāraduka)](/tipitaka/36P1/2/2.5/2.5.3/Aharaduka.md)
 

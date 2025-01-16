@@ -1,7 +1,7 @@
 
 [Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [16 Saraṇaduka, Vedanāttikādi](/tipitaka/40P9/16.md)
 
-# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+# Paccayacatukka
 
 * [Hetu](/tipitaka/40P9/16/Paccayacatukka/Hetu.md)
 

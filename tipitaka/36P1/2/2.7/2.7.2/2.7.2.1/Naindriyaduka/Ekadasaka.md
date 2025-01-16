@@ -1,21 +1,21 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Naindriyaduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka.md)
 
-# 𑀏𑀓𑀸𑀤𑀲𑀓
+# Ekādasaka
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Kusalattika
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+### Pañhāvāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+### Paccayapaccanīya
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+### Saṅkhyāvāra
 
-### 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀤𑀼𑀓
+### Naindriyaduka
 
-### 𑀏𑀓𑀸𑀤𑀲𑀓
+### Ekādasaka
 
-1244. 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀢𑀻𑀡𑀺𑁇 (𑀓𑀸𑀢𑀩𑁆𑀩𑀁𑁇)
+1244. Naindriyapaccayā nahetupaccayā…pe…  naupanissayapaccayā napurejāte pañca, napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre tīṇi. (Kātabbaṃ.)
 
 [Go to previous page (Dasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Dasaka.md) / [Go to parent page (Naindriyaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka.md) / [Go to next page (Terasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Terasaka.md)
 

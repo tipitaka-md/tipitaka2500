@@ -1,21 +1,21 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.1 Paccayānuloma](/tipitaka/36P1/2/2.5/2.5.1.md) / [2.5.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2.md)
 
-# 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+# Hetuduka
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Kusalattika
 
-### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
+### Saṃsaṭṭhavāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+### Paccayānuloma
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+### Saṅkhyāvāra
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+### Hetuduka
 
 (212.)
 
-710. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺𑁇 (𑀳𑁂𑀢𑀼𑀫𑀽𑀮𑀓𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
+710. Hetupaccayā ārammaṇe tīṇi. (Hetumūlakaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Suddha)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2/Suddha.md) / [Go to parent page (2.5.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2.md) / [Go to next page (Āsevanaduka)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2/Asevanaduka.md)
 

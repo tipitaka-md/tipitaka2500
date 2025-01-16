@@ -1,27 +1,27 @@
 
 [Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [2 Hetugocchaka, Kusalattika](/tipitaka/39P3/2.md) / [2.4 Hetusahetukaduka, Kusalattika](/tipitaka/39P3/2/2.4.md) / [2.4.2 Akusalapada](/tipitaka/39P3/2/2.4/2.4.2.md) / [2.4.2.1--6 Paṭiccādivāra](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.1--6.md) / [Paccayacatukka](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.1--6/Paccayacatukka.md)
 
-# 𑀳𑁂𑀢𑀼
+# Hetu
 
-### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Hetugocchaka, Kusalattika
 
-### 𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+### Hetusahetukaduka, Kusalattika
 
-### 𑀅𑀓𑀼𑀲𑀮𑀧𑀤
+### Akusalapada
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+### Paṭiccādivāra
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+### Paccayacatukka
 
-### 𑀳𑁂𑀢𑀼
+### Hetu
 
 (55.)
 
-1378. 𑀳𑁂𑀢𑀼𑀜𑁆𑀘𑁂𑀯 𑀲𑀳𑁂𑀢𑀼𑀓𑀜𑁆𑀘 𑀅𑀓𑀼𑀲𑀮𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀘𑁂𑀯 𑀲𑀳𑁂𑀢𑀼𑀓𑁄 𑀘 𑀅𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+1378. Hetuñceva sahetukañca akusalaṃ dhammaṃ paṭicca hetu ceva sahetuko ca akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (56.)
 
-1379. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯…𑀧𑁂…  𑀓𑀫𑁆𑀫𑁂 𑀦𑀯, 𑀆𑀳𑀸𑀭𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
+1379. Hetuyā nava, ārammaṇe nava…pe…  kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.1--6/Paccayacatukka/Naadhipati.md)
 
