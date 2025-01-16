@@ -1,28 +1,28 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../../2.7.2.1.md) / [Nakammaduka](../Nakammaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Nakammaduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka.md)
 
-# Terasaka
+# 𑀢𑁂𑀭𑀲𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Nakammaduka
+### 𑀦𑀓𑀫𑁆𑀫𑀤𑀼𑀓
 
-### Terasaka
+### 𑀢𑁂𑀭𑀲𑀓
 
-1230. Nakammapaccayā nahetupaccayā…pe…  napurejātapaccayā napacchājātapaccayā naāsevane ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (Saṃkhittaṃ.)
+1230. 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀏𑀓𑀁, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀏𑀓𑀁, 𑀦𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀏𑀓𑀁, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 ---
 
-1231. Navipākapaccayā… . (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+1231. 𑀦𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸… 𑁇 (𑀬𑀣𑀸 𑀦𑀳𑁂𑀢𑀼𑀫𑀽𑀮𑀓𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 
 
-[Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Nakammaduka)](../Nakammaduka.md) / [Go to next page (Naāhāraduka)](../Naaharaduka.md)
+[Go to previous page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka/Ekadasaka.md) / [Go to parent page (Nakammaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka.md) / [Go to next page (Naāhāraduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md)
 
 

@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.1 Nīvaraṇaduka](../../../../8.1.md) / [8.1.7 Pañhāvāra](../../../8.1.7.md) / [8.1.7.1 Paccayānuloma](../../8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](../8.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.7 Pañhāvāra](/tipitaka/38P2/8/8.1/8.1.7.md) / [8.1.7.1 Paccayānuloma](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md)
 
-# Vippayutta
+# 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
-### Nīvaraṇagocchaka
+### 𑀦𑀻𑀯𑀭𑀡𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Nīvaraṇaduka
+### 𑀦𑀻𑀯𑀭𑀡𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Vippayutta
+### 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
 (40.)
 
-1966. Nīvaraṇo dhammo nonīvaraṇassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Evaṃ avasesā cattāri pañhā kātabbā.)
+1966. 𑀦𑀻𑀯𑀭𑀡𑁄 𑀥𑀫𑁆𑀫𑁄 𑀦𑁄𑀦𑀻𑀯𑀭𑀡𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀲𑀳𑀚𑀸𑀢𑀁, 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀁𑁇 (𑀏𑀯𑀁 𑀅𑀯𑀲𑁂𑀲𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺 𑀧𑀜𑁆𑀳𑀸 𑀓𑀸𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (Vipākādi)](Vipakadi.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
+[Go to previous page (Vipākādi)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Vipakadi.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Atthi)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Atthi.md)
 
 

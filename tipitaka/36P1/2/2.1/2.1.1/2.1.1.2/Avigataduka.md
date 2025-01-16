@@ -1,31 +1,31 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.1 Paccayānuloma](../../2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](../2.1.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md)
 
-# Avigataduka
+# 𑀅𑀯𑀺𑀕𑀢𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Avigataduka
+### 𑀅𑀯𑀺𑀕𑀢𑀤𑀼𑀓
 
 (33.)
 
-203. Avigatapaccayā hetuyā nava, ārammaṇe tīṇi; adhipatiyā nava…pe…  natthiyā tīṇi, vigate tīṇi.
+203. 𑀅𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺; 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇
 
 ---
 
-204. (Ekekaṃ paccayaṃ mūlakaṃ kātuna sajjhāyantena gaṇetabbāti.)
+204. (𑀏𑀓𑁂𑀓𑀁 𑀧𑀘𑁆𑀘𑀬𑀁 𑀫𑀽𑀮𑀓𑀁 𑀓𑀸𑀢𑀼𑀦 𑀲𑀚𑁆𑀛𑀸𑀬𑀦𑁆𑀢𑁂𑀦 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀸𑀢𑀺𑁇)
 
   
-Anulomaṃ.
+𑀅𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
 
 
-[Go to previous page (Āhāradukādi)](Aharadukadi.md) / [Go to parent page (2.1.1.2 Saṅkhyāvāra)](../2.1.1.2.md) / [Go to next page (2.1.2 Paccayapaccanīya)](../../2.1.2.md)
+[Go to previous page (Āhāradukādi)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Aharadukadi.md) / [Go to parent page (2.1.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md) / [Go to next page (2.1.2 Paccayapaccanīya)](/tipitaka/36P1/2/2.1/2.1.2.md)
 
 

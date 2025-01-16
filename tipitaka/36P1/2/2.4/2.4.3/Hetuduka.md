@@ -1,26 +1,26 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.4 Nissayavāra](../../2.4.md) / [2.4.3 Paccayānulomapaccanīya](../2.4.3.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.4 Nissayavāra](/tipitaka/36P1/2/2.4.md) / [2.4.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.4/2.4.3.md)
 
-# Hetuduka
+# 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Nissayavāra
+### 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (200.)
 
-688. Hetupaccayā naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme satta, navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
+688. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀧𑀜𑁆𑀘, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 ---
 
-689. Nissayavāre anulomapaccanīyaṃ.
+689. 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑁂 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (2.4.3 Paccayānulomapaccanīya)](../2.4.3.md) / [Go to parent page (2.4.3 Paccayānulomapaccanīya)](../2.4.3.md) / [Go to next page (2.4.4 Paccayapaccanīyānuloma)](../2.4.4.md)
+[Go to previous page (2.4.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.4/2.4.3.md) / [Go to parent page (2.4.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.4/2.4.3.md) / [Go to next page (2.4.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.4/2.4.4.md)
 
 

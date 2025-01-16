@@ -1,42 +1,42 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.1 Kusalattika, Hetuduka](../../../../1.1.md) / [1.1.1 Hetupada](../../../1.1.1.md) / [1.1.1.7 Pañhāvāra](../../1.1.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.1 Kusalattika, Hetuduka](/tipitaka/39P4/1/1.1.md) / [1.1.1 Hetupada](/tipitaka/39P4/1/1.1/1.1.1.md) / [1.1.1.7 Pañhāvāra](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md)
 
-# Anantarādi
+# 𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
-### Tika, Hetuduka
+### 𑀢𑀺𑀓, 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Kusalattika, Hetuduka
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Hetupada
+### 𑀳𑁂𑀢𑀼𑀧𑀤
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Anantarādi
+### 𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
 (9.)
 
-25. Kusalo hetu dhammo kusalassa hetussa dhammassa anantarapaccayena paccayo…  dve.
+25. 𑀓𑀼𑀲𑀮𑁄 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀤𑁆𑀯𑁂𑁇
 
-26. Akusalo hetu dhammo akusalassa hetussa dhammassa anantarapaccayena paccayo…  dve.
+26. 𑀅𑀓𑀼𑀲𑀮𑁄 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀅𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀤𑁆𑀯𑁂𑁇
 
-27. Abyākato hetu dhammo abyākatassa hetussa dhammassa anantarapaccayena paccayo (1)
+27. 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄 (𑁧)
 
 (10.)
 
-28. Kusalo hetu dhammo kusalassa hetussa dhammassa sahajātapaccayena paccayo. (1)
+28. 𑀓𑀼𑀲𑀮𑁄 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁧)
 
-29. Akusalo hetu dhammo akusalassa hetussa dhammassa sahajātapaccayena paccayo. (1)
+29. 𑀅𑀓𑀼𑀲𑀮𑁄 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀅𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁧)
 
-30. Abyākato hetu dhammo abyākatassa hetussa dhammassa sahajātapaccayena paccayo. (1)
+30. 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁧)
 
 ---
 
-31. (Aññamaññanissayapaccayā sahajātapaccayasadisā.)
+31. (𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀸 𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀲𑀤𑀺𑀲𑀸𑁇)
 
 
 
-[Go to previous page (Hetu-ārammaṇādi)](Hetu-arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Upanissayādi)](Upanissayadi.md)
+[Go to previous page (Hetu-ārammaṇādi)](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Hetu-arammanadi.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to next page (Upanissayādi)](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Upanissayadi.md)
 
 

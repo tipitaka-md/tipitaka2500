@@ -1,34 +1,34 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.9 Hetuduka, Dassanenapahātabbahetukattika](../../../../1.9.md) / [1.9.2 Bhāvanāyapahātabbahetukapada](../../../1.9.2.md) / [1.9.2.1--6 Paṭiccādivāra](../../1.9.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.9 Hetuduka, Dassanenapahātabbahetukattika](/tipitaka/39P3/1/1.9.md) / [1.9.2 Bhāvanāyapahātabbahetukapada](/tipitaka/39P3/1/1.9/1.9.2.md) / [1.9.2.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.1--6/Paccayacatukka.md)
 
-# Naadhipati
+# 𑀦𑀅𑀥𑀺𑀧𑀢𑀺
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Dassanenapahātabbahetukattika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Bhāvanāyapahātabbahetukapada
+### 𑀪𑀸𑀯𑀦𑀸𑀬𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀧𑀤
 
-### Paṭiccādivāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Naadhipati
+### 𑀦𑀅𑀥𑀺𑀧𑀢𑀺
 
 (292.)
 
-595. Hetuṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca hetu bhāvanāya pahātabbahetuko dhammo uppajjati naadhipatipaccayā…  nava. (Saṃkhittaṃ.)
+595. 𑀳𑁂𑀢𑀼𑀁 𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (293.)
 
-596. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+596. 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-597. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+597. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-598. Naadhipatipaccayā hetuyā nava. (Saṃkhittaṃ.)
+598. 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-599. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+599. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀸 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.9.2.7 Pañhāvāra)](../../1.9.2.7.md)
+[Go to previous page (Hetu)](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.1--6/Paccayacatukka.md) / [Go to next page (1.9.2.7 Pañhāvāra)](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.7.md)
 
 

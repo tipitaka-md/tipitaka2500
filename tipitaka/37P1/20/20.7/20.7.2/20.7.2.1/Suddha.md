@@ -1,28 +1,28 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [20 Atītārammaṇattika](../../../../20.md) / [20.7 Pañhāvāra](../../../20.7.md) / [20.7.2 Paccayapaccanīya](../../20.7.2.md) / [20.7.2.1 Saṅkhyāvāra](../20.7.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.7 Pañhāvāra](/tipitaka/37P1/20/20.7.md) / [20.7.2 Paccayapaccanīya](/tipitaka/37P1/20/20.7/20.7.2.md) / [20.7.2.1 Saṅkhyāvāra](/tipitaka/37P1/20/20.7/20.7.2/20.7.2.1.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Atītārammaṇattika
+### 𑀅𑀢𑀻𑀢𑀸𑀭𑀫𑁆𑀫𑀡𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (43.)
 
-2753. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava (saṃkhittaṃ, sabbattha nava), novigate nava, noavigate nava. (Evaṃ gaṇetabbaṃ.)
+2753. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁, 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯), 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀦𑀯, 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-2754. Paccanīyaṃ.
+2754. 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (20.7.2.1 Saṅkhyāvāra)](../20.7.2.1.md) / [Go to parent page (20.7.2.1 Saṅkhyāvāra)](../20.7.2.1.md) / [Go to next page (20.7.3 Paccayānulomapaccanīya)](../../20.7.3.md)
+[Go to previous page (20.7.2.1 Saṅkhyāvāra)](/tipitaka/37P1/20/20.7/20.7.2/20.7.2.1.md) / [Go to parent page (20.7.2.1 Saṅkhyāvāra)](/tipitaka/37P1/20/20.7/20.7.2/20.7.2.1.md) / [Go to next page (20.7.3 Paccayānulomapaccanīya)](/tipitaka/37P1/20/20.7/20.7.3.md)
 
 

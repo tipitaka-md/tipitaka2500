@@ -1,28 +1,28 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.5 Saṃsaṭṭhavāra](../../../10.5.md) / [10.5.2 Paccayapaccanīya](../../10.5.2.md) / [10.5.2.2 Saṅkhyāvāra](../10.5.2.2.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.5 Saṃsaṭṭhavāra](/tipitaka/37P1/10/10.5.md) / [10.5.2 Paccayapaccanīya](/tipitaka/37P1/10/10.5/10.5.2.md) / [10.5.2.2 Saṅkhyāvāra](/tipitaka/37P1/10/10.5/10.5.2/10.5.2.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Dassanenapahātabbahetukattika
+### 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (72.)
 
-1261. Nahetuyā tīṇi, naadhipatiyā ekādasa, napurejāte ekādasa, napacchājāte ekādasa, naāsevane ekādasa, nakamme satta, navipāke ekādasa, najhāne ekaṃ, namagge ekaṃ, navippayutte ekādasa. (Evaṃ gaṇetabbaṃ.)
+1261. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀏𑀓𑀸𑀤𑀲, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀏𑀓𑀸𑀤𑀲, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀏𑀓𑀸𑀤𑀲, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀏𑀓𑀸𑀤𑀲, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀸𑀤𑀲, 𑀦𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀸𑀤𑀲𑁇 (𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-1262. Paccanīyaṃ.
+1262. 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md) / [Go to parent page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md) / [Go to next page (10.5.3 Paccayānulomapaccanīya)](../../10.5.3.md)
+[Go to previous page (10.5.2.2 Saṅkhyāvāra)](/tipitaka/37P1/10/10.5/10.5.2/10.5.2.2.md) / [Go to parent page (10.5.2.2 Saṅkhyāvāra)](/tipitaka/37P1/10/10.5/10.5.2/10.5.2.2.md) / [Go to next page (10.5.3 Paccayānulomapaccanīya)](/tipitaka/37P1/10/10.5/10.5.3.md)
 
 

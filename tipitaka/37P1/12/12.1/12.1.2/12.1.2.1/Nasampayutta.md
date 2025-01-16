@@ -1,22 +1,22 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.1 Paṭiccavāra](../../../12.1.md) / [12.1.2 Paccayapaccanīya](../../12.1.2.md) / [12.1.2.1 Vibhaṅgavāra](../12.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.1 Paṭiccavāra](/tipitaka/37P1/12/12.1.md) / [12.1.2 Paccayapaccanīya](/tipitaka/37P1/12/12.1/12.1.2.md) / [12.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1.md)
 
-# Nasampayutta
+# 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
-### Sekkhattika
+### 𑀲𑁂𑀓𑁆𑀔𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Nasampayutta
+### 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
 (14.)
 
-1693. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nasampayuttapaccayā…pe… . (Naārammaṇapaccayasadisaṃ.)
+1693. 𑀲𑁂𑀓𑁆𑀔𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂… 𑁇 (𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Naāhārādi)](Naaharadi.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
+[Go to previous page (Naāhārādi)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Naaharadi.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.1/12.1.2/2.1.2.1.md) / [Go to next page (Navippayuttādi)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Navippayuttadi.md)
 
 

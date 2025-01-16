@@ -1,20 +1,20 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../../6.md) / [6.7 Pañhāvāra](../../../6.7.md) / [6.7.1 Paccayānuloma](../../6.7.1.md) / [6.7.1.2 Saṅkhyāvāra](../6.7.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md) / [6.7.1 Paccayānuloma](/tipitaka/36P1/6/6.7/6.7.1.md) / [6.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2.md)
 
-# Hetusabhāga
+# 𑀳𑁂𑀢𑀼𑀲𑀪𑀸𑀕
 
-### Saṃkiliṭṭhattika
+### 𑀲𑀁𑀓𑀺𑀮𑀺𑀝𑁆𑀞𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Hetusabhāga
+### 𑀳𑁂𑀢𑀼𑀲𑀪𑀸𑀕
 
-2909. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke cattāri, indriye cattāri, magge cattāri, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta.
+2909. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀫𑀕𑁆𑀕𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢𑁇
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (6.7.1.2 Saṅkhyāvāra)](../6.7.1.2.md) / [Go to next page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md)
+[Go to previous page (Suddha)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2/Suddha.md) / [Go to parent page (6.7.1.2 Saṅkhyāvāra)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2.md) / [Go to next page (Hetusāmaññaghaṭanā)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2/Hetusamannaghatana.md)
 
 

@@ -1,32 +1,32 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.11 Hetuduka, Sekkhattika](../../../../1.11.md) / [1.11.2 Asekkhapada](../../../1.11.2.md) / [1.11.2.1--6 Paṭiccādivāra](../../1.11.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.11 Hetuduka, Sekkhattika](/tipitaka/39P3/1/1.11.md) / [1.11.2 Asekkhapada](/tipitaka/39P3/1/1.11/1.11.2.md) / [1.11.2.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.11/1.11.2/1.11.2.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.11/1.11.2/1.11.2.1--6/Paccayacatukka.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Sekkhattika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀲𑁂𑀓𑁆𑀔𑀢𑁆𑀢𑀺𑀓
 
-### Asekkhapada
+### 𑀅𑀲𑁂𑀓𑁆𑀔𑀧𑀤
 
-### Paṭiccādivāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (338.)
 
-707. Hetuṃ asekkhaṃ dhammaṃ paṭicca hetu asekkho dhammo uppajjati hetupaccayā…  tīṇi.
+707. 𑀳𑁂𑀢𑀼𑀁 𑀅𑀲𑁂𑀓𑁆𑀔𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀅𑀲𑁂𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
 
-708. Nahetuṃ asekkhaṃ dhammaṃ paṭicca nahetu asakkho dhammo uppajjati hetupaccayā…  tīṇi.
+708. 𑀦𑀳𑁂𑀢𑀼𑀁 𑀅𑀲𑁂𑀓𑁆𑀔𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑀳𑁂𑀢𑀼 𑀅𑀲𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
 
-709. Hetuṃ asekkhañca nahetuṃ asekkhañca dhammaṃ paṭicca hetu asekkho dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+709. 𑀳𑁂𑀢𑀼𑀁 𑀅𑀲𑁂𑀓𑁆𑀔𑀜𑁆𑀘 𑀦𑀳𑁂𑀢𑀼𑀁 𑀅𑀲𑁂𑀓𑁆𑀔𑀜𑁆𑀘 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀅𑀲𑁂𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (339.)
 
-710. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+710. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑀯, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀓𑀫𑁆𑀫𑁂 𑀦𑀯, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Naadhipati)](Naadhipati.md)
+[Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.11/1.11.2/1.11.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.11/1.11.2/1.11.2.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/1/1.11/1.11.2/1.11.2.1--6/Paccayacatukka/Naadhipati.md)
 
 

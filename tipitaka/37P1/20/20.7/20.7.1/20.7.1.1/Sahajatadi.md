@@ -1,22 +1,22 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [20 Atītārammaṇattika](../../../../20.md) / [20.7 Pañhāvāra](../../../20.7.md) / [20.7.1 Paccayānuloma](../../20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](../20.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.7 Pañhāvāra](/tipitaka/37P1/20/20.7.md) / [20.7.1 Paccayānuloma](/tipitaka/37P1/20/20.7/20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md)
 
-# Sahajātādi
+# 𑀲𑀳𑀚𑀸𑀢𑀸𑀤𑀺
 
-### Atītārammaṇattika
+### 𑀅𑀢𑀻𑀢𑀸𑀭𑀫𑁆𑀫𑀡𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Sahajātādi
+### 𑀲𑀳𑀚𑀸𑀢𑀸𑀤𑀺
 
 (30.)
 
-2719. Atītārammaṇo dhammo atītārammaṇassa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo… . (Tayopi paccayā paṭiccavārasadisā.)
+2719. 𑀅𑀢𑀻𑀢𑀸𑀭𑀫𑁆𑀫𑀡𑁄 𑀥𑀫𑁆𑀫𑁄 𑀅𑀢𑀻𑀢𑀸𑀭𑀫𑁆𑀫𑀡𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄… 𑁇 (𑀢𑀬𑁄𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀸 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀸𑁇)
 
-[Go to previous page (Samanantara)](Samanantara.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
+[Go to previous page (Samanantara)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Samanantara.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Upanissaya.md)
 
 

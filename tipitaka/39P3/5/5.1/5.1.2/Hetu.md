@@ -1,26 +1,26 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [5 Saññojanagocchaka, Kusalattika](../../../5.md) / [5.1 Saññojanaduka, Kusalattika](../../5.1.md) / [5.1.2 Abyākatapada](../5.1.2.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.1 Saññojanaduka, Kusalattika](/tipitaka/39P3/5/5.1.md) / [5.1.2 Abyākatapada](/tipitaka/39P3/5/5.1/5.1.2.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Saññojanagocchaka, Kusalattika
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Saññojanaduka, Kusalattika
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Abyākatapada
+### 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀧𑀤
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (8.)
 
-1717. Nosaññojanaṃ abyākataṃ dhammaṃ paṭicca nosaññojano abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1717. 𑀦𑁄𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀁 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑁄𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑁄 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (9.)
 
-1718. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1718. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-1719. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1719. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀏𑀓𑀁𑁇)
 
-[Go to previous page (5.1.2 Abyākatapada)](../5.1.2.md) / [Go to parent page (5.1.2 Abyākatapada)](../5.1.2.md) / [Go to next page (5.2 Saññojaniyaduka, Kusalattika)](../../5.2.md)
+[Go to previous page (5.1.2 Abyākatapada)](/tipitaka/39P3/5/5.1/5.1.2.md) / [Go to parent page (5.1.2 Abyākatapada)](/tipitaka/39P3/5/5.1/5.1.2.md) / [Go to next page (5.2 Saññojaniyaduka, Kusalattika)](/tipitaka/39P3/5/5.2.md)
 
 

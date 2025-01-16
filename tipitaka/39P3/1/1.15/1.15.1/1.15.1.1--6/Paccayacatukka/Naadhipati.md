@@ -1,34 +1,34 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.15 Hetuduka, Micchattaniyatattika](../../../../1.15.md) / [1.15.1 Micchattaniyatapada](../../../1.15.1.md) / [1.15.1.1--6 Paṭiccādivāra](../../1.15.1.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.15 Hetuduka, Micchattaniyatattika](/tipitaka/39P3/1/1.15.md) / [1.15.1 Micchattaniyatapada](/tipitaka/39P3/1/1.15/1.15.1.md) / [1.15.1.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.1--6/Paccayacatukka.md)
 
-# Naadhipati
+# 𑀦𑀅𑀥𑀺𑀧𑀢𑀺
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Micchattaniyatattika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀢𑁆𑀢𑀺𑀓
 
-### Micchattaniyatapada
+### 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀧𑀤
 
-### Paṭiccādivāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Naadhipati
+### 𑀦𑀅𑀥𑀺𑀧𑀢𑀺
 
 (431.)
 
-936. Hetuṃ micchattaniyataṃ dhammaṃ paṭicca nahetu micchattaniyato dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+936. 𑀳𑁂𑀢𑀼𑀁 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑀳𑁂𑀢𑀼 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (432.)
 
-937. Naadhipatiyā tīṇi, napacchājāte nava, nakamme tīṇi, navipāke nava. (Saṃkhittaṃ.)
+937. 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-938. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+938. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀢𑀻𑀡𑀺𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-939. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
+939. 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑀻𑀡𑀺𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-940. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+940. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀸 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.15.1.7 Pañhāvāra)](../../1.15.1.7.md)
+[Go to previous page (Hetu-ārammaṇa)](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.1--6/Paccayacatukka/Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.1--6/Paccayacatukka.md) / [Go to next page (1.15.1.7 Pañhāvāra)](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.7.md)
 
 

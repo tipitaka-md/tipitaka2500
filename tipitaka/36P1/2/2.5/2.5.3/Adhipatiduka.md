@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../2.5.md) / [2.5.3 Paccayānulomapaccanīya](../2.5.3.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.5/2.5.3.md)
 
-# Adhipatiduka
+# 𑀅𑀥𑀺𑀧𑀢𑀺𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Adhipatiduka
+### 𑀅𑀥𑀺𑀧𑀢𑀺𑀤𑀼𑀓
 
 (235.)
 
-762. Adhipatipaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
+762. 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺𑁇
 
-* [Tikādi](Adhipatiduka/Tikadi.md)
+* [Tikādi](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi.md)
 
-[Go to previous page (Tika)](Arammanaduka/Tika.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Tikādi)](Adhipatiduka/Tikadi.md)
+[Go to previous page (Tika)](/tipitaka/36P1/2/2.5/2.5.3/Arammanaduka/Tika.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.5/2.5.3.md) / [Go to next page (Tikādi)](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi.md)
 
 

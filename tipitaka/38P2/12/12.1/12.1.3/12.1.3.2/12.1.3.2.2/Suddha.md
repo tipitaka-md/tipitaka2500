@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.3 Paccayavāra](../../../12.1.3.md) / [12.1.3.2 Paccayapaccanīya](../../12.1.3.2.md) / [12.1.3.2.2 Saṅkhyāvāra](../12.1.3.2.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.1 Kilesaduka](/tipitaka/38P2/12/12.1.md) / [12.1.3 Paccayavāra](/tipitaka/38P2/12/12.1/12.1.3.md) / [12.1.3.2 Paccayapaccanīya](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.2.md) / [12.1.3.2.2 Saṅkhyāvāra](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.2/12.1.3.2.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Kilesagocchaka
+### 𑀓𑀺𑀮𑁂𑀲𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Kilesaduka
+### 𑀓𑀺𑀮𑁂𑀲𑀤𑀼𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (14.)
 
-3847. Nahetuyā cattāri, naārammaṇe tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi, navipāke nava, naāhāre ekaṃ…pe…  novigate tīṇi.
+3847. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (12.1.3.2.2 Saṅkhyāvāra)](../12.1.3.2.2.md) / [Go to parent page (12.1.3.2.2 Saṅkhyāvāra)](../12.1.3.2.2.md) / [Go to next page (12.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../12.1.3.3--4.md)
+[Go to previous page (12.1.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.2/12.1.3.2.2.md) / [Go to parent page (12.1.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.2/12.1.3.2.2.md) / [Go to next page (12.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.3--4.md)
 
 

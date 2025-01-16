@@ -1,30 +1,30 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.1 Paṭiccavāra](../../../8.1.md) / [8.1.2 Paccayapaccanīya](../../8.1.2.md) / [8.1.2.1 Vibhaṅgavāra](../8.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.1 Paṭiccavāra](/tipitaka/37P1/8/8.1.md) / [8.1.2 Paccayapaccanīya](/tipitaka/37P1/8/8.1/8.1.2.md) / [8.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md)
 
-# Nakamma
+# 𑀦𑀓𑀫𑁆𑀫
 
-### Pītittika
+### 𑀧𑀻𑀢𑀺𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Nakamma
+### 𑀦𑀓𑀫𑁆𑀫
 
 (11.)
 
-664. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati nakammapaccayā—  pītisahagate khandhe paṭicca pītisahagatā cetanā.
+664. 𑀧𑀻𑀢𑀺𑀲𑀳𑀕𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀧𑀻𑀢𑀺𑀲𑀳𑀕𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸—  𑀧𑀻𑀢𑀺𑀲𑀳𑀕𑀢𑁂 𑀔𑀦𑁆𑀥𑁂 𑀧𑀝𑀺𑀘𑁆𑀘 𑀧𑀻𑀢𑀺𑀲𑀳𑀕𑀢𑀸 𑀘𑁂𑀢𑀦𑀸𑁇
 
-665. Pītisahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati nakammapaccayā—  pītisahagate khandhe paṭicca sukhasahagatā cetanā.
+665. 𑀧𑀻𑀢𑀺𑀲𑀳𑀕𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸—  𑀧𑀻𑀢𑀺𑀲𑀳𑀕𑀢𑁂 𑀔𑀦𑁆𑀥𑁂 𑀧𑀝𑀺𑀘𑁆𑀘 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑀸 𑀘𑁂𑀢𑀦𑀸𑁇
 
 ---
 
-666. (Iminā kāraṇena dasa pañhā vitthāretabbā.)
+666. (𑀇𑀫𑀺𑀦𑀸 𑀓𑀸𑀭𑀡𑁂𑀦 𑀤𑀲 𑀧𑀜𑁆𑀳𑀸 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
 
 
-[Go to previous page (Naadhipati-naāsevana)](Naadhipati-naasevana.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
+[Go to previous page (Naadhipati-naāsevana)](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Naadhipati-naasevana.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md) / [Go to next page (Navipāka)](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Navipaka.md)
 
 

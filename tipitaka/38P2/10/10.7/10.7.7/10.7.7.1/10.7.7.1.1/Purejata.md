@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.7 Cittasahabhūduka](../../../../10.7.md) / [10.7.7 Pañhāvāra](../../../10.7.7.md) / [10.7.7.1 Paccayānuloma](../../10.7.7.1.md) / [10.7.7.1.1 Vibhaṅgavāra](../10.7.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.7 Cittasahabhūduka](/tipitaka/38P2/10/10.7.md) / [10.7.7 Pañhāvāra](/tipitaka/38P2/10/10.7/10.7.7.md) / [10.7.7.1 Paccayānuloma](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1.md) / [10.7.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md)
 
-# Purejāta
+# 𑀧𑀼𑀭𑁂𑀚𑀸𑀢
 
-### Mahantaraduka
+### 𑀫𑀳𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Cittasahabhūduka
+### 𑀘𑀺𑀢𑁆𑀢𑀲𑀳𑀪𑀽𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Purejāta
+### 𑀧𑀼𑀭𑁂𑀚𑀸𑀢
 
 (261.)
 
-2960. Nocittasahabhū dhammo nocittasahabhussa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ…  tīṇi. (Nocittasahabhū mūlaṃyeva labbhati, cittasamuṭṭhānadukasadisā. Tīṇipi ninnānākaraṇaṃ.)
+2960. 𑀦𑁄𑀘𑀺𑀢𑁆𑀢𑀲𑀳𑀪𑀽 𑀥𑀫𑁆𑀫𑁄 𑀦𑁄𑀘𑀺𑀢𑁆𑀢𑀲𑀳𑀪𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀁, 𑀯𑀢𑁆𑀣𑀼𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀁…  𑀢𑀻𑀡𑀺𑁇 (𑀦𑁄𑀘𑀺𑀢𑁆𑀢𑀲𑀳𑀪𑀽 𑀫𑀽𑀮𑀁𑀬𑁂𑀯 𑀮𑀩𑁆𑀪𑀢𑀺, 𑀘𑀺𑀢𑁆𑀢𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀤𑀼𑀓𑀲𑀤𑀺𑀲𑀸𑁇 𑀢𑀻𑀡𑀺𑀧𑀺 𑀦𑀺𑀦𑁆𑀦𑀸𑀦𑀸𑀓𑀭𑀡𑀁𑁇)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
+[Go to previous page (Anantarādi)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Anantaradi.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md) / [Go to next page (Pacchājātāsevana)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Pacchajatasevana.md)
 
 

@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.3 Paccayavāra](../../2.3.md) / [2.3.3 Paccayānulomapaccanīya](../2.3.3.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.3/2.3.3.md)
 
-# Āhāraduka
+# 𑀆𑀳𑀸𑀭𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Āhāraduka
+### 𑀆𑀳𑀸𑀭𑀤𑀼𑀓
 
 (173.)
 
-609. Āhārapaccayā nahetuyā cattāri, naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme satta, navipāke sattarasa, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+609. 𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀧𑀜𑁆𑀘, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀏𑀓𑀁, 𑀦𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇
 
-* [Tika](Aharaduka/Tika.md)
+* [Tika](/tipitaka/36P1/2/2.3/2.3.3/Aharaduka/Tika.md)
 
-[Go to previous page (Tevīsaka)](Vipakaduka/Tevisaka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Tika)](Aharaduka/Tika.md)
+[Go to previous page (Tevīsaka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka/Tevisaka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.3/2.3.3.md) / [Go to next page (Tika)](/tipitaka/36P1/2/2.3/2.3.3/Aharaduka/Tika.md)
 
 

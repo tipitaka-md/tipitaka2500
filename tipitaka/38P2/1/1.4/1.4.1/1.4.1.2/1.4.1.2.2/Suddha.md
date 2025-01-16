@@ -1,30 +1,30 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.4 Hetusahetukaduka](../../../../1.4.md) / [1.4.1 Paṭiccavāra](../../../1.4.1.md) / [1.4.1.2 Paccayapaccanīya](../../1.4.1.2.md) / [1.4.1.2.2 Saṅkhyāvāra](../1.4.1.2.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.4 Hetusahetukaduka](/tipitaka/38P2/1/1.4.md) / [1.4.1 Paṭiccavāra](/tipitaka/38P2/1/1.4/1.4.1.md) / [1.4.1.2 Paccayapaccanīya](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.2.md) / [1.4.1.2.2 Saṅkhyāvāra](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.2/1.4.1.2.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Hetusahetukaduka
+### 𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (133.)
 
-369. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Evaṃ gaṇetabbaṃ.)
+369. 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯𑁇 (𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-370. Paccanīyaṃ.
+370. 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (1.4.1.2.2 Saṅkhyāvāra)](../1.4.1.2.2.md) / [Go to parent page (1.4.1.2.2 Saṅkhyāvāra)](../1.4.1.2.2.md) / [Go to next page (1.4.1.3 Paccayānulomapaccanīya)](../../1.4.1.3.md)
+[Go to previous page (1.4.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.2/1.4.1.2.2.md) / [Go to parent page (1.4.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.2/1.4.1.2.2.md) / [Go to next page (1.4.1.3 Paccayānulomapaccanīya)](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.3.md)
 
 

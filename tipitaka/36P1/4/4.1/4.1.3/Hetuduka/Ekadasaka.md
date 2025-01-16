@@ -1,28 +1,28 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.1 Paṭiccavāra](../../../4.1.md) / [4.1.3 Paccayānulomapaccanīya](../../4.1.3.md) / [Hetuduka](../Hetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.1 Paṭiccavāra](/tipitaka/36P1/4/4.1.md) / [4.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/4/4.1/4.1.3.md) / [Hetuduka](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka.md)
 
-# Ekādasaka
+# 𑀏𑀓𑀸𑀤𑀲𑀓
 
-### Vipākattika
+### 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Ekādasaka
+### 𑀏𑀓𑀸𑀤𑀲𑀓
 
-2151. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā (mūlakaṃ saṃkhittaṃ) purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve. (Saṃkhittaṃ.)
+2151. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸 (𑀫𑀽𑀮𑀓𑀁 𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁) 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀤𑁆𑀯𑁂𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-2152. (Yathā kusalattike anulomapaccanīyagaṇanā gaṇitā, evaṃ gaṇetabbaṃ.)
+2152. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀕𑀡𑀦𑀸 𑀕𑀡𑀺𑀢𑀸, 𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-2153. Anulomapaccanīyaṃ.
+2153. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (4.1.4 Paccayapaccanīyānuloma)](../../4.1.4.md)
+[Go to previous page (Catukka)](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka/Catukka.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka.md) / [Go to next page (4.1.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/4/4.1/4.1.4.md)
 
 

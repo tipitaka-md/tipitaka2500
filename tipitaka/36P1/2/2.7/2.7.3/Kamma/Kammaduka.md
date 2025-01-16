@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Kamma](../Kamma.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Kamma](/tipitaka/36P1/2/2.7/2.7.3/Kamma.md)
 
-# Kammaduka
+# 𑀓𑀫𑁆𑀫𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Kamma
+### 𑀓𑀫𑁆𑀫
 
-### Kammaduka
+### 𑀓𑀫𑁆𑀫𑀤𑀼𑀓
 
 (447.)
 
-1411. Kammapaccayā nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte dve, naaññamaññe tīṇi, nanissaye dve, naupanissaye satta, napurejāte satta, napacchājāte satta, naāsevane satta, navipāke satta, naāhāre dve, naindriye satta, najhāne satta, namagge satta, nasampayutte tīṇi, navippayutte pañca, noatthiyā dve, nonatthiyā satta, novigate satta, noavigate dve. (23)
+1411. 𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀲𑀳𑀚𑀸𑀢𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀤𑁆𑀯𑁂, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀤𑁆𑀯𑁂, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀛𑀸𑀦𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀤𑁆𑀯𑁂𑁇 (𑁨𑁩)
 
-[Go to previous page (Kamma)](../Kamma.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Kammapakiṇṇakaghaṭanā)](Kammapakinnakaghatana.md)
+[Go to previous page (Kamma)](/tipitaka/36P1/2/2.7/2.7.3/Kamma.md) / [Go to parent page (Kamma)](/tipitaka/36P1/2/2.7/2.7.3/Kamma.md) / [Go to next page (Kammapakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Kamma/Kammapakinnakaghatana.md)
 
 

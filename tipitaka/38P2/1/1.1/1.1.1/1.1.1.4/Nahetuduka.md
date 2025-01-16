@@ -1,28 +1,28 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [1 Hetugocchaka](../../../../1.md) / [1.1 Hetuduka](../../../1.1.md) / [1.1.1 Paṭiccavāra](../../1.1.1.md) / [1.1.1.4 Paccayapaccanīyānuloma](../1.1.1.4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.1 Paṭiccavāra](/tipitaka/38P2/1/1.1/1.1.1.md) / [1.1.1.4 Paccayapaccanīyānuloma](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.4.md)
 
-# Nahetuduka
+# 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Nahetuduka
+### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (16.)
 
-38. Nahetupaccayā ārammaṇe dve, anantare dve…pe…  kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve…pe…  avigate dve.
+38. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀤𑁆𑀯𑁂, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀤𑁆𑀯𑁂…𑀧𑁂…  𑀓𑀫𑁆𑀫𑁂 𑀤𑁆𑀯𑁂, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁, 𑀆𑀳𑀸𑀭𑁂 𑀤𑁆𑀯𑁂, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀤𑁆𑀯𑁂, 𑀛𑀸𑀦𑁂 𑀤𑁆𑀯𑁂, 𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀤𑁆𑀯𑁂…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀤𑁆𑀯𑁂𑁇
 
 ---
 
-39. Paccanīyānulomaṃ.
+39. 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
 
 
-[Go to previous page (1.1.1.4 Paccayapaccanīyānuloma)](../1.1.1.4.md) / [Go to parent page (1.1.1.4 Paccayapaccanīyānuloma)](../1.1.1.4.md) / [Go to next page (1.1.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../1.1.2--6.md)
+[Go to previous page (1.1.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.4.md) / [Go to parent page (1.1.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.4.md) / [Go to next page (1.1.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](/tipitaka/38P2/1/1.1/1.1.2--6.md)
 
 

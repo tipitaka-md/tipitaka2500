@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.7 Pañhāvāra](/tipitaka/38P2/2/2.4/2.4.7.md) / [2.4.7.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md)
 
-# Anantara
+# 𑀅𑀦𑀦𑁆𑀢𑀭
 
-### Cūḷantaraduka
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Sappaṭighaduka
+### 𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Anantara
+### 𑀅𑀦𑀦𑁆𑀢𑀭
 
 (71.)
 
-706. Appaṭigho dhammo appaṭighassa dhammassa anantarapaccayena paccayo—  purimā purimā appaṭighā khandhā…pe…  phalasamāpattiyā anantarapaccayena paccayo.
+706. 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑁄 𑀥𑀫𑁆𑀫𑁄 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀧𑀼𑀭𑀺𑀫𑀸 𑀧𑀼𑀭𑀺𑀫𑀸 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑀸 𑀔𑀦𑁆𑀥𑀸…𑀧𑁂…  𑀨𑀮𑀲𑀫𑀸𑀧𑀢𑁆𑀢𑀺𑀬𑀸 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
+[Go to previous page (Adhipati)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Adhipati.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page (Samanantara)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Samanantara.md)
 
 

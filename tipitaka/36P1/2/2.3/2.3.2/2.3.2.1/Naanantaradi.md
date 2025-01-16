@@ -1,28 +1,28 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.2 Paccayapaccanīya](../../2.3.2.md) / [2.3.2.1 Vibhaṅgavāra](../2.3.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.2 Paccayapaccanīya](/tipitaka/36P1/2/2.3/2.3.2.md) / [2.3.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1.md)
 
-# Naanantarādi
+# 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Naanantarādi
+### 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
 (145.)
 
-525. Kusalaṃ dhammaṃ paccayā abyākato dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā.
+525. 𑀓𑀼𑀲𑀮𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀘𑁆𑀘𑀬𑀸 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸𑁇
 
 ---
 
-526. (Yathā paṭiccavāre, evaṃ vitthāretabbaṃ.)
+526. (𑀬𑀣𑀸 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑁂, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
+[Go to previous page (Naadhipati)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Naadhipati.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1.md) / [Go to next page (Napacchājātādi)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.1/Napacchajatadi.md)
 
 

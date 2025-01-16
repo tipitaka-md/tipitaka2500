@@ -1,37 +1,37 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [1 Hetugocchaka](../../../../1.md) / [1.6 Nahetusahetukaduka](../../../1.6.md) / [1.6.7 Pañhāvāra](../../1.6.7.md) / [1.6.7.4 Paccayapaccanīyānuloma](../1.6.7.4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.4 Paccayapaccanīyānuloma](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.4.md)
 
-# Nahetuduka
+# 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Nahetusahetukaduka
+### 𑀦𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Nahetuduka
+### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (201.)
 
-542. Nahetupaccayā ārammaṇe cattāri, adhipatiyā cattāri…pe…  avigate satta.
+542. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢𑁇
 
 ---
 
-543. Paccanīyānulomaṃ.
+543. 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
   
-Nahetusahetukadukaṃ niṭṭhitaṃ.
+𑀦𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓𑀁 𑀦𑀺𑀝𑁆𑀞𑀺𑀢𑀁𑁇
 
 
 
 ---
 
-544. Hetugocchakaṃ niṭṭhitaṃ.
+544. 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓𑀁 𑀦𑀺𑀝𑁆𑀞𑀺𑀢𑀁𑁇
 
 
 
-[Go to previous page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md) / [Go to parent page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md) / [Go to next page (2 Cūḷantaraduka)](../../../../2.md)
+[Go to previous page (1.6.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.4.md) / [Go to parent page (1.6.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.4.md) / [Go to next page (2 Cūḷantaraduka)](/tipitaka/38P2/2.md)
 
 

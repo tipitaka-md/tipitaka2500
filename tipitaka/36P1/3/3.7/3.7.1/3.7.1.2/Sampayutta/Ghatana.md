@@ -1,30 +1,30 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.7 Pañhāvāra](../../../../3.7.md) / [3.7.1 Paccayānuloma](../../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../../3.7.1.2.md) / [Sampayutta](../Sampayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2.md) / [Sampayutta](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta.md)
 
-# Ghaṭanā
+# 𑀖𑀝𑀦𑀸
 
-### Vedanāttika
+### 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Sampayutta
+### 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
-### Ghaṭanā
+### 𑀖𑀝𑀦𑀸
 
-2003. Sampayutta sahajāta aññamañña nissaya atthi avigatanti tīṇi. Sampayutta sahajāta aññamañña nissaya vipāka atthi avigatanti tīṇi.
+2003. 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀲𑀳𑀚𑀸𑀢 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜 𑀦𑀺𑀲𑁆𑀲𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀲𑀳𑀚𑀸𑀢 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜 𑀦𑀺𑀲𑁆𑀲𑀬 𑀯𑀺𑀧𑀸𑀓 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇
 
-2004. (Atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā…pe… .)
+2004. (𑀅𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸…  𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸…  𑀅𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂… 𑁇)
 
 ---
 
-2005. Pañhāvārassa anulomaṃ.
+2005. 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀲𑁆𑀲 𑀅𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
 
 
-[Go to previous page (Sampayuttasabhāga)](Sampayuttasabhaga.md) / [Go to parent page (Sampayutta)](../Sampayutta.md) / [Go to next page (Paccanīyuddhāra)](../../../Paccaniyuddhara.md)
+[Go to previous page (Sampayuttasabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta/Sampayuttasabhaga.md) / [Go to parent page (Sampayutta)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/36P1/3/3.7/Paccaniyuddhara.md)
 
 

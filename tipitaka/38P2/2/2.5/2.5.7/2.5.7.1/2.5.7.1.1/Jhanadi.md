@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.7 Pañhāvāra](../../../2.5.7.md) / [2.5.7.1 Paccayānuloma](../../2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](../2.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md)
 
-# Jhānādi
+# 𑀛𑀸𑀦𑀸𑀤𑀺
 
-### Cūḷantaraduka
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Rūpīduka
+### 𑀭𑀽𑀧𑀻𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Jhānādi
+### 𑀛𑀸𑀦𑀸𑀤𑀺
 
 (123.)
 
-826. Arūpī dhammo arūpissa dhammassa jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  ekaṃ.
+826. 𑀅𑀭𑀽𑀧𑀻 𑀥𑀫𑁆𑀫𑁄 𑀅𑀭𑀽𑀧𑀺𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀛𑀸𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺…  𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀏𑀓𑀁𑁇
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
+[Go to previous page (Indriya)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Indriya.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Vippayutta.md)
 
 

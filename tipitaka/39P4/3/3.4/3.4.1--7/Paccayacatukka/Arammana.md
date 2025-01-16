@@ -1,30 +1,30 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../3.md) / [3.4 Kusalattika, Sappaṭighaduka](../../../3.4.md) / [3.4.1--7 Paṭiccādivāra](../../3.4.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.4 Kusalattika, Sappaṭighaduka](/tipitaka/39P4/3/3.4.md) / [3.4.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.4/3.4.1--7.md) / [Paccayacatukka](/tipitaka/39P4/3/3.4/3.4.1--7/Paccayacatukka.md)
 
-# Ārammaṇa
+# 𑀆𑀭𑀫𑁆𑀫𑀡
 
-### Kusalattika, Cūḷantaraduka
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Kusalattika, Sappaṭighaduka
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑀤𑀼𑀓
 
-### Paṭiccādivāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Ārammaṇa
+### 𑀆𑀭𑀫𑁆𑀫𑀡
 
 (19.)
 
-1146. Kusalaṃ appaṭighaṃ dhammaṃ paṭicca kusalo appaṭigho dhammo uppajjati ārammaṇapaccayā. (1)
+1146. 𑀓𑀼𑀲𑀮𑀁 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀓𑀼𑀲𑀮𑁄 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑁧)
 
-1147. Akusalaṃ appaṭighaṃ dhammaṃ paṭicca akusalo appaṭigho dhammo uppajjati ārammaṇapaccayā. (1)
+1147. 𑀅𑀓𑀼𑀲𑀮𑀁 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀅𑀓𑀼𑀲𑀮𑁄 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑁧)
 
-1148. Abyākataṃ appaṭighaṃ dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+1148. 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑁧) (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (20.)
 
-1149. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+1149. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
+[Go to previous page (Hetu)](/tipitaka/39P4/3/3.4/3.4.1--7/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/3/3.4/3.4.1--7/Paccayacatukka.md) / [Go to next page (Paccanīya)](/tipitaka/39P4/3/3.4/3.4.1--7/Paccaniya.md)
 
 

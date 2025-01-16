@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.7 Pañhāvāra](../../../4.3.7.md) / [4.3.7.1 Paccayānuloma](../../4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](../4.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.7 Pañhāvāra](/tipitaka/38P2/4/4.3/4.3.7.md) / [4.3.7.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md)
 
-# Vipāka
+# 𑀯𑀺𑀧𑀸𑀓
 
-### Saññojanagocchaka
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Saññojanasampayuttaduka
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Vipāka
+### 𑀯𑀺𑀧𑀸𑀓
 
 (84.)
 
-1527. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa vipākapaccayena paccayo…  ekaṃ.
+1527. 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀏𑀓𑀁𑁇
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
+[Go to previous page (Kamma)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Kamma.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page (Āhārādi)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Aharadi.md)
 
 

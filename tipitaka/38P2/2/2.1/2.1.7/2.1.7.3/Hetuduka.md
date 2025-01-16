@@ -1,28 +1,28 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../2.md) / [2.1 Sappaccayaduka](../../../2.1.md) / [2.1.7 Pañhāvāra](../../2.1.7.md) / [2.1.7.3 Paccayānulomapaccanīya](../2.1.7.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.1 Sappaccayaduka](/tipitaka/38P2/2/2.1.md) / [2.1.7 Pañhāvāra](/tipitaka/38P2/2/2.1/2.1.7.md) / [2.1.7.3 Paccayānulomapaccanīya](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.3.md)
 
-# Hetuduka
+# 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Cūḷantaraduka
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Sappaccayaduka
+### 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (15.)
 
-572. Hetupaccayā naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ…pe…  nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+572. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀏𑀓𑀁, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀏𑀓𑀁, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀏𑀓𑀁, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀏𑀓𑀁, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀏𑀓𑀁, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-573. Anulomapaccanīyaṃ.
+573. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (2.1.7.3 Paccayānulomapaccanīya)](../2.1.7.3.md) / [Go to parent page (2.1.7.3 Paccayānulomapaccanīya)](../2.1.7.3.md) / [Go to next page (2.1.7.4 Paccayapaccanīyānuloma)](../2.1.7.4.md)
+[Go to previous page (2.1.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.3.md) / [Go to parent page (2.1.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.3.md) / [Go to next page (2.1.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.4.md)
 
 

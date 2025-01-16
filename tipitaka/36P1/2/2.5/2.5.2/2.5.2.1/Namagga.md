@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.2 Paccayapaccanīya](../../2.5.2.md) / [2.5.2.1 Vibhaṅgavāra](../2.5.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.2 Paccayapaccanīya](/tipitaka/36P1/2/2.5/2.5.2.md) / [2.5.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md)
 
-# Namagga
+# 𑀦𑀫𑀕𑁆𑀕
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Namagga
+### 𑀦𑀫𑀕𑁆𑀕
 
 (221.)
 
-724. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati namaggapaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe…pe… . (1)
+724. 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀲𑀁𑀲𑀝𑁆𑀞𑁄 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑀸—  𑀅𑀳𑁂𑀢𑀼𑀓𑀁 𑀯𑀺𑀧𑀸𑀓𑀸𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀓𑀺𑀭𑀺𑀬𑀸𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀏𑀓𑀁 𑀔𑀦𑁆𑀥𑀁 𑀲𑀁𑀲𑀝𑁆𑀞𑀸 𑀢𑀬𑁄 𑀔𑀦𑁆𑀥𑀸…𑀧𑁂…  𑀤𑁆𑀯𑁂 𑀔𑀦𑁆𑀥𑁂 𑀲𑀁𑀲𑀝𑁆𑀞𑀸 𑀤𑁆𑀯𑁂 𑀔𑀦𑁆𑀥𑀸; 𑀅𑀳𑁂𑀢𑀼𑀓𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺𑀓𑁆𑀔𑀡𑁂…𑀧𑁂… 𑁇 (𑁧)
 
-[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](../2.5.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
+[Go to previous page (Najhāna)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Najhana.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page (Navippayutta)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Navippayutta.md)
 
 

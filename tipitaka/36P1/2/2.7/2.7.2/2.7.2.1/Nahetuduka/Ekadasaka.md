@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../../2.7.2.1.md) / [Nahetuduka](../Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Nahetuduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka.md)
 
-# Ekādasaka
+# 𑀏𑀓𑀸𑀤𑀲𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Nahetuduka
+### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Ekādasaka
+### 𑀏𑀓𑀸𑀤𑀲𑀓
 
-1182. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissayapaccayā napurejātapaccayā napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre pañca, naindriye pañca, najhāne pañca, namagge pañca, nasampayutte pañca, navippayutte tīṇi, noatthiyā dve, nonatthiyā pañca, novigate pañca, noavigate dve.
+1182. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀛𑀸𑀦𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀤𑁆𑀯𑁂𑁇
 
-[Go to previous page (Dasaka)](Dasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
+[Go to previous page (Dasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Dasaka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka.md) / [Go to next page (Dvādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Dvadasaka.md)
 
 

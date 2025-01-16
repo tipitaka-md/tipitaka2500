@@ -1,32 +1,32 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.7 Pañhāvāra](../../2.7.md) / [2.7.4 Paccayapaccanīyānuloma](../2.7.4.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md)
 
-# Novigataduka
+# 𑀦𑁄𑀯𑀺𑀕𑀢𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Novigataduka
+### 𑀦𑁄𑀯𑀺𑀕𑀢𑀤𑀼𑀓
 
 (516.)
 
-1789. Novigatapaccayā hetuyā satta…pe…  avigate terasa.
+1789. 𑀦𑁄𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀲𑀢𑁆𑀢…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇
 
 ---
 
-1790. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+1790. (𑀬𑀣𑀸 𑀦𑀳𑁂𑀢𑀼𑀫𑀽𑀮𑀓𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 
 
 ---
 
-1791. Novigatamūlakaṃ.
+1791. 𑀦𑁄𑀯𑀺𑀕𑀢𑀫𑀽𑀮𑀓𑀁𑁇
 
 
 
-[Go to previous page (Nonatthiduka)](Nonatthiduka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Noavigataduka)](Noavigataduka.md)
+[Go to previous page (Nonatthiduka)](/tipitaka/36P1/2/2.7/2.7.4/Nonatthiduka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.7/2.7.4.md) / [Go to next page (Noavigataduka)](/tipitaka/36P1/2/2.7/2.7.4/Noavigataduka.md)
 
 

@@ -1,22 +1,22 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [2 Cūḷantaraduka](../../../2.md) / [2.1 Sappaccayaduka](../../2.1.md) / [2.1.7 Pañhāvāra](../2.1.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.1 Sappaccayaduka](/tipitaka/38P2/2/2.1.md) / [2.1.7 Pañhāvāra](/tipitaka/38P2/2/2.1/2.1.7.md)
 
-# Paccanīyuddhāra
+# 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
-### Cūḷantaraduka
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Sappaccayaduka
+### 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccanīyuddhāra
+### 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
 (13.)
 
-568. Sappaccayo dhammo sappaccayassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
+568. 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑁄 𑀥𑀫𑁆𑀫𑁄 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁧)
 
-569. Appaccayo dhammo sappaccayassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (1)
+569. 𑀅𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑁄 𑀥𑀫𑁆𑀫𑁄 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁧)
 
-[Go to previous page (Suddha)](2.1.7.1/2.1.7.1.2/Suddha.md) / [Go to parent page (2.1.7 Pañhāvāra)](../2.1.7.md) / [Go to next page (2.1.7.2 Paccayapaccanīya)](2.1.7.2.md)
+[Go to previous page (Suddha)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.1/2.1.7.1.2/Suddha.md) / [Go to parent page (2.1.7 Pañhāvāra)](/tipitaka/38P2/2/2.1/2.1.7.md) / [Go to next page (2.1.7.2 Paccayapaccanīya)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.2.md)
 
 

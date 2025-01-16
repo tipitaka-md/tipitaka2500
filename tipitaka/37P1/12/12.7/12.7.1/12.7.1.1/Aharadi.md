@@ -1,22 +1,22 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.7 Pañhāvāra](../../../12.7.md) / [12.7.1 Paccayānuloma](../../12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](../12.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
 
-# Āhārādi
+# 𑀆𑀳𑀸𑀭𑀸𑀤𑀺
 
-### Sekkhattika
+### 𑀲𑁂𑀓𑁆𑀔𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Āhārādi
+### 𑀆𑀳𑀸𑀭𑀸𑀤𑀺
 
 (63.)
 
-1827. Sekkho dhammo sekkhassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…pe… .
+1827. 𑀲𑁂𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀲𑁂𑀓𑁆𑀔𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀛𑀸𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…𑀧𑁂… 𑁇
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../12.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
+[Go to previous page (Vipāka)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Vipaka.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Vippayutta.md)
 
 

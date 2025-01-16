@@ -1,28 +1,28 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [2 Hetugocchaka, Kusalattika](../../../../../2.md) / [2.5 Hetuhetusampayuttaduka, Kusalattika](../../../../2.5.md) / [2.5.1 Kusalapada](../../../2.5.1.md) / [2.5.1.7 Pañhāvāra](../../2.5.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [2 Hetugocchaka, Kusalattika](/tipitaka/39P3/2.md) / [2.5 Hetuhetusampayuttaduka, Kusalattika](/tipitaka/39P3/2/2.5.md) / [2.5.1 Kusalapada](/tipitaka/39P3/2/2.5/2.5.1.md) / [2.5.1.7 Pañhāvāra](/tipitaka/39P3/2/2.5/2.5.1/2.5.1.7.md) / [Paccayacatukka](/tipitaka/39P3/2/2.5/2.5.1/2.5.1.7/Paccayacatukka.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Hetugocchaka, Kusalattika
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Hetuhetusampayuttaduka, Kusalattika
+### 𑀳𑁂𑀢𑀼𑀳𑁂𑀢𑀼𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Kusalapada
+### 𑀓𑀼𑀲𑀮𑀧𑀤
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (75.)
 
-1414. Hetu ceva hetusampayutto ca kusalo dhammo hetussa ceva hetusampayuttassa ca kusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1414. 𑀳𑁂𑀢𑀼 𑀘𑁂𑀯 𑀳𑁂𑀢𑀼𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀘 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀘𑁂𑀯 𑀳𑁂𑀢𑀼𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀲𑁆𑀲 𑀘 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (76.)
 
-1415. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava…pe…  āsevane nava, kamme tīṇi, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1415. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯…𑀧𑁂…  𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀆𑀳𑀸𑀭𑁂 𑀢𑀻𑀡𑀺, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀦𑀯, 𑀛𑀸𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀫𑀕𑁆𑀕𑁂 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
+[Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.1/2.5.1.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.1/2.5.1.7/Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/2/2.5/2.5.1/2.5.1.7/Paccaniyuddhara.md)
 
 

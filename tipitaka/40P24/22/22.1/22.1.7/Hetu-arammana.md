@@ -1,24 +1,24 @@
 
-[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](../../../../40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](../../../22.md) / [22.1 Sauttarapada](../../22.1.md) / [22.1.7 Pañhāvāra](../22.1.7.md)
+[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](/tipitaka/40P24/22.md) / [22.1 Sauttarapada](/tipitaka/40P24/22/22.1.md) / [22.1.7 Pañhāvāra](/tipitaka/40P24/22/22.1/22.1.7.md)
 
-# Hetu-ārammaṇa
+# 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
-### Saraṇaduka, Piṭṭhiduka
+### 𑀲𑀭𑀡𑀤𑀼𑀓, 𑀧𑀺𑀝𑁆𑀞𑀺𑀤𑀼𑀓
 
-### Sauttarapada
+### 𑀲𑁅𑀢𑁆𑀢𑀭𑀧𑀤
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Hetu-ārammaṇa
+### 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
 (88.)
 
-185. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa hetupaccayena paccayo…  ekaṃ.
+185. 𑀦𑀲𑀭𑀡𑁄 𑀦𑀲𑁅𑀢𑁆𑀢𑀭𑁄 𑀥𑀫𑁆𑀫𑁄 𑀅𑀭𑀡𑀲𑁆𑀲 𑀲𑁅𑀢𑁆𑀢𑀭𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀏𑀓𑀁𑁇
 
-186. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa ārammaṇapaccayena paccayo…  ekaṃ. (Saṃkhittaṃ.)
+186. 𑀦𑀲𑀭𑀡𑁄 𑀦𑀲𑁅𑀢𑁆𑀢𑀭𑁄 𑀥𑀫𑁆𑀫𑁄 𑀅𑀭𑀡𑀲𑁆𑀲 𑀲𑁅𑀢𑁆𑀢𑀭𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-187. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate ekaṃ.
+187. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇
 
-[Go to previous page (22.1.7 Pañhāvāra)](../22.1.7.md) / [Go to parent page (22.1.7 Pañhāvāra)](../22.1.7.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
+[Go to previous page (22.1.7 Pañhāvāra)](/tipitaka/40P24/22/22.1/22.1.7.md) / [Go to parent page (22.1.7 Pañhāvāra)](/tipitaka/40P24/22/22.1/22.1.7.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/40P24/22/22.1/22.1.7/Paccaniyuddhara.md)
 
 

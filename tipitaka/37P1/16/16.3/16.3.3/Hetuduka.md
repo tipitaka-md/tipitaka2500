@@ -1,26 +1,26 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [16 Micchattaniyatattika](../../../16.md) / [16.3 Paccayavāra](../../16.3.md) / [16.3.3 Paccayānulomapaccanīya](../16.3.3.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.3 Paccayavāra](/tipitaka/37P1/16/16.3.md) / [16.3.3 Paccayānulomapaccanīya](/tipitaka/37P1/16/16.3/16.3.3.md)
 
-# Hetuduka
+# 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Micchattaniyatattika
+### 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀢𑁆𑀢𑀺𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (24.)
 
-2314. Hetupaccayā naārammaṇe pañca, naadhipatiyā satta, naanantare pañca, nasamanantare naaññamaññe naupanissaye pañca, napurejāte cha, napacchājāte sattarasa, naāsevane pañca, nakamme satta, navipāke sattarasa, nasampayutte pañca, navippayutte dve, nonatthiyā pañca, novigate pañca. (Evaṃ gaṇetabbaṃ.)
+2314. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀙, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀤𑁆𑀯𑁂, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇 (𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-2315. Anulomapaccanīyaṃ.
+2315. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (16.3.3 Paccayānulomapaccanīya)](../16.3.3.md) / [Go to parent page (16.3.3 Paccayānulomapaccanīya)](../16.3.3.md) / [Go to next page (16.3.4 Paccayapaccanīyānuloma)](../16.3.4.md)
+[Go to previous page (16.3.3 Paccayānulomapaccanīya)](/tipitaka/37P1/16/16.3/16.3.3.md) / [Go to parent page (16.3.3 Paccayānulomapaccanīya)](/tipitaka/37P1/16/16.3/16.3.3.md) / [Go to next page (16.3.4 Paccayapaccanīyānuloma)](/tipitaka/37P1/16/16.3/16.3.4.md)
 
 

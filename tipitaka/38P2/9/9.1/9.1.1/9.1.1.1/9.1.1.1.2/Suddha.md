@@ -1,30 +1,30 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.1 Parāmāsaduka](../../../../9.1.md) / [9.1.1 Paṭiccavāra](../../../9.1.1.md) / [9.1.1.1 Paccayānuloma](../../9.1.1.1.md) / [9.1.1.1.2 Saṅkhyāvāra](../9.1.1.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.1 Paṭiccavāra](/tipitaka/38P2/9/9.1/9.1.1.md) / [9.1.1.1 Paccayānuloma](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.1.md) / [9.1.1.1.2 Saṅkhyāvāra](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.1/9.1.1.1.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Parāmāsagocchaka
+### 𑀧𑀭𑀸𑀫𑀸𑀲𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Parāmāsaduka
+### 𑀧𑀭𑀸𑀫𑀸𑀲𑀤𑀼𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (4.)
 
-2134. Hetuyā pañca, ārammaṇe pañca (sabbattha pañca), vipāke ekaṃ…pe…  avigate pañca.
+2134. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀧𑀜𑁆𑀘), 𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇
 
 ---
 
-2135. Anulomaṃ.
+2135. 𑀅𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
 
 
-[Go to previous page (9.1.1.1.2 Saṅkhyāvāra)](../9.1.1.1.2.md) / [Go to parent page (9.1.1.1.2 Saṅkhyāvāra)](../9.1.1.1.2.md) / [Go to next page (9.1.1.2 Paccayapaccanīya)](../../9.1.1.2.md)
+[Go to previous page (9.1.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.1/9.1.1.1.2.md) / [Go to parent page (9.1.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.1/9.1.1.1.2.md) / [Go to next page (9.1.1.2 Paccayapaccanīya)](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.2.md)
 
 

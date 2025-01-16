@@ -1,26 +1,26 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Adhipati](../Adhipati.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Adhipati](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati.md)
 
-# Cittādhipatighaṭanā
+# 𑀘𑀺𑀢𑁆𑀢𑀸𑀥𑀺𑀧𑀢𑀺𑀖𑀝𑀦𑀸
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Adhipati
+### 𑀅𑀥𑀺𑀧𑀢𑀺
 
-### Cittādhipatighaṭanā
+### 𑀘𑀺𑀢𑁆𑀢𑀸𑀥𑀺𑀧𑀢𑀺𑀖𑀝𑀦𑀸
 
 (314.)
 
-1024. Adhipati sahajāta nissaya āhāra indriya atthi avigatanti satta. Adhipati sahajāta aññamañña nissaya āhāra indriya sampayutta atthi avigatanti tīṇi. Adhipati sahajāta nissaya āhāra indriya vippayutta atthi avigatanti tīṇi. [Avipāka—  3]
+1024. 𑀅𑀥𑀺𑀧𑀢𑀺 𑀲𑀳𑀚𑀸𑀢 𑀦𑀺𑀲𑁆𑀲𑀬 𑀆𑀳𑀸𑀭 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀲𑀢𑁆𑀢𑁇 𑀅𑀥𑀺𑀧𑀢𑀺 𑀲𑀳𑀚𑀸𑀢 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜 𑀦𑀺𑀲𑁆𑀲𑀬 𑀆𑀳𑀸𑀭 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇 𑀅𑀥𑀺𑀧𑀢𑀺 𑀲𑀳𑀚𑀸𑀢 𑀦𑀺𑀲𑁆𑀲𑀬 𑀆𑀳𑀸𑀭 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇 [𑀅𑀯𑀺𑀧𑀸𑀓—  𑁩]
 
-1025. Adhipati sahajāta nissaya vipāka āhāra indriya atthi avigatanti ekaṃ. Adhipati sahajāta aññamañña nissaya vipāka āhāra indriya sampayutta atthi avigatanti ekaṃ. Adhipati sahajāta nissaya vipāka āhāra indriya vippayutta atthi avigatanti ekaṃ. [Savipāka—  3]
+1025. 𑀅𑀥𑀺𑀧𑀢𑀺 𑀲𑀳𑀚𑀸𑀢 𑀦𑀺𑀲𑁆𑀲𑀬 𑀯𑀺𑀧𑀸𑀓 𑀆𑀳𑀸𑀭 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀏𑀓𑀁𑁇 𑀅𑀥𑀺𑀧𑀢𑀺 𑀲𑀳𑀚𑀸𑀢 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜 𑀦𑀺𑀲𑁆𑀲𑀬 𑀯𑀺𑀧𑀸𑀓 𑀆𑀳𑀸𑀭 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀏𑀓𑀁𑁇 𑀅𑀥𑀺𑀧𑀢𑀺 𑀲𑀳𑀚𑀸𑀢 𑀦𑀺𑀲𑁆𑀲𑀬 𑀯𑀺𑀧𑀸𑀓 𑀆𑀳𑀸𑀭 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀏𑀓𑀁𑁇 [𑀲𑀯𑀺𑀧𑀸𑀓—  𑁩]
 
-[Go to previous page (Sahajātachandādhipatighaṭanā)](Sahajatachandadhipatighatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Vīriyādhipatighaṭanā)](Viriyadhipatighatana.md)
+[Go to previous page (Sahajātachandādhipatighaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Sahajatachandadhipatighatana.md) / [Go to parent page (Adhipati)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati.md) / [Go to next page (Vīriyādhipatighaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Viriyadhipatighatana.md)
 
 

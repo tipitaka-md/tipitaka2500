@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.6 Cittasamuṭṭhānaduka](../../../../10.6.md) / [10.6.3 Paccayavāra](../../../10.6.3.md) / [10.6.3.1 Paccayānuloma](../../10.6.3.1.md) / [10.6.3.1.2 Saṅkhyāvāra](../10.6.3.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.6 Cittasamuṭṭhānaduka](/tipitaka/38P2/10/10.6.md) / [10.6.3 Paccayavāra](/tipitaka/38P2/10/10.6/10.6.3.md) / [10.6.3.1 Paccayānuloma](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.1.md) / [10.6.3.1.2 Saṅkhyāvāra](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.1/10.6.3.1.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Mahantaraduka
+### 𑀫𑀳𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Cittasamuṭṭhānaduka
+### 𑀘𑀺𑀢𑁆𑀢𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀤𑀼𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (205.)
 
-2820. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), avigate nava.
+2820. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯), 𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
 
-[Go to previous page (10.6.3.1.2 Saṅkhyāvāra)](../10.6.3.1.2.md) / [Go to parent page (10.6.3.1.2 Saṅkhyāvāra)](../10.6.3.1.2.md) / [Go to next page (10.6.3.2 Paccayapaccanīya)](../../10.6.3.2.md)
+[Go to previous page (10.6.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.1/10.6.3.1.2.md) / [Go to parent page (10.6.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.1/10.6.3.1.2.md) / [Go to next page (10.6.3.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.2.md)
 
 

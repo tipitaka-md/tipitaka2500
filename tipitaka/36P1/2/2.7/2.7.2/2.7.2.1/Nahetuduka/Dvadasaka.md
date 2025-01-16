@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../../2.7.2.1.md) / [Nahetuduka](../Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Nahetuduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka.md)
 
-# Dvādasaka
+# 𑀤𑁆𑀯𑀸𑀤𑀲𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Nahetuduka
+### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Dvādasaka
+### 𑀤𑁆𑀯𑀸𑀤𑀲𑀓
 
-1183. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā…pe…  napurejātapaccayā napacchājātapaccayā naāsevane tīṇi, nakamme ekaṃ, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve…pe… .
+1183. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀏𑀓𑀁, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀛𑀸𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀤𑁆𑀯𑁂…𑀧𑁂… 𑁇
 
-[Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Cuddasaka)](Cuddasaka.md)
+[Go to previous page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Ekadasaka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka.md) / [Go to next page (Cuddasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Cuddasaka.md)
 
 

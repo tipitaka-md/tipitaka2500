@@ -1,23 +1,23 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.1 Paṭiccavāra](../../2.1.md) / [2.1.4 Paccayapaccanīyānuloma](../2.1.4.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.1/2.1.4.md)
 
-# Naāsevanaduka
+# 𑀦𑀆𑀲𑁂𑀯𑀦𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Naāsevanaduka
+### 𑀦𑀆𑀲𑁂𑀯𑀦𑀤𑀼𑀓
 
 (89.)
 
-376. Naāsevanapaccayā hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
+376. 𑀦𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀢𑀻𑀡𑀺, 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀢𑀻𑀡𑀺, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀢𑀻𑀡𑀺, 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀓𑀫𑁆𑀫𑁂 𑀦𑀯, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁, 𑀆𑀳𑀸𑀭𑁂 𑀦𑀯, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀦𑀯, 𑀛𑀸𑀦𑁂 𑀦𑀯, 𑀫𑀕𑁆𑀕𑁂 𑀦𑀯, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀦𑀯, 𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
 
-* [Tika](Naasevanaduka/Tika.md)
-* [Catukka](Naasevanaduka/Catukka.md)
+* [Tika](/tipitaka/36P1/2/2.1/2.1.4/Naasevanaduka/Tika.md)
+* [Catukka](/tipitaka/36P1/2/2.1/2.1.4/Naasevanaduka/Catukka.md)
 
-[Go to previous page (Catukka)](Napacchajataduka/Catukka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Naasevanaduka/Tika.md)
+[Go to previous page (Catukka)](/tipitaka/36P1/2/2.1/2.1.4/Napacchajataduka/Catukka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.1/2.1.4.md) / [Go to next page (Tika)](/tipitaka/36P1/2/2.1/2.1.4/Naasevanaduka/Tika.md)
 
 

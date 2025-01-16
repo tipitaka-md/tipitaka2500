@@ -1,22 +1,22 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.2 Paccayapaccanīya](../../7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](../7.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.2 Paccayapaccanīya](/tipitaka/37P1/7/7.1/7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md)
 
-# Nonatthi-novigata
+# 𑀦𑁄𑀦𑀢𑁆𑀣𑀺-𑀦𑁄𑀯𑀺𑀕𑀢
 
-### Vitakkattika
+### 𑀯𑀺𑀢𑀓𑁆𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Nonatthi-novigata
+### 𑀦𑁄𑀦𑀢𑁆𑀣𑀺-𑀦𑁄𑀯𑀺𑀕𑀢
 
 (43.)
 
-191. Savitakkasavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nonatthipaccayā…  novigatapaccayā…  (Saṃkhittaṃ.)
+191. 𑀲𑀯𑀺𑀢𑀓𑁆𑀓𑀲𑀯𑀺𑀘𑀸𑀭𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀅𑀯𑀺𑀢𑀓𑁆𑀓𑀅𑀯𑀺𑀘𑀸𑀭𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑁄𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸…  (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Navippayutta)](Navippayutta.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (7.1.2.2 Saṅkhyāvāra)](../7.1.2.2.md)
+[Go to previous page (Navippayutta)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Navippayutta.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page (7.1.2.2 Saṅkhyāvāra)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.2.md)
 
 

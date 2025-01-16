@@ -1,32 +1,32 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.11 Hetuduka, Sekkhattika](../../../../1.11.md) / [1.11.3 Nevasekkhanāsekkhapada](../../../1.11.3.md) / [1.11.3.1--6 Paṭiccādivāra](../../1.11.3.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.11 Hetuduka, Sekkhattika](/tipitaka/39P3/1/1.11.md) / [1.11.3 Nevasekkhanāsekkhapada](/tipitaka/39P3/1/1.11/1.11.3.md) / [1.11.3.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Sekkhattika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀲𑁂𑀓𑁆𑀔𑀢𑁆𑀢𑀺𑀓
 
-### Nevasekkhanāsekkhapada
+### 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑀧𑀤
 
-### Paṭiccādivāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (346.)
 
-726. Hetuṃ nevasekkhanāsekkhaṃ dhammaṃ paṭicca hetu nevasekkhanāsekkho dhammo uppajjati hetupaccayā…  tīṇi.
+726. 𑀳𑁂𑀢𑀼𑀁 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
 
-727. Nahetuṃ nevasekkhanāsekkhaṃ dhammaṃ paṭicca nahetu nevasekkhanāsekkho dhammo uppajjati hetupaccayā…  tīṇi.
+727. 𑀦𑀳𑁂𑀢𑀼𑀁 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑀳𑁂𑀢𑀼 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
 
-728. Hetuṃ nevasekkhanāsekkhañca nahetuṃ nevasekkhanāsekkhañca dhammaṃ paṭicca hetu nevasekkhanāsekkho dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+728. 𑀳𑁂𑀢𑀼𑀁 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑀜𑁆𑀘 𑀦𑀳𑁂𑀢𑀼𑀁 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑀜𑁆𑀘 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀦𑁂𑀯𑀲𑁂𑀓𑁆𑀔𑀦𑀸𑀲𑁂𑀓𑁆𑀔𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (347.)
 
-729. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+729. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑀯, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀓𑀫𑁆𑀫𑁂 𑀦𑀯, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇādi)](Nahetu-naarammanadi.md)
+[Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇādi)](/tipitaka/39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka/Nahetu-naarammanadi.md)
 
 

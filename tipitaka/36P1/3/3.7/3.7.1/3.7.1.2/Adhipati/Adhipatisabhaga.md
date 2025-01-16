@@ -1,24 +1,24 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.7 Pañhāvāra](../../../../3.7.md) / [3.7.1 Paccayānuloma](../../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../../3.7.1.2.md) / [Adhipati](../Adhipati.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2.md) / [Adhipati](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati.md)
 
-# Adhipatisabhāga
+# 𑀅𑀥𑀺𑀧𑀢𑀺𑀲𑀪𑀸𑀕
 
-### Vedanāttika
+### 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Adhipati
+### 𑀅𑀥𑀺𑀧𑀢𑀺
 
-### Adhipatisabhāga
+### 𑀅𑀥𑀺𑀧𑀢𑀺𑀲𑀪𑀸𑀕
 
 (68.)
 
-1956. Adhipatipaccayā hetuyā dve, ārammaṇe cattāri, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye cattāri, vipāke dve, āhāre tīṇi, indriye tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
+1956. 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀢𑀻𑀡𑀺, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀤𑁆𑀯𑁂, 𑀆𑀳𑀸𑀭𑁂 𑀢𑀻𑀡𑀺, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀢𑀻𑀡𑀺, 𑀫𑀕𑁆𑀕𑁂 𑀢𑀻𑀡𑀺, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇 (𑁧𑁩)
 
-[Go to previous page (Adhipati)](../Adhipati.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
+[Go to previous page (Adhipati)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati.md) / [Go to parent page (Adhipati)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati/Pakinnakaghatana.md)
 
 

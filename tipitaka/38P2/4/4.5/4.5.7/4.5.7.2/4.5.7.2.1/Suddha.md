@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.5 Saññojanasaññojanasampayuttaduka](../../../../4.5.md) / [4.5.7 Pañhāvāra](../../../4.5.7.md) / [4.5.7.2 Paccayapaccanīya](../../4.5.7.2.md) / [4.5.7.2.1 Saṅkhyāvāra](../4.5.7.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.5 Saññojanasaññojanasampayuttaduka](/tipitaka/38P2/4/4.5.md) / [4.5.7 Pañhāvāra](/tipitaka/38P2/4/4.5/4.5.7.md) / [4.5.7.2 Paccayapaccanīya](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.2.md) / [4.5.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.2/4.5.7.2.1.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Saññojanagocchaka
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Saññojanasaññojanasampayuttaduka
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (113.)
 
-1603. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
+1603. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯), 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
 
-[Go to previous page (4.5.7.2.1 Saṅkhyāvāra)](../4.5.7.2.1.md) / [Go to parent page (4.5.7.2.1 Saṅkhyāvāra)](../4.5.7.2.1.md) / [Go to next page (4.5.7.3 Paccayānulomapaccanīya)](../../4.5.7.3.md)
+[Go to previous page (4.5.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.2/4.5.7.2.1.md) / [Go to parent page (4.5.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.2/4.5.7.2.1.md) / [Go to next page (4.5.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.3.md)
 
 

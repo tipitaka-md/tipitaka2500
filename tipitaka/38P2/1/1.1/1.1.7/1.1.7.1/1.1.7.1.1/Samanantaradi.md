@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.1 Hetuduka](../../../../1.1.md) / [1.1.7 Pañhāvāra](../../../1.1.7.md) / [1.1.7.1 Paccayānuloma](../../1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](../1.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.7 Pañhāvāra](/tipitaka/38P2/1/1.1/1.1.7.md) / [1.1.7.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1.md) / [1.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md)
 
-# Samanantarādi
+# 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Samanantarādi
+### 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
 (27.)
 
-71. Hetu dhammo hetussa dhammassa samanantarapaccayena paccayo (anantarasadisaṃ.)…  Sahajātapaccayena paccayo…  aññamaññapaccayena paccayo (ime dvepi paṭiccasadisā. Nissayapaccayo paccayavāre nissayapaccayasadiso.)
+71. 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄 (𑀅𑀦𑀦𑁆𑀢𑀭𑀲𑀤𑀺𑀲𑀁𑁇)…  𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄 (𑀇𑀫𑁂 𑀤𑁆𑀯𑁂𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀲𑀤𑀺𑀲𑀸𑁇 𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁄 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑁂 𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀲𑀤𑀺𑀲𑁄𑁇)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
+[Go to previous page (Anantara)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Anantara.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Upanissaya.md)
 
 

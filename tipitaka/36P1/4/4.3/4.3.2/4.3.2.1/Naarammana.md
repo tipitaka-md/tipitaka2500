@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.3 Paccayavāra](../../../4.3.md) / [4.3.2 Paccayapaccanīya](../../4.3.2.md) / [4.3.2.1 Vibhaṅgavāra](../4.3.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.2 Paccayapaccanīya](/tipitaka/36P1/4/4.3/4.3.2.md) / [4.3.2.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.3/4.3.2/4.3.2.1.md)
 
-# Naārammaṇa
+# 𑀦𑀆𑀭𑀫𑁆𑀫𑀡
 
-### Vipākattika
+### 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Naārammaṇa
+### 𑀦𑀆𑀭𑀫𑁆𑀫𑀡
 
 (77.)
 
-2235. Vipākaṃ dhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ. Sabbāni padāni vitthāretabbāni.)
+2235. 𑀯𑀺𑀧𑀸𑀓𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑁂𑀯𑀯𑀺𑀧𑀸𑀓𑀦𑀯𑀺𑀧𑀸𑀓𑀥𑀫𑁆𑀫𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇 𑀲𑀩𑁆𑀩𑀸𑀦𑀺 𑀧𑀤𑀸𑀦𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑀦𑀺𑁇)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (4.3.2.1 Vibhaṅgavāra)](../4.3.2.1.md) / [Go to next page (4.3.2.2 Saṅkhyāvāra)](../4.3.2.2.md)
+[Go to previous page (Nahetu)](/tipitaka/36P1/4/4.3/4.3.2/4.3.2.1/Nahetu.md) / [Go to parent page (4.3.2.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.3/4.3.2/4.3.2.1.md) / [Go to next page (4.3.2.2 Saṅkhyāvāra)](/tipitaka/36P1/4/4.3/4.3.2/4.3.2.2.md)
 
 

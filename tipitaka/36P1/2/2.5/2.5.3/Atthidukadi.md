@@ -1,32 +1,32 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../2.5.md) / [2.5.3 Paccayānulomapaccanīya](../2.5.3.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.5/2.5.3.md)
 
-# Atthidukādi
+# 𑀅𑀢𑁆𑀣𑀺𑀤𑀼𑀓𑀸𑀤𑀺
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Atthidukādi
+### 𑀅𑀢𑁆𑀣𑀺𑀤𑀼𑀓𑀸𑀤𑀺
 
 (247.)
 
-790. Atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
+790. 𑀅𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸…  𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸…  𑀅𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸… 𑁇
 
 ---
 
-791. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
+791. (𑀬𑀣𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑀫𑀽𑀮𑀓𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 
 
 ---
 
-792. Anulomapaccanīyaṃ.
+792. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (Tevīsaka (savipāka))](Vippayuttaduka/evisaka_savipaka.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md)
+[Go to previous page (Tevīsaka (savipāka))](/tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka/evisaka_savipaka.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.5/2.5.3.md) / [Go to next page (2.5.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.5/2.5.4.md)
 
 

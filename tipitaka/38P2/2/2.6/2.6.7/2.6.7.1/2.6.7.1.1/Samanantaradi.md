@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.6 Lokiyaduka](../../../../2.6.md) / [2.6.7 Pañhāvāra](../../../2.6.7.md) / [2.6.7.1 Paccayānuloma](../../2.6.7.1.md) / [2.6.7.1.1 Vibhaṅgavāra](../2.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.6 Lokiyaduka](/tipitaka/38P2/2/2.6.md) / [2.6.7 Pañhāvāra](/tipitaka/38P2/2/2.6/2.6.7.md) / [2.6.7.1 Paccayānuloma](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1.md) / [2.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md)
 
-# Samanantarādi
+# 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
-### Cūḷantaraduka
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Lokiyaduka
+### 𑀮𑁄𑀓𑀺𑀬𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Samanantarādi
+### 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
 (155.)
 
-901. Lokiyo dhammo lokiyassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo (pañca pañhā, ghaṭanā natthi) aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo.
+901. 𑀮𑁄𑀓𑀺𑀬𑁄 𑀥𑀫𑁆𑀫𑁄 𑀮𑁄𑀓𑀺𑀬𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄 (𑀧𑀜𑁆𑀘 𑀧𑀜𑁆𑀳𑀸, 𑀖𑀝𑀦𑀸 𑀦𑀢𑁆𑀣𑀺) 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀤𑁆𑀯𑁂…  𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
+[Go to previous page (Anantara)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Anantara.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Upanissaya.md)
 
 

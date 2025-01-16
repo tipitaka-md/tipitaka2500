@@ -1,30 +1,30 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.3 Paccayavāra](../../../1.2.3.md) / [1.2.3.1 Paccayānuloma](../../1.2.3.1.md) / [1.2.3.1.2 Saṅkhyāvāra](../1.2.3.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.3 Paccayavāra](/tipitaka/38P2/1/1.2/1.2.3.md) / [1.2.3.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1.md) / [1.2.3.1.2 Saṅkhyāvāra](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Sahetukaduka
+### 𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (81.)
 
-222. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), avigate nava. (Evaṃ gaṇetabbaṃ.)
+222. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯), 𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-223. Anulomaṃ.
+223. 𑀅𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
 
 
-[Go to previous page (1.2.3.1.2 Saṅkhyāvāra)](../1.2.3.1.2.md) / [Go to parent page (1.2.3.1.2 Saṅkhyāvāra)](../1.2.3.1.2.md) / [Go to next page (1.2.3.2 Paccayapaccanīya)](../../1.2.3.2.md)
+[Go to previous page (1.2.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.2.md) / [Go to parent page (1.2.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.2.md) / [Go to next page (1.2.3.2 Paccayapaccanīya)](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.2.md)
 
 

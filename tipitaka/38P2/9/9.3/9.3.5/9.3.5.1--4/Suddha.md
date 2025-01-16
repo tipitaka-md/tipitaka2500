@@ -1,22 +1,22 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../9.md) / [9.3 Parāmāsasampayuttaduka](../../../9.3.md) / [9.3.5 Saṃsaṭṭhavāra](../../9.3.5.md) / [9.3.5.1--4 Paccayānulomādi](../9.3.5.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.5 Saṃsaṭṭhavāra](/tipitaka/38P2/9/9.3/9.3.5.md) / [9.3.5.1--4 Paccayānulomādi](/tipitaka/38P2/9/9.3/9.3.5/9.3.5.1--4.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Parāmāsagocchaka
+### 𑀧𑀭𑀸𑀫𑀸𑀲𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Parāmāsasampayuttaduka
+### 𑀧𑀭𑀸𑀫𑀸𑀲𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayānulomādi
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀸𑀤𑀺
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (62.)
 
-2243. Hetuyā dve (sabbattha dve), vipāke ekaṃ…pe…  avigate dve. Nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte dve.
+2243. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀤𑁆𑀯𑁂 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀤𑁆𑀯𑁂), 𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀤𑁆𑀯𑁂𑁇 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀤𑁆𑀯𑁂𑁇
 
-[Go to previous page (9.3.5.1--4 Paccayānulomādi)](../9.3.5.1--4.md) / [Go to parent page (9.3.5.1--4 Paccayānulomādi)](../9.3.5.1--4.md) / [Go to next page (9.3.6 Sampayuttavāra)](../../9.3.6.md)
+[Go to previous page (9.3.5.1--4 Paccayānulomādi)](/tipitaka/38P2/9/9.3/9.3.5/9.3.5.1--4.md) / [Go to parent page (9.3.5.1--4 Paccayānulomādi)](/tipitaka/38P2/9/9.3/9.3.5/9.3.5.1--4.md) / [Go to next page (9.3.6 Sampayuttavāra)](/tipitaka/38P2/9/9.3/9.3.6.md)
 
 

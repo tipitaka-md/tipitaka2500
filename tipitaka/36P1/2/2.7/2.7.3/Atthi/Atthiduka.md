@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Atthi](../Atthi.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Atthi](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md)
 
-# Atthiduka
+# 𑀅𑀢𑁆𑀣𑀺𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Atthi
+### 𑀅𑀢𑁆𑀣𑀺
 
-### Atthiduka
+### 𑀅𑀢𑁆𑀣𑀺𑀤𑀼𑀓
 
 (489.)
 
-1661. Atthipaccayā nahetuyā terasa, naārammaṇe terasa, naadhipatiyā terasa, naanantare terasa, nasamanantare terasa, nasahajāte satta, naaññamaññe satta, nanissaye satta, naupanissaye terasa, napurejāte nava, napacchājāte terasa, naāsevane terasa, nakamme terasa, navipāke terasa, naāhāre terasa, naindriye terasa, najhāne terasa, namagge terasa, nasampayutte satta, navippayutte pañca, nonatthiyā terasa, novigate terasa. (22)
+1661. 𑀅𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑁂𑀭𑀲, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀢𑁂𑀭𑀲, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀲𑀳𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀢𑁂𑀭𑀲, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀛𑀸𑀦𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀢𑁂𑀭𑀲, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑁂𑀭𑀲, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇 (𑁨𑁨)
 
-[Go to previous page (Atthi)](../Atthi.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Atthimissakaghaṭanā)](Atthimissakaghatana.md)
+[Go to previous page (Atthi)](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md) / [Go to parent page (Atthi)](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md) / [Go to next page (Atthimissakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Atthi/Atthimissakaghatana.md)
 
 

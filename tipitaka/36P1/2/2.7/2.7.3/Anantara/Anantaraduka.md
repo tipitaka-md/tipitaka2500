@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Anantara](../Anantara.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Anantara](/tipitaka/36P1/2/2.7/2.7.3/Anantara.md)
 
-# Anantaraduka
+# 𑀅𑀦𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Anantara
+### 𑀅𑀦𑀦𑁆𑀢𑀭
 
-### Anantaraduka
+### 𑀅𑀦𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
 (427.)
 
-1335. Anantarapaccayā nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, nasahajāte satta, naaññamaññe satta, nanissaye satta, napurejāte satta, napacchājāte satta, naāsevane pañca, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte satta, noatthiyā satta, noavigate satta. (19)
+1335. 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑀲𑀳𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀲𑀢𑁆𑀢, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀛𑀸𑀦𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢𑁇 (𑁧𑁯)
 
-[Go to previous page (Anantara)](../Anantara.md) / [Go to parent page (Anantara)](../Anantara.md) / [Go to next page (Anantaraghaṭanā)](Anantaraghatana.md)
+[Go to previous page (Anantara)](/tipitaka/36P1/2/2.7/2.7.3/Anantara.md) / [Go to parent page (Anantara)](/tipitaka/36P1/2/2.7/2.7.3/Anantara.md) / [Go to next page (Anantaraghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Anantara/Anantaraghatana.md)
 
 

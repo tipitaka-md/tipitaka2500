@@ -1,28 +1,28 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.1 Paṭiccavāra](../../../21.1.md) / [21.1.1 Paccayānuloma](../../21.1.1.md) / [21.1.1.2 Saṅkhyāvāra](../21.1.1.2.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.1 Paṭiccavāra](/tipitaka/37P1/21/21.1.md) / [21.1.1 Paccayānuloma](/tipitaka/37P1/21/21.1/21.1.1.md) / [21.1.1.2 Saṅkhyāvāra](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Ajjhattattika
+### 𑀅𑀚𑁆𑀛𑀢𑁆𑀢𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (6.)
 
-2769. Hetuyā dve, ārammaṇe dve…pe…  avigate dve.
+2769. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀤𑁆𑀯𑁂…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀤𑁆𑀯𑁂𑁇
 
 ---
 
-2770. Anulomaṃ.
+2770. 𑀅𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
 
 
-[Go to previous page (21.1.1.2 Saṅkhyāvāra)](../21.1.1.2.md) / [Go to parent page (21.1.1.2 Saṅkhyāvāra)](../21.1.1.2.md) / [Go to next page (21.1.2 Paccayapaccanīya)](../../21.1.2.md)
+[Go to previous page (21.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.2.md) / [Go to parent page (21.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.2.md) / [Go to next page (21.1.2 Paccayapaccanīya)](/tipitaka/37P1/21/21.1/21.1.2.md)
 
 

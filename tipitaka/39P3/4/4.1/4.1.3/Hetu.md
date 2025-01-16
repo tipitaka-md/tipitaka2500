@@ -1,32 +1,32 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../4.md) / [4.1 Āsavaduka, Kusalattika](../../4.1.md) / [4.1.3 Abyākatapada](../4.1.3.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.1 Āsavaduka, Kusalattika](/tipitaka/39P3/4/4.1.md) / [4.1.3 Abyākatapada](/tipitaka/39P3/4/4.1/4.1.3.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Āsavagocchaka, Kusalattika
+### 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Āsavaduka, Kusalattika
+### 𑀆𑀲𑀯𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Abyākatapada
+### 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀧𑀤
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (7.)
 
-1600. Noāsavaṃ abyākataṃ dhammaṃ paṭicca noāsavo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1600. 𑀦𑁄𑀆𑀲𑀯𑀁 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑁄𑀆𑀲𑀯𑁄 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (8.)
 
-1601. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1601. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-1602. (Sahajātavārepi paccayavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1602. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀏𑀓𑀁𑁇)
 
 ---
 
-1603. Āsavadukakusalattikaṃ niṭṭhitaṃ.
+1603. 𑀆𑀲𑀯𑀤𑀼𑀓𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑀁 𑀦𑀺𑀝𑁆𑀞𑀺𑀢𑀁𑁇
 
 
 
-[Go to previous page (4.1.3 Abyākatapada)](../4.1.3.md) / [Go to parent page (4.1.3 Abyākatapada)](../4.1.3.md) / [Go to next page (4.2 Sāsavaduka, Kusalattika)](../../4.2.md)
+[Go to previous page (4.1.3 Abyākatapada)](/tipitaka/39P3/4/4.1/4.1.3.md) / [Go to parent page (4.1.3 Abyākatapada)](/tipitaka/39P3/4/4.1/4.1.3.md) / [Go to next page (4.2 Sāsavaduka, Kusalattika)](/tipitaka/39P3/4/4.2.md)
 
 

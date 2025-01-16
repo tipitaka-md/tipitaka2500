@@ -1,28 +1,28 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../2.md) / [2.5 Rūpīduka](../../../2.5.md) / [2.5.3 Paccayavāra](../../2.5.3.md) / [2.5.3.3 Paccayānulomapaccanīya](../2.5.3.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.3 Paccayavāra](/tipitaka/38P2/2/2.5/2.5.3.md) / [2.5.3.3 Paccayānulomapaccanīya](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.3.md)
 
-# Hetuduka
+# 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Cūḷantaraduka
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Rūpīduka
+### 𑀭𑀽𑀧𑀻𑀤𑀼𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (108.)
 
-793. Hetupaccayā naārammaṇe tīṇi (saṃkhittaṃ, sabbe kātabbā), nakamme tīṇi, navipāke nava, nasampayutte tīṇi, navippayutte ekaṃ, nonatthiyā tīṇi, novigate tīṇi.
+793. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁, 𑀲𑀩𑁆𑀩𑁂 𑀓𑀸𑀢𑀩𑁆𑀩𑀸), 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀏𑀓𑀁, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇
 
 ---
 
-794. Anulomapaccanīyaṃ.
+794. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (2.5.3.3 Paccayānulomapaccanīya)](../2.5.3.3.md) / [Go to parent page (2.5.3.3 Paccayānulomapaccanīya)](../2.5.3.3.md) / [Go to next page (2.5.3.4 Paccayapaccanīyānuloma)](../2.5.3.4.md)
+[Go to previous page (2.5.3.3 Paccayānulomapaccanīya)](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.3.md) / [Go to parent page (2.5.3.3 Paccayānulomapaccanīya)](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.3.md) / [Go to next page (2.5.3.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/2/2.5/2.5.3/2.5.3.4.md)
 
 

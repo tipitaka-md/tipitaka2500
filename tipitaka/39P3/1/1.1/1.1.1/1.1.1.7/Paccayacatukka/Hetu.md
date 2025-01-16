@@ -1,24 +1,24 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.1 Hetuduka, Kusalattika](../../../../1.1.md) / [1.1.1 Kusalapada](../../../1.1.1.md) / [1.1.1.7 Pañhāvāra](../../1.1.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.1 Hetuduka, Kusalattika](/tipitaka/39P3/1/1.1.md) / [1.1.1 Kusalapada](/tipitaka/39P3/1/1.1/1.1.1.md) / [1.1.1.7 Pañhāvāra](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Kusalattika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Kusalapada
+### 𑀓𑀼𑀲𑀮𑀧𑀤
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (12.)
 
-19. Hetu kusalo dhammo hetussa kusalassa dhammassa hetupaccayena paccayo. Hetu kusalo dhammo nahetussa kusalassa dhammassa hetupaccayena paccayo. Hetu kusalo dhammo hetussa kusalassa ca nahetussa kusalassa ca dhammassa hetupaccayena paccayo. (3)
+19. 𑀳𑁂𑀢𑀼 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 𑀳𑁂𑀢𑀼 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀦𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 𑀳𑁂𑀢𑀼 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀘 𑀦𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀘 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁩)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
+[Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to next page (Ārammaṇādi)](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Arammanadi.md)
 
 

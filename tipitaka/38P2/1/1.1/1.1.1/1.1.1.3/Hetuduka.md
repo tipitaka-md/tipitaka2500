@@ -1,28 +1,28 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [1 Hetugocchaka](../../../../1.md) / [1.1 Hetuduka](../../../1.1.md) / [1.1.1 Paṭiccavāra](../../1.1.1.md) / [1.1.1.3 Paccayānulomapaccanīya](../1.1.1.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.1 Paṭiccavāra](/tipitaka/38P2/1/1.1/1.1.1.md) / [1.1.1.3 Paccayānulomapaccanīya](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.3.md)
 
-# Hetuduka
+# 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (15.)
 
-36. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi…pe…  naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi.
+36. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇
 
 ---
 
-37. Anulomapaccanīyaṃ.
+37. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (1.1.1.3 Paccayānulomapaccanīya)](../1.1.1.3.md) / [Go to parent page (1.1.1.3 Paccayānulomapaccanīya)](../1.1.1.3.md) / [Go to next page (1.1.1.4 Paccayapaccanīyānuloma)](../1.1.1.4.md)
+[Go to previous page (1.1.1.3 Paccayānulomapaccanīya)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.3.md) / [Go to parent page (1.1.1.3 Paccayānulomapaccanīya)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.3.md) / [Go to next page (1.1.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.4.md)
 
 

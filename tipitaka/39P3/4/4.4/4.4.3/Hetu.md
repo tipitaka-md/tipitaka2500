@@ -1,32 +1,32 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../4.md) / [4.4 Āsavasāsavaduka, Kusalattika](../../4.4.md) / [4.4.3 Abyākatapada](../4.4.3.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.4 Āsavasāsavaduka, Kusalattika](/tipitaka/39P3/4/4.4.md) / [4.4.3 Abyākatapada](/tipitaka/39P3/4/4.4/4.4.3.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Āsavagocchaka, Kusalattika
+### 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Āsavasāsavaduka, Kusalattika
+### 𑀆𑀲𑀯𑀲𑀸𑀲𑀯𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Abyākatapada
+### 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀧𑀤
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (40.)
 
-1664. Sāsavañceva no ca āsavaṃ abyākataṃ dhammaṃ paṭicca sāsavo ceva no ca āsavo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1664. 𑀲𑀸𑀲𑀯𑀜𑁆𑀘𑁂𑀯 𑀦𑁄 𑀘 𑀆𑀲𑀯𑀁 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀲𑀸𑀲𑀯𑁄 𑀘𑁂𑀯 𑀦𑁄 𑀘 𑀆𑀲𑀯𑁄 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (41.)
 
-1665. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1665. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-1666. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1666. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀏𑀓𑀁𑁇)
 
 ---
 
-1667. Āsavasāsavadukakusalattikaṃ niṭṭhitaṃ.
+1667. 𑀆𑀲𑀯𑀲𑀸𑀲𑀯𑀤𑀼𑀓𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑀁 𑀦𑀺𑀝𑁆𑀞𑀺𑀢𑀁𑁇
 
 
 
-[Go to previous page (4.4.3 Abyākatapada)](../4.4.3.md) / [Go to parent page (4.4.3 Abyākatapada)](../4.4.3.md) / [Go to next page (4.5 Āsavaāsavasampayuttaduka, Kusalattika)](../../4.5.md)
+[Go to previous page (4.4.3 Abyākatapada)](/tipitaka/39P3/4/4.4/4.4.3.md) / [Go to parent page (4.4.3 Abyākatapada)](/tipitaka/39P3/4/4.4/4.4.3.md) / [Go to next page (4.5 Āsavaāsavasampayuttaduka, Kusalattika)](/tipitaka/39P3/4/4.5.md)
 
 

@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.3 Āsavasampayuttaduka](../../../../3.3.md) / [3.3.7 Pañhāvāra](../../../3.3.7.md) / [3.3.7.1 Paccayānuloma](../../3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](../3.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.3 Āsavasampayuttaduka](/tipitaka/38P2/3/3.3.md) / [3.3.7 Pañhāvāra](/tipitaka/38P2/3/3.3/3.3.7.md) / [3.3.7.1 Paccayānuloma](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md)
 
-# Indriyādi
+# 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀸𑀤𑀺
 
-### Āsavagocchaka
+### 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Āsavasampayuttaduka
+### 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Indriyādi
+### 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀸𑀤𑀺
 
 (96.)
 
-1228. Āsavasampayutto dhammo āsavasampayuttassa dhammassa indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  cha.
+1228. 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀘𑀢𑁆𑀢𑀸𑀭𑀺…  𑀛𑀸𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀘𑀢𑁆𑀢𑀸𑀭𑀺…  𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀘𑀢𑁆𑀢𑀸𑀭𑀺…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀙𑁇
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
+[Go to previous page (Āhāra)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Ahara.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Vippayutta.md)
 
 

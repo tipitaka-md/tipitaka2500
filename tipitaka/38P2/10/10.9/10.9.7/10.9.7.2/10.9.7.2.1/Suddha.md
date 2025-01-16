@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](../../../../10.9.md) / [10.9.7 Pañhāvāra](../../../10.9.7.md) / [10.9.7.2 Paccayapaccanīya](../../10.9.7.2.md) / [10.9.7.2.1 Saṅkhyāvāra](../10.9.7.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](/tipitaka/38P2/10/10.9.md) / [10.9.7 Pañhāvāra](/tipitaka/38P2/10/10.9/10.9.7.md) / [10.9.7.2 Paccayapaccanīya](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.2.md) / [10.9.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.2/10.9.7.2.1.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Mahantaraduka
+### 𑀫𑀳𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Cittasaṃsaṭṭhasamuṭṭhānaduka
+### 𑀘𑀺𑀢𑁆𑀢𑀲𑀁𑀲𑀝𑁆𑀞𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (313.)
 
-3089. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
+3089. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯), 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
 
-[Go to previous page (10.9.7.2.1 Saṅkhyāvāra)](../10.9.7.2.1.md) / [Go to parent page (10.9.7.2.1 Saṅkhyāvāra)](../10.9.7.2.1.md) / [Go to next page (10.9.7.3 Paccayānulomapaccanīya)](../../10.9.7.3.md)
+[Go to previous page (10.9.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.2/10.9.7.2.1.md) / [Go to parent page (10.9.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.2/10.9.7.2.1.md) / [Go to next page (10.9.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.3.md)
 
 

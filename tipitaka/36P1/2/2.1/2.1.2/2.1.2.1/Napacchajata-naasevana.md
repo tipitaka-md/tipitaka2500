@@ -1,24 +1,24 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.2 Paccayapaccanīya](../../2.1.2.md) / [2.1.2.1 Vibhaṅgavāra](../2.1.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.2 Paccayapaccanīya](/tipitaka/36P1/2/2.1/2.1.2.md) / [2.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1.md)
 
-# Napacchājāta-naāsevana
+# 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢-𑀦𑀆𑀲𑁂𑀯𑀦
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Napacchājāta-naāsevana
+### 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢-𑀦𑀆𑀲𑁂𑀯𑀦
 
 (41.)
 
-229. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati napacchājātapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…pe… .
+229. 𑀓𑀼𑀲𑀮𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸—  𑀓𑀼𑀲𑀮𑀁 𑀏𑀓𑀁 𑀔𑀦𑁆𑀥𑀁 𑀧𑀝𑀺𑀘𑁆𑀘…𑀧𑁂… 𑁇
 
-230. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati naāsevanapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…pe… . (Napacchājātapaccayampi naāsevanapaccayampi naadhipatipaccayasadisaṃ.)
+230. 𑀓𑀼𑀲𑀮𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑀸—  𑀓𑀼𑀲𑀮𑀁 𑀏𑀓𑀁 𑀔𑀦𑁆𑀥𑀁 𑀧𑀝𑀺𑀘𑁆𑀘…𑀧𑁂… 𑁇 (𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀫𑁆𑀧𑀺 𑀦𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑀫𑁆𑀧𑀺 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
+[Go to previous page (Napurejāta)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Napurejata.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1.md) / [Go to next page (Nakamma)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Nakamma.md)
 
 

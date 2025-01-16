@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.3 Paccayavāra](../../../4.3.3.md) / [4.3.3.1 Paccayānuloma](../../4.3.3.1.md) / [4.3.3.1.1 Vibhaṅgavāra](../4.3.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.3 Saññojanasampayuttaduka](/tipitaka/38P2/4/4.3.md) / [4.3.3 Paccayavāra](/tipitaka/38P2/4/4.3/4.3.3.md) / [4.3.3.1 Paccayānuloma](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1.md) / [4.3.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1.md)
 
-# Adhipatyādi
+# 𑀅𑀥𑀺𑀧𑀢𑁆𑀬𑀸𑀤𑀺
 
-### Saññojanagocchaka
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Saññojanasampayuttaduka
+### 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Adhipatyādi
+### 𑀅𑀥𑀺𑀧𑀢𑁆𑀬𑀸𑀤𑀺
 
 (55.)
 
-1461. Saññojanasampayuttaṃ dhammaṃ paccayā saññojanasampayutto dhammo uppajjati adhipatipaccayā…pe…  avigatapaccayā…pe… .
+1461. 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀘𑁆𑀘𑀬𑀸 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂… 𑁇
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.3.3.1.1 Vibhaṅgavāra)](../4.3.3.1.1.md) / [Go to next page (4.3.3.1.2 Saṅkhyāvāra)](../4.3.3.1.2.md)
+[Go to previous page (Ārammaṇa)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1/Arammana.md) / [Go to parent page (4.3.3.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.1.md) / [Go to next page (4.3.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.1/4.3.3.1.2.md)
 
 

@@ -1,28 +1,28 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [5 Ganthagocchaka](../../../../5.md) / [5.3 Ganthasampayuttaduka](../../../5.3.md) / [5.3.7 Pañhāvāra](../../5.3.7.md) / [5.3.7.4 Paccayapaccanīyānuloma](../5.3.7.4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.3 Ganthasampayuttaduka](/tipitaka/38P2/5/5.3.md) / [5.3.7 Pañhāvāra](/tipitaka/38P2/5/5.3/5.3.7.md) / [5.3.7.4 Paccayapaccanīyānuloma](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.4.md)
 
-# Nahetuduka
+# 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Ganthagocchaka
+### 𑀕𑀦𑁆𑀣𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Ganthasampayuttaduka
+### 𑀕𑀦𑁆𑀣𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Nahetuduka
+### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (102.)
 
-1840. Nahetupaccayā ārammaṇe nava, adhipatiyā nava (anulomamātikā vitthāretabbā)…pe…  avigate nava.
+1840. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯 (𑀅𑀦𑀼𑀮𑁄𑀫𑀫𑀸𑀢𑀺𑀓𑀸 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸)…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
 
 ---
 
-1841. Ganthasampayuttadukaṃ niṭṭhitaṃ.
+1841. 𑀕𑀦𑁆𑀣𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓𑀁 𑀦𑀺𑀝𑁆𑀞𑀺𑀢𑀁𑁇
 
 
 
-[Go to previous page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md) / [Go to parent page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md) / [Go to next page (5.4 Ganthaganthaniyaduka)](../../../5.4.md)
+[Go to previous page (5.3.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.4.md) / [Go to parent page (5.3.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.4.md) / [Go to next page (5.4 Ganthaganthaniyaduka)](/tipitaka/38P2/5/5.4.md)
 
 

@@ -1,32 +1,32 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.7 Hetuduka, Pītittika](../../../../1.7.md) / [1.7.2 Sukhasahagatapada](../../../1.7.2.md) / [1.7.2.7 Pañhāvāra](../../1.7.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.7 Hetuduka, Pītittika](/tipitaka/39P3/1/1.7.md) / [1.7.2 Sukhasahagatapada](/tipitaka/39P3/1/1.7/1.7.2.md) / [1.7.2.7 Pañhāvāra](/tipitaka/39P3/1/1.7/1.7.2/1.7.2.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.7/1.7.2/1.7.2.7/Paccayacatukka.md)
 
-# Hetvādi
+# 𑀳𑁂𑀢𑁆𑀯𑀸𑀤𑀺
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Pītittika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀧𑀻𑀢𑀺𑀢𑁆𑀢𑀺𑀓
 
-### Sukhasahagatapada
+### 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑀧𑀤
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetvādi
+### 𑀳𑁂𑀢𑁆𑀯𑀸𑀤𑀺
 
 (246.)
 
-488. Hetu sukhasahagato dhammo hetussa sukhasahagatassa dhammassa hetupaccayena paccayo…  tīṇi.
+488. 𑀳𑁂𑀢𑀼 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺𑁇
 
-489. Hetu sukhasahagato dhammo hetussa sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  nava.
+489. 𑀳𑁂𑀢𑀼 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀯𑁇
 
-490. Hetu sukhasahagato dhammo hetussa sukhasahagatassa dhammassa adhipatipaccayena paccayo…  nava. (Saṃkhittaṃ.)
+490. 𑀳𑁂𑀢𑀼 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀲𑀼𑀔𑀲𑀳𑀕𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (247.)
 
-491. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṃkhittaṃ.)
+491. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑀯, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀆𑀳𑀸𑀭𑁂 𑀢𑀻𑀡𑀺, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀦𑀯, 𑀛𑀸𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀫𑀕𑁆𑀕𑁂 𑀦𑀯, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀦𑀯, 𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀦𑀯, 𑀯𑀺𑀕𑀢𑁂 𑀦𑀯, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
+[Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.7/1.7.2/1.7.2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.7/1.7.2/1.7.2.7/Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/1/1.7/1.7.2/1.7.2.7/Paccaniyuddhara.md)
 
 

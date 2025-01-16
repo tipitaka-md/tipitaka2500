@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.3 Paccayavāra](../../../../2.3.md) / [2.3.2 Paccayapaccanīya](../../../2.3.2.md) / [2.3.2.2 Saṅkhyāvāra](../../2.3.2.2.md) / [Nakammaduka](../Nakammaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.2 Paccayapaccanīya](/tipitaka/36P1/2/2.3/2.3.2.md) / [2.3.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2.md) / [Nakammaduka](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nakammaduka.md)
 
-# Tika
+# 𑀢𑀺𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Nakammaduka
+### 𑀦𑀓𑀫𑁆𑀫𑀤𑀼𑀓
 
-### Tika
+### 𑀢𑀺𑀓
 
-561. Nakammapaccayā nahetupaccayā naārammaṇe ekaṃ (sabbattha ekaṃ) novigate ekaṃ…pe… .
+561. 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀏𑀓𑀁) 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁…𑀧𑁂… 𑁇
 
-[Go to previous page (Nakammaduka)](../Nakammaduka.md) / [Go to parent page (Nakammaduka)](../Nakammaduka.md) / [Go to next page (Navipākaduka)](../Navipakaduka.md)
+[Go to previous page (Nakammaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nakammaduka.md) / [Go to parent page (Nakammaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nakammaduka.md) / [Go to next page (Navipākaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Navipakaduka.md)
 
 

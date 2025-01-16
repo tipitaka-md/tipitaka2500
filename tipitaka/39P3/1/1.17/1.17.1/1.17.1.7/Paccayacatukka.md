@@ -1,10 +1,10 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.17 Hetuduka, Uppannattika](../../../1.17.md) / [1.17.1 Uppannapada](../../1.17.1.md) / [1.17.1.7 Pañhāvāra](../1.17.1.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.17 Hetuduka, Uppannattika](/tipitaka/39P3/1/1.17.md) / [1.17.1 Uppannapada](/tipitaka/39P3/1/1.17/1.17.1.md) / [1.17.1.7 Pañhāvāra](/tipitaka/39P3/1/1.17/1.17.1/1.17.1.7.md)
 
-# Paccayacatukka
+# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-* [Hetu-upanissaya](Paccayacatukka/Hetu-upanissaya.md)
+* [Hetu-upanissaya](/tipitaka/39P3/1/1.17/1.17.1/1.17.1.7/Paccayacatukka/Hetu-upanissaya.md)
 
-[Go to previous page (1.17.1.7 Pañhāvāra)](../1.17.1.7.md) / [Go to parent page (1.17.1.7 Pañhāvāra)](../1.17.1.7.md) / [Go to next page (Hetu-upanissaya)](Paccayacatukka/Hetu-upanissaya.md)
+[Go to previous page (1.17.1.7 Pañhāvāra)](/tipitaka/39P3/1/1.17/1.17.1/1.17.1.7.md) / [Go to parent page (1.17.1.7 Pañhāvāra)](/tipitaka/39P3/1/1.17/1.17.1/1.17.1.7.md) / [Go to next page (Hetu-upanissaya)](/tipitaka/39P3/1/1.17/1.17.1/1.17.1.7/Paccayacatukka/Hetu-upanissaya.md)
 
 

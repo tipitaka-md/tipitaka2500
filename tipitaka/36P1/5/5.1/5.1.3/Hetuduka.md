@@ -1,28 +1,28 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [5 Upādinnattika](../../../5.md) / [5.1 Paṭiccavāra](../../5.1.md) / [5.1.3 Paccayānulomapaccanīya](../5.1.3.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/5/5.1/5.1.3.md)
 
-# Hetuduka
+# 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Upādinnattika
+### 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Hetuduka
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (27.)
 
-2515. Hetupaccayā naārammaṇe cha…pe…  napurejāte satta, napacchājāte nava, naāsevane nava, nakamme dve, navipāke cha, nasampayutte cha, navippayutte tīṇi…pe…  novigate cha.
+2515. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀙…𑀧𑁂…  𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀤𑁆𑀯𑁂, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀙, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀙, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀙𑁇
 
-2516. (Yathā kusalattike anulomapaccanīyagaṇanā, evaṃ gaṇetabbā.)
+2516. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀕𑀡𑀦𑀸, 𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
 ---
 
-2517. Anulomapaccanīyaṃ.
+2517. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (5.1.3 Paccayānulomapaccanīya)](../5.1.3.md) / [Go to parent page (5.1.3 Paccayānulomapaccanīya)](../5.1.3.md) / [Go to next page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md)
+[Go to previous page (5.1.3 Paccayānulomapaccanīya)](/tipitaka/36P1/5/5.1/5.1.3.md) / [Go to parent page (5.1.3 Paccayānulomapaccanīya)](/tipitaka/36P1/5/5.1/5.1.3.md) / [Go to next page (5.1.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/5/5.1/5.1.4.md)
 
 

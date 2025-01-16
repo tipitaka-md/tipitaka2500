@@ -1,28 +1,28 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
 
-# Vigata
+# 𑀯𑀺𑀕𑀢
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Vigata
+### 𑀯𑀺𑀕𑀢
 
 (301.)
 
-1002. Kusalo dhammo kusalassa dhammassa vigatapaccayena paccayo—  purimā purimā kusalā khandhā pacchimānaṃ pacchimānaṃ kusalānaṃ khandhānaṃ vigatapaccayena paccayo. (Saṃkhittaṃ.)
+1002. 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀧𑀼𑀭𑀺𑀫𑀸 𑀧𑀼𑀭𑀺𑀫𑀸 𑀓𑀼𑀲𑀮𑀸 𑀔𑀦𑁆𑀥𑀸 𑀧𑀘𑁆𑀙𑀺𑀫𑀸𑀦𑀁 𑀧𑀘𑁆𑀙𑀺𑀫𑀸𑀦𑀁 𑀓𑀼𑀲𑀮𑀸𑀦𑀁 𑀔𑀦𑁆𑀥𑀸𑀦𑀁 𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 ---
 
-1003. (Yathā anantarapaccayaṃ, evaṃ vitthāretabbaṃ.)
+1003. (𑀬𑀣𑀸 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 
 
-[Go to previous page (Natthi)](Natthi.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Avigata)](Avigata.md)
+[Go to previous page (Natthi)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Natthi.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page (Avigata)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Avigata.md)
 
 

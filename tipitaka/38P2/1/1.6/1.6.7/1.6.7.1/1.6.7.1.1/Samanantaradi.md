@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.6 Nahetusahetukaduka](../../../../1.6.md) / [1.6.7 Pañhāvāra](../../../1.6.7.md) / [1.6.7.1 Paccayānuloma](../../1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](../1.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.1 Paccayānuloma](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md)
 
-# Samanantarādi
+# 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Nahetusahetukaduka
+### 𑀦𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Samanantarādi
+### 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
 (180.)
 
-495. Nahetu sahetuko dhammo nahetusahetukassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo (iha ghaṭanā natthi, satta pañhā)…  aññamaññapaccayena paccayo (cha pañhā)…  nissayapaccayena paccayo. (Pavattipaṭisandhi satta pañhā, iha ghaṭanā natthi.)
+495. 𑀦𑀳𑁂𑀢𑀼 𑀲𑀳𑁂𑀢𑀼𑀓𑁄 𑀥𑀫𑁆𑀫𑁄 𑀦𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄 (𑀇𑀳 𑀖𑀝𑀦𑀸 𑀦𑀢𑁆𑀣𑀺, 𑀲𑀢𑁆𑀢 𑀧𑀜𑁆𑀳𑀸)…  𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄 (𑀙 𑀧𑀜𑁆𑀳𑀸)…  𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑀧𑀯𑀢𑁆𑀢𑀺𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺 𑀲𑀢𑁆𑀢 𑀧𑀜𑁆𑀳𑀸, 𑀇𑀳 𑀖𑀝𑀦𑀸 𑀦𑀢𑁆𑀣𑀺𑁇)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
+[Go to previous page (Anantara)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Anantara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Upanissaya.md)
 
 

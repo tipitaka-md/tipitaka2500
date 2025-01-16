@@ -1,30 +1,30 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.8 Hetuduka, Dassanenapahātabbattika](../../../../1.8.md) / [1.8.1 Dassanenapahātabbapada](../../../1.8.1.md) / [1.8.1.7 Pañhāvāra](../../1.8.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.8 Hetuduka, Dassanenapahātabbattika](/tipitaka/39P3/1/1.8.md) / [1.8.1 Dassanenapahātabbapada](/tipitaka/39P3/1/1.8/1.8.1.md) / [1.8.1.7 Pañhāvāra](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.7/Paccayacatukka.md)
 
-# Hetu-ārammaṇa
+# 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Dassanenapahātabbattika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀢𑁆𑀢𑀺𑀓
 
-### Dassanenapahātabbapada
+### 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀧𑀤
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetu-ārammaṇa
+### 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
 (262.)
 
-529. Hetu dassanena pahātabbo dhammo hetussa dassanena pahātabbassa dhammassa hetupaccayena paccayo…  tīṇi.
+529. 𑀳𑁂𑀢𑀼 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺𑁇
 
-530. Hetu dassanena pahātabbo dhammo hetussa dassanena pahātabbassa dhammassa ārammaṇapaccayena paccayo…  nava. (Saṃkhittaṃ.)
+530. 𑀳𑁂𑀢𑀼 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑁄 𑀥𑀫𑁆𑀫𑁄 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (263.)
 
-531. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+531. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑀯, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀆𑀳𑀸𑀭𑁂 𑀢𑀻𑀡𑀺, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀢𑀻𑀡𑀺, 𑀛𑀸𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀫𑀕𑁆𑀕𑁂 𑀢𑀻𑀡𑀺, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
+[Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.7/Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/1/1.8/1.8.1/1.8.1.7/Paccaniyuddhara.md)
 
 

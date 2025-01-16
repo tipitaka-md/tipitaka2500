@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.1 Paṭiccavāra](../../2.1.md) / [2.1.3 Paccayānulomapaccanīya](../2.1.3.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.1/2.1.3.md)
 
-# Purejātaduka
+# 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Purejātaduka
+### 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀤𑀼𑀓
 
 (70.)
 
-303. Purejātapaccayā nahetuyā dve, naadhipatiyā tīṇi, na pacchājāte tīṇi, na āsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ.
+303. 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦 𑀆𑀲𑁂𑀯𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁𑁇
 
-* [Tika](Purejataduka/Tika.md)
+* [Tika](/tipitaka/36P1/2/2.1/2.1.3/Purejataduka/Tika.md)
 
-[Go to previous page (Nissaya-upanissayaduka)](Nissaya-upanissayaduka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Tika)](Purejataduka/Tika.md)
+[Go to previous page (Nissaya-upanissayaduka)](/tipitaka/36P1/2/2.1/2.1.3/Nissaya-upanissayaduka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.1/2.1.3.md) / [Go to next page (Tika)](/tipitaka/36P1/2/2.1/2.1.3/Purejataduka/Tika.md)
 
 

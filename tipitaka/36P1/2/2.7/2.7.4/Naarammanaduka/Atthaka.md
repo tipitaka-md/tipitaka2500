@@ -1,26 +1,26 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.4 Paccayapaccanīyānuloma](../../2.7.4.md) / [Naārammaṇaduka](../Naarammanaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md) / [Naārammaṇaduka](/tipitaka/36P1/2/2.7/2.7.4/Naarammanaduka.md)
 
-# Aṭṭhaka
+# 𑀅𑀝𑁆𑀞𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Naārammaṇaduka
+### 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀤𑀼𑀓
 
-### Aṭṭhaka
+### 𑀅𑀝𑁆𑀞𑀓
 
-1710. Naārammaṇapaccayā nahetupaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte pañca, atthiyā satta, avigate satta…pe… .
+1710. 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀢𑀻𑀡𑀺, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀓𑀫𑁆𑀫𑁂 𑀤𑁆𑀯𑁂, 𑀆𑀳𑀸𑀭𑁂 𑀏𑀓𑀁, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀏𑀓𑀁, 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢…𑀧𑁂… 𑁇
 
 ---
 
-1711. Naārammaṇamūlakaṃ.
+1711. 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀫𑀽𑀮𑀓𑀁𑁇
 
 
 
-[Go to previous page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to parent page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to next page (Naadhipatiduka)](../Naadhipatiduka.md)
+[Go to previous page (Naārammaṇaduka)](/tipitaka/36P1/2/2.7/2.7.4/Naarammanaduka.md) / [Go to parent page (Naārammaṇaduka)](/tipitaka/36P1/2/2.7/2.7.4/Naarammanaduka.md) / [Go to next page (Naadhipatiduka)](/tipitaka/36P1/2/2.7/2.7.4/Naadhipatiduka.md)
 
 

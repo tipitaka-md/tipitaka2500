@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.1 Āsavaduka](../../../../3.1.md) / [3.1.3 Paccayavāra](../../../3.1.3.md) / [3.1.3.2 Paccayapaccanīya](../../3.1.3.2.md) / [3.1.3.2.2 Saṅkhyāvāra](../3.1.3.2.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.1 Āsavaduka](/tipitaka/38P2/3/3.1.md) / [3.1.3 Paccayavāra](/tipitaka/38P2/3/3.1/3.1.3.md) / [3.1.3.2 Paccayapaccanīya](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.2.md) / [3.1.3.2.2 Saṅkhyāvāra](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.2/3.1.3.2.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Āsavagocchaka
+### 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Āsavaduka
+### 𑀆𑀲𑀯𑀤𑀼𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (14.)
 
-1003. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi…pe…  navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Evaṃ sabbe gaṇanā gaṇetabbā.)
+1003. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀤𑁆𑀯𑁂, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀦𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇 (𑀏𑀯𑀁 𑀲𑀩𑁆𑀩𑁂 𑀕𑀡𑀦𑀸 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (3.1.3.2.2 Saṅkhyāvāra)](../3.1.3.2.2.md) / [Go to parent page (3.1.3.2.2 Saṅkhyāvāra)](../3.1.3.2.2.md) / [Go to next page (3.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../3.1.3.3--4.md)
+[Go to previous page (3.1.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.2/3.1.3.2.2.md) / [Go to parent page (3.1.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.2/3.1.3.2.2.md) / [Go to next page (3.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.3--4.md)
 
 

@@ -1,20 +1,20 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.3 Paccayānulomapaccanīya](../../2.5.3.md) / [Āhāraduka](../Aharaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.5/2.5.3.md) / [Āhāraduka](/tipitaka/36P1/2/2.5/2.5.3/Aharaduka.md)
 
-# Tika
+# 𑀢𑀺𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Āhāraduka
+### 𑀆𑀳𑀸𑀭𑀤𑀼𑀓
 
-### Tika
+### 𑀢𑀺𑀓
 
-775. Āhārapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+775. 𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀢𑀻𑀡𑀺𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Āhāraduka)](../Aharaduka.md) / [Go to parent page (Āhāraduka)](../Aharaduka.md) / [Go to next page (Indriyaduka)](../Indriyaduka.md)
+[Go to previous page (Āhāraduka)](/tipitaka/36P1/2/2.5/2.5.3/Aharaduka.md) / [Go to parent page (Āhāraduka)](/tipitaka/36P1/2/2.5/2.5.3/Aharaduka.md) / [Go to next page (Indriyaduka)](/tipitaka/36P1/2/2.5/2.5.3/Indriyaduka.md)
 
 

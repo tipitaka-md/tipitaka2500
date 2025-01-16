@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Adhipati](../Adhipati.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Adhipati](/tipitaka/36P1/2/2.7/2.7.3/Adhipati.md)
 
-# Adhipatiduka
+# 𑀅𑀥𑀺𑀧𑀢𑀺𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Adhipati
+### 𑀅𑀥𑀺𑀧𑀢𑀺
 
-### Adhipatiduka
+### 𑀅𑀥𑀺𑀧𑀢𑀺𑀤𑀼𑀓
 
 (420.)
 
-1303. Adhipatipaccayā nahetuyā dasa, naārammaṇe satta, naanantare dasa, nasamanantare dasa, nasahajāte satta, naaññamaññe aṭṭha, nanissaye satta, naupanissaye satta, napurejāte dasa, napacchājāte dasa, naāsevane dasa, nakamme dasa, navipāke dasa, naāhāre dasa, naindriye dasa, najhāne dasa, namagge dasa, nasampayutte aṭṭha, navippayutte satta, noatthiyā satta, nonatthiyā dasa, novigate dasa, no avigate satta. (23)
+1303. 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀤𑀲, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀤𑀲, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀤𑀲, 𑀦𑀲𑀳𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀅𑀝𑁆𑀞, 𑀦𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀤𑀲, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀤𑀲, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀤𑀲, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀤𑀲, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀤𑀲, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀤𑀲, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀤𑀲, 𑀦𑀛𑀸𑀦𑁂 𑀤𑀲, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀤𑀲, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀅𑀝𑁆𑀞, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀤𑀲, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀤𑀲, 𑀦𑁄 𑀅𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢𑁇 (𑁨𑁩)
 
-[Go to previous page (Adhipati)](../Adhipati.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Adhipatimissakaghaṭanā)](Adhipatimissakaghatana.md)
+[Go to previous page (Adhipati)](/tipitaka/36P1/2/2.7/2.7.3/Adhipati.md) / [Go to parent page (Adhipati)](/tipitaka/36P1/2/2.7/2.7.3/Adhipati.md) / [Go to next page (Adhipatimissakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Adhipati/Adhipatimissakaghatana.md)
 
 

@@ -1,36 +1,36 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.1 Sappaccayaduka, Kusalattika](../../../../3.1.md) / [3.1.1 Kusalākusalapada](../../../3.1.1.md) / [3.1.1.1--7 Paṭiccādivāra](../../3.1.1.1--7.md) / [Paccayacatukka](../Paccayacatukka%281%29.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.1 Sappaccayaduka, Kusalattika](/tipitaka/39P3/3/3.1.md) / [3.1.1 Kusalākusalapada](/tipitaka/39P3/3/3.1/3.1.1.md) / [3.1.1.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.1/3.1.1/3.1.1.1--7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.1/3.1.1/3.1.1.1--7/Paccayacatukka%281%29.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Cūḷantaraduka, Kusalattika
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Sappaccayaduka, Kusalattika
+### 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Kusalākusalapada
+### 𑀓𑀼𑀲𑀮𑀸𑀓𑀼𑀲𑀮𑀧𑀤
 
-### Paṭiccādivāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (5.)
 
-1478. Sappaccayo kusalo dhammo sappaccayassa kusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1478. 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑁄 𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀲𑁆𑀲 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (6.)
 
-1479. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1479. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (7.)
 
-1480. Sappaccayaṃ akusalaṃ dhammaṃ paṭicca sappaccayo akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1480. 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀁 𑀅𑀓𑀼𑀲𑀮𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑁄 𑀅𑀓𑀼𑀲𑀮𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑁧) (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (8.)
 
-1481. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1481. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀏𑀓𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../accayacatukka.md) / [Go to parent page (Paccayacatukka)](../accayacatukka.md) / [Go to next page (3.1.2 Abyākatapada)](../../../3.1.2.md)
+[Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.1/3.1.1.1--7/accayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.1/3.1.1.1--7/accayacatukka.md) / [Go to next page (3.1.2 Abyākatapada)](/tipitaka/39P3/3/3.1/3.1.2.md)
 
 

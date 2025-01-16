@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.1 Paṭiccavāra](../../../2.4.1.md) / [2.4.1.2 Paccayapaccanīya](../../2.4.1.2.md) / [2.4.1.2.1 Vibhaṅgavāra](../2.4.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.1 Paṭiccavāra](/tipitaka/38P2/2/2.4/2.4.1.md) / [2.4.1.2 Paccayapaccanīya](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2.md) / [2.4.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1.md)
 
-# Naārammaṇādi
+# 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
-### Cūḷantaraduka
+### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### Sappaṭighaduka
+### 𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑀤𑀼𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Naārammaṇādi
+### 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
 (61.)
 
-680. Sappaṭighaṃ dhammaṃ paṭicca sappaṭigho dhammo uppajjati naārammaṇapaccayā (sabbaṃ saṃkhittaṃ)…  novigatapaccayā.
+680. 𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 (𑀲𑀩𑁆𑀩𑀁 𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁)…  𑀦𑁄𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸𑁇
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (2.4.1.2.1 Vibhaṅgavāra)](../2.4.1.2.1.md) / [Go to next page (2.4.1.2.2 Saṅkhyāvāra)](../2.4.1.2.2.md)
+[Go to previous page (Nahetu)](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1/Nahetu.md) / [Go to parent page (2.4.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.1.md) / [Go to next page (2.4.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/2/2.4/2.4.1/2.4.1.2/2.4.1.2.2.md)
 
 

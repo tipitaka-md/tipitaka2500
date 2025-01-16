@@ -1,26 +1,26 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.7 Pañhāvāra](../../../3.7.md) / [3.7.2 Paccayapaccanīya](../../3.7.2.md) / [3.7.2.1 Saṅkhyāvāra](../3.7.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.2 Paccayapaccanīya](/tipitaka/36P1/3/3.7/3.7.2.md) / [3.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1.md)
 
-# Nahetumūlaka
+# 𑀦𑀳𑁂𑀢𑀼𑀫𑀽𑀮𑀓
 
-### Vedanāttika
+### 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Nahetumūlaka
+### 𑀦𑀳𑁂𑀢𑀼𑀫𑀽𑀮𑀓
 
-2019. (Yathā kusalattikassa paccanīyagaṇanā gaṇitā, evaṃ idampi asammuyhantena sabbaṃ mūlakaṃ gaṇetabbaṃ.)
+2019. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑀲𑁆𑀲 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀕𑀡𑀦𑀸 𑀕𑀡𑀺𑀢𑀸, 𑀏𑀯𑀁 𑀇𑀤𑀫𑁆𑀧𑀺 𑀅𑀲𑀫𑁆𑀫𑀼𑀬𑁆𑀳𑀦𑁆𑀢𑁂𑀦 𑀲𑀩𑁆𑀩𑀁 𑀫𑀽𑀮𑀓𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-2020. Paccanīyaṃ.
+2020. 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (Tevīsaka)](Nahetuduka/Tevisaka.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to next page (3.7.3 Paccayānulomapaccanīya)](../../3.7.3.md)
+[Go to previous page (Tevīsaka)](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1/Nahetuduka/Tevisaka.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1.md) / [Go to next page (3.7.3 Paccayānulomapaccanīya)](/tipitaka/36P1/3/3.7/3.7.3.md)
 
 

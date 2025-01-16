@@ -1,22 +1,22 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.17 Kusalattika, Atītattika](../../1.17.md) / [1.17.7 Pañhāvāra](../1.17.7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.17 Kusalattika, Atītattika](/tipitaka/39P5/1/1.17.md) / [1.17.7 Pañhāvāra](/tipitaka/39P5/1/1.17/1.17.7.md)
 
-# Paccayacatukka
+# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Kusalattika, Tika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀢𑀺𑀓
 
-### Kusalattika, Atītattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀅𑀢𑀻𑀢𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
 (71.)
 
-234. Kusalo paccuppanno dhammo kusalassa paccuppannassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+234. 𑀓𑀼𑀲𑀮𑁄 𑀧𑀘𑁆𑀘𑀼𑀧𑁆𑀧𑀦𑁆𑀦𑁄 𑀥𑀫𑁆𑀫𑁄 𑀓𑀼𑀲𑀮𑀲𑁆𑀲 𑀧𑀘𑁆𑀘𑀼𑀧𑁆𑀧𑀦𑁆𑀦𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-235. Hetuyā satta, ārammaṇe nava…pe…  avigate terasa. (Saṃkhittaṃ.)
+235. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (1.17.7 Pañhāvāra)](../1.17.7.md) / [Go to parent page (1.17.7 Pañhāvāra)](../1.17.7.md) / [Go to next page (1.18 Kusalattika, Atītārammaṇattika)](../../1.18.md)
+[Go to previous page (1.17.7 Pañhāvāra)](/tipitaka/39P5/1/1.17/1.17.7.md) / [Go to parent page (1.17.7 Pañhāvāra)](/tipitaka/39P5/1/1.17/1.17.7.md) / [Go to next page (1.18 Kusalattika, Atītārammaṇattika)](/tipitaka/39P5/1/1.18.md)
 
 

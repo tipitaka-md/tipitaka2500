@@ -1,24 +1,24 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.3 Nīvaraṇasampayuttaduka](../../../../8.3.md) / [8.3.7 Pañhāvāra](../../../8.3.7.md) / [8.3.7.1 Paccayānuloma](../../8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](../8.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.3 Nīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.3.md) / [8.3.7 Pañhāvāra](/tipitaka/38P2/8/8.3/8.3.7.md) / [8.3.7.1 Paccayānuloma](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md)
 
-# Samanantarādi
+# 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
-### Nīvaraṇagocchaka
+### 𑀦𑀻𑀯𑀭𑀡𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Nīvaraṇasampayuttaduka
+### 𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Samanantarādi
+### 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
 (72.)
 
-2043. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
+2043. 𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
+[Go to previous page (Anantara)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Anantara.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Upanissaya.md)
 
 

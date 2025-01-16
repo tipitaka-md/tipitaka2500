@@ -1,22 +1,22 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.7 Pañhāvāra](../../../23.7.md) / [23.7.1 Paccayānuloma](../../23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](../23.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.7 Pañhāvāra](/tipitaka/37P1/23/23.7.md) / [23.7.1 Paccayānuloma](/tipitaka/37P1/23/23.7/23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md)
 
-# Jhānādi
+# 𑀛𑀸𑀦𑀸𑀤𑀺
 
-### Sanidassanasappaṭighattika
+### 𑀲𑀦𑀺𑀤𑀲𑁆𑀲𑀦𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Jhānādi
+### 𑀛𑀸𑀦𑀸𑀤𑀺
 
 (48.)
 
-3042. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo—  anidassanaappaṭigho eko khandho tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe… .
+3042. 𑀅𑀦𑀺𑀤𑀲𑁆𑀲𑀦𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑁄 𑀥𑀫𑁆𑀫𑁄 𑀅𑀦𑀺𑀤𑀲𑁆𑀲𑀦𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀛𑀸𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀅𑀦𑀺𑀤𑀲𑁆𑀲𑀦𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑁄 𑀏𑀓𑁄 𑀔𑀦𑁆𑀥𑁄 𑀢𑀺𑀡𑁆𑀡𑀦𑁆𑀦𑀁 𑀔𑀦𑁆𑀥𑀸𑀦𑀁 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…𑀧𑁂…  𑀤𑁆𑀯𑁂 𑀔𑀦𑁆𑀥𑀸…𑀧𑁂…  𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺𑀓𑁆𑀔𑀡𑁂…𑀧𑁂… 𑁇
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
+[Go to previous page (Indriya)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Indriya.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Vippayutta.md)
 
 

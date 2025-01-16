@@ -1,30 +1,30 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.5 Āsavaāsavasampayuttaduka](../../../../3.5.md) / [3.5.1 Paṭiccavāra](../../../3.5.1.md) / [3.5.1.1 Paccayānuloma](../../3.5.1.1.md) / [3.5.1.1.2 Saṅkhyāvāra](../3.5.1.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.5 Āsavaāsavasampayuttaduka](/tipitaka/38P2/3/3.5.md) / [3.5.1 Paṭiccavāra](/tipitaka/38P2/3/3.5/3.5.1.md) / [3.5.1.1 Paccayānuloma](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1.md) / [3.5.1.1.2 Saṅkhyāvāra](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1/3.5.1.1.2.md)
 
-# Suddha
+# 𑀲𑀼𑀤𑁆𑀥
 
-### Āsavagocchaka
+### 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Āsavaāsavasampayuttaduka
+### 𑀆𑀲𑀯𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Suddha
+### 𑀲𑀼𑀤𑁆𑀥
 
 (118.)
 
-1289. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava, saṃkhittaṃ), kamme nava (vipākaṃ natthi), āhāre nava…pe…  avigate nava.
+1289. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯, 𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁), 𑀓𑀫𑁆𑀫𑁂 𑀦𑀯 (𑀯𑀺𑀧𑀸𑀓𑀁 𑀦𑀢𑁆𑀣𑀺), 𑀆𑀳𑀸𑀭𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
 
 ---
 
-1290. Anulomaṃ.
+1290. 𑀅𑀦𑀼𑀮𑁄𑀫𑀁𑁇
 
 
 
-[Go to previous page (3.5.1.1.2 Saṅkhyāvāra)](../3.5.1.1.2.md) / [Go to parent page (3.5.1.1.2 Saṅkhyāvāra)](../3.5.1.1.2.md) / [Go to next page (3.5.1.2 Paccayapaccanīya)](../../3.5.1.2.md)
+[Go to previous page (3.5.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1/3.5.1.1.2.md) / [Go to parent page (3.5.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.1/3.5.1.1.2.md) / [Go to next page (3.5.1.2 Paccayapaccanīya)](/tipitaka/38P2/3/3.5/3.5.1/3.5.1.2.md)
 
 

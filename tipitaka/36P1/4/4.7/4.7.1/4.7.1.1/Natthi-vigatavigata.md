@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
 
-# Natthi-vigatāvigata
+# 𑀦𑀢𑁆𑀣𑀺-𑀯𑀺𑀕𑀢𑀸𑀯𑀺𑀕𑀢
 
-### Vipākattika
+### 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Natthi-vigatāvigata
+### 𑀦𑀢𑁆𑀣𑀺-𑀯𑀺𑀕𑀢𑀸𑀯𑀺𑀕𑀢
 
 (119.)
 
-2403. Vipāko dhammo… . (Natthi vigataṃ anantarasadisaṃ, avigataṃ atthisadisaṃ.)
+2403. 𑀯𑀺𑀧𑀸𑀓𑁄 𑀥𑀫𑁆𑀫𑁄… 𑁇 (𑀦𑀢𑁆𑀣𑀺 𑀯𑀺𑀕𑀢𑀁 𑀅𑀦𑀦𑁆𑀢𑀭𑀲𑀤𑀺𑀲𑀁, 𑀅𑀯𑀺𑀕𑀢𑀁 𑀅𑀢𑁆𑀣𑀺𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (4.7.1.2 Saṅkhyāvāra)](../4.7.1.2.md)
+[Go to previous page (Atthi)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Atthi.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (4.7.1.2 Saṅkhyāvāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.2.md)
 
 

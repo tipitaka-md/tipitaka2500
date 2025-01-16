@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [4 Vipākattika](../../../4.md) / [4.3 Paccayavāra](../../4.3.md) / [4.3.4 Paccayapaccanīyānuloma](../4.3.4.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.4 Paccayapaccanīyānuloma](/tipitaka/36P1/4/4.3/4.3.4.md)
 
-# Nahetuduka
+# 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### Vipākattika
+### 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Nahetuduka
+### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (81.)
 
-2243. Nahetupaccayā ārammaṇe satta, anantare satta, samanantare satta, sahajāte dvādasa, aññamaññe nava, nissaye dvādasa, upanissaye satta, purejāte satta, āsevane cattāri, kamme dvādasa, vipāke nava, āhāre dvādasa, indriye dvādasa, jhāne dvādasa, magge tīṇi, sampayutte satta, vippayutte dvādasa, atthiyā dvādasa, natthiyā satta, vigate satta, avigate dvādasa.
+2243. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀲𑀢𑁆𑀢, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀲𑀢𑁆𑀢, 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀲𑀢𑁆𑀢, 𑀲𑀳𑀚𑀸𑀢𑁂 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑀯, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀲𑀢𑁆𑀢, 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀆𑀲𑁂𑀯𑀦𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀓𑀫𑁆𑀫𑁂 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀆𑀳𑀸𑀭𑁂 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀛𑀸𑀦𑁂 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀫𑀕𑁆𑀕𑁂 𑀢𑀻𑀡𑀺, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀤𑁆𑀯𑀸𑀤𑀲, 𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀤𑁆𑀯𑀸𑀤𑀲𑁇
 
-* [Tika](Nahetuduka/Tika.md)
+* [Tika](/tipitaka/36P1/4/4.3/4.3.4/Nahetuduka/Tika.md)
 
-[Go to previous page (4.3.4 Paccayapaccanīyānuloma)](../4.3.4.md) / [Go to parent page (4.3.4 Paccayapaccanīyānuloma)](../4.3.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
+[Go to previous page (4.3.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/4/4.3/4.3.4.md) / [Go to parent page (4.3.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/4/4.3/4.3.4.md) / [Go to next page (Tika)](/tipitaka/36P1/4/4.3/4.3.4/Nahetuduka/Tika.md)
 
 

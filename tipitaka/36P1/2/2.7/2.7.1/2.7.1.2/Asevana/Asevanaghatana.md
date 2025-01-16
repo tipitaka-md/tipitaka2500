@@ -1,30 +1,30 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Āsevana](../Asevana.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Āsevana](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Asevana.md)
 
-# Āsevanaghaṭanā
+# 𑀆𑀲𑁂𑀯𑀦𑀖𑀝𑀦𑀸
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Āsevana
+### 𑀆𑀲𑁂𑀯𑀦
 
-### Āsevanaghaṭanā
+### 𑀆𑀲𑁂𑀯𑀦𑀖𑀝𑀦𑀸
 
 (336.)
 
-1061. Āsevana anantara samanantara upanissaya natthi vigatanti tīṇi.
+1061. 𑀆𑀲𑁂𑀯𑀦 𑀅𑀦𑀦𑁆𑀢𑀭 𑀲𑀫𑀦𑀦𑁆𑀢𑀭 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬 𑀦𑀢𑁆𑀣𑀺 𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇
 
 ---
 
-1062. Āsevanamūlakaṃ.
+1062. 𑀆𑀲𑁂𑀯𑀦𑀫𑀽𑀮𑀓𑀁𑁇
 
 
 
-[Go to previous page (Āsevanasabhāga)](Asevanasabhaga.md) / [Go to parent page (Āsevana)](../Asevana.md) / [Go to next page (Kamma)](../Kamma.md)
+[Go to previous page (Āsevanasabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Asevana/Asevanasabhaga.md) / [Go to parent page (Āsevana)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Asevana.md) / [Go to next page (Kamma)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Kamma.md)
 
 

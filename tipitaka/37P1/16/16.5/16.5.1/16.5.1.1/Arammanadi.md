@@ -1,22 +1,22 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.5 Saṃsaṭṭhavāra](../../../16.5.md) / [16.5.1 Paccayānuloma](../../16.5.1.md) / [16.5.1.1 Vibhaṅgavāra](../16.5.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.5 Saṃsaṭṭhavāra](/tipitaka/37P1/16/16.5.md) / [16.5.1 Paccayānuloma](/tipitaka/37P1/16/16.5/16.5.1.md) / [16.5.1.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.5/16.5.1/16.5.1.1.md)
 
-# Ārammaṇādi
+# 𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
-### Micchattaniyatattika
+### 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀢𑁆𑀢𑀺𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Ārammaṇādi
+### 𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
 (27.)
 
-2322. Micchattaniyataṃ dhammaṃ saṃsaṭṭho micchattaniyato dhammo uppajjati ārammaṇapaccayā…pe…  avigatapaccayā.
+2322. 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀲𑀁𑀲𑀝𑁆𑀞𑁄 𑀫𑀺𑀘𑁆𑀙𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸𑁇
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (16.5.1.1 Vibhaṅgavāra)](../16.5.1.1.md) / [Go to next page (16.5.1.2 Saṅkhyāvāra)](../16.5.1.2.md)
+[Go to previous page (Hetu)](/tipitaka/37P1/16/16.5/16.5.1/16.5.1.1/Hetu.md) / [Go to parent page (16.5.1.1 Vibhaṅgavāra)](/tipitaka/37P1/16/16.5/16.5.1/16.5.1.1.md) / [Go to next page (16.5.1.2 Saṅkhyāvāra)](/tipitaka/37P1/16/16.5/16.5.1/16.5.1.2.md)
 
 

@@ -1,28 +1,28 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [1 Hetugocchaka](../../../../1.md) / [1.6 Nahetusahetukaduka](../../../1.6.md) / [1.6.7 Pañhāvāra](../../1.6.7.md) / [1.6.7.3 Paccayānulomapaccanīya](../1.6.7.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.3 Paccayānulomapaccanīya](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.3.md)
 
-# Ārammaṇaduka
+# 𑀆𑀭𑀫𑁆𑀫𑀡𑀤𑀼𑀓
 
-### Hetugocchaka
+### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Nahetusahetukaduka
+### 𑀦𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Ārammaṇaduka
+### 𑀆𑀭𑀫𑁆𑀫𑀡𑀤𑀼𑀓
 
 (200.)
 
-540. Ārammaṇapaccayā nahetuyā cattāri, naadhipatiyā cattāri, naanantare cattāri (sabbattha cattāri), nonatthiyā cattāri, novigate cattāri, noavigate cattāri. (Evaṃ gaṇetabbaṃ.)
+540. 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀘𑀢𑁆𑀢𑀸𑀭𑀺), 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺𑁇 (𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
 ---
 
-541. Anulomapaccanīyaṃ.
+541. 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀁𑁇
 
 
 
-[Go to previous page (1.6.7.3 Paccayānulomapaccanīya)](../1.6.7.3.md) / [Go to parent page (1.6.7.3 Paccayānulomapaccanīya)](../1.6.7.3.md) / [Go to next page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md)
+[Go to previous page (1.6.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.3.md) / [Go to parent page (1.6.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.3.md) / [Go to next page (1.6.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.4.md)
 
 

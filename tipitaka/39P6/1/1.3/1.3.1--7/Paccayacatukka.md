@@ -1,10 +1,10 @@
 
-[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../../../39P6.md) / [1 Hetuduka, Duka](../../../1.md) / [1.3 Hetuduka, Hetusahetukaduka](../../1.3.md) / [1.3.1--7 Paṭiccādivāra](../1.3.1--7.md)
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.3 Hetuduka, Hetusahetukaduka](/tipitaka/39P6/1/1.3.md) / [1.3.1--7 Paṭiccādivāra](/tipitaka/39P6/1/1.3/1.3.1--7.md)
 
-# Paccayacatukka
+# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-* [Hetu](Paccayacatukka/Hetu.md)
+* [Hetu](/tipitaka/39P6/1/1.3/1.3.1--7/Paccayacatukka/Hetu.md)
 
-[Go to previous page (1.3.1--7 Paṭiccādivāra)](../1.3.1--7.md) / [Go to parent page (1.3.1--7 Paṭiccādivāra)](../1.3.1--7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
+[Go to previous page (1.3.1--7 Paṭiccādivāra)](/tipitaka/39P6/1/1.3/1.3.1--7.md) / [Go to parent page (1.3.1--7 Paṭiccādivāra)](/tipitaka/39P6/1/1.3/1.3.1--7.md) / [Go to next page (Hetu)](/tipitaka/39P6/1/1.3/1.3.1--7/Paccayacatukka/Hetu.md)
 
 

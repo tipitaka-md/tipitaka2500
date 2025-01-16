@@ -1,22 +1,22 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../2.5.md) / [2.5.4 Paccayapaccanīyānuloma](../2.5.4.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.5 Saṃsaṭṭhavāra](/tipitaka/36P1/2/2.5.md) / [2.5.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.5/2.5.4.md)
 
-# Napurejātaduka
+# 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Saṃsaṭṭhavāra
+### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### Paccayapaccanīyānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Napurejātaduka
+### 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀤𑀼𑀓
 
 (250.)
 
-800. Napurejātapaccayā hetuyā tīṇi, ārammaṇe tīṇi…pe…  āsevane tīṇi, kamme tīṇi, vipāke ekaṃ.
+800. 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀆𑀲𑁂𑀯𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀓𑀫𑁆𑀫𑁂 𑀢𑀻𑀡𑀺, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁𑁇
 
-801. (Sabbāni padāni vitthāretabbāni, imāni alikhitesu padesu tīṇi pañhā. Napurejātamūlake nahetuyā ṭhitena āsevane ca magge ca eko pañho kātabbo, avasesāni nahetupaccayasadisāni. Napacchājātapaccayā paripuṇṇaṃ naadhipatipaccayasadisaṃ.)
+801. (𑀲𑀩𑁆𑀩𑀸𑀦𑀺 𑀧𑀤𑀸𑀦𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑀦𑀺, 𑀇𑀫𑀸𑀦𑀺 𑀅𑀮𑀺𑀔𑀺𑀢𑁂𑀲𑀼 𑀧𑀤𑁂𑀲𑀼 𑀢𑀻𑀡𑀺 𑀧𑀜𑁆𑀳𑀸𑁇 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀫𑀽𑀮𑀓𑁂 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀞𑀺𑀢𑁂𑀦 𑀆𑀲𑁂𑀯𑀦𑁂 𑀘 𑀫𑀕𑁆𑀕𑁂 𑀘 𑀏𑀓𑁄 𑀧𑀜𑁆𑀳𑁄 𑀓𑀸𑀢𑀩𑁆𑀩𑁄, 𑀅𑀯𑀲𑁂𑀲𑀸𑀦𑀺 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀲𑀤𑀺𑀲𑀸𑀦𑀺𑁇 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀧𑀭𑀺𑀧𑀼𑀡𑁆𑀡𑀁 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Tika)](Naadhipatiduka/Tika.md) / [Go to parent page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md) / [Go to next page (Nakammaduka)](Nakammaduka.md)
+[Go to previous page (Tika)](/tipitaka/36P1/2/2.5/2.5.4/Naadhipatiduka/Tika.md) / [Go to parent page (2.5.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.5/2.5.4.md) / [Go to next page (Nakammaduka)](/tipitaka/36P1/2/2.5/2.5.4/Nakammaduka.md)
 
 

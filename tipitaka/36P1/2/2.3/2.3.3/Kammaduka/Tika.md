@@ -1,20 +1,20 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.3 Paccayānulomapaccanīya](../../2.3.3.md) / [Kammaduka](../Kammaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.3/2.3.3.md) / [Kammaduka](/tipitaka/36P1/2/2.3/2.3.3/Kammaduka.md)
 
-# Tika
+# 𑀢𑀺𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paccayavāra
+### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### Paccayānulomapaccanīya
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### Kammaduka
+### 𑀓𑀫𑁆𑀫𑀤𑀼𑀓
 
-### Tika
+### 𑀢𑀺𑀓
 
-604. Kammapaccayā hetupaccayā naārammaṇe pañca…pe…  navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
+604. 𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘…𑀧𑁂…  𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Kammaduka)](../Kammaduka.md) / [Go to parent page (Kammaduka)](../Kammaduka.md) / [Go to next page (Vipākaduka)](../Vipakaduka.md)
+[Go to previous page (Kammaduka)](/tipitaka/36P1/2/2.3/2.3.3/Kammaduka.md) / [Go to parent page (Kammaduka)](/tipitaka/36P1/2/2.3/2.3.3/Kammaduka.md) / [Go to next page (Vipākaduka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka.md)
 
 
