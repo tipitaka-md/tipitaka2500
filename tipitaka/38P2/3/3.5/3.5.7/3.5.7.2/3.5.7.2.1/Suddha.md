@@ -17,7 +17,7 @@
 
 (128.)
 
-1313. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
+1313\. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
 
 [Go to previous page (3.5.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1.md) / [Go to parent page (3.5.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.2/3.5.7.2.1.md) / [Go to next page (3.5.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.3.md)
 

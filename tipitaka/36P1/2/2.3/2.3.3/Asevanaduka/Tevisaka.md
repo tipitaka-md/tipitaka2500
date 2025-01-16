@@ -13,7 +13,7 @@
 
 ### Tevīsaka
 
-602. Āsevanapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte satta, navipāke satta.
+602\. Āsevanapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte satta, navipāke satta.
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka/Catukka.md) / [Go to parent page (Āsevanaduka)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka.md) / [Go to next page (Kammaduka)](/tipitaka/36P1/2/2.3/2.3.3/Kammaduka.md)
 

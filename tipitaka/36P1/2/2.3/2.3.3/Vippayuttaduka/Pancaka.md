@@ -13,7 +13,7 @@
 
 ### Pañcaka
 
-619. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta…pe… .
+619\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta…pe… .
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka/Catukka.md) / [Go to parent page (Vippayuttaduka)](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka.md) / [Go to next page (Terasaka (sāsevana))](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka/erasaka_sasevana.md)
 

@@ -17,7 +17,7 @@
 
 (375.)
 
-1134. Vippayuttapaccayā hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā cattāri, sahajāte tīṇi, aññamaññe ekaṃ, nissaye pañca, upanissaye ekaṃ, purejāte tīṇi, pacchājāte tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, atthiyā pañca, avigate pañca. (17)
+1134\. Vippayuttapaccayā hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā cattāri, sahajāte tīṇi, aññamaññe ekaṃ, nissaye pañca, upanissaye ekaṃ, purejāte tīṇi, pacchājāte tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, atthiyā pañca, avigate pañca. (17)
 
 [Go to previous page (Vippayutta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md) / [Go to parent page (Vippayutta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md) / [Go to next page (Vippayuttamissakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta/Vippayuttamissakaghatana.md)
 

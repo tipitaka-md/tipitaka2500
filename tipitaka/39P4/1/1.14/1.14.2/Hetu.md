@@ -13,9 +13,9 @@
 
 (179.)
 
-665. Hīnaṃ nahetuṃ dhammaṃ paṭicca hīno nahetu dhammo uppajjati hetupaccayā.
+665\. Hīnaṃ nahetuṃ dhammaṃ paṭicca hīno nahetu dhammo uppajjati hetupaccayā.
 
-666. (Yathā saṃkiliṭṭhattikahetudukaṃ, evaṃ vitthāretabbaṃ.)
+666\. (Yathā saṃkiliṭṭhattikahetudukaṃ, evaṃ vitthāretabbaṃ.)
 
 [Go to previous page (1.14.2 Nahetupada)](/tipitaka/39P4/1/1.14/1.14.2.md) / [Go to parent page (1.14.2 Nahetupada)](/tipitaka/39P4/1/1.14/1.14.2.md) / [Go to next page (1.15 Micchattaniyatattika, Hetuduka)](/tipitaka/39P4/1/1.15.md)
 

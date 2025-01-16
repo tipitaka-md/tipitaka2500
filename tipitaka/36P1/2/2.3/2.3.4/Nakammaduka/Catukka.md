@@ -13,7 +13,7 @@
 
 ### Catukka
 
-651. Nakammapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+651\. Nakammapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.4/Nakammaduka/Tika.md) / [Go to parent page (Nakammaduka)](/tipitaka/36P1/2/2.3/2.3.4/Nakammaduka.md) / [Go to next page (Navipākaduka)](/tipitaka/36P1/2/2.3/2.3.4/Navipakaduka.md)
 

@@ -13,7 +13,7 @@
 
 ### Tika
 
-771. Kammapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+771\. Kammapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 
 [Go to previous page (Kammaduka)](/tipitaka/36P1/2/2.5/2.5.3/Kammaduka.md) / [Go to parent page (Kammaduka)](/tipitaka/36P1/2/2.5/2.5.3/Kammaduka.md) / [Go to next page (Vipākaduka)](/tipitaka/36P1/2/2.5/2.5.3/Vipakaduka.md)
 

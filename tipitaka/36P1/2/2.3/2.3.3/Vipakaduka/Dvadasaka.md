@@ -13,7 +13,7 @@
 
 ### Dvādasaka
 
-607. Vipākapaccayā hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ…pe… .
+607\. Vipākapaccayā hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ…pe… .
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka/Tika.md) / [Go to parent page (Vipākaduka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka.md) / [Go to next page (Tevīsaka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka/Tevisaka.md)
 

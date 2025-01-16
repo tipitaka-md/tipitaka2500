@@ -13,17 +13,17 @@
 
 (247.)
 
-790. Atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
+790\. Atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
 
 ---
 
-791. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
+791\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
 
 
 
 ---
 
-792. Anulomapaccanīyaṃ.
+792\. Anulomapaccanīyaṃ.
 
 
 

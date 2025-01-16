@@ -17,7 +17,7 @@
 
 (65.)
 
-1953. Hetu adhipati sahajāta aññamañña nissaya indriya magga sampayutta atthi avigatanti dve hetu adhipati sahajāta aññamañña nissaya vipāka indriya magga sampayutta atthi avigatanti dve.
+1953\. Hetu adhipati sahajāta aññamañña nissaya indriya magga sampayutta atthi avigatanti dve hetu adhipati sahajāta aññamañña nissaya vipāka indriya magga sampayutta atthi avigatanti dve.
 
 [Go to previous page (Saindriya-maggaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu/Saindriya-maggaghatana.md) / [Go to parent page (Hetu)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu.md) / [Go to next page (Ārammaṇa)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Arammana.md)
 

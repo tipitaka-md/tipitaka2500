@@ -13,7 +13,7 @@
 
 (79.)
 
-337. Vippayuttapaccayā nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte pañca, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, nonatthiyā pañca, novigate pañca.
+337\. Vippayuttapaccayā nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte pañca, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, nonatthiyā pañca, novigate pañca.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka/Catukka.md)

@@ -15,7 +15,7 @@
 
 (48.)
 
-2141. Vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nonatthipaccayā…  novigatapaccayā. (Saṃkhittaṃ.)
+2141\. Vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nonatthipaccayā…  novigatapaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Navippayutta)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Navippayutta.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to next page (4.1.2.2 Saṅkhyāvāra)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.2.md)
 

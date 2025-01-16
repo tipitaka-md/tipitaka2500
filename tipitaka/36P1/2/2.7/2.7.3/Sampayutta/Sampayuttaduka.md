@@ -15,7 +15,7 @@
 
 (483.)
 
-1642. Sampayuttapaccayā nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (18)
+1642\. Sampayuttapaccayā nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (18)
 
 [Go to previous page (Sampayutta)](/tipitaka/36P1/2/2.7/2.7.3/Sampayutta.md) / [Go to parent page (Sampayutta)](/tipitaka/36P1/2/2.7/2.7.3/Sampayutta.md) / [Go to next page (Sampayuttaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Sampayutta/Sampayuttaghatana.md)
 

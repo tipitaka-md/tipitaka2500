@@ -13,7 +13,7 @@
 
 ### Tikādi
 
-763. Adhipatipaccayā hetupaccayā. (Saṃkhittaṃ.)
+763\. Adhipatipaccayā hetupaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Adhipatiduka)](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka.md) / [Go to parent page (Adhipatiduka)](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka.md) / [Go to next page (Anantaradukādi)](/tipitaka/36P1/2/2.5/2.5.3/Anantaradukadi.md)
 

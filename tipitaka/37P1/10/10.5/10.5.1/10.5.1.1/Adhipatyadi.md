@@ -15,11 +15,11 @@
 
 (67.)
 
-1251. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati adhipatipaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
+1251\. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati adhipatipaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
 
-1252. Bhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho…  ekaṃ.
+1252\. Bhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho…  ekaṃ.
 
-1253. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati adhipatipaccayā—  nevadassanena nabhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhā; anantarapaccayā…  samanantarapaccayā.
+1253\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati adhipatipaccayā—  nevadassanena nabhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhā; anantarapaccayā…  samanantarapaccayā.
 
 [Go to previous page (Ārammaṇa)](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Arammana.md) / [Go to parent page (10.5.1.1 Vibhaṅgavāra)](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1.md) / [Go to next page (Sahajātādi)](/tipitaka/37P1/10/10.5/10.5.1/10.5.1.1/Sahajatadi.md)
 

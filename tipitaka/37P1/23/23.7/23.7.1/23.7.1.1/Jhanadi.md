@@ -15,7 +15,7 @@
 
 (48.)
 
-3042. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo—  anidassanaappaṭigho eko khandho tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe… .
+3042\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo—  anidassanaappaṭigho eko khandho tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe… .
 
 [Go to previous page (Indriya)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Indriya.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Vippayutta.md)
 

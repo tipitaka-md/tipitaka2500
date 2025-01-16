@@ -17,7 +17,7 @@
 
 (77.)
 
-715. Appaṭigho dhammo appaṭighassa dhammassa āsevanapaccayena paccayo—  purimā purimā appaṭighā khandhā…pe…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+715\. Appaṭigho dhammo appaṭighassa dhammassa āsevanapaccayena paccayo—  purimā purimā appaṭighā khandhā…pe…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
 
 [Go to previous page (Pacchājāta)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Pacchajata.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Kamma.md)
 

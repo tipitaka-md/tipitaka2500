@@ -17,11 +17,11 @@
 
 (166.)
 
-459. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+459\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Evaṃ gaṇetabbaṃ.)
 
 ---
 
-460. Paccanīyaṃ.
+460\. Paccanīyaṃ.
 
 
 

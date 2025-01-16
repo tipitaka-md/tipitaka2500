@@ -17,9 +17,9 @@
 
 (13.)
 
-4089. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa hetupaccayena paccayo…  tīṇi.
+4089\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa hetupaccayena paccayo…  tīṇi.
 
-4090. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa hetupaccayena paccayo—  nadassanena pahātabbā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+4090\. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa hetupaccayena paccayo—  nadassanena pahātabbā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
 [Go to previous page (13.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1.md) / [Go to parent page (13.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Arammana.md)
 

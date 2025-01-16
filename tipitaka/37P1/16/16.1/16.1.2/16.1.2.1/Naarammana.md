@@ -15,7 +15,7 @@
 
 (8.)
 
-2276. Micchattaniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati naārammaṇapaccayā—  micchattaniyate khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
+2276\. Micchattaniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati naārammaṇapaccayā—  micchattaniyate khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Nahetu)](/tipitaka/37P1/16/16.1/16.1.2/16.1.2.1/Nahetu.md) / [Go to parent page (16.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/16/16.1/16.1.2/16.1.2.1.md) / [Go to next page (Naadhipati)](/tipitaka/37P1/16/16.1/16.1.2/16.1.2.1/Naadhipati.md)
 

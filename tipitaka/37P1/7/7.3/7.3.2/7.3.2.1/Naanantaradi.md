@@ -15,7 +15,7 @@
 
 (53.)
 
-233. Naanantarampi nasamanantarampi naaññamaññampi naupanissayampi satta pañhā rūpaṃyeva. Napurejāte sattatiṃsa paṭiccavārapaccanīyasadisaṃ. Napacchājāte sattatiṃsa, naāsevanepi sadisaṃ. Yattha avitakkavicāramattopi āgacchati, tattha vipākā kātabbā.
+233\. Naanantarampi nasamanantarampi naaññamaññampi naupanissayampi satta pañhā rūpaṃyeva. Napurejāte sattatiṃsa paṭiccavārapaccanīyasadisaṃ. Napacchājāte sattatiṃsa, naāsevanepi sadisaṃ. Yattha avitakkavicāramattopi āgacchati, tattha vipākā kātabbā.
 
 [Go to previous page (Naadhipati)](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Naadhipati.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md) / [Go to next page (Nakamma)](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Nakamma.md)
 

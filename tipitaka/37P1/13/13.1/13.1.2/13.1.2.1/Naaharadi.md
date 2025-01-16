@@ -15,11 +15,11 @@
 
 (24.)
 
-1948. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ (vitthāretabbaṃ)…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  mahābhūte paṭicca rūpajīvitindriyaṃ, najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ…pe…  bāhiraṃ…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  (sabbe mahābhūtā kātabbā), namaggapaccayā—  ahetukaṃ parittaṃ ekaṃ khandhaṃ…pe…  ahetukapaṭisandhikkhaṇe ekaṃ…pe…  (sabbe mahābhūtā kātabbā) nasampayuttapaccayā…  navippayuttapaccayā—  arūpe parittaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… .
+1948\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ (vitthāretabbaṃ)…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  mahābhūte paṭicca rūpajīvitindriyaṃ, najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ…pe…  bāhiraṃ…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  (sabbe mahābhūtā kātabbā), namaggapaccayā—  ahetukaṃ parittaṃ ekaṃ khandhaṃ…pe…  ahetukapaṭisandhikkhaṇe ekaṃ…pe…  (sabbe mahābhūtā kātabbā) nasampayuttapaccayā…  navippayuttapaccayā—  arūpe parittaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… .
 
-1949. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati navippayuttapaccayā—  arūpe mahaggataṃ ekaṃ khandhaṃ…pe… . (1)
+1949\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati navippayuttapaccayā—  arūpe mahaggataṃ ekaṃ khandhaṃ…pe… . (1)
 
-1950. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati navippayuttapaccayā—  arūpe appamāṇaṃ ekaṃ khandhaṃ…pe…  nonatthipaccayā…  novigatapaccayā.
+1950\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati navippayuttapaccayā—  arūpe appamāṇaṃ ekaṃ khandhaṃ…pe…  nonatthipaccayā…  novigatapaccayā.
 
 [Go to previous page (Navipāka)](/tipitaka/37P1/13/13.1/13.1.2/13.1.2.1/Navipaka.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.1/13.1.2/13.1.2.1.md) / [Go to next page (13.1.2.2 Saṅkhyāvāra)](/tipitaka/37P1/13/13.1/13.1.2/13.1.2.2.md)
 

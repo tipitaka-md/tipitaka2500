@@ -15,7 +15,7 @@
 
 (91.)
 
-1015. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa āhārapaccayena paccayo (saṃkhittaṃ) kabaḷīkāro…  satta pañhā…  indriyapaccayena paccayo…  cakkhundriyañca…pe…  rūpajīvitindriyañca…pe…  satta pañhā jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
+1015\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa āhārapaccayena paccayo (saṃkhittaṃ) kabaḷīkāro…  satta pañhā…  indriyapaccayena paccayo…  cakkhundriyañca…pe…  rūpajīvitindriyañca…pe…  satta pañhā jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
 
 [Go to previous page (Vipāka)](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Vipaka.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Vippayutta.md)
 

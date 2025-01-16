@@ -15,7 +15,7 @@
 
 (69.)
 
-2213. Upanissayapaccayā…  purejātapaccayā—  vipākaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe paccayā dve khandhā, vatthuṃ purejātapaccayā (anantarasadisaṃ. Saṃkhittaṃ.)
+2213\. Upanissayapaccayā…  purejātapaccayā—  vipākaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe paccayā dve khandhā, vatthuṃ purejātapaccayā (anantarasadisaṃ. Saṃkhittaṃ.)
 
 [Go to previous page (Nissaya)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Nissaya.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md) / [Go to next page (Āsevana)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Asevana.md)
 

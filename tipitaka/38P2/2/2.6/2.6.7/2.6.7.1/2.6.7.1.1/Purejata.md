@@ -17,9 +17,9 @@
 
 (158.)
 
-906. Lokiyo dhammo lokiyassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato dukkhato anattato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu lokiyānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+906\. Lokiyo dhammo lokiyassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato dukkhato anattato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu lokiyānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
-907. Lokiyo dhammo lokuttarassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu lokuttarānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+907\. Lokiyo dhammo lokuttarassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu lokuttarānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
 [Go to previous page (Upanissaya)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Upanissaya.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Pacchājāta)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Pacchajata.md)
 

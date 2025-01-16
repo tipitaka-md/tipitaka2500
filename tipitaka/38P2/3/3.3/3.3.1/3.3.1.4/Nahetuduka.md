@@ -15,7 +15,7 @@
 
 (65.)
 
-1142. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve…pe…  kamme dve, vipāke ekaṃ, āhāre dve…pe…  magge ekaṃ, sampayutte dve, vippayutte dve…pe…  avigate dve.
+1142\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve…pe…  kamme dve, vipāke ekaṃ, āhāre dve…pe…  magge ekaṃ, sampayutte dve, vippayutte dve…pe…  avigate dve.
 
 [Go to previous page (3.3.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/3/3.3/3.3.1/3.3.1.4.md) / [Go to parent page (3.3.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/3/3.3/3.3.1/3.3.1.4.md) / [Go to next page (3.3.2 Sahajātavāra)](/tipitaka/38P2/3/3.3/3.3.2.md)
 

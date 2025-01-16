@@ -17,7 +17,7 @@
 
 (80.)
 
-221. Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati aññamaññapaccayā…pe…  avigatapaccayā.
+221\. Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati aññamaññapaccayā…pe…  avigatapaccayā.
 
 [Go to previous page (Anantarādi)](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1/Anantaradi.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1.md) / [Go to next page (1.2.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.2.md)
 

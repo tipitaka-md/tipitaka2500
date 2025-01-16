@@ -15,7 +15,7 @@
 
 (207.)
 
-703. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati vipākapaccayā—  vipākābyākataṃ…pe… .
+703\. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati vipākapaccayā—  vipākābyākataṃ…pe… .
 
 [Go to previous page (Kamma)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Kamma.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1.md) / [Go to next page (Āhārādi)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.1/Aharadi.md)
 

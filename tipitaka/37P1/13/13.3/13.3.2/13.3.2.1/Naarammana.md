@@ -15,7 +15,7 @@
 
 (34.)
 
-1975. Parittaṃ dhammaṃ paccayā paritto dhammo uppajjati naārammaṇapaccayā. (Paṭiccavārasadisaṃ. Pañca.)
+1975\. Parittaṃ dhammaṃ paccayā paritto dhammo uppajjati naārammaṇapaccayā. (Paṭiccavārasadisaṃ. Pañca.)
 
 [Go to previous page (Nahetu)](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.1/Nahetu.md) / [Go to parent page (13.3.2.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.1.md) / [Go to next page (Naadhipati)](/tipitaka/37P1/13/13.3/13.3.2/13.3.2.1/Naadhipati.md)
 

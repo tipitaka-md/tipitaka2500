@@ -15,7 +15,7 @@
 
 (27.)
 
-2322. Micchattaniyataṃ dhammaṃ saṃsaṭṭho micchattaniyato dhammo uppajjati ārammaṇapaccayā…pe…  avigatapaccayā.
+2322\. Micchattaniyataṃ dhammaṃ saṃsaṭṭho micchattaniyato dhammo uppajjati ārammaṇapaccayā…pe…  avigatapaccayā.
 
 [Go to previous page (Hetu)](/tipitaka/37P1/16/16.5/16.5.1/16.5.1.1/Hetu.md) / [Go to parent page (16.5.1.1 Vibhaṅgavāra)](/tipitaka/37P1/16/16.5/16.5.1/16.5.1.1.md) / [Go to next page (16.5.1.2 Saṅkhyāvāra)](/tipitaka/37P1/16/16.5/16.5.1/16.5.1.2.md)
 

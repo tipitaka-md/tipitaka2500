@@ -15,17 +15,17 @@
 
 (224.)
 
-431. Hetu avitakkavicāramatto dhammo hetussa avitakkavicāramattassa dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+431\. Hetu avitakkavicāramatto dhammo hetussa avitakkavicāramattassa dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (225.)
 
-432. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+432\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
 
-433. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+433\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-434. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+434\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-435. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+435\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Hetvādi)](/tipitaka/39P3/1/1.6/1.6.2/1.6.2.7/Paccayacatukka/Hetvadi.md) / [Go to parent page (1.6.2.7 Pañhāvāra)](/tipitaka/39P3/1/1.6/1.6.2/1.6.2.7.md) / [Go to next page (1.6.3 Avitakkaavicārapada)](/tipitaka/39P3/1/1.6/1.6.3.md)
 

@@ -13,7 +13,7 @@
 
 ### Chakka
 
-1698. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, avigate terasa.
+1698\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, avigate terasa.
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Catukka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka.md) / [Go to next page (Sattaka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Sattaka.md)
 

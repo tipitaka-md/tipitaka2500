@@ -17,7 +17,7 @@
 
 (94.)
 
-4268. Bhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa dhammassa hetupaccayena paccayo…  cha…pe… . (Dassanena pahātabbahetukadukasadisā.)
+4268\. Bhāvanāya pahātabbahetuko dhammo bhāvanāya pahātabbahetukassa dhammassa hetupaccayena paccayo…  cha…pe… . (Dassanena pahātabbahetukadukasadisā.)
 
 [Go to previous page (13.4.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1.md) / [Go to parent page (13.4.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/13/13.4/13.4.7/13.4.7.1--4/13.4.7.1--4.1/Arammana.md)
 

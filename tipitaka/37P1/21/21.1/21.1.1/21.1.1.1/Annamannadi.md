@@ -15,7 +15,7 @@
 
 (5.)
 
-2768. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā (purejātepi āsevanepi paṭisandhi natthi)…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+2768\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā (purejātepi āsevanepi paṭisandhi natthi)…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
 
 [Go to previous page (Anantarādi)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Anantaradi.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1.md) / [Go to next page (21.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.2.md)
 

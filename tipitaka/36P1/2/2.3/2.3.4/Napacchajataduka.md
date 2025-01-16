@@ -13,7 +13,7 @@
 
 (183.)
 
-643. Napacchājātapaccayā hetuyā sattarasa, ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa, aññamaññe satta, nissaye sattarasa, upanissaye satta, purejāte satta, āsevane satta, kamme sattarasa, vipāke ekaṃ, āhāre sattarasa, indriye sattarasa, jhāne sattarasa, magge sattarasa, sampayutte satta, vippayutte sattarasa, atthiyā sattarasa, natthiyā satta, vigate satta, avigate sattarasa.
+643\. Napacchājātapaccayā hetuyā sattarasa, ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa, aññamaññe satta, nissaye sattarasa, upanissaye satta, purejāte satta, āsevane satta, kamme sattarasa, vipāke ekaṃ, āhāre sattarasa, indriye sattarasa, jhāne sattarasa, magge sattarasa, sampayutte satta, vippayutte sattarasa, atthiyā sattarasa, natthiyā satta, vigate satta, avigate sattarasa.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.4/Napacchajataduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.3/2.3.4/Napacchajataduka/Catukka.md)

@@ -15,7 +15,7 @@
 
 (9.)
 
-2142. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ (sabbattha ekaṃ), avigate ekaṃ.
+2142\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ (sabbattha ekaṃ), avigate ekaṃ.
 
 [Go to previous page (9.1.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.4.md) / [Go to parent page (9.1.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/9/9.1/9.1.1/9.1.1.4.md) / [Go to next page (9.1.2 Sahajātavāra)](/tipitaka/38P2/9/9.1/9.1.2.md)
 

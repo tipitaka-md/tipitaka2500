@@ -13,13 +13,13 @@
 
 (146.)
 
-633. Hetupaccayā naārammaṇe ekādasa, naadhipatiyā ekādasa, naanantare nasamanantare ekādasa, naaññamaññe tīṇi, naupanissaye ekādasa, napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge sabbe ekādasa, nasampayutte tīṇi, navippayutte satta, nonatthiyā ekādasa, novigate ekādasa.
+633\. Hetupaccayā naārammaṇe ekādasa, naadhipatiyā ekādasa, naanantare nasamanantare ekādasa, naaññamaññe tīṇi, naupanissaye ekādasa, napurejāte napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge sabbe ekādasa, nasampayutte tīṇi, navippayutte satta, nonatthiyā ekādasa, novigate ekādasa.
 
-634. (Anulomapaccanīyagaṇanā iminā kāraṇena gaṇetabbā.)
+634\. (Anulomapaccanīyagaṇanā iminā kāraṇena gaṇetabbā.)
 
 ---
 
-635. Anulomapaccanīyaṃ.
+635\. Anulomapaccanīyaṃ.
 
 
 

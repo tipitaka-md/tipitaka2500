@@ -17,9 +17,9 @@
 
 (55.)
 
-2001. Nīvaraṇasampayuttaṃ dhammaṃ paṭicca nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca avijjānīvaraṇaṃ. (1)
+2001\. Nīvaraṇasampayuttaṃ dhammaṃ paṭicca nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca avijjānīvaraṇaṃ. (1)
 
-2002. Nīvaraṇavippayuttaṃ dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ nīvaraṇavippayuttaṃ…pe… . (Yāva asaññasattā. Saṃkhittaṃ.)
+2002\. Nīvaraṇavippayuttaṃ dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ nīvaraṇavippayuttaṃ…pe… . (Yāva asaññasattā. Saṃkhittaṃ.)
 
 [Go to previous page (8.3.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.2/8.3.1.2.1.md) / [Go to parent page (8.3.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.2/8.3.1.2.1.md) / [Go to next page (8.3.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/8/8.3/8.3.1/8.3.1.2/8.3.1.2.2.md)
 

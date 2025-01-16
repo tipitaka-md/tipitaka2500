@@ -15,7 +15,7 @@
 
 (25.)
 
-842. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… .
+842\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… .
 
 [Go to previous page (Navipāka)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Navipaka.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md) / [Go to next page (Naindriya)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Naindriya.md)
 

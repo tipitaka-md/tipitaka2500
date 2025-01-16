@@ -13,7 +13,7 @@
 
 ### Catukka
 
-601. Āsevanapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta. (Saṃkhittaṃ.)
+601\. Āsevanapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta. (Saṃkhittaṃ.)
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka/Tika.md) / [Go to parent page (Āsevanaduka)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka.md) / [Go to next page (Tevīsaka)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka/Tevisaka.md)
 

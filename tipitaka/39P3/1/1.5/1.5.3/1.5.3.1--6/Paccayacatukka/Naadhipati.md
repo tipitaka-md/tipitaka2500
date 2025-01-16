@@ -17,19 +17,19 @@
 
 (204.)
 
-380. Hetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. Hetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. (2)
+380\. Hetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. Hetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. (2)
 
-381. Nahetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. Nahetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. (2) (Saṃkhittaṃ.)
+381\. Nahetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. Nahetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. (2) (Saṃkhittaṃ.)
 
 (205.)
 
-382. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+382\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
 
-383. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
+383\. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
 
-384. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
+384\. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
 
-385. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+385\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/1/1.5/1.5.3/1.5.3.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.5/1.5.3/1.5.3.1--6/Paccayacatukka.md) / [Go to next page (1.5.3.7 Pañhāvāra)](/tipitaka/39P3/1/1.5/1.5.3/1.5.3.7.md)
 

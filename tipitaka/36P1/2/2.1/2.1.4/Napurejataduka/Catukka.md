@@ -13,7 +13,7 @@
 
 ### Catukka
 
-372. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+372\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.1/2.1.4/Napurejataduka/Tika.md) / [Go to parent page (Napurejātaduka)](/tipitaka/36P1/2/2.1/2.1.4/Napurejataduka.md) / [Go to next page (Napacchājātaduka)](/tipitaka/36P1/2/2.1/2.1.4/Napacchajataduka.md)
 

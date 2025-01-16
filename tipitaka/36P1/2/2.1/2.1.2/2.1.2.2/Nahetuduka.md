@@ -15,7 +15,7 @@
 
 (52.)
 
-249. Nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā dve, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte dve, nonatthiyā ekaṃ, novigate ekaṃ.
+249\. Nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā dve, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte dve, nonatthiyā ekaṃ, novigate ekaṃ.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nahetuduka/Tika.md)
 * [Vīsaka](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nahetuduka/Visaka.md)

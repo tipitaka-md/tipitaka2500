@@ -17,7 +17,7 @@
 
 (301.)
 
-4716. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca, anantare samanantare dve, sahajāte pañca, aññamaññe dve, nissaye pañca, upanissaye dve, purejāte dve, āsevane dve, kamme pañca, vipāke ekaṃ, āhāre pañca…pe…  avigate pañca.
+4716\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca, anantare samanantare dve, sahajāte pañca, aññamaññe dve, nissaye pañca, upanissaye dve, purejāte dve, āsevane dve, kamme pañca, vipāke ekaṃ, āhāre pañca…pe…  avigate pañca.
 
 [Go to previous page (13.15.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.1/13.15.1.1.2.md) / [Go to parent page (13.15.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.1/13.15.1.1.2.md) / [Go to next page (13.15.1.2 Paccayapaccanīya)](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2.md)
 

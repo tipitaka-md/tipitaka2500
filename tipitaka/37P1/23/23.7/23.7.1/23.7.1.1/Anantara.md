@@ -15,7 +15,7 @@
 
 (34.)
 
-3012. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa anantarapaccayena paccayo—  purimā purimā anidassanaappaṭighā khandhā pacchimānaṃ pacchimānaṃ anidassanaappaṭighānaṃ khandhānaṃ anantarapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa…  maggo phalassa…  phalaṃ phalassa…  anulomaṃ phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)
+3012\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa anantarapaccayena paccayo—  purimā purimā anidassanaappaṭighā khandhā pacchimānaṃ pacchimānaṃ anidassanaappaṭighānaṃ khandhānaṃ anantarapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa…  maggo phalassa…  phalaṃ phalassa…  anulomaṃ phalasamāpattiyā…  nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)
 
 [Go to previous page (Adhipati)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Adhipati.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page (Samanantara)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Samanantara.md)
 

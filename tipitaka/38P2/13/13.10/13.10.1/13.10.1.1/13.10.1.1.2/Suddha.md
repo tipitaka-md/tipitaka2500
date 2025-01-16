@@ -17,7 +17,7 @@
 
 (178.)
 
-4468. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  purejāte cha, āsevane cha, kamme nava (sabbattha nava), avigate nava.
+4468\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  purejāte cha, āsevane cha, kamme nava (sabbattha nava), avigate nava.
 
 [Go to previous page (13.10.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.1/13.10.1.1.2.md) / [Go to parent page (13.10.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.1/13.10.1.1.2.md) / [Go to next page (13.10.1.2 Paccayapaccanīya)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2.md)
 

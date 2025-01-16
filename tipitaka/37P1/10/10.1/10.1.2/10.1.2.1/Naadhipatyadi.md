@@ -15,7 +15,7 @@
 
 (20.)
 
-1107. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naadhipatipaccayā…  (sahajātasadisaṃ) naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
+1107\. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naadhipatipaccayā…  (sahajātasadisaṃ) naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
 
 [Go to previous page (Naārammaṇa)](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Naarammana.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1.md) / [Go to next page (Napurejāta)](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Napurejata.md)
 

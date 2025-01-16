@@ -17,7 +17,7 @@
 
 (63.)
 
-1950. Hetupaccayā adhipatiyā dve, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke dve, indriye dve, magge dve, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (10)
+1950\. Hetupaccayā adhipatiyā dve, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke dve, indriye dve, magge dve, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (10)
 
 [Go to previous page (Suddha)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu/Suddha.md) / [Go to parent page (Hetu)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu.md) / [Go to next page (Sāmaññaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu/Samannaghatana.md)
 

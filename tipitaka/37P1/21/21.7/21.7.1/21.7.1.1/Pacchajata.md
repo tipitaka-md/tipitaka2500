@@ -15,9 +15,9 @@
 
 (39.)
 
-2834. Ajjhatto dhammo ajjhattassa dhammassa pacchājātapaccayena paccayo—  pacchājātā ajjhattā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+2834\. Ajjhatto dhammo ajjhattassa dhammassa pacchājātapaccayena paccayo—  pacchājātā ajjhattā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-2835. Bahiddhā dhammo bahiddhā dhammassa pacchājātapaccayena paccayo—  pacchājātā bahiddhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+2835\. Bahiddhā dhammo bahiddhā dhammassa pacchājātapaccayena paccayo—  pacchājātā bahiddhā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 [Go to previous page (Purejāta)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Purejata.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Asevana.md)
 

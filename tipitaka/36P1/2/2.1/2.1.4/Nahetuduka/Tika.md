@@ -13,7 +13,7 @@
 
 ### Tika
 
-355. Nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+355\. Nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
 
 [Go to previous page (Nahetuduka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka.md) / [Go to next page (Sattaka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka/Sattaka.md)
 

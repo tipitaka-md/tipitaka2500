@@ -15,7 +15,7 @@
 
 (17.)
 
-1835. Nahetupaccayā naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, namagge tīṇi, navippayutte ekaṃ…pe… .
+1835\. Nahetupaccayā naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, namagge tīṇi, navippayutte ekaṃ…pe… .
 
 * [Catukka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Nahetuduka/Catukka.md)
 * [Navaka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Nahetuduka/Navaka.md)

@@ -15,7 +15,7 @@
 
 (6.)
 
-2461. Upādinnupādāniyaṃ dhammaṃ paṭicca nissayapaccayā…  nava. Upanissayapaccayā…  tīṇi.
+2461\. Upādinnupādāniyaṃ dhammaṃ paṭicca nissayapaccayā…  nava. Upanissayapaccayā…  tīṇi.
 
 [Go to previous page (Aññamañña)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Annamanna.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md) / [Go to next page (Purejāta)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Purejata.md)
 

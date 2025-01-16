@@ -17,7 +17,7 @@
 
 (14.)
 
-2151. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi…pe…  naupanissaye tīṇi, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte pañca, nonatthiyā tīṇi, novigate tīṇi.
+2151\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi…pe…  naupanissaye tīṇi, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte pañca, nonatthiyā tīṇi, novigate tīṇi.
 
 [Go to previous page (9.1.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.2/9.1.3.2.2.md) / [Go to parent page (9.1.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.2/9.1.3.2.2.md) / [Go to next page (9.1.3.3 Paccayānulomapaccanīya)](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.3.md)
 

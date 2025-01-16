@@ -17,7 +17,7 @@
 
 (413.)
 
-3370. Nahetuyā nava, naārammaṇe nava (sabbattha nava), nasampayutte nava, navippayutte cha, noatthiyā cattāri, nonatthiyā nava, novigate nava, noavigate cattāri.
+3370\. Nahetuyā nava, naārammaṇe nava (sabbattha nava), nasampayutte nava, navippayutte cha, noatthiyā cattāri, nonatthiyā nava, novigate nava, noavigate cattāri.
 
 [Go to previous page (10.13.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.2/10.13.7.2.1.md) / [Go to parent page (10.13.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.2/10.13.7.2.1.md) / [Go to next page (10.13.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.3.md)
 

@@ -13,7 +13,7 @@
 
 ### Cuddasaka (savipāka)
 
-622. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā. (Saṃkhittaṃ.) Purejātapaccayā kammapaccayā vipākapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
+622\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā. (Saṃkhittaṃ.) Purejātapaccayā kammapaccayā vipākapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
 
 [Go to previous page (Tevīsaka (sāsevana))](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka/evisaka_sasevana).md) / [Go to parent page (Vippayuttaduka)](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka.md) / [Go to next page (Tevīsaka (savipāka))](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka/evisaka_savipaka.md)
 

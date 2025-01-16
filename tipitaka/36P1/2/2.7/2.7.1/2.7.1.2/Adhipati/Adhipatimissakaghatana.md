@@ -17,7 +17,7 @@
 
 (311.)
 
-1020. Adhipati atthi avigatanti aṭṭha. Adhipati nissaya atthi avigatanti aṭṭha. Adhipati nissaya vippayutta atthi avigatanti cattāri.
+1020\. Adhipati atthi avigatanti aṭṭha. Adhipati nissaya atthi avigatanti aṭṭha. Adhipati nissaya vippayutta atthi avigatanti cattāri.
 
 [Go to previous page (Adhipatisabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Adhipatisabhaga.md) / [Go to parent page (Adhipati)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Adhipati/Pakinnakaghatana.md)
 

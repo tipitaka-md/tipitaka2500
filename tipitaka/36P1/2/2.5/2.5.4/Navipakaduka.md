@@ -13,7 +13,7 @@
 
 (252.)
 
-806. Navipākapaccayā hetuyā tīṇi. (Saṃkhittaṃ. Paripuṇṇaṃ.) Avigate tīṇi.
+806\. Navipākapaccayā hetuyā tīṇi. (Saṃkhittaṃ. Paripuṇṇaṃ.) Avigate tīṇi.
 
 * [Pañcaka](/tipitaka/36P1/2/2.5/2.5.4/Navipakaduka/Pancaka.md)
 

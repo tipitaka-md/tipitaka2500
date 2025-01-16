@@ -15,11 +15,11 @@
 
 (34.)
 
-2547. Upādinnupādāniyaṃ dhammaṃ paccayā upādinnupādāniyo dhammo uppajjati anantarapaccayā.
+2547\. Upādinnupādāniyaṃ dhammaṃ paccayā upādinnupādāniyo dhammo uppajjati anantarapaccayā.
 
 ---
 
-2548. (Catuvīsatipaccayā vitthāretabbā, avigatapaccayā.)
+2548\. (Catuvīsatipaccayā vitthāretabbā, avigatapaccayā.)
 
 
 

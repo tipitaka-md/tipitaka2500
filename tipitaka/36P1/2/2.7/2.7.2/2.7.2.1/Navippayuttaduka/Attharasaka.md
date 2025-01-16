@@ -15,7 +15,7 @@
 
 ### Aṭṭhārasaka
 
-1256. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) nakammapaccayā navipākapaccayā naindriyapaccayā najhāne ekaṃ…pe…  novigate ekaṃ. (Saṃkhittaṃ.)
+1256\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) nakammapaccayā navipākapaccayā naindriyapaccayā najhāne ekaṃ…pe…  novigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Navippayuttaduka/Ekadasaka.md) / [Go to parent page (Navippayuttaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Navippayuttaduka.md) / [Go to next page (Noatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md)
 

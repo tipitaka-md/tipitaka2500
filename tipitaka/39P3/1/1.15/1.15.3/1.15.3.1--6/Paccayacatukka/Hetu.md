@@ -17,15 +17,15 @@
 
 (445.)
 
-967. Hetuṃ aniyataṃ dhammaṃ paṭicca hetu aniyato dhammo uppajjati hetupaccayā…  tīṇi.
+967\. Hetuṃ aniyataṃ dhammaṃ paṭicca hetu aniyato dhammo uppajjati hetupaccayā…  tīṇi.
 
-968. Nahetuṃ aniyataṃ dhammaṃ paṭicca nahetu aniyato dhammo uppajjati hetupaccayā…  tīṇi.
+968\. Nahetuṃ aniyataṃ dhammaṃ paṭicca nahetu aniyato dhammo uppajjati hetupaccayā…  tīṇi.
 
-969. Hetuṃ aniyatañca nahetuṃ aniyatañca dhammaṃ paṭicca hetu aniyato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+969\. Hetuṃ aniyatañca nahetuṃ aniyatañca dhammaṃ paṭicca hetu aniyato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 (446.)
 
-970. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+970\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.15/1.15.3/1.15.3.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.15/1.15.3/1.15.3.1--6/Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇa)](/tipitaka/39P3/1/1.15/1.15.3/1.15.3.1--6/Paccayacatukka/Nahetu-naarammana.md)
 

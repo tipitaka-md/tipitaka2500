@@ -15,11 +15,11 @@
 
 (34.)
 
-2729. Atītārammaṇo dhammo atītārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā atītārammaṇā khandhā pacchimānaṃ pacchimānaṃ atītārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+2729\. Atītārammaṇo dhammo atītārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā atītārammaṇā khandhā pacchimānaṃ pacchimānaṃ atītārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
 
-2730. Anāgatārammaṇo dhammo anāgatārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā anāgatārammaṇā khandhā pacchimānaṃ pacchimānaṃ anāgatārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+2730\. Anāgatārammaṇo dhammo anāgatārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā anāgatārammaṇā khandhā pacchimānaṃ pacchimānaṃ anāgatārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
 
-2731. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā paccuppannārammaṇā khandhā pacchimānaṃ pacchimānaṃ paccuppannārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+2731\. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā paccuppannārammaṇā khandhā pacchimānaṃ pacchimānaṃ paccuppannārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
 
 [Go to previous page (Upanissaya)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Upanissaya.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Kamma.md)
 

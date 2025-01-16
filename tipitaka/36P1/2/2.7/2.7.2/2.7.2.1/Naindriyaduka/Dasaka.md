@@ -15,7 +15,7 @@
 
 ### Dasaka
 
-1243. Naindriyapaccayā nahetupaccayā…pe…  nanissayapaccayā naupanissaye pañca, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre nava, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava.
+1243\. Naindriyapaccayā nahetupaccayā…pe…  nanissayapaccayā naupanissaye pañca, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre nava, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava.
 
 [Go to previous page (Aṭṭhaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Atthaka.md) / [Go to parent page (Naindriyaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka.md) / [Go to next page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Ekadasaka.md)
 

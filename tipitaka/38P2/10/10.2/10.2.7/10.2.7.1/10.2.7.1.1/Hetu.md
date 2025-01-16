@@ -17,11 +17,11 @@
 
 (70.)
 
-2483. Nocitto dhammo nocittassa dhammassa hetupaccayena paccayo—  nocittā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+2483\. Nocitto dhammo nocittassa dhammassa hetupaccayena paccayo—  nocittā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-2484. Nocitto dhammo cittassa dhammassa hetupaccayena paccayo—  nocittā hetū cittassa hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
+2484\. Nocitto dhammo cittassa dhammassa hetupaccayena paccayo—  nocittā hetū cittassa hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
 
-2485. Nocitto dhammo cittassa ca nocittassa ca dhammassa hetupaccayena paccayo—  nocittā hetū sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
+2485\. Nocitto dhammo cittassa ca nocittassa ca dhammassa hetupaccayena paccayo—  nocittā hetū sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
 
 [Go to previous page (10.2.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md) / [Go to parent page (10.2.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Arammana.md)
 

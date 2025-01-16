@@ -13,11 +13,11 @@
 
 (40.)
 
-1636. Kusalaṃ arūpāvacaraṃ dhammaṃ paṭicca kusalo arūpāvacaro dhammo uppajjati hetupaccayā. (1)
+1636\. Kusalaṃ arūpāvacaraṃ dhammaṃ paṭicca kusalo arūpāvacaro dhammo uppajjati hetupaccayā. (1)
 
-1637. Abyākataṃ arūpāvacaraṃ dhammaṃ paṭicca abyākato arūpāvacaro dhammo uppajjati hetupaccayā. (1)
+1637\. Abyākataṃ arūpāvacaraṃ dhammaṃ paṭicca abyākato arūpāvacaro dhammo uppajjati hetupaccayā. (1)
 
-1638. Kusalaṃ naarūpāvacaraṃ dhammaṃ paṭicca kusalo naarūpāvacaro dhammo uppajjati hetupaccayā. (Rūpāvacaradukasadisaṃ.)
+1638\. Kusalaṃ naarūpāvacaraṃ dhammaṃ paṭicca kusalo naarūpāvacaro dhammo uppajjati hetupaccayā. (Rūpāvacaradukasadisaṃ.)
 
 [Go to previous page (7.11.1--7 Paṭiccādivāra)](/tipitaka/39P4/7/7.11/7.11.1--7.md) / [Go to parent page (7.11.1--7 Paṭiccādivāra)](/tipitaka/39P4/7/7.11/7.11.1--7.md) / [Go to next page (7.12 Kusalattika, Pariyāpannaduka)](/tipitaka/39P4/7/7.12.md)
 

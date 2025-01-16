@@ -17,7 +17,7 @@
 
 (155.)
 
-901. Lokiyo dhammo lokiyassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo (pañca pañhā, ghaṭanā natthi) aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo.
+901\. Lokiyo dhammo lokiyassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo (pañca pañhā, ghaṭanā natthi) aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Anantara.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Upanissaya.md)
 

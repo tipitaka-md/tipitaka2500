@@ -17,9 +17,9 @@
 
 (149.)
 
-2683. Cittasampayuttaṃ dhammaṃ paṭicca cittasampayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ cittasampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2683\. Cittasampayuttaṃ dhammaṃ paṭicca cittasampayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ cittasampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-2684. (Evaṃ navapi pañhā kātabbā. Ahetukanti sabbattha niyāmetabbaṃ, ekaṃyeva mohaṃ mūlapade.)
+2684\. (Evaṃ navapi pañhā kātabbā. Ahetukanti sabbattha niyāmetabbaṃ, ekaṃyeva mohaṃ mūlapade.)
 
 [Go to previous page (10.4.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.4/10.4.1/10.4.1.2/10.4.1.2.1.md) / [Go to parent page (10.4.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.4/10.4.1/10.4.1.2/10.4.1.2.1.md) / [Go to next page (Naārammaṇa)](/tipitaka/38P2/10/10.4/10.4.1/10.4.1.2/10.4.1.2.1/Naarammana.md)
 

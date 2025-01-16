@@ -17,7 +17,7 @@
 
 (170.)
 
-4448. Sukhasahagato dhammo sukhasahagatassa dhammassa hetupaccayena paccayo…  cattāri. (Ārammaṇepi adhipatiyāpi sappītikadukasadisā, sukhanti nānākaraṇaṃ.)
+4448\. Sukhasahagato dhammo sukhasahagatassa dhammassa hetupaccayena paccayo…  cattāri. (Ārammaṇepi adhipatiyāpi sappītikadukasadisā, sukhanti nānākaraṇaṃ.)
 
 [Go to previous page (13.9.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1.md) / [Go to parent page (13.9.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1.md) / [Go to next page (Anantarādi)](/tipitaka/38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1/Anantaradi.md)
 

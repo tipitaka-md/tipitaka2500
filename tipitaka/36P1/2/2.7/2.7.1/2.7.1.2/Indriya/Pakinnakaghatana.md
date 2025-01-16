@@ -17,7 +17,7 @@
 
 (350.)
 
-1084. Indriya nissaya purejāta vippayutta atthi avigatanti ekaṃ.
+1084\. Indriya nissaya purejāta vippayutta atthi avigatanti ekaṃ.
 
 [Go to previous page (Indriyamissakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Indriyamissakaghatana.md) / [Go to parent page (Indriya)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya.md) / [Go to next page (Sahajāta-sāmaññaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Sahajata-samannaghatana.md)
 

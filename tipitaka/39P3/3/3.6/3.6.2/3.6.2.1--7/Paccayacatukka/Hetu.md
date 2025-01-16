@@ -17,11 +17,11 @@
 
 (48.)
 
-1565. Lokiyaṃ akusalaṃ dhammaṃ paṭicca lokiyo akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1565\. Lokiyaṃ akusalaṃ dhammaṃ paṭicca lokiyo akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (49.)
 
-1566. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ, sahajātavāropi…pe…  pañhāvāropi sabbattha sadisā.)
+1566\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ, sahajātavāropi…pe…  pañhāvāropi sabbattha sadisā.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.6/3.6.2/3.6.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.6/3.6.2/3.6.2.1--7/Paccayacatukka.md) / [Go to next page (3.6.3 Abyākatapada)](/tipitaka/39P3/3/3.6/3.6.3.md)
 

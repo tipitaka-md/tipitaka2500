@@ -15,11 +15,11 @@
 
 (136.)
 
-504. Ārammaṇapaccayā hetuyā satta, adhipatiyā satta…pe…
+504\. Ārammaṇapaccayā hetuyā satta, adhipatiyā satta…pe…
 
 ---
 
-505. (Ārammaṇamūlakaṃ yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+505\. (Ārammaṇamūlakaṃ yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
 
 
 

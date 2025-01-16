@@ -15,7 +15,7 @@
 
 (8.)
 
-807. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati anantarapaccayā…  samanantarapaccayā. (Ārammaṇasadisaṃ.)
+807\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati anantarapaccayā…  samanantarapaccayā. (Ārammaṇasadisaṃ.)
 
 [Go to previous page (Adhipati)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Adhipati.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page (Sahajāta)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Sahajata.md)
 

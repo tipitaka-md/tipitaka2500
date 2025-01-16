@@ -17,7 +17,7 @@
 
 (67.)
 
-183. Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā…  nasampayuttapaccayā.
+183\. Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā…  nasampayuttapaccayā.
 
 [Go to previous page (Napacchājātādi)](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Napacchajatadi.md) / [Go to parent page (1.2.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1.md) / [Go to next page (Navippayuttādi)](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.2/1.2.1.2.1/Navippayuttadi.md)
 

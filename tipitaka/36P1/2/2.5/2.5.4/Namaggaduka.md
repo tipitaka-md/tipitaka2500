@@ -13,7 +13,7 @@
 
 (254.)
 
-811. Namaggapaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
+811\. Namaggapaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
 
 * [Pañcaka](/tipitaka/36P1/2/2.5/2.5.4/Namaggaduka/Pancaka.md)
 * [Chakkādi](/tipitaka/36P1/2/2.5/2.5.4/Namaggaduka/Chakkadi.md)

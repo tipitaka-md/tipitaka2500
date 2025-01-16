@@ -15,9 +15,9 @@
 
 (45.)
 
-2847. Ajjhatto dhammo ajjhattassa dhammassa indriyapaccayena paccayo, ajjhattikā indriyā (rūpajīvitindriyampi vitthāretabbaṃ)…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Mātikāpadāni anumajjantena vitthāretabbāni.)
+2847\. Ajjhatto dhammo ajjhattassa dhammassa indriyapaccayena paccayo, ajjhattikā indriyā (rūpajīvitindriyampi vitthāretabbaṃ)…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Mātikāpadāni anumajjantena vitthāretabbāni.)
 
-2848. Bahiddhā dhammo bahiddhā dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.)
+2848\. Bahiddhā dhammo bahiddhā dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Āhāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Ahara.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Atthi)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Atthi.md)
 

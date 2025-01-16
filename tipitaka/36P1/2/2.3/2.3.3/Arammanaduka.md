@@ -13,7 +13,7 @@
 
 (163.)
 
-582. Ārammaṇapaccayā nahetuyā cattāri, naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
+582\. Ārammaṇapaccayā nahetuyā cattāri, naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.3/Arammanaduka/Tika.md)
 

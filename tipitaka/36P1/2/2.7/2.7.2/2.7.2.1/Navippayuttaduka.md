@@ -15,7 +15,7 @@
 
 (409.)
 
-1252. Navippayuttapaccayā nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava, naāhāre nava, naindriye nava, najhāne nava, namagge nava, nasampayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava…pe… .
+1252\. Navippayuttapaccayā nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava, naāhāre nava, naindriye nava, najhāne nava, namagge nava, nasampayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava…pe… .
 
 * [Catukka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Navippayuttaduka/Catukka.md)
 * [Dasaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Navippayuttaduka/Dasaka.md)

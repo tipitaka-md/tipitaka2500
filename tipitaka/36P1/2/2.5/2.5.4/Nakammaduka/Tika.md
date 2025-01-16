@@ -13,7 +13,7 @@
 
 ### Tika
 
-803. Nakammapaccayā nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
+803\. Nakammapaccayā nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
 
 [Go to previous page (Nakammaduka)](/tipitaka/36P1/2/2.5/2.5.4/Nakammaduka.md) / [Go to parent page (Nakammaduka)](/tipitaka/36P1/2/2.5/2.5.4/Nakammaduka.md) / [Go to next page (Pañcaka)](/tipitaka/36P1/2/2.5/2.5.4/Nakammaduka/Pancaka.md)
 

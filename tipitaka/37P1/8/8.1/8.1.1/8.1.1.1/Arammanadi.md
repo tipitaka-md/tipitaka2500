@@ -15,7 +15,7 @@
 
 (4.)
 
-650. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā…  (paṭisandhikkhaṇe natthi) anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  (purejāte paṭisandhikkhaṇe natthi) āsevanapaccayā…  (āsevane vipākaṃ natthi) kammapaccayā…  vipākapaccayā…  āhāra…pe…  indriya…  jhāna…  magga…  sampayutta…  vippayutta…  atthi…  natthi…  vigata…  avigatapaccayā.
+650\. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā…  (paṭisandhikkhaṇe natthi) anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  (purejāte paṭisandhikkhaṇe natthi) āsevanapaccayā…  (āsevane vipākaṃ natthi) kammapaccayā…  vipākapaccayā…  āhāra…pe…  indriya…  jhāna…  magga…  sampayutta…  vippayutta…  atthi…  natthi…  vigata…  avigatapaccayā.
 
 [Go to previous page (Hetu)](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1/Hetu.md) / [Go to parent page (8.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md) / [Go to next page (8.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.2.md)
 

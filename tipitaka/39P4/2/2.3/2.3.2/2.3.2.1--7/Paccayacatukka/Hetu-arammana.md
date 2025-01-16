@@ -17,17 +17,17 @@
 
 (14.)
 
-983. Akusalaṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati hetupaccayā. (1)
+983\. Akusalaṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati hetupaccayā. (1)
 
-984. Abyākataṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati hetupaccayā. (1)
+984\. Abyākataṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati hetupaccayā. (1)
 
-985. Akusalaṃ hetuvippayuttañca abyākataṃ hetuvippayuttañca dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati hetupaccayā. (1)
+985\. Akusalaṃ hetuvippayuttañca abyākataṃ hetuvippayuttañca dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati hetupaccayā. (1)
 
-986. Abyākataṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+986\. Abyākataṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
 
 (15.)
 
-987. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+987\. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P4/2/2.3/2.3.2/2.3.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/2/2.3/2.3.2/2.3.2.1--7/Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇa)](/tipitaka/39P4/2/2.3/2.3.2/2.3.2.1--7/Paccayacatukka/Nahetu-naarammana.md)
 

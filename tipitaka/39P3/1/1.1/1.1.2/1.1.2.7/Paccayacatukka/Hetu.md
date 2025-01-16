@@ -17,7 +17,7 @@
 
 (34.)
 
-56. Hetu akusalo dhammo hetussa akusalassa dhammassa hetupaccayena paccayo. Hetu akusalo dhammo nahetussa akusalassa dhammassa hetupaccayena paccayo. Hetu akusalo dhammo hetussa akusalassa ca nahetussa akusalassa ca dhammassa hetupaccayena paccayo. (3)
+56\. Hetu akusalo dhammo hetussa akusalassa dhammassa hetupaccayena paccayo. Hetu akusalo dhammo nahetussa akusalassa dhammassa hetupaccayena paccayo. Hetu akusalo dhammo hetussa akusalassa ca nahetussa akusalassa ca dhammassa hetupaccayena paccayo. (3)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka.md) / [Go to next page (Ārammaṇādi)](/tipitaka/39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka/Arammanadi.md)
 

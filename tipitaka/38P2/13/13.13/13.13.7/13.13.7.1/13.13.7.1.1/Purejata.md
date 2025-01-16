@@ -17,9 +17,9 @@
 
 (287.)
 
-4691. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu naarūpāvacarānaṃ khandhānaṃ purejātapaccayena paccayo. Naarūpāvacaro dhammo arūpāvacarassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu arūpāvacarānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+4691\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu naarūpāvacarānaṃ khandhānaṃ purejātapaccayena paccayo. Naarūpāvacaro dhammo arūpāvacarassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu arūpāvacarānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
 
-4692. Pacchājātapaccayena paccayo…  dve…  āsevanapaccayena paccayo…  tīṇi.
+4692\. Pacchājātapaccayena paccayo…  dve…  āsevanapaccayena paccayo…  tīṇi.
 
 [Go to previous page (Upanissaya)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Upanissaya.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Kamma.md)
 

@@ -17,7 +17,7 @@
 
 (336.)
 
-3144. Hetuyā nava, ārammaṇe nava, adhipatiyā pañca, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava (sabbattha nava), avigate nava.
+3144\. Hetuyā nava, ārammaṇe nava, adhipatiyā pañca, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava (sabbattha nava), avigate nava.
 
 [Go to previous page (10.12.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.12/10.12.3/10.12.3.1/10.12.3.1.2.md) / [Go to parent page (10.12.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.12/10.12.3/10.12.3.1/10.12.3.1.2.md) / [Go to next page (10.12.3.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.12/10.12.3/10.12.3.2.md)
 

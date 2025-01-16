@@ -15,7 +15,7 @@
 
 (14.)
 
-1693. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nasampayuttapaccayā…pe… . (Naārammaṇapaccayasadisaṃ.)
+1693\. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nasampayuttapaccayā…pe… . (Naārammaṇapaccayasadisaṃ.)
 
 [Go to previous page (Naāhārādi)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Naaharadi.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.1/12.1.2/2.1.2.1.md) / [Go to next page (Navippayuttādi)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Navippayuttadi.md)
 

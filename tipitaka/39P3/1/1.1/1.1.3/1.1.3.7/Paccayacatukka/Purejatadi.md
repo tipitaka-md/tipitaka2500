@@ -17,27 +17,27 @@
 
 (57.)
 
-96. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa purejātapaccayena paccayo…  tīṇi.
+96\. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa purejātapaccayena paccayo…  tīṇi.
 
 (58.)
 
-97. Hetu abyākato dhammo nahetussa abyākatassa dhammassa pacchājātapaccayena paccayo. (1)
+97\. Hetu abyākato dhammo nahetussa abyākatassa dhammassa pacchājātapaccayena paccayo. (1)
 
-98. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa pacchājātapaccayena paccayo. (1)
+98\. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa pacchājātapaccayena paccayo. (1)
 
-99. Hetu abyākato ca nahetu abyākato ca dhammā nahetussa abyākatassa dhammassa pacchājātapaccayena paccayo. (1)
+99\. Hetu abyākato ca nahetu abyākato ca dhammā nahetussa abyākatassa dhammassa pacchājātapaccayena paccayo. (1)
 
 (59.)
 
-100. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa kammapaccayena paccayo…  tīṇi.
+100\. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa kammapaccayena paccayo…  tīṇi.
 
 (60.)
 
-101. Hetu abyākato dhammo hetussa abyākatassa dhammassa vipākapaccayena paccayo…  nava.
+101\. Hetu abyākato dhammo hetussa abyākatassa dhammassa vipākapaccayena paccayo…  nava.
 
 (61.)
 
-102. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
+102\. Nahetu abyākato dhammo nahetussa abyākatassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
 
 [Go to previous page (Ārammaṇādi)](/tipitaka/39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka/Arammanadi.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka.md) / [Go to next page (Vippayutta)](/tipitaka/39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka/Vippayutta.md)
 

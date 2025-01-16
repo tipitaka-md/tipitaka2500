@@ -17,23 +17,23 @@
 
 (130.)
 
-454. Dassanena pahātabbahetuko nahetu dhammo dassanena pahātabbahetukassa nahetussa dhammassa ārammaṇapaccayena paccayo…  dve.
+454\. Dassanena pahātabbahetuko nahetu dhammo dassanena pahātabbahetukassa nahetussa dhammassa ārammaṇapaccayena paccayo…  dve.
 
-455. Bhāvanāya pahātabbahetuko nahetu dhammo bhāvanāya pahātabbahetukassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+455\. Bhāvanāya pahātabbahetuko nahetu dhammo bhāvanāya pahātabbahetukassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
 
-456. Nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo nevadassanena nabhāvanāya pahātabbahetukassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+456\. Nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo nevadassanena nabhāvanāya pahātabbahetukassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
 
 (131.)
 
-457. Ārammaṇe aṭṭha, adhipatiyā dasa…pe…  upanissaye aṭṭha…pe…  avigate terasa. (Saṃkhittaṃ.)
+457\. Ārammaṇe aṭṭha, adhipatiyā dasa…pe…  upanissaye aṭṭha…pe…  avigate terasa. (Saṃkhittaṃ.)
 
-458. Nahetuyā cuddasa, naārammaṇe cuddasa. (Saṃkhittaṃ.)
+458\. Nahetuyā cuddasa, naārammaṇe cuddasa. (Saṃkhittaṃ.)
 
-459. Ārammaṇapaccayā nahetuyā aṭṭha. (Saṃkhittaṃ.)
+459\. Ārammaṇapaccayā nahetuyā aṭṭha. (Saṃkhittaṃ.)
 
-460. Nahetupaccayā ārammaṇe aṭṭha. (Saṃkhittaṃ.)
+460\. Nahetupaccayā ārammaṇe aṭṭha. (Saṃkhittaṃ.)
 
-461. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+461\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Nahetu)](/tipitaka/39P4/1/1.9/1.9.2/1.9.2.1--7/Paccaniya/Nahetu.md) / [Go to parent page (Paccanīya)](/tipitaka/39P4/1/1.9/1.9.2/1.9.2.1--7/Paccaniya.md) / [Go to next page (1.10 Ācayagāmittika, Hetuduka)](/tipitaka/39P4/1/1.10.md)
 

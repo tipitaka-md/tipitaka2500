@@ -13,7 +13,7 @@
 
 (25.)
 
-1855. Hetupaccayā naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte dve.
+1855\. Hetupaccayā naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte dve.
 
 * [Tika](/tipitaka/36P1/3/3.1/3.1.3/Hetuduka/Tika.md)
 

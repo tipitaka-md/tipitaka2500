@@ -17,7 +17,7 @@
 
 (356.)
 
-3202. Bāhiro dhammo bāhirassa dhammassa jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
+3202\. Bāhiro dhammo bāhirassa dhammassa jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
 
 [Go to previous page (Indriya)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Indriya.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Vippayutta.md)
 

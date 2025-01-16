@@ -17,17 +17,17 @@
 
 (316.)
 
-648. Hetuṃ apacayagāmiṃ dhammaṃ paṭicca hetu apacayagāmī dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+648\. Hetuṃ apacayagāmiṃ dhammaṃ paṭicca hetu apacayagāmī dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
 
 (317.)
 
-649. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+649\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
 
-650. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
+650\. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
 
-651. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
+651\. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
 
-652. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+652\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka.md) / [Go to next page (1.10.2.7 Pañhāvāra)](/tipitaka/39P3/1/1.10/1.10.2/1.10.2.7.md)
 

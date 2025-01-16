@@ -15,7 +15,7 @@
 
 (2.)
 
-1799. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (adhipatiyā paṭisandhi natthi)…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā—  sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ purejātapaccayā. (Saṃkhittaṃ.)
+1799\. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (adhipatiyā paṭisandhi natthi)…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā—  sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ purejātapaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Hetu)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Hetu.md) / [Go to parent page (3.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1.md) / [Go to next page (Āsevanādi)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Asevanadi.md)
 

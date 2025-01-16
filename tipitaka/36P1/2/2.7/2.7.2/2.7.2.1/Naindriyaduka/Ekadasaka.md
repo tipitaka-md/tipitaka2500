@@ -15,7 +15,7 @@
 
 ### Ekādasaka
 
-1244. Naindriyapaccayā nahetupaccayā…pe…  naupanissayapaccayā napurejāte pañca, napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre tīṇi. (Kātabbaṃ.)
+1244\. Naindriyapaccayā nahetupaccayā…pe…  naupanissayapaccayā napurejāte pañca, napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre tīṇi. (Kātabbaṃ.)
 
 [Go to previous page (Dasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Dasaka.md) / [Go to parent page (Naindriyaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka.md) / [Go to next page (Terasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Terasaka.md)
 

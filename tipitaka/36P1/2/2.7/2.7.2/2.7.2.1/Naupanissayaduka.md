@@ -15,7 +15,7 @@
 
 (403.)
 
-1208. Naupanissayapaccayā nahetuyā pannarasa, naārammaṇe terasa, naadhipatiyā pannarasa, naanantare pannarasa, nasamanantare pannarasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, napurejāte terasa, napacchājāte pannarasa, naāsevane pannarasa, nakamme pannarasa, navipāke pannarasa, naāhāre pannarasa, naindriye pannarasa, najhāne pannarasa, namagge pannarasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā pannarasa, novigate pannarasa, noavigate nava…pe… .
+1208\. Naupanissayapaccayā nahetuyā pannarasa, naārammaṇe terasa, naadhipatiyā pannarasa, naanantare pannarasa, nasamanantare pannarasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, napurejāte terasa, napacchājāte pannarasa, naāsevane pannarasa, nakamme pannarasa, navipāke pannarasa, naāhāre pannarasa, naindriye pannarasa, najhāne pannarasa, namagge pannarasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā pannarasa, novigate pannarasa, noavigate nava…pe… .
 
 * [Catukka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka/Catukka.md)
 * [Aṭṭhaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka/Atthaka.md)

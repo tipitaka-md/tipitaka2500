@@ -15,7 +15,7 @@
 
 (5.)
 
-1806. Atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
+1806\. Atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
 
 [Go to previous page (Āhārādi)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1/Aharadi.md) / [Go to parent page (3.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.1.md) / [Go to next page (3.1.1.2 Saṅkhyāvāra)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.2.md)
 

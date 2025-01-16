@@ -17,7 +17,7 @@
 
 (110.)
 
-2592. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), purejāte nava, āsevane nava…pe…  avigate nava.
+2592\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), purejāte nava, āsevane nava…pe…  avigate nava.
 
 [Go to previous page (10.3.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.2.md) / [Go to parent page (10.3.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.1/10.3.3.1.2.md) / [Go to next page (10.3.3.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2.md)
 

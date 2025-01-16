@@ -17,7 +17,7 @@
 
 (33.)
 
-1056. Noāsavo dhammo noāsavassa dhammassa indriyapaccayena paccayo—  noāsavā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe…  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa…pe… . **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava.
+1056\. Noāsavo dhammo noāsavassa dhammassa indriyapaccayena paccayo—  noāsavā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe…  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa…pe… . **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava.
 
 [Go to previous page (Vipākāhāra)](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Vipakahara.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1/Vippayutta.md)
 

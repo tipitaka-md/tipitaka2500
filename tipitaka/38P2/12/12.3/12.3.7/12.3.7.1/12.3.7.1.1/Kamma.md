@@ -17,11 +17,11 @@
 
 (62.)
 
-3975. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  saṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+3975\. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  saṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
 
-3976. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  saṃkiliṭṭhā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  saṃkiliṭṭhā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Saṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+3976\. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  saṃkiliṭṭhā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  saṃkiliṭṭhā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Saṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
-3977. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  asaṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  asaṃkiliṭṭhā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+3977\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  asaṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  asaṃkiliṭṭhā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
 [Go to previous page (Pacchājātāsevana)](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Pacchajatasevana.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1.md) / [Go to next page (Vipākādi)](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Vipakadi.md)
 

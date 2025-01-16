@@ -15,7 +15,7 @@
 
 (31.)
 
-724. Pītisahagato dhammo pītisahagatassa dhammassa sahajātapaccayena paccayo—  pītisahagato eko khandho tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ sahajātapaccayena paccayo…pe… . (Paṭiccasadisaṃ sahajāte dasa pañhā.)
+724\. Pītisahagato dhammo pītisahagatassa dhammassa sahajātapaccayena paccayo—  pītisahagato eko khandho tiṇṇannaṃ khandhānaṃ sahajātapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ sahajātapaccayena paccayo…pe… . (Paṭiccasadisaṃ sahajāte dasa pañhā.)
 
 [Go to previous page (Samanantara)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Samanantara.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page (Aññamañña-nissaya)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Annamanna-nissaya.md)
 

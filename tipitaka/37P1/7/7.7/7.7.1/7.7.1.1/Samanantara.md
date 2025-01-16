@@ -15,7 +15,7 @@
 
 (84.)
 
-351. Savitakkasavicāro dhammo savitakkasavicārassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayopi samanantarapaccayopi sadiso.)
+351\. Savitakkasavicāro dhammo savitakkasavicārassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayopi samanantarapaccayopi sadiso.)
 
 [Go to previous page (Anantara)](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Anantara.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page (Sahajāta)](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sahajata.md)
 

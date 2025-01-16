@@ -15,7 +15,7 @@
 
 ### Tika
 
-571. Navippayuttapaccayā nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā dve, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+571\. Navippayuttapaccayā nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā dve, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
 
 [Go to previous page (Navippayuttaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Navippayuttaduka.md) / [Go to parent page (Navippayuttaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Navippayuttaduka.md) / [Go to next page (Catukka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Navippayuttaduka/Catukka.md)
 

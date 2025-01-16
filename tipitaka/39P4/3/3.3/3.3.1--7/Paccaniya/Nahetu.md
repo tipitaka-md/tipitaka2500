@@ -15,11 +15,11 @@
 
 (13.)
 
-1127. Akusalaṃ anidassanaṃ dhammaṃ paṭicca akusalo anidassano dhammo uppajjati nahetupaccayā. (1)
+1127\. Akusalaṃ anidassanaṃ dhammaṃ paṭicca akusalo anidassano dhammo uppajjati nahetupaccayā. (1)
 
-1128. Abyākataṃ anidassanaṃ dhammaṃ paṭicca abyākato anidassano dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+1128\. Abyākataṃ anidassanaṃ dhammaṃ paṭicca abyākato anidassano dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
 
-1129. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1129\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
 [Go to previous page (Paccanīya)](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya/Hetu-arammana.md)
 

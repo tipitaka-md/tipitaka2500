@@ -17,13 +17,13 @@
 
 (235.)
 
-889. Ajjhattārammaṇaṃ nahetuṃ dhammaṃ paṭicca ajjhattārammaṇo nahetu dhammo uppajjati hetupaccayā. (1)
+889\. Ajjhattārammaṇaṃ nahetuṃ dhammaṃ paṭicca ajjhattārammaṇo nahetu dhammo uppajjati hetupaccayā. (1)
 
-890. Bahiddhārammaṇaṃ nahetuṃ dhammaṃ paṭicca bahiddhārammaṇo nahetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+890\. Bahiddhārammaṇaṃ nahetuṃ dhammaṃ paṭicca bahiddhārammaṇo nahetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
-891. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+891\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
-892. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+892\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P4/1/1.21/1.21.2/1.21.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.21/1.21.2/1.21.2.1--7/Paccayacatukka.md) / [Go to next page (Ārammaṇa)](/tipitaka/39P4/1/1.21/1.21.2/1.21.2.1--7/Paccayacatukka/Arammana.md)
 

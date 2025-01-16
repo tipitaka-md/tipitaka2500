@@ -15,11 +15,11 @@
 
 (3.)
 
-2874. Hetupaccayā ārammaṇe dve (saṃkhittaṃ, sabbattha dve), avigate dve. (Evaṃ gaṇetabbaṃ.)
+2874\. Hetupaccayā ārammaṇe dve (saṃkhittaṃ, sabbattha dve), avigate dve. (Evaṃ gaṇetabbaṃ.)
 
 ---
 
-2875. Anulomaṃ.
+2875\. Anulomaṃ.
 
 
 

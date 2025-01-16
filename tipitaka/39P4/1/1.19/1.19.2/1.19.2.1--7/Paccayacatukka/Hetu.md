@@ -17,19 +17,19 @@
 
 (218.)
 
-831. Atītārammaṇaṃ nahetuṃ dhammaṃ paṭicca atītārammaṇo nahetu dhammo uppajjati hetupaccayā. (1)
+831\. Atītārammaṇaṃ nahetuṃ dhammaṃ paṭicca atītārammaṇo nahetu dhammo uppajjati hetupaccayā. (1)
 
-832. Anāgatārammaṇaṃ nahetuṃ dhammaṃ paṭicca anāgatārammaṇo nahetu dhammo uppajjati hetupaccayā. (1)
+832\. Anāgatārammaṇaṃ nahetuṃ dhammaṃ paṭicca anāgatārammaṇo nahetu dhammo uppajjati hetupaccayā. (1)
 
-833. Paccuppannārammaṇaṃ nahetuṃ dhammaṃ paṭicca paccuppannārammaṇo nahetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+833\. Paccuppannārammaṇaṃ nahetuṃ dhammaṃ paṭicca paccuppannārammaṇo nahetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 (219.)
 
-834. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+834\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
-835. Nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge tīṇi, navippayutte dve. (Saṃkhittaṃ.)
+835\. Nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge tīṇi, navippayutte dve. (Saṃkhittaṃ.)
 
-836. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+836\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P4/1/1.19/1.19.2/1.19.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.19/1.19.2/1.19.2.1--7/Paccayacatukka.md) / [Go to next page (Ārammaṇa)](/tipitaka/39P4/1/1.19/1.19.2/1.19.2.1--7/Paccayacatukka/Arammana.md)
 

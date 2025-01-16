@@ -13,11 +13,11 @@
 
 ### Navippayuttādi
 
-1694. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati navippayuttapaccayā. Arūpe sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
+1694\. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati navippayuttapaccayā. Arūpe sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
 
-1695. Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati navippayuttapaccayā—  arūpe asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
+1695\. Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati navippayuttapaccayā—  arūpe asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
 
-1696. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navippayuttapaccayā—  arūpe nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  nonatthipaccayā…  novigatapaccayā.
+1696\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati navippayuttapaccayā—  arūpe nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  nonatthipaccayā…  novigatapaccayā.
 
 [Go to previous page (Nasampayutta)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Nasampayutta.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.1/12.1.2/2.1.2.1.md) / [Go to next page (12.1.2 Paccayapaccanīya)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.md)
 

@@ -15,11 +15,11 @@
 
 (201.)
 
-542. Nahetupaccayā ārammaṇe cattāri, adhipatiyā cattāri…pe…  avigate satta.
+542\. Nahetupaccayā ārammaṇe cattāri, adhipatiyā cattāri…pe…  avigate satta.
 
 ---
 
-543. Paccanīyānulomaṃ.
+543\. Paccanīyānulomaṃ.
 
   
 Nahetusahetukadukaṃ niṭṭhitaṃ.
@@ -28,7 +28,7 @@ Nahetusahetukadukaṃ niṭṭhitaṃ.
 
 ---
 
-544. Hetugocchakaṃ niṭṭhitaṃ.
+544\. Hetugocchakaṃ niṭṭhitaṃ.
 
 
 

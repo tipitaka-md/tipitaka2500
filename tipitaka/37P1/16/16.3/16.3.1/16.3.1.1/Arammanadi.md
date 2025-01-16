@@ -15,7 +15,7 @@
 
 (17.)
 
-2299. Micchattaniyataṃ dhammaṃ paccayā micchattaniyato dhammo uppajjati ārammaṇapaccayā…  (saṃkhittaṃ, kusalattike paccayavārasadisaṃ vibhajitabbaṃ)…  avigatapaccayā.
+2299\. Micchattaniyataṃ dhammaṃ paccayā micchattaniyato dhammo uppajjati ārammaṇapaccayā…  (saṃkhittaṃ, kusalattike paccayavārasadisaṃ vibhajitabbaṃ)…  avigatapaccayā.
 
 [Go to previous page (Hetu)](/tipitaka/37P1/16/16.3/16.3.1/16.3.1.1/Hetu.md) / [Go to parent page (16.3.1.1 Vibhaṅgavāra)](/tipitaka/37P1/16/16.3/16.3.1/16.3.1.1.md) / [Go to next page (16.3.1.2 Saṅkhyāvāra)](/tipitaka/37P1/16/16.3/16.3.1/16.3.1.2.md)
 

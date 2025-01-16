@@ -15,7 +15,7 @@
 
 ### Sāmaññaghaṭanā
 
-1951. Hetu sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Hetu sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti dve.
+1951\. Hetu sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Hetu sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti dve.
 
 [Go to previous page (Hetusabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu/Hetusabhaga.md) / [Go to parent page (Hetu)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu.md) / [Go to next page (Saindriya-maggaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu/Saindriya-maggaghatana.md)
 

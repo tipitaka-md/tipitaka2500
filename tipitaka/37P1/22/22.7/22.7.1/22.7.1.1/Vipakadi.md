@@ -15,7 +15,7 @@
 
 (23.)
 
-2916. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa vipākapaccayena paccayo…pe…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+2916\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa vipākapaccayena paccayo…pe…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
 
 [Go to previous page (Kamma)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Kamma.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1.md) / [Go to next page (22.7.1.2 Saṅkhyāvāra)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.2.md)
 

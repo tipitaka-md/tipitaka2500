@@ -15,25 +15,25 @@
 
 (81.)
 
-981. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa nissayapaccayena paccayo…  tīṇi.
+981\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa nissayapaccayena paccayo…  tīṇi.
 
-982. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa…  tīṇi.
+982\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa…  tīṇi.
 
-983. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  nevadassanena nabhāvanāya pahātabbo eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa…pe…  vatthu khandhānaṃ…pe…  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ…pe…  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu…pe… . (1)
+983\. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  nevadassanena nabhāvanāya pahātabbo eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa…pe…  vatthu khandhānaṃ…pe…  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ…pe…  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu…pe… . (1)
 
-984. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa nissayapaccayena paccayo—  vatthu dassanena pahātabbānaṃ khandhānaṃ nissayapaccayena paccayo. (2)
+984\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa nissayapaccayena paccayo—  vatthu dassanena pahātabbānaṃ khandhānaṃ nissayapaccayena paccayo. (2)
 
-985. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  vatthu bhāvanāya pahātabbānaṃ khandhānaṃ nissayapaccayena paccayo. (3)
+985\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  vatthu bhāvanāya pahātabbānaṃ khandhānaṃ nissayapaccayena paccayo. (3)
 
 (82.)
 
-986. Dassanena pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā dassanena pahātabbassa dhammassa nissayapaccayena paccayo—  dassanena pahātabbo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (1)
+986\. Dassanena pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā dassanena pahātabbassa dhammassa nissayapaccayena paccayo—  dassanena pahātabbo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (1)
 
-987. Dassanena pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  dassanena pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
+987\. Dassanena pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  dassanena pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
 
-988. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā bhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (1)
+988\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā bhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbo eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (1)
 
-989. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
+989\. Bhāvanāya pahātabbo ca nevadassanena nabhāvanāya pahātabbo ca dhammā nevadassanena nabhāvanāya pahātabbassa dhammassa nissayapaccayena paccayo—  bhāvanāya pahātabbā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ nissayapaccayena paccayo. (2)
 
 [Go to previous page (Aññamañña)](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Annamanna.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/37P1/9/9.7/9.7.1/9.7.1.1/Upanissaya.md)
 

@@ -17,7 +17,7 @@
 
 (320.)
 
-4754. Aniyyāniko dhammo aniyyānikassa dhammassa purejātapaccayena paccayo…  dve (arūpadukasadisā kātabbā)…  pacchājātapaccayena paccayo…  dve…  āsevanapaccayena paccayo…  dve.
+4754\. Aniyyāniko dhammo aniyyānikassa dhammassa purejātapaccayena paccayo…  dve (arūpadukasadisā kātabbā)…  pacchājātapaccayena paccayo…  dve…  āsevanapaccayena paccayo…  dve.
 
 [Go to previous page (Upanissaya)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Upanissaya.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Kamma.md)
 

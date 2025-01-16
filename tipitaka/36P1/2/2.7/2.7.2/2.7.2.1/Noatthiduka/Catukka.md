@@ -15,7 +15,7 @@
 
 ### Catukka
 
-1258. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā nava…pe…  nanissaye nava, naupanissaye dve…pe… .
+1258\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā nava…pe…  nanissaye nava, naupanissaye dve…pe… .
 
 [Go to previous page (Noatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md) / [Go to parent page (Noatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md) / [Go to next page (Dasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Dasaka.md)
 

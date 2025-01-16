@@ -15,21 +15,21 @@
 
 (237.)
 
-899. Anidassanaappaṭighaṃ hetuṃ dhammaṃ paṭicca anidassanaappaṭigho hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+899\. Anidassanaappaṭighaṃ hetuṃ dhammaṃ paṭicca anidassanaappaṭigho hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
-900. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+900\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-901. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+901\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
 (238.)
 
-902. Anidassanaappaṭigho hetu dhammo anidassanaappaṭighassa hetussa dhammassa hetupaccayena paccayo. (1)
+902\. Anidassanaappaṭigho hetu dhammo anidassanaappaṭighassa hetussa dhammassa hetupaccayena paccayo. (1)
 
-903. Anidassanaappaṭigho hetu dhammo anidassanaappaṭighassa hetussa dhammassa ārammaṇapaccayena paccayo. (1) (Saṃkhittaṃ.)
+903\. Anidassanaappaṭigho hetu dhammo anidassanaappaṭighassa hetussa dhammassa ārammaṇapaccayena paccayo. (1) (Saṃkhittaṃ.)
 
-904. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sabbattha ekaṃ.)
+904\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sabbattha ekaṃ.)
 
-905. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+905\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
 [Go to previous page (1.22.1.1--7 Paṭiccādivāra)](/tipitaka/39P4/1/1.22/1.22.1/1.22.1.1--7.md) / [Go to parent page (1.22.1.1--7 Paṭiccādivāra)](/tipitaka/39P4/1/1.22/1.22.1/1.22.1.1--7.md) / [Go to next page (1.22.2 Nahetupada)](/tipitaka/39P4/1/1.22/1.22.2.md)
 

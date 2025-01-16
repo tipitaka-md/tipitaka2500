@@ -15,7 +15,7 @@
 
 ### Catukka
 
-1227. Nakammapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā pannarasa…pe…  naupanissaye terasa, napurejāte terasa, napacchājāte pannarasa…pe…  noavigate nava…pe… .
+1227\. Nakammapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā pannarasa…pe…  naupanissaye terasa, napurejāte terasa, napacchājāte pannarasa…pe…  noavigate nava…pe… .
 
 [Go to previous page (Nakammaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka.md) / [Go to parent page (Nakammaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka.md) / [Go to next page (Dasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka/Dasaka.md)
 

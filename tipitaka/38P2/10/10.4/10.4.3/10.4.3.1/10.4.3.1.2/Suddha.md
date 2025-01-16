@@ -17,7 +17,7 @@
 
 (157.)
 
-2702. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava…pe…  avigate nava.
+2702\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava…pe…  avigate nava.
 
 [Go to previous page (10.4.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.4/10.4.3/10.4.3.1/10.4.3.1.2.md) / [Go to parent page (10.4.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.4/10.4.3/10.4.3.1/10.4.3.1.2.md) / [Go to next page (10.4.3.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.4/10.4.3/10.4.3.2.md)
 

@@ -17,7 +17,7 @@
 
 (61.)
 
-3974. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) … Āsevanapaccayena paccayo…  dve.
+3974\. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) … Āsevanapaccayena paccayo…  dve.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Purejata.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/12/12.3/12.3.7/12.3.7.1/12.3.7.1.1/Kamma.md)
 

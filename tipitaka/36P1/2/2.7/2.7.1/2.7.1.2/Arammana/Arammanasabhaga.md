@@ -17,7 +17,7 @@
 
 (308.)
 
-1016. Ārammaṇapaccayā adhipatiyā satta, nissaye tīṇi, upanissaye satta, purejāte tīṇi, vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (7)
+1016\. Ārammaṇapaccayā adhipatiyā satta, nissaye tīṇi, upanissaye satta, purejāte tīṇi, vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (7)
 
 [Go to previous page (Ārammaṇa)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Arammana.md) / [Go to parent page (Ārammaṇa)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Arammana.md) / [Go to next page (Ārammaṇaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Arammana/Arammanaghatana.md)
 

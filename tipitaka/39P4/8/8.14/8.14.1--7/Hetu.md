@@ -13,21 +13,21 @@
 
 (49.)
 
-1849. Hīnaṃ saraṇaṃ dhammaṃ paṭicca hīno saraṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1849\. Hīnaṃ saraṇaṃ dhammaṃ paṭicca hīno saraṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-1850. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1850\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 (50.)
 
-1851. Majjhimaṃ araṇaṃ dhammaṃ paṭicca majjhimo araṇo dhammo uppajjati hetupaccayā. (1)
+1851\. Majjhimaṃ araṇaṃ dhammaṃ paṭicca majjhimo araṇo dhammo uppajjati hetupaccayā. (1)
 
-1852. Paṇītaṃ araṇaṃ dhammaṃ paṭicca paṇīto araṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1852\. Paṇītaṃ araṇaṃ dhammaṃ paṭicca paṇīto araṇo dhammo uppajjati hetupaccayā…  tīṇi.
 
-1853. Majjhimaṃ araṇañca paṇītaṃ araṇañca dhammaṃ paṭicca majjhimo araṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1853\. Majjhimaṃ araṇañca paṇītaṃ araṇañca dhammaṃ paṭicca majjhimo araṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
-1854. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.)
+1854\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.)
 
-1855. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+1855\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
 
 [Go to previous page (8.14.1--7 Paṭiccādivāra)](/tipitaka/39P4/8/8.14/8.14.1--7.md) / [Go to parent page (8.14.1--7 Paṭiccādivāra)](/tipitaka/39P4/8/8.14/8.14.1--7.md) / [Go to next page (8.15 Micchattaniyatattika, Saraṇaduka)](/tipitaka/39P4/8/8.15.md)
 

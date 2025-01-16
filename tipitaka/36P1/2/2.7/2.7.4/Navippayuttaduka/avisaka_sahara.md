@@ -13,7 +13,7 @@
 
 ### Bāvīsaka (sāhāra)
 
-1776. Navippayuttapaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) naāhārapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā nonatthipaccayā novigatapaccayā indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+1776\. Navippayuttapaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) naāhārapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā nonatthipaccayā novigatapaccayā indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
 
 [Go to previous page (Sattarasaka (sāhāra))](/tipitaka/36P1/2/2.7/2.7.4/Navippayuttaduka/attarasaka _sahara.md) / [Go to parent page (Navippayuttaduka)](/tipitaka/36P1/2/2.7/2.7.4/Navippayuttaduka.md) / [Go to next page (Sattarasaka (saindriya))](/tipitaka/36P1/2/2.7/2.7.4/Navippayuttaduka/attarasaka_saindriya.md)
 

@@ -13,7 +13,7 @@
 
 (33.)
 
-1798. Dassanena pahātabbahetukaṃ saraṇaṃ dhammaṃ paṭicca…pe…  bhāvanāya pahātabbahetukaṃ saraṇaṃ dhammaṃ paṭicca…pe…  nevadassanena nabhāvanāya pahātabbahetukaṃ saraṇaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko saraṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1798\. Dassanena pahātabbahetukaṃ saraṇaṃ dhammaṃ paṭicca…pe…  bhāvanāya pahātabbahetukaṃ saraṇaṃ dhammaṃ paṭicca…pe…  nevadassanena nabhāvanāya pahātabbahetukaṃ saraṇaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko saraṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (8.9.1--7 Paṭiccādivāra)](/tipitaka/39P4/8/8.9/8.9.1--7.md) / [Go to parent page (8.9.1--7 Paṭiccādivāra)](/tipitaka/39P4/8/8.9/8.9.1--7.md) / [Go to next page (8.10 Ācayagāmittika, Saraṇaduka)](/tipitaka/39P4/8/8.10.md)
 

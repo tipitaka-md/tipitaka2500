@@ -13,7 +13,7 @@
 
 (6.)
 
-2821. Hetupaccayā naārammaṇe pañca, naadhipatiyā cha…pe…  napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
+2821\. Hetupaccayā naārammaṇe pañca, naadhipatiyā cha…pe…  napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
 
 [Go to previous page (6.1.3 Paccayānulomapaccanīya)](/tipitaka/36P1/6/6.1/6.1.3.md) / [Go to parent page (6.1.3 Paccayānulomapaccanīya)](/tipitaka/36P1/6/6.1/6.1.3.md) / [Go to next page (6.1.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/6/6.1/6.1.4.md)
 

@@ -15,11 +15,11 @@
 
 (21.)
 
-2909. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā ajjhattārammaṇā khandhā pacchimānaṃ pacchimānaṃ ajjhattārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+2909\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā ajjhattārammaṇā khandhā pacchimānaṃ pacchimānaṃ ajjhattārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
 
-2910. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa āsevanapaccayena paccayo—  ajjhattārammaṇaṃ anulomaṃ gotrabhussa, anulomaṃ vodānassa āsevanapaccayena paccayo. (2)
+2910\. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa āsevanapaccayena paccayo—  ajjhattārammaṇaṃ anulomaṃ gotrabhussa, anulomaṃ vodānassa āsevanapaccayena paccayo. (2)
 
-2911. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā bahiddhārammaṇā khandhā pacchimānaṃ pacchimānaṃ bahiddhārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. Bahiddhārammaṇaṃ anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+2911\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā bahiddhārammaṇā khandhā pacchimānaṃ pacchimānaṃ bahiddhārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo. Bahiddhārammaṇaṃ anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
 
 [Go to previous page (Upanissaya)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Upanissaya.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Kamma.md)
 

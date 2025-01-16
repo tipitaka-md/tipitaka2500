@@ -15,7 +15,7 @@
 
 ### Catukka
 
-264. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ, naanantare ekaṃ, (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+264\. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ, naanantare ekaṃ, (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Napacchajata-naasevanaduka/Tika.md) / [Go to parent page (Napacchājāta-naāsevanaduka)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Napacchajata-naasevanaduka.md) / [Go to next page (Nakammaduka)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nakammaduka.md)
 

@@ -15,7 +15,7 @@
 
 (2.)
 
-2873. Ajjhattārammaṇaṃ dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati ārammaṇapaccayā…pe…  avigatapaccayā. (Saṃkhittaṃ.)
+2873\. Ajjhattārammaṇaṃ dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati ārammaṇapaccayā…pe…  avigatapaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Hetu)](/tipitaka/37P1/22/22.1/22.1.1/22.1.1.1/Hetu.md) / [Go to parent page (22.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/22/22.1/22.1.1/22.1.1.1.md) / [Go to next page (22.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/22/22.1/22.1.1/22.1.1.2.md)
 

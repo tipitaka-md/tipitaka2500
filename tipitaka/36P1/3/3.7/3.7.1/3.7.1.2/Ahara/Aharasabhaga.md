@@ -17,7 +17,7 @@
 
 (76.)
 
-1976. Āhārapaccayā adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, indriye tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (10)
+1976\. Āhārapaccayā adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, indriye tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (10)
 
 [Go to previous page (Āhāra)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Ahara.md) / [Go to parent page (Āhāra)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Ahara.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Ahara/Ghatana.md)
 

@@ -15,7 +15,7 @@
 
 (36.)
 
-3014. Anidassanasappaṭigho dhammo anidassanasappaṭighassa dhammassa sahajātapaccayena paccayo. (Paṭiccavārasadisaṃ sādhukaṃ kātabbaṃ. Aññamaññapaccaye paṭiccavāre aññamaññasadisaṃ, nissayapaccaye paṭiccavārasadisaṃ.)
+3014\. Anidassanasappaṭigho dhammo anidassanasappaṭighassa dhammassa sahajātapaccayena paccayo. (Paṭiccavārasadisaṃ sādhukaṃ kātabbaṃ. Aññamaññapaccaye paṭiccavāre aññamaññasadisaṃ, nissayapaccaye paṭiccavārasadisaṃ.)
 
 [Go to previous page (Samanantara)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Samanantara.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Upanissaya.md)
 

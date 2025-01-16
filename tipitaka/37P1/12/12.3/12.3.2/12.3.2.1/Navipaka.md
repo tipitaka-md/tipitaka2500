@@ -15,11 +15,11 @@
 
 (28.)
 
-1742. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā. (Sekkhamūlake tīṇi.)
+1742\. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā. (Sekkhamūlake tīṇi.)
 
-1743. Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati navipākapaccayā. (Nevasekkhanāsekkhamūlake tīṇi.)
+1743\. Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati navipākapaccayā. (Nevasekkhanāsekkhamūlake tīṇi.)
 
-1744. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā. (Sekkhaghaṭanesu tīṇi.)
+1744\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā. (Sekkhaghaṭanesu tīṇi.)
 
 [Go to previous page (Naanantarādi)](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naanantaradi.md) / [Go to parent page (12.3.2.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1.md) / [Go to next page (Naāhārādi)](/tipitaka/37P1/12/12.3/12.3.2/12.3.2.1/Naaharadi.md)
 

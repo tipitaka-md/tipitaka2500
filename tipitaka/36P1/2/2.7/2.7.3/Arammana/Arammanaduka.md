@@ -15,7 +15,7 @@
 
 (418.)
 
-1296. Ārammaṇapaccayā nahetuyā nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava, naāhāre nava, naindriye nava, najhāne nava, namagge nava, nasampayutte nava, navippayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava. (23)
+1296\. Ārammaṇapaccayā nahetuyā nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava, naāhāre nava, naindriye nava, najhāne nava, namagge nava, nasampayutte nava, navippayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava. (23)
 
 [Go to previous page (Ārammaṇa)](/tipitaka/36P1/2/2.7/2.7.3/Arammana.md) / [Go to parent page (Ārammaṇa)](/tipitaka/36P1/2/2.7/2.7.3/Arammana.md) / [Go to next page (Ārammaṇaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Arammana/Arammanaghatana.md)
 

@@ -15,7 +15,7 @@
 
 (225.)
 
-735. Naadhipatipaccayā nahetuyā dve, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
+735\. Naadhipatipaccayā nahetuyā dve, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Naadhipatiduka/Tika.md)
 

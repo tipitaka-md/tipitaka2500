@@ -15,13 +15,13 @@
 
 (5.)
 
-2878. Ajjhattārammaṇaṃ dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati naadhipatipaccayā…  (anulomasahajātasadisaṃ, ninnānākaraṇaṃ) napurejātapaccayā—  arūpe ajjhattārammaṇaṃ ekaṃ khandhaṃ paṭicca…pe…  paṭisandhikkhaṇe…pe… . (1)
+2878\. Ajjhattārammaṇaṃ dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati naadhipatipaccayā…  (anulomasahajātasadisaṃ, ninnānākaraṇaṃ) napurejātapaccayā—  arūpe ajjhattārammaṇaṃ ekaṃ khandhaṃ paṭicca…pe…  paṭisandhikkhaṇe…pe… . (1)
 
 (6.)
 
-2879. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . Paṭisandhikkhaṇe…pe…  napacchājātapaccayā…  naāsevanapaccayā…  (sahajātasadisaṃ) nakammapaccayā—  ajjhattārammaṇe khandhe paṭicca ajjhattārammaṇā cetanā.
+2879\. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . Paṭisandhikkhaṇe…pe…  napacchājātapaccayā…  naāsevanapaccayā…  (sahajātasadisaṃ) nakammapaccayā—  ajjhattārammaṇe khandhe paṭicca ajjhattārammaṇā cetanā.
 
-2880. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati nakammapaccayā—  bahiddhārammaṇe khandhe paṭicca bahiddhārammaṇā cetanā.
+2880\. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati nakammapaccayā—  bahiddhārammaṇe khandhe paṭicca bahiddhārammaṇā cetanā.
 
 [Go to previous page (Nahetu)](/tipitaka/37P1/22/22.1/22.1.2/22.1.2.1/Nahetu.md) / [Go to parent page (22.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/22/22.1/22.1.2/22.1.2.1.md) / [Go to next page (Navipākādi)](/tipitaka/37P1/22/22.1/22.1.2/22.1.2.1/Navipakadi.md)
 

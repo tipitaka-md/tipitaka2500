@@ -17,9 +17,9 @@
 
 (306.)
 
-1011. Hetu sahajāta nissaya indriya magga atthi avigatanti cattāri. Hetu sahajāta aññamañña nissaya indriya magga atthi avigatanti dve. Hetu sahajāta aññamañña nissaya indriya magga sampayutta atthi avigatanti dve. Hetu sahajāta nissaya indriya magga vippayutta atthi avigatanti dve. [Avipāka—  4]
+1011\. Hetu sahajāta nissaya indriya magga atthi avigatanti cattāri. Hetu sahajāta aññamañña nissaya indriya magga atthi avigatanti dve. Hetu sahajāta aññamañña nissaya indriya magga sampayutta atthi avigatanti dve. Hetu sahajāta nissaya indriya magga vippayutta atthi avigatanti dve. [Avipāka—  4]
 
-1012. Hetu sahajāta nissaya vipāka indriya magga atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka indriya magga atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka indriya magga sampayutta atthi avigatanti ekaṃ. Hetu sahajāta nissaya vipākaindriya magga vippayutta atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka indriya magga vippayutta atthi avigatanti ekaṃ. [Savipāka—  5]
+1012\. Hetu sahajāta nissaya vipāka indriya magga atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka indriya magga atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka indriya magga sampayutta atthi avigatanti ekaṃ. Hetu sahajāta nissaya vipākaindriya magga vippayutta atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka indriya magga vippayutta atthi avigatanti ekaṃ. [Savipāka—  5]
 
 [Go to previous page (Hetusāmaññaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu/Hetusamannaghatana.md) / [Go to parent page (Hetu)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu.md) / [Go to next page (Sādhipati-indriya-maggaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu/Sadhipati-indriya-maggaghatana.md)
 

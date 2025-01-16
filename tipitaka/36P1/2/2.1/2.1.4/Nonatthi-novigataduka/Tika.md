@@ -13,7 +13,7 @@
 
 ### Tika
 
-396. Novigatapaccayā nahetupaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+396\. Novigatapaccayā nahetupaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
 
 [Go to previous page (Nonatthi-novigataduka)](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka.md) / [Go to parent page (Nonatthi-novigataduka)](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka.md) / [Go to next page (Aṭṭhaka)](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka/Atthaka.md)
 

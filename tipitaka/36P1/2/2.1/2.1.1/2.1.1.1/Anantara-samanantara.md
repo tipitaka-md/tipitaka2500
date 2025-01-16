@@ -15,7 +15,7 @@
 
 (4.)
 
-132. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati anantarapaccayā…  samanantarapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā. (Anantarampi samanantarampi ārammaṇapaccayasadisaṃ.)
+132\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati anantarapaccayā…  samanantarapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā. (Anantarampi samanantarampi ārammaṇapaccayasadisaṃ.)
 
 [Go to previous page (Adhipati)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Adhipati.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page (Sahajāta)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Sahajata.md)
 

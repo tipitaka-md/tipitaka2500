@@ -15,7 +15,7 @@
 
 ### Sattaka
 
-1178. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye satta, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava.
+1178\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye satta, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava.
 
 [Go to previous page (Chakka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Chakka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka.md) / [Go to next page (Aṭṭhaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Atthaka.md)
 

@@ -13,7 +13,7 @@
 
 (175.)
 
-612. Jhānapaccayā nahetuyā cattāri, naārammaṇe pañca…pe…  navipāke sattarasa, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca, jhānapaccayā hetupaccayā. (Saṃkhittaṃ.)
+612\. Jhānapaccayā nahetuyā cattāri, naārammaṇe pañca…pe…  navipāke sattarasa, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca, jhānapaccayā hetupaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Indriyaduka)](/tipitaka/36P1/2/2.3/2.3.3/Indriyaduka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.3/2.3.3.md) / [Go to next page (Maggaduka)](/tipitaka/36P1/2/2.3/2.3.3/Maggaduka.md)
 

@@ -15,9 +15,9 @@
 
 (219.)
 
-721. Kusalaṃ dhammaṃ saṃsaṭṭho…pe…  akusalaṃ dhammaṃ…pe…  abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati navipākapaccayā—  kiriyābyākataṃ ekaṃ khandhaṃ.
+721\. Kusalaṃ dhammaṃ saṃsaṭṭho…pe…  akusalaṃ dhammaṃ…pe…  abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati navipākapaccayā—  kiriyābyākataṃ ekaṃ khandhaṃ.
 
-722. (Saṃsaṭṭhavāre paccanīyavibhaṅge nakamme ca navipāke ca paṭisandhi natthi; avasesesu sabbattha atthi.)
+722\. (Saṃsaṭṭhavāre paccanīyavibhaṅge nakamme ca navipāke ca paṭisandhi natthi; avasesesu sabbattha atthi.)
 
 [Go to previous page (Nakamma)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Nakamma.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page (Najhāna)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Najhana.md)
 

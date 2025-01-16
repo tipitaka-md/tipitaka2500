@@ -15,7 +15,7 @@
 
 (114.)
 
-2381. Vipāko dhammo vipākassa dhammassa sampayuttapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ…pe…  dve khandhā dvinnaṃ…pe…  paṭisandhikkhaṇe…pe…  vipākadhammadhammo vipākadhammadhammassa sampayuttapaccayena paccayo; nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa sampayuttapaccayena paccayo; dve khandhā dvinnaṃ khandhānaṃ sampayuttapaccayena paccayo.
+2381\. Vipāko dhammo vipākassa dhammassa sampayuttapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ…pe…  dve khandhā dvinnaṃ…pe…  paṭisandhikkhaṇe…pe…  vipākadhammadhammo vipākadhammadhammassa sampayuttapaccayena paccayo; nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa sampayuttapaccayena paccayo; dve khandhā dvinnaṃ khandhānaṃ sampayuttapaccayena paccayo.
 
 [Go to previous page (Magga)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Magga.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Vippayutta.md)
 

@@ -13,7 +13,7 @@
 
 ### Aṭṭhaka
 
-397. Novigatapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+397\. Novigatapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka/Tika.md) / [Go to parent page (Nonatthi-novigataduka)](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka.md) / [Go to next page (Terasaka)](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka/Terasaka.md)
 

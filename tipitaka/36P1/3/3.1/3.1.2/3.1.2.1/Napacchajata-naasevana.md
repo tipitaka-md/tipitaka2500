@@ -15,7 +15,7 @@
 
 (11.)
 
-1822. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati napacchājātapaccayā…  naāsevanapaccayā. (Napacchājātampi naāsevanampi paripuṇṇaṃ paṭisandhikaṃ.)
+1822\. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati napacchājātapaccayā…  naāsevanapaccayā. (Napacchājātampi naāsevanampi paripuṇṇaṃ paṭisandhikaṃ.)
 
 [Go to previous page (Napurejāta)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1/Napurejata.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1.md) / [Go to next page (Nakamma)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1/Nakamma.md)
 

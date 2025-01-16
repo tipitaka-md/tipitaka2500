@@ -17,7 +17,7 @@
 
 (192.)
 
-4507. Upekkhāsahagato dhammo naupekkhāsahagatassa dhammassa pacchājātapaccayena paccayo…  tīṇi…  āsevanapaccayena paccayo…  nava…  kammapaccayena paccayo…  cha. (Cattāri sahajātā nānākkhaṇikā kātabbā, dve nānākkhaṇikā ca.) Vipākapaccayena paccayo…  nava…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  nava…  jhānapaccayena paccayo…  nava…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  cha…  vippayuttapaccayena paccayo…  pañca…  atthipaccayena paccayo…  nava…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (Imāni paccayāni sappītikakaraṇena vibhajitabbāni.)
+4507\. Upekkhāsahagato dhammo naupekkhāsahagatassa dhammassa pacchājātapaccayena paccayo…  tīṇi…  āsevanapaccayena paccayo…  nava…  kammapaccayena paccayo…  cha. (Cattāri sahajātā nānākkhaṇikā kātabbā, dve nānākkhaṇikā ca.) Vipākapaccayena paccayo…  nava…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  nava…  jhānapaccayena paccayo…  nava…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  cha…  vippayuttapaccayena paccayo…  pañca…  atthipaccayena paccayo…  nava…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (Imāni paccayāni sappītikakaraṇena vibhajitabbāni.)
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Purejata.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md) / [Go to next page (13.10.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1.2.md)
 

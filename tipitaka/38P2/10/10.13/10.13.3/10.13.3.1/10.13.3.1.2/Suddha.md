@@ -17,7 +17,7 @@
 
 (388.)
 
-3292. Hetuyā pañca, ārammaṇe tīṇi, adhipatiyā pañca, anantare tīṇi, samanantare tīṇi, sahajāte pañca, aññamaññe pañca, nissaye pañca, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme pañca…pe…  avigate pañca. (Evaṃ gaṇetabbaṃ.)
+3292\. Hetuyā pañca, ārammaṇe tīṇi, adhipatiyā pañca, anantare tīṇi, samanantare tīṇi, sahajāte pañca, aññamaññe pañca, nissaye pañca, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme pañca…pe…  avigate pañca. (Evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (10.13.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.1/10.13.3.1.2.md) / [Go to parent page (10.13.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.1/10.13.3.1.2.md) / [Go to next page (10.13.3.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2.md)
 

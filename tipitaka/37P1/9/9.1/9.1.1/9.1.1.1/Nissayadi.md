@@ -15,7 +15,7 @@
 
 (12.)
 
-816. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati nissayapaccayā…  (hetupaccayasadisaṃ) upanissayapaccayā…  tīṇi…  purejātapaccayā…  tīṇi (paṭisandhi natthi)…  āsevanapaccayā…  (vipākapaṭisandhi natthi) kammapaccayā. (Paripuṇṇaṃ. Ajjhattikā ca asaññasattānañca mahābhūtā.)
+816\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati nissayapaccayā…  (hetupaccayasadisaṃ) upanissayapaccayā…  tīṇi…  purejātapaccayā…  tīṇi (paṭisandhi natthi)…  āsevanapaccayā…  (vipākapaṭisandhi natthi) kammapaccayā. (Paripuṇṇaṃ. Ajjhattikā ca asaññasattānañca mahābhūtā.)
 
 [Go to previous page (Aññamañña)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Annamanna.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page (Vipāka)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Vipaka.md)
 

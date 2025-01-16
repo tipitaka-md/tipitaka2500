@@ -13,7 +13,7 @@
 
 ### Hetuduka
 
-4221. Hetupaccayā naadhipatiyā cattāri, napurejāte cattāri…pe…  navippayutte cattāri.
+4221\. Hetupaccayā naadhipatiyā cattāri, napurejāte cattāri…pe…  navippayutte cattāri.
 
 [Go to previous page (Nahetu)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Nahetu.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to next page (Nahetuduka)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Nahetuduka.md)
 

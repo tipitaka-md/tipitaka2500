@@ -17,7 +17,7 @@
 
 (198.)
 
-2802. Nahetuyā nava, naārammaṇe cha, naadhipatiyā nava, naanantare cha, nasamanantare cha, naaññamaññe cha, naupanissaye cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne cha, namagge nava, nasampayutte cha, navippayutte cha, nonatthiyā cha, novigate cha.
+2802\. Nahetuyā nava, naārammaṇe cha, naadhipatiyā nava, naanantare cha, nasamanantare cha, naaññamaññe cha, naupanissaye cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne cha, namagge nava, nasampayutte cha, navippayutte cha, nonatthiyā cha, novigate cha.
 
 [Go to previous page (10.6.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.6/10.6.1/10.6.1.2/10.6.1.2.2.md) / [Go to parent page (10.6.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.6/10.6.1/10.6.1.2/10.6.1.2.2.md) / [Go to next page (10.6.1.3 Paccayānulomapaccanīya)](/tipitaka/38P2/10/10.6/10.6.1/10.6.1.3.md)
 

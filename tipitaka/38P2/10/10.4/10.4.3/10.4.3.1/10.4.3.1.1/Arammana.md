@@ -17,11 +17,11 @@
 
 (156.)
 
-2699. Cittasampayuttaṃ dhammaṃ paccayā cittasampayutto dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Paṭiccasadisaṃ.) (1)
+2699\. Cittasampayuttaṃ dhammaṃ paccayā cittasampayutto dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Paṭiccasadisaṃ.) (1)
 
-2700. Cittavippayuttaṃ dhammaṃ paccayā cittasampayutto dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇasahagatā khandhā…pe…  kāyāyatanaṃ paccayā kāyaviññāṇasahagatā khandhā…pe…  vatthuṃ paccayā cittasampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
+2700\. Cittavippayuttaṃ dhammaṃ paccayā cittasampayutto dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇasahagatā khandhā…pe…  kāyāyatanaṃ paccayā kāyaviññāṇasahagatā khandhā…pe…  vatthuṃ paccayā cittasampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
 
-2701. Cittasampayuttañca cittavippayuttañca dhammaṃ paccayā cittasampayutto dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā, dve khandhe ca…pe…  kāyaviññāṇasahagataṃ ekaṃ khandhañca kāyāyatanañca paccayā dve khandhā, dve khandhe ca…pe…  cittasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.) (1)
+2701\. Cittasampayuttañca cittavippayuttañca dhammaṃ paccayā cittasampayutto dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā, dve khandhe ca…pe…  kāyaviññāṇasahagataṃ ekaṃ khandhañca kāyāyatanañca paccayā dve khandhā, dve khandhe ca…pe…  cittasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.) (1)
 
 [Go to previous page (Hetu)](/tipitaka/38P2/10/10.4/10.4.3/10.4.3.1/10.4.3.1.1/Hetu.md) / [Go to parent page (10.4.3.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.4/10.4.3/10.4.3.1/10.4.3.1.1.md) / [Go to next page (10.4.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.4/10.4.3/10.4.3.1/10.4.3.1.2.md)
 

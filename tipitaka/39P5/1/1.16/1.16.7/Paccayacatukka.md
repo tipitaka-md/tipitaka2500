@@ -13,9 +13,9 @@
 
 (70.)
 
-232. Kusalo uppanno dhammo kusalassa uppannassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+232\. Kusalo uppanno dhammo kusalassa uppannassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
-233. Hetuyā satta, ārammaṇe nava…pe…  avigate terasa. (Saṃkhittaṃ.)
+233\. Hetuyā satta, ārammaṇe nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 [Go to previous page (1.16.7 Pañhāvāra)](/tipitaka/39P5/1/1.16/1.16.7.md) / [Go to parent page (1.16.7 Pañhāvāra)](/tipitaka/39P5/1/1.16/1.16.7.md) / [Go to next page (1.17 Kusalattika, Atītattika)](/tipitaka/39P5/1/1.17.md)
 

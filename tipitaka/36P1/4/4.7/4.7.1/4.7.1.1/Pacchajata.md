@@ -15,11 +15,11 @@
 
 (106.)
 
-2354. Vipāko dhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo—  pacchājātā vipākā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+2354\. Vipāko dhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo—  pacchājātā vipākā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-2355. Vipākadhammadhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo…pe…  (1)
+2355\. Vipākadhammadhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo…pe…  (1)
 
-2356. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo…pe…  (1)
+2356\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa pacchājātapaccayena paccayo…pe…  (1)
 
 [Go to previous page (Purejāta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Purejata.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Asevana.md)
 

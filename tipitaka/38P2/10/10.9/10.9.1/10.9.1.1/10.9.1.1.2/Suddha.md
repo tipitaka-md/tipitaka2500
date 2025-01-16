@@ -17,11 +17,11 @@
 
 (281.)
 
-3012. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte pañca, āsevane pañca, kamme nava, vipāke nava (sabbattha nava), avigate nava.
+3012\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte pañca, āsevane pañca, kamme nava, vipāke nava (sabbattha nava), avigate nava.
 
 ---
 
-3013. Anulomaṃ.
+3013\. Anulomaṃ.
 
 
 

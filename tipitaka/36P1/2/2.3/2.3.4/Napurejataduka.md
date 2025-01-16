@@ -13,7 +13,7 @@
 
 (182.)
 
-640. Napurejātapaccayā hetuyā satta, ārammaṇe tīṇi, adhipatiyā satta, anantare tīṇi, samanantare tīṇi, sahajāte satta, aññamaññe tīṇi, nissaye satta, upanissaye tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā satta, natthiyā tīṇi, vigate tīṇi, avigate satta.
+640\. Napurejātapaccayā hetuyā satta, ārammaṇe tīṇi, adhipatiyā satta, anantare tīṇi, samanantare tīṇi, sahajāte satta, aññamaññe tīṇi, nissaye satta, upanissaye tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā satta, natthiyā tīṇi, vigate tīṇi, avigate satta.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.4/Napurejataduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.3/2.3.4/Napurejataduka/Catukka.md)

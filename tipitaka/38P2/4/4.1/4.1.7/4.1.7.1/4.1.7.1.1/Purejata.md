@@ -17,11 +17,11 @@
 
 (24.)
 
-1379. Nosaññojano dhammo nosaññojanassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu nosaññojanānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+1379\. Nosaññojano dhammo nosaññojanassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu nosaññojanānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
-1380. Nosaññojano dhammo saññojanassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saññojanānaṃ purejātapaccayena paccayo. (2)
+1380\. Nosaññojano dhammo saññojanassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saññojanānaṃ purejātapaccayena paccayo. (2)
 
-1381. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha saññojanā ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu saññojanānaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
+1381\. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha saññojanā ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu saññojanānaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
 
 [Go to previous page (Upanissaya)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Upanissaya.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md) / [Go to next page (Pacchājāta)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Pacchajata.md)
 

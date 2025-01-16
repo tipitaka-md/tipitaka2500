@@ -17,11 +17,11 @@
 
 (413.)
 
-897. Hetuṃ majjhimaṃ dhammaṃ paṭicca hetu majjhimo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+897\. Hetuṃ majjhimaṃ dhammaṃ paṭicca hetu majjhimo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (414.)
 
-898. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+898\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.14/1.14.2/1.14.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.14/1.14.2/1.14.2.1--6/Paccayacatukka.md) / [Go to next page (Nahetu)](/tipitaka/39P3/1/1.14/1.14.2/1.14.2.1--6/Paccayacatukka/Nahetu.md)
 

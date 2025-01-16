@@ -17,13 +17,13 @@
 
 (290.)
 
-592. Hetuṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca hetu bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā…  tīṇi.
+592\. Hetuṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca hetu bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā…  tīṇi.
 
-593. Nahetuṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nahetu bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+593\. Nahetuṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nahetu bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (291.)
 
-594. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
+594\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/1/1.9/1.9.2/1.9.2.1--6/Paccayacatukka/Naadhipati.md)
 

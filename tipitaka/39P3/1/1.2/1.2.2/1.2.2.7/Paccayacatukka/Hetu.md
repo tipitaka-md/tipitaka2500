@@ -17,7 +17,7 @@
 
 (88.)
 
-150. Hetu dukkhāya vedanāya sampayutto dhammo hetussa dukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Hetu dukkhāya vedanāya sampayutto dhammo nahetussa dukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Hetu dukkhāya vedanāya sampayutto dhammo hetussa dukkhāya vedanāya sampayuttassa ca nahetussa dukkhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. (3)
+150\. Hetu dukkhāya vedanāya sampayutto dhammo hetussa dukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Hetu dukkhāya vedanāya sampayutto dhammo nahetussa dukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Hetu dukkhāya vedanāya sampayutto dhammo hetussa dukkhāya vedanāya sampayuttassa ca nahetussa dukkhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. (3)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md) / [Go to next page (Ārammaṇādi)](/tipitaka/39P3/1/1.2/1.2.2/1.2.2.7/Paccayacatukka/Arammanadi.md)
 

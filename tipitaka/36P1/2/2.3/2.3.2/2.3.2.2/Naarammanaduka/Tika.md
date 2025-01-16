@@ -15,7 +15,7 @@
 
 ### Tika
 
-549. Naārammaṇapaccayā nahetupaccayā naadhipatiyā ekaṃ…pe…  novigate ekaṃ…pe… .
+549\. Naārammaṇapaccayā nahetupaccayā naadhipatiyā ekaṃ…pe…  novigate ekaṃ…pe… .
 
 [Go to previous page (Naārammaṇaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Naarammanaduka.md) / [Go to parent page (Naārammaṇaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Naarammanaduka.md) / [Go to next page (Naadhipatiduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Naadhipatiduka.md)
 

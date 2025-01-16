@@ -13,7 +13,7 @@
 
 ### Catukka
 
-660. Namaggapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+660\. Namaggapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Namaggaduka)](/tipitaka/36P1/2/2.3/2.3.4/Namaggaduka.md) / [Go to parent page (Namaggaduka)](/tipitaka/36P1/2/2.3/2.3.4/Namaggaduka.md) / [Go to next page (Nasampayuttaduka)](/tipitaka/36P1/2/2.3/2.3.4/Nasampayuttaduka.md)
 

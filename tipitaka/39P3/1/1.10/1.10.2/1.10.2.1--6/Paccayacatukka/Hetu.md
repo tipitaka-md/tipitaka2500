@@ -17,15 +17,15 @@
 
 (314.)
 
-644. Hetuṃ apacayagāmiṃ dhammaṃ paṭicca hetu apacayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
+644\. Hetuṃ apacayagāmiṃ dhammaṃ paṭicca hetu apacayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
 
-645. Nahetuṃ apacayagāmiṃ dhammaṃ paṭicca nahetu apacayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
+645\. Nahetuṃ apacayagāmiṃ dhammaṃ paṭicca nahetu apacayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
 
-646. Hetuṃ apacayagāmiñca nahetuṃ apacayagāmiñca dhammaṃ paṭicca hetu apacayagāmī dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+646\. Hetuṃ apacayagāmiñca nahetuṃ apacayagāmiñca dhammaṃ paṭicca hetu apacayagāmī dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 (315.)
 
-647. Hetuyā nava, ārammaṇe nava…pe…  kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
+647\. Hetuyā nava, ārammaṇe nava…pe…  kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/1/1.10/1.10.2/1.10.2.1--6/Paccayacatukka/Naadhipati.md)
 

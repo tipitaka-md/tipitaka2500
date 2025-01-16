@@ -13,7 +13,7 @@
 
 (242.)
 
-776. Indriyapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
+776\. Indriyapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Indriyaduka/Tika.md)
 

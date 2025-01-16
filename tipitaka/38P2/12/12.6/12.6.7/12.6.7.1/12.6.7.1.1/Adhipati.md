@@ -17,9 +17,9 @@
 
 (89.)
 
-4038. Kileso ceva saṃkiliṭṭho ca dhammo kilesassa ceva saṃkiliṭṭhassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi.
+4038\. Kileso ceva saṃkiliṭṭho ca dhammo kilesassa ceva saṃkiliṭṭhassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi.
 
-4039. Saṃkiliṭṭho ceva no ca kileso dhammo saṃkiliṭṭhassa ceva no ca kilesassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  saṃkiliṭṭhe ceva no ca kilese khandhe garuṃ katvā…pe…  tīṇi. (Dve adhipati tīṇipi kātabbā, itare dvepi tīṇi kātabbā.)
+4039\. Saṃkiliṭṭho ceva no ca kileso dhammo saṃkiliṭṭhassa ceva no ca kilesassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  saṃkiliṭṭhe ceva no ca kilese khandhe garuṃ katvā…pe…  tīṇi. (Dve adhipati tīṇipi kātabbā, itare dvepi tīṇi kātabbā.)
 
 [Go to previous page (Ārammaṇa)](/tipitaka/38P2/12/12.6/12.6.7/12.6.7.1/12.6.7.1.1/Arammana.md) / [Go to parent page (12.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.6/12.6.7/12.6.7.1/12.6.7.1.1.md) / [Go to next page (Anantarādi)](/tipitaka/38P2/12/12.6/12.6.7/12.6.7.1/12.6.7.1.1/Anantaradi.md)
 

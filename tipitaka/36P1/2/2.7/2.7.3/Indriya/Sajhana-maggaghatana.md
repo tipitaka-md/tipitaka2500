@@ -15,23 +15,23 @@
 
 (464.)
 
-1499. Indriya sahajāta nissaya jhāna magga atthi avigatanti nahetuyā satta…pe…  naaññamaññe tīṇi, naupanissaye satta…pe…  nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta.
+1499\. Indriya sahajāta nissaya jhāna magga atthi avigatanti nahetuyā satta…pe…  naaññamaññe tīṇi, naupanissaye satta…pe…  nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta.
 
-1500. Indriya sahajāta aññamañña nissaya jhāna magga atthi avigatanti nahetuyā tīṇi…pe…  naupanissaye tīṇi…pe…  nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
+1500\. Indriya sahajāta aññamañña nissaya jhāna magga atthi avigatanti nahetuyā tīṇi…pe…  naupanissaye tīṇi…pe…  nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-1501. Indriya sahajāta aññamañña nissaya jhāna magga sampayutta atthi avigatanti nahetuyā tīṇi…pe…  novigate tīṇi.
+1501\. Indriya sahajāta aññamañña nissaya jhāna magga sampayutta atthi avigatanti nahetuyā tīṇi…pe…  novigate tīṇi.
 
-1502. Indriya sahajāta nissaya jhāna magga vippayutta atthi avigatanti nahetuyā tīṇi…pe…  novigate tīṇi. [Avipāka—  4]
+1502\. Indriya sahajāta nissaya jhāna magga vippayutta atthi avigatanti nahetuyā tīṇi…pe…  novigate tīṇi. [Avipāka—  4]
 
-1503. Indriya sahajāta nissaya vipāka jhāna magga atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
+1503\. Indriya sahajāta nissaya vipāka jhāna magga atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
-1504. Indriya sahajāta aññamañña nissaya vipāka jhāna magga atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
+1504\. Indriya sahajāta aññamañña nissaya vipāka jhāna magga atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
-1505. Indriya sahajāta aññamañña nissaya vipāka jhāna magga sampayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
+1505\. Indriya sahajāta aññamañña nissaya vipāka jhāna magga sampayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
-1506. Indriya sahajāta nissaya vipāka jhāna magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
+1506\. Indriya sahajāta nissaya vipāka jhāna magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ.
 
-1507. Indriya sahajāta aññamañña nissaya vipāka jhāna magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
+1507\. Indriya sahajāta aññamañña nissaya vipāka jhāna magga vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
 [Go to previous page (Sajhānaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Indriya/Sajhanaghatana.md) / [Go to parent page (Indriya)](/tipitaka/36P1/2/2.7/2.7.3/Indriya.md) / [Go to next page (Sāhāraghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Indriya/Saharaghatana.md)
 

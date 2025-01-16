@@ -13,7 +13,7 @@
 
 ---
 
-292. (Anantarapaccayā samanantarapaccayā yathā ārammaṇapaccayā, evaṃ vitthāretabbā.)
+292\. (Anantarapaccayā samanantarapaccayā yathā ārammaṇapaccayā, evaṃ vitthāretabbā.)
 
 
 

@@ -17,7 +17,7 @@
 
 (117.)
 
-813. Rūpī dhammo arūpissa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ…pe…  kabaḷīkāraṃ āhāraṃ aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu arūpīnaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+813\. Rūpī dhammo arūpissa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ…pe…  kabaḷīkāraṃ āhāraṃ aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu arūpīnaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
 [Go to previous page (Upanissaya)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Upanissaya.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page (Pacchājāta)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Pacchajata.md)
 

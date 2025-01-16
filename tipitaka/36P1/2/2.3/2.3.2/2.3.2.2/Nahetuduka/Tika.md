@@ -15,7 +15,7 @@
 
 ### Tika
 
-547. Nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+547\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 
 [Go to previous page (Nahetuduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nahetuduka.md) / [Go to next page (Naārammaṇaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Naarammanaduka.md)
 

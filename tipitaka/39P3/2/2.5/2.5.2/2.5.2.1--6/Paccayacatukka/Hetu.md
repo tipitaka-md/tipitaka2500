@@ -17,11 +17,11 @@
 
 (79.)
 
-1421. Hetuñceva hetusampayuttañca akusalaṃ dhammaṃ paṭicca hetu ceva hetusampayutto ca akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1421\. Hetuñceva hetusampayuttañca akusalaṃ dhammaṃ paṭicca hetu ceva hetusampayutto ca akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (80.)
 
-1422. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1422\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.2/2.5.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.2/2.5.2.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/2/2.5/2.5.2/2.5.2.1--6/Paccayacatukka/Naadhipati.md)
 

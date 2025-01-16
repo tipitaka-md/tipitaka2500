@@ -15,7 +15,7 @@
 
 (23.)
 
-1848. Namaggapaccayā nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, navippayutte ekaṃ.
+1848\. Namaggapaccayā nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, navippayutte ekaṃ.
 
 * [Tika](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Namaggaduka/Tika.md)
 * [Pañcaka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Namaggaduka/Pancaka.md)

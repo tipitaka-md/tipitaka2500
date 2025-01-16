@@ -15,11 +15,11 @@
 
 (55.)
 
-2028. Paritto dhammo parittassa dhammassa hetupaccayena paccayo—  parittā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
+2028\. Paritto dhammo parittassa dhammassa hetupaccayena paccayo—  parittā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
 
-2029. Mahaggato dhammo mahaggatassa dhammassa hetupaccayena paccayo…  tīṇi. (Pavattipaṭisandhi kātabbā.)
+2029\. Mahaggato dhammo mahaggatassa dhammassa hetupaccayena paccayo…  tīṇi. (Pavattipaṭisandhi kātabbā.)
 
-2030. Appamāṇo dhammo appamāṇassa dhammassa hetupaccayena paccayo…  tīṇi.
+2030\. Appamāṇo dhammo appamāṇassa dhammassa hetupaccayena paccayo…  tīṇi.
 
 [Go to previous page (13.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/37P1/13/13.7/13.7.1/13.7.1.1/Arammana.md)
 

@@ -15,7 +15,7 @@
 
 (98.)
 
-2306. Vipāko dhammo vipākassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṃ.)
+2306\. Vipāko dhammo vipākassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṃ.)
 
 [Go to previous page (Anantara)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Anantara.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Sahajāta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sahajata.md)
 

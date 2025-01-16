@@ -17,7 +17,7 @@
 
 (73.)
 
-708. Sappaṭigho dhammo sappaṭighassa dhammassa sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
+708\. Sappaṭigho dhammo sappaṭighassa dhammassa sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
 
 [Go to previous page (Samanantara)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Samanantara.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Upanissaya.md)
 

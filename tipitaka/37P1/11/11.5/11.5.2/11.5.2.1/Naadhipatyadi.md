@@ -15,9 +15,9 @@
 
 (41.)
 
-1551. Ācayagāmiṃ dhammaṃ saṃsaṭṭho ācayagāmī dhammo uppajjati naadhipatipaccayā…  napurejātapaccayā…  napacchājātapaccayā…  naāsevanapaccayā…  ācayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… .
+1551\. Ācayagāmiṃ dhammaṃ saṃsaṭṭho ācayagāmī dhammo uppajjati naadhipatipaccayā…  napurejātapaccayā…  napacchājātapaccayā…  naāsevanapaccayā…  ācayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… .
 
-1552. Nevācayagāmināpacayagāmiṃ dhammaṃ saṃsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe…  paṭisandhikkhaṇe…pe…  nakammapaccayā…  navipākapaccayā…  najhānapaccayā…  namaggapaccayā…  navippayuttapaccayā.
+1552\. Nevācayagāmināpacayagāmiṃ dhammaṃ saṃsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe…  paṭisandhikkhaṇe…pe…  nakammapaccayā…  navipākapaccayā…  najhānapaccayā…  namaggapaccayā…  navippayuttapaccayā.
 
 [Go to previous page (Nahetu)](/tipitaka/37P1/11/11.5/11.5.2/11.5.2.1/Nahetu.md) / [Go to parent page (11.5.2.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.5/11.5.2/11.5.2.1.md) / [Go to next page (11.5.2.2 Saṅkhyāvāra)](/tipitaka/37P1/11/11.5/11.5.2/11.5.2.2.md)
 

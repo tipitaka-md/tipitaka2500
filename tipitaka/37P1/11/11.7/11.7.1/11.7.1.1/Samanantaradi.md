@@ -15,7 +15,7 @@
 
 (53.)
 
-1588. Ācayagāmī dhammo ācayagāmissa dhammassa samanantarapaccayena paccayo…pe… . (Anantarasadisaṃ.) (Sahajātapaccaye paṭiccavāre sahajātavārasadisā nava pañhā. Aññamaññapaccaye paṭiccavāre aññamaññasadisaṃ tīṇi. Nissayapaccaye paccayavāre nissayavārasadisaṃ. Cattāripi hi visuṃ ghaṭanā natthi. Terasa pañhā.)
+1588\. Ācayagāmī dhammo ācayagāmissa dhammassa samanantarapaccayena paccayo…pe… . (Anantarasadisaṃ.) (Sahajātapaccaye paṭiccavāre sahajātavārasadisā nava pañhā. Aññamaññapaccaye paṭiccavāre aññamaññasadisaṃ tīṇi. Nissayapaccaye paccayavāre nissayavārasadisaṃ. Cattāripi hi visuṃ ghaṭanā natthi. Terasa pañhā.)
 
 [Go to previous page (Anantara)](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Anantara.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Upanissaya.md)
 

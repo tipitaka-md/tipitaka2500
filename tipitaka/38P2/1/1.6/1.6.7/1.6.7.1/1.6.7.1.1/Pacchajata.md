@@ -17,9 +17,9 @@
 
 (184.)
 
-502. Nahetu sahetuko dhammo nahetuahetukassa dhammassa pacchājātapaccayena paccayo—  pacchājātā nahetū sahetukā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+502\. Nahetu sahetuko dhammo nahetuahetukassa dhammassa pacchājātapaccayena paccayo—  pacchājātā nahetū sahetukā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-503. Nahetu ahetuko dhammo nahetuahetukassa dhammassa pacchājātapaccayena paccayo—  pacchājātā nahetū ahetukā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+503\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa pacchājātapaccayena paccayo—  pacchājātā nahetū ahetukā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Purejata.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Asevana.md)
 

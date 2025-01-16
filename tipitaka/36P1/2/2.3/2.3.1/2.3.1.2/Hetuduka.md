@@ -15,7 +15,7 @@
 
 (135.)
 
-498. Hetupaccayā ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa…pe…  avigate sattarasa.
+498\. Hetupaccayā ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa…pe…  avigate sattarasa.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/Tika.md)
 

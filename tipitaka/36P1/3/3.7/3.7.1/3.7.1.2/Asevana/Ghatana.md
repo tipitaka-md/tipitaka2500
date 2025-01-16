@@ -15,7 +15,7 @@
 
 ### Ghaṭanā
 
-1970. Āsevana anantara samanantara upanissaya natthi vigatanti tīṇi.
+1970\. Āsevana anantara samanantara upanissaya natthi vigatanti tīṇi.
 
 [Go to previous page (Āsevanasabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Asevana/Asevanasabhaga.md) / [Go to parent page (Āsevana)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Asevana.md) / [Go to next page (Kamma)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma.md)
 

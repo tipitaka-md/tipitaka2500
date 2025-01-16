@@ -15,11 +15,11 @@
 
 (109.)
 
-2368. Vipāko dhammo vipākassa dhammassa vipākapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ khandhānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+2368\. Vipāko dhammo vipākassa dhammassa vipākapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ khandhānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-2369. Vipāko dhammo nevavipākanavipākadhammadhammassa vipākapaccayena paccayo—  vipākā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe vipākā khandhā kaṭattārūpānaṃ vipākapaccayena paccayo. Khandhā vatthussa…pe… . (2)
+2369\. Vipāko dhammo nevavipākanavipākadhammadhammassa vipākapaccayena paccayo—  vipākā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe vipākā khandhā kaṭattārūpānaṃ vipākapaccayena paccayo. Khandhā vatthussa…pe… . (2)
 
-2370. Vipāko dhammo vipākassa ca nevavipākanavipākadhammadhammassa ca vipākapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe vipāko eko khandho tiṇṇannaṃ khandhānaṃ kaṭattā ca rūpānaṃ vipākapaccayena paccayo. (3)
+2370\. Vipāko dhammo vipākassa ca nevavipākanavipākadhammadhammassa ca vipākapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe vipāko eko khandho tiṇṇannaṃ khandhānaṃ kaṭattā ca rūpānaṃ vipākapaccayena paccayo. (3)
 
 [Go to previous page (Kamma)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Kamma.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Āhāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Ahara.md)
 

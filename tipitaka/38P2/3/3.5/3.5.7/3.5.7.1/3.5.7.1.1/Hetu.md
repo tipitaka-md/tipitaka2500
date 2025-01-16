@@ -17,9 +17,9 @@
 
 (121.)
 
-1294. Āsavo ceva āsavasampayutto ca dhammo āsavassa ceva āsavasampayuttassa ca dhammassa hetupaccayena paccayo…  tīṇi.
+1294\. Āsavo ceva āsavasampayutto ca dhammo āsavassa ceva āsavasampayuttassa ca dhammassa hetupaccayena paccayo…  tīṇi.
 
-1295. Āsavasampayutto ceva no ca āsavo dhammo āsavasampayuttassa ceva no ca āsavassa dhammassa hetupaccayena paccayo—  āsavasampayuttā ceva no ca āsavā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+1295\. Āsavasampayutto ceva no ca āsavo dhammo āsavasampayuttassa ceva no ca āsavassa dhammassa hetupaccayena paccayo—  āsavasampayuttā ceva no ca āsavā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
 
 [Go to previous page (3.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1.md) / [Go to parent page (3.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1.md) / [Go to next page (Ārammaṇādi)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1/Arammanadi.md)
 

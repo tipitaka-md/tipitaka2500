@@ -13,7 +13,7 @@
 
 ### Ekādasaka
 
-577. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta.
+577\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta.
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka/Tika.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka.md) / [Go to next page (Dvādasaka (sāsevana))](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka/vadasaka_sasevana.md)
 

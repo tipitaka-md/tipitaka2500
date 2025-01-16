@@ -17,9 +17,9 @@
 
 (83.)
 
-1428. Hetu ceva hetusampayutto ca akusalo dhammo hetussa ceva hetusampayuttassa ca akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1428\. Hetu ceva hetusampayutto ca akusalo dhammo hetussa ceva hetusampayuttassa ca akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
-1429. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  āsevane nava, kamme tīṇi, āhāre tīṇi, indriye jhāne magge tīṇi, sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1429\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  āsevane nava, kamme tīṇi, āhāre tīṇi, indriye jhāne magge tīṇi, sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.2/2.5.2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.2/2.5.2.7/Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/2/2.5/2.5.2/2.5.2.7/Paccaniyuddhara.md)
 

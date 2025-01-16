@@ -17,7 +17,7 @@
 
 (264.)
 
-2967. Cittasahabhū dhammo cittasahabhussa dhammassa vipākapaccayena paccayo (cittasamuṭṭhānadukasadisaṃ)…  āhārapaccayena paccayo…  nava. (Cittasamuṭṭhānadukasadisā. Imampi ekaṃ kabaḷīkāraāhārasadisaṃ.) Cittasahabhū dhammo cittasahabhussa dhammassa indriyapaccayena paccayo…  nava (cittasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ)…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
+2967\. Cittasahabhū dhammo cittasahabhussa dhammassa vipākapaccayena paccayo (cittasamuṭṭhānadukasadisaṃ)…  āhārapaccayena paccayo…  nava. (Cittasamuṭṭhānadukasadisā. Imampi ekaṃ kabaḷīkāraāhārasadisaṃ.) Cittasahabhū dhammo cittasahabhussa dhammassa indriyapaccayena paccayo…  nava (cittasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ)…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
 
 [Go to previous page (Kamma)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Kamma.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Vippayutta.md)
 

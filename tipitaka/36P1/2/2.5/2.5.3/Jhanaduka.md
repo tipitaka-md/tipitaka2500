@@ -13,7 +13,7 @@
 
 (243.)
 
-778. Jhānapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ, navippayutte tīṇi.
+778\. Jhānapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Jhanaduka/Tika.md)
 

@@ -15,9 +15,9 @@
 
 (13.)
 
-2783. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ…pe…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+2783\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ…pe…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
 
-2784. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+2784\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
 
 [Go to previous page (Navipākādi)](/tipitaka/37P1/21/21.1/21.1.2/21.1.2.1/Navipakadi.md) / [Go to parent page (21.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.1/21.1.2/21.1.2.1.md) / [Go to next page (Namaggādi)](/tipitaka/37P1/21/21.1/21.1.2/21.1.2.1/Namaggadi.md)
 

@@ -13,13 +13,13 @@
 
 (23.)
 
-366. Ācayagāmiṃ kusalaṃ dhammaṃ paṭicca ācayagāmī kusalo dhammo uppajjati hetupaccayā. (1)
+366\. Ācayagāmiṃ kusalaṃ dhammaṃ paṭicca ācayagāmī kusalo dhammo uppajjati hetupaccayā. (1)
 
-367. Apacayagāmiṃ kusalaṃ dhammaṃ paṭicca apacayagāmī kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
+367\. Apacayagāmiṃ kusalaṃ dhammaṃ paṭicca apacayagāmī kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
 
-368. Ācayagāmiṃ akusalaṃ dhammaṃ paṭicca ācayagāmī akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+368\. Ācayagāmiṃ akusalaṃ dhammaṃ paṭicca ācayagāmī akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
-369. Nevācayagāmināpacayagāmiṃ abyākataṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+369\. Nevācayagāmināpacayagāmiṃ abyākataṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
 [Go to previous page (2.9.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.9/2.9.1--7.md) / [Go to parent page (2.9.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.9/2.9.1--7.md) / [Go to next page (2.10 Sekkhattika, Kusalattika)](/tipitaka/39P5/2/2.10.md)
 

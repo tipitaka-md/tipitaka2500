@@ -17,7 +17,7 @@
 
 (74.)
 
-1971. Kammapaccayā anantare dve, samanantare dve, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye aṭṭha, vipāke tīṇi, āhāre tīṇi, sampayutte tīṇi, atthiyā tīṇi, natthiyā dve, vigate dve, avigate tīṇi. (13)
+1971\. Kammapaccayā anantare dve, samanantare dve, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye aṭṭha, vipāke tīṇi, āhāre tīṇi, sampayutte tīṇi, atthiyā tīṇi, natthiyā dve, vigate dve, avigate tīṇi. (13)
 
 [Go to previous page (Kamma)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma.md) / [Go to parent page (Kamma)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma/Pakinnakaghatana.md)
 

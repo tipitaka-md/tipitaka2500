@@ -15,11 +15,11 @@
 
 (46.)
 
-2135. Vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nasampayuttapaccayā…  dve.
+2135\. Vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nasampayuttapaccayā…  dve.
 
-2136. Vipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nasampayuttapaccayā…  dve.
+2136\. Vipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nasampayuttapaccayā…  dve.
 
-2137. Nevavipākanavipākadhammadhammaṃ paṭicca…  ekaṃ.
+2137\. Nevavipākanavipākadhammadhammaṃ paṭicca…  ekaṃ.
 
 [Go to previous page (Namagga)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Namagga.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to next page (Navippayutta)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Navippayutta.md)
 

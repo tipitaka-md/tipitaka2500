@@ -15,7 +15,7 @@
 
 (404.)
 
-1214. Napurejātapaccayā nahetuyā terasa, naārammaṇe terasa, naadhipatiyā terasa, naanantare terasa, nasamanantare terasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye terasa, napacchājāte terasa, naāsevane terasa, nakamme terasa, navipāke terasa, naāhāre terasa, naindriye terasa, najhāne terasa, namagge terasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā terasa, novigate terasa, noavigate nava…pe… .
+1214\. Napurejātapaccayā nahetuyā terasa, naārammaṇe terasa, naadhipatiyā terasa, naanantare terasa, nasamanantare terasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye terasa, napacchājāte terasa, naāsevane terasa, nakamme terasa, navipāke terasa, naāhāre terasa, naindriye terasa, najhāne terasa, namagge terasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā terasa, novigate terasa, noavigate nava…pe… .
 
 * [Catukka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka/Catukka.md)
 * [Aṭṭhaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka/Atthaka.md)

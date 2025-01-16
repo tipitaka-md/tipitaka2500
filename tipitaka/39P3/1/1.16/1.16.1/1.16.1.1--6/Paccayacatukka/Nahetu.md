@@ -17,17 +17,17 @@
 
 (455.)
 
-995. Nahetuṃ maggārammaṇaṃ dhammaṃ paṭicca nahetu maggārammaṇo dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+995\. Nahetuṃ maggārammaṇaṃ dhammaṃ paṭicca nahetu maggārammaṇo dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
 
 (456.)
 
-996. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, namagge ekaṃ, navippayutte nava. (Saṃkhittaṃ.)
+996\. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, namagge ekaṃ, navippayutte nava. (Saṃkhittaṃ.)
 
-997. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+997\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
 
-998. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+998\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
 
-999. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+999\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.1--6/Paccayacatukka.md) / [Go to next page (1.16.1.7 Pañhāvāra)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.7.md)
 

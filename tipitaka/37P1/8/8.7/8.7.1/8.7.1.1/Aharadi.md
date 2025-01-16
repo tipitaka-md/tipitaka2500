@@ -15,7 +15,7 @@
 
 (44.)
 
-760. Pītisahagato dhammo pītisahagatassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  atthipaccayena paccayo…  (dasa pañhā vitthāretabbā) natthipaccayena paccayo…  vigatapaccayena paccayo…  (natthipi vigatampi anantarasadisaṃ) avigatapaccayena paccayo.
+760\. Pītisahagato dhammo pītisahagatassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  atthipaccayena paccayo…  (dasa pañhā vitthāretabbā) natthipaccayena paccayo…  vigatapaccayena paccayo…  (natthipi vigatampi anantarasadisaṃ) avigatapaccayena paccayo.
 
 [Go to previous page (Vipāka)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Vipaka.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page (8.7.1.2 Saṅkhyāvāra)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.2.md)
 

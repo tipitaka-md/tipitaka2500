@@ -17,7 +17,7 @@
 
 (131.)
 
-365. Hetuñceva sahetukañca dhammaṃ paṭicca hetu ceva sahetuko ca dhammo uppajjati naadhipatipaccayā—  alobhaṃ paṭicca adoso amoho (cakkaṃ); paṭisandhikkhaṇe…pe…  (paripuṇṇaṃ nava), napurejāte nava, napacchājāte nava, naāsevane nava.
+365\. Hetuñceva sahetukañca dhammaṃ paṭicca hetu ceva sahetuko ca dhammo uppajjati naadhipatipaccayā—  alobhaṃ paṭicca adoso amoho (cakkaṃ); paṭisandhikkhaṇe…pe…  (paripuṇṇaṃ nava), napurejāte nava, napacchājāte nava, naāsevane nava.
 
 [Go to previous page (1.4.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.2/1.4.1.2.1.md) / [Go to parent page (1.4.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.2/1.4.1.2.1.md) / [Go to next page (Nakammādi)](/tipitaka/38P2/1/1.4/1.4.1/1.4.1.2/1.4.1.2.1/Nakammadi.md)
 

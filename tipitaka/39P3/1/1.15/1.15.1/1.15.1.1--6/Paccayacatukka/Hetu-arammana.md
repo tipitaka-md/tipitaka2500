@@ -17,17 +17,17 @@
 
 (429.)
 
-931. Hetuṃ micchattaniyataṃ dhammaṃ paṭicca hetu micchattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
+931\. Hetuṃ micchattaniyataṃ dhammaṃ paṭicca hetu micchattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
 
-932. Nahetuṃ micchattaniyataṃ dhammaṃ paṭicca nahetu micchattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
+932\. Nahetuṃ micchattaniyataṃ dhammaṃ paṭicca nahetu micchattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
 
-933. Hetuṃ micchattaniyatañca nahetuṃ micchattaniyatañca dhammaṃ paṭicca hetu micchattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
+933\. Hetuṃ micchattaniyatañca nahetuṃ micchattaniyatañca dhammaṃ paṭicca hetu micchattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
 
-934. Hetuṃ micchattaniyataṃ dhammaṃ paṭicca hetu micchattaniyato dhammo uppajjati ārammaṇapaccayā. (Saṃkhittaṃ.)
+934\. Hetuṃ micchattaniyataṃ dhammaṃ paṭicca hetu micchattaniyato dhammo uppajjati ārammaṇapaccayā. (Saṃkhittaṃ.)
 
 (430.)
 
-935. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
+935\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/1/1.15/1.15.1/1.15.1.1--6/Paccayacatukka/Naadhipati.md)
 

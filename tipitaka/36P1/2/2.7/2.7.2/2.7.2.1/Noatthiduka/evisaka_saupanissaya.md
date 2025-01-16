@@ -15,7 +15,7 @@
 
 ### Tevīsaka (saupanissaya)
 
-1263. Noatthipaccayā nahetupaccayā…pe…  novigatapaccayā noavigate dve.
+1263\. Noatthipaccayā nahetupaccayā…pe…  novigatapaccayā noavigate dve.
 
 [Go to previous page (Ekavīsaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Ekavisaka.md) / [Go to parent page (Noatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md) / [Go to next page (Tevīsaka (sakamma))](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/evisaka_sakamma.md)
 

@@ -15,7 +15,7 @@
 
 ### Cuddasaka
 
-1184. Nahetupaccayā naārammaṇapaccayā…pe…  napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+1184\. Nahetupaccayā naārammaṇapaccayā…pe…  napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 
 [Go to previous page (Dvādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Dvadasaka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka.md) / [Go to next page (Sattarasaka (sāhāra))](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/attarasaka_sahara.md)
 

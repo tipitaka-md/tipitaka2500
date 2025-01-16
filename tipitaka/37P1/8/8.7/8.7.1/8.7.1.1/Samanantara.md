@@ -15,7 +15,7 @@
 
 (30.)
 
-723. Pītisahagato dhammo pītisahagatassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayasadisaṃ.)
+723\. Pītisahagato dhammo pītisahagatassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayasadisaṃ.)
 
 [Go to previous page (Anantara)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Anantara.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page (Sahajāta)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Sahajata.md)
 

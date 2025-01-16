@@ -13,27 +13,27 @@
 
 (17.)
 
-2337. Kilesavippayuttaṃ kusalaṃ dhammaṃ paṭicca kilesavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2337\. Kilesavippayuttaṃ kusalaṃ dhammaṃ paṭicca kilesavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2338. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2338\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-2339. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2339\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 (18.)
 
-2340. Kilesasampayuttaṃ akusalaṃ dhammaṃ paṭicca kilesasampayutto akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2340\. Kilesasampayuttaṃ akusalaṃ dhammaṃ paṭicca kilesasampayutto akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2341. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2341\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-2342. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2342\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 (19.)
 
-2343. Kilesavippayuttaṃ abyākataṃ dhammaṃ paṭicca kilesavippayutto abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2343\. Kilesavippayuttaṃ abyākataṃ dhammaṃ paṭicca kilesavippayutto abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2344. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2344\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-2345. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2345\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 [Go to previous page (12.4.1--7 Paṭiccādivāra)](/tipitaka/39P3/12/12.4/12.4.1--7.md) / [Go to parent page (12.4.1--7 Paṭiccādivāra)](/tipitaka/39P3/12/12.4/12.4.1--7.md) / [Go to next page (12.5 Saṃkilesasaṃkilesikaduka, Kusalattika)](/tipitaka/39P3/12/12.5.md)
 

@@ -17,7 +17,7 @@
 
 (74.)
 
-124. Hetu sukhāya vedanāya sampayutto dhammo hetussa sukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo…  tīṇi.
+124\. Hetu sukhāya vedanāya sampayutto dhammo hetussa sukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo…  tīṇi.
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.2/1.2.1/1.2.1.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.2/1.2.1/1.2.1.7/Paccayacatukka.md) / [Go to next page (Ārammaṇādi)](/tipitaka/39P3/1/1.2/1.2.1/1.2.1.7/Paccayacatukka/Arammanadi.md)
 

@@ -15,7 +15,7 @@
 
 (50.)
 
-2143. Nahetupaccayā naārammaṇe tīṇi, naadhipatiyā dasa, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte dasa, napacchājāte dasa, naāsevane dasa, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+2143\. Nahetupaccayā naārammaṇe tīṇi, naadhipatiyā dasa, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte dasa, napacchājāte dasa, naāsevane dasa, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
 * [Tika](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.2/Nahetuduka/Tika.md)
 

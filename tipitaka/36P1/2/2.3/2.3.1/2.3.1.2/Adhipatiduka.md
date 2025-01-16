@@ -15,7 +15,7 @@
 
 (137.)
 
-506. Adhipatipaccayā hetuyā sattarasa…pe… .
+506\. Adhipatipaccayā hetuyā sattarasa…pe… .
 
 [Go to previous page (Ārammaṇaduka)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Arammanaduka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2.md) / [Go to next page (Anantara-samanantaraduka)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Anantara-samanantaraduka.md)
 

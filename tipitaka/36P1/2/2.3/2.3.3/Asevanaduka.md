@@ -13,7 +13,7 @@
 
 (170.)
 
-599. Āsevanapaccayā nahetuyā cattāri, naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, nakamme satta, navipāke satta, namagge ekaṃ, navippayutte tīṇi.
+599\. Āsevanapaccayā nahetuyā cattāri, naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, nakamme satta, navipāke satta, namagge ekaṃ, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka/Catukka.md)

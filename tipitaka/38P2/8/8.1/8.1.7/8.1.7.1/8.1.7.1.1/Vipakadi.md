@@ -17,7 +17,7 @@
 
 (39.)
 
-1965. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
+1965\. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
 
 [Go to previous page (Kamma)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Kamma.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Vippayutta.md)
 

@@ -15,17 +15,17 @@
 
 (15.)
 
-1279. Sahetuko akusalo dhammo sahetukassa akusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1279\. Sahetuko akusalo dhammo sahetukassa akusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (16.)
 
-1280. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1280\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
 
-1281. Hetupaccayā naārammaṇe dve. (Saṃkhittaṃ.)
+1281\. Hetupaccayā naārammaṇe dve. (Saṃkhittaṃ.)
 
-1282. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1282\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
-1283. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1283\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Hetu-ārammaṇādi)](/tipitaka/39P3/2/2.2/2.2.2/2.2.2.7/Paccayacatukka/Hetu-arammanadi.md) / [Go to parent page (2.2.2.7 Pañhāvāra)](/tipitaka/39P3/2/2.2/2.2.2/2.2.2.7.md) / [Go to next page (2.2.3 Abyākatapada)](/tipitaka/39P3/2/2.2/2.2.3.md)
 

@@ -17,9 +17,9 @@
 
 (256.)
 
-4636. Rūpāvacaro dhammo narūpāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+4636\. Rūpāvacaro dhammo narūpāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
 
-4637. Narūpāvacaro dhammo narūpāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) Narūpāvacaro dhammo rūpāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu rūpāvacarānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu rūpāvacarānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
+4637\. Narūpāvacaro dhammo narūpāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) Narūpāvacaro dhammo rūpāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu rūpāvacarānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu rūpāvacarānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
 [Go to previous page (Kammādi)](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Kammadi.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md) / [Go to next page (Atthyādi)](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Atthyadi.md)
 

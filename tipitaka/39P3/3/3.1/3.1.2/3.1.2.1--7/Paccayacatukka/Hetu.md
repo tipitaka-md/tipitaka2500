@@ -17,13 +17,13 @@
 
 (9.)
 
-1482. Sappaccayaṃ abyākataṃ dhammaṃ paṭicca sappaccayo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1482\. Sappaccayaṃ abyākataṃ dhammaṃ paṭicca sappaccayo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (10.)
 
-1483. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1483\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-1484. Nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ. (Sabbattha ekaṃ, saṃkhittaṃ.)
+1484\. Nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ. (Sabbattha ekaṃ, saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka.md) / [Go to next page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/accayacatukka.md)
 

@@ -13,21 +13,21 @@
 
 (171.)
 
-937. Lokiyo dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
+937\. Lokiyo dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
 
-938. Lokiyo dhammo lokuttarassa dhammassa upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
+938\. Lokiyo dhammo lokuttarassa dhammassa upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
 
 (172.)
 
-939. Lokuttaro dhammo lokuttarassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (1)
+939\. Lokuttaro dhammo lokuttarassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (1)
 
-940. Lokuttaro dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
+940\. Lokuttaro dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
-941. Lokuttaro dhammo lokiyassa ca lokuttarassa ca dhammassa sahajātapaccayena paccayo. (3)
+941\. Lokuttaro dhammo lokiyassa ca lokuttarassa ca dhammassa sahajātapaccayena paccayo. (3)
 
-942. Lokiyo ca lokuttaro ca dhammā lokiyassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (1)
+942\. Lokiyo ca lokuttaro ca dhammā lokiyassa dhammassa sahajātaṃ…  pacchājātaṃ…  āhāraṃ…  indriyaṃ. (1)
 
-943. Lokiyo ca lokuttaro ca dhammā lokuttarassa dhammassa sahajātaṃ…  purejātaṃ. (2)
+943\. Lokiyo ca lokuttaro ca dhammā lokuttarassa dhammassa sahajātaṃ…  purejātaṃ. (2)
 
 [Go to previous page (Suddha)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.2/Suddha.md) / [Go to parent page (2.6.7 Pañhāvāra)](/tipitaka/38P2/2/2.6/2.6.7.md) / [Go to next page (2.6.7.2 Paccayapaccanīya)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.2.md)
 

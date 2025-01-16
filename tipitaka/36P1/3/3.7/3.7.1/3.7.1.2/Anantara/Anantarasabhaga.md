@@ -17,7 +17,7 @@
 
 (69.)
 
-1962. Anantarapaccayā samanantare satta, upanissaye satta, āsevane tīṇi, kamme dve, natthiyā satta, vigate satta. (6)
+1962\. Anantarapaccayā samanantare satta, upanissaye satta, āsevane tīṇi, kamme dve, natthiyā satta, vigate satta. (6)
 
 [Go to previous page (Anantara)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Anantara.md) / [Go to parent page (Anantara)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Anantara.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Anantara/Ghatana.md)
 

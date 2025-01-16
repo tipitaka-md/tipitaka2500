@@ -17,7 +17,7 @@
 
 (48.)
 
-3940. Nahetuyā cattāri, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte cattāri, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+3940\. Nahetuyā cattāri, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte cattāri, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
 [Go to previous page (12.3.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.2/12.3.3.2.2.md) / [Go to parent page (12.3.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.2/12.3.3.2.2.md) / [Go to next page (12.3.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](/tipitaka/38P2/12/12.3/12.3.3/12.3.3.3--4.md)
 

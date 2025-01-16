@@ -15,7 +15,7 @@
 
 (40.)
 
-179. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati navipākapaccayā…pe…  naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…pe…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe…  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ…pe…  najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  namaggapaccayā…  nasampayuttapaccayā… .
+179\. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati navipākapaccayā…pe…  naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…pe…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe…  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ…pe…  najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  namaggapaccayā…  nasampayuttapaccayā… .
 
 [Go to previous page (Nakamma)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Nakamma.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page (Navippayutta)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Navippayutta.md)
 

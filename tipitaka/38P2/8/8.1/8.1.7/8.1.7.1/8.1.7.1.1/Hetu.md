@@ -17,13 +17,13 @@
 
 (25.)
 
-1939. Nīvaraṇo dhammo nīvaraṇassa dhammassa hetupaccayena paccayo—  nīvaraṇā hetū sampayuttakānaṃ nīvaraṇānaṃ hetupaccayena paccayo. (1)
+1939\. Nīvaraṇo dhammo nīvaraṇassa dhammassa hetupaccayena paccayo—  nīvaraṇā hetū sampayuttakānaṃ nīvaraṇānaṃ hetupaccayena paccayo. (1)
 
-1940. Nīvaraṇo dhammo nonīvaraṇassa dhammassa hetupaccayena paccayo—  nīvaraṇā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (2)
+1940\. Nīvaraṇo dhammo nonīvaraṇassa dhammassa hetupaccayena paccayo—  nīvaraṇā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (2)
 
-1941. Nīvaraṇo dhammo nīvaraṇassa ca nonīvaraṇassa ca dhammassa hetupaccayena paccayo—  nīvaraṇā hetū sampayuttakānaṃ khandhānaṃ nīvaraṇānañca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+1941\. Nīvaraṇo dhammo nīvaraṇassa ca nonīvaraṇassa ca dhammassa hetupaccayena paccayo—  nīvaraṇā hetū sampayuttakānaṃ khandhānaṃ nīvaraṇānañca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 
-1942. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa hetupaccayena paccayo—  nonīvaraṇā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+1942\. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa hetupaccayena paccayo—  nonīvaraṇā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
 [Go to previous page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Arammana.md)
 

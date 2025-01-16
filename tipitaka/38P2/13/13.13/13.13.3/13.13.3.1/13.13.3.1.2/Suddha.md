@@ -17,7 +17,7 @@
 
 (275.)
 
-4668. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cattāri, nissaye nava, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme nava, vipāke dve…pe…  avigate nava.
+4668\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cattāri, nissaye nava, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme nava, vipāke dve…pe…  avigate nava.
 
 [Go to previous page (13.13.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.1/13.13.3.1.2.md) / [Go to parent page (13.13.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.1/13.13.3.1.2.md) / [Go to next page (13.13.3.2 Paccayapaccanīya)](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2.md)
 

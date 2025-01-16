@@ -15,7 +15,7 @@
 
 (32.)
 
-725. Pītisahagato dhammo pītisahagatassa dhammassa aññamaññapaccayena paccayo…  nissayapaccayena paccayo. (Dasa pañhā kātabbā.)
+725\. Pītisahagato dhammo pītisahagatassa dhammassa aññamaññapaccayena paccayo…  nissayapaccayena paccayo. (Dasa pañhā kātabbā.)
 
 [Go to previous page (Sahajāta)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Sahajata.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Upanissaya.md)
 

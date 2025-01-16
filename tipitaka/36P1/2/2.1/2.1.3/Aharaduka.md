@@ -13,7 +13,7 @@
 
 (74.)
 
-318. Āhārapaccayā nahetuyā dve, naārammaṇe pañca, na adhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+318\. Āhārapaccayā nahetuyā dve, naārammaṇe pañca, na adhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.3/Aharaduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.1/2.1.3/Aharaduka/Catukka.md)

@@ -17,17 +17,17 @@
 
 (3.)
 
-1246. Sahetukaṃ kusalaṃ dhammaṃ paṭicca sahetuko kusalo dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+1246\. Sahetukaṃ kusalaṃ dhammaṃ paṭicca sahetuko kusalo dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
 
 (4.)
 
-1247. Naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
+1247\. Naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
 
-1248. Hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
+1248\. Hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
 
-1249. Naadhipatipaccayā hetuyā ekaṃ. (Saṃkhittaṃ.)
+1249\. Naadhipatipaccayā hetuyā ekaṃ. (Saṃkhittaṃ.)
 
-1250. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1250\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Paccanīya)](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.1--6/Paccaniya.md) / [Go to next page (2.2.1.7 Pañhāvāra)](/tipitaka/39P3/2/2.2/2.2.1/2.2.1.7.md)
 

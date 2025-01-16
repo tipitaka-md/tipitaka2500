@@ -17,7 +17,7 @@
 
 (27.)
 
-71. Hetu dhammo hetussa dhammassa samanantarapaccayena paccayo (anantarasadisaṃ.)…  Sahajātapaccayena paccayo…  aññamaññapaccayena paccayo (ime dvepi paṭiccasadisā. Nissayapaccayo paccayavāre nissayapaccayasadiso.)
+71\. Hetu dhammo hetussa dhammassa samanantarapaccayena paccayo (anantarasadisaṃ.)…  Sahajātapaccayena paccayo…  aññamaññapaccayena paccayo (ime dvepi paṭiccasadisā. Nissayapaccayo paccayavāre nissayapaccayasadiso.)
 
 [Go to previous page (Anantara)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Anantara.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Upanissaya.md)
 

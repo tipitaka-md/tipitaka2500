@@ -15,7 +15,7 @@
 
 (26.)
 
-598. Anidassanaṃ dhammaṃ paccayā anidassano dhammo uppajjati hetupaccayā—  anidassanaṃ ekaṃ khandhaṃ paccayā tayo khandhā anidassanaṃ cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ paccayā…pe…  mahābhūte paccayā anidassanaṃ cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ, vatthuṃ paccayā anidassanā khandhā. (Itarepi dve pañhā kātabbā.)
+598\. Anidassanaṃ dhammaṃ paccayā anidassano dhammo uppajjati hetupaccayā—  anidassanaṃ ekaṃ khandhaṃ paccayā tayo khandhā anidassanaṃ cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ paccayā…pe…  mahābhūte paccayā anidassanaṃ cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ, vatthuṃ paccayā anidassanā khandhā. (Itarepi dve pañhā kātabbā.)
 
 [Go to previous page (2.3.3.1 Paccayānuloma)](/tipitaka/38P2/2/2.3/2.3.3/2.3.3.1.md) / [Go to parent page (2.3.3.1 Paccayānuloma)](/tipitaka/38P2/2/2.3/2.3.3/2.3.3.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/2/2.3/2.3.3/2.3.3.1/Arammana.md)
 

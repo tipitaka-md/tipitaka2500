@@ -13,7 +13,7 @@
 
 (177.)
 
-616. Vippayuttapaccayā nahetuyā cattāri, naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte pañca, napacchājāte sattarasa, naāsevane sattarasa, nakamme satta, navipāke sattarasa, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, nonatthiyā pañca, novigate pañca.
+616\. Vippayuttapaccayā nahetuyā cattāri, naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte pañca, napacchājāte sattarasa, naāsevane sattarasa, nakamme satta, navipāke sattarasa, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, nonatthiyā pañca, novigate pañca.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.3/2.3.3/Vippayuttaduka/Catukka.md)

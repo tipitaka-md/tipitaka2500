@@ -13,7 +13,7 @@
 
 (1.)
 
-1332. Kusalaṃ sārammaṇaṃ dhammaṃ paṭicca kusalo sārammaṇo dhammo uppajjati hetupaccayā. (1)
+1332\. Kusalaṃ sārammaṇaṃ dhammaṃ paṭicca kusalo sārammaṇo dhammo uppajjati hetupaccayā. (1)
 
 ### Kusalattika, Mahantaradukaupādānagocchaka
 
@@ -23,7 +23,7 @@
 
 ### Paccayacatukka
 
-1333. Akusalaṃ sārammaṇaṃ dhammaṃ paṭicca akusalo sārammaṇo dhammo uppajjati hetupaccayā. (1)
+1333\. Akusalaṃ sārammaṇaṃ dhammaṃ paṭicca akusalo sārammaṇo dhammo uppajjati hetupaccayā. (1)
 
 ### Kusalattika, Mahantaradukaupādānagocchaka
 
@@ -33,7 +33,7 @@
 
 ### Paccayacatukka
 
-1334. Abyākataṃ sārammaṇaṃ dhammaṃ paṭicca abyākato sārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1334\. Abyākataṃ sārammaṇaṃ dhammaṃ paṭicca abyākato sārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 ### Kusalattika, Mahantaradukaupādānagocchaka
 
@@ -45,7 +45,7 @@
 
 (2.)
 
-1335. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1335\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 ### Kusalattika, Mahantaradukaupādānagocchaka
 
@@ -55,7 +55,7 @@
 
 ### Paccayacatukka
 
-1336. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1336\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
 * [Hetu-ārammaṇa](/tipitaka/39P4/5/5.1/5.1.1--7/Paccayacatukka/Hetu-arammana.md)
 * [Hetusahajātādi](/tipitaka/39P4/5/5.1/5.1.1--7/Paccayacatukka/Hetusahajatadi.md)

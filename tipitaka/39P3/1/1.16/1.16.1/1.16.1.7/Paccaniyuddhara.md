@@ -15,17 +15,17 @@
 
 (459.)
 
-1005. Hetu maggārammaṇo dhammo hetussa maggārammaṇassa dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1005\. Hetu maggārammaṇo dhammo hetussa maggārammaṇassa dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (460.)
 
-1006. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1006\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
 
-1007. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1007\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-1008. Nahetupaccayā adhipatiyā tīṇi. (Saṃkhittaṃ.)
+1008\. Nahetupaccayā adhipatiyā tīṇi. (Saṃkhittaṃ.)
 
-1009. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1009\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Hetvādi)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.7/Paccayacatukka/Hetvadi.md) / [Go to parent page (1.16.1.7 Pañhāvāra)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.7.md) / [Go to next page (1.16.2 Maggahetukapada)](/tipitaka/39P3/1/1.16/1.16.2.md)
 

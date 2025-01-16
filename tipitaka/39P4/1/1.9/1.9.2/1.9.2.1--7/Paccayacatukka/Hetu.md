@@ -17,13 +17,13 @@
 
 (127.)
 
-445. Dassanena pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca dassanena pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+445\. Dassanena pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca dassanena pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi.
 
-446. Bhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+446\. Bhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi.
 
-447. Nevadassanena nabhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+447\. Nevadassanena nabhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
-448. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
+448\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P4/1/1.9/1.9.2/1.9.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.9/1.9.2/1.9.2.1--7/Paccayacatukka.md) / [Go to next page (Paccanīya)](/tipitaka/39P4/1/1.9/1.9.2/1.9.2.1--7/Paccaniya.md)
 

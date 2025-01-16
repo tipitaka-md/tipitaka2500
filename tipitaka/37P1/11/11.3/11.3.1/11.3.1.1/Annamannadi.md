@@ -15,7 +15,7 @@
 
 (24.)
 
-1499. Apacayagāmiṃ dhammaṃ paccayā apacayagāmī dhammo uppajjati aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+1499\. Apacayagāmiṃ dhammaṃ paccayā apacayagāmī dhammo uppajjati aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
 
 [Go to previous page (Anantarādi)](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1/Anantaradi.md) / [Go to parent page (11.3.1.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.1.md) / [Go to next page (11.3.1.2 Saṅkhyāvāra)](/tipitaka/37P1/11/11.3/11.3.1/11.3.1.2.md)
 

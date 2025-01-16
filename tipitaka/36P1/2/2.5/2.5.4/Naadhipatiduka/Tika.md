@@ -13,7 +13,7 @@
 
 ### Tika
 
-799. Naadhipatipaccayā nahetupaccayā ārammaṇe dve…pe…  avigate dve. (Naadhipatimūlakaṃ nahetumhi ṭhitena nahetumūlakasadisaṃ kātabbaṃ.)
+799\. Naadhipatipaccayā nahetupaccayā ārammaṇe dve…pe…  avigate dve. (Naadhipatimūlakaṃ nahetumhi ṭhitena nahetumūlakasadisaṃ kātabbaṃ.)
 
 [Go to previous page (Naadhipatiduka)](/tipitaka/36P1/2/2.5/2.5.4/Naadhipatiduka.md) / [Go to parent page (Naadhipatiduka)](/tipitaka/36P1/2/2.5/2.5.4/Naadhipatiduka.md) / [Go to next page (Napurejātaduka)](/tipitaka/36P1/2/2.5/2.5.4/Napurejataduka.md)
 

@@ -17,15 +17,15 @@
 
 (306.)
 
-623. Hetuṃ ācayagāmiṃ dhammaṃ paṭicca hetu ācayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
+623\. Hetuṃ ācayagāmiṃ dhammaṃ paṭicca hetu ācayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
 
-624. Nahetuṃ ācayagāmiṃ dhammaṃ paṭicca nahetu ācayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
+624\. Nahetuṃ ācayagāmiṃ dhammaṃ paṭicca nahetu ācayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
 
-625. Hetuṃ ācayagāmiñca nahetuṃ ācayagāmiñca dhammaṃ paṭicca hetu ācayagāmī dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+625\. Hetuṃ ācayagāmiñca nahetuṃ ācayagāmiñca dhammaṃ paṭicca hetu ācayagāmī dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 (307.)
 
-626. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe…  avigate nava. (Saṃkhittaṃ.)
+626\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.10/1.10.1/1.10.1.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.10/1.10.1/1.10.1.1--6/Paccayacatukka.md) / [Go to next page (Nahetu-naadhipati)](/tipitaka/39P3/1/1.10/1.10.1/1.10.1.1--6/Paccayacatukka/Nahetu-naadhipati.md)
 

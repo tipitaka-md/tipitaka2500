@@ -17,7 +17,7 @@
 
 (31.)
 
-2181. Parāmāso dhammo noparāmāsassa dhammassa pacchājātapaccayena paccayo…  tīṇi (pacchājātā kātabbā)…  āsevanapaccayena paccayo…  nava.
+2181\. Parāmāso dhammo noparāmāsassa dhammassa pacchājātapaccayena paccayo…  tīṇi (pacchājātā kātabbā)…  āsevanapaccayena paccayo…  nava.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Purejata.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Kamma.md)
 

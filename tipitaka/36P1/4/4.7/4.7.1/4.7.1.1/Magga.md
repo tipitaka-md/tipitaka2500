@@ -15,7 +15,7 @@
 
 (113.)
 
-2380. Vipāko dhammo vipākassa dhammassa maggapaccayena paccayo…  tīṇi. Vipākadhammadhammo vipākadhammadhammassa maggapaccayena paccayo…  tīṇi. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa maggapaccayena paccayo. Nevavipākanavipākadhammadhammā maggaṅgā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo.
+2380\. Vipāko dhammo vipākassa dhammassa maggapaccayena paccayo…  tīṇi. Vipākadhammadhammo vipākadhammadhammassa maggapaccayena paccayo…  tīṇi. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa maggapaccayena paccayo. Nevavipākanavipākadhammadhammā maggaṅgā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo.
 
 [Go to previous page (Jhāna)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Jhana.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Sampayutta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sampayutta.md)
 

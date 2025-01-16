@@ -15,7 +15,7 @@
 
 (15.)
 
-2649. Paccuppanno dhammo paccuppannassa dhammassa atthipaccayena paccayo. (Uppannattike atthisadisaṃ.) (1)
+2649\. Paccuppanno dhammo paccuppannassa dhammassa atthipaccayena paccayo. (Uppannattike atthisadisaṃ.) (1)
 
 [Go to previous page (Āhārādi)](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Aharadi.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1.md) / [Go to next page (Natthi-vigatāvigata)](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Natthi-vigatavigata.md)
 

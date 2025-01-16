@@ -17,7 +17,7 @@
 
 (68.)
 
-1956. Adhipatipaccayā hetuyā dve, ārammaṇe cattāri, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye cattāri, vipāke dve, āhāre tīṇi, indriye tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
+1956\. Adhipatipaccayā hetuyā dve, ārammaṇe cattāri, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye cattāri, vipāke dve, āhāre tīṇi, indriye tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
 
 [Go to previous page (Adhipati)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati.md) / [Go to parent page (Adhipati)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati/Pakinnakaghatana.md)
 

@@ -17,7 +17,7 @@
 
 (132.)
 
-2640. Cetasiko dhammo cetasikassa dhammassa vipākapaccayena paccayo…  nava…  āhārapaccayena paccayo…  nava…  indriyapaccayena paccayo…  nava…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
+2640\. Cetasiko dhammo cetasikassa dhammassa vipākapaccayena paccayo…  nava…  āhārapaccayena paccayo…  nava…  indriyapaccayena paccayo…  nava…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
 
 [Go to previous page (Kamma)](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Kamma.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Vippayutta.md)
 

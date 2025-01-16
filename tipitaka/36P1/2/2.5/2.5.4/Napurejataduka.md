@@ -13,9 +13,9 @@
 
 (250.)
 
-800. Napurejātapaccayā hetuyā tīṇi, ārammaṇe tīṇi…pe…  āsevane tīṇi, kamme tīṇi, vipāke ekaṃ.
+800\. Napurejātapaccayā hetuyā tīṇi, ārammaṇe tīṇi…pe…  āsevane tīṇi, kamme tīṇi, vipāke ekaṃ.
 
-801. (Sabbāni padāni vitthāretabbāni, imāni alikhitesu padesu tīṇi pañhā. Napurejātamūlake nahetuyā ṭhitena āsevane ca magge ca eko pañho kātabbo, avasesāni nahetupaccayasadisāni. Napacchājātapaccayā paripuṇṇaṃ naadhipatipaccayasadisaṃ.)
+801\. (Sabbāni padāni vitthāretabbāni, imāni alikhitesu padesu tīṇi pañhā. Napurejātamūlake nahetuyā ṭhitena āsevane ca magge ca eko pañho kātabbo, avasesāni nahetupaccayasadisāni. Napacchājātapaccayā paripuṇṇaṃ naadhipatipaccayasadisaṃ.)
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.5/2.5.4/Naadhipatiduka/Tika.md) / [Go to parent page (2.5.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.5/2.5.4.md) / [Go to next page (Nakammaduka)](/tipitaka/36P1/2/2.5/2.5.4/Nakammaduka.md)
 

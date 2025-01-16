@@ -13,7 +13,7 @@
 
 (235.)
 
-762. Adhipatipaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
+762\. Adhipatipaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
 * [Tikādi](/tipitaka/36P1/2/2.5/2.5.3/Adhipatiduka/Tikadi.md)
 

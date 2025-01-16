@@ -17,9 +17,9 @@
 
 (13.)
 
-1001. Noāsavaṃ dhammaṃ paccayā noāsavo dhammo uppajjati nahetupaccayā—  ahetukaṃ noāsavaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ…  vatthuṃ paccayā ahetukā noāsavā khandhā. (1)
+1001\. Noāsavaṃ dhammaṃ paccayā noāsavo dhammo uppajjati nahetupaccayā—  ahetukaṃ noāsavaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ…  vatthuṃ paccayā ahetukā noāsavā khandhā. (1)
 
-1002. Noāsavaṃ dhammaṃ paccayā āsavo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
+1002\. Noāsavaṃ dhammaṃ paccayā āsavo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
 [Go to previous page (3.1.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.2/3.1.3.2.1.md) / [Go to parent page (3.1.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.2/3.1.3.2.1.md) / [Go to next page (3.1.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/3/3.1/3.1.3/3.1.3.2/3.1.3.2.2.md)
 

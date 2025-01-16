@@ -15,7 +15,7 @@
 
 (53.)
 
-172. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
+172\. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
 
 ### Tika, Hetuduka
 
@@ -27,7 +27,7 @@
 
 ### Paccayacatukka
 
-173. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
+173\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
 
 ### Tika, Hetuduka
 
@@ -39,7 +39,7 @@
 
 ### Paccayacatukka
 
-174. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
+174\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
 
 ### Tika, Hetuduka
 
@@ -53,7 +53,7 @@
 
 (54.)
 
-175. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. Upādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (2)
+175\. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. Upādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (2)
 
 ### Tika, Hetuduka
 
@@ -65,7 +65,7 @@
 
 ### Paccayacatukka
 
-176. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. Anupādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (2)
+176\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. Anupādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (2)
 
 ### Tika, Hetuduka
 
@@ -77,7 +77,7 @@
 
 ### Paccayacatukka
 
-177. Anupādinnaanupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (1)
+177\. Anupādinnaanupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (1)
 
 ### Tika, Hetuduka
 
@@ -91,7 +91,7 @@
 
 (55.)
 
-178. Upādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (1)
+178\. Upādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (1)
 
 ### Tika, Hetuduka
 
@@ -103,7 +103,7 @@
 
 ### Paccayacatukka
 
-179. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (1)
+179\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (1)
 
 ### Tika, Hetuduka
 
@@ -115,7 +115,7 @@
 
 ### Paccayacatukka
 
-180. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. Anupādinnaanupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (2)
+180\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. Anupādinnaanupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (2)
 
 * [Anantara-upanissaya](/tipitaka/39P4/1/1.4/1.4.1/1.4.1.7/Paccayacatukka/Anantara-upanissaya.md)
 

@@ -15,7 +15,7 @@
 
 (42.)
 
-2840. Ajjhatto dhammo ajjhattassa dhammassa vipākapaccayena paccayo…pe… . (Paripuṇṇaṃ, paṭiccavārasadisaṃ.)
+2840\. Ajjhatto dhammo ajjhattassa dhammassa vipākapaccayena paccayo…pe… . (Paripuṇṇaṃ, paṭiccavārasadisaṃ.)
 
 [Go to previous page (Kamma)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Kamma.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Āhāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Ahara.md)
 

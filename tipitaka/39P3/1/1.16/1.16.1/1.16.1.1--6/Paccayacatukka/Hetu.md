@@ -17,15 +17,15 @@
 
 (453.)
 
-991. Hetuṃ maggārammaṇaṃ dhammaṃ paṭicca hetu maggārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+991\. Hetuṃ maggārammaṇaṃ dhammaṃ paṭicca hetu maggārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
 
-992. Nahetuṃ maggārammaṇaṃ dhammaṃ paṭicca nahetu maggārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+992\. Nahetuṃ maggārammaṇaṃ dhammaṃ paṭicca nahetu maggārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
 
-993. Hetuṃ maggārammaṇañca nahetuṃ maggārammaṇañca dhammaṃ paṭicca hetu maggārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+993\. Hetuṃ maggārammaṇañca nahetuṃ maggārammaṇañca dhammaṃ paṭicca hetu maggārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 (454.)
 
-994. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava…pe…  avigate nava. (Saṃkhittaṃ.)
+994\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.1--6/Paccayacatukka.md) / [Go to next page (Nahetu)](/tipitaka/39P3/1/1.16/1.16.1/1.16.1.1--6/Paccayacatukka/Nahetu.md)
 

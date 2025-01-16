@@ -13,7 +13,7 @@
 
 ### Dvādasaka
 
-341. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
+341\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
 
 [Go to previous page (Pañcaka)](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka/Pancaka.md) / [Go to parent page (Vippayuttaduka)](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka.md) / [Go to next page (Tevīsaka (sāsevana))](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka/evisaka_sasevana.md)
 

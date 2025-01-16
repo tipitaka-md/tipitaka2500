@@ -17,11 +17,11 @@
 
 (210.)
 
-2833. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa hetupaccayena paccayo—  cittasamuṭṭhānā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+2833\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa hetupaccayena paccayo—  cittasamuṭṭhānā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-2834. Cittasamuṭṭhāno dhammo nocittasamuṭṭhānassa dhammassa hetupaccayena paccayo—  cittasamuṭṭhānā hetū cittassa hetupaccayena paccayo; paṭisandhikkhaṇe cittasamuṭṭhānā hetū cittassa kaṭattā ca rūpānaṃ hetupaccayena paccayo. (2)
+2834\. Cittasamuṭṭhāno dhammo nocittasamuṭṭhānassa dhammassa hetupaccayena paccayo—  cittasamuṭṭhānā hetū cittassa hetupaccayena paccayo; paṭisandhikkhaṇe cittasamuṭṭhānā hetū cittassa kaṭattā ca rūpānaṃ hetupaccayena paccayo. (2)
 
-2835. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa hetupaccayena paccayo—  cittasamuṭṭhānā hetū sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
+2835\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa hetupaccayena paccayo—  cittasamuṭṭhānā hetū sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
 
 [Go to previous page (10.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1/Arammana.md)
 

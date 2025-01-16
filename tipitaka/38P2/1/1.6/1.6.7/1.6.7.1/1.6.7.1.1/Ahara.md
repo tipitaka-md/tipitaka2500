@@ -17,9 +17,9 @@
 
 (188.)
 
-512. Nahetu sahetuko dhammo nahetusahetukassa dhammassa āhārapaccayena paccayo…  tīṇi.
+512\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa āhārapaccayena paccayo…  tīṇi.
 
-513. Nahetu ahetuko dhammo nahetuahetukassa dhammassa āhārapaccayena paccayo—  nahetu ahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
+513\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa āhārapaccayena paccayo—  nahetu ahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
 
 [Go to previous page (Vipāka)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Vipaka.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page (Indriya)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Indriya.md)
 

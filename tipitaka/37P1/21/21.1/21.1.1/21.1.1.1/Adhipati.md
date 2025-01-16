@@ -15,9 +15,9 @@
 
 (3.)
 
-2764. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati adhipatipaccayā—  ajjhattaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+2764\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati adhipatipaccayā—  ajjhattaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
 
-2765. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati adhipatipaccayā—  bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+2765\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati adhipatipaccayā—  bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
 
 [Go to previous page (Ārammaṇa)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Arammana.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1.md) / [Go to next page (Anantarādi)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Anantaradi.md)
 

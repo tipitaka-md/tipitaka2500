@@ -13,7 +13,7 @@
 
 ### Tika
 
-785. Vippayuttapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
+785\. Vippayuttapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
 
 [Go to previous page (Vippayuttaduka)](/tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka.md) / [Go to parent page (Vippayuttaduka)](/tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka.md) / [Go to next page (Catukka)](/tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka/Catukka.md)
 

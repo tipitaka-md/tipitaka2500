@@ -17,7 +17,7 @@
 
 (383.)
 
-1146. Natthipaccayā anantare satta, samanantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṃ, vigate satta. (6)
+1146\. Natthipaccayā anantare satta, samanantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṃ, vigate satta. (6)
 
 [Go to previous page (Natthi)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Natthi.md) / [Go to parent page (Natthi)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Natthi.md) / [Go to next page (Natthighaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Natthi/Natthighatana.md)
 

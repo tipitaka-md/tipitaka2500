@@ -17,9 +17,9 @@
 
 (301.)
 
-3057. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo—  cittasaṃsaṭṭhasamuṭṭhāne khandhe ārabbha cittasaṃsaṭṭhasamuṭṭhānā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Cittasaṃsaṭṭhasamuṭṭhāne khandhe ārabbha cittaṃ uppajjati. (Mūlaṃ kātabbaṃ.) Cittasaṃsaṭṭhasamuṭṭhāne khandhe ārabbha cittañca sampayuttakā ca khandhā uppajjanti. (3)
+3057\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo—  cittasaṃsaṭṭhasamuṭṭhāne khandhe ārabbha cittasaṃsaṭṭhasamuṭṭhānā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Cittasaṃsaṭṭhasamuṭṭhāne khandhe ārabbha cittaṃ uppajjati. (Mūlaṃ kātabbaṃ.) Cittasaṃsaṭṭhasamuṭṭhāne khandhe ārabbha cittañca sampayuttakā ca khandhā uppajjanti. (3)
 
-3058. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti…pe…  nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa…pe… . (Saṃkhittaṃ. Yathā cittasahabhūduke ārammaṇaṃ evaṃ kātabbaṃ, ninnānākaraṇaṃ. Navapi pañhā.)
+3058\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti…pe…  nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa…pe… . (Saṃkhittaṃ. Yathā cittasahabhūduke ārammaṇaṃ evaṃ kātabbaṃ, ninnānākaraṇaṃ. Navapi pañhā.)
 
 [Go to previous page (Hetu)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1/Hetu.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1/Adhipati.md)
 

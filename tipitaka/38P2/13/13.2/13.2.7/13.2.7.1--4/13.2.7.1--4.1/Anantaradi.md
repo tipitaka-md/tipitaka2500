@@ -17,7 +17,7 @@
 
 (41.)
 
-4155. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa anantarapaccayena paccayo…  cattāri (dassanadukasadisā bhāvanā ninnānākaraṇā)…  samanantarapaccayena paccayo…  cattāri…  sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
+4155\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa anantarapaccayena paccayo…  cattāri (dassanadukasadisā bhāvanā ninnānākaraṇā)…  samanantarapaccayena paccayo…  cattāri…  sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
 
 [Go to previous page (Adhipati)](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1/Adhipati.md) / [Go to parent page (13.2.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/13/13.2/13.2.7/13.2.7.1--4/13.2.7.1--4.1/Upanissaya.md)
 

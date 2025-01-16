@@ -17,13 +17,13 @@
 
 (149.)
 
-890. Lokiyo dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā…pe…  ariyā gotrabhuṃ paccavekkhanti, vodānaṃ paccavekkhanti, pahīne kilese paccavekkhanti, vikkhambhite kilese…pe…  pubbe samudāciṇṇe kilese jānanti; cakkhuṃ…pe…  vatthuṃ lokiye khandhe aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena lokiyacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe…  ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa, lokiyā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+890\. Lokiyo dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā…pe…  ariyā gotrabhuṃ paccavekkhanti, vodānaṃ paccavekkhanti, pahīne kilese paccavekkhanti, vikkhambhite kilese…pe…  pubbe samudāciṇṇe kilese jānanti; cakkhuṃ…pe…  vatthuṃ lokiye khandhe aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena lokiyacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe…  ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa, lokiyā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 (150.)
 
-891. Lokuttaro dhammo lokuttarassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, phalassa ārammaṇapaccayena paccayo. (1)
+891\. Lokuttaro dhammo lokuttarassa dhammassa ārammaṇapaccayena paccayo—  nibbānaṃ maggassa, phalassa ārammaṇapaccayena paccayo. (1)
 
-892. Lokuttaro dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo; ariyā cetopariyañāṇena lokuttaracittasamaṅgissa cittaṃ jānanti, lokuttarā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
+892\. Lokuttaro dhammo lokiyassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo; ariyā cetopariyañāṇena lokuttaracittasamaṅgissa cittaṃ jānanti, lokuttarā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
 [Go to previous page (Hetu)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Hetu.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Adhipati.md)
 

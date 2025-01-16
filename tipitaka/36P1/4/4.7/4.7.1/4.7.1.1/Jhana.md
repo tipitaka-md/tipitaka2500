@@ -15,9 +15,9 @@
 
 (112.)
 
-2378. Vipāko dhammo vipākassa dhammassa jhānapaccayena paccayo…  tīṇi. Vipākadhammadhammo vipākadhammadhammassa jhānapaccayena paccayo…  tīṇi.
+2378\. Vipāko dhammo vipākassa dhammassa jhānapaccayena paccayo…  tīṇi. Vipākadhammadhammo vipākadhammadhammassa jhānapaccayena paccayo…  tīṇi.
 
-2379. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa jhānapaccayena paccayo—  nevavipākanavipākadhammadhammā jhānaṅgā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ jhānapaccayena paccayo.
+2379\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa jhānapaccayena paccayo—  nevavipākanavipākadhammadhammā jhānaṅgā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ jhānapaccayena paccayo.
 
 [Go to previous page (Indriya)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Indriya.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Magga)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Magga.md)
 

@@ -17,7 +17,7 @@
 
 (108.)
 
-3789. Upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
+3789\. Upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1/Anantara.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1/Upanissaya.md)
 

@@ -15,7 +15,7 @@
 
 (43.)
 
-1999. Parittaṃ dhammaṃ saṃsaṭṭho paritto dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (paṭisandhi natthi)…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā (paṭisandhi natthi)…  āsevanapaccayā (vipākopi paṭisandhipi natthi)…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+1999\. Parittaṃ dhammaṃ saṃsaṭṭho paritto dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (paṭisandhi natthi)…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā (paṭisandhi natthi)…  āsevanapaccayā (vipākopi paṭisandhipi natthi)…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
 
 [Go to previous page (Hetu)](/tipitaka/37P1/13/13.5/13.5.1/13.5.1.1/Hetu.md) / [Go to parent page (13.5.1.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.5/13.5.1/13.5.1.1.md) / [Go to next page (13.5.1.2 Saṅkhyāvāra)](/tipitaka/37P1/13/13.5/13.5.1/13.5.1.2.md)
 

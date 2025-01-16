@@ -15,7 +15,7 @@
 
 ### Sattarasaka
 
-1261. Noatthipaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhāne dve…pe…  noavigate dve…pe… .
+1261\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhāne dve…pe…  noavigate dve…pe… .
 
 [Go to previous page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Ekadasaka.md) / [Go to parent page (Noatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md) / [Go to next page (Ekavīsaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Ekavisaka.md)
 

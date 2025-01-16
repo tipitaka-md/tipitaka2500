@@ -15,9 +15,9 @@
 
 (27.)
 
-2811. Ajjhatto dhammo ajjhattassa dhammassa hetupaccayena paccayo—  ajjhattā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
+2811\. Ajjhatto dhammo ajjhattassa dhammassa hetupaccayena paccayo—  ajjhattā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
 
-2812. Bahiddhā dhammo bahiddhā dhammassa hetupaccayena paccayo—  bahiddhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
+2812\. Bahiddhā dhammo bahiddhā dhammassa hetupaccayena paccayo—  bahiddhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
 
 [Go to previous page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Arammana.md)
 

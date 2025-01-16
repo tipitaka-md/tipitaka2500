@@ -13,7 +13,7 @@
 
 (70.)
 
-303. Purejātapaccayā nahetuyā dve, naadhipatiyā tīṇi, na pacchājāte tīṇi, na āsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ.
+303\. Purejātapaccayā nahetuyā dve, naadhipatiyā tīṇi, na pacchājāte tīṇi, na āsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.3/Purejataduka/Tika.md)
 

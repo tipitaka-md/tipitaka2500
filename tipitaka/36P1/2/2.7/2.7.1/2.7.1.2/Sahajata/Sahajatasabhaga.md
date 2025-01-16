@@ -17,7 +17,7 @@
 
 (321.)
 
-1037. Sahajātapaccayā hetuyā satta, adhipatiyā satta, aññamaññe tīṇi, nissaye nava, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā nava, avigate nava. (14)
+1037\. Sahajātapaccayā hetuyā satta, adhipatiyā satta, aññamaññe tīṇi, nissaye nava, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā nava, avigate nava. (14)
 
 [Go to previous page (Sahajāta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Sahajata.md) / [Go to parent page (Sahajāta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Sahajata.md) / [Go to next page (Sahajātaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Sahajata/Sahajataghatana.md)
 

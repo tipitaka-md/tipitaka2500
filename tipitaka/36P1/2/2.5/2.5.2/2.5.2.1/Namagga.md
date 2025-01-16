@@ -15,7 +15,7 @@
 
 (221.)
 
-724. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati namaggapaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe…pe… . (1)
+724\. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati namaggapaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe…pe… . (1)
 
 [Go to previous page (Najhāna)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Najhana.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page (Navippayutta)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Navippayutta.md)
 

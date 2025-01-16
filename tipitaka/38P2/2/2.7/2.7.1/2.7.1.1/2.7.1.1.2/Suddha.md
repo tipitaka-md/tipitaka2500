@@ -17,11 +17,11 @@
 
 (179.)
 
-959. Hetuyā nava, ārammaṇe nava…pe…  avigate nava.
+959\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava.
 
 ---
 
-960. Anulomaṃ.
+960\. Anulomaṃ.
 
 
 

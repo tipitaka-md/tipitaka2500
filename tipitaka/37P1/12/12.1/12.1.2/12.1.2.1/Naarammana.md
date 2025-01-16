@@ -15,15 +15,15 @@
 
 (8.)
 
-1674. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1674\. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-1675. Asekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  asekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1675\. Asekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  asekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-1676. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  nevasekkhanāsekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu…pe…  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ…pe… . (1)
+1676\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  nevasekkhanāsekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu…pe…  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ…pe… . (1)
 
-1677. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1677\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-1678. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1678\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naārammaṇapaccayā—  asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
 [Go to previous page (Nahetu)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Nahetu.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.1/12.1.2/2.1.2.1.md) / [Go to next page (Naadhipatyādi)](/tipitaka/37P1/12/12.1/12.1.2/12.1.2.1/Naadhipatyadi.md)
 

@@ -15,7 +15,7 @@
 
 ### Ghaṭanā
 
-1966. Nissaya sahajāta aññamañña sampayutta atthi avigatanti tīṇi. Nissaya sahajāta aññamañña vipāka sampayutta atthi avigatanti tīṇi.
+1966\. Nissaya sahajāta aññamañña sampayutta atthi avigatanti tīṇi. Nissaya sahajāta aññamañña vipāka sampayutta atthi avigatanti tīṇi.
 
 [Go to previous page (Sahajātādisabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sahajata/Sahajatadisabhaga.md) / [Go to parent page (Sahajāta)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sahajata.md) / [Go to next page (Upanissaya)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Upanissaya.md)
 

@@ -15,7 +15,7 @@
 
 ### Tika
 
-2017. Nahetupaccayā naārammaṇapaccayā naadhipatiyā nava…pe…  naupanissaye aṭṭha…pe…  noavigate nava…pe… .
+2017\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā nava…pe…  naupanissaye aṭṭha…pe…  noavigate nava…pe… .
 
 [Go to previous page (Nahetuduka)](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1/Nahetuduka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1/Nahetuduka.md) / [Go to next page (Tevīsaka)](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1/Nahetuduka/Tevisaka.md)
 

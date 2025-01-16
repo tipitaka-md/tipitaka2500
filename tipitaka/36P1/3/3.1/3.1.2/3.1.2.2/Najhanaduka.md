@@ -15,7 +15,7 @@
 
 (22.)
 
-1846. Najhānapaccayā nahetuyā tīṇi, naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, namagge tīṇi…pe… .
+1846\. Najhānapaccayā nahetuyā tīṇi, naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, namagge tīṇi…pe… .
 
 * [Chakka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Najhanaduka/Chakka.md)
 

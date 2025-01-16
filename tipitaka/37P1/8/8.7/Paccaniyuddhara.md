@@ -11,43 +11,43 @@
 
 (46.)
 
-764. Pītisahagato dhammo pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+764\. Pītisahagato dhammo pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
 
-765. Pītisahagato dhammo sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
+765\. Pītisahagato dhammo sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
 
-766. Pītisahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
+766\. Pītisahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
-767. Pītisahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
+767\. Pītisahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
 
 (47.)
 
-768. Sukhasahagato dhammo sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+768\. Sukhasahagato dhammo sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
 
-769. Sukhasahagato dhammo pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
+769\. Sukhasahagato dhammo pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
 
-770. Sukhasahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
+770\. Sukhasahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
-771. Sukhasahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
+771\. Sukhasahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
 
 (48.)
 
-772. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+772\. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
 
-773. Upekkhāsahagato dhammo pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
+773\. Upekkhāsahagato dhammo pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
 
-774. Upekkhāsahagato dhammo sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
+774\. Upekkhāsahagato dhammo sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
-775. Upekkhāsahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
+775\. Upekkhāsahagato dhammo pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
 
 (49.)
 
-776. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+776\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
 
-777. Pītisahagato ca sukhasahagato ca dhammā sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
+777\. Pītisahagato ca sukhasahagato ca dhammā sukhasahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (2)
 
-778. Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
+778\. Pītisahagato ca sukhasahagato ca dhammā upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
-779. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
+779\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (4)
 
 [Go to previous page (Suddha)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.2/Suddha.md) / [Go to parent page (8.7 Pañhāvāra)](/tipitaka/37P1/8/8.7.md) / [Go to next page (8.7.2 Paccayapaccanīya)](/tipitaka/37P1/8/8.7/8.7.2.md)
 

@@ -15,7 +15,7 @@
 
 (211.)
 
-709. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi.
+709\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi.
 
 [Go to previous page (2.5.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2.md) / [Go to parent page (2.5.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2.md) / [Go to next page (Hetuduka)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2/Hetuduka.md)
 

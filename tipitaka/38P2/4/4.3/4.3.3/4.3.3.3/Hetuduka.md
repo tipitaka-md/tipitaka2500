@@ -15,7 +15,7 @@
 
 (61.)
 
-1471. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava. (Saṃkhittaṃ, evaṃ kātabbaṃ.)
+1471\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava. (Saṃkhittaṃ, evaṃ kātabbaṃ.)
 
 [Go to previous page (4.3.3.3 Paccayānulomapaccanīya)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.3.md) / [Go to parent page (4.3.3.3 Paccayānulomapaccanīya)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.3.md) / [Go to next page (4.3.3.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.4.md)
 

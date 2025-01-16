@@ -17,7 +17,7 @@
 
 (11.)
 
-565. Sappaccayo dhammo sappaccayassa dhammassa anantarapaccayena paccayo…pe…  upanissayapaccayena paccayo…pe…  (dve pañhā upanissayamūlaṃ) purejātapaccayena paccayo…pe…  avigatapaccayena paccayo. (Sabbattha ekāyeva pañhā.)
+565\. Sappaccayo dhammo sappaccayassa dhammassa anantarapaccayena paccayo…pe…  upanissayapaccayena paccayo…pe…  (dve pañhā upanissayamūlaṃ) purejātapaccayena paccayo…pe…  avigatapaccayena paccayo. (Sabbattha ekāyeva pañhā.)
 
 [Go to previous page (Adhipati)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.1/2.1.7.1.1/Adhipati.md) / [Go to parent page (2.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.1/2.1.7.1.1.md) / [Go to next page (2.1.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/2/2.1/2.1.7/2.1.7.1/2.1.7.1.2.md)
 

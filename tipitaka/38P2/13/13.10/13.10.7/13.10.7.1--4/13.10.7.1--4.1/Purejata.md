@@ -17,7 +17,7 @@
 
 (191.)
 
-4506. Naupekkhāsahagato dhammo naupekkhāsahagatassa dhammassa purejātapaccayena paccayo…  tīṇi. (Sappītikadukasadisā.)
+4506\. Naupekkhāsahagato dhammo naupekkhāsahagatassa dhammassa purejātapaccayena paccayo…  tīṇi. (Sappītikadukasadisā.)
 
 [Go to previous page (Upanissaya)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Upanissaya.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md) / [Go to next page (Pacchājātādi)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Pacchajatadi.md)
 

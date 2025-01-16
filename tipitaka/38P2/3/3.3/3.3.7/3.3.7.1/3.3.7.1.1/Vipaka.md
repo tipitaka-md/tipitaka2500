@@ -17,7 +17,7 @@
 
 (93.)
 
-1223. Āsavavippayutto dhammo āsavavippayuttassa dhammassa vipākapaccayena paccayo…  ekaṃ.
+1223\. Āsavavippayutto dhammo āsavavippayuttassa dhammassa vipākapaccayena paccayo…  ekaṃ.
 
 [Go to previous page (Kamma)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Kamma.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md) / [Go to next page (Āhāra)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Ahara.md)
 

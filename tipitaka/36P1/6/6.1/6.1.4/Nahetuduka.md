@@ -13,11 +13,11 @@
 
 (7.)
 
-2822. Nahetupaccayā ārammaṇe dve…pe…  vipāke ekaṃ…pe…  magge ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+2822\. Nahetupaccayā ārammaṇe dve…pe…  vipāke ekaṃ…pe…  magge ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
 
 ---
 
-2823. Paṭiccavāro.
+2823\. Paṭiccavāro.
 
 
 

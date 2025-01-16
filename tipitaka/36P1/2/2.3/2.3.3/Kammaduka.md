@@ -13,7 +13,7 @@
 
 (171.)
 
-603. Kammapaccayā nahetuyā cattāri, naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, navipāke sattarasa, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+603\. Kammapaccayā nahetuyā cattāri, naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, navipāke sattarasa, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.3/Kammaduka/Tika.md)
 

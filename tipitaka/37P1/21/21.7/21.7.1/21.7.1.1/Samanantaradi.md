@@ -15,7 +15,7 @@
 
 (33.)
 
-2823. Ajjhatto dhammo ajjhattassa dhammassa samanantarapaccayena paccayo…pe…  (anantarasadisaṃ)…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
+2823\. Ajjhatto dhammo ajjhattassa dhammassa samanantarapaccayena paccayo…pe…  (anantarasadisaṃ)…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
 
 [Go to previous page (Anantara)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Anantara.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Upanissaya.md)
 

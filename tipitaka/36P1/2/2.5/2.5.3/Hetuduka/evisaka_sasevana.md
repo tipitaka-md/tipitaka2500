@@ -13,7 +13,7 @@
 
 ### Tevīsaka (sāsevana)
 
-757. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte tīṇi, navipāke tīṇi.
+757\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte tīṇi, navipāke tīṇi.
 
 [Go to previous page (Dvādasaka (sāsevana))](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka/vadasaka_sasevana.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka.md) / [Go to next page (Terasaka (savipāka))](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka/erasaka_savipaka.md)
 

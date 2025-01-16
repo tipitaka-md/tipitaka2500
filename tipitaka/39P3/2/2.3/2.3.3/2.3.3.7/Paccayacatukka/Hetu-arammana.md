@@ -17,13 +17,13 @@
 
 (43.)
 
-1353. Hetusampayutto abyākato dhammo hetusampayuttassa abyākatassa dhammassa hetupaccayena paccayo…  tīṇi.
+1353\. Hetusampayutto abyākato dhammo hetusampayuttassa abyākatassa dhammassa hetupaccayena paccayo…  tīṇi.
 
-1354. Hetusampayutto abyākato dhammo hetusampayuttassa abyākatassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+1354\. Hetusampayutto abyākato dhammo hetusampayuttassa abyākatassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
 
 (44.)
 
-1355. Hetuyā tīṇi, ārammaṇe cattāri, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme cattāri, vipāke cattāri, āhāre indriye jhāne cattāri, magge tīṇi, sampayutte dve, vippayutte tīṇi…pe…  avigate satta. (Saṃkhittaṃ.)
+1355\. Hetuyā tīṇi, ārammaṇe cattāri, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme cattāri, vipāke cattāri, āhāre indriye jhāne cattāri, magge tīṇi, sampayutte dve, vippayutte tīṇi…pe…  avigate satta. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.3/2.3.3/2.3.3.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.3/2.3.3/2.3.3.7/Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/2/2.3/2.3.3/2.3.3.7/Paccaniyuddhara.md)
 

@@ -17,7 +17,7 @@
 
 (72.)
 
-2043. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
+2043\. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Anantara.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Upanissaya.md)
 

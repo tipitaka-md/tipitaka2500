@@ -15,7 +15,7 @@
 
 (42.)
 
-1713. Hetupaccayā naārammaṇe nava…pe…  nasamanantare nava, naaññamaññe tīṇi, naupanissaye nava (sabbattha nava), namagge nava, nasampayutte tīṇi, navippayutte nava, nonatthiyā nava, novigate nava.
+1713\. Hetupaccayā naārammaṇe nava…pe…  nasamanantare nava, naaññamaññe tīṇi, naupanissaye nava (sabbattha nava), namagge nava, nasampayutte tīṇi, navippayutte nava, nonatthiyā nava, novigate nava.
 
 [Go to previous page (5.1.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.3.md) / [Go to parent page (5.1.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.3.md) / [Go to next page (5.1.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.4.md)
 

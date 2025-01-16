@@ -13,7 +13,7 @@
 
 ### Tika
 
-600. Āsevanapaccayā hetupaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, nakamme satta, navipāke satta, navippayutte tīṇi.
+600\. Āsevanapaccayā hetupaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, nakamme satta, navipāke satta, navippayutte tīṇi.
 
 [Go to previous page (Āsevanaduka)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka.md) / [Go to parent page (Āsevanaduka)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka.md) / [Go to next page (Catukka)](/tipitaka/36P1/2/2.3/2.3.3/Asevanaduka/Catukka.md)
 

@@ -13,7 +13,7 @@
 
 ### Tika
 
-2149. Hetupaccayā ārammaṇapaccayā naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme dve, navipāke dve, navippayutte tīṇi.
+2149\. Hetupaccayā ārammaṇapaccayā naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme dve, navipāke dve, navippayutte tīṇi.
 
 [Go to previous page (Hetuduka)](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka.md) / [Go to next page (Catukka)](/tipitaka/36P1/4/4.1/4.1.3/Hetuduka/Catukka.md)
 

@@ -13,7 +13,7 @@
 
 ### Nahetuduka
 
-4222. Nahetupaccayā ārammaṇe dve, anantare dve…pe…  vipāke ekaṃ…pe…  avigate dve.
+4222\. Nahetupaccayā ārammaṇe dve, anantare dve…pe…  vipāke ekaṃ…pe…  avigate dve.
 
 [Go to previous page (Hetuduka)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Hetuduka.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to next page (13.3.6 Sampayuttavāra)](/tipitaka/38P2/13/13.3/13.3.6.md)
 

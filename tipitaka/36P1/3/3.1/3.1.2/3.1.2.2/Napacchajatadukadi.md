@@ -15,7 +15,7 @@
 
 (20.)
 
-1841. Napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, namagge dve, navippayutte dve.
+1841\. Napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, namagge dve, navippayutte dve.
 
 * [Tika](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Napacchajatadukadi/Tika.md)
 * [Pañcaka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Napacchajatadukadi/Pancaka.md)

@@ -15,7 +15,7 @@
 
 (9.)
 
-1819. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. (Nādhipati paripuṇṇaṃ paṭisandhikaṃ.)
+1819\. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. (Nādhipati paripuṇṇaṃ paṭisandhikaṃ.)
 
 [Go to previous page (Nahetu)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1/Nahetu.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1.md) / [Go to next page (Napurejāta)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1/Napurejata.md)
 

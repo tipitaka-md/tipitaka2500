@@ -17,7 +17,7 @@
 
 (76.)
 
-1506. Saññojanasampayutto dhammo saññojanasampayuttassa dhammassa samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
+1506\. Saññojanasampayutto dhammo saññojanasampayuttassa dhammassa samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Anantara.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Upanissaya.md)
 

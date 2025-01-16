@@ -15,7 +15,7 @@
 
 (85.)
 
-2016. Nahetupaccayā naārammaṇe nava…pe…  noavigate nava.
+2016\. Nahetupaccayā naārammaṇe nava…pe…  noavigate nava.
 
 * [Tika](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1/Nahetuduka/Tika.md)
 * [Tevīsaka](/tipitaka/36P1/3/3.7/3.7.2/3.7.2.1/Nahetuduka/Tevisaka.md)

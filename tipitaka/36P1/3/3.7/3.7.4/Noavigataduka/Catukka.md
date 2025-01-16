@@ -13,7 +13,7 @@
 
 ### Catukka
 
-2035. Noavigatapaccayā nahetupaccayā naārammaṇapaccayā anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme aṭṭha, natthiyā satta, vigate satta…pe… .
+2035\. Noavigatapaccayā nahetupaccayā naārammaṇapaccayā anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme aṭṭha, natthiyā satta, vigate satta…pe… .
 
 [Go to previous page (Noavigataduka)](/tipitaka/36P1/3/3.7/3.7.4/Noavigataduka.md) / [Go to parent page (Noavigataduka)](/tipitaka/36P1/3/3.7/3.7.4/Noavigataduka.md) / [Go to next page (Catuvīsaka (saupanissaya))](/tipitaka/36P1/3/3.7/3.7.4/Noavigataduka/atuvisaka_saupanissaya.md)
 

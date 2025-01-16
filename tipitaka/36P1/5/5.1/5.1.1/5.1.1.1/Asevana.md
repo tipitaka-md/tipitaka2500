@@ -15,9 +15,9 @@
 
 (8.)
 
-2463. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati āsevanapaccayā—  anupādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca…pe… . (1)
+2463\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati āsevanapaccayā—  anupādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca…pe… . (1)
 
-2464. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca anupādinnaanupādāniyo dhammo uppajjati āsevanapaccayā—  anupādinnaanupādāniyaṃ ekaṃ khandhaṃ paṭicca…pe… . (1)
+2464\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca anupādinnaanupādāniyo dhammo uppajjati āsevanapaccayā—  anupādinnaanupādāniyaṃ ekaṃ khandhaṃ paṭicca…pe… . (1)
 
 [Go to previous page (Purejāta)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Purejata.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md) / [Go to next page (Kamma)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Kamma.md)
 

@@ -17,7 +17,7 @@
 
 (402.)
 
-3339. Noupādā dhammo noupādā dhammassa vipākapaccayena paccayo—  vipāko noupādā eko khandho tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  tīṇi.
+3339\. Noupādā dhammo noupādā dhammassa vipākapaccayena paccayo—  vipāko noupādā eko khandho tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  tīṇi.
 
 [Go to previous page (Kamma)](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1/Kamma.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1.md) / [Go to next page (Āhāra)](/tipitaka/38P2/10/10.13/10.13.7/10.13.7.1/10.13.7.1.1/Ahara.md)
 

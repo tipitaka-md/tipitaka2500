@@ -17,7 +17,7 @@
 
 (85.)
 
-4030. Nahetuyā tīṇi, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava.
+4030\. Nahetuyā tīṇi, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava.
 
 [Go to previous page (12.6.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.6/12.6.1/12.6.1.2/12.6.1.2.2.md) / [Go to parent page (12.6.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.6/12.6.1/12.6.1.2/12.6.1.2.2.md) / [Go to next page (12.6.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](/tipitaka/38P2/12/12.6/12.6.1/12.6.1.3--4.md)
 

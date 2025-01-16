@@ -17,7 +17,7 @@
 
 (87.)
 
-1806. Ganthasampayutto dhammo ganthasampayuttassa dhammassa āsevanapaccayena paccayo. (Anantarasadisaṃ, āvajjanāpi vuṭṭhānampi natthi.)
+1806\. Ganthasampayutto dhammo ganthasampayuttassa dhammassa āsevanapaccayena paccayo. (Anantarasadisaṃ, āvajjanāpi vuṭṭhānampi natthi.)
 
 [Go to previous page (Pacchājāta)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Pacchajata.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Kamma.md)
 

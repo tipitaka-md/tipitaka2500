@@ -17,7 +17,7 @@
 
 (77.)
 
-1981. Indriyapaccayā hetuyā dve, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke tīṇi, āhāre tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (12)
+1981\. Indriyapaccayā hetuyā dve, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke tīṇi, āhāre tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (12)
 
 [Go to previous page (Indriya)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Indriya.md) / [Go to parent page (Indriya)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Indriya.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Indriya/Ghatana.md)
 

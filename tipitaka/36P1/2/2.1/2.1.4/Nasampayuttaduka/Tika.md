@@ -13,7 +13,7 @@
 
 ### Tika
 
-391. Nasampayuttapaccayā nahetupaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+391\. Nasampayuttapaccayā nahetupaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Nasampayuttaduka)](/tipitaka/36P1/2/2.1/2.1.4/Nasampayuttaduka.md) / [Go to parent page (Nasampayuttaduka)](/tipitaka/36P1/2/2.1/2.1.4/Nasampayuttaduka.md) / [Go to next page (Navippayuttaduka)](/tipitaka/36P1/2/2.1/2.1.4/Navippayuttaduka.md)
 

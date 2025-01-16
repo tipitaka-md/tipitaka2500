@@ -13,13 +13,13 @@
 
 (48.)
 
-1682. Āsavavippayuttaṃ sāsavaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto sāsavo kusalo dhammo uppajjati hetupaccayā. Āsavavippayuttaṃ anāsavaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto anāsavo kusalo dhammo uppajjati hetupaccayā. (2) (Saṃkhittaṃ.)
+1682\. Āsavavippayuttaṃ sāsavaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto sāsavo kusalo dhammo uppajjati hetupaccayā. Āsavavippayuttaṃ anāsavaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto anāsavo kusalo dhammo uppajjati hetupaccayā. (2) (Saṃkhittaṃ.)
 
 (49.)
 
-1683. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1683\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
 
-1684. (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbo.)
+1684\. (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbo.)
 
 [Go to previous page (4.6.1 Kusalapada)](/tipitaka/39P3/4/4.6/4.6.1.md) / [Go to parent page (4.6.1 Kusalapada)](/tipitaka/39P3/4/4.6/4.6.1.md) / [Go to next page (4.6.2 Abyākatapada)](/tipitaka/39P3/4/4.6/4.6.2.md)
 

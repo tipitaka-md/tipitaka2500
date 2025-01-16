@@ -15,7 +15,7 @@
 
 (34.)
 
-1756. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā…pe…  purejātapaccayā…  āsevanapaccayā (dve kātabbā)…pe…  avigatapaccayā.
+1756\. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā…pe…  purejātapaccayā…  āsevanapaccayā (dve kātabbā)…pe…  avigatapaccayā.
 
 [Go to previous page (Hetu)](/tipitaka/37P1/12/12.5/12.5.1/12.5.1.1/Hetu.md) / [Go to parent page (12.5.1.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.5/12.5.1/12.5.1.1.md) / [Go to next page (12.5.1.2 Saṅkhyāvāra)](/tipitaka/37P1/12/12.5/12.5.1/12.5.1.2.md)
 

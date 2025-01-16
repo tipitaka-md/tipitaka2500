@@ -13,15 +13,15 @@
 
 (10.)
 
-328. Asaṃkiliṭṭhasaṃkilesikaṃ kusalaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko kusalo dhammo uppajjati hetupaccayā.
+328\. Asaṃkiliṭṭhasaṃkilesikaṃ kusalaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko kusalo dhammo uppajjati hetupaccayā.
 
-329. Asaṃkiliṭṭhaasaṃkilesikaṃ kusalaṃ dhammaṃ paṭicca asaṃkiliṭṭhaasaṃkilesiko kusalo dhammo uppajjati hetupaccayā. (Sabbattha dve.)
+329\. Asaṃkiliṭṭhaasaṃkilesikaṃ kusalaṃ dhammaṃ paṭicca asaṃkiliṭṭhaasaṃkilesiko kusalo dhammo uppajjati hetupaccayā. (Sabbattha dve.)
 
-330. Saṃkiliṭṭhasaṃkilesikaṃ akusalaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+330\. Saṃkiliṭṭhasaṃkilesikaṃ akusalaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
-331. Asaṃkiliṭṭhasaṃkilesikaṃ abyākataṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+331\. Asaṃkiliṭṭhasaṃkilesikaṃ abyākataṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-332. Hetuyā pañca ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca.
+332\. Hetuyā pañca ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca.
 
 [Go to previous page (2.4.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.4/2.4.1--7.md) / [Go to parent page (2.4.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.4/2.4.1--7.md) / [Go to next page (2.5 Vitakkattika, Kusalattika)](/tipitaka/39P5/2/2.5.md)
 

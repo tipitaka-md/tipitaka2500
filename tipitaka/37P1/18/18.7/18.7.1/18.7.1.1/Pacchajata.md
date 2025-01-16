@@ -15,7 +15,7 @@
 
 (11.)
 
-2609. Uppanno dhammo uppannassa dhammassa pacchājātapaccayena paccayo—  pacchājātā uppannā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+2609\. Uppanno dhammo uppannassa dhammassa pacchājātapaccayena paccayo—  pacchājātā uppannā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 [Go to previous page (Purejāta)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Purejata.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Kamma.md)
 

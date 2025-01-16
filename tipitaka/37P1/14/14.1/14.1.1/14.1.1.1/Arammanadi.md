@@ -15,7 +15,7 @@
 
 (2.)
 
-2160. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (saṃkhittaṃ)…  avigatapaccayā.
+2160\. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā (saṃkhittaṃ)…  avigatapaccayā.
 
 [Go to previous page (Hetu)](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.1/Hetu.md) / [Go to parent page (14.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.1.md) / [Go to next page (14.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.2.md)
 

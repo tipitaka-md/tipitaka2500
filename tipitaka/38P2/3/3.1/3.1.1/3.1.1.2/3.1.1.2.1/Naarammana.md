@@ -17,11 +17,11 @@
 
 (6.)
 
-982. Āsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati naārammaṇapaccayā—  āsave paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+982\. Āsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati naārammaṇapaccayā—  āsave paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-983. Noāsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati naārammaṇapaccayā—  noāsave khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, ekaṃ mahābhūtaṃ…pe… . (Yāva asaññasattā.) (1)
+983\. Noāsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati naārammaṇapaccayā—  noāsave khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, ekaṃ mahābhūtaṃ…pe… . (Yāva asaññasattā.) (1)
 
-984. Āsavañca noāsavañca dhammaṃ paṭicca noāsavo dhammo uppajjati naārammaṇapaccayā—  āsave ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
+984\. Āsavañca noāsavañca dhammaṃ paṭicca noāsavo dhammo uppajjati naārammaṇapaccayā—  āsave ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
 
 [Go to previous page (Nahetu)](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.1/Nahetu.md) / [Go to parent page (3.1.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.1.md) / [Go to next page (3.1.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/3/3.1/3.1.1/3.1.1.2/3.1.1.2.2.md)
 

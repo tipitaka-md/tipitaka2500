@@ -15,11 +15,11 @@
 
 (13.)
 
-1460. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati nakammapaccayā—  ācayagāmī khandhe paṭicca ācayagāmī cetanā. (1)
+1460\. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati nakammapaccayā—  ācayagāmī khandhe paṭicca ācayagāmī cetanā. (1)
 
-1461. Apacayagāmiṃ dhammaṃ paṭicca apacayagāmī dhammo uppajjati nakammapaccayā—  apacayagāmī khandhe paṭicca apacayagāmī cetanā. (1)
+1461\. Apacayagāmiṃ dhammaṃ paṭicca apacayagāmī dhammo uppajjati nakammapaccayā—  apacayagāmī khandhe paṭicca apacayagāmī cetanā. (1)
 
-1462. Nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati nakammapaccayā—  nevācayagāmināpacayagāmī khandhe paṭicca nevācayagāmināpacayagāmī cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  ekaṃ mahābhūtaṃ…pe… . (1)
+1462\. Nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati nakammapaccayā—  nevācayagāmināpacayagāmī khandhe paṭicca nevācayagāmināpacayagāmī cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  ekaṃ mahābhūtaṃ…pe… . (1)
 
 [Go to previous page (Naāsevana)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Naasevana.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1.md) / [Go to next page (Navipākādi)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Navipakadi.md)
 

@@ -13,7 +13,7 @@
 
 ### Tika
 
-641. Napurejātapaccayā nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, āsevane ekaṃ, kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, vippayutte ekaṃ, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
+641\. Napurejātapaccayā nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, āsevane ekaṃ, kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, vippayutte ekaṃ, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
 
 [Go to previous page (Napurejātaduka)](/tipitaka/36P1/2/2.3/2.3.4/Napurejataduka.md) / [Go to parent page (Napurejātaduka)](/tipitaka/36P1/2/2.3/2.3.4/Napurejataduka.md) / [Go to next page (Catukka)](/tipitaka/36P1/2/2.3/2.3.4/Napurejataduka/Catukka.md)
 

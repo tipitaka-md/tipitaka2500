@@ -17,7 +17,7 @@
 
 (12.)
 
-19. Hetu kusalo dhammo hetussa kusalassa dhammassa hetupaccayena paccayo. Hetu kusalo dhammo nahetussa kusalassa dhammassa hetupaccayena paccayo. Hetu kusalo dhammo hetussa kusalassa ca nahetussa kusalassa ca dhammassa hetupaccayena paccayo. (3)
+19\. Hetu kusalo dhammo hetussa kusalassa dhammassa hetupaccayena paccayo. Hetu kusalo dhammo nahetussa kusalassa dhammassa hetupaccayena paccayo. Hetu kusalo dhammo hetussa kusalassa ca nahetussa kusalassa ca dhammassa hetupaccayena paccayo. (3)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to next page (Ārammaṇādi)](/tipitaka/39P3/1/1.1/1.1.1/1.1.1.7/Paccayacatukka/Arammanadi.md)
 

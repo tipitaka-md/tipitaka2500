@@ -15,7 +15,7 @@
 
 ### Tika
 
-749. Navippayuttapaccayā nahetupaccayā naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, namagge ekaṃ…pe… .
+749\. Navippayuttapaccayā nahetupaccayā naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, namagge ekaṃ…pe… .
 
 [Go to previous page (Navippayuttaduka)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka.md) / [Go to parent page (Navippayuttaduka)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka.md) / [Go to next page (Navaka)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka/Navaka.md)
 

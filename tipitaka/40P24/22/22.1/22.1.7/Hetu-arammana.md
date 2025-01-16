@@ -13,11 +13,11 @@
 
 (88.)
 
-185. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa hetupaccayena paccayo…  ekaṃ.
+185\. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa hetupaccayena paccayo…  ekaṃ.
 
-186. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa ārammaṇapaccayena paccayo…  ekaṃ. (Saṃkhittaṃ.)
+186\. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa ārammaṇapaccayena paccayo…  ekaṃ. (Saṃkhittaṃ.)
 
-187. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate ekaṃ.
+187\. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate ekaṃ.
 
 [Go to previous page (22.1.7 Pañhāvāra)](/tipitaka/40P24/22/22.1/22.1.7.md) / [Go to parent page (22.1.7 Pañhāvāra)](/tipitaka/40P24/22/22.1/22.1.7.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/40P24/22/22.1/22.1.7/Paccaniyuddhara.md)
 

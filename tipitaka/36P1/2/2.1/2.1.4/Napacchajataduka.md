@@ -13,7 +13,7 @@
 
 (88.)
 
-373. Napacchājātapaccayā hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
+373\. Napacchājātapaccayā hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.4/Napacchajataduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.1/2.1.4/Napacchajataduka/Catukka.md)

@@ -13,7 +13,7 @@
 
 (239.)
 
-770. Kammapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
+770\. Kammapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Kammaduka/Tika.md)
 

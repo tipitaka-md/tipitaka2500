@@ -17,21 +17,21 @@
 
 (100.)
 
-337. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa anantarapaccayena paccayo…pe…  samanantarapaccayena paccayo.
+337\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa anantarapaccayena paccayo…pe…  samanantarapaccayena paccayo.
 
-338. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+338\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (101.)
 
-339. Ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare pañcavīsa, samanantare pañcavīsa, sahajāte tiṃsa, aññamaññe aṭṭhavīsa, nissaye tiṃsa, upanissaye pañcavīsa, purejāte pañca, pacchājāte pañca, āsevane ekavīsa, kamme ekādasa, vipāke ekavīsa, āhāre ekādasa, indriye ekādasa, jhāne ekavīsa, magge soḷasa, sampayutte ekādasa, vippayutte nava…pe…  avigate tiṃsa. (Saṃkhittaṃ.)
+339\. Ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare pañcavīsa, samanantare pañcavīsa, sahajāte tiṃsa, aññamaññe aṭṭhavīsa, nissaye tiṃsa, upanissaye pañcavīsa, purejāte pañca, pacchājāte pañca, āsevane ekavīsa, kamme ekādasa, vipāke ekavīsa, āhāre ekādasa, indriye ekādasa, jhāne ekavīsa, magge soḷasa, sampayutte ekādasa, vippayutte nava…pe…  avigate tiṃsa. (Saṃkhittaṃ.)
 
-340. Nahetuyā pañcatiṃsa, naārammaṇe pañcatiṃsa, naadhipatiyā pañcatiṃsa. (Saṃkhittaṃ.)
+340\. Nahetuyā pañcatiṃsa, naārammaṇe pañcatiṃsa, naadhipatiyā pañcatiṃsa. (Saṃkhittaṃ.)
 
-341. Ārammaṇapaccayā nahetuyā ekavīsa. (Saṃkhittaṃ.)
+341\. Ārammaṇapaccayā nahetuyā ekavīsa. (Saṃkhittaṃ.)
 
-342. Nahetupaccayā ārammaṇe ekavīsa. (Saṃkhittaṃ.)
+342\. Nahetupaccayā ārammaṇe ekavīsa. (Saṃkhittaṃ.)
 
-343. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+343\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Adhipati)](/tipitaka/39P4/1/1.6/1.6.2/1.6.2.7/Paccayacatukka/Adhipati.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.6/1.6.2/1.6.2.7/Paccayacatukka.md) / [Go to next page (1.7 Pītittika, Hetuduka)](/tipitaka/39P4/1/1.7.md)
 

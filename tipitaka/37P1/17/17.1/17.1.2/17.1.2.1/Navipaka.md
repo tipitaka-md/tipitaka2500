@@ -15,7 +15,7 @@
 
 (21.)
 
-2487. Maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati navipākapaccayā. (Paripuṇṇaṃ.)
+2487\. Maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati navipākapaccayā. (Paripuṇṇaṃ.)
 
 [Go to previous page (Nakamma)](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Nakamma.md) / [Go to parent page (17.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md) / [Go to next page (Namagga)](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Namagga.md)
 

@@ -15,7 +15,7 @@
 
 ### Catukka
 
-1241. Naindriyapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā pannarasa…pe…  naupanissaye terasa…pe…  noavigate nava…pe… .
+1241\. Naindriyapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā pannarasa…pe…  naupanissaye terasa…pe…  noavigate nava…pe… .
 
 [Go to previous page (Naindriyaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka.md) / [Go to parent page (Naindriyaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka.md) / [Go to next page (Aṭṭhaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Atthaka.md)
 

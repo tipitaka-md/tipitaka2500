@@ -17,7 +17,7 @@
 
 (90.)
 
-4262. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
+4262\. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
 
 [Go to previous page (13.3.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.2/13.3.7.2.1.md) / [Go to parent page (13.3.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.2/13.3.7.2.1.md) / [Go to next page (13.3.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.3.md)
 

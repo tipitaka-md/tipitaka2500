@@ -17,7 +17,7 @@
 
 (330.)
 
-4767. Niyato dhammo niyatassa dhammassa hetupaccayena paccayo…  cattāri. (Niyyānikadukasadisā ninnānākaraṇā.)
+4767\. Niyato dhammo niyatassa dhammassa hetupaccayena paccayo…  cattāri. (Niyyānikadukasadisā ninnānākaraṇā.)
 
 [Go to previous page (13.16.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1/Arammana.md)
 

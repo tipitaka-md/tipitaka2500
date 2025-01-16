@@ -17,11 +17,11 @@
 
 (106.)
 
-1587. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca dhammassa hetupaccayena paccayo—  kāmarāgasaññojano diṭṭhisaññojanassa avijjāsaññojanassa hetupaccayena paccayo. (Cakkaṃ.) (1)
+1587\. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca dhammassa hetupaccayena paccayo—  kāmarāgasaññojano diṭṭhisaññojanassa avijjāsaññojanassa hetupaccayena paccayo. (Cakkaṃ.) (1)
 
-1588. Saññojano ceva saññojanasampayutto ca dhammo saññojanasampayuttassa ceva no ca saññojanassa dhammassa hetupaccayena paccayo—  saññojanā ceva saññojanasampayuttā ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
+1588\. Saññojano ceva saññojanasampayutto ca dhammo saññojanasampayuttassa ceva no ca saññojanassa dhammassa hetupaccayena paccayo—  saññojanā ceva saññojanasampayuttā ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
 
-1589. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca saññojanasampayuttassa ceva no ca saññojanassa ca dhammassa hetupaccayena paccayo—  kāmarāgasaññojano diṭṭhisaññojanassa avijjāsaññojanassa sampayuttakānañca khandhānaṃ hetupaccayena paccayo. (Cakkaṃ.) (3)
+1589\. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca saññojanasampayuttassa ceva no ca saññojanassa ca dhammassa hetupaccayena paccayo—  kāmarāgasaññojano diṭṭhisaññojanassa avijjāsaññojanassa sampayuttakānañca khandhānaṃ hetupaccayena paccayo. (Cakkaṃ.) (3)
 
 [Go to previous page (4.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to parent page (4.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Arammana.md)
 

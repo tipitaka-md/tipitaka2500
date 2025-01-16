@@ -13,7 +13,7 @@
 
 (509.)
 
-1754. Naindriyapaccayā hetuyā satta, ārammaṇe nava…pe…  avigate terasa…pe… . (Naindriyapaccayā kamme satta pañhā.)
+1754\. Naindriyapaccayā hetuyā satta, ārammaṇe nava…pe…  avigate terasa…pe… . (Naindriyapaccayā kamme satta pañhā.)
 
 * [Bāvīsaka](/tipitaka/36P1/2/2.7/2.7.4/Naindriyaduka/Bavisaka.md)
 

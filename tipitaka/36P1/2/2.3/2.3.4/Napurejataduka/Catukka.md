@@ -13,7 +13,7 @@
 
 ### Catukka
 
-642. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+642\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.4/Napurejataduka/Tika.md) / [Go to parent page (Napurejātaduka)](/tipitaka/36P1/2/2.3/2.3.4/Napurejataduka.md) / [Go to next page (Napacchājātaduka)](/tipitaka/36P1/2/2.3/2.3.4/Napacchajataduka.md)
 

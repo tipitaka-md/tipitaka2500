@@ -17,7 +17,7 @@
 
 (348.)
 
-3181. Ajjhattiko dhammo ajjhattikassa dhammassa pacchājātapaccayena paccayo—  pacchājātā ajjhattikā khandhā purejātassa imassa ajjhattikassa kāyassa pacchājātapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Pacchājātā ajjhattikā khandhā purejātassa imassa bāhirassa kāyassa pacchājātapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Pacchājātā ajjhattikā khandhā purejātassa imassa ajjhattikassa ca bāhirassa ca kāyassa pacchājātapaccayena paccayo (evaṃ navapi pañhā kātabbā), āsevanapaccayena paccayo. (Nava pañhā kātabbā.)
+3181\. Ajjhattiko dhammo ajjhattikassa dhammassa pacchājātapaccayena paccayo—  pacchājātā ajjhattikā khandhā purejātassa imassa ajjhattikassa kāyassa pacchājātapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Pacchājātā ajjhattikā khandhā purejātassa imassa bāhirassa kāyassa pacchājātapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Pacchājātā ajjhattikā khandhā purejātassa imassa ajjhattikassa ca bāhirassa ca kāyassa pacchājātapaccayena paccayo (evaṃ navapi pañhā kātabbā), āsevanapaccayena paccayo. (Nava pañhā kātabbā.)
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Purejata.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md) / [Go to next page (Kamma-vipāka)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Kamma-vipaka.md)
 

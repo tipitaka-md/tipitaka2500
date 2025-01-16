@@ -15,7 +15,7 @@
 
 (23.)
 
-2214. Parittārammaṇo dhammo parittārammaṇassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṃ.)
+2214\. Parittārammaṇo dhammo parittārammaṇassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṃ.)
 
 [Go to previous page (Anantara)](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Anantara.md) / [Go to parent page (14.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1.md) / [Go to next page (Sahajātādi)](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Sahajatadi.md)
 

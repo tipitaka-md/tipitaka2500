@@ -15,7 +15,7 @@
 
 ### Aṭṭhaka
 
-1210. Naupanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññe satta, nanissaye pañca, napurejāte pañca, napacchājāte pañca, naāsevane satta, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte tīṇi, noatthiyā dve, nonatthiyā satta, novigate satta, noavigate dve.
+1210\. Naupanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññe satta, nanissaye pañca, napurejāte pañca, napacchājāte pañca, naāsevane satta, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte tīṇi, noatthiyā dve, nonatthiyā satta, novigate satta, noavigate dve.
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka/Catukka.md) / [Go to parent page (Naupanissayaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka.md) / [Go to next page (Navaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka/Navaka.md)
 

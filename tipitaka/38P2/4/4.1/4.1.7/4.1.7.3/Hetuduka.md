@@ -15,7 +15,7 @@
 
 (37.)
 
-1413. Hetupaccayā naārammaṇe cattāri…pe…  nasamanantare cattāri, naaññamaññe dve, naupanissaye cattāri…pe…  namagge cattāri, nasampayutte dve, navippayutte cattāri, nonatthiyā cattāri, novigate cattāri.
+1413\. Hetupaccayā naārammaṇe cattāri…pe…  nasamanantare cattāri, naaññamaññe dve, naupanissaye cattāri…pe…  namagge cattāri, nasampayutte dve, navippayutte cattāri, nonatthiyā cattāri, novigate cattāri.
 
 [Go to previous page (4.1.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.3.md) / [Go to parent page (4.1.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.3.md) / [Go to next page (4.1.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.4.md)
 

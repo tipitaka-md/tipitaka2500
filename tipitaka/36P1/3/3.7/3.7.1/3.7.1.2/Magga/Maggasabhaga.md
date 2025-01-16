@@ -17,7 +17,7 @@
 
 (79.)
 
-1994. Maggapaccayā hetuyā dve, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke dve, indriye tīṇi, jhāne tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (11)
+1994\. Maggapaccayā hetuyā dve, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke dve, indriye tīṇi, jhāne tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (11)
 
 [Go to previous page (Magga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Magga.md) / [Go to parent page (Magga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Magga.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Magga/Ghatana.md)
 

@@ -13,7 +13,7 @@
 
 (98.)
 
-395. Nonatthipaccayā…  novigatapaccayā hetuyā pañca, adhipatiyā pañca, sahajāte pañca, aññamaññe ekaṃ, nissaye pañca, kamme pañca, vipāke ekaṃ, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, vippayutte pañca, atthiyā pañca, avigate pañca.
+395\. Nonatthipaccayā…  novigatapaccayā hetuyā pañca, adhipatiyā pañca, sahajāte pañca, aññamaññe ekaṃ, nissaye pañca, kamme pañca, vipāke ekaṃ, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, vippayutte pañca, atthiyā pañca, avigate pañca.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka/Tika.md)
 * [Aṭṭhaka](/tipitaka/36P1/2/2.1/2.1.4/Nonatthi-novigataduka/Atthaka.md)

@@ -17,9 +17,9 @@
 
 (22.)
 
-4109. Dassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+4109\. Dassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
 
-4110. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ)…  āsevanapaccayena paccayo…  dve.
+4110\. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ)…  āsevanapaccayena paccayo…  dve.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Purejata.md) / [Go to parent page (13.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Kamma.md)
 

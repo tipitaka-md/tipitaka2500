@@ -13,7 +13,7 @@
 
 (90.)
 
-379. Nakammapaccayā hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi.
+379\. Nakammapaccayā hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.4/Nakammaduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.1/2.1.4/Nakammaduka/Catukka.md)

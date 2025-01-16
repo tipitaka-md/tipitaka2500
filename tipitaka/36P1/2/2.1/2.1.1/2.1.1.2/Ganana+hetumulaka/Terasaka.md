@@ -17,7 +17,7 @@
 
 (26.)
 
-179. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, magge ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
+179\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, magge ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
 
 [Go to previous page (Bāvīsaka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana_hetumulaka_avisaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka.md) / [Go to next page (Bāvīsaka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Bavisaka.md)
 

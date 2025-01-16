@@ -17,7 +17,7 @@
 
 (55.)
 
-2441. Cittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati naadhipatipaccayā…  pañca…  naanantarapaccayā…pe…  naupanissayapaccayā…  tīṇi.
+2441\. Cittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati naadhipatipaccayā…  pañca…  naanantarapaccayā…pe…  naupanissayapaccayā…  tīṇi.
 
 [Go to previous page (Naārammaṇa)](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Naarammana.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md) / [Go to next page (Napurejātādi)](/tipitaka/38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1/Napurejatadi.md)
 

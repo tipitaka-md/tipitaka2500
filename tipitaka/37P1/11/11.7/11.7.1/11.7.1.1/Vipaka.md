@@ -15,7 +15,7 @@
 
 (62.)
 
-1614. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa vipākapaccayena paccayo—  vipāko nevācayagāmināpacayagāmī eko khandho tiṇṇannaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
+1614\. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa vipākapaccayena paccayo—  vipāko nevācayagāmināpacayagāmī eko khandho tiṇṇannaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
 
 [Go to previous page (Kamma)](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Kamma.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page (Āhārādi)](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.1/Aharadi.md)
 

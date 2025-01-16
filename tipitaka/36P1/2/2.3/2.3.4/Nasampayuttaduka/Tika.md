@@ -13,7 +13,7 @@
 
 ### Tika
 
-662. Nasampayuttapaccayā nahetupaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+662\. Nasampayuttapaccayā nahetupaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Nasampayuttaduka)](/tipitaka/36P1/2/2.3/2.3.4/Nasampayuttaduka.md) / [Go to parent page (Nasampayuttaduka)](/tipitaka/36P1/2/2.3/2.3.4/Nasampayuttaduka.md) / [Go to next page (Navippayuttaduka)](/tipitaka/36P1/2/2.3/2.3.4/Navippayuttaduka.md)
 

@@ -15,11 +15,11 @@
 
 (146.)
 
-881. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ…pe…  avigate ekaṃ.
+881\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ…pe…  avigate ekaṃ.
 
 ---
 
-882. Paccanīyānulomaṃ.
+882\. Paccanīyānulomaṃ.
 
 
 

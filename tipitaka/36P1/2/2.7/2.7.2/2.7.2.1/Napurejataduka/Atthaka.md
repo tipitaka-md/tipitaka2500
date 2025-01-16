@@ -15,7 +15,7 @@
 
 ### Aṭṭhaka
 
-1216. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye pañca, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava…pe… .
+1216\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye pañca, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava…pe… .
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka/Catukka.md) / [Go to parent page (Napurejātaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka.md) / [Go to next page (Dasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka/Dasaka.md)
 

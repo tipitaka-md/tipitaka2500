@@ -17,9 +17,9 @@
 
 (113.)
 
-310. Sahetuko dhammo sahetukassa dhammassa āhārapaccayena paccayo…  tīṇi.
+310\. Sahetuko dhammo sahetukassa dhammassa āhārapaccayena paccayo…  tīṇi.
 
-311. Ahetuko dhammo ahetukassa dhammassa āhārapaccayena paccayo—  ahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe…  paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
+311\. Ahetuko dhammo ahetukassa dhammassa āhārapaccayena paccayo—  ahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ…pe…  paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
 
 [Go to previous page (Vipāka)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Vipaka.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md) / [Go to next page (Indriyādi)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Indriyadi.md)
 

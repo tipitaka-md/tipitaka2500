@@ -15,9 +15,9 @@
 
 (25.)
 
-2509. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati nonatthipaccayā…  novigatapaccayā.
+2509\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati nonatthipaccayā…  novigatapaccayā.
 
-2510. (Yathā kusalattike paccanīyavāro vitthārito, evaṃ vitthāretabbo.)
+2510\. (Yathā kusalattike paccanīyavāro vitthārito, evaṃ vitthāretabbo.)
 
 [Go to previous page (Navippayutta)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Navippayutta.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md) / [Go to next page (5.1.2.2 Saṅkhyāvāra)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.2.md)
 

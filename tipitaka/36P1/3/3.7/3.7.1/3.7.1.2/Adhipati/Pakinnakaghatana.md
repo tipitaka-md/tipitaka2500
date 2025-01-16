@@ -15,7 +15,7 @@
 
 ### Pakiṇṇakaghaṭanā
 
-1957. Adhipati ārammaṇa upanissayanti cattāri.
+1957\. Adhipati ārammaṇa upanissayanti cattāri.
 
 [Go to previous page (Adhipatisabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati/Adhipatisabhaga.md) / [Go to parent page (Adhipati)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati.md) / [Go to next page (Sahajātaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati/Sahajataghatana.md)
 

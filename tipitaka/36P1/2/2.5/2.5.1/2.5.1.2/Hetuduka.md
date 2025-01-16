@@ -15,7 +15,7 @@
 
 (212.)
 
-710. Hetupaccayā ārammaṇe tīṇi. (Hetumūlakaṃ vitthāretabbaṃ.)
+710\. Hetupaccayā ārammaṇe tīṇi. (Hetumūlakaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Suddha)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2/Suddha.md) / [Go to parent page (2.5.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2.md) / [Go to next page (Āsevanaduka)](/tipitaka/36P1/2/2.5/2.5.1/2.5.1.2/Asevanaduka.md)
 

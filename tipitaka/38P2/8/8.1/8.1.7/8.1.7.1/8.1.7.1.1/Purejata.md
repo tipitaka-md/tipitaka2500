@@ -17,7 +17,7 @@
 
 (36.)
 
-1962. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati…pe…  tīṇi. (Purejātaṃ ārammaṇasadisaṃ kusalākusalassa vibhajitabbaṃ.)
+1962\. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati…pe…  tīṇi. (Purejātaṃ ārammaṇasadisaṃ kusalākusalassa vibhajitabbaṃ.)
 
 [Go to previous page (Upanissaya)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Upanissaya.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Pacchājātāsevana)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Pacchajatasevana.md)
 

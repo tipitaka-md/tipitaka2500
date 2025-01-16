@@ -15,7 +15,7 @@
 
 (429.)
 
-1340. Samanantarapaccayā nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, nasahajāte satta, naaññamaññe satta, nanissaye satta, napurejāte satta, napacchājāte satta, naāsevane pañca, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte satta, noatthiyā satta, noavigate satta. (19)
+1340\. Samanantarapaccayā nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, nasahajāte satta, naaññamaññe satta, nanissaye satta, napurejāte satta, napacchājāte satta, naāsevane pañca, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte satta, noatthiyā satta, noavigate satta. (19)
 
 [Go to previous page (Samanantara)](/tipitaka/36P1/2/2.7/2.7.3/Samanantara.md) / [Go to parent page (Samanantara)](/tipitaka/36P1/2/2.7/2.7.3/Samanantara.md) / [Go to next page (Samanantaraghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Samanantara/Samanantaraghatana.md)
 

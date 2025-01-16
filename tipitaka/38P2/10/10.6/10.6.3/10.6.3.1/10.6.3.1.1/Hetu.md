@@ -17,21 +17,21 @@
 
 (201.)
 
-2806. Cittasamuṭṭhānaṃ dhammaṃ paccayā cittasamuṭṭhāno dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccavārasadisaṃ.)
+2806\. Cittasamuṭṭhānaṃ dhammaṃ paccayā cittasamuṭṭhāno dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccavārasadisaṃ.)
 
-2807. Nocittasamuṭṭhānaṃ dhammaṃ paccayā nocittasamuṭṭhāno dhammo uppajjati hetupaccayā—  vatthuṃ paccayā cittaṃ; paṭisandhikkhaṇe…pe… . (Paṭiccavārasadisā.) (1)
+2807\. Nocittasamuṭṭhānaṃ dhammaṃ paccayā nocittasamuṭṭhāno dhammo uppajjati hetupaccayā—  vatthuṃ paccayā cittaṃ; paṭisandhikkhaṇe…pe… . (Paṭiccavārasadisā.) (1)
 
-2808. Nocittasamuṭṭhānaṃ dhammaṃ paccayā cittasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ, vatthuṃ paccayā cittasamuṭṭhānā khandhā. (Paṭisandhikkhaṇe dvepi kātabbā.) (1)
+2808\. Nocittasamuṭṭhānaṃ dhammaṃ paccayā cittasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ, vatthuṃ paccayā cittasamuṭṭhānā khandhā. (Paṭisandhikkhaṇe dvepi kātabbā.) (1)
 
-2809. Nocittasamuṭṭhānaṃ dhammaṃ paccayā cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā cittaṃ sampayuttakā ca khandhā; paṭisandhikkhaṇe dve. (Paṭiccavārasadisaṃ.) (3)
+2809\. Nocittasamuṭṭhānaṃ dhammaṃ paccayā cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā cittaṃ sampayuttakā ca khandhā; paṭisandhikkhaṇe dve. (Paṭiccavārasadisaṃ.) (3)
 
 (202.)
 
-2810. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā cittasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasamuṭṭhānaṃ ekaṃ khandhañca cittañca paccayā dve khandhā, dve khandhe…pe…  cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā, dve khandhe…pe… . (Paṭisandhikkhaṇe dvepi paṭiccavārasadisā.) (1)
+2810\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā cittasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasamuṭṭhānaṃ ekaṃ khandhañca cittañca paccayā dve khandhā, dve khandhe…pe…  cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā, dve khandhe…pe… . (Paṭisandhikkhaṇe dvepi paṭiccavārasadisā.) (1)
 
-2811. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā nocittasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe tīṇipi kātabbā paṭiccavārasadisā.) (2)
+2811\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā nocittasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe tīṇipi kātabbā paṭiccavārasadisā.) (2)
 
-2812. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti hetupaccayā—  cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe… . (Paṭisandhikkhaṇe dvepi kātabbā paṭiccavārasadisā.) (3)
+2812\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paccayā cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā uppajjanti hetupaccayā—  cittasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe… . (Paṭisandhikkhaṇe dvepi kātabbā paṭiccavārasadisā.) (3)
 
 [Go to previous page (10.6.3.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.1/10.6.3.1.1.md) / [Go to parent page (10.6.3.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.1/10.6.3.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/10/10.6/10.6.3/10.6.3.1/10.6.3.1.1/Arammana.md)
 

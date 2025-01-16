@@ -13,7 +13,7 @@
 
 ### Hetusabhāga
 
-2909. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke cattāri, indriye cattāri, magge cattāri, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta.
+2909\. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke cattāri, indriye cattāri, magge cattāri, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta.
 
 [Go to previous page (Suddha)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2/Suddha.md) / [Go to parent page (6.7.1.2 Saṅkhyāvāra)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2.md) / [Go to next page (Hetusāmaññaghaṭanā)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.2/Hetusamannaghatana.md)
 

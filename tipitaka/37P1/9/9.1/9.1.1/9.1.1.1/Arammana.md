@@ -15,11 +15,11 @@
 
 (5.)
 
-799. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati ārammaṇapaccayā—  dassanena pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+799\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati ārammaṇapaccayā—  dassanena pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
 
-800. Bhāvanāya pahātabbaṃ dhammaṃ paṭicca bhāvanāya pahātabbo dhammo uppajjati ārammaṇapaccayā—  bhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+800\. Bhāvanāya pahātabbaṃ dhammaṃ paṭicca bhāvanāya pahātabbo dhammo uppajjati ārammaṇapaccayā—  bhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
 
-801. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati ārammaṇapaccayā—  nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Vatthuṃ paṭicca khandhā. (1)
+801\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati ārammaṇapaccayā—  nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Vatthuṃ paṭicca khandhā. (1)
 
 [Go to previous page (Hetu)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Hetu.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page (Adhipati)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Adhipati.md)
 

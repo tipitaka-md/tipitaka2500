@@ -17,7 +17,7 @@
 
 (143.)
 
-4381. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  purejāte cha…pe…  kamme nava, vipāke nava…pe…  avigate nava.
+4381\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  purejāte cha…pe…  kamme nava, vipāke nava…pe…  avigate nava.
 
 [Go to previous page (13.7.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.1/13.7.1.1.2.md) / [Go to parent page (13.7.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.1/13.7.1.1.2.md) / [Go to next page (13.7.1.2 Paccayapaccanīya)](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.2.md)
 

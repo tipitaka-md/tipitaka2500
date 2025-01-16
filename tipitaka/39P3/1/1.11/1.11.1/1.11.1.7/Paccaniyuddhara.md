@@ -15,17 +15,17 @@
 
 (336.)
 
-702. Hetu sekkho dhammo hetussa sekkhassa dhammassa sahajātapaccayena paccayo, upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+702\. Hetu sekkho dhammo hetussa sekkhassa dhammassa sahajātapaccayena paccayo, upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (337.)
 
-703. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+703\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
 
-704. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+704\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-705. Nahetupaccayā adhipatiyā tīṇi. (Saṃkhittaṃ.)
+705\. Nahetupaccayā adhipatiyā tīṇi. (Saṃkhittaṃ.)
 
-706. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+706\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Hetvādi)](/tipitaka/39P3/1/1.11/1.11.1/1.11.1.7/Paccayacatukka/Hetvadi.md) / [Go to parent page (1.11.1.7 Pañhāvāra)](/tipitaka/39P3/1/1.11/1.11.1/1.11.1.7.md) / [Go to next page (1.11.2 Asekkhapada)](/tipitaka/39P3/1/1.11/1.11.2.md)
 

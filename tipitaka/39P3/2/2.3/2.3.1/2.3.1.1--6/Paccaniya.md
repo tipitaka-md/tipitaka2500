@@ -15,13 +15,13 @@
 
 (27.)
 
-1308. Naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
+1308\. Naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
 
-1309. Hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
+1309\. Hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
 
-1310. Naadhipatipaccayā hetuyā ekaṃ. (Saṃkhittaṃ.)
+1310\. Naadhipatipaccayā hetuyā ekaṃ. (Saṃkhittaṃ.)
 
-1311. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1311\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (2.3.1.1--6 Paṭiccādivāra)](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.1--6.md) / [Go to next page (2.3.1.7 Pañhāvāra)](/tipitaka/39P3/2/2.3/2.3.1/2.3.1.7.md)
 

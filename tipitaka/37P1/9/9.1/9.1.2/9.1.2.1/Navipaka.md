@@ -15,7 +15,7 @@
 
 (24.)
 
-841. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati navipākapaccayā. (Naadhipatipaccayasadisaṃ, paṭisandhi natthi.)
+841\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati navipākapaccayā. (Naadhipatipaccayasadisaṃ, paṭisandhi natthi.)
 
 [Go to previous page (Nakamma)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Nakamma.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md) / [Go to next page (Naāhāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Naahara.md)
 

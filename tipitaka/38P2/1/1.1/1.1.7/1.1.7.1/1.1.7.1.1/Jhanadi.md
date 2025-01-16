@@ -17,9 +17,9 @@
 
 (37.)
 
-97. Nahetu dhammo nahetussa dhammassa jhānapaccayena paccayo…  tīṇi.
+97\. Nahetu dhammo nahetussa dhammassa jhānapaccayena paccayo…  tīṇi.
 
-98. Hetu dhammo hetussa dhammassa maggapaccayena paccayo…  sampayuttapaccayena paccayo. (Imesu dvīsu nava.)
+98\. Hetu dhammo hetussa dhammassa maggapaccayena paccayo…  sampayuttapaccayena paccayo. (Imesu dvīsu nava.)
 
 [Go to previous page (Indriya)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Indriya.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Vippayutta.md)
 

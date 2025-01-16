@@ -13,7 +13,7 @@
 
 ### Tika
 
-319. Āhārapaccayā hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+319\. Āhārapaccayā hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 [Go to previous page (Āhāraduka)](/tipitaka/36P1/2/2.1/2.1.3/Aharaduka.md) / [Go to parent page (Āhāraduka)](/tipitaka/36P1/2/2.1/2.1.3/Aharaduka.md) / [Go to next page (Catukka)](/tipitaka/36P1/2/2.1/2.1.3/Aharaduka/Catukka.md)
 

@@ -17,7 +17,7 @@
 
 (105.)
 
-285. Sahetuko dhammo sahetukassa dhammassa sahajātapaccayena paccayo (paṭiccavāre sahajātasadisaṃ, iha ghaṭanā natthi)…  aññamaññapaccayena paccayo (paṭiccavārasadisaṃ)…  nissayapaccayena paccayo. (Paṭiccavāre nissayapaccayasadisaṃ, iha ghaṭanā natthi.)
+285\. Sahetuko dhammo sahetukassa dhammassa sahajātapaccayena paccayo (paṭiccavāre sahajātasadisaṃ, iha ghaṭanā natthi)…  aññamaññapaccayena paccayo (paṭiccavārasadisaṃ)…  nissayapaccayena paccayo. (Paṭiccavāre nissayapaccayasadisaṃ, iha ghaṭanā natthi.)
 
 [Go to previous page (Anantara)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Anantara.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Upanissaya.md)
 

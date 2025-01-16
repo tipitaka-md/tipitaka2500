@@ -15,7 +15,7 @@
 
 ### Bāvīsaka (sāsevana)
 
-501. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā…pe…  vigatapaccayā avigate satta.
+501\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā…pe…  vigatapaccayā avigate satta.
 
 [Go to previous page (Dvādasaka (sāsevana))](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/vadasaka_sasevana.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka.md) / [Go to next page (Terasaka (savipāka))](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/erasaka_savipaka.md)
 

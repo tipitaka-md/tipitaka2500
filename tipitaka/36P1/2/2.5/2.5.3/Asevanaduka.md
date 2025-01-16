@@ -13,7 +13,7 @@
 
 (238.)
 
-768. Āsevanapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ, navippayutte tīṇi.
+768\. Āsevanapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Asevanaduka/Tika.md)
 

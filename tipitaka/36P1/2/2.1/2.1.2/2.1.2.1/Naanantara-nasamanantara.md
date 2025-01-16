@@ -15,7 +15,7 @@
 
 (37.)
 
-217. Kusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā—  kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Naanantarapaccayampi nasamanantarapaccayampi naārammaṇapaccayasadisaṃ.)
+217\. Kusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā—  kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Naanantarapaccayampi nasamanantarapaccayampi naārammaṇapaccayasadisaṃ.)
 
 [Go to previous page (Naadhipati)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Naadhipati.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1.md) / [Go to next page (Naaññamañña)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Naannamanna.md)
 

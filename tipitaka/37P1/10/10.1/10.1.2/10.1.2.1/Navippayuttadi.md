@@ -15,27 +15,27 @@
 
 (29.)
 
-1128. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe dassanena pahātabbahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
+1128\. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe dassanena pahātabbahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
 
-1129. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagate khandhe paṭicca vicikicchāsahagato moho. (2)
+1129\. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagate khandhe paṭicca vicikicchāsahagato moho. (2)
 
-1130. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā uppajjanti navippayuttapaccayā—  arūpe vicikicchāsahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
+1130\. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā uppajjanti navippayuttapaccayā—  arūpe vicikicchāsahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
 
-1131. Bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe bhāvanāya…  tīṇi.
+1131\. Bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe bhāvanāya…  tīṇi.
 
 (30.)
 
-1132. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe nevadassanena nabhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+1132\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe nevadassanena nabhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
 
-1133. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
+1133\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
 
-1134. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (3)
+1134\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (3)
 
 (31.)
 
-1135. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhā. (1)
+1135\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhā. (1)
 
-1136. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhā…  nonatthipaccayā…  novigatapaccayā.
+1136\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paṭicca bhāvanāya pahātabbahetuko dhammo uppajjati navippayuttapaccayā—  arūpe uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhā…  nonatthipaccayā…  novigatapaccayā.
 
 [Go to previous page (Naāhārādi)](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1/Naaharadi.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.1.md) / [Go to next page (10.1.2.2 Saṅkhyāvāra)](/tipitaka/37P1/10/10.1/10.1.2/10.1.2.2.md)
 

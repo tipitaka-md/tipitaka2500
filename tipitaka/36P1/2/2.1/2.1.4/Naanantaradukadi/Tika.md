@@ -13,7 +13,7 @@
 
 ### Tika
 
-369. Naupanissayapaccayā nahetupaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+369\. Naupanissayapaccayā nahetupaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Naanantaradukādi)](/tipitaka/36P1/2/2.1/2.1.4/Naanantaradukadi.md) / [Go to parent page (Naanantaradukādi)](/tipitaka/36P1/2/2.1/2.1.4/Naanantaradukadi.md) / [Go to next page (Napurejātaduka)](/tipitaka/36P1/2/2.1/2.1.4/Napurejataduka.md)
 

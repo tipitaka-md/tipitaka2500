@@ -15,7 +15,7 @@
 
 (45.)
 
-240. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca upādārūpaṃ; asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ. (1)
+240\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca upādārūpaṃ; asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ. (1)
 
 [Go to previous page (Naāhāra)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Naahara.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1.md) / [Go to next page (Najhāna)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Najhana.md)
 

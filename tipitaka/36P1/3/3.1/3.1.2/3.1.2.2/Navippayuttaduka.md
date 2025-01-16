@@ -15,7 +15,7 @@
 
 (24.)
 
-1851. Navippayuttapaccayā nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, namagge ekaṃ.
+1851\. Navippayuttapaccayā nahetuyā ekaṃ, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, namagge ekaṃ.
 
 * [Tika](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Tika.md)
 * [Navaka](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Navippayuttaduka/Navaka.md)

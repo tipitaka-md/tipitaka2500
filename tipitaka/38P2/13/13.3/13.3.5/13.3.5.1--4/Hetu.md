@@ -15,13 +15,13 @@
 
 (64.)
 
-4207. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
+4207\. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
 
-4208. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nadassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  nadassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+4208\. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nadassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  nadassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
 
-4209. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ mohaṃ saṃsaṭṭhā sampayuttakā khandhā. (2)
+4209\. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ mohaṃ saṃsaṭṭhā sampayuttakā khandhā. (2)
 
-4210. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+4210\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
 
 [Go to previous page (13.3.5.1--4 Paccayacatukka)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/13/13.3/13.3.5/13.3.5.1--4/Arammana.md)
 

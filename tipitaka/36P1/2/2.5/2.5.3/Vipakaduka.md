@@ -13,7 +13,7 @@
 
 (240.)
 
-772. Vipākapaccayā nahetuyā ekaṃ, naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ.
+772\. Vipākapaccayā nahetuyā ekaṃ, naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Vipakaduka/Tika.md)
 

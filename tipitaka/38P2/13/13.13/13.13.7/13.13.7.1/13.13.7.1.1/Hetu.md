@@ -17,9 +17,9 @@
 
 (279.)
 
-4679. Arūpāvacaro dhammo arūpāvacarassa dhammassa hetupaccayena paccayo—  arūpāvacarā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Arūpāvacarā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Arūpāvacarā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+4679\. Arūpāvacaro dhammo arūpāvacarassa dhammassa hetupaccayena paccayo—  arūpāvacarā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Arūpāvacarā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Arūpāvacarā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 
-4680. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa hetupaccayena paccayo—  naarūpāvacarā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+4680\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa hetupaccayena paccayo—  naarūpāvacarā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
 [Go to previous page (13.13.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Arammana.md)
 

@@ -15,7 +15,7 @@
 
 (48.)
 
-1911. Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayasadisaṃ.)
+1911\. Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayasadisaṃ.)
 
 [Go to previous page (Anantara)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Anantara.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md) / [Go to next page (Sahajāta)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Sahajata.md)
 

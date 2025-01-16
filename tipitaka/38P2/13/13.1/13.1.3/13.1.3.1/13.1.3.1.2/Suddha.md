@@ -17,7 +17,7 @@
 
 (8.)
 
-4073. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava…pe…  avigate nava.
+4073\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava…pe…  avigate nava.
 
 [Go to previous page (13.1.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.1/13.1.3/13.1.3.1/13.1.3.1.2.md) / [Go to parent page (13.1.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.1/13.1.3/13.1.3.1/13.1.3.1.2.md) / [Go to next page (13.1.3.2 Paccayapaccanīya)](/tipitaka/38P2/13/13.1/13.1.3/13.1.3.2.md)
 

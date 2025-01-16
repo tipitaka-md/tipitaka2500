@@ -17,7 +17,7 @@
 
 (33.)
 
-1956. Nīvaraṇo dhammo nīvaraṇassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
+1956\. Nīvaraṇo dhammo nīvaraṇassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Anantara.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Upanissaya.md)
 

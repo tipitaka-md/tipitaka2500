@@ -15,7 +15,7 @@
 
 (61.)
 
-271. Nasampayuttapaccayā nahetuyā ekaṃ, naārammaṇe pañca (naārammaṇapaccayasadisaṃ) novigate pañca.
+271\. Nasampayuttapaccayā nahetuyā ekaṃ, naārammaṇe pañca (naārammaṇapaccayasadisaṃ) novigate pañca.
 
 [Go to previous page (Naāhāradukādi)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Naaharadukadi.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2.md) / [Go to next page (Navippayuttaduka)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navippayuttaduka.md)
 

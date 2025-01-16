@@ -13,7 +13,7 @@
 
 ### Navaka
 
-1701. Nahetupaccayā naārammaṇapaccayā…pe…  naaññamaññapaccayā nanissayapaccayā upanissaye nava, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā pañca, avigate pañca…pe… .
+1701\. Nahetupaccayā naārammaṇapaccayā…pe…  naaññamaññapaccayā nanissayapaccayā upanissaye nava, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā pañca, avigate pañca…pe… .
 
 [Go to previous page (Aṭṭhaka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Atthaka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka.md) / [Go to next page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Ekadasaka.md)
 

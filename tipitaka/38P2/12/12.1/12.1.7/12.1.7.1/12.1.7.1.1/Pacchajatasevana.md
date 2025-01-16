@@ -17,11 +17,11 @@
 
 (26.)
 
-3880. Kileso dhammo nokilesassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+3880\. Kileso dhammo nokilesassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
 
-3881. Nokileso dhammo nokilesassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+3881\. Nokileso dhammo nokilesassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
 
-3882. Kileso ca nokileso ca dhammā nokilesassa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ) āsevanapaccayena paccayo…  nava.
+3882\. Kileso ca nokileso ca dhammā nokilesassa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ) āsevanapaccayena paccayo…  nava.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1/Purejata.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1/Kamma.md)
 

@@ -15,7 +15,7 @@
 
 (158.)
 
-567. Parittaṃ hetuṃ dhammaṃ paṭicca paritto hetu dhammo uppajjati hetupaccayā. (1)
+567\. Parittaṃ hetuṃ dhammaṃ paṭicca paritto hetu dhammo uppajjati hetupaccayā. (1)
 
 ### Tika, Hetuduka
 
@@ -27,7 +27,7 @@
 
 ### Paccayacatukka
 
-568. Mahaggataṃ hetuṃ dhammaṃ paṭicca mahaggato hetu dhammo uppajjati hetupaccayā. (1)
+568\. Mahaggataṃ hetuṃ dhammaṃ paṭicca mahaggato hetu dhammo uppajjati hetupaccayā. (1)
 
 ### Tika, Hetuduka
 
@@ -39,7 +39,7 @@
 
 ### Paccayacatukka
 
-569. Appamāṇaṃ hetuṃ dhammaṃ paṭicca appamāṇo hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+569\. Appamāṇaṃ hetuṃ dhammaṃ paṭicca appamāṇo hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 ### Tika, Hetuduka
 
@@ -51,7 +51,7 @@
 
 ### Paccayacatukka
 
-570. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+570\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 ### Tika, Hetuduka
 
@@ -63,7 +63,7 @@
 
 ### Paccayacatukka
 
-571. Naadhipatiyā tīṇi…pe…  navippayutte tīṇi. (Saṃkhittaṃ.)
+571\. Naadhipatiyā tīṇi…pe…  navippayutte tīṇi. (Saṃkhittaṃ.)
 
 ### Tika, Hetuduka
 
@@ -75,7 +75,7 @@
 
 ### Paccayacatukka
 
-572. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+572\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 
 * [Hetu-ārammaṇādi](/tipitaka/39P4/1/1.12/1.12.1/1.12.1.1--7/Paccayacatukka/Hetu-arammanadi.md)
 

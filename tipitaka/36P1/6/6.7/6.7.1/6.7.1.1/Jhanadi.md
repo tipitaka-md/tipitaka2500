@@ -15,7 +15,7 @@
 
 (24.)
 
-2888. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
+2888\. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
 
 [Go to previous page (Indriya)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Indriya.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Vippayutta.md)
 

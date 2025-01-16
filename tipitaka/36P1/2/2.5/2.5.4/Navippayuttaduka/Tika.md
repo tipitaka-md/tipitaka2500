@@ -13,7 +13,7 @@
 
 ### Tika
 
-815. Navippayuttapaccayā nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, āsevane ekaṃ, kamme dve, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve…pe… .
+815\. Navippayuttapaccayā nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, āsevane ekaṃ, kamme dve, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve…pe… .
 
 [Go to previous page (Navippayuttaduka)](/tipitaka/36P1/2/2.5/2.5.4/Navippayuttaduka.md) / [Go to parent page (Navippayuttaduka)](/tipitaka/36P1/2/2.5/2.5.4/Navippayuttaduka.md) / [Go to next page (Navaka)](/tipitaka/36P1/2/2.5/2.5.4/Navippayuttaduka/Navaka.md)
 

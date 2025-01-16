@@ -15,9 +15,9 @@
 
 (41.)
 
-229. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati napacchājātapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…pe… .
+229\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati napacchājātapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…pe… .
 
-230. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati naāsevanapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…pe… . (Napacchājātapaccayampi naāsevanapaccayampi naadhipatipaccayasadisaṃ.)
+230\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati naāsevanapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…pe… . (Napacchājātapaccayampi naāsevanapaccayampi naadhipatipaccayasadisaṃ.)
 
 [Go to previous page (Napurejāta)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Napurejata.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1.md) / [Go to next page (Nakamma)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.1/Nakamma.md)
 

@@ -17,7 +17,7 @@
 
 (229.)
 
-4585. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cattāri, purejāte dve, āsevane dve, kamme nava, vipāke nava, jhāne nava, magge nava, sampayutte cattāri, vippayutte nava, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava.
+4585\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cattāri, purejāte dve, āsevane dve, kamme nava, vipāke nava, jhāne nava, magge nava, sampayutte cattāri, vippayutte nava, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava.
 
 [Go to previous page (13.12.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.1/13.12.1.1.2.md) / [Go to parent page (13.12.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.1/13.12.1.1.2.md) / [Go to next page (13.12.1.2 Paccayapaccanīya)](/tipitaka/38P2/13/13.12/13.12.1/13.12.1.2.md)
 

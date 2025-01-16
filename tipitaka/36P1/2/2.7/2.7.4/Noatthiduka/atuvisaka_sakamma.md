@@ -13,11 +13,11 @@
 
 ### Catuvīsaka (sakamma)
 
-1784. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā upanissaye nava.
+1784\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā upanissaye nava.
 
 ---
 
-1785. Noatthimūlakaṃ.
+1785\. Noatthimūlakaṃ.
 
 
 

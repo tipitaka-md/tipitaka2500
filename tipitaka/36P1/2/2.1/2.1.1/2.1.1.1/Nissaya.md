@@ -15,7 +15,7 @@
 
 (7.)
 
-141. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati nissayapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca… . (Nissayapaccayaṃ sahajātapaccayasadisaṃ.)
+141\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati nissayapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca… . (Nissayapaccayaṃ sahajātapaccayasadisaṃ.)
 
 [Go to previous page (Aññamañña)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Annamanna.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Upanissaya.md)
 

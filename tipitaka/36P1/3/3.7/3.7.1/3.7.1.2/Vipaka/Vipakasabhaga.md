@@ -17,7 +17,7 @@
 
 (75.)
 
-1974. Vipākapaccayā hetuyā dve, adhipatiyā dve, sahajāte tīṇi…pe…  jhāne dve, magge dve, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
+1974\. Vipākapaccayā hetuyā dve, adhipatiyā dve, sahajāte tīṇi…pe…  jhāne dve, magge dve, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
 
 [Go to previous page (Vipāka)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka.md) / [Go to parent page (Vipāka)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka/Ghatana.md)
 

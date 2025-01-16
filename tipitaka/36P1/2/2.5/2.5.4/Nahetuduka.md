@@ -13,7 +13,7 @@
 
 (248.)
 
-793. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, āsevane dve, kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
+793\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, āsevane dve, kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.4/Nahetuduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.5/2.5.4/Nahetuduka/Catukka.md)

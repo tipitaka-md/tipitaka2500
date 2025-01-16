@@ -17,13 +17,13 @@
 
 (144.)
 
-253. Hetu nevavipākanavipākadhammadhammo hetussa nevavipākanavipākadhammadhammassa hetupaccayena paccayo…  tīṇi…pe… .
+253\. Hetu nevavipākanavipākadhammadhammo hetussa nevavipākanavipākadhammadhammassa hetupaccayena paccayo…  tīṇi…pe… .
 
 (145.)
 
-254. Hetu nevavipākanavipākadhammadhammo hetussa nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  sahajātādhipati…  tīṇi.
+254\. Hetu nevavipākanavipākadhammadhammo hetussa nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  sahajātādhipati…  tīṇi.
 
-255. Nahetu nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  tīṇi…pe… .
+255\. Nahetu nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  tīṇi…pe… .
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka.md) / [Go to next page (Purejātādi)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka/Purejatadi.md)
 

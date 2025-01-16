@@ -15,7 +15,7 @@
 
 (33.)
 
-2235. Parittārammaṇo dhammo parittārammaṇassa dhammassa vipākapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccaya…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccaya…  avigatapaccayena paccayo.
+2235\. Parittārammaṇo dhammo parittārammaṇassa dhammassa vipākapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccaya…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccaya…  avigatapaccayena paccayo.
 
 [Go to previous page (Kamma)](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1/Kamma.md) / [Go to parent page (14.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.1.md) / [Go to next page (14.7.1.2 Saṅkhyāvāra)](/tipitaka/37P1/14/14.7/14.7.1/14.7.1.2.md)
 

@@ -17,7 +17,7 @@
 
 (27.)
 
-1386. Nosaññojano dhammo nosaññojanassa dhammassa kammapaccayena paccayo…  tīṇi…  vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava.
+1386\. Nosaññojano dhammo nosaññojanassa dhammassa kammapaccayena paccayo…  tīṇi…  vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava.
 
 [Go to previous page (Āsevana)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Asevana.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Vippayutta.md)
 

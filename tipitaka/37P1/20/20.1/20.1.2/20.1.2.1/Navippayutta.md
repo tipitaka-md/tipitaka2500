@@ -15,9 +15,9 @@
 
 (15.)
 
-2683. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe atītārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2683\. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe atītārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
-2684. Anāgatārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe anāgatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2684\. Anāgatārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe anāgatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 [Go to previous page (Namagga)](/tipitaka/37P1/20/20.1/20.1.2/20.1.2.1/Namagga.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/20/20.1/20.1.2/20.1.2.1.md) / [Go to next page (20.1.2.2 Saṅkhyāvāra)](/tipitaka/37P1/20/20.1/20.1.2/20.1.2.2.md)
 

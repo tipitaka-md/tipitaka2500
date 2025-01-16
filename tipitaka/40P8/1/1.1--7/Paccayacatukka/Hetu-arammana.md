@@ -13,17 +13,17 @@
 
 (3.)
 
-7. Na nahetu dhammo na nahetussa dhammassa hetupaccayena paccayo. Na nahetu dhammo nahetussa dhammassa hetupaccayena paccayo. Na nahetu dhammo nahetussa ca na nahetussa ca dhammassa hetupaccayena paccayo. (3)
+7\. Na nahetu dhammo na nahetussa dhammassa hetupaccayena paccayo. Na nahetu dhammo nahetussa dhammassa hetupaccayena paccayo. Na nahetu dhammo nahetussa ca na nahetussa ca dhammassa hetupaccayena paccayo. (3)
 
-8. Nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu dhammo na nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu dhammo nahetussa ca na nahetussa ca dhammassa ārammaṇapaccayena paccayo. (3)
+8\. Nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu dhammo na nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu dhammo nahetussa ca na nahetussa ca dhammassa ārammaṇapaccayena paccayo. (3)
 
-9. Na nahetu dhammo na nahetussa dhammassa ārammaṇapaccayena paccayo. Na nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo. Na nahetu dhammo nahetussa ca na nahetussa ca dhammassa ārammaṇapaccayena paccayo. (3)
+9\. Na nahetu dhammo na nahetussa dhammassa ārammaṇapaccayena paccayo. Na nahetu dhammo nahetussa dhammassa ārammaṇapaccayena paccayo. Na nahetu dhammo nahetussa ca na nahetussa ca dhammassa ārammaṇapaccayena paccayo. (3)
 
-10. Nahetu ca na nahetu ca dhammā nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu ca na nahetu ca dhammā na nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu ca na nahetu ca dhammā nahetussa ca na nahetussa ca dhammassa ārammaṇapaccayena paccayo. (3) (Saṃkhittaṃ.)
+10\. Nahetu ca na nahetu ca dhammā nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu ca na nahetu ca dhammā na nahetussa dhammassa ārammaṇapaccayena paccayo. Nahetu ca na nahetu ca dhammā nahetussa ca na nahetussa ca dhammassa ārammaṇapaccayena paccayo. (3) (Saṃkhittaṃ.)
 
 (4.)
 
-11. Hetuyā tīṇi, ārammaṇe nava…pe…  purejāte pacchājāte tīṇi…pe…  kamme tīṇi…pe…  jhāne tīṇi…pe…  vippayutte pañca…pe…  avigate nava. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+11\. Hetuyā tīṇi, ārammaṇe nava…pe…  purejāte pacchājāte tīṇi…pe…  kamme tīṇi…pe…  jhāne tīṇi…pe…  vippayutte pañca…pe…  avigate nava. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Hetu)](/tipitaka/40P8/1/1.1--7/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/40P8/1/1.1--7/Paccayacatukka.md) / [Go to next page (2 Sahetukaduka)](/tipitaka/40P8/2.md)
 

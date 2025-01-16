@@ -17,7 +17,7 @@
 
 (75.)
 
-4008. Kileso ceva saṃkilesiko ca dhammo kilesassa ceva saṃkilesikassa ca dhammassa hetupaccayena paccayo—  kilesā ceva saṃkilesikā ca hetū sampayuttakānaṃ kilesānaṃ hetupaccayena paccayo (evaṃ cattāri, kilesadukasadisaṃ.) (4)
+4008\. Kileso ceva saṃkilesiko ca dhammo kilesassa ceva saṃkilesikassa ca dhammassa hetupaccayena paccayo—  kilesā ceva saṃkilesikā ca hetū sampayuttakānaṃ kilesānaṃ hetupaccayena paccayo (evaṃ cattāri, kilesadukasadisaṃ.) (4)
 
 [Go to previous page (12.5.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.5/12.5.7/12.5.7.1--4/12.5.7.1--4.1.md) / [Go to parent page (12.5.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.5/12.5.7/12.5.7.1--4/12.5.7.1--4.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/12/12.5/12.5.7/12.5.7.1--4/12.5.7.1--4.1/Arammana.md)
 

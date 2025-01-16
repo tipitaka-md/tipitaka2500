@@ -15,7 +15,7 @@
 
 (217.)
 
-717. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati napacchājātapaccayā…  tīṇi. Naāsevanapaccayā…  tīṇi.
+717\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati napacchājātapaccayā…  tīṇi. Naāsevanapaccayā…  tīṇi.
 
 [Go to previous page (Naadhipatyādi)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Naadhipatyadi.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page (Nakamma)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Nakamma.md)
 

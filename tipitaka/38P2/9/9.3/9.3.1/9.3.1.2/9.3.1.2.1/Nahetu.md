@@ -17,7 +17,7 @@
 
 (49.)
 
-2220. Parāmāsavippayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ parāmāsavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2220\. Parāmāsavippayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ parāmāsavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
 [Go to previous page (9.3.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1.md) / [Go to parent page (9.3.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1.md) / [Go to next page (Naārammaṇa)](/tipitaka/38P2/9/9.3/9.3.1/9.3.1.2/9.3.1.2.1/Naarammana.md)
 

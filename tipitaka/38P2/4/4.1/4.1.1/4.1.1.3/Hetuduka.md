@@ -15,7 +15,7 @@
 
 (7.)
 
-1341. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava. (Evaṃ sabbaṃ gaṇetabbaṃ.)
+1341\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā nava. (Evaṃ sabbaṃ gaṇetabbaṃ.)
 
 [Go to previous page (4.1.1.3 Paccayānulomapaccanīya)](/tipitaka/38P2/4/4.1/4.1.1/4.1.1.3.md) / [Go to parent page (4.1.1.3 Paccayānulomapaccanīya)](/tipitaka/38P2/4/4.1/4.1.1/4.1.1.3.md) / [Go to next page (4.1.1.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/4/4.1/4.1.1/4.1.1.4.md)
 

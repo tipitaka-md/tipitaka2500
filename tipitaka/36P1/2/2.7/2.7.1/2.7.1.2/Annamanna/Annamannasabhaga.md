@@ -17,7 +17,7 @@
 
 (323.)
 
-1041. Aññamaññapaccayā hetuyā tīṇi, adhipatiyā tīṇi, sahajāte tīṇi, nissaye tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte ekaṃ, atthiyā tīṇi, avigate tīṇi. (14)
+1041\. Aññamaññapaccayā hetuyā tīṇi, adhipatiyā tīṇi, sahajāte tīṇi, nissaye tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte ekaṃ, atthiyā tīṇi, avigate tīṇi. (14)
 
 [Go to previous page (Aññamañña)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Annamanna.md) / [Go to parent page (Aññamañña)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Annamanna.md) / [Go to next page (Aññamaññaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Annamanna/Annamannaghatana.md)
 

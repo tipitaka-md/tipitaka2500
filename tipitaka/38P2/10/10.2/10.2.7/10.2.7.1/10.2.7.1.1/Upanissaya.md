@@ -17,13 +17,13 @@
 
 (77.)
 
-2503. Citto dhammo cittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  cittaṃ cittassa upanissayapaccayena paccayo…  tīṇi.
+2503\. Citto dhammo cittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  cittaṃ cittassa upanissayapaccayena paccayo…  tīṇi.
 
-2504. Nocitto dhammo nocittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ saddhāya…pe…  maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
+2504\. Nocitto dhammo nocittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ saddhāya…pe…  maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-2505. Nocitto dhammo cittassa dhammassa upanissayapaccayena paccayo. (Ime dvepi pūretukāmena sabbattha kātabbā, paṭhamagamanasadisaṃ ninnānākaraṇaṃ.)
+2505\. Nocitto dhammo cittassa dhammassa upanissayapaccayena paccayo. (Ime dvepi pūretukāmena sabbattha kātabbā, paṭhamagamanasadisaṃ ninnānākaraṇaṃ.)
 
-2506. Citto ca nocitto ca dhammā cittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  cittañca sampayuttakā ca khandhā cittassa upanissayapaccayena paccayo…  tīṇi.
+2506\. Citto ca nocitto ca dhammā cittassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  cittañca sampayuttakā ca khandhā cittassa upanissayapaccayena paccayo…  tīṇi.
 
 [Go to previous page (Anantarādi)](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Anantaradi.md) / [Go to parent page (10.2.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md) / [Go to next page (Purejāta)](/tipitaka/38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1/Purejata.md)
 

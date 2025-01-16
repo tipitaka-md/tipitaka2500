@@ -13,7 +13,7 @@
 
 ### Dvādasaka
 
-1703. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naupanissayapaccayā napurejātapaccayā napacchājātapaccayā kamme dve, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+1703\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naupanissayapaccayā napurejātapaccayā napacchājātapaccayā kamme dve, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
 
 [Go to previous page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/Ekadasaka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka.md) / [Go to next page (Soḷasaka (sāhāra))](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/olasaka_sahara.md)
 

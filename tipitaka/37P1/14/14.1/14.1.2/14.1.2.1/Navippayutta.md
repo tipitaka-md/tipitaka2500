@@ -15,11 +15,11 @@
 
 (9.)
 
-2178. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe parittārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
+2178\. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe parittārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
 
-2179. Mahaggatārammaṇaṃ dhammaṃ paṭicca mahaggatārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe mahaggatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
+2179\. Mahaggatārammaṇaṃ dhammaṃ paṭicca mahaggatārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe mahaggatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
 
-2180. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe appamāṇārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+2180\. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati navippayuttapaccayā—  arūpe appamāṇārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
 
 [Go to previous page (Navipākādi)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Navipakadi.md) / [Go to parent page (14.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1.md) / [Go to next page (14.1.2.2 Saṅkhyāvāra)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.2.md)
 

@@ -17,19 +17,19 @@
 
 (5.)
 
-1478. Sappaccayo kusalo dhammo sappaccayassa kusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1478\. Sappaccayo kusalo dhammo sappaccayassa kusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
 
 (6.)
 
-1479. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1479\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
 (7.)
 
-1480. Sappaccayaṃ akusalaṃ dhammaṃ paṭicca sappaccayo akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1480\. Sappaccayaṃ akusalaṃ dhammaṃ paṭicca sappaccayo akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 (8.)
 
-1481. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1481\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.1/3.1.1.1--7/accayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.1/3.1.1.1--7/accayacatukka.md) / [Go to next page (3.1.2 Abyākatapada)](/tipitaka/39P3/3/3.1/3.1.2.md)
 

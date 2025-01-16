@@ -15,17 +15,17 @@
 
 (387.)
 
-830. Hetu parittārammaṇo dhammo hetussa parittārammaṇassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+830\. Hetu parittārammaṇo dhammo hetussa parittārammaṇassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (388.)
 
-831. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+831\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
 
-832. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+832\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-833. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+833\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
-834. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+834\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Hetvādi)](/tipitaka/39P3/1/1.13/1.13.1/1.13.1.7/Paccayacatukka/Hetvadi.md) / [Go to parent page (1.13.1.7 Pañhāvāra)](/tipitaka/39P3/1/1.13/1.13.1/1.13.1.7.md) / [Go to next page (1.13.2 Mahaggatārammaṇapada)](/tipitaka/39P3/1/1.13/1.13.2.md)
 

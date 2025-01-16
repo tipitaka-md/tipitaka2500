@@ -15,7 +15,7 @@
 
 (8.)
 
-2450. Maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2450\. Maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ maggārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
 [Go to previous page (17.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md) / [Go to parent page (17.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1.md) / [Go to next page (Naadhipati)](/tipitaka/37P1/17/17.1/17.1.2/17.1.2.1/Naadhipati.md)
 

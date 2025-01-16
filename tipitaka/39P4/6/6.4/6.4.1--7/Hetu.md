@@ -13,7 +13,7 @@
 
 (20.)
 
-1483. Akusalaṃ kilesasampayuttaṃ dhammaṃ paṭicca akusalo kilesasampayutto dhammo uppajjati hetupaccayā. (Saṃkiliṭṭhadukasadisaṃ.)
+1483\. Akusalaṃ kilesasampayuttaṃ dhammaṃ paṭicca akusalo kilesasampayutto dhammo uppajjati hetupaccayā. (Saṃkiliṭṭhadukasadisaṃ.)
 
 [Go to previous page (6.4.1--7 Paṭiccādivāra)](/tipitaka/39P4/6/6.4/6.4.1--7.md) / [Go to parent page (6.4.1--7 Paṭiccādivāra)](/tipitaka/39P4/6/6.4/6.4.1--7.md) / [Go to next page (6.5 Kusalattika, Kilesasaṃkilesikaduka)](/tipitaka/39P4/6/6.5.md)
 

@@ -15,7 +15,7 @@
 
 (231.)
 
-747. Namaggapaccayā nahetuyā ekaṃ, naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, najhāne ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
+747\. Namaggapaccayā nahetuyā ekaṃ, naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, najhāne ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Chakka)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Najhanaduka/Chakka.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2.md) / [Go to next page (Navippayuttaduka)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.2/Navippayuttaduka.md)
 

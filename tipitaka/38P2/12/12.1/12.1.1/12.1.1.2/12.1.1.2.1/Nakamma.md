@@ -17,11 +17,11 @@
 
 (8.)
 
-3829. Kilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  kilese paṭicca sampayuttakā cetanā. (1)
+3829\. Kilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  kilese paṭicca sampayuttakā cetanā. (1)
 
-3830. Nokilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  nokilese khandhe paṭicca sampayuttakā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
+3830\. Nokilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  nokilese khandhe paṭicca sampayuttakā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
 
-3831. Kilesañca nokilesañca dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  kilese ca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1) (Evaṃ sabbe paccayā kātabbā.)
+3831\. Kilesañca nokilesañca dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  kilese ca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1) (Evaṃ sabbe paccayā kātabbā.)
 
 [Go to previous page (Napurejātādi)](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1/Napurejatadi.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1.md) / [Go to next page (12.1.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.2.md)
 

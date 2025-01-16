@@ -13,7 +13,7 @@
 
 (501.)
 
-1726. Nanissayapaccayā ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā satta, natthiyā satta, vigate satta, avigate satta…pe… .
+1726\. Nanissayapaccayā ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā satta, natthiyā satta, vigate satta, avigate satta…pe… .
 
 * [Pañcaka](/tipitaka/36P1/2/2.7/2.7.4/Nanissayaduka/Pancaka.md)
 * [Navaka](/tipitaka/36P1/2/2.7/2.7.4/Nanissayaduka/Navaka.md)

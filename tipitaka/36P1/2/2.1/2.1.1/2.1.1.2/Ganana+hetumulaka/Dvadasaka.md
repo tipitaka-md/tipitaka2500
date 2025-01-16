@@ -17,7 +17,7 @@
 
 (24.)
 
-177. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi…pe… .
+177\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi…pe… .
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Tika.md) / [Go to parent page (Gaṇanā hetumūlakā)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka.md) / [Go to next page (Bāvīsaka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana_hetumulaka_avisaka.md)
 

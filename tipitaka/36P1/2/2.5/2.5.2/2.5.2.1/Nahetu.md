@@ -15,9 +15,9 @@
 
 (215.)
 
-714. Akusalaṃ dhammaṃ saṃsaṭṭho akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
+714\. Akusalaṃ dhammaṃ saṃsaṭṭho akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
 
-715. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati nahetupaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā, tayo khandhe saṃsaṭṭho eko khandho, dve khandhe saṃsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā, tayo khandhe saṃsaṭṭho eko khandho, dve khandhe saṃsaṭṭhā dve khandhā. (1)
+715\. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati nahetupaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā, tayo khandhe saṃsaṭṭho eko khandho, dve khandhe saṃsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā, tayo khandhe saṃsaṭṭho eko khandho, dve khandhe saṃsaṭṭhā dve khandhā. (1)
 
 [Go to previous page (2.5.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page (Naadhipatyādi)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Naadhipatyadi.md)
 

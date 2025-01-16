@@ -17,7 +17,7 @@
 
 (72.)
 
-707. Appaṭigho dhammo appaṭighassa dhammassa samanantarapaccayena paccayo…pe… .
+707\. Appaṭigho dhammo appaṭighassa dhammassa samanantarapaccayena paccayo…pe… .
 
 [Go to previous page (Anantara)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Anantara.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page (Sahajātādi)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Sahajatadi.md)
 

@@ -15,7 +15,7 @@
 
 ### Tika
 
-561. Nakammapaccayā nahetupaccayā naārammaṇe ekaṃ (sabbattha ekaṃ) novigate ekaṃ…pe… .
+561\. Nakammapaccayā nahetupaccayā naārammaṇe ekaṃ (sabbattha ekaṃ) novigate ekaṃ…pe… .
 
 [Go to previous page (Nakammaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nakammaduka.md) / [Go to parent page (Nakammaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Nakammaduka.md) / [Go to next page (Navipākaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Navipakaduka.md)
 

@@ -17,7 +17,7 @@
 
 (40.)
 
-1966. Nīvaraṇo dhammo nonīvaraṇassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Evaṃ avasesā cattāri pañhā kātabbā.)
+1966\. Nīvaraṇo dhammo nonīvaraṇassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Evaṃ avasesā cattāri pañhā kātabbā.)
 
 [Go to previous page (Vipākādi)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Vipakadi.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Atthi)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Atthi.md)
 

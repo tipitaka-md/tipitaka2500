@@ -15,7 +15,7 @@
 
 (46.)
 
-2563. Maggārammaṇo dhammo maggārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā…pe… . (Nānākkhaṇikā natthi, sattarasa pañhā kātabbā.)
+2563\. Maggārammaṇo dhammo maggārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā…pe… . (Nānākkhaṇikā natthi, sattarasa pañhā kātabbā.)
 
 [Go to previous page (Āsevana)](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Asevana.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1.md) / [Go to next page (Āhārādi)](/tipitaka/37P1/17/17.7/17.7.1/17.7.1.1/Aharadi.md)
 

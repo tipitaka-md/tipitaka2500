@@ -17,13 +17,13 @@
 
 (57.)
 
-1580. Kenaci viññeyyaṃ kusalaṃ dhammaṃ paṭicca kenaci viññeyyo kusalo dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+1580\. Kenaci viññeyyaṃ kusalaṃ dhammaṃ paṭicca kenaci viññeyyo kusalo dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
 
 (58.)
 
-1581. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava…pe…  navippayutte nava. (Saṃkhittaṃ.)
+1581\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava…pe…  navippayutte nava. (Saṃkhittaṃ.)
 
-1582. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1582\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Paccanīya)](/tipitaka/39P3/3/3.7/3.7.1/3.7.1.1--7/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/39P3/3/3.7/3.7.1/3.7.1.1--7/Paccaniya.md) / [Go to next page (Paccayacatukka)](/tipitaka/39P3/3/3.7/3.7.1/3.7.1.1--7/Paccayacatukka.md)
 

@@ -13,27 +13,27 @@
 
 (310.)
 
-3080. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+3080\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
 
-3081. Cittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo. (2)
+3081\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo. (2)
 
-3082. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
+3082\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
 (311.)
 
-3083. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
+3083\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
 
-3084. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
+3084\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
 
-3085. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (3)
+3085\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (3)
 
 (312.)
 
-3086. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (1)
+3086\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā cittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (1)
 
-3087. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
+3087\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
-3088. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+3088\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
 [Go to previous page (Suddha)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.2/Suddha.md) / [Go to parent page (10.9.7 Pañhāvāra)](/tipitaka/38P2/10/10.9/10.9.7.md) / [Go to next page (10.9.7.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.2.md)
 

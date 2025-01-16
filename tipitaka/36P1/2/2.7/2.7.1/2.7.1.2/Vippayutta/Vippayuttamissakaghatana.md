@@ -17,7 +17,7 @@
 
 (376.)
 
-1135. Vippayutta atthi avigatanti pañca. Vippayutta nissaya atthi avigatanti pañca. Vippayuttādhipati nissaya atthi avigatanti cattāri. Vippayutta nissaya indriya atthi avigatanti tīṇi.
+1135\. Vippayutta atthi avigatanti pañca. Vippayutta nissaya atthi avigatanti pañca. Vippayuttādhipati nissaya atthi avigatanti cattāri. Vippayutta nissaya indriya atthi avigatanti tīṇi.
 
 [Go to previous page (Vippayuttasabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta/Vippayuttasabhaga.md) / [Go to parent page (Vippayutta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta/Pakinnakaghatana.md)
 

@@ -15,7 +15,7 @@
 
 (10.)
 
-2280. Micchattaniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati naanantarapaccayā. (Saṃkhittaṃ, sabbāni paccayāni vitthāretabbāni.)
+2280\. Micchattaniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati naanantarapaccayā. (Saṃkhittaṃ, sabbāni paccayāni vitthāretabbāni.)
 
 [Go to previous page (Naadhipati)](/tipitaka/37P1/16/16.1/16.1.2/16.1.2.1/Naadhipati.md) / [Go to parent page (16.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/16/16.1/16.1.2/16.1.2.1.md) / [Go to next page (16.1.2.2 Saṅkhyāvāra)](/tipitaka/37P1/16/16.1/16.1.2/16.1.2.2.md)
 

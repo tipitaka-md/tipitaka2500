@@ -13,7 +13,7 @@
 
 (233.)
 
-752. Hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
+752\. Hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka/Catukka.md)

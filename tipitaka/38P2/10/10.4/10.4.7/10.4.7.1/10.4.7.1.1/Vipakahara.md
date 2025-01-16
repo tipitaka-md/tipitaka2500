@@ -17,11 +17,11 @@
 
 (173.)
 
-2733. Cittasampayutto dhammo cittasampayuttassa dhammassa vipākapaccayena paccayo…  tīṇi.
+2733\. Cittasampayutto dhammo cittasampayuttassa dhammassa vipākapaccayena paccayo…  tīṇi.
 
-2734. Cittasampayutto dhammo cittasampayuttassa dhammassa āhārapaccayena paccayo…  tīṇi.
+2734\. Cittasampayutto dhammo cittasampayuttassa dhammassa āhārapaccayena paccayo…  tīṇi.
 
-2735. Cittavippayutto dhammo cittavippayuttassa dhammassa āhārapaccayena paccayo—  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
+2735\. Cittavippayutto dhammo cittavippayuttassa dhammassa āhārapaccayena paccayo—  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
 
 [Go to previous page (Kamma)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Kamma.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1.md) / [Go to next page (Indriyādi)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Indriyadi.md)
 

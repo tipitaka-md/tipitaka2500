@@ -15,7 +15,7 @@
 
 (14.)
 
-2612. Uppanno dhammo uppannassa dhammassa āhārapaccayena paccayo—  uppannā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
+2612\. Uppanno dhammo uppannassa dhammassa āhārapaccayena paccayo—  uppannā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
 
 [Go to previous page (Vipāka)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Vipaka.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page (Indriya)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Indriya.md)
 

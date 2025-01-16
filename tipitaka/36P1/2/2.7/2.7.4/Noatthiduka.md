@@ -13,7 +13,7 @@
 
 (514.)
 
-1780. Noatthipaccayā ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme dve, natthiyā satta, vigate satta…pe… .
+1780\. Noatthipaccayā ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme dve, natthiyā satta, vigate satta…pe… .
 
 * [Catukka](/tipitaka/36P1/2/2.7/2.7.4/Noatthiduka/Catukka.md)
 * [Sattaka](/tipitaka/36P1/2/2.7/2.7.4/Noatthiduka/Sattaka.md)

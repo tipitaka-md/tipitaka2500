@@ -15,7 +15,7 @@
 
 (401.)
 
-1200. Naaññamaññapaccayā nahetuyā ekādasa, naārammaṇe ekādasa, naadhipatiyā ekādasa, naanantare ekādasa, nasamanantare ekādasa, nasahajāte ekādasa, nanissaye ekādasa, naupanissaye ekādasa, napurejāte ekādasa, napacchājāte ekādasa, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava…pe… .
+1200\. Naaññamaññapaccayā nahetuyā ekādasa, naārammaṇe ekādasa, naadhipatiyā ekādasa, naanantare ekādasa, nasamanantare ekādasa, nasahajāte ekādasa, nanissaye ekādasa, naupanissaye ekādasa, napurejāte ekādasa, napacchājāte ekādasa, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava…pe… .
 
 * [Catukka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naannamannaduka/Catukka.md)
 * [Aṭṭhaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naannamannaduka/Atthaka.md)

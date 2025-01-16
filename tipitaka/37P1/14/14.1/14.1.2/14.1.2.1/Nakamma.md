@@ -15,11 +15,11 @@
 
 (7.)
 
-2172. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati nakammapaccayā—  parittārammaṇe khandhe paṭicca parittārammaṇā cetanā. (1)
+2172\. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati nakammapaccayā—  parittārammaṇe khandhe paṭicca parittārammaṇā cetanā. (1)
 
-2173. Mahaggatārammaṇaṃ dhammaṃ paṭicca mahaggatārammaṇo dhammo uppajjati nakammapaccayā—  mahaggatārammaṇe khandhe paṭicca mahaggatārammaṇā cetanā. (1)
+2173\. Mahaggatārammaṇaṃ dhammaṃ paṭicca mahaggatārammaṇo dhammo uppajjati nakammapaccayā—  mahaggatārammaṇe khandhe paṭicca mahaggatārammaṇā cetanā. (1)
 
-2174. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati nakammapaccayā—  appamāṇārammaṇe khandhe paṭicca appamāṇārammaṇā cetanā. (1)
+2174\. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati nakammapaccayā—  appamāṇārammaṇe khandhe paṭicca appamāṇārammaṇā cetanā. (1)
 
 [Go to previous page (Napurejātādi)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Napurejatadi.md) / [Go to parent page (14.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1.md) / [Go to next page (Navipākādi)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Navipakadi.md)
 

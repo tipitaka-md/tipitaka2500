@@ -15,17 +15,17 @@
 
 (53.)
 
-1373. Hetu ceva sahetuko ca kusalo dhammo hetussa ceva sahetukassa ca kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1373\. Hetu ceva sahetuko ca kusalo dhammo hetussa ceva sahetukassa ca kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (54.)
 
-1374. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1374\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
 
-1375. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1375\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-1376. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1376\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
-1377. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1377\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/2/2.4/2.4.1/2.4.1.7/Paccayacatukka/Hetu.md) / [Go to parent page (2.4.1.7 Pañhāvāra)](/tipitaka/39P3/2/2.4/2.4.1/2.4.1.7.md) / [Go to next page (2.4.2 Akusalapada)](/tipitaka/39P3/2/2.4/2.4.2.md)
 

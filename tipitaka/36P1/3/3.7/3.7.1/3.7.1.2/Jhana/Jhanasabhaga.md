@@ -17,7 +17,7 @@
 
 (78.)
 
-1990. Jhānapaccayā sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke dve, indriye tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (9)
+1990\. Jhānapaccayā sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, vipāke dve, indriye tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (9)
 
 [Go to previous page (Jhāna)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Jhana.md) / [Go to parent page (Jhāna)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Jhana.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Jhana/Ghatana.md)
 

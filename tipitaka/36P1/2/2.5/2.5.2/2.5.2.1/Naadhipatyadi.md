@@ -15,7 +15,7 @@
 
 (216.)
 
-716. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati naadhipatipaccayā…  napurejātapaccayā—  arūpe kusalaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. Akusalaṃ dhammaṃ…pe…  abyākataṃ dhammaṃ…pe… .
+716\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati naadhipatipaccayā…  napurejātapaccayā—  arūpe kusalaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. Akusalaṃ dhammaṃ…pe…  abyākataṃ dhammaṃ…pe… .
 
 [Go to previous page (Nahetu)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Nahetu.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page (Napacchājāta-naāsevana)](/tipitaka/36P1/2/2.5/2.5.2/2.5.2.1/Napacchajata-naasevana.md)
 

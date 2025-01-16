@@ -15,7 +15,7 @@
 
 ### Tika
 
-1840. Napurejātapaccayā nahetupaccayā naadhipatiyā ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
+1840\. Napurejātapaccayā nahetupaccayā naadhipatiyā ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Napurejātaduka)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Napurejataduka.md) / [Go to parent page (Napurejātaduka)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Napurejataduka.md) / [Go to next page (Napacchājātadukādi)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.2/Napacchajatadukadi.md)
 

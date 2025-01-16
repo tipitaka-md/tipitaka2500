@@ -17,7 +17,7 @@
 
 (97.)
 
-2560. Cetasikaṃ dhammaṃ paṭicca cetasiko dhammo uppajjati adhipatipaccayā. (Saṃkhittaṃ.)
+2560\. Cetasikaṃ dhammaṃ paṭicca cetasiko dhammo uppajjati adhipatipaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Ārammaṇa)](/tipitaka/38P2/10/10.3/10.3.1/10.3.1.1/10.3.1.1.1/Arammana.md) / [Go to parent page (10.3.1.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.3/10.3.1/10.3.1.1/10.3.1.1.1.md) / [Go to next page (10.3.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.3/10.3.1/10.3.1.1/10.3.1.1.2.md)
 

@@ -17,7 +17,7 @@
 
 (349.)
 
-1083. Indriya atthi avigatanti satta. Indriya nissaya atthi avigatanti satta. Indriya nissaya vippayutta atthi avigatanti tīṇi.
+1083\. Indriya atthi avigatanti satta. Indriya nissaya atthi avigatanti satta. Indriya nissaya vippayutta atthi avigatanti tīṇi.
 
 [Go to previous page (Indriyasabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Indriyasabhaga.md) / [Go to parent page (Indriya)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Pakinnakaghatana.md)
 

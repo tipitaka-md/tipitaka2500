@@ -17,11 +17,11 @@
 
 (46.)
 
-125. Nahetuyā nava, naārammaṇe nava…pe…  noavigate nava. (Evaṃ gaṇetabbaṃ.)
+125\. Nahetuyā nava, naārammaṇe nava…pe…  noavigate nava. (Evaṃ gaṇetabbaṃ.)
 
 ---
 
-126. Paccanīyaṃ.
+126\. Paccanīyaṃ.
 
 
 

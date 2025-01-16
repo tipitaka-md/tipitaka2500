@@ -17,9 +17,9 @@
 
 (356.)
 
-1095. Indriyādhipati sahajāta nissaya āhāra atthi avigatanti satta. Indriyādhipati sahajāta aññamañña nissaya āhāra sampayutta atthi avigatanti tīṇi. Indriyādhipati sahajāta nissaya āhāra vippayutta atthi avigatanti tīṇi. [Avipāka—  3]
+1095\. Indriyādhipati sahajāta nissaya āhāra atthi avigatanti satta. Indriyādhipati sahajāta aññamañña nissaya āhāra sampayutta atthi avigatanti tīṇi. Indriyādhipati sahajāta nissaya āhāra vippayutta atthi avigatanti tīṇi. [Avipāka—  3]
 
-1096. Indriyādhipati sahajāta nissaya vipāka āhāra atthi avigatanti ekaṃ. Indriyādhipati sahajāta aññamañña nissaya vipāka āhāra sampayutta atthi avigatanti ekaṃ. Indriyādhipati sahajāta nissaya vipāka āhāra vippayutta atthi avigatanti ekaṃ. [Savipāka—  3]
+1096\. Indriyādhipati sahajāta nissaya vipāka āhāra atthi avigatanti ekaṃ. Indriyādhipati sahajāta aññamañña nissaya vipāka āhāra sampayutta atthi avigatanti ekaṃ. Indriyādhipati sahajāta nissaya vipāka āhāra vippayutta atthi avigatanti ekaṃ. [Savipāka—  3]
 
 [Go to previous page (Sāhāraghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Saharaghatana.md) / [Go to parent page (Indriya)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya.md) / [Go to next page (Sādhipati-maggaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Sadhipati-maggaghatana.md)
 

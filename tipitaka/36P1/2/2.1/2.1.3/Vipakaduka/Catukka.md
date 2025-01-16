@@ -13,7 +13,7 @@
 
 ### Catukka
 
-315. Vipākapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navippayutte ekaṃ.
+315\. Vipākapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navippayutte ekaṃ.
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tika.md) / [Go to parent page (Vipākaduka)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka.md) / [Go to next page (Pañcaka)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Pancaka.md)
 

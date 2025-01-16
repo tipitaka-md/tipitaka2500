@@ -13,7 +13,7 @@
 
 (498.)
 
-1715. Naanantarapaccayā…pe…  nasamanantarapaccayā hetuyā satta, ārammaṇe nava, adhipatiyā dasa, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, avigate terasa…pe… .
+1715\. Naanantarapaccayā…pe…  nasamanantarapaccayā hetuyā satta, ārammaṇe nava, adhipatiyā dasa, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, avigate terasa…pe… .
 
 * [Aṭṭhaka](/tipitaka/36P1/2/2.7/2.7.4/Naanantara-nasamanantaraduka/Atthaka.md)
 

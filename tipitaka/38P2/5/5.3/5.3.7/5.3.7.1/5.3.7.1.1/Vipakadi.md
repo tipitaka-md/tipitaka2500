@@ -17,9 +17,9 @@
 
 (90.)
 
-1811. Ganthavippayutto dhammo ganthavippayuttassa dhammassa vipākapaccayena paccayo…  ekaṃ.
+1811\. Ganthavippayutto dhammo ganthavippayuttassa dhammassa vipākapaccayena paccayo…  ekaṃ.
 
-1812. Ganthasampayutto dhammo ganthasampayuttassa dhammassa āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  cha.
+1812\. Ganthasampayutto dhammo ganthasampayuttassa dhammassa āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  cha.
 
 [Go to previous page (Kamma)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Kamma.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Vippayutta.md)
 

@@ -13,7 +13,7 @@
 
 (27.)
 
-1865. Naadhipatipaccayā hetuyā tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1865\. Naadhipatipaccayā hetuyā tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 [Go to previous page (Dasaka)](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Dasaka.md) / [Go to parent page (3.1.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/3/3.1/3.1.4.md) / [Go to next page (Napurejātaduka)](/tipitaka/36P1/3/3.1/3.1.4/Napurejataduka.md)
 

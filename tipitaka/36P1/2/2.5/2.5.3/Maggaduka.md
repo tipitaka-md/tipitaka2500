@@ -13,7 +13,7 @@
 
 (244.)
 
-780. Maggapaccayā nahetuyā ekaṃ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
+780\. Maggapaccayā nahetuyā ekaṃ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Maggaduka/Tika.md)
 

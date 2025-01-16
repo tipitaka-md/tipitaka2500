@@ -15,7 +15,7 @@
 
 (42.)
 
-3027. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa āsevanapaccayena paccayo—  purimā purimā anidassanaappaṭighā khandhā pacchimānaṃ pacchimānaṃ anidassanaappaṭighānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+3027\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa āsevanapaccayena paccayo—  purimā purimā anidassanaappaṭighā khandhā pacchimānaṃ pacchimānaṃ anidassanaappaṭighānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
 
 [Go to previous page (Pacchājāta)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Pacchajata.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Kamma.md)
 

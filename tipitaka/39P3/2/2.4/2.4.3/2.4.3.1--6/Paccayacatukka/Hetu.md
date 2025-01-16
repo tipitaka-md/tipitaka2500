@@ -17,11 +17,11 @@
 
 (63.)
 
-1392. Hetuñceva sahetukañca abyākataṃ dhammaṃ paṭicca hetu ceva sahetuko ca abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1392\. Hetuñceva sahetukañca abyākataṃ dhammaṃ paṭicca hetu ceva sahetuko ca abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (64.)
 
-1393. Hetuyā nava, ārammaṇe nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1393\. Hetuyā nava, ārammaṇe nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.4/2.4.3/2.4.3.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.4/2.4.3/2.4.3.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/2/2.4/2.4.3/2.4.3.1--6/Paccayacatukka/Naadhipati.md)
 

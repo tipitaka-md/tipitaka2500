@@ -17,7 +17,7 @@
 
 (182.)
 
-4476. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne nava, namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi.
+4476\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne nava, namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi.
 
 [Go to previous page (13.10.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2/13.10.1.2.2.md) / [Go to parent page (13.10.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2/13.10.1.2.2.md) / [Go to next page (13.10.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.3--4.md)
 

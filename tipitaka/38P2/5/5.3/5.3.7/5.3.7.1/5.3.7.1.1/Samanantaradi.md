@@ -17,7 +17,7 @@
 
 (81.)
 
-1794. Ganthasampayutto dhammo ganthasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
+1794\. Ganthasampayutto dhammo ganthasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Anantara.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1/Upanissaya.md)
 

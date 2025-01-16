@@ -15,7 +15,7 @@
 
 ### Catukka
 
-1209. Naupanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā terasa, naanantare terasa, nasamanantare terasa, nasahajāte satta, naaññamaññe satta, nanissaye pañca, napurejāte nava, napacchājāte terasa, naāsevane terasa, nakamme terasa, navipāke terasa, naāhāre terasa, naindriye terasa, najhāne terasa, namagge terasa, nasampayutte satta, navippayutte pañca, noatthiyā dve, nonatthiyā terasa, novigate terasa, noavigate dve…pe… .
+1209\. Naupanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā terasa, naanantare terasa, nasamanantare terasa, nasahajāte satta, naaññamaññe satta, nanissaye pañca, napurejāte nava, napacchājāte terasa, naāsevane terasa, nakamme terasa, navipāke terasa, naāhāre terasa, naindriye terasa, najhāne terasa, namagge terasa, nasampayutte satta, navippayutte pañca, noatthiyā dve, nonatthiyā terasa, novigate terasa, noavigate dve…pe… .
 
 [Go to previous page (Naupanissayaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka.md) / [Go to parent page (Naupanissayaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka.md) / [Go to next page (Aṭṭhaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naupanissayaduka/Atthaka.md)
 

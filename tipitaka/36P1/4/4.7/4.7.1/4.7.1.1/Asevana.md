@@ -15,9 +15,9 @@
 
 (107.)
 
-2357. Vipākadhammadhammo vipākadhammadhammassa āsevanapaccayena paccayo—  purimā purimā vipākadhammadhammā khandhā pacchimānaṃ pacchimānaṃ vipākadhammadhammānaṃ khandhānaṃ…pe…  anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+2357\. Vipākadhammadhammo vipākadhammadhammassa āsevanapaccayena paccayo—  purimā purimā vipākadhammadhammā khandhā pacchimānaṃ pacchimānaṃ vipākadhammadhammānaṃ khandhānaṃ…pe…  anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
 
-2358. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa āsevanapaccayena paccayo—  purimā purimā…pe…  paccayo. (1)
+2358\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa āsevanapaccayena paccayo—  purimā purimā…pe…  paccayo. (1)
 
 [Go to previous page (Pacchājāta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Pacchajata.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Kamma.md)
 

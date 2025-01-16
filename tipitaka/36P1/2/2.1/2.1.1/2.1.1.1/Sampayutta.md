@@ -15,7 +15,7 @@
 
 (16.)
 
-164. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati sampayuttapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca… . (Sampayuttapaccayaṃ ārammaṇapaccayasadisaṃ.)
+164\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati sampayuttapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca… . (Sampayuttapaccayaṃ ārammaṇapaccayasadisaṃ.)
 
 [Go to previous page (Jhāna-magga)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Jhana-magga.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Vippayutta.md)
 

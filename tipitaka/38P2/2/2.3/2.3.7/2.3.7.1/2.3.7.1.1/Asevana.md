@@ -17,7 +17,7 @@
 
 (42.)
 
-632. Anidassano dhammo anidassanassa dhammassa āsevanapaccayena paccayo—  purimā purimā anidassanā khandhā pacchimānaṃ pacchimānaṃ anidassanānaṃ khandhānaṃ…pe…  anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+632\. Anidassano dhammo anidassanassa dhammassa āsevanapaccayena paccayo—  purimā purimā anidassanā khandhā pacchimānaṃ pacchimānaṃ anidassanānaṃ khandhānaṃ…pe…  anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
 
 [Go to previous page (Pacchājāta)](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1/2.3.7.1.1/Pacchajata.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1/2.3.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/2/2.3/2.3.7/2.3.7.1/2.3.7.1.1/Kamma.md)
 

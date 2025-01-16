@@ -15,7 +15,7 @@
 
 (30.)
 
-192. Kammapaccayā hetuyā nava…pe… .
+192\. Kammapaccayā hetuyā nava…pe… .
 
 [Go to previous page (Āsevanaduka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Asevanaduka.md) / [Go to parent page (2.1.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md) / [Go to next page (Vipākaduka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Vipakaduka.md)
 

@@ -15,7 +15,7 @@
 
 (60.)
 
-270. Naāhārapaccayā…pe…  naindriyapaccayā…pe…  najhānapaccayā…pe…  namaggapaccayā nahetuyā ekaṃ (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+270\. Naāhārapaccayā…pe…  naindriyapaccayā…pe…  najhānapaccayā…pe…  namaggapaccayā nahetuyā ekaṃ (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Navipakaduka/Catukka.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2.md) / [Go to next page (Nasampayuttaduka)](/tipitaka/36P1/2/2.1/2.1.2/2.1.2.2/Nasampayuttaduka.md)
 

@@ -17,7 +17,7 @@
 
 (129.)
 
-4356. Savitakko dhammo avitakkassa dhammassa pacchājātapaccayena paccayo (tīṇi, pacchājātā)…  āsevanapaccayena paccayo…  nava.
+4356\. Savitakko dhammo avitakkassa dhammassa pacchājātapaccayena paccayo (tīṇi, pacchājātā)…  āsevanapaccayena paccayo…  nava.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Purejata.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md) / [Go to next page (Kammādi)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Kammadi.md)
 

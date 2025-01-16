@@ -15,7 +15,7 @@
 
 (29.)
 
-846. Dassanena pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nasampayuttapaccayā. (Naārammaṇasadisaṃ.)
+846\. Dassanena pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nasampayuttapaccayā. (Naārammaṇasadisaṃ.)
 
 [Go to previous page (Namagga)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Namagga.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md) / [Go to next page (Navippayutta)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Navippayutta.md)
 

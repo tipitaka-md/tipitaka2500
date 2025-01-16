@@ -17,7 +17,7 @@
 
 (182.)
 
-2759. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte cha, naaññamaññe cha, nanissaye cha, naupanissaye satta, napurejāte satta (sabbattha satta), nasampayutte cha, navippayutte pañca, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
+2759\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte cha, naaññamaññe cha, nanissaye cha, naupanissaye satta, napurejāte satta (sabbattha satta), nasampayutte cha, navippayutte pañca, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
 
 [Go to previous page (10.4.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.2/10.4.7.2.1.md) / [Go to parent page (10.4.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.2/10.4.7.2.1.md) / [Go to next page (10.4.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.3.md)
 

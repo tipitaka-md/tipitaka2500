@@ -13,7 +13,7 @@
 
 (178.)
 
-628. Nahetupaccayā ārammaṇe cattāri, anantare cattāri, samanantare cattāri, sahajāte cattāri, aññamaññe cattāri, nissaye cattāri, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme cattāri, vipāke ekaṃ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cattāri, vippayutte cattāri, atthiyā cattāri, natthiyā cattāri, vigate cattāri, avigate cattāri.
+628\. Nahetupaccayā ārammaṇe cattāri, anantare cattāri, samanantare cattāri, sahajāte cattāri, aññamaññe cattāri, nissaye cattāri, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme cattāri, vipāke ekaṃ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cattāri, vippayutte cattāri, atthiyā cattāri, natthiyā cattāri, vigate cattāri, avigate cattāri.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.4/Nahetuduka/Tika.md)
 * [Sattaka](/tipitaka/36P1/2/2.3/2.3.4/Nahetuduka/Sattaka.md)

@@ -15,7 +15,7 @@
 
 ### Catukka
 
-1233. Naāhārapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā pannarasa…pe…  naupanissaye terasa…pe…  noavigate nava…pe… .
+1233\. Naāhārapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā pannarasa…pe…  naupanissaye terasa…pe…  noavigate nava…pe… .
 
 [Go to previous page (Naāhāraduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md) / [Go to parent page (Naāhāraduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md) / [Go to next page (Aṭṭhaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Atthaka.md)
 

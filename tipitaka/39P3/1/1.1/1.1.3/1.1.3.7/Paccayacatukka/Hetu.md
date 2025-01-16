@@ -17,7 +17,7 @@
 
 (54.)
 
-91. Hetu abyākato dhammo hetussa abyākatassa dhammassa hetupaccayena paccayo. Hetu abyākato dhammo nahetussa abyākatassa dhammassa hetupaccayena paccayo. Hetu abyākato dhammo hetussa abyākatassa ca nahetussa abyākatassa ca dhammassa hetupaccayena paccayo. (3)
+91\. Hetu abyākato dhammo hetussa abyākatassa dhammassa hetupaccayena paccayo. Hetu abyākato dhammo nahetussa abyākatassa dhammassa hetupaccayena paccayo. Hetu abyākato dhammo hetussa abyākatassa ca nahetussa abyākatassa ca dhammassa hetupaccayena paccayo. (3)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka.md) / [Go to next page (Ārammaṇādi)](/tipitaka/39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka/Arammanadi.md)
 

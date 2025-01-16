@@ -17,7 +17,7 @@
 
 (250.)
 
-2938. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), avigate nava.
+2938\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), avigate nava.
 
 [Go to previous page (10.7.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.7/10.7.3/10.7.3.1/10.7.3.1.2.md) / [Go to parent page (10.7.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.7/10.7.3/10.7.3.1/10.7.3.1.2.md) / [Go to next page (10.7.3.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.7/10.7.3/10.7.3.2.md)
 

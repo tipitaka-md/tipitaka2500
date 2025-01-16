@@ -15,7 +15,7 @@
 
 (12.)
 
-2610. Uppanno dhammo uppannassa dhammassa kammapaccayena paccayo—  uppannā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe uppannā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+2610\. Uppanno dhammo uppannassa dhammassa kammapaccayena paccayo—  uppannā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe uppannā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
 [Go to previous page (Pacchājāta)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Pacchajata.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page (Vipāka)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Vipaka.md)
 

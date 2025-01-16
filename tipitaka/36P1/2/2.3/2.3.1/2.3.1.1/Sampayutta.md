@@ -15,7 +15,7 @@
 
 (131.)
 
-486. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati sampayuttapaccayā. (Ārammaṇapaccayasadisaṃ.)
+486\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati sampayuttapaccayā. (Ārammaṇapaccayasadisaṃ.)
 
 [Go to previous page (Jhāna-magga)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Jhana-magga.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Vippayutta.md)
 

@@ -13,7 +13,7 @@
 
 (5.)
 
-2820. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā cha, naanantare pañca…pe…  naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ…pe…  namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
+2820\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā cha, naanantare pañca…pe…  naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ…pe…  namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
 
 [Go to previous page (Nahetu)](/tipitaka/36P1/6/6.1/6.1.2/Nahetu.md) / [Go to parent page (6.1.2 Paccayapaccanīya)](/tipitaka/36P1/6/6.1/6.1.2.md) / [Go to next page (6.1.3 Paccayānulomapaccanīya)](/tipitaka/36P1/6/6.1/6.1.3.md)
 

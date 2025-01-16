@@ -15,9 +15,9 @@
 
 (17.)
 
-2076. Vipākadhammadhammaṃ paṭicca vipākadhammadhammo uppajjati āsevanapaccayā—  vipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā.
+2076\. Vipākadhammadhammaṃ paṭicca vipākadhammadhammo uppajjati āsevanapaccayā—  vipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā.
 
-2077. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati āsevanapaccayā—  nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā.
+2077\. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati āsevanapaccayā—  nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā.
 
 [Go to previous page (Nissayādi)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Nissayadi.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1.md) / [Go to next page (Kamma-vipāka)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Kamma-vipaka.md)
 

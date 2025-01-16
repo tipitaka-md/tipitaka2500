@@ -13,7 +13,7 @@
 
 (64.)
 
-278. Hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+278\. Hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka/Catukka.md)

@@ -13,7 +13,7 @@
 
 ### Āhārādi
 
-2222. Āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+2222\. Āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
 
 [Go to previous page (Vipāka)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Vipaka.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md) / [Go to next page (4.3.1.2 Saṅkhyāvāra)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.2.md)
 

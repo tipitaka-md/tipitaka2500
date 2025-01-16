@@ -13,7 +13,7 @@
 
 ### Pañcaka
 
-316. Vipākapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navippayutte ekaṃ…pe… .
+316\. Vipākapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navippayutte ekaṃ…pe… .
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Catukka.md) / [Go to parent page (Vipākaduka)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka.md) / [Go to next page (Tevīsaka)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tevisaka.md)
 

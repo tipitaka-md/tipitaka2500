@@ -13,27 +13,27 @@
 
 (271.)
 
-2988. Cittasahabhū dhammo cittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+2988\. Cittasahabhū dhammo cittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
 
-2989. Cittasahabhū dhammo nocittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo. (2)
+2989\. Cittasahabhū dhammo nocittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo. (2)
 
-2990. Cittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
+2990\. Cittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
 (272.)
 
-2991. Nocittasahabhū dhammo nocittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
+2991\. Nocittasahabhū dhammo nocittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
 
-2992. Nocittasahabhū dhammo cittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
+2992\. Nocittasahabhū dhammo cittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
 
-2993. Nocittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (3)
+2993\. Nocittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (3)
 
 (273.)
 
-2994. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (1)
+2994\. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (1)
 
-2995. Cittasahabhū ca nocittasahabhū ca dhammā nocittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
+2995\. Cittasahabhū ca nocittasahabhū ca dhammā nocittasahabhussa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo. (2)
 
-2996. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa ca nocittasahabhussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+2996\. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa ca nocittasahabhussa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
 [Go to previous page (Suddha)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.2/Suddha.md) / [Go to parent page (10.7.7 Pañhāvāra)](/tipitaka/38P2/10/10.7/10.7.7.md) / [Go to next page (10.7.7.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.2.md)
 

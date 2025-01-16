@@ -17,7 +17,7 @@
 
 (123.)
 
-1302. Āsavasampayutto ceva no ca āsavo dhammo āsavasampayuttassa ceva no ca āsavassa dhammassa kammapaccayena paccayo…  tīṇi…  āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo…  nava.
+1302\. Āsavasampayutto ceva no ca āsavo dhammo āsavasampayuttassa ceva no ca āsavassa dhammassa kammapaccayena paccayo…  tīṇi…  āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava…  atthipaccayena paccayo…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo…  nava.
 
 [Go to previous page (Ārammaṇādi)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1/Arammanadi.md) / [Go to parent page (3.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.1.md) / [Go to next page (3.5.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.1/3.5.7.1.2.md)
 

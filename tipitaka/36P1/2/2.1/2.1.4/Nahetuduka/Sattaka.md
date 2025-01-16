@@ -13,7 +13,7 @@
 
 ### Sattaka
 
-356. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ, (sabbattha ekaṃ)…pe… .
+356\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ, (sabbattha ekaṃ)…pe… .
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka/Tika.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka.md) / [Go to next page (Ekādasaka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka/Ekadasaka.md)
 

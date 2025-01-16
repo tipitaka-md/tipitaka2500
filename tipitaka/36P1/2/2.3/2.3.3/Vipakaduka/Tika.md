@@ -13,7 +13,7 @@
 
 ### Tika
 
-606. Vipākapaccayā hetupaccayā naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+606\. Vipākapaccayā hetupaccayā naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 
 [Go to previous page (Vipākaduka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka.md) / [Go to parent page (Vipākaduka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka.md) / [Go to next page (Dvādasaka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka/Dvadasaka.md)
 

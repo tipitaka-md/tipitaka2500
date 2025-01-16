@@ -17,7 +17,7 @@
 
 (72.)
 
-1967. Upanissayapaccayā ārammaṇe cattāri, adhipatiyā cattāri, anantare satta, samanantare satta, āsevane tīṇi, kamme aṭṭha, natthiyā satta, vigate satta. (8)
+1967\. Upanissayapaccayā ārammaṇe cattāri, adhipatiyā cattāri, anantare satta, samanantare satta, āsevane tīṇi, kamme aṭṭha, natthiyā satta, vigate satta. (8)
 
 [Go to previous page (Upanissaya)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Upanissaya.md) / [Go to parent page (Upanissaya)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Upanissaya.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Upanissaya/Ghatana.md)
 

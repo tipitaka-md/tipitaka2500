@@ -15,15 +15,15 @@
 
 (19.)
 
-2905. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ajjhattārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā, ajjhattārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (1)
+2905\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ajjhattārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā, ajjhattārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (1)
 
-2906. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ajjhattārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā bahiddhārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (2)
+2906\. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ajjhattārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā bahiddhārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (2)
 
 (20.)
 
-2907. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  bahiddhārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā bahiddhārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (1)
+2907\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  bahiddhārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā bahiddhārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (1)
 
-2908. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  bahiddhārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā ajjhattārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (2)
+2908\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  bahiddhārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā ajjhattārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (2)
 
 [Go to previous page (Samanantarādi)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Samanantaradi.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/37P1/22/22.7/22.7.1/22.7.1.1/Asevana.md)
 

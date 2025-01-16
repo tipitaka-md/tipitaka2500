@@ -17,7 +17,7 @@
 
 (317.)
 
-1031. Anantarapaccayā samanantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṃ, natthiyā satta, vigate satta. (6)
+1031\. Anantarapaccayā samanantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṃ, natthiyā satta, vigate satta. (6)
 
 [Go to previous page (Anantara)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Anantara.md) / [Go to parent page (Anantara)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Anantara.md) / [Go to next page (Anantaraghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Anantara/Anantaraghatana.md)
 

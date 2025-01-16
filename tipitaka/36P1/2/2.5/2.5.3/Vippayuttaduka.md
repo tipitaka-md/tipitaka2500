@@ -13,7 +13,7 @@
 
 (246.)
 
-784. Vippayuttapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ.
+784\. Vippayuttapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.5/2.5.3/Vippayuttaduka/Catukka.md)

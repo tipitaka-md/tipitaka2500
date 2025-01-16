@@ -15,7 +15,7 @@
 
 (52.)
 
-1799. Sekkho dhammo sekkhassa dhammassa sahajātapaccayena paccayo…pe…  (paṭiccavāre sahajātasadisaṃ, nava pañhā) aññamaññapaccayena paccayo. (Paṭiccavāre aññamaññasadisaṃ, tīṇi. Nissayapaccaye kusalattike nissayapaccayasadisaṃ, terasa pañhā.)
+1799\. Sekkho dhammo sekkhassa dhammassa sahajātapaccayena paccayo…pe…  (paṭiccavāre sahajātasadisaṃ, nava pañhā) aññamaññapaccayena paccayo. (Paṭiccavāre aññamaññasadisaṃ, tīṇi. Nissayapaccaye kusalattike nissayapaccayasadisaṃ, terasa pañhā.)
 
 [Go to previous page (Samanantara)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Samanantara.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Upanissaya.md)
 

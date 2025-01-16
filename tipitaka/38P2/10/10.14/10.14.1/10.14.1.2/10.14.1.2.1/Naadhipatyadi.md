@@ -17,7 +17,7 @@
 
 (423.)
 
-3392. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
+3392\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
 
 [Go to previous page (Naārammaṇa)](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Naarammana.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1.md) / [Go to next page (Napurejātādi)](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Napurejatadi.md)
 

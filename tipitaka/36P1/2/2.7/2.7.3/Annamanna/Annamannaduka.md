@@ -15,7 +15,7 @@
 
 (433.)
 
-1357. Aññamaññapaccayā nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (19)
+1357\. Aññamaññapaccayā nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (19)
 
 [Go to previous page (Aññamañña)](/tipitaka/36P1/2/2.7/2.7.3/Annamanna.md) / [Go to parent page (Aññamañña)](/tipitaka/36P1/2/2.7/2.7.3/Annamanna.md) / [Go to next page (Aññamaññaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Annamanna/Annamannaghatana.md)
 

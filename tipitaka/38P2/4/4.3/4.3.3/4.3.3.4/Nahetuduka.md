@@ -15,7 +15,7 @@
 
 (62.)
 
-1472. Nahetupaccayā ārammaṇe cha (sabbattha cha), vipāke ekaṃ, āhāre cha…pe…  magge cha…pe…  avigate cha.
+1472\. Nahetupaccayā ārammaṇe cha (sabbattha cha), vipāke ekaṃ, āhāre cha…pe…  magge cha…pe…  avigate cha.
 
 [Go to previous page (4.3.3.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.4.md) / [Go to parent page (4.3.3.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/4/4.3/4.3.3/4.3.3.4.md) / [Go to next page (4.3.4 Nissayavāra)](/tipitaka/38P2/4/4.3/4.3.4.md)
 

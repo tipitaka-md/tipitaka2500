@@ -15,7 +15,7 @@
 
 (18.)
 
-2616. Uppanno dhammo uppannassa dhammassa avigatapaccayena paccayo…pe… .
+2616\. Uppanno dhammo uppannassa dhammassa avigatapaccayena paccayo…pe… .
 
 [Go to previous page (Atthi)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Atthi.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page (18.7.1.2 Saṅkhyāvāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.2.md)
 

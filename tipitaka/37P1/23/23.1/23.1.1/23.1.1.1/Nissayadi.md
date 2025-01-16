@@ -15,7 +15,7 @@
 
 (15.)
 
-2971. Anidassanasappaṭighaṃ dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+2971\. Anidassanasappaṭighaṃ dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
 
 [Go to previous page (Aññamañña)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Annamanna.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to next page (23.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.2.md)
 

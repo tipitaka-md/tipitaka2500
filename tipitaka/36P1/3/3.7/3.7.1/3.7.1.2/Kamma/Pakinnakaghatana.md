@@ -15,7 +15,7 @@
 
 ### Pakiṇṇakaghaṭanā
 
-1972. Kamma upanissayanti aṭṭha. Kamma anantara samanantara upanissaya natthi vigatanti dve.
+1972\. Kamma upanissayanti aṭṭha. Kamma anantara samanantara upanissaya natthi vigatanti dve.
 
 [Go to previous page (Kammasabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma/Kammasabhaga.md) / [Go to parent page (Kamma)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma.md) / [Go to next page (Sahajātaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma/Sahajataghatana.md)
 

@@ -17,11 +17,11 @@
 
 (28.)
 
-1524. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca sappaṭigho abyākato dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+1524\. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca sappaṭigho abyākato dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
 
 (29.)
 
-1525. Nahetuyā nava…pe…  novigate nava. (Sabbattha nava, saṃkhittaṃ.)
+1525\. Nahetuyā nava…pe…  novigate nava. (Sabbattha nava, saṃkhittaṃ.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka.md) / [Go to next page (3.4.2.7 Pañhāvāra)](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.7.md)
 

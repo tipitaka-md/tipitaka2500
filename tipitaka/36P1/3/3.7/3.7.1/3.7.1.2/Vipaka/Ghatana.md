@@ -15,7 +15,7 @@
 
 ### Ghaṭanā
 
-1975. Vipāka sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi.
+1975\. Vipāka sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi.
 
 [Go to previous page (Vipākasabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka/Vipakasabhaga.md) / [Go to parent page (Vipāka)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka.md) / [Go to next page (Āhāra)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Ahara.md)
 

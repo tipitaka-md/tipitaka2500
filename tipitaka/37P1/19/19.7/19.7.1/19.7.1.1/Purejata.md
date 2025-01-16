@@ -15,7 +15,7 @@
 
 (9.)
 
-2642. Paccuppanno dhammo paccuppannassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…  vatthu paccuppannānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+2642\. Paccuppanno dhammo paccuppannassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…  vatthu paccuppannānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
 [Go to previous page (Upanissaya)](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Upanissaya.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1.md) / [Go to next page (Pacchājāta)](/tipitaka/37P1/19/19.7/19.7.1/19.7.1.1/Pacchajata.md)
 

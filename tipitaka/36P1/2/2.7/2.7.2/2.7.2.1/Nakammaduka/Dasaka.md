@@ -15,7 +15,7 @@
 
 ### Dasaka
 
-1228. Nakammapaccayā nahetupaccayā naārammaṇapaccayā…pe…  nanissayapaccayā naupanissaye pañca, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa…pe…  noavigate nava.
+1228\. Nakammapaccayā nahetupaccayā naārammaṇapaccayā…pe…  nanissayapaccayā naupanissaye pañca, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa…pe…  noavigate nava.
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka/Catukka.md) / [Go to parent page (Nakammaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka.md) / [Go to next page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nakammaduka/Ekadasaka.md)
 

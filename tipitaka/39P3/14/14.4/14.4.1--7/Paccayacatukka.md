@@ -13,29 +13,29 @@
 
 (11.)
 
-2626. Araṇaṃ upādinnupādāniyaṃ dhammaṃ paṭicca araṇo upādinnupādāniyo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2626\. Araṇaṃ upādinnupādāniyaṃ dhammaṃ paṭicca araṇo upādinnupādāniyo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2627. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2627\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 (12.)
 
-2628. Saraṇaṃ anupādinnupādāniyaṃ dhammaṃ paṭicca saraṇo anupādinnupādāniyo dhammo uppajjati hetupaccayā…  tīṇi.
+2628\. Saraṇaṃ anupādinnupādāniyaṃ dhammaṃ paṭicca saraṇo anupādinnupādāniyo dhammo uppajjati hetupaccayā…  tīṇi.
 
-2629. Araṇaṃ anupādinnupādāniyaṃ dhammaṃ paṭicca araṇo anupādinnupādāniyo dhammo uppajjati hetupaccayā. (1)
+2629\. Araṇaṃ anupādinnupādāniyaṃ dhammaṃ paṭicca araṇo anupādinnupādāniyo dhammo uppajjati hetupaccayā. (1)
 
-2630. Saraṇaṃ anupādinnupādāniyañca araṇaṃ anupādinnupādāniyañca dhammaṃ paṭicca araṇo anupādinnupādāniyo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2630\. Saraṇaṃ anupādinnupādāniyañca araṇaṃ anupādinnupādāniyañca dhammaṃ paṭicca araṇo anupādinnupādāniyo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
 (13.)
 
-2631. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.)
+2631\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.)
 
-2632. (Sahajātavārampi…pe…  pañhāvārampi sabbattha vitthāretabbaṃ.)
+2632\. (Sahajātavārampi…pe…  pañhāvārampi sabbattha vitthāretabbaṃ.)
 
 (14.)
 
-2633. Araṇaṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca araṇo anupādinnaanupādāniyo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2633\. Araṇaṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca araṇo anupādinnaanupādāniyo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2634. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2634\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 [Go to previous page (14.4.1--7 Paṭiccādivāra)](/tipitaka/39P3/14/14.4/14.4.1--7.md) / [Go to parent page (14.4.1--7 Paṭiccādivāra)](/tipitaka/39P3/14/14.4/14.4.1--7.md) / [Go to next page (14.5 Saraṇaduka, Saṃkiliṭṭhattika)](/tipitaka/39P3/14/14.5.md)
 

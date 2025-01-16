@@ -17,7 +17,7 @@
 
 (25.)
 
-4115. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve.
+4115\. Nadassanena pahātabbo dhammo nadassanena pahātabbassa dhammassa vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve.
 
 [Go to previous page (Kamma)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Kamma.md) / [Go to parent page (13.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/13/13.1/13.1.7/13.1.7.1/13.1.7.1.1/Vippayutta.md)
 

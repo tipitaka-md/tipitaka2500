@@ -17,11 +17,11 @@
 
 (74.)
 
-2267. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+2267\. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
 
-2268. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+2268\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
 
-2269. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa āsevanapaccayena paccayo…  dve.
+2269\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa āsevanapaccayena paccayo…  dve.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Purejata.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md) / [Go to next page (Kammādi)](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Kammadi.md)
 

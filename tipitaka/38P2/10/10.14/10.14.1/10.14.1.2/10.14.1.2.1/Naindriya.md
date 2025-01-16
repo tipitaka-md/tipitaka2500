@@ -17,9 +17,9 @@
 
 (428.)
 
-3402. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati naindriyapaccayā—  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ. (1)
+3402\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati naindriyapaccayā—  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ. (1)
 
-3403. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
+3403\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
 
 [Go to previous page (Naāhāra)](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Naahara.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1.md) / [Go to next page (Najhānādi)](/tipitaka/38P2/10/10.14/10.14.1/10.14.1.2/10.14.1.2.1/Najhanadi.md)
 

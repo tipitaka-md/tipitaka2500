@@ -13,7 +13,7 @@
 
 (167.)
 
-595. Nissayapaccayā nahetuyā cattāri. (Nissayapaccayā yathā sahajātapaccayā.)
+595\. Nissayapaccayā nahetuyā cattāri. (Nissayapaccayā yathā sahajātapaccayā.)
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.3/2.3.3/Annamannaduka/Catukka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](/tipitaka/36P1/2/2.3/2.3.3.md) / [Go to next page (Upanissayaduka)](/tipitaka/36P1/2/2.3/2.3.3/Upanissayaduka.md)
 

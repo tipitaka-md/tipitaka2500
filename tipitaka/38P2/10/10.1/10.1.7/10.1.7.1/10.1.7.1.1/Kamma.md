@@ -17,11 +17,11 @@
 
 (36.)
 
-2390. Sārammaṇo dhammo sārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sārammaṇā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sārammaṇā cetanā vipākānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+2390\. Sārammaṇo dhammo sārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sārammaṇā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sārammaṇā cetanā vipākānaṃ khandhānaṃ kammapaccayena paccayo. (1)
 
-2391. Sārammaṇo dhammo anārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sārammaṇā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sārammaṇā cetanā kaṭattārūpānaṃ kammapaccayena paccayo. (2)
+2391\. Sārammaṇo dhammo anārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sārammaṇā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sārammaṇā cetanā kaṭattārūpānaṃ kammapaccayena paccayo. (2)
 
-2392. Sārammaṇo dhammo sārammaṇassa ca anārammaṇassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sārammaṇā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sārammaṇā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+2392\. Sārammaṇo dhammo sārammaṇassa ca anārammaṇassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sārammaṇā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sārammaṇā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
 
 [Go to previous page (Pacchājātāsevana)](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1/Pacchajatasevana.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1.md) / [Go to next page (Vipāka-āhāra)](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1/Vipaka-ahara.md)
 

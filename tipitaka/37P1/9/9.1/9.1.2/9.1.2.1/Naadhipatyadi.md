@@ -15,7 +15,7 @@
 
 (19.)
 
-829. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati naadhipatipaccayā…  (paripuṇṇaṃ hetupaccayasadisaṃ) naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
+829\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati naadhipatipaccayā…  (paripuṇṇaṃ hetupaccayasadisaṃ) naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
 
 [Go to previous page (Naārammaṇa)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Naarammana.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md) / [Go to next page (Napurejāta)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Napurejata.md)
 

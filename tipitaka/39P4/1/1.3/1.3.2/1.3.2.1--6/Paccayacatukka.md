@@ -15,7 +15,7 @@
 
 (43.)
 
-142. Vipākaṃ nahetuṃ dhammaṃ paṭicca vipāko nahetu dhammo uppajjati hetupaccayā. Vipākaṃ nahetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. Vipākaṃ nahetuṃ dhammaṃ paṭicca vipāko nahetu ca nevavipākanavipākadhammadhammo nahetu ca dhammā uppajjanti hetupaccayā. (3)
+142\. Vipākaṃ nahetuṃ dhammaṃ paṭicca vipāko nahetu dhammo uppajjati hetupaccayā. Vipākaṃ nahetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. Vipākaṃ nahetuṃ dhammaṃ paṭicca vipāko nahetu ca nevavipākanavipākadhammadhammo nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
 ### Tika, Hetuduka
 
@@ -27,7 +27,7 @@
 
 ### Paccayacatukka
 
-143. Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca vipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca vipākadhammadhammo nahetu ca nevavipākanavipākadhammadhammo nahetu ca dhammā uppajjanti hetupaccayā. (3)
+143\. Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca vipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. Vipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca vipākadhammadhammo nahetu ca nevavipākanavipākadhammadhammo nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
 ### Tika, Hetuduka
 
@@ -39,7 +39,7 @@
 
 ### Paccayacatukka
 
-144. Nevavipākanavipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+144\. Nevavipākanavipākadhammadhammaṃ nahetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā…  tīṇi.
 
 ### Tika, Hetuduka
 
@@ -51,7 +51,7 @@
 
 ### Paccayacatukka
 
-145. Vipākaṃ nahetuñca nevavipākanavipākadhammadhammaṃ nahetuñca dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+145\. Vipākaṃ nahetuñca nevavipākanavipākadhammadhammaṃ nahetuñca dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā…  tīṇi.
 
 ### Tika, Hetuduka
 
@@ -63,7 +63,7 @@
 
 ### Paccayacatukka
 
-146. Vipākadhammadhammaṃ nahetuñca nevavipākanavipākadhammadhammaṃ nahetuñca dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+146\. Vipākadhammadhammaṃ nahetuñca nevavipākanavipākadhammadhammaṃ nahetuñca dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 ### Tika, Hetuduka
 
@@ -77,7 +77,7 @@
 
 (44.)
 
-147. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava, anantare pañca, samanantare pañca, sahajāte terasa, aññamaññe satta, nissaye terasa, upanissaye pañca, purejāte tīṇi, āsevane dve, kamme terasa, vipāke nava, āhāre terasa…pe…  sampayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
+147\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava, anantare pañca, samanantare pañca, sahajāte terasa, aññamaññe satta, nissaye terasa, upanissaye pañca, purejāte tīṇi, āsevane dve, kamme terasa, vipāke nava, āhāre terasa…pe…  sampayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
 
 * [Nahetu-naārammaṇa](/tipitaka/39P4/1/1.3/1.3.2/1.3.2.1--6/Paccayacatukka/Nahetu-naarammana.md)
 

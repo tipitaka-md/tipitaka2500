@@ -15,7 +15,7 @@
 
 (450.)
 
-1424. Vipākapaccayā nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (19)
+1424\. Vipākapaccayā nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (19)
 
 [Go to previous page (Vipāka)](/tipitaka/36P1/2/2.7/2.7.3/Vipaka.md) / [Go to parent page (Vipāka)](/tipitaka/36P1/2/2.7/2.7.3/Vipaka.md) / [Go to next page (Vipākaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Vipaka/Vipakaghatana.md)
 

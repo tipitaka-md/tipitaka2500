@@ -17,7 +17,7 @@
 
 (34.)
 
-91. Hetu dhammo hetussa dhammassa vipākapaccayena paccayo—  vipāko alobho adosassa amohassa vipākapaccayena paccayo. (Paṭiccavārasadisaṃ. Vipākavibhaṅge nava pañhā.)
+91\. Hetu dhammo hetussa dhammassa vipākapaccayena paccayo—  vipāko alobho adosassa amohassa vipākapaccayena paccayo. (Paṭiccavārasadisaṃ. Vipākavibhaṅge nava pañhā.)
 
 [Go to previous page (Kamma)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Kamma.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1.md) / [Go to next page (Āhāra)](/tipitaka/38P2/1/1.1/1.1.7/1.1.7.1/1.1.7.1.1/Ahara.md)
 

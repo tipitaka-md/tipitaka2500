@@ -15,29 +15,29 @@
 
 (1.)
 
-640. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā—  pītisahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+640\. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā—  pītisahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
 
-641. Pītisahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  pītisahagataṃ ekaṃ khandhaṃ paṭicca sukhasahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagataṃ ekaṃ khandhaṃ paṭicca sukhasahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (2)
+641\. Pītisahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  pītisahagataṃ ekaṃ khandhaṃ paṭicca sukhasahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagataṃ ekaṃ khandhaṃ paṭicca sukhasahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (2)
 
-642. Pītisahagataṃ dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (3)
+642\. Pītisahagataṃ dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (3)
 
 (2.)
 
-643. Sukhasahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  sukhasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe sukhasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. (1)
+643\. Sukhasahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  sukhasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe sukhasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. (1)
 
-644. Sukhasahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā—  sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (2)
+644\. Sukhasahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā—  sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (2)
 
-645. Sukhasahagataṃ dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
+645\. Sukhasahagataṃ dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe sukhasahagataṃ ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
 
 (3.)
 
-646. Upekkhāsahagataṃ dhammaṃ paṭicca upekkhāsahagato dhammo uppajjati hetupaccayā—  upekkhāsahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe…pe… . (1)
+646\. Upekkhāsahagataṃ dhammaṃ paṭicca upekkhāsahagato dhammo uppajjati hetupaccayā—  upekkhāsahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe…pe… . (1)
 
-647. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+647\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato dhammo uppajjati hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
 
-648. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. (2)
+648\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca sukhasahagato dhammo uppajjati hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca sukhasahagatā dve khandhā, dve khandhe paṭicca eko khandho. (2)
 
-649. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
+649\. Pītisahagatañca sukhasahagatañca dhammaṃ paṭicca pītisahagato ca sukhasahagato ca dhammā uppajjanti hetupaccayā—  pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. Paṭisandhikkhaṇe pītisahagatañca sukhasahagatañca ekaṃ khandhaṃ paṭicca pītisahagatā ca sukhasahagatā ca dve khandhā, dve khandhe paṭicca eko khandho. (3)
 
 [Go to previous page (8.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md) / [Go to parent page (8.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1.md) / [Go to next page (Ārammaṇādi)](/tipitaka/37P1/8/8.1/8.1.1/8.1.1.1/Arammanadi.md)
 

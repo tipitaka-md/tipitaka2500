@@ -13,7 +13,7 @@
 
 (93.)
 
-386. Naindriyapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+386\. Naindriyapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Naāhāraduka)](/tipitaka/36P1/2/2.1/2.1.4/Naaharaduka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.1/2.1.4.md) / [Go to next page (Najhānaduka)](/tipitaka/36P1/2/2.1/2.1.4/Najhanaduka.md)
 

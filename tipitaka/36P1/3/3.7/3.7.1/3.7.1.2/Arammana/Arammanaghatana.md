@@ -17,7 +17,7 @@
 
 (67.)
 
-1955. Ārammaṇādhipati upanissayanti cattāri.
+1955\. Ārammaṇādhipati upanissayanti cattāri.
 
 [Go to previous page (Ārammaṇasabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Arammana/Arammanasabhaga.md) / [Go to parent page (Ārammaṇa)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Arammana.md) / [Go to next page (Adhipati)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Adhipati.md)
 

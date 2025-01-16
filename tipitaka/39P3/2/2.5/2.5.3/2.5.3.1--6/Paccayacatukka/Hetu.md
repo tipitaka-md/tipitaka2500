@@ -17,9 +17,9 @@
 
 (86.)
 
-1435. Hetuñceva hetusampayuttañca abyākataṃ dhammaṃ paṭicca hetu ceva hetusampayutto ca abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1435\. Hetuñceva hetusampayuttañca abyākataṃ dhammaṃ paṭicca hetu ceva hetusampayutto ca abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-1436. Hetuyā nava, ārammaṇe nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1436\. Hetuyā nava, ārammaṇe nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.3/2.5.3.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.5/2.5.3/2.5.3.1--6/Paccayacatukka.md) / [Go to next page (Naadhipati)](/tipitaka/39P3/2/2.5/2.5.3/2.5.3.1--6/Paccayacatukka/Naadhipati.md)
 

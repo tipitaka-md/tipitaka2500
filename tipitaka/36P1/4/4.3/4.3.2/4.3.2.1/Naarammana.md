@@ -15,7 +15,7 @@
 
 (77.)
 
-2235. Vipākaṃ dhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ. Sabbāni padāni vitthāretabbāni.)
+2235\. Vipākaṃ dhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ. Sabbāni padāni vitthāretabbāni.)
 
 [Go to previous page (Nahetu)](/tipitaka/36P1/4/4.3/4.3.2/4.3.2.1/Nahetu.md) / [Go to parent page (4.3.2.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.3/4.3.2/4.3.2.1.md) / [Go to next page (4.3.2.2 Saṅkhyāvāra)](/tipitaka/36P1/4/4.3/4.3.2/4.3.2.2.md)
 

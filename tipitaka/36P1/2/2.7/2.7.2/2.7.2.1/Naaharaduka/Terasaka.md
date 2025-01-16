@@ -15,7 +15,7 @@
 
 ### Terasaka
 
-1237. Naāhārapaccayā nahetupaccayā…pe…  napurejātapaccayā napacchājātapaccayā naāsevane tīṇi, nakamme ekaṃ, navipāke tīṇi, naindriye dve, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve…pe… .
+1237\. Naāhārapaccayā nahetupaccayā…pe…  napurejātapaccayā napacchājātapaccayā naāsevane tīṇi, nakamme ekaṃ, navipāke tīṇi, naindriye dve, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve…pe… .
 
 [Go to previous page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Ekadasaka.md) / [Go to parent page (Naāhāraduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md) / [Go to next page (Pannarasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Pannarasaka.md)
 

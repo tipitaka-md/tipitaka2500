@@ -13,7 +13,7 @@
 
 ### Tevīsaka
 
-317. Vipākapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā kammapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigatapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
+317\. Vipākapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā kammapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigatapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
 
 [Go to previous page (Pañcaka)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Pancaka.md) / [Go to parent page (Vipākaduka)](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka.md) / [Go to next page (Āhāraduka)](/tipitaka/36P1/2/2.1/2.1.3/Aharaduka.md)
 

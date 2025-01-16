@@ -13,7 +13,7 @@
 
 ### Tika
 
-576. Hetupaccayā ārammaṇapaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, navippayutte tīṇi…pe… .
+576\. Hetupaccayā ārammaṇapaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, navippayutte tīṇi…pe… .
 
 [Go to previous page (Hetuduka)](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka.md) / [Go to next page (Ekādasaka)](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka/Ekadasaka.md)
 

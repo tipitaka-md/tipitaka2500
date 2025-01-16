@@ -13,7 +13,7 @@
 
 ### Pañcaka
 
-340. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
+340\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka/Catukka.md) / [Go to parent page (Vippayuttaduka)](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka.md) / [Go to next page (Dvādasaka)](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka/Dvadasaka.md)
 

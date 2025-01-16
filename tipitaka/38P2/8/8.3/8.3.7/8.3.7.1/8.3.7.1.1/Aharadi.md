@@ -17,7 +17,7 @@
 
 (78.)
 
-2053. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  dve.
+2053\. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…  dve.
 
 [Go to previous page (Kammādi)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Kammadi.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Vippayutta.md)
 

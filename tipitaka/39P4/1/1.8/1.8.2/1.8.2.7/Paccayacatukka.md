@@ -15,23 +15,23 @@
 
 (122.)
 
-425. Dassanena pahātabbo nahetu dhammo dassanena pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo. Dassanena pahātabbo hetu dhammo nevadassanena nabhāvanāya pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo…  dve.
+425\. Dassanena pahātabbo nahetu dhammo dassanena pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo. Dassanena pahātabbo hetu dhammo nevadassanena nabhāvanāya pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo…  dve.
 
-426. Bhāvanāya pahātabbo nahetu dhammo bhāvanāya pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+426\. Bhāvanāya pahātabbo nahetu dhammo bhāvanāya pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
 
-427. Nevadassanena nabhāvanāya pahātabbo nahetu dhammo nevadassanena nabhāvanāya pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+427\. Nevadassanena nabhāvanāya pahātabbo nahetu dhammo nevadassanena nabhāvanāya pahātabbassa nahetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
 
 (123.)
 
-428. Ārammaṇe aṭṭha, adhipatiyā dasa, anantare samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte pacchājāte āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
+428\. Ārammaṇe aṭṭha, adhipatiyā dasa, anantare samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte pacchājāte āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
 
-429. Nahetuyā cuddasa, naārammaṇe cuddasa. (Saṃkhittaṃ.)
+429\. Nahetuyā cuddasa, naārammaṇe cuddasa. (Saṃkhittaṃ.)
 
-430. Ārammaṇapaccayā nahetuyā aṭṭha. (Saṃkhittaṃ.)
+430\. Ārammaṇapaccayā nahetuyā aṭṭha. (Saṃkhittaṃ.)
 
-431. Nahetupaccayā ārammaṇe aṭṭha. (Saṃkhittaṃ.)
+431\. Nahetupaccayā ārammaṇe aṭṭha. (Saṃkhittaṃ.)
 
-432. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+432\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
 [Go to previous page (1.8.2.7 Pañhāvāra)](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md) / [Go to parent page (1.8.2.7 Pañhāvāra)](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md) / [Go to next page (1.9 Dassanenapahātabbahetukattika, Hetuduka)](/tipitaka/39P4/1/1.9.md)
 

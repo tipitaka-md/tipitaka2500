@@ -17,7 +17,7 @@
 
 (113.)
 
-3797. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava (sabbattha nava), noavigate nava.
+3797\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava (sabbattha nava), noavigate nava.
 
 [Go to previous page (11.5.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.2/11.5.7.2.1.md) / [Go to parent page (11.5.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.2/11.5.7.2.1.md) / [Go to next page (11.5.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.3.md)
 

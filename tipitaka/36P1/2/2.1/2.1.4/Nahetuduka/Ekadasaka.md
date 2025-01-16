@@ -13,9 +13,9 @@
 
 ### Ekādasaka
 
-357. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā.
+357\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā.
 
-358. (Yāvāsevanā sabbaṃ sadisaṃ, nakamme gaṇite pañca pañhā honti.)
+358\. (Yāvāsevanā sabbaṃ sadisaṃ, nakamme gaṇite pañca pañhā honti.)
 
 [Go to previous page (Sattaka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka/Sattaka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka.md) / [Go to next page (Dvādasaka)](/tipitaka/36P1/2/2.1/2.1.4/Nahetuduka/Dvadasaka.md)
 

@@ -13,7 +13,7 @@
 
 (187.)
 
-655. Naāhārapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+655\. Naāhārapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.3/2.3.4/Navipakaduka/Catukka.md) / [Go to parent page (2.3.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/2/2.3/2.3.4.md) / [Go to next page (Naindriyaduka)](/tipitaka/36P1/2/2.3/2.3.4/Naindriyaduka.md)
 

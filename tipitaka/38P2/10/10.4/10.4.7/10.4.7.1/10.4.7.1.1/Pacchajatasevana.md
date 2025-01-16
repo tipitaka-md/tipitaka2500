@@ -17,7 +17,7 @@
 
 (171.)
 
-2729. Cittasampayutto dhammo cittavippayuttassa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ) ekaṃ, āsevanapaccayena paccayo…  ekaṃ.
+2729\. Cittasampayutto dhammo cittavippayuttassa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ) ekaṃ, āsevanapaccayena paccayo…  ekaṃ.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Purejata.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1/Kamma.md)
 

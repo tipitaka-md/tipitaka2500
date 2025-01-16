@@ -17,15 +17,15 @@
 
 (397.)
 
-856. Hetuṃ appamāṇārammaṇaṃ dhammaṃ paṭicca hetu appamāṇārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+856\. Hetuṃ appamāṇārammaṇaṃ dhammaṃ paṭicca hetu appamāṇārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
 
-857. Nahetuṃ appamāṇārammaṇaṃ dhammaṃ paṭicca nahetu appamāṇārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+857\. Nahetuṃ appamāṇārammaṇaṃ dhammaṃ paṭicca nahetu appamāṇārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
 
-858. Hetuṃ appamāṇārammaṇañca nahetuṃ appamāṇārammaṇañca dhammaṃ paṭicca hetu appamāṇārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+858\. Hetuṃ appamāṇārammaṇañca nahetuṃ appamāṇārammaṇañca dhammaṃ paṭicca hetu appamāṇārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 (398.)
 
-859. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+859\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.13/1.13.3/1.13.3.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.13/1.13.3/1.13.3.1--6/Paccayacatukka.md) / [Go to next page (Nahetu)](/tipitaka/39P3/1/1.13/1.13.3/1.13.3.1--6/Paccayacatukka/Nahetu.md)
 

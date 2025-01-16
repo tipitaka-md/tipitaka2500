@@ -13,7 +13,7 @@
 
 (73.)
 
-313. Vipākapaccayā nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+313\. Vipākapaccayā nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
 
 * [Tika](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Tika.md)
 * [Catukka](/tipitaka/36P1/2/2.1/2.1.3/Vipakaduka/Catukka.md)

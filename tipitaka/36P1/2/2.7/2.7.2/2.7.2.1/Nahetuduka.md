@@ -15,7 +15,7 @@
 
 (397.)
 
-1175. Nahetupaccayā naārammaṇe pannarasa, naadhipatiyā pannarasa, naanantare pannarasa, nasamanantare pannarasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye pannarasa, napurejāte terasa, napacchājāte pannarasa, naāsevane pannarasa, nakamme pannarasa, navipāke pannarasa, naāhāre pannarasa, naindriye pannarasa, najhāne pannarasa, namagge pannarasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā pannarasa, novigate pannarasa, noavigate nava.
+1175\. Nahetupaccayā naārammaṇe pannarasa, naadhipatiyā pannarasa, naanantare pannarasa, nasamanantare pannarasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye pannarasa, napurejāte terasa, napacchājāte pannarasa, naāsevane pannarasa, nakamme pannarasa, navipāke pannarasa, naāhāre pannarasa, naindriye pannarasa, najhāne pannarasa, namagge pannarasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā pannarasa, novigate pannarasa, noavigate nava.
 
 * [Tika](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Tika.md)
 * [Chakka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nahetuduka/Chakka.md)

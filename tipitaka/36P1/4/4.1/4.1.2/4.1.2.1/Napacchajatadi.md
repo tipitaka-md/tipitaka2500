@@ -15,7 +15,7 @@
 
 (38.)
 
-2120. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati napacchājātapaccayā…pe…  naāsevanapaccayā. (Saṃkhittaṃ.)
+2120\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati napacchājātapaccayā…pe…  naāsevanapaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Napurejāta)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Napurejata.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1.md) / [Go to next page (Nakamma)](/tipitaka/36P1/4/4.1/4.1.2/4.1.2.1/Nakamma.md)
 

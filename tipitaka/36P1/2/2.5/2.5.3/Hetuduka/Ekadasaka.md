@@ -13,7 +13,7 @@
 
 ### Ekādasaka
 
-755. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
+755\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
 
 [Go to previous page (Catukka)](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka/Catukka.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka.md) / [Go to next page (Dvādasaka (sāsevana))](/tipitaka/36P1/2/2.5/2.5.3/Hetuduka/vadasaka_sasevana.md)
 

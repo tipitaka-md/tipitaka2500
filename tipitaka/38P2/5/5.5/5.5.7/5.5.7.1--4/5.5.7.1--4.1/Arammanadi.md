@@ -17,11 +17,11 @@
 
 (115.)
 
-1877. Gantho ceva ganthasampayutto ca dhammo ganthassa ceva ganthasampayuttassa ca dhammassa ārammaṇapaccayena paccayo—  ganthe ārabbha ganthā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthe ārabbha ganthasampayuttā ceva no ca ganthā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthe ārabbha ganthā ca ganthasampayuttakā ca khandhā uppajjanti. (3)
+1877\. Gantho ceva ganthasampayutto ca dhammo ganthassa ceva ganthasampayuttassa ca dhammassa ārammaṇapaccayena paccayo—  ganthe ārabbha ganthā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthe ārabbha ganthasampayuttā ceva no ca ganthā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthe ārabbha ganthā ca ganthasampayuttakā ca khandhā uppajjanti. (3)
 
-1878. Ganthasampayutto ceva no ca gantho dhammo ganthasampayuttassa ceva no ca ganthassa dhammassa ārammaṇapaccayena paccayo—  ganthasampayutte ceva no ca ganthe khandhe ārabbha ganthasampayuttā ceva no ca ganthā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthasampayutte ceva no ca ganthe khandhe ārabbha ganthā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthasampayutte ceva no ca ganthe khandhe ārabbha ganthā ca ganthasampayuttakā ca khandhā uppajjanti. (3)
+1878\. Ganthasampayutto ceva no ca gantho dhammo ganthasampayuttassa ceva no ca ganthassa dhammassa ārammaṇapaccayena paccayo—  ganthasampayutte ceva no ca ganthe khandhe ārabbha ganthasampayuttā ceva no ca ganthā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthasampayutte ceva no ca ganthe khandhe ārabbha ganthā uppajjanti. (Mūlaṃ kātabbaṃ.) Ganthasampayutte ceva no ca ganthe khandhe ārabbha ganthā ca ganthasampayuttakā ca khandhā uppajjanti. (3)
 
-1879. (Evaṃ itarepi tīṇi pañhā kātabbā ārammaṇasadisaṃyeva. Adhipatiyāpi anantarepi upanissayepi vibhāgo natthi.)
+1879\. (Evaṃ itarepi tīṇi pañhā kātabbā ārammaṇasadisaṃyeva. Adhipatiyāpi anantarepi upanissayepi vibhāgo natthi.)
 
 [Go to previous page (Hetu)](/tipitaka/38P2/5/5.5/5.5.7/5.5.7.1--4/5.5.7.1--4.1/Hetu.md) / [Go to parent page (5.5.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.5/5.5.7/5.5.7.1--4/5.5.7.1--4.1.md) / [Go to next page (5.5.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/5/5.5/5.5.7/5.5.7.1--4/5.5.7.1.2.md)
 

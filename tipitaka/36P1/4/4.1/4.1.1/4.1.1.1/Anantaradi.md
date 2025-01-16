@@ -15,9 +15,9 @@
 
 (13.)
 
-2066. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati anantarapaccayā…  samanantarapaccayā…  (ārammaṇapaccayasadisaṃ) sahajātapaccayā… . (Sahajātaṃ sabbaṃ hetupaccayasadisaṃ.)
+2066\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati anantarapaccayā…  samanantarapaccayā…  (ārammaṇapaccayasadisaṃ) sahajātapaccayā… . (Sahajātaṃ sabbaṃ hetupaccayasadisaṃ.)
 
-2067. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati sahajātapaccayā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ. (Sahajāte idaṃ nānākaraṇaṃ.)
+2067\. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati sahajātapaccayā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ. (Sahajāte idaṃ nānākaraṇaṃ.)
 
 [Go to previous page (Adhipati)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Adhipati.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1.md) / [Go to next page (Aññamañña)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Annamanna.md)
 

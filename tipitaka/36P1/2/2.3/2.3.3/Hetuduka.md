@@ -13,7 +13,7 @@
 
 (162.)
 
-575. Hetupaccayā naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme satta, navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+575\. Hetupaccayā naārammaṇe pañca, naadhipatiyā sattarasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme satta, navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 * [Tika](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka/Tika.md)
 * [Ekādasaka](/tipitaka/36P1/2/2.3/2.3.3/Hetuduka/Ekadasaka.md)

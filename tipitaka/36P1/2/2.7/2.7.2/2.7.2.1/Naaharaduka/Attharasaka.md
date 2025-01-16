@@ -15,7 +15,7 @@
 
 ### Aṭṭhārasaka
 
-1239. Naāhārapaccayā nahetupaccayā…pe…  nakammapaccayā navipākapaccayā najhānapaccayā namaggapaccayā nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (Saṃkhittaṃ.)
+1239\. Naāhārapaccayā nahetupaccayā…pe…  nakammapaccayā navipākapaccayā najhānapaccayā namaggapaccayā nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (Saṃkhittaṃ.)
 
 [Go to previous page (Pannarasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Pannarasaka.md) / [Go to parent page (Naāhāraduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md) / [Go to next page (Naindriyaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka.md)
 

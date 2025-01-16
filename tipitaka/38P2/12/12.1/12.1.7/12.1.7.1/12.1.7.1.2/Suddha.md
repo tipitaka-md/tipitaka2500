@@ -17,7 +17,7 @@
 
 (32.)
 
-3902. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
+3902\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
 
 [Go to previous page (12.1.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.2.md) / [Go to parent page (12.1.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/38P2/12/12.1/12.1.7/Paccaniyuddhara.md)
 

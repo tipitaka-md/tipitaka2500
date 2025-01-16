@@ -15,7 +15,7 @@
 
 (16.)
 
-2075. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati nissayapaccayā (saṃkhittaṃ)…  upanissayapaccayā…  purejātapaccayā.
+2075\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati nissayapaccayā (saṃkhittaṃ)…  upanissayapaccayā…  purejātapaccayā.
 
 [Go to previous page (Aññamañña)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Annamanna.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1.md) / [Go to next page (Āsevana)](/tipitaka/36P1/4/4.1/4.1.1/4.1.1.1/Asevana.md)
 

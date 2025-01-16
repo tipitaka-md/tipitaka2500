@@ -17,7 +17,7 @@
 
 (380.)
 
-1141. Atthi avigatanti terasa. Atthi nissaya avigatanti terasa. Atthi adhipati avigatanti aṭṭha. Atthi adhipati nissaya avigatanti aṭṭha. Atthi āhāra avigatanti satta. Atthi indriya avigatanti satta. Atthi nissaya indriya avigatanti satta. Atthi vippayutta avigatanti pañca. Atthi nissaya vippayutta avigatanti pañca. Atthi adhipati nissaya vippayutta avigatanti cattāri. Atthi nissaya indriya vippayutta avigatanti tīṇi.
+1141\. Atthi avigatanti terasa. Atthi nissaya avigatanti terasa. Atthi adhipati avigatanti aṭṭha. Atthi adhipati nissaya avigatanti aṭṭha. Atthi āhāra avigatanti satta. Atthi indriya avigatanti satta. Atthi nissaya indriya avigatanti satta. Atthi vippayutta avigatanti pañca. Atthi nissaya vippayutta avigatanti pañca. Atthi adhipati nissaya vippayutta avigatanti cattāri. Atthi nissaya indriya vippayutta avigatanti tīṇi.
 
 [Go to previous page (Atthisabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Atthi/Atthisabhaga.md) / [Go to parent page (Atthi)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Atthi.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Atthi/Pakinnakaghatana.md)
 

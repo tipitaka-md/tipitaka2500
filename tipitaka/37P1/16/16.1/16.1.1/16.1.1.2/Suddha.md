@@ -15,11 +15,11 @@
 
 (6.)
 
-2273. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Evaṃ gaṇetabbaṃ.)
+2273\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Evaṃ gaṇetabbaṃ.)
 
 ---
 
-2274. Anulomaṃ.
+2274\. Anulomaṃ.
 
 
 

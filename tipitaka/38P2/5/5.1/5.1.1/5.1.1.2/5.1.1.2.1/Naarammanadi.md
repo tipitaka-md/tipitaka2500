@@ -17,13 +17,13 @@
 
 (6.)
 
-1626. Ganthaṃ dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  ganthe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1626\. Ganthaṃ dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  ganthe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-1627. Noganthaṃ dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  noganthe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+1627\. Noganthaṃ dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  noganthe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-1628. Ganthañca noganthañca dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  ganthe ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
+1628\. Ganthañca noganthañca dhammaṃ paṭicca nogantho dhammo uppajjati naārammaṇapaccayā—  ganthe ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
 
-1629. Naadhipatipaccayā…  nava, naanantarapaccayā…  tīṇi, nasamanantarapaccayā…  tīṇi, naaññamaññapaccayā…  tīṇi, naupanissayapaccayā…  tīṇi.
+1629\. Naadhipatipaccayā…  nava, naanantarapaccayā…  tīṇi, nasamanantarapaccayā…  tīṇi, naaññamaññapaccayā…  tīṇi, naupanissayapaccayā…  tīṇi.
 
 [Go to previous page (Nahetu)](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Nahetu.md) / [Go to parent page (5.1.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1.md) / [Go to next page (Napurejātādi)](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Napurejatadi.md)
 

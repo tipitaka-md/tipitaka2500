@@ -15,7 +15,7 @@
 
 (11.)
 
-1454. Ācayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā (kusalattikasadisā satta pañhā)…  napacchājātapaccayā.
+1454\. Ācayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā (kusalattikasadisā satta pañhā)…  napacchājātapaccayā.
 
 [Go to previous page (Naadhipati)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Naadhipati.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1.md) / [Go to next page (Naāsevana)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Naasevana.md)
 

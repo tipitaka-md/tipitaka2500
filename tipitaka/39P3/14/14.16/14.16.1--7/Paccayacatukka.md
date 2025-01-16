@@ -13,21 +13,21 @@
 
 (55.)
 
-2718. Araṇaṃ maggārammaṇaṃ dhammaṃ paṭicca araṇo maggārammaṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2718\. Araṇaṃ maggārammaṇaṃ dhammaṃ paṭicca araṇo maggārammaṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2719. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2719\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 (56.)
 
-2720. Araṇaṃ maggahetukaṃ dhammaṃ paṭicca araṇo maggahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2720\. Araṇaṃ maggahetukaṃ dhammaṃ paṭicca araṇo maggahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2721. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2721\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 (57.)
 
-2722. Araṇaṃ maggādhipatiṃ dhammaṃ paṭicca araṇo maggādhipati dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2722\. Araṇaṃ maggādhipatiṃ dhammaṃ paṭicca araṇo maggādhipati dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
-2723. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2723\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 [Go to previous page (14.16.1--7 Paṭiccādivāra)](/tipitaka/39P3/14/14.16/14.16.1--7.md) / [Go to parent page (14.16.1--7 Paṭiccādivāra)](/tipitaka/39P3/14/14.16/14.16.1--7.md) / [Go to next page (14.17 Saraṇaduka, Uppannattika)](/tipitaka/39P3/14/14.17.md)
 

@@ -15,7 +15,7 @@
 
 ### Sahajātaghaṭanā
 
-1973. Kamma sahajāta aññamañña nissaya āhāra sampayutta atthi avigatanti tīṇi. Kamma sahajāta aññamañña nissaya vipāka āhāra sampayutta atthi avigatanti tīṇi.
+1973\. Kamma sahajāta aññamañña nissaya āhāra sampayutta atthi avigatanti tīṇi. Kamma sahajāta aññamañña nissaya vipāka āhāra sampayutta atthi avigatanti tīṇi.
 
 [Go to previous page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma/Pakinnakaghatana.md) / [Go to parent page (Kamma)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Kamma.md) / [Go to next page (Vipāka)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka.md)
 

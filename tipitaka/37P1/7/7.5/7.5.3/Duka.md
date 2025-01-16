@@ -13,11 +13,11 @@
 
 (64.)
 
-266. Hetupaccayā naadhipatiyā ekādasa…pe…  navippayutte ekādasa. (Saṃkhittaṃ.)
+266\. Hetupaccayā naadhipatiyā ekādasa…pe…  navippayutte ekādasa. (Saṃkhittaṃ.)
 
 ---
 
-267. Anulomapaccanīyaṃ.
+267\. Anulomapaccanīyaṃ.
 
 
 

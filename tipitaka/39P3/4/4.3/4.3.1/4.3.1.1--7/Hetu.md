@@ -15,13 +15,13 @@
 
 (20.)
 
-1626. Āsavavippayuttaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1626\. Āsavavippayuttaṃ kusalaṃ dhammaṃ paṭicca āsavavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (21.)
 
-1627. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1627\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-1628. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1628\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 [Go to previous page (4.3.1.1--7 Paṭiccādivāra)](/tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7.md) / [Go to parent page (4.3.1.1--7 Paṭiccādivāra)](/tipitaka/39P3/4/4.3/4.3.1/4.3.1.1--7.md) / [Go to next page (4.3.2 Akusalapada)](/tipitaka/39P3/4/4.3/4.3.2.md)
 

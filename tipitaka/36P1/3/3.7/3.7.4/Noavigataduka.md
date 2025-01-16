@@ -13,7 +13,7 @@
 
 (90.)
 
-2034. Noavigatapaccayā ārammaṇe nava, adhipatiyā cattāri, anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme aṭṭha, natthiyā satta, vigate satta…pe… .
+2034\. Noavigatapaccayā ārammaṇe nava, adhipatiyā cattāri, anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme aṭṭha, natthiyā satta, vigate satta…pe… .
 
 * [Catukka](/tipitaka/36P1/3/3.7/3.7.4/Noavigataduka/Catukka.md)
 

@@ -17,7 +17,7 @@
 
 (325.)
 
-1045. Nissayapaccayā hetuyā satta, ārammaṇe tīṇi, adhipatiyā aṭṭha, sahajāte nava, aññamaññe tīṇi, upanissaye ekaṃ, purejāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, avigate terasa. (17)
+1045\. Nissayapaccayā hetuyā satta, ārammaṇe tīṇi, adhipatiyā aṭṭha, sahajāte nava, aññamaññe tīṇi, upanissaye ekaṃ, purejāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, avigate terasa. (17)
 
 [Go to previous page (Nissaya)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Nissaya.md) / [Go to parent page (Nissaya)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Nissaya.md) / [Go to next page (Nissayamissakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Nissaya/Nissayamissakaghatana.md)
 

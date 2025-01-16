@@ -13,7 +13,7 @@
 
 ### Dvādasaka (sāsevana)
 
-282. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
+282\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
 
 [Go to previous page (Ekādasaka)](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka/Ekadasaka.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka.md) / [Go to next page (Tevīsaka (sāsevana))](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka/evisaka_sasevana.md)
 

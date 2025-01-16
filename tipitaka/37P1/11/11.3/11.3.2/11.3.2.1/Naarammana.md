@@ -15,7 +15,7 @@
 
 (27.)
 
-1506. Ācayagāmiṃ dhammaṃ paccayā nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ. Paṭiccavārasadisaṃ.)
+1506\. Ācayagāmiṃ dhammaṃ paccayā nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ. Paṭiccavārasadisaṃ.)
 
 [Go to previous page (Nahetu)](/tipitaka/37P1/11/11.3/11.3.2/11.3.2.1/Nahetu.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.3/11.3.2/11.3.2.1.md) / [Go to next page (Naadhipati)](/tipitaka/37P1/11/11.3/11.3.2/11.3.2.1/Naadhipati.md)
 

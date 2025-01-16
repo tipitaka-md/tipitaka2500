@@ -15,11 +15,11 @@
 
 (289.)
 
-936. Kusalo dhammo abyākatassa dhammassa pacchājātapaccayena paccayo—  pacchājātā kusalā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+936\. Kusalo dhammo abyākatassa dhammassa pacchājātapaccayena paccayo—  pacchājātā kusalā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-937. Akusalo dhammo abyākatassa dhammassa pacchājātapaccayena paccayo—  pacchājātā akusalā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+937\. Akusalo dhammo abyākatassa dhammassa pacchājātapaccayena paccayo—  pacchājātā akusalā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-938. Abyākato dhammo abyākatassa dhammassa pacchājātapaccayena paccayo—  pacchājātā vipākābyākatā kiriyābyākatā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+938\. Abyākato dhammo abyākatassa dhammassa pacchājātapaccayena paccayo—  pacchājātā vipākābyākatā kiriyābyākatā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 [Go to previous page (Purejāta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Purejata.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Asevana.md)
 

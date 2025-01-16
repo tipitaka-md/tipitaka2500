@@ -15,7 +15,7 @@
 
 (408.)
 
-1240. Naindriyapaccayā nahetuyā pannarasa, naārammaṇe pannarasa…pe…  noavigate nava…pe… .
+1240\. Naindriyapaccayā nahetuyā pannarasa, naārammaṇe pannarasa…pe…  noavigate nava…pe… .
 
 * [Catukka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Catukka.md)
 * [Aṭṭhaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naindriyaduka/Atthaka.md)

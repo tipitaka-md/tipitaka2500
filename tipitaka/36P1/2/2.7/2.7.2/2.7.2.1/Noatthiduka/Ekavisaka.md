@@ -15,7 +15,7 @@
 
 ### Ekavīsaka
 
-1262. Noatthipaccayā nahetupaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā…pe…  navippayuttapaccayā nonatthiyā dve, novigate dve, noavigate dve.
+1262\. Noatthipaccayā nahetupaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā…pe…  navippayuttapaccayā nonatthiyā dve, novigate dve, noavigate dve.
 
 [Go to previous page (Sattarasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Sattarasaka.md) / [Go to parent page (Noatthiduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka.md) / [Go to next page (Tevīsaka (saupanissaya))](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/evisaka_saupanissaya.md)
 

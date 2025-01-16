@@ -17,17 +17,17 @@
 
 (65.)
 
-1394. Hetuñceva sahetukañca abyākataṃ dhammaṃ paṭicca hetu ceva sahetuko ca abyākato dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+1394\. Hetuñceva sahetukañca abyākataṃ dhammaṃ paṭicca hetu ceva sahetuko ca abyākato dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
 
 (66.)
 
-1395. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+1395\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
 
-1396. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+1396\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
 
-1397. Naadhipatipaccayā hetuyā nava. (Saṃkhittaṃ.)
+1397\. Naadhipatipaccayā hetuyā nava. (Saṃkhittaṃ.)
 
-1398. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1398\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/2/2.4/2.4.3/2.4.3.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/2/2.4/2.4.3/2.4.3.1--6/Paccayacatukka.md) / [Go to next page (2.4.3.7 Pañhāvāra)](/tipitaka/39P3/2/2.4/2.4.3/2.4.3.7.md)
 

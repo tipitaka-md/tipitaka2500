@@ -17,15 +17,15 @@
 
 (389.)
 
-835. Hetuṃ mahaggatārammaṇaṃ dhammaṃ paṭicca hetu mahaggatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+835\. Hetuṃ mahaggatārammaṇaṃ dhammaṃ paṭicca hetu mahaggatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
 
-836. Nahetuṃ mahaggatārammaṇaṃ dhammaṃ paṭicca nahetu mahaggatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+836\. Nahetuṃ mahaggatārammaṇaṃ dhammaṃ paṭicca nahetu mahaggatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
 
-837. Hetuṃ mahaggatārammaṇañca nahetuṃ mahaggatārammaṇañca dhammaṃ paṭicca hetu mahaggatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+837\. Hetuṃ mahaggatārammaṇañca nahetuṃ mahaggatārammaṇañca dhammaṃ paṭicca hetu mahaggatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
 
 (390.)
 
-838. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
+838\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.13/1.13.2/1.13.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.13/1.13.2/1.13.2.1--6/Paccayacatukka.md) / [Go to next page (Nahetu-naadhipati)](/tipitaka/39P3/1/1.13/1.13.2/1.13.2.1--6/Paccayacatukka/Nahetu-naadhipati.md)
 

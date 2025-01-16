@@ -17,7 +17,7 @@
 
 (85.)
 
-1203. Āsavasampayutto dhammo āsavasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
+1203\. Āsavasampayutto dhammo āsavasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  cha…  nissayapaccayena paccayo…  nava.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Anantara.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Upanissaya.md)
 

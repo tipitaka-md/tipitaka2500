@@ -15,7 +15,7 @@
 
 (63.)
 
-1827. Sekkho dhammo sekkhassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…pe… .
+1827\. Sekkho dhammo sekkhassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo…pe… .
 
 [Go to previous page (Vipāka)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Vipaka.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Vippayutta.md)
 

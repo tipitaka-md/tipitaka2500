@@ -17,9 +17,9 @@
 
 (159.)
 
-908. Lokiyo dhammo lokiyassa dhammassa pacchājātapaccayena paccayo—  pacchājātā lokiyā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+908\. Lokiyo dhammo lokiyassa dhammassa pacchājātapaccayena paccayo—  pacchājātā lokiyā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-909. Lokuttaro dhammo lokiyassa dhammassa pacchājātapaccayena paccayo—  pacchājātā lokuttarā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+909\. Lokuttaro dhammo lokiyassa dhammassa pacchājātapaccayena paccayo—  pacchājātā lokuttarā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Purejata.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Asevana.md)
 

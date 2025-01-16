@@ -13,7 +13,7 @@
 
 (31.)
 
-1869. Namaggapaccayā ārammaṇe tīṇi, anantare tīṇi, samanantare tīṇi…pe…  āsevane ekaṃ, kamme tīṇi…pe…  jhāne dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1869\. Namaggapaccayā ārammaṇe tīṇi, anantare tīṇi, samanantare tīṇi…pe…  āsevane ekaṃ, kamme tīṇi…pe…  jhāne dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
 [Go to previous page (Najhānaduka)](/tipitaka/36P1/3/3.1/3.1.4/Najhanaduka.md) / [Go to parent page (3.1.4 Paccayapaccanīyānuloma)](/tipitaka/36P1/3/3.1/3.1.4.md) / [Go to next page (Navippayuttaduka)](/tipitaka/36P1/3/3.1/3.1.4/Navippayuttaduka.md)
 

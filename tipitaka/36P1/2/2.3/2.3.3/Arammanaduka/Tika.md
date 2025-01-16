@@ -13,9 +13,9 @@
 
 ### Tika
 
-583. Ārammaṇapaccayā hetupaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, navippayutte tīṇi.
+583\. Ārammaṇapaccayā hetupaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, navippayutte tīṇi.
 
-584. (Yathā hetumūlakaṃ, evaṃ gaṇetabbaṃ.)
+584\. (Yathā hetumūlakaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Ārammaṇaduka)](/tipitaka/36P1/2/2.3/2.3.3/Arammanaduka.md) / [Go to parent page (Ārammaṇaduka)](/tipitaka/36P1/2/2.3/2.3.3/Arammanaduka.md) / [Go to next page (Adhipatiduka)](/tipitaka/36P1/2/2.3/2.3.3/Adhipatiduka.md)
 

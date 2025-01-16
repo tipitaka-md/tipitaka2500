@@ -17,7 +17,7 @@
 
 (333.)
 
-1057. Pacchājātapaccayā vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (3)
+1057\. Pacchājātapaccayā vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (3)
 
 [Go to previous page (Pacchājāta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Pacchajata.md) / [Go to parent page (Pacchājāta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Pacchajata.md) / [Go to next page (Pacchājātaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Pacchajata/Pacchajataghatana.md)
 

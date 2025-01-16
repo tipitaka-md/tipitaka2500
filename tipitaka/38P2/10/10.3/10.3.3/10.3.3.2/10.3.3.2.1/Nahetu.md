@@ -17,9 +17,9 @@
 
 (111.)
 
-2593. Cetasikaṃ dhammaṃ paccayā cetasiko dhammo uppajjati nahetupaccayā—  ahetukaṃ cetasikaṃ. (Saṃkhittaṃ.)
+2593\. Cetasikaṃ dhammaṃ paccayā cetasiko dhammo uppajjati nahetupaccayā—  ahetukaṃ cetasikaṃ. (Saṃkhittaṃ.)
 
-2594. (Nava pañhā pañcaviññāṇampi yathā ārammaṇapaccayā evaṃ kātabbaṃ, tīsuyeva moho. Sabbe pañhā pavattipaṭisandhiyā kātabbā asammohantena.)
+2594\. (Nava pañhā pañcaviññāṇampi yathā ārammaṇapaccayā evaṃ kātabbaṃ, tīsuyeva moho. Sabbe pañhā pavattipaṭisandhiyā kātabbā asammohantena.)
 
 [Go to previous page (10.3.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2/10.3.3.2.1.md) / [Go to parent page (10.3.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2/10.3.3.2.1.md) / [Go to next page (10.3.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.3/10.3.3/10.3.3.2/10.3.3.2.2.md)
 

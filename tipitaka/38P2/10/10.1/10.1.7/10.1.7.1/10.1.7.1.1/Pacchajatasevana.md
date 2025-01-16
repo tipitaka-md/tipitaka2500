@@ -17,9 +17,9 @@
 
 (35.)
 
-2388. Sārammaṇo dhammo anārammaṇassa dhammassa pacchājātapaccayena paccayo…  ekaṃ.
+2388\. Sārammaṇo dhammo anārammaṇassa dhammassa pacchājātapaccayena paccayo…  ekaṃ.
 
-2389. Sārammaṇo dhammo sārammaṇassa dhammassa āsevanapaccayena paccayo…  ekaṃ.
+2389\. Sārammaṇo dhammo sārammaṇassa dhammassa āsevanapaccayena paccayo…  ekaṃ.
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1/Purejata.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1/Kamma.md)
 

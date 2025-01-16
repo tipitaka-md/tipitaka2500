@@ -17,7 +17,7 @@
 
 (109.)
 
-1598. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca dhammassa anantarapaccayena paccayo…  nava (ninnānākaraṇaṃ, vibhajanā natthi. Ārammaṇasadisā)…  samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava…  upanissayapaccayena paccayo…  nava (ārammaṇanayena kātabbā)…  āsevanapaccayena paccayo…  nava.
+1598\. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca dhammassa anantarapaccayena paccayo…  nava (ninnānākaraṇaṃ, vibhajanā natthi. Ārammaṇasadisā)…  samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava…  upanissayapaccayena paccayo…  nava (ārammaṇanayena kātabbā)…  āsevanapaccayena paccayo…  nava.
 
 [Go to previous page (Adhipati)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Adhipati.md) / [Go to parent page (4.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to next page (Kammādi)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Kammadi.md)
 

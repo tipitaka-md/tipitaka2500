@@ -15,19 +15,19 @@
 
 (3.)
 
-1337. Kusalo sārammaṇo dhammo kusalassa sārammaṇassa dhammassa hetupaccayena paccayo. (1)
+1337\. Kusalo sārammaṇo dhammo kusalassa sārammaṇassa dhammassa hetupaccayena paccayo. (1)
 
-1338. Akusalo sārammaṇo dhammo akusalassa sārammaṇassa dhammassa hetupaccayena paccayo. (1)
+1338\. Akusalo sārammaṇo dhammo akusalassa sārammaṇassa dhammassa hetupaccayena paccayo. (1)
 
-1339. Abyākato sārammaṇo dhammo abyākatassa sārammaṇassa dhammassa hetupaccayena paccayo. (1)
+1339\. Abyākato sārammaṇo dhammo abyākatassa sārammaṇassa dhammassa hetupaccayena paccayo. (1)
 
-1340. Kusalo sārammaṇo dhammo kusalassa sārammaṇassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+1340\. Kusalo sārammaṇo dhammo kusalassa sārammaṇassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
 
 (4.)
 
-1341. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta…pe…  sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1341\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta…pe…  sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
-1342. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1342\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P4/5/5.1/5.1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/5/5.1/5.1.1--7/Paccayacatukka.md) / [Go to next page (Hetusahajātādi)](/tipitaka/39P4/5/5.1/5.1.1--7/Paccayacatukka/Hetusahajatadi.md)
 

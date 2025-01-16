@@ -17,23 +17,23 @@
 
 (252.)
 
-501. Nahetuṃ upekkhāsahagataṃ dhammaṃ paṭicca nahetu upekkhāsahagato dhammo uppajjati nahetupaccayā…  dve.
+501\. Nahetuṃ upekkhāsahagataṃ dhammaṃ paṭicca nahetu upekkhāsahagato dhammo uppajjati nahetupaccayā…  dve.
 
-502. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati naadhipatipaccayā…  nava.
+502\. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati naadhipatipaccayā…  nava.
 
-503. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati napurejātapaccayā…  nava.
+503\. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati napurejātapaccayā…  nava.
 
-504. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati napacchājātapaccayā…  nava. (Saṃkhittaṃ.)
+504\. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati napacchājātapaccayā…  nava. (Saṃkhittaṃ.)
 
 (253.)
 
-505. Nahetuyā dve, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ, navippayutte nava. (Saṃkhittaṃ.)
+505\. Nahetuyā dve, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ, navippayutte nava. (Saṃkhittaṃ.)
 
-506. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+506\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
 
-507. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+507\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
 
-508. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+508\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Hetu)](/tipitaka/39P3/1/1.7/1.7.3/1.7.3.1--6/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.7/1.7.3/1.7.3.1--6/Paccayacatukka.md) / [Go to next page (1.7.3.7 Pañhāvāra)](/tipitaka/39P3/1/1.7/1.7.3/1.7.3.7.md)
 

@@ -17,13 +17,13 @@
 
 (122.)
 
-822. Rūpī dhammo rūpissa dhammassa indriyapaccayena paccayo—  rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
+822\. Rūpī dhammo rūpissa dhammassa indriyapaccayena paccayo—  rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
 
-823. Rūpī dhammo arūpissa dhammassa indriyapaccayena paccayo—  cakkhundriyaṃ…pe…  kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo. (2)
+823\. Rūpī dhammo arūpissa dhammassa indriyapaccayena paccayo—  cakkhundriyaṃ…pe…  kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo. (2)
 
-824. Arūpī dhammo arūpissa dhammassa indriyapaccayena paccayo…  tīṇi.
+824\. Arūpī dhammo arūpissa dhammassa indriyapaccayena paccayo…  tīṇi.
 
-825. Rūpī ca arūpī ca dhammā arūpissa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca…pe… .
+825\. Rūpī ca arūpī ca dhammā arūpissa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca…pe… .
 
 [Go to previous page (Vipākāhāra)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Vipakahara.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page (Jhānādi)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Jhanadi.md)
 

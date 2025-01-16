@@ -17,7 +17,7 @@
 
 (21.)
 
-1373. Saññojano dhammo saññojanassa dhammassa samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
+1373\. Saññojano dhammo saññojanassa dhammassa samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
 
 [Go to previous page (Anantara)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Anantara.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.1/Upanissaya.md)
 

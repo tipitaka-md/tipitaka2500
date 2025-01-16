@@ -17,13 +17,13 @@
 
 (130.)
 
-2633. Cetasiko dhammo acetasikassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.)
+2633\. Cetasiko dhammo acetasikassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.)
 
-2634. Acetasiko dhammo acetasikassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.)
+2634\. Acetasiko dhammo acetasikassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.)
 
-2635. Cetasiko ca acetasiko ca dhammā acetasikassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.)
+2635\. Cetasiko ca acetasiko ca dhammā acetasikassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.)
 
-2636. Cetasiko dhammo cetasikassa dhammassa āsevanapaccayena paccayo. (Saṃkhittaṃ.)
+2636\. Cetasiko dhammo cetasikassa dhammassa āsevanapaccayena paccayo. (Saṃkhittaṃ.)
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Purejata.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1/Kamma.md)
 

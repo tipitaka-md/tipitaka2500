@@ -15,7 +15,7 @@
 
 (15.)
 
-2613. Uppanno dhammo uppannassa dhammassa indriyapaccayena paccayo—  uppannā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. Paṭisandhikkhaṇe…pe…  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa…pe…  rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
+2613\. Uppanno dhammo uppannassa dhammassa indriyapaccayena paccayo—  uppannā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. Paṭisandhikkhaṇe…pe…  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa…pe…  rūpajīvitindriyaṃ kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
 
 [Go to previous page (Āhāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Ahara.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page (Jhānādi)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Jhanadi.md)
 

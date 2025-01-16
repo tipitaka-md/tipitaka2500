@@ -13,7 +13,7 @@
 
 (249.)
 
-798. Naadhipatipaccayā hetuyā tīṇi, ārammaṇe tīṇi…pe…  avigate tīṇi.
+798\. Naadhipatipaccayā hetuyā tīṇi, ārammaṇe tīṇi…pe…  avigate tīṇi.
 
 * [Tika](/tipitaka/36P1/2/2.5/2.5.4/Naadhipatiduka/Tika.md)
 

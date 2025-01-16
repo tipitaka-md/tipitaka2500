@@ -15,7 +15,7 @@
 
 (51.)
 
-1798. Sekkho dhammo sekkhassa dhammassa samanantarapaccayena paccayo…pe… . (Anantarasadisaṃ, aṭṭha pañhā.)
+1798\. Sekkho dhammo sekkhassa dhammassa samanantarapaccayena paccayo…pe… . (Anantarasadisaṃ, aṭṭha pañhā.)
 
 [Go to previous page (Anantara)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Anantara.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page (Sahajātādi)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Sahajatadi.md)
 

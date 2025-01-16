@@ -13,11 +13,11 @@
 
 (17.)
 
-1501. Anidassanaṃ akusalaṃ dhammaṃ paṭicca anidassano akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1501\. Anidassanaṃ akusalaṃ dhammaṃ paṭicca anidassano akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
 
 (18.)
 
-1502. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1502\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
 [Go to previous page (3.3.2 Akusalapada)](/tipitaka/39P3/3/3.3/3.3.2.md) / [Go to parent page (3.3.2 Akusalapada)](/tipitaka/39P3/3/3.3/3.3.2.md) / [Go to next page (3.3.3 Abyākatapada)](/tipitaka/39P3/3/3.3/3.3.3.md)
 

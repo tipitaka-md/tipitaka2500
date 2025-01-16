@@ -17,9 +17,9 @@
 
 (148.)
 
-888. Lokiyo dhammo lokiyassa dhammassa hetupaccayena paccayo—  lokiyā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+888\. Lokiyo dhammo lokiyassa dhammassa hetupaccayena paccayo—  lokiyā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-889. Lokuttaro dhammo lokuttarassa dhammassa hetupaccayena paccayo…  tīṇi.
+889\. Lokuttaro dhammo lokuttarassa dhammassa hetupaccayena paccayo…  tīṇi.
 
 [Go to previous page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Arammana.md)
 

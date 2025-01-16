@@ -13,17 +13,17 @@
 
 (17.)
 
-357. Nevadassanena nabhāvanāya pahātabbaṃ kusalaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo kusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+357\. Nevadassanena nabhāvanāya pahātabbaṃ kusalaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo kusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
 (18.)
 
-358. Dassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca dassanena pahātabbo akusalo dhammo uppajjati hetupaccayā. (1)
+358\. Dassanena pahātabbaṃ akusalaṃ dhammaṃ paṭicca dassanena pahātabbo akusalo dhammo uppajjati hetupaccayā. (1)
 
-359. Bhāvanāya pahātabbaṃ akusalaṃ dhammaṃ paṭicca bhāvanāya pahātabbo akusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
+359\. Bhāvanāya pahātabbaṃ akusalaṃ dhammaṃ paṭicca bhāvanāya pahātabbo akusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
 
 (19.)
 
-360. Nevadassanena nabhāvanāya pahātabbaṃ abyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+360\. Nevadassanena nabhāvanāya pahātabbaṃ abyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
 [Go to previous page (2.7.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.7/2.7.1--7.md) / [Go to parent page (2.7.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.7/2.7.1--7.md) / [Go to next page (2.8 Dassanahetuttika, Kusalattika)](/tipitaka/39P5/2/2.8.md)
 

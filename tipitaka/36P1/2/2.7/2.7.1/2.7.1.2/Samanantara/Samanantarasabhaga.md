@@ -17,7 +17,7 @@
 
 (319.)
 
-1034. Samanantarapaccayā anantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṃ, natthiyā satta, vigate satta. (6)
+1034\. Samanantarapaccayā anantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṃ, natthiyā satta, vigate satta. (6)
 
 [Go to previous page (Samanantara)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Samanantara.md) / [Go to parent page (Samanantara)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Samanantara.md) / [Go to next page (Samanantaraghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Samanantara/Samanantaraghatana.md)
 

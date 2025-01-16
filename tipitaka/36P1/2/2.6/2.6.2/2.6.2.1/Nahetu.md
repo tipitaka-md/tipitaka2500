@@ -15,11 +15,11 @@
 
 (260.)
 
-823. Akusalaṃ dhammaṃ sampayutto akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe sampayutto vicikicchāsahagato uddhaccasahagato moho. (1)
+823\. Akusalaṃ dhammaṃ sampayutto akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe sampayutto vicikicchāsahagato uddhaccasahagato moho. (1)
 
 (261.)
 
-824. Abyākataṃ dhammaṃ sampayutto abyākato dhammo uppajjati nahetupaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā; ahetukapaṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (Saṃkhittaṃ.) (1)
+824\. Abyākataṃ dhammaṃ sampayutto abyākato dhammo uppajjati nahetupaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā; ahetukapaṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (Saṃkhittaṃ.) (1)
 
 [Go to previous page (2.6.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.6/2.6.2/2.6.2.1.md) / [Go to parent page (2.6.2.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.6/2.6.2/2.6.2.1.md) / [Go to next page (2.6.2.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.6/2.6.2/2.6.2.2.md)
 

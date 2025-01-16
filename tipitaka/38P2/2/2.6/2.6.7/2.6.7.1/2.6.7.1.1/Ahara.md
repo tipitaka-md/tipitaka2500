@@ -17,9 +17,9 @@
 
 (163.)
 
-918. Lokiyo dhammo lokiyassa dhammassa āhārapaccayena paccayo—  lokiyā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
+918\. Lokiyo dhammo lokiyassa dhammassa āhārapaccayena paccayo—  lokiyā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo. (1)
 
-919. Lokuttaro dhammo lokuttarassa dhammassa āhārapaccayena paccayo…  tīṇi.
+919\. Lokuttaro dhammo lokuttarassa dhammassa āhārapaccayena paccayo…  tīṇi.
 
 [Go to previous page (Vipāka)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Vipaka.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Indriya)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Indriya.md)
 

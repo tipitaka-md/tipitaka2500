@@ -17,11 +17,11 @@
 
 (81.)
 
-1519. Saññojanasampayutto dhammo saññojanavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā saññojanasampayuttā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+1519\. Saññojanasampayutto dhammo saññojanavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā saññojanasampayuttā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-1520. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā saññojanavippayuttā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+1520\. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā saññojanavippayuttā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-1521. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+1521\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Purejata.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1/Asevana.md)
 

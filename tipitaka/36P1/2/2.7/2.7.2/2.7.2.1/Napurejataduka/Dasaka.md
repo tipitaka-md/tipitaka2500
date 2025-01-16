@@ -15,7 +15,7 @@
 
 ### Dasaka
 
-1217. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissaye pañca, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava.
+1217\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissaye pañca, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava.
 
 [Go to previous page (Aṭṭhaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka/Atthaka.md) / [Go to parent page (Napurejātaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka.md) / [Go to next page (Ekādasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Napurejataduka/Ekadasaka.md)
 

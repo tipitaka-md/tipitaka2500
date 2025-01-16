@@ -17,7 +17,7 @@
 
 (322.)
 
-3111. Hetuyā nava, ārammaṇe pañca, adhipatiyā pañca, anantare pañca, samanantare pañca, sahajāte nava, aññamaññe pañca, nissaye nava, upanissaye pañca, purejāte pañca, āsevane pañca, kamme nava, vipāke nava (sabbattha nava), sampayutte pañca, vippayutte nava, atthiyā nava, natthiyā pañca, vigate pañca, avigate nava.
+3111\. Hetuyā nava, ārammaṇe pañca, adhipatiyā pañca, anantare pañca, samanantare pañca, sahajāte nava, aññamaññe pañca, nissaye nava, upanissaye pañca, purejāte pañca, āsevane pañca, kamme nava, vipāke nava (sabbattha nava), sampayutte pañca, vippayutte nava, atthiyā nava, natthiyā pañca, vigate pañca, avigate nava.
 
 [Go to previous page (10.12.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.2.md) / [Go to parent page (10.12.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.1/10.12.1.1.2.md) / [Go to next page (10.12.1.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.12/10.12.1/10.12.1.2.md)
 

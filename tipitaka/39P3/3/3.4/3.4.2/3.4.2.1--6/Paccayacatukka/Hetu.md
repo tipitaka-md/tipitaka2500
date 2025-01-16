@@ -17,13 +17,13 @@
 
 (26.)
 
-1521. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca sappaṭigho abyākato dhammo uppajjati hetupaccayā. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca appaṭigho abyākato dhammo uppajjati hetupaccayā. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca sappaṭigho abyākato ca appaṭigho abyākato ca dhammā uppajjanti hetupaccayā…  nava.
+1521\. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca sappaṭigho abyākato dhammo uppajjati hetupaccayā. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca appaṭigho abyākato dhammo uppajjati hetupaccayā. Sappaṭighaṃ abyākataṃ dhammaṃ paṭicca sappaṭigho abyākato ca appaṭigho abyākato ca dhammā uppajjanti hetupaccayā…  nava.
 
-1522. Appaṭighaṃ abyākataṃ dhammaṃ paṭicca appaṭigho abyākato dhammo uppajjati ārammaṇapaccayā. (Saṃkhittaṃ.)
+1522\. Appaṭighaṃ abyākataṃ dhammaṃ paṭicca appaṭigho abyākato dhammo uppajjati ārammaṇapaccayā. (Saṃkhittaṃ.)
 
 (27.)
 
-1523. Hetuyā nava, ārammaṇe ekaṃ, adhipatiyā nava…pe…  aññamaññe cha, nissaye nava, upanissaye ekaṃ, purejāte āsevane ekaṃ, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1523\. Hetuyā nava, ārammaṇe ekaṃ, adhipatiyā nava…pe…  aññamaññe cha, nissaye nava, upanissaye ekaṃ, purejāte āsevane ekaṃ, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka.md) / [Go to next page (Nahetu)](/tipitaka/39P3/3/3.4/3.4.2/3.4.2.1--6/Paccayacatukka/Nahetu.md)
 

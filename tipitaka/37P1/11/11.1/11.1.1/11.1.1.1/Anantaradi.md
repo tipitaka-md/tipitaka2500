@@ -15,7 +15,7 @@
 
 (6.)
 
-1440. Ācayagāmiṃ dhammaṃ paṭicca, ācayagāmī dhammo uppajjati anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā (sabbepi mahābhūtā kātabbā)…  aññamaññapaccayā (cittasamuṭṭhānampi kaṭattārūpampi upādārūpampi natthi)…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
+1440\. Ācayagāmiṃ dhammaṃ paṭicca, ācayagāmī dhammo uppajjati anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā (sabbepi mahābhūtā kātabbā)…  aññamaññapaccayā (cittasamuṭṭhānampi kaṭattārūpampi upādārūpampi natthi)…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
 
 [Go to previous page (Adhipati)](/tipitaka/37P1/11/11.1/11.1.1/11.1.1.1/Adhipati.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.1/11.1.1/11.1.1.1.md) / [Go to next page (11.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/11/11.1/11.1.1/11.1.1.2.md)
 

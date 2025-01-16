@@ -15,7 +15,7 @@
 
 ### Dvādasaka (sāsevana)
 
-500. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kamme satta, āhāre satta…pe…  avigate satta…pe… .
+500\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kamme satta, āhāre satta…pe…  avigate satta…pe… .
 
 [Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/Tika.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka.md) / [Go to next page (Bāvīsaka (sāsevana))](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/avisaka_sasevana.md)
 

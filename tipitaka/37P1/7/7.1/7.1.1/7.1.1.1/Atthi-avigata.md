@@ -15,7 +15,7 @@
 
 (21.)
 
-98. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati atthipaccayā…pe…  natthipaccayā, vigatapaccayā, avigatapaccayā. (Saṃkhittaṃ.)
+98\. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati atthipaccayā…pe…  natthipaccayā, vigatapaccayā, avigatapaccayā. (Saṃkhittaṃ.)
 
 [Go to previous page (Vippayutta)](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Vippayutta.md) / [Go to parent page (7.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1.md) / [Go to next page (7.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.2.md)
 

@@ -17,7 +17,7 @@
 
 (305.)
 
-3065. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa kammapaccayena paccayo…  tīṇi (cittasahabhūdukasadisā ninnānākaraṇā. Tīṇipi sahajātā, nānākkhaṇikā)…  vipākapaccayena paccayo…  nava…  āhārapaccayena paccayo…  nava (cittasahabhūgamanasadisā, ekaṃyeva kabaḷīkāraṃ āhāraṃ)…  indriyapaccayena paccayo…  nava…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
+3065\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa kammapaccayena paccayo…  tīṇi (cittasahabhūdukasadisā ninnānākaraṇā. Tīṇipi sahajātā, nānākkhaṇikā)…  vipākapaccayena paccayo…  nava…  āhārapaccayena paccayo…  nava (cittasahabhūgamanasadisā, ekaṃyeva kabaḷīkāraṃ āhāraṃ)…  indriyapaccayena paccayo…  nava…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  pañca.
 
 [Go to previous page (Purejātādi)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1/Purejatadi.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1/Vippayutta.md)
 

@@ -17,7 +17,7 @@
 
 (80.)
 
-2002. Sampayuttapaccayā hetuyā tīṇi, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
+2002\. Sampayuttapaccayā hetuyā tīṇi, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
 
 [Go to previous page (Sampayutta)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta.md) / [Go to parent page (Sampayutta)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta.md) / [Go to next page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta/Ghatana.md)
 

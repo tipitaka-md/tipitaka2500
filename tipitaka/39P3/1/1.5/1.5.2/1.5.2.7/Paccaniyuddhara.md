@@ -15,17 +15,17 @@
 
 (200.)
 
-373. Hetu asaṃkiliṭṭhasaṃkilesiko dhammo hetussa asaṃkiliṭṭhasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+373\. Hetu asaṃkiliṭṭhasaṃkilesiko dhammo hetussa asaṃkiliṭṭhasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
 
 (201.)
 
-374. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+374\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
 
-375. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+375\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
 
-376. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+376\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
 
-377. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+377\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
 [Go to previous page (Hetvādi)](/tipitaka/39P3/1/1.5/1.5.2/1.5.2.7/Paccayacatukka/Hetvadi.md) / [Go to parent page (1.5.2.7 Pañhāvāra)](/tipitaka/39P3/1/1.5/1.5.2/1.5.2.7.md) / [Go to next page (1.5.3 Asaṃkiliṭṭhaasaṃkilesikapada)](/tipitaka/39P3/1/1.5/1.5.3.md)
 
