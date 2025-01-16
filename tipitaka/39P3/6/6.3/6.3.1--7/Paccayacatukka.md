@@ -1,7 +1,7 @@
 
 [Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [6 Ganthagocchaka, Kusalattika](/tipitaka/39P3/6.md) / [6.3 Ganthasampayuttaduka, Kusalattika](/tipitaka/39P3/6/6.3.md) / [6.3.1--7 Paṭiccādivāra](/tipitaka/39P3/6/6.3/6.3.1--7.md)
 
-# Paccayacatukka
+# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
 * [Hetu](/tipitaka/39P3/6/6.3/6.3.1--7/Paccayacatukka/Hetu.md)
 

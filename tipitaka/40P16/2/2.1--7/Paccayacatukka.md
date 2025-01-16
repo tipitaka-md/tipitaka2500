@@ -1,7 +1,7 @@
 
 [Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/40P16.md) / [2 Kusalattika, Sahetukaduka](/tipitaka/40P16/2.md) / [2.1--7 Paṭiccādivāra](/tipitaka/40P16/2/2.1--7.md)
 
-# Paccayacatukka
+# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
 * [Hetu](/tipitaka/40P16/2/2.1--7/Paccayacatukka/Hetu.md)
 

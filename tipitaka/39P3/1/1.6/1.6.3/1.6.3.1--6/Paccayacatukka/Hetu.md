@@ -1,27 +1,27 @@
 
 [Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.6 Hetuduka, Vitakkattika](/tipitaka/39P3/1/1.6.md) / [1.6.3 Avitakkaavicārapada](/tipitaka/39P3/1/1.6/1.6.3.md) / [1.6.3.1--6 Paṭiccādivāra](/tipitaka/39P3/1/1.6/1.6.3/1.6.3.1--6.md) / [Paccayacatukka](/tipitaka/39P3/1/1.6/1.6.3/1.6.3.1--6/Paccayacatukka.md)
 
-# Hetu
+# 𑀳𑁂𑀢𑀼
 
-### Hetuduka, Tika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### Hetuduka, Vitakkattika
+### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀯𑀺𑀢𑀓𑁆𑀓𑀢𑁆𑀢𑀺𑀓
 
-### Avitakkaavicārapada
+### 𑀅𑀯𑀺𑀢𑀓𑁆𑀓𑀅𑀯𑀺𑀘𑀸𑀭𑀧𑀤
 
-### Paṭiccādivāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### Paccayacatukka
+### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### Hetu
+### 𑀳𑁂𑀢𑀼
 
 (226.)
 
-436. Hetuṃ avitakkaavicāraṃ dhammaṃ paṭicca hetu avitakkaavicāro dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+436. 𑀳𑁂𑀢𑀼𑀁 𑀅𑀯𑀺𑀢𑀓𑁆𑀓𑀅𑀯𑀺𑀘𑀸𑀭𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀅𑀯𑀺𑀢𑀓𑁆𑀓𑀅𑀯𑀺𑀘𑀸𑀭𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 (227.)
 
-437. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava…pe…  vigate nava, avigate nava. (Saṃkhittaṃ.)
+437. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀓𑀫𑁆𑀫𑁂 𑀦𑀯, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯…𑀧𑁂…  𑀯𑀺𑀕𑀢𑁂 𑀦𑀯, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
 [Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.6/1.6.3/1.6.3.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.6/1.6.3/1.6.3.1--6/Paccayacatukka.md) / [Go to next page (Nahetvādi)](/tipitaka/39P3/1/1.6/1.6.3/1.6.3.1--6/Paccayacatukka/Nahetvadi.md)
 

@@ -1,7 +1,7 @@
 
 [Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [7 Pītittika](/tipitaka/40P13/7.md) / [7.1--7 Paṭiccādivāra](/tipitaka/40P13/7/7.1--7.md)
 
-# Paccayānuloma
+# 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
 * [Hetu](/tipitaka/40P13/7/7.1--7/Paccayanuloma/Hetu.md)
 

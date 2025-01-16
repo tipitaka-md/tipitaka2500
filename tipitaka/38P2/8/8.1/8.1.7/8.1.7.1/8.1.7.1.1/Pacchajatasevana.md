@@ -1,23 +1,23 @@
 
 [Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.7 Pañhāvāra](/tipitaka/38P2/8/8.1/8.1.7.md) / [8.1.7.1 Paccayānuloma](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md)
 
-# Pacchājātāsevana
+# 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀸𑀲𑁂𑀯𑀦
 
-### Nīvaraṇagocchaka
+### 𑀦𑀻𑀯𑀭𑀡𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Nīvaraṇaduka
+### 𑀦𑀻𑀯𑀭𑀡𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Pacchājātāsevana
+### 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀸𑀲𑁂𑀯𑀦
 
 (37.)
 
-1963. Nīvaraṇo dhammo nonīvaraṇassa dhammassa pacchājātapaccayena paccayo…  tīṇi…  āsevanapaccayena paccayo…  nava.
+1963. 𑀦𑀻𑀯𑀭𑀡𑁄 𑀥𑀫𑁆𑀫𑁄 𑀦𑁄𑀦𑀻𑀯𑀭𑀡𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺…  𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀯𑁇
 
 [Go to previous page (Purejāta)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Purejata.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Kamma.md)
 

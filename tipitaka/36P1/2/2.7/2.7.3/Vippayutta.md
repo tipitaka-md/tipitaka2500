@@ -1,7 +1,7 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md)
 
-# Vippayutta
+# 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
 * [Vippayuttaduka](/tipitaka/36P1/2/2.7/2.7.3/Vippayutta/Vippayuttaduka.md)
 * [Vippayuttamissakaghaṭanā](/tipitaka/36P1/2/2.7/2.7.3/Vippayutta/Vippayuttamissakaghatana.md)

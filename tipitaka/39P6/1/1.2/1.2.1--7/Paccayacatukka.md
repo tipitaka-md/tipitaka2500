@@ -1,7 +1,7 @@
 
 [Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.2 Hetuduka, Hetusampayuttaduka](/tipitaka/39P6/1/1.2.md) / [1.2.1--7 Paṭiccādivāra](/tipitaka/39P6/1/1.2/1.2.1--7.md)
 
-# Paccayacatukka
+# 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
 * [Hetu](/tipitaka/39P6/1/1.2/1.2.1--7/Paccayacatukka/Hetu.md)
 

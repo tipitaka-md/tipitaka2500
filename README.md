@@ -1,8 +1,8 @@
-# tipitaka2500: The World Tipiṭaka Edition
+# tipitaka2500: The World Tipiṭaka Edition in Brahmi Script
 
 *“The Buddhist Era 2500 Great International Council Pāḷi Tipiṭaka, Roman Script 2005” (Mahāsaṅgīti Tipiṭaka Buddhavasse 2500)*
 
-This repository contains the complete 40-volume Roman-script edition of the 25-century old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great Internatonal Buddhist Council converted into Markdown files.
+This repository contains the complete 40-volume Roman-script edition of the 25-century old teaching of the Buddhist Theravāda tradition in the Pāḷi language from the B.E. 2500 (1957) Great Internatonal Buddhist Council converted into Markdown files in Brahmi script (links and titles are retained in Romanised Pāḷi).
 
 It is derived from the Chaṭṭhasaṅgīti Council Edition, the Pāḷi-language text in Burmese Script, the result of the Great International Tipiṭaka Council convened in B.E. 2500 (1957) at Yangon by 2,500 erudite Theravāda Buddhist monks from all over the world.
 

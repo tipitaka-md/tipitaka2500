@@ -1,7 +1,7 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md)
 
-# Indriya
+# 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬
 
 * [Indriyaduka](/tipitaka/36P1/2/2.7/2.7.3/Indriya/Indriyaduka.md)
 * [Indriyamissakaghaṭanā](/tipitaka/36P1/2/2.7/2.7.3/Indriya/Indriyamissakaghatana.md)

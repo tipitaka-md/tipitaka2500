@@ -1,21 +1,21 @@
 
 [Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md)
 
-# Kammaduka
+# 𑀓𑀫𑁆𑀫𑀤𑀼𑀓
 
-### Kusalattika
+### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### Paṭiccavāra
+### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Saṅkhyāvāra
+### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### Kammaduka
+### 𑀓𑀫𑁆𑀫𑀤𑀼𑀓
 
 (30.)
 
-192. Kammapaccayā hetuyā nava…pe… .
+192. 𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯…𑀧𑁂… 𑁇
 
 [Go to previous page (Āsevanaduka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Asevanaduka.md) / [Go to parent page (2.1.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md) / [Go to next page (Vipākaduka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Vipakaduka.md)
 

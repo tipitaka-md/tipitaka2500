@@ -1,7 +1,7 @@
 
 [Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.3 Kusalattika, Sanidassanaduka](/tipitaka/39P4/3/3.3.md) / [3.3.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.3/3.3.1--7.md)
 
-# Paccanīya
+# 𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
 * [Nahetu](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya/Nahetu.md)
 * [Hetu-ārammaṇa](/tipitaka/39P4/3/3.3/3.3.1--7/Paccaniya/Hetu-arammana.md)

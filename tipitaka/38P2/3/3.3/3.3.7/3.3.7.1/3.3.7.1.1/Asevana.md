@@ -1,23 +1,23 @@
 
 [Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.3 Āsavasampayuttaduka](/tipitaka/38P2/3/3.3.md) / [3.3.7 Pañhāvāra](/tipitaka/38P2/3/3.3/3.3.7.md) / [3.3.7.1 Paccayānuloma](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1.md) / [3.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md)
 
-# Āsevana
+# 𑀆𑀲𑁂𑀯𑀦
 
-### Āsavagocchaka
+### 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓
 
-### Āsavasampayuttaduka
+### 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓
 
-### Pañhāvāra
+### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### Paccayānuloma
+### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### Vibhaṅgavāra
+### 𑀯𑀺𑀪𑀗𑁆𑀕𑀯𑀸𑀭
 
-### Āsevana
+### 𑀆𑀲𑁂𑀯𑀦
 
 (91.)
 
-1218. Āsavasampayutto dhammo āsavasampayuttassa dhammassa āsevanapaccayena paccayo…  nava. (Āvajjanāpi vuṭṭhānampi natthi.)
+1218. 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀯𑁇 (𑀆𑀯𑀚𑁆𑀚𑀦𑀸𑀧𑀺 𑀯𑀼𑀝𑁆𑀞𑀸𑀦𑀫𑁆𑀧𑀺 𑀦𑀢𑁆𑀣𑀺𑁇)
 
 [Go to previous page (Pacchājāta)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Pacchajata.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/3/3.3/3.3.7/3.3.7.1/3.3.7.1.1/Kamma.md)
 
