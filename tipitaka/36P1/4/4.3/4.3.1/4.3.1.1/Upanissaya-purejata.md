@@ -3,15 +3,15 @@
 
 # Upanissaya-purejāta
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Upanissaya-purejāta
+* Upanissaya-purejāta
 
 (69.)
 

@@ -3,15 +3,15 @@
 
 # Sahajātādi
 
-### Atītārammaṇattika
+* Atītārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajātādi
+* Sahajātādi
 
 (30.)
 

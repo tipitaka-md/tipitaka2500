@@ -3,15 +3,15 @@
 
 # Naārammaṇa
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇa
+* Naārammaṇa
 
 (8.)
 

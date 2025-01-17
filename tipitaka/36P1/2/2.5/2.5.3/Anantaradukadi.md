@@ -3,13 +3,13 @@
 
 # Anantaradukādi
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Anantaradukādi
+* Anantaradukādi
 
 (236.)
 

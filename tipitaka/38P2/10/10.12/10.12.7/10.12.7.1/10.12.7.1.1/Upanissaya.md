@@ -3,17 +3,17 @@
 
 # Upanissaya
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Ajjhattikaduka
+* Ajjhattikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Upanissaya
+* Upanissaya
 
 (344.)
 

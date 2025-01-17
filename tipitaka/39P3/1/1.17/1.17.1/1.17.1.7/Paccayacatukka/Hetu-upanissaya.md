@@ -3,17 +3,17 @@
 
 # Hetu-upanissaya
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Uppannattika
+* Hetuduka, Uppannattika
 
-### Uppannapada
+* Uppannapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-upanissaya
+* Hetu-upanissaya
 
 (477.)
 

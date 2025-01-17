@@ -3,15 +3,15 @@
 
 # Vipākaduka
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Vipākaduka
+* Vipākaduka
 
 (23.)
 

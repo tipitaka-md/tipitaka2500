@@ -3,17 +3,17 @@
 
 # Purejāta
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsaduka
+* Parāmāsaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Purejāta
+* Purejāta
 
 (30.)
 

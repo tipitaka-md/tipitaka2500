@@ -3,15 +3,15 @@
 
 # Kamma
 
-### Sekkhattika
+* Sekkhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (59.)
 

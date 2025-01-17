@@ -3,13 +3,13 @@
 
 # Nahetuduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
 (83.)
 

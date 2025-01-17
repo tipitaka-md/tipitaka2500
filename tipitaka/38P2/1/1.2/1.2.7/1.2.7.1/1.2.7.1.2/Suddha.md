@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Sahetukaduka
+* Sahetukaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (119.)
 

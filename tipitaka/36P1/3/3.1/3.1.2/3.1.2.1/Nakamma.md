@@ -3,15 +3,15 @@
 
 # Nakamma
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nakamma
+* Nakamma
 
 (12.)
 

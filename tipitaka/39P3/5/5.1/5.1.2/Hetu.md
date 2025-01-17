@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Saññojanagocchaka, Kusalattika
+* Saññojanagocchaka, Kusalattika
 
-### Saññojanaduka, Kusalattika
+* Saññojanaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Hetu
+* Hetu
 
 (8.)
 

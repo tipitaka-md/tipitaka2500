@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Kāmāvacaraduka
+* Kāmāvacaraduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (221.)
 

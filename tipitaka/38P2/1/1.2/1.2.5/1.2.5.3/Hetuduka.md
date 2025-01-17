@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Sahetukaduka
+* Sahetukaduka
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (94.)
 

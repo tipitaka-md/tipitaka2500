@@ -3,17 +3,17 @@
 
 # Atthi
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsaduka
+* Parāmāsaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthi
+* Atthi
 
 (35.)
 

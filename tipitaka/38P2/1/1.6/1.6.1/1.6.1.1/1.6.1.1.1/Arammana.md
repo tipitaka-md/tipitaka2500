@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Nahetusahetukaduka
+* Nahetusahetukaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (162.)
 

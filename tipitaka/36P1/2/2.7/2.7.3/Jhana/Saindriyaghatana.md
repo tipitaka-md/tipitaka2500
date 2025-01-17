@@ -3,15 +3,15 @@
 
 # Saindriyaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Jhāna
+* Jhāna
 
-### Saindriyaghaṭanā
+* Saindriyaghaṭanā
 
 (472.)
 

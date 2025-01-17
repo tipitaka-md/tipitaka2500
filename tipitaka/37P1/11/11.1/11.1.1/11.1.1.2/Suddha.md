@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (7.)
 

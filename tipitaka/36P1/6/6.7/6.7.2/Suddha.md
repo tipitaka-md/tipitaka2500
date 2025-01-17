@@ -3,13 +3,13 @@
 
 # Suddha
 
-### Saṃkiliṭṭhattika
+* Saṃkiliṭṭhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Suddha
+* Suddha
 
 (35.)
 

@@ -3,15 +3,15 @@
 
 # Navipāka
 
-### Parittattika
+* Parittattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipāka
+* Navipāka
 
 (50.)
 

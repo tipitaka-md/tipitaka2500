@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Mahantaraduka, Kusalattika
+* Mahantaraduka, Kusalattika
 
-### Cittasampayuttaduka, Kusalattika
+* Cittasampayuttaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (35.)
 

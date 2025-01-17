@@ -3,17 +3,17 @@
 
 # Āhāra
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavasampayuttaduka
+* Āsavasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhāra
+* Āhāra
 
 (94.)
 

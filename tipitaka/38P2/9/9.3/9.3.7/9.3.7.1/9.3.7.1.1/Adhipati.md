@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsasampayuttaduka
+* Parāmāsasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (66.)
 

@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānasampayuttaduka
+* Upādānasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (89.)
 

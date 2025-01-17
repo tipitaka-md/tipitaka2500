@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Savitakkaduka
+* Savitakkaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (110.)
 

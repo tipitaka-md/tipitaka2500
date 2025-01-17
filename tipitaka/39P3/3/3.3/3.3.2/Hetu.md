@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Cūḷantaraduka, Kusalattika
+* Cūḷantaraduka, Kusalattika
 
-### Sanidassanaduka, Kusalattika
+* Sanidassanaduka, Kusalattika
 
-### Akusalapada
+* Akusalapada
 
-### Hetu
+* Hetu
 
 (17.)
 

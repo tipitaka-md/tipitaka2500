@@ -3,15 +3,15 @@
 
 # Kammaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Kamma
+* Kamma
 
-### Kammaduka
+* Kammaduka
 
 (447.)
 

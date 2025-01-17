@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇa
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Dassanenapahātabbattika, Hetuduka
+* Dassanenapahātabbattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (118.)
 

@@ -3,15 +3,15 @@
 
 # Atthyādi
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthyādi
+* Atthyādi
 
 (50.)
 

@@ -3,15 +3,15 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āhāraduka
+* Āhāraduka
 
-### Catukka
+* Catukka
 
 320\. Āhārapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 

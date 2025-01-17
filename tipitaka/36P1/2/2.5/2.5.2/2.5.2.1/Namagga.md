@@ -3,15 +3,15 @@
 
 # Namagga
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Namagga
+* Namagga
 
 (221.)
 

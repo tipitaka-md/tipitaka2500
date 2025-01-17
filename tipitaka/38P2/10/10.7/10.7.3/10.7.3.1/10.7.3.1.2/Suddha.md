@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasahabhūduka
+* Cittasahabhūduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (250.)
 

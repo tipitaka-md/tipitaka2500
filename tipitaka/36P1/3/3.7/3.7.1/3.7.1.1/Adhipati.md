@@ -3,15 +3,15 @@
 
 # Adhipati
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (42.)
 

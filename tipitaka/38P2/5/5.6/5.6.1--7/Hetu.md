@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthavippayuttaganthaniyaduka
+* Ganthavippayuttaganthaniyaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu
+* Hetu
 
 (117.)
 

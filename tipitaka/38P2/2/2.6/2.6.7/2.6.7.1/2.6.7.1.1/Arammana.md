@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Lokiyaduka
+* Lokiyaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (149.)
 

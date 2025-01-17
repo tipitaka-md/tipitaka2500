@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Upādānagocchaka, Kusalattika
+* Upādānagocchaka, Kusalattika
 
-### Upādānaduka, Kusalattika
+* Upādānaduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (1.)
 

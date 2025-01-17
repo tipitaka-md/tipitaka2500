@@ -3,15 +3,15 @@
 
 # Nahetu
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (215.)
 

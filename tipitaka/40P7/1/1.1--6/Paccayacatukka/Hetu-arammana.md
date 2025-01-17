@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (1.)
 

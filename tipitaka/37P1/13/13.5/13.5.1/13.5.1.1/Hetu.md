@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Parittattika
+* Parittattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (42.)
 

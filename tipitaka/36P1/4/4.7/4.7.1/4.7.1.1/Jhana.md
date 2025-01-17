@@ -3,15 +3,15 @@
 
 # Jhāna
 
-### Vipākattika
+* Vipākattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Jhāna
+* Jhāna
 
 (112.)
 

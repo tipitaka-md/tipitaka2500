@@ -3,15 +3,15 @@
 
 # Nahetuduka
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Lokiyaduka
+* Lokiyaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
 (175.)
 

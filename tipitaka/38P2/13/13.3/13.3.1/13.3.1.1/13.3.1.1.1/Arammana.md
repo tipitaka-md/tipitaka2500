@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Dassanenapahātabbahetukaduka
+* Dassanenapahātabbahetukaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (50.)
 

@@ -3,15 +3,15 @@
 
 # Sahajātaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sahajāta
+* Sahajāta
 
-### Sahajātaduka
+* Sahajātaduka
 
 (431.)
 

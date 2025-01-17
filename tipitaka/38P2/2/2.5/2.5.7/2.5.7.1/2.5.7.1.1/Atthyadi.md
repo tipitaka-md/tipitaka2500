@@ -3,17 +3,17 @@
 
 # Atthyādi
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Rūpīduka
+* Rūpīduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthyādi
+* Atthyādi
 
 (125.)
 

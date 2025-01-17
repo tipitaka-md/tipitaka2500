@@ -3,15 +3,15 @@
 
 # Napurejāta
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Napurejāta
+* Napurejāta
 
 (51.)
 

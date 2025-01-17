@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Kenaciviññeyyaduka
+* Kenaciviññeyyaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyādi
+* Paccayapaccanīyādi
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (180.)
 

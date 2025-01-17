@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sampayutta
+* Sampayutta
 
-### Ghaṭanā
+* Ghaṭanā
 
 2003\. Sampayutta sahajāta aññamañña nissaya atthi avigatanti tīṇi. Sampayutta sahajāta aññamañña nissaya vipāka atthi avigatanti tīṇi.
 

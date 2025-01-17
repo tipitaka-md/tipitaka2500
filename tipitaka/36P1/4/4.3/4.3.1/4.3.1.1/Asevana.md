@@ -3,15 +3,15 @@
 
 # Āsevana
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āsevana
+* Āsevana
 
 (70.)
 

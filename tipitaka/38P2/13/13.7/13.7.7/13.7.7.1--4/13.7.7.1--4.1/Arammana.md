@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Sappītikaduka
+* Sappītikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (150.)
 

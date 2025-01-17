@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (223.)
 

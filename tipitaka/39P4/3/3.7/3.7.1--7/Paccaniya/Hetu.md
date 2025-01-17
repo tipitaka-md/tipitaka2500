@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Kusalattika, Cūḷantaraduka
+* Kusalattika, Cūḷantaraduka
 
-### Kusalattika, Kenaciviññeyyaduka
+* Kusalattika, Kenaciviññeyyaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Hetu
+* Hetu
 
 (46.)
 

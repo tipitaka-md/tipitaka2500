@@ -3,15 +3,15 @@
 
 # Sahajāta
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajāta
+* Sahajāta
 
 880\. Dassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati sahajātapaccayā—  dassanena pahātabbaṃ ekaṃ khandhaṃ…  tīṇi.
 

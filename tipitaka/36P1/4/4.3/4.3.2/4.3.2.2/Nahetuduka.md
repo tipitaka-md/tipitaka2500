@@ -3,15 +3,15 @@
 
 # Nahetuduka
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
 (79.)
 

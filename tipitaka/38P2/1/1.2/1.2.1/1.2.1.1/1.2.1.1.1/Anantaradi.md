@@ -3,17 +3,17 @@
 
 # Anantarādi
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Sahetukaduka
+* Sahetukaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantarādi
+* Anantarādi
 
 (56.)
 

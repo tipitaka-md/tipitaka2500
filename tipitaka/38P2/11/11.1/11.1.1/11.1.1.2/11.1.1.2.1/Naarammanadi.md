@@ -3,17 +3,17 @@
 
 # Naārammaṇādi
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānaduka
+* Upādānaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇādi
+* Naārammaṇādi
 
 (7.)
 

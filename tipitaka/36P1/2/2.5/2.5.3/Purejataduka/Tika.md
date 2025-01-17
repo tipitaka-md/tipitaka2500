@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Purejātaduka
+* Purejātaduka
 
-### Tika
+* Tika
 
 767\. Purejātapaccayā hetupaccayā naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi. (Saṃkhittaṃ.)
 

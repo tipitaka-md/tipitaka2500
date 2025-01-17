@@ -3,17 +3,17 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Napurejātaduka
+* Napurejātaduka
 
-### Catukka
+* Catukka
 
 261\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ, naanantare ekaṃ, (sabbattha ekaṃ) nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 

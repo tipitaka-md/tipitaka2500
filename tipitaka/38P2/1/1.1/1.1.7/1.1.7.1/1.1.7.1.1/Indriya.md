@@ -3,17 +3,17 @@
 
 # Indriya
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Hetuduka
+* Hetuduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Indriya
+* Indriya
 
 (36.)
 

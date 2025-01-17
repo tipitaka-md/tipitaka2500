@@ -3,15 +3,15 @@
 
 # Nakamma
 
-### Parittattika
+* Parittattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nakamma
+* Nakamma
 
 (49.)
 

@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Saraṇaduka, Piṭṭhiduka
+* Saraṇaduka, Piṭṭhiduka
 
-### Anuttarapada
+* Anuttarapada
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (92.)
 

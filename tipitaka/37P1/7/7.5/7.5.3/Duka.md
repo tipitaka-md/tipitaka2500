@@ -3,13 +3,13 @@
 
 # Duka
 
-### Vitakkattika
+* Vitakkattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Duka
+* Duka
 
 (64.)
 

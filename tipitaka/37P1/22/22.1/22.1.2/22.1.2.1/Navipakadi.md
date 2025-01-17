@@ -3,15 +3,15 @@
 
 # Navipākādi
 
-### Ajjhattārammaṇattika
+* Ajjhattārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipākādi
+* Navipākādi
 
 (7.)
 

@@ -3,15 +3,15 @@
 
 # Nissaya
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nissaya
+* Nissaya
 
 (285.)
 

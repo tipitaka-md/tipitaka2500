@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Nīvaraṇagocchaka
+* Nīvaraṇagocchaka
 
-### Nīvaraṇanīvaraṇasampayuttaduka
+* Nīvaraṇanīvaraṇasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (107.)
 

@@ -3,17 +3,17 @@
 
 # Naāhārādi
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Sahetukaduka
+* Sahetukaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naāhārādi
+* Naāhārādi
 
 (67.)
 

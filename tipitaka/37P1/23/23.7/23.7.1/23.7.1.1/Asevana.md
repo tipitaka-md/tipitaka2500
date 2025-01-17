@@ -3,15 +3,15 @@
 
 # Āsevana
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āsevana
+* Āsevana
 
 (42.)
 

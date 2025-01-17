@@ -3,15 +3,15 @@
 
 # Jhānādi
 
-### Uppannattika
+* Uppannattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Jhānādi
+* Jhānādi
 
 (16.)
 

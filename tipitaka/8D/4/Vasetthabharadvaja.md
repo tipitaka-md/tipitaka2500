@@ -3,9 +3,9 @@
 
 # Vāseṭṭhabhāradvāja
 
-### Aggaññasutta
+* Aggaññasutta
 
-### Vāseṭṭhabhāradvāja
+* Vāseṭṭhabhāradvāja
 
 (111.)
 

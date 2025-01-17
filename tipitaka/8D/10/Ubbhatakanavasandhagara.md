@@ -3,9 +3,9 @@
 
 # Ubbhatakanavasandhāgāra
 
-### Saṅgītisutta
+* Saṅgītisutta
 
-### Ubbhatakanavasandhāgāra
+* Ubbhatakanavasandhāgāra
 
 (297.)
 

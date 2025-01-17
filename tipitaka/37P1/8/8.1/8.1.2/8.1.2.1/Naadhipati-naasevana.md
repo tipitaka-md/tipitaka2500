@@ -3,15 +3,15 @@
 
 # Naadhipati-naāsevana
 
-### Pītittika
+* Pītittika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipati-naāsevana
+* Naadhipati-naāsevana
 
 (10.)
 

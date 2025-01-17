@@ -3,15 +3,15 @@
 
 # Indriya
 
-### Vipākattika
+* Vipākattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Indriya
+* Indriya
 
 (111.)
 

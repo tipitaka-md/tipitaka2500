@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vippayuttaduka
+* Vippayuttaduka
 
-### Tika
+* Tika
 
 785\. Vippayuttapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
 

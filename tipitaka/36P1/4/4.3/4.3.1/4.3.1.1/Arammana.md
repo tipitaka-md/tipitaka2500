@@ -3,15 +3,15 @@
 
 # Ārammaṇa
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (61.)
 

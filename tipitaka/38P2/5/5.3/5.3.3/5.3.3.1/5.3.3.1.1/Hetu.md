@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthasampayuttaduka
+* Ganthasampayuttaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (55.)
 

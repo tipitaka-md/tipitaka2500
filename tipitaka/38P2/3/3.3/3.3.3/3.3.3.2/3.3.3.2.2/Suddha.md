@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavasampayuttaduka
+* Āsavasampayuttaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (72.)
 

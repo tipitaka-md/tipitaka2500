@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (16.)
 

@@ -3,17 +3,17 @@
 
 # Anantarasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Anantara
+* Anantara
 
-### Anantarasabhāga
+* Anantarasabhāga
 
 (317.)
 

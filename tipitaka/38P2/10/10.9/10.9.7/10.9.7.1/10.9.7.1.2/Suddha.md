@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasaṃsaṭṭhasamuṭṭhānaduka
+* Cittasaṃsaṭṭhasamuṭṭhānaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (309.)
 

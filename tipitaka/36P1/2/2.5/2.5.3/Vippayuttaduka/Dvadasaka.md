@@ -3,15 +3,15 @@
 
 # Dvādasaka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vippayuttaduka
+* Vippayuttaduka
 
-### Dvādasaka
+* Dvādasaka
 
 787\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
 

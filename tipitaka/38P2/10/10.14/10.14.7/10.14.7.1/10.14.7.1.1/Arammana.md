@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādinnaduka
+* Upādinnaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (446.)
 

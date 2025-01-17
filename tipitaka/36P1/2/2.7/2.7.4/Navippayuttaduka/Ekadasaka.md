@@ -3,15 +3,15 @@
 
 # Ekādasaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Navippayuttaduka
+* Navippayuttaduka
 
-### Ekādasaka
+* Ekādasaka
 
 1773\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissayapaccayā kamme dve, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
 

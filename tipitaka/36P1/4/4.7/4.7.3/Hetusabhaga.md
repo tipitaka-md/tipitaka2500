@@ -3,13 +3,13 @@
 
 # Hetusabhāga
 
-### Vipākattika
+* Vipākattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetusabhāga
+* Hetusabhāga
 
 (123.)
 

@@ -3,15 +3,15 @@
 
 # Ārammaṇa
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (61.)
 

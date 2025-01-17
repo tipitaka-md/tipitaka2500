@@ -3,17 +3,17 @@
 
 # Nahetu-naārammaṇa
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Rūpāvacaraduka
+* Rūpāvacaraduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu-naārammaṇa
+* Nahetu-naārammaṇa
 
 (230.)
 

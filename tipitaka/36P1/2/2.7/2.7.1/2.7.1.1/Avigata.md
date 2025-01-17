@@ -3,15 +3,15 @@
 
 # Avigata
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Avigata
+* Avigata
 
 (302.)
 

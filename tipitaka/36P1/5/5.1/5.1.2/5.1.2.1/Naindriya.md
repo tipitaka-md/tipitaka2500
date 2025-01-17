@@ -3,15 +3,15 @@
 
 # Naindriya
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naindriya
+* Naindriya
 
 (20.)
 

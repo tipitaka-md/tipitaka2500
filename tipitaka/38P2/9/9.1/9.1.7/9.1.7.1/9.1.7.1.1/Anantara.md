@@ -3,17 +3,17 @@
 
 # Anantara
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsaduka
+* Parāmāsaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara
+* Anantara
 
 (23.)
 

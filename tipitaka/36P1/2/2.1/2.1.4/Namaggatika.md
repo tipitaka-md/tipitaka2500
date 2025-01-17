@@ -3,13 +3,13 @@
 
 # Namaggatika
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Namaggatika
+* Namaggatika
 
 (95.)
 

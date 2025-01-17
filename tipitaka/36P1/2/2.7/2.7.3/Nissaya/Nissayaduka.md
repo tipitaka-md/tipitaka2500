@@ -3,15 +3,15 @@
 
 # Nissayaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Nissaya
+* Nissaya
 
-### Nissayaduka
+* Nissayaduka
 
 (435.)
 

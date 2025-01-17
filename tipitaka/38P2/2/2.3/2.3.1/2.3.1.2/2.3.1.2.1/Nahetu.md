@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sanidassanaduka
+* Sanidassanaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (22.)
 

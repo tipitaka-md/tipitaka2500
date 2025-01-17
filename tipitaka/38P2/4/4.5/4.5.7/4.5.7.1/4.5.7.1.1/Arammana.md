@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanasaññojanasampayuttaduka
+* Saññojanasaññojanasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (107.)
 

@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādāduka
+* Upādāduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (386.)
 

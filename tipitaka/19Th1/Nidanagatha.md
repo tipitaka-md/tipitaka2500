@@ -3,7 +3,7 @@
 
 # Nidānagāthā
 
-### Nidānagāthā
+* Nidānagāthā
 
 (814.)
 

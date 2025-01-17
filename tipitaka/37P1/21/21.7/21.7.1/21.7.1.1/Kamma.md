@@ -3,15 +3,15 @@
 
 # Kamma
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (41.)
 

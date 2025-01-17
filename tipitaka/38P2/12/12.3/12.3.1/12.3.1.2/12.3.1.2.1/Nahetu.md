@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Saṃkiliṭṭhaduka
+* Saṃkiliṭṭhaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (42.)
 

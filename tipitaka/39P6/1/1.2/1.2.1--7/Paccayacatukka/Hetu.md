@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Hetuduka, Duka
+* Hetuduka, Duka
 
-### Hetuduka, Hetusampayuttaduka
+* Hetuduka, Hetusampayuttaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (12.)
 

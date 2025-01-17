@@ -3,17 +3,17 @@
 
 # Napurejātādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Vipākattika
+* Hetuduka, Vipākattika
 
-### Vipākadhammapada
+* Vipākadhammapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Napurejātādi
+* Napurejātādi
 
 (125.)
 

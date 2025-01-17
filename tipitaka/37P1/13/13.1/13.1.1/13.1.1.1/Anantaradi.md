@@ -3,15 +3,15 @@
 
 # Anantarādi
 
-### Parittattika
+* Parittattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantarādi
+* Anantarādi
 
 (8.)
 

@@ -3,15 +3,15 @@
 
 # Paccayacatukka
 
-### Piṭṭhiduka, Kusalattika
+* Piṭṭhiduka, Kusalattika
 
-### Sappītikaduka, Kusalattika
+* Sappītikaduka, Kusalattika
 
-### Kusalapada
+* Kusalapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (45.)
 

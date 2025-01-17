@@ -3,17 +3,17 @@
 
 # Pacchājāta
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Nahetusahetukaduka
+* Nahetusahetukaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājāta
+* Pacchājāta
 
 (184.)
 

@@ -3,17 +3,17 @@
 
 # Atthi
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cetasikaduka
+* Cetasikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthi
+* Atthi
 
 (134.)
 

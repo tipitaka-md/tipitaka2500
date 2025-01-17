@@ -3,17 +3,17 @@
 
 # Vippayutta
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Nahetusahetukaduka
+* Nahetusahetukaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (192.)
 

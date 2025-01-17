@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanasaññojanasampayuttaduka
+* Saññojanasaññojanasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (111.)
 

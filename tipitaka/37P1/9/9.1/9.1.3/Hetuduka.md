@@ -3,13 +3,13 @@
 
 # Hetuduka
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (33.)
 

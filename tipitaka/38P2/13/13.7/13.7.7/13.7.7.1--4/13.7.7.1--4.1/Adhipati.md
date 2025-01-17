@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Sappītikaduka
+* Sappītikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (153.)
 

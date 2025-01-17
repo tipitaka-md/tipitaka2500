@@ -3,15 +3,15 @@
 
 # Navippayuttaduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Navippayuttaduka
+* Navippayuttaduka
 
 (24.)
 

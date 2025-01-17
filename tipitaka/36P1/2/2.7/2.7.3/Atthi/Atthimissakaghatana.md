@@ -3,15 +3,15 @@
 
 # Atthimissakaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Atthi
+* Atthi
 
-### Atthimissakaghaṭanā
+* Atthimissakaghaṭanā
 
 (490.)
 

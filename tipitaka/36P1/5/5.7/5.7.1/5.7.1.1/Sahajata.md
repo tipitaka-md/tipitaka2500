@@ -3,15 +3,15 @@
 
 # Sahajāta
 
-### Upādinnattika
+* Upādinnattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajāta
+* Sahajāta
 
 (58.)
 

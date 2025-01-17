@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sahajāta
+* Sahajāta
 
-### Ghaṭanā
+* Ghaṭanā
 
 1966\. Nissaya sahajāta aññamañña sampayutta atthi avigatanti tīṇi. Nissaya sahajāta aññamañña vipāka sampayutta atthi avigatanti tīṇi.
 

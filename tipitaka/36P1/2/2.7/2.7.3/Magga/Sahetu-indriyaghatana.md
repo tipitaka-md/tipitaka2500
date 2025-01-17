@@ -3,15 +3,15 @@
 
 # Sahetu-indriyaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Magga
+* Magga
 
-### Sahetu-indriyaghaṭanā
+* Sahetu-indriyaghaṭanā
 
 (481.)
 

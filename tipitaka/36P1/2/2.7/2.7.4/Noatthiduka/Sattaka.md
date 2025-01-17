@@ -3,15 +3,15 @@
 
 # Sattaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Noatthiduka
+* Noatthiduka
 
-### Sattaka
+* Sattaka
 
 1782\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā upanissaye nava, kamme dve…pe… .
 

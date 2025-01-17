@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Lokiyaduka
+* Lokiyaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (171.)
 

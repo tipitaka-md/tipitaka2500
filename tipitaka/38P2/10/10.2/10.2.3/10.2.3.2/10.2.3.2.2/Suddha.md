@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittaduka
+* Cittaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (66.)
 

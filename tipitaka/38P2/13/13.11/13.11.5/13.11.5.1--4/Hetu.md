@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Kāmāvacaraduka
+* Kāmāvacaraduka
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Hetu
+* Hetu
 
 (205.)
 

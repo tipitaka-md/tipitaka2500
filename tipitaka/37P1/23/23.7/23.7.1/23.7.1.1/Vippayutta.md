@@ -3,15 +3,15 @@
 
 # Vippayutta
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (49.)
 

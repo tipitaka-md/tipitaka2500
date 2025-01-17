@@ -3,17 +3,17 @@
 
 # Naadhipatyādi
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Hetusahetukaduka
+* Hetusahetukaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (131.)
 

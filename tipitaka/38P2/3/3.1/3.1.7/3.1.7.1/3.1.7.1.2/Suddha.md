@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavaduka
+* Āsavaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (40.)
 

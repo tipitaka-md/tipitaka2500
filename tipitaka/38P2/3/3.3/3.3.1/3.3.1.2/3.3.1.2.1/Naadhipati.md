@@ -3,17 +3,17 @@
 
 # Naadhipati
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavasampayuttaduka
+* Āsavasampayuttaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipati
+* Naadhipati
 
 (58.)
 

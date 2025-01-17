@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sanidassanaduka
+* Sanidassanaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (36.)
 

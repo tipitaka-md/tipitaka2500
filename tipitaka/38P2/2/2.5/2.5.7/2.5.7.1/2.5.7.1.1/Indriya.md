@@ -3,17 +3,17 @@
 
 # Indriya
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Rūpīduka
+* Rūpīduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Indriya
+* Indriya
 
 (122.)
 

@@ -3,15 +3,15 @@
 
 # Indriyaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Indriya
+* Indriya
 
-### Indriyaduka
+* Indriyaduka
 
 (458.)
 

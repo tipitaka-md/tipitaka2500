@@ -3,17 +3,17 @@
 
 # Naārammaṇādi
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesaduka
+* Kilesaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇādi
+* Naārammaṇādi
 
 (6.)
 

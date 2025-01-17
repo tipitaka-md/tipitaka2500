@@ -3,17 +3,17 @@
 
 # Hetvādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Micchattaniyatattika
+* Hetuduka, Micchattaniyatattika
 
-### Aniyatapada
+* Aniyatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetvādi
+* Hetvādi
 
 (449.)
 

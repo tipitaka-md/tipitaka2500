@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Kusalattika, Tika
+* Kusalattika, Tika
 
-### Kusalattika, Vedanāttika
+* Kusalattika, Vedanāttika
 
-### Adukkhamasukhavedanāyasampayuttapada
+* Adukkhamasukhavedanāyasampayuttapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (9.)
 

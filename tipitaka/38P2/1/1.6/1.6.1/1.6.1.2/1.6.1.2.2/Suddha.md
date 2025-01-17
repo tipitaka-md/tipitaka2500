@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Nahetusahetukaduka
+* Nahetusahetukaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (166.)
 

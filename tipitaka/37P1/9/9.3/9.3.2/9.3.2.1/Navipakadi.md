@@ -3,15 +3,15 @@
 
 # Navipākādi
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipākādi
+* Navipākādi
 
 (56.)
 

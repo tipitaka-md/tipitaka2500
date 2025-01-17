@@ -3,15 +3,15 @@
 
 # Aññamaññaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Aññamañña
+* Aññamañña
 
-### Aññamaññaduka
+* Aññamaññaduka
 
 (433.)
 

@@ -3,15 +3,15 @@
 
 # Naārammaṇa
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇa
+* Naārammaṇa
 
 (27.)
 

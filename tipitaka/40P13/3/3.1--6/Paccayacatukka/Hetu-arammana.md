@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (17.)
 

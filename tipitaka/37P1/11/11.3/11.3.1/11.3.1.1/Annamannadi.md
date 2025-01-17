@@ -3,15 +3,15 @@
 
 # Aññamaññādi
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamaññādi
+* Aññamaññādi
 
 (24.)
 

@@ -3,17 +3,17 @@
 
 # Anantara
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Dassanenapahātabbahetukaduka
+* Dassanenapahātabbahetukaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara
+* Anantara
 
 (75.)
 

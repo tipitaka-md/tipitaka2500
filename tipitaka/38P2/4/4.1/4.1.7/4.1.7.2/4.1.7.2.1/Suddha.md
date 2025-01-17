@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanaduka
+* Saññojanaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (36.)
 

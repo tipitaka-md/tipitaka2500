@@ -3,15 +3,15 @@
 
 # Kamma
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (89.)
 

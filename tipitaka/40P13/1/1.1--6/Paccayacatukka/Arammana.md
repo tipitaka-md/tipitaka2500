@@ -3,13 +3,13 @@
 
 # Ārammaṇa
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Ārammaṇa
+* Ārammaṇa
 
 (5.)
 

@@ -3,15 +3,15 @@
 
 # Purejāta
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Purejāta
+* Purejāta
 
 (36.)
 

@@ -3,15 +3,15 @@
 
 # Naadhipatyādi
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (23.)
 

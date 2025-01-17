@@ -3,17 +3,17 @@
 
 # Atthyādi
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanasampayuttaduka
+* Saññojanasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthyādi
+* Atthyādi
 
 (87.)
 

@@ -3,15 +3,15 @@
 
 # Navipākādi
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipākādi
+* Navipākādi
 
 (8.)
 

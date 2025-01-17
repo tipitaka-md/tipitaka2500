@@ -3,15 +3,15 @@
 
 # Tika
 
-### Saṃkiliṭṭhattika
+* Saṃkiliṭṭhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Tika
+* Tika
 
 2935\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta. (Saṃkhittaṃ.)
 

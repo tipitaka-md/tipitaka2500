@@ -3,15 +3,15 @@
 
 # Paccanīyuddhāra
 
-### Hetugocchaka, Kusalattika
+* Hetugocchaka, Kusalattika
 
-### Nahetusahetukaduka, Kusalattika
+* Nahetusahetukaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (103.)
 

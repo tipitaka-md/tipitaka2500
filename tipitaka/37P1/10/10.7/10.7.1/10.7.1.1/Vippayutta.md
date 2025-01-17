@@ -3,15 +3,15 @@
 
 # Vippayutta
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (102.)
 

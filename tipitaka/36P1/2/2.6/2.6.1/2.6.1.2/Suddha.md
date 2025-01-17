@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Kusalattika
+* Kusalattika
 
-### Sampayuttavāra
+* Sampayuttavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (259.)
 

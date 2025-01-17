@@ -3,17 +3,17 @@
 
 # Kamma
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsaduka
+* Parāmāsaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (32.)
 

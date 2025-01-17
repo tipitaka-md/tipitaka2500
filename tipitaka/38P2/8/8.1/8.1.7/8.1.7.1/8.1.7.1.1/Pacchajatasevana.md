@@ -3,17 +3,17 @@
 
 # Pacchājātāsevana
 
-### Nīvaraṇagocchaka
+* Nīvaraṇagocchaka
 
-### Nīvaraṇaduka
+* Nīvaraṇaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājātāsevana
+* Pacchājātāsevana
 
 (37.)
 

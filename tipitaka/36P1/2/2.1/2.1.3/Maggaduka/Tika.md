@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Maggaduka
+* Maggaduka
 
-### Tika
+* Tika
 
 331\. Maggapaccayā hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 

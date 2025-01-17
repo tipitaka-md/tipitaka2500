@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavaāsavasampayuttaduka
+* Āsavaāsavasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (125.)
 

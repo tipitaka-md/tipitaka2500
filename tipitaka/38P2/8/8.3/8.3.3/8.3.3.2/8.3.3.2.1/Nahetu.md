@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Nīvaraṇagocchaka
+* Nīvaraṇagocchaka
 
-### Nīvaraṇasampayuttaduka
+* Nīvaraṇasampayuttaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (62.)
 

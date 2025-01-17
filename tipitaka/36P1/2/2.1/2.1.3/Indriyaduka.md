@@ -3,13 +3,13 @@
 
 # Indriyaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Indriyaduka
+* Indriyaduka
 
 (75.)
 

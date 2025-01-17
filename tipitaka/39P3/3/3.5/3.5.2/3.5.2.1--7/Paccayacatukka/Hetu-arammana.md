@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇa
 
-### Cūḷantaraduka, Kusalattika
+* Cūḷantaraduka, Kusalattika
 
-### Rūpīduka, Kusalattika
+* Rūpīduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (38.)
 

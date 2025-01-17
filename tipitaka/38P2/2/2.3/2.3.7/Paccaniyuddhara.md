@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sanidassanaduka
+* Sanidassanaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (49.)
 

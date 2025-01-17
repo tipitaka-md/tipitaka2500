@@ -3,17 +3,17 @@
 
 # Nakammādi
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Hetuduka
+* Hetuduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nakammādi
+* Nakammādi
 
 (12.)
 

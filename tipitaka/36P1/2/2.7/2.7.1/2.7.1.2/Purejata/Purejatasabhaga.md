@@ -3,17 +3,17 @@
 
 # Purejātasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Purejāta
+* Purejāta
 
-### Purejātasabhāga
+* Purejātasabhāga
 
 (331.)
 

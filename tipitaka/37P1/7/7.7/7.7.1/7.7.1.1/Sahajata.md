@@ -3,15 +3,15 @@
 
 # Sahajāta
 
-### Vitakkattika
+* Vitakkattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajāta
+* Sahajāta
 
 (85.)
 

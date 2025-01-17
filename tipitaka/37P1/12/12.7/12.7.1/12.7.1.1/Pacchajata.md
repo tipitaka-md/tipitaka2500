@@ -3,15 +3,15 @@
 
 # Pacchājāta
 
-### Sekkhattika
+* Sekkhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājāta
+* Pacchājāta
 
 (57.)
 

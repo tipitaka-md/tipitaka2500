@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanaduka
+* Saññojanaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (37.)
 

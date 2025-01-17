@@ -3,17 +3,17 @@
 
 # Hetu-adhipati
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Ācayagāmittika
+* Hetuduka, Ācayagāmittika
 
-### Apacayagāmipada
+* Apacayagāmipada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-adhipati
+* Hetu-adhipati
 
 (318.)
 

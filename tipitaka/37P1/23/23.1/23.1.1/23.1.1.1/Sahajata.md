@@ -3,15 +3,15 @@
 
 # Sahajāta
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajāta
+* Sahajāta
 
 (9.)
 

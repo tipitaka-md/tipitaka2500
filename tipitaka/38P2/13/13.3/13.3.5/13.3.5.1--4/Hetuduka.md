@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Dassanenapahātabbahetukaduka
+* Dassanenapahātabbahetukaduka
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetuduka
+* Hetuduka
 
 4221\. Hetupaccayā naadhipatiyā cattāri, napurejāte cattāri…pe…  navippayutte cattāri.
 

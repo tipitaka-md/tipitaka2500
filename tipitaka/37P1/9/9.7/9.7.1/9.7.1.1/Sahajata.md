@@ -3,15 +3,15 @@
 
 # Sahajāta
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajāta
+* Sahajāta
 
 (79.)
 

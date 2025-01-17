@@ -3,15 +3,15 @@
 
 # Najhānādi
 
-### Pītittika
+* Pītittika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Najhānādi
+* Najhānādi
 
 (13.)
 

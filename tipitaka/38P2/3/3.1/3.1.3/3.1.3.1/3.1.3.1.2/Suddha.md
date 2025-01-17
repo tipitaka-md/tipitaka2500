@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavaduka
+* Āsavaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (12.)
 

@@ -3,17 +3,17 @@
 
 # Nakamma
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādinnaduka
+* Upādinnaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nakamma
+* Nakamma
 
 (425.)
 

@@ -3,13 +3,13 @@
 
 # Nahetu-naārammaṇa
 
-### Piṭṭhiduka, Sanidassanattika
+* Piṭṭhiduka, Sanidassanattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu-naārammaṇa
+* Nahetu-naārammaṇa
 
 (139.)
 

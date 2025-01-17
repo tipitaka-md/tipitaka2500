@@ -3,15 +3,15 @@
 
 # Vipāka
 
-### Sekkhattika
+* Sekkhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vipāka
+* Vipāka
 
 (62.)
 

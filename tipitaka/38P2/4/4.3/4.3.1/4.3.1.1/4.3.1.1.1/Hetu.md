@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanasampayuttaduka
+* Saññojanasampayuttaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (40.)
 

@@ -3,17 +3,17 @@
 
 # Vippayutta
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānasampayuttaduka
+* Upādānasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (84.)
 

@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Hetusahetukaduka
+* Hetusahetukaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (134.)
 

@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesaduka
+* Kilesaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (4.)
 

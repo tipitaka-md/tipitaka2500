@@ -3,15 +3,15 @@
 
 # Vippayuttaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vippayutta
+* Vippayutta
 
-### Vippayuttaduka
+* Vippayuttaduka
 
 (485.)
 

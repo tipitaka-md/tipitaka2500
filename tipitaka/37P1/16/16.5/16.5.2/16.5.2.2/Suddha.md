@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (33.)
 

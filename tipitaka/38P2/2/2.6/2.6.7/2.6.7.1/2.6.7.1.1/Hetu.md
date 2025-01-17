@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Lokiyaduka
+* Lokiyaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (148.)
 

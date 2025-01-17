@@ -3,15 +3,15 @@
 
 # Tika
 
-### Vipākattika
+* Vipākattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Tika
+* Tika
 
 2433\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta…pe…  avigate terasa.
 

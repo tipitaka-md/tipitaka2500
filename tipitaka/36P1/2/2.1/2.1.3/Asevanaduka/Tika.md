@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āsevanaduka
+* Āsevanaduka
 
-### Tika
+* Tika
 
 307\. Āsevanapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 

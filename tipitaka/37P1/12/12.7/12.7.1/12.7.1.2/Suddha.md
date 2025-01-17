@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Sekkhattika
+* Sekkhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (68.)
 

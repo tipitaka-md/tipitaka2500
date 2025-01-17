@@ -3,15 +3,15 @@
 
 # Tevīsaka (savipāka)
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vippayuttaduka
+* Vippayuttaduka
 
-### Tevīsaka (savipāka)
+* Tevīsaka (savipāka)
 
 623\. Vippayuttapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā. (Saṃkhittaṃ) Avigatapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
 

@@ -3,17 +3,17 @@
 
 # Kammādi
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanasaññojanasampayuttaduka
+* Saññojanasaññojanasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kammādi
+* Kammādi
 
 (110.)
 

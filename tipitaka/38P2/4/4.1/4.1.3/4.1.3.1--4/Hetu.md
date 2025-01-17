@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanaduka
+* Saññojanaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Hetu
+* Hetu
 
 (10.)
 

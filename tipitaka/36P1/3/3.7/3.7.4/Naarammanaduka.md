@@ -3,13 +3,13 @@
 
 # Naārammaṇaduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Naārammaṇaduka
+* Naārammaṇaduka
 
 (89.)
 

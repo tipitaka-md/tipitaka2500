@@ -3,13 +3,13 @@
 
 # Ghaṭanā
 
-### Saṃkiliṭṭhattika
+* Saṃkiliṭṭhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Ghaṭanā
+* Ghaṭanā
 
 2931\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe…  naaññamaññe tīṇi…pe…  nasampayutte tīṇi, navippayutte tīṇi…pe…  novigate satta. (Saṃkhittaṃ.)
 

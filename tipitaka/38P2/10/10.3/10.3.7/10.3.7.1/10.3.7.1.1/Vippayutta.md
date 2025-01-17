@@ -3,17 +3,17 @@
 
 # Vippayutta
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cetasikaduka
+* Cetasikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (133.)
 

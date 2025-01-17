@@ -3,17 +3,17 @@
 
 # Naadhipati
 
-### Cūḷantaraduka, Kusalattika
+* Cūḷantaraduka, Kusalattika
 
-### Sappaccayaduka, Kusalattika
+* Sappaccayaduka, Kusalattika
 
-### Kusalākusalapada
+* Kusalākusalapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Naadhipati
+* Naadhipati
 
 (3.)
 

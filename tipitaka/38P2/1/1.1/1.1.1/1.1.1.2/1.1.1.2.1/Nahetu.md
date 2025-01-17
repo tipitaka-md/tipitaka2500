@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Hetuduka
+* Hetuduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (6.)
 

@@ -3,15 +3,15 @@
 
 # Ekādasaka
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
-### Ekādasaka
+* Ekādasaka
 
 2151\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā (mūlakaṃ saṃkhittaṃ) purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve. (Saṃkhittaṃ.)
 

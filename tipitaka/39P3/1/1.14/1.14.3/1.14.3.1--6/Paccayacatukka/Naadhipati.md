@@ -3,17 +3,17 @@
 
 # Naadhipati
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Hīnattika
+* Hetuduka, Hīnattika
 
-### Paṇītapada
+* Paṇītapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Naadhipati
+* Naadhipati
 
 (423.)
 

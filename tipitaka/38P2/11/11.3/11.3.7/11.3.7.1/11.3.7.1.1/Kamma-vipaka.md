@@ -3,17 +3,17 @@
 
 # Kamma-vipāka
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānasampayuttaduka
+* Upādānasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma-vipāka
+* Kamma-vipāka
 
 (81.)
 

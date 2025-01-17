@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Kusalattika, Tika
+* Kusalattika, Tika
 
-### Kusalattika, Hīnattika
+* Kusalattika, Hīnattika
 
-### Paṇītapada
+* Paṇītapada
 
-### Hetu
+* Hetu
 
 (62.)
 

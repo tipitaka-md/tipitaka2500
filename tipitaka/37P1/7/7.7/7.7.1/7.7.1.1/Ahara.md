@@ -3,15 +3,15 @@
 
 # Āhāra
 
-### Vitakkattika
+* Vitakkattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhāra
+* Āhāra
 
 (119.)
 

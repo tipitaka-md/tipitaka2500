@@ -3,15 +3,15 @@
 
 # Nonatthi-novigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nonatthi-novigataduka
+* Nonatthi-novigataduka
 
 (63.)
 

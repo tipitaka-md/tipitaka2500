@@ -3,15 +3,15 @@
 
 # Napurejātādi
 
-### Sekkhattika
+* Sekkhattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Napurejātādi
+* Napurejātādi
 
 (38.)
 

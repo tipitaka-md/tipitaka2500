@@ -3,15 +3,15 @@
 
 # Navipākādi
 
-### Vitakkattika
+* Vitakkattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipākādi
+* Navipākādi
 
 (40.)
 

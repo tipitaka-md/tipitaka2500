@@ -3,15 +3,15 @@
 
 # Naāhāra
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naāhāra
+* Naāhāra
 
 (44.)
 

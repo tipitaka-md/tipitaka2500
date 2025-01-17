@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanasampayuttaduka
+* Saññojanasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (71.)
 

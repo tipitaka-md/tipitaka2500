@@ -3,17 +3,17 @@
 
 # Naārammaṇa
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cetasikaduka
+* Cetasikaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇa
+* Naārammaṇa
 
 (102.)
 

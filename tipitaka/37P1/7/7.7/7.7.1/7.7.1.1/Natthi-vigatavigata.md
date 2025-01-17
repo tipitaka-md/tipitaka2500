@@ -3,15 +3,15 @@
 
 # Natthi-vigatāvigata
 
-### Vitakkattika
+* Vitakkattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Natthi-vigatāvigata
+* Natthi-vigatāvigata
 
 (137.)
 

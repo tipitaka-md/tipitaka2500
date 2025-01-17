@@ -3,15 +3,15 @@
 
 # Āsevana
 
-### Pītittika
+* Pītittika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āsevana
+* Āsevana
 
 (37.)
 

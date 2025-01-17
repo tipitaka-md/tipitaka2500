@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇa
 
-### Āsavagocchaka, Kusalattika
+* Āsavagocchaka, Kusalattika
 
-### Āsavavippayuttasāsavaduka, Kusalattika
+* Āsavavippayuttasāsavaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (54.)
 

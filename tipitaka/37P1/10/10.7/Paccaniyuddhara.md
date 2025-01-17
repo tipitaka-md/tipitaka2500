@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (108.)
 

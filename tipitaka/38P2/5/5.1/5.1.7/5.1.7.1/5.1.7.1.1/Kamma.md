@@ -3,17 +3,17 @@
 
 # Kamma
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthaduka
+* Ganthaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (31.)
 

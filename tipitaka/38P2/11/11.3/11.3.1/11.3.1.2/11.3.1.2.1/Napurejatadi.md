@@ -3,17 +3,17 @@
 
 # Napurejātādi
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānasampayuttaduka
+* Upādānasampayuttaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Napurejātādi
+* Napurejātādi
 
 (53.)
 

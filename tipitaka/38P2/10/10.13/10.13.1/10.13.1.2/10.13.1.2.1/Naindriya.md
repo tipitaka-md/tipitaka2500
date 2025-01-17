@@ -3,17 +3,17 @@
 
 # Naindriya
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādāduka
+* Upādāduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naindriya
+* Naindriya
 
 (380.)
 

@@ -3,15 +3,15 @@
 
 # Navippayutta
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navippayutta
+* Navippayutta
 
 (9.)
 

@@ -3,15 +3,15 @@
 
 # Nahetuduka
 
-### Hetugocchaka
+* Hetugocchaka
 
-### Hetuduka
+* Hetuduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
 (48.)
 

@@ -3,17 +3,17 @@
 
 # Naāhāra
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādāduka
+* Upādāduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naāhāra
+* Naāhāra
 
 (379.)
 

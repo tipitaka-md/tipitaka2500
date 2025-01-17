@@ -3,15 +3,15 @@
 
 # Napurejāta
 
-### Parittattika
+* Parittattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Napurejāta
+* Napurejāta
 
 (16.)
 

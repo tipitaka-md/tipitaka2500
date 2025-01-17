@@ -3,11 +3,11 @@
 
 # Uddesa
 
-### Mūlapariyāyavagga
+* Mūlapariyāyavagga
 
-### Mahāsatipaṭṭhānasutta
+* Mahāsatipaṭṭhānasutta
 
-### Uddesa
+* Uddesa
 
 (106.)
 

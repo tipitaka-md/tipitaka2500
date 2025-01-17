@@ -3,15 +3,15 @@
 
 # Āhārādi
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhārādi
+* Āhārādi
 
 (208.)
 

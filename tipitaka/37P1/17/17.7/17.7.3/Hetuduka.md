@@ -3,13 +3,13 @@
 
 # Hetuduka
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (55.)
 

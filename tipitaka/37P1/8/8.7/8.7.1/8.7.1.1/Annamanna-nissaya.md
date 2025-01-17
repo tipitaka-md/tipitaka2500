@@ -3,15 +3,15 @@
 
 # Aññamañña-nissaya
 
-### Pītittika
+* Pītittika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamañña-nissaya
+* Aññamañña-nissaya
 
 (32.)
 

@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vitakkattika, Hetuduka
+* Vitakkattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Adhipati
+* Adhipati
 
 (99.)
 

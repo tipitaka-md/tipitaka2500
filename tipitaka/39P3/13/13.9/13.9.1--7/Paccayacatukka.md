@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Piṭṭhiduka, Kusalattika
+* Piṭṭhiduka, Kusalattika
 
-### Upekkhāsahagataduka, Kusalattika
+* Upekkhāsahagataduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (57.)
 

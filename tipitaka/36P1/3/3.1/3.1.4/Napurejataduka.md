@@ -3,13 +3,13 @@
 
 # Napurejātaduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Napurejātaduka
+* Napurejātaduka
 
 (28.)
 

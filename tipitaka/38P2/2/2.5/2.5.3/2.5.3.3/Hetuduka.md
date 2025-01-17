@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Rūpīduka
+* Rūpīduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (108.)
 

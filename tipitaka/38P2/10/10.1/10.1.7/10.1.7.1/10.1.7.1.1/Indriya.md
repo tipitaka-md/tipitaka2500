@@ -3,17 +3,17 @@
 
 # Indriya
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Sārammaṇaduka
+* Sārammaṇaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Indriya
+* Indriya
 
 (38.)
 

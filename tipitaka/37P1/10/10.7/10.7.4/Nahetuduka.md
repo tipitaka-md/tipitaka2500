@@ -3,13 +3,13 @@
 
 # Nahetuduka
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
 (115.)
 

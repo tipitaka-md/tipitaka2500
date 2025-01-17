@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasampayuttaduka
+* Cittasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (166.)
 

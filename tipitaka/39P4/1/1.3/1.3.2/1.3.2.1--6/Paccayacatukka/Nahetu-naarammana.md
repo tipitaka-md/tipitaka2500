@@ -3,17 +3,17 @@
 
 # Nahetu-naārammaṇa
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vipākattika, Hetuduka
+* Vipākattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Nahetu-naārammaṇa
+* Nahetu-naārammaṇa
 
 (45.)
 

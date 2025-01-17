@@ -3,17 +3,17 @@
 
 # Anantarādi
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādāduka
+* Upādāduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantarādi
+* Anantarādi
 
 (397.)
 

@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Tika, Saraṇaduka
+* Tika, Saraṇaduka
 
-### Upādinnattika, Saraṇaduka
+* Upādinnattika, Saraṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (13.)
 

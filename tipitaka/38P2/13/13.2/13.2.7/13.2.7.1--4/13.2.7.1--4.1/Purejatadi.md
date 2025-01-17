@@ -3,17 +3,17 @@
 
 # Purejātādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Bhāvanāyapahātabbaduka
+* Bhāvanāyapahātabbaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Purejātādi
+* Purejātādi
 
 (44.)
 

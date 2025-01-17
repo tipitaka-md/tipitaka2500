@@ -3,15 +3,15 @@
 
 # Naadhipatyādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Kāmāvacaraduka
+* Kāmāvacaraduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (204.)
 

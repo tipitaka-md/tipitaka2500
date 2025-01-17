@@ -3,15 +3,15 @@
 
 # Adhipatyādi
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipatyādi
+* Adhipatyādi
 
 (67.)
 

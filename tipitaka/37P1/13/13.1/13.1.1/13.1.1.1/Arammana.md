@@ -3,15 +3,15 @@
 
 # Ārammaṇa
 
-### Parittattika
+* Parittattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (5.)
 

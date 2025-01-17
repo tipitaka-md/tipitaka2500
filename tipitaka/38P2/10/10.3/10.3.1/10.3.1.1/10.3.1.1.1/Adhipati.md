@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cetasikaduka
+* Cetasikaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (97.)
 

@@ -3,15 +3,15 @@
 
 # Atthi
 
-### Parittattika
+* Parittattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthi
+* Atthi
 
 (83.)
 

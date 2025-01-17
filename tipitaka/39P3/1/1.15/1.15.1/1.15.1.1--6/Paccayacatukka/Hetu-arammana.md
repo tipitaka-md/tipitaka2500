@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇa
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Micchattaniyatattika
+* Hetuduka, Micchattaniyatattika
 
-### Micchattaniyatapada
+* Micchattaniyatapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (429.)
 

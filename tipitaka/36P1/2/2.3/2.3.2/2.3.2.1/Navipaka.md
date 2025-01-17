@@ -3,15 +3,15 @@
 
 # Navipāka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipāka
+* Navipāka
 
 (148.)
 

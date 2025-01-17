@@ -3,15 +3,15 @@
 
 # Upanissaya
 
-### Atītārammaṇattika
+* Atītārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Upanissaya
+* Upanissaya
 
 (31.)
 

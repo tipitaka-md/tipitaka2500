@@ -3,17 +3,17 @@
 
 # Vippayutta
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Saṃkiliṭṭhaduka
+* Saṃkiliṭṭhaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (64.)
 

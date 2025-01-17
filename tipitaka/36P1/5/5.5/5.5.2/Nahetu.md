@@ -3,13 +3,13 @@
 
 # Nahetu
 
-### Upādinnattika
+* Upādinnattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Nahetu
+* Nahetu
 
 (49.)
 

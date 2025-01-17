@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Uppannattika
+* Uppannattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (20.)
 

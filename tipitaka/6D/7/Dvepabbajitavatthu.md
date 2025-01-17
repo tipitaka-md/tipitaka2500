@@ -3,9 +3,9 @@
 
 # Dvepabbajitavatthu
 
-### Jāliyasutta
+* Jāliyasutta
 
-### Dvepabbajitavatthu
+* Dvepabbajitavatthu
 
 (378.)
 

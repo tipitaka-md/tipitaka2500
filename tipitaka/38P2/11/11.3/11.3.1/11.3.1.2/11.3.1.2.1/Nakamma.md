@@ -3,17 +3,17 @@
 
 # Nakamma
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānasampayuttaduka
+* Upādānasampayuttaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nakamma
+* Nakamma
 
 (55.)
 

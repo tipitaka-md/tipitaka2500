@@ -3,15 +3,15 @@
 
 # Sampayutta
 
-### Vitakkattika
+* Vitakkattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sampayutta
+* Sampayutta
 
 (124.)
 

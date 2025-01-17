@@ -3,17 +3,17 @@
 
 # Āhāra
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādāduka
+* Upādāduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhāra
+* Āhāra
 
 (403.)
 

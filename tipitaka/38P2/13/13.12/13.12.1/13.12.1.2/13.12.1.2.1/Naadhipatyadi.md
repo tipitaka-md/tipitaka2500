@@ -3,17 +3,17 @@
 
 # Naadhipatyādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Rūpāvacaraduka
+* Rūpāvacaraduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (231.)
 

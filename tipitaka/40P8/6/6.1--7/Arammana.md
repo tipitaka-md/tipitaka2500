@@ -3,11 +3,11 @@
 
 # Ārammaṇa
 
-### Nahetusahetukaduka
+* Nahetusahetukaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (15.)
 

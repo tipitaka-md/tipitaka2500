@@ -3,15 +3,15 @@
 
 # Purejāta
 
-### Vitakkattika
+* Vitakkattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Purejāta
+* Purejāta
 
 (107.)
 

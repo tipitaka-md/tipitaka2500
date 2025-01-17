@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Kusalattika
+* Kusalattika
 
-### Nissayavāra
+* Nissayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (197.)
 

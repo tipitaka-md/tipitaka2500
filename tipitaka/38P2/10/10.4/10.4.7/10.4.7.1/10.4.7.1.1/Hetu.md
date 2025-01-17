@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasampayuttaduka
+* Cittasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (163.)
 

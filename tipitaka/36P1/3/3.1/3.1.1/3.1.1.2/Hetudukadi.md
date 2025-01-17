@@ -3,15 +3,15 @@
 
 # Hetudukādi
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetudukādi
+* Hetudukādi
 
 (7.)
 

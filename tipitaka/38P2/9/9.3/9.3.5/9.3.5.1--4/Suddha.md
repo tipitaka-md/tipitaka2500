@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsasampayuttaduka
+* Parāmāsasampayuttaduka
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Suddha
+* Suddha
 
 (62.)
 

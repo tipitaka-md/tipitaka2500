@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthaduka
+* Ganthaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (11.)
 

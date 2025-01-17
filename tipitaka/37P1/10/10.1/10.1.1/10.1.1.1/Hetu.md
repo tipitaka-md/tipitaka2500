@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (1.)
 

@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (391.)
 

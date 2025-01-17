@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Sanidassanasappaṭighattika
+* Hetuduka, Sanidassanasappaṭighattika
 
-### Anidassanasappaṭighapada
+* Anidassanasappaṭighapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Suddha
+* Suddha
 
 (542.)
 

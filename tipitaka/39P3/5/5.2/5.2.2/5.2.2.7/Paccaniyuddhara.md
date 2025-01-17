@@ -3,15 +3,15 @@
 
 # Paccanīyuddhāra
 
-### Saññojanagocchaka, Kusalattika
+* Saññojanagocchaka, Kusalattika
 
-### Saññojaniyaduka, Kusalattika
+* Saññojaniyaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (18.)
 

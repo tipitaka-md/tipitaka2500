@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cetasikaduka
+* Cetasikaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (95.)
 

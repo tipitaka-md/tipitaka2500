@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Dassanenapahātabbahetukaduka
+* Dassanenapahātabbahetukaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (61.)
 

@@ -3,15 +3,15 @@
 
 # Natthi-vigatāvigata
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Natthi-vigatāvigata
+* Natthi-vigatāvigata
 
 (96.)
 

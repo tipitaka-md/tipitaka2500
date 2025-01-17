@@ -3,17 +3,17 @@
 
 # Anantarādi
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesaduka
+* Kilesaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantarādi
+* Anantarādi
 
 (20.)
 

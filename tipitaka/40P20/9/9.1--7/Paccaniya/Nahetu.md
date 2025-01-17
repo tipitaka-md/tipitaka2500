@@ -3,13 +3,13 @@
 
 # Nahetu
 
-### Saraṇaduka
+* Saraṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu
+* Nahetu
 
 (56.)
 

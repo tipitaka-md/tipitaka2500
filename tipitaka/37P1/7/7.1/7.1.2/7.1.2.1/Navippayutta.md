@@ -3,15 +3,15 @@
 
 # Navippayutta
 
-### Vitakkattika
+* Vitakkattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navippayutta
+* Navippayutta
 
 (41.)
 

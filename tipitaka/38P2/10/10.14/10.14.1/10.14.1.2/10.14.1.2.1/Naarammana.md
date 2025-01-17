@@ -3,17 +3,17 @@
 
 # Naārammaṇa
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Upādinnaduka
+* Upādinnaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇa
+* Naārammaṇa
 
 (422.)
 

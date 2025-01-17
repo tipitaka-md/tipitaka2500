@@ -3,15 +3,15 @@
 
 # Vipāka
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vipāka
+* Vipāka
 
 (10.)
 

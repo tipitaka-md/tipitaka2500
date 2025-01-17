@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇa-adhipati
 
-### Kusalattika, Hetugocchaka
+* Kusalattika, Hetugocchaka
 
-### Kusalattika, Hetusahetukaduka
+* Kusalattika, Hetusahetukaduka
 
-### Hetusahetukapada
+* Hetusahetukapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa-adhipati
+* Hetu-ārammaṇa-adhipati
 
 (22.)
 

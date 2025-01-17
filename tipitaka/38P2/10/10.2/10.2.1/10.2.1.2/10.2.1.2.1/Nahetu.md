@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittaduka
+* Cittaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (53.)
 

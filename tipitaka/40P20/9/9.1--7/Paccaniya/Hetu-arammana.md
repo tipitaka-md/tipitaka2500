@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Saraṇaduka
+* Saraṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (57.)
 

@@ -3,17 +3,17 @@
 
 # Vippayutta
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavaduka
+* Āsavaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (34.)
 

@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthasampayuttaduka
+* Ganthasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (72.)
 

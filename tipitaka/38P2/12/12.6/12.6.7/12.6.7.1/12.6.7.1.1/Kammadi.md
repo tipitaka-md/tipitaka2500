@@ -3,17 +3,17 @@
 
 # Kammādi
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesasaṃkiliṭṭhaduka
+* Kilesasaṃkiliṭṭhaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kammādi
+* Kammādi
 
 (91.)
 

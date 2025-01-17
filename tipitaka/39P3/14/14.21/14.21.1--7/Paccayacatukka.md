@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Saraṇaduka, Tika
+* Saraṇaduka, Tika
 
-### Saraṇaduka, Ajjhattārammaṇattika
+* Saraṇaduka, Ajjhattārammaṇattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (67.)
 

@@ -3,15 +3,15 @@
 
 # Ārammaṇa
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (28.)
 

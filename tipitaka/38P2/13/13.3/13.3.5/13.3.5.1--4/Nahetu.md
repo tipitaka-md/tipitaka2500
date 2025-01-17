@@ -3,15 +3,15 @@
 
 # Nahetu
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Dassanenapahātabbahetukaduka
+* Dassanenapahātabbahetukaduka
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Nahetu
+* Nahetu
 
 (67.)
 

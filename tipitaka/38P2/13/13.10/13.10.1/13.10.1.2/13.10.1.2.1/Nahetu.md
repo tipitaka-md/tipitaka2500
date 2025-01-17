@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Upekkhāsahagataduka
+* Upekkhāsahagataduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (179.)
 

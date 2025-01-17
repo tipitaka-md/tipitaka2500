@@ -3,15 +3,15 @@
 
 # Naanantara
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naanantara
+* Naanantara
 
 (10.)
 

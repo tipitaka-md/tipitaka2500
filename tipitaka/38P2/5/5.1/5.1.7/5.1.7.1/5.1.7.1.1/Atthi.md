@@ -3,17 +3,17 @@
 
 # Atthi
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthaduka
+* Ganthaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthi
+* Atthi
 
 (34.)
 

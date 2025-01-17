@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Naadhipatiduka
+* Naadhipatiduka
 
-### Tika
+* Tika
 
 799\. Naadhipatipaccayā nahetupaccayā ārammaṇe dve…pe…  avigate dve. (Naadhipatimūlakaṃ nahetumhi ṭhitena nahetumūlakasadisaṃ kātabbaṃ.)
 

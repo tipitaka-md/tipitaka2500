@@ -3,15 +3,15 @@
 
 # Āsevana
 
-### Sekkhattika
+* Sekkhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āsevana
+* Āsevana
 
 (58.)
 

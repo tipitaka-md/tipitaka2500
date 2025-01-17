@@ -3,15 +3,15 @@
 
 # Āhārādi
 
-### Pītittika
+* Pītittika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhārādi
+* Āhārādi
 
 (44.)
 

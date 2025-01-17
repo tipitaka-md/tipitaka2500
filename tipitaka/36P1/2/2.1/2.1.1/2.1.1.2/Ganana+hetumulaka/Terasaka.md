@@ -3,17 +3,17 @@
 
 # Terasaka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Gaṇanā hetumūlakā
+* Gaṇanā hetumūlakā
 
-### Terasaka
+* Terasaka
 
 (26.)
 

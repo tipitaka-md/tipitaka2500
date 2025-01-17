@@ -3,15 +3,15 @@
 
 # Naadhipatyādi
 
-### Ajjhattārammaṇattika
+* Ajjhattārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (5.)
 

@@ -3,15 +3,15 @@
 
 # Nahetuduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
 (17.)
 

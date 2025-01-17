@@ -3,17 +3,17 @@
 
 # Naārammaṇa
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsasampayuttaduka
+* Parāmāsasampayuttaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇa
+* Naārammaṇa
 
 (50.)
 

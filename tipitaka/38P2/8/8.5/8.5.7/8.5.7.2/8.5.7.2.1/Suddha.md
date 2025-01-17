@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Nīvaraṇagocchaka
+* Nīvaraṇagocchaka
 
-### Nīvaraṇanīvaraṇasampayuttaduka
+* Nīvaraṇanīvaraṇasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (108.)
 

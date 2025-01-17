@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthaduka
+* Ganthaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (41.)
 

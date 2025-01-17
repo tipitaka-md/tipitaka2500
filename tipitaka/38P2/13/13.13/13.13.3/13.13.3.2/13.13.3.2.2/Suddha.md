@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Arūpāvacaraduka
+* Arūpāvacaraduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (277.)
 

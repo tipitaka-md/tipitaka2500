@@ -3,17 +3,17 @@
 
 # Purejātādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Vipākattika
+* Hetuduka, Vipākattika
 
-### Nevavipākanavipākadhammapada
+* Nevavipākanavipākadhammapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Purejātādi
+* Purejātādi
 
 (146.)
 

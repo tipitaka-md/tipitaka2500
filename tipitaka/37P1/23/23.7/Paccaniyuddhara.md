@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (59.)
 

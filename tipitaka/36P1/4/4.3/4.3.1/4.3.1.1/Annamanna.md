@@ -3,15 +3,15 @@
 
 # Aññamañña
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamañña
+* Aññamañña
 
 (66.)
 

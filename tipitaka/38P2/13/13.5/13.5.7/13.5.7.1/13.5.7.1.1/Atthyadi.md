@@ -3,17 +3,17 @@
 
 # Atthyādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Savitakkaduka
+* Savitakkaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthyādi
+* Atthyādi
 
 (132.)
 

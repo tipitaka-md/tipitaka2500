@@ -3,11 +3,11 @@
 
 # Paccanīya
 
-### Kusalattika, Vedanāttika
+* Kusalattika, Vedanāttika
 
-### Abyākatapada
+* Abyākatapada
 
-### Paccanīya
+* Paccanīya
 
 (7.)
 

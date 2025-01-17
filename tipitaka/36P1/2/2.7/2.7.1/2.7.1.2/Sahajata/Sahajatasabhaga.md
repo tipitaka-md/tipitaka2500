@@ -3,17 +3,17 @@
 
 # Sahajātasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sahajāta
+* Sahajāta
 
-### Sahajātasabhāga
+* Sahajātasabhāga
 
 (321.)
 

@@ -3,15 +3,15 @@
 
 # Nakamma
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nakamma
+* Nakamma
 
 (54.)
 

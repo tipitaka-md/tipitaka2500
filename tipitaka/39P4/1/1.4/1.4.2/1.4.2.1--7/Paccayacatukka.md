@@ -3,15 +3,15 @@
 
 # Paccayacatukka
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (59.)
 

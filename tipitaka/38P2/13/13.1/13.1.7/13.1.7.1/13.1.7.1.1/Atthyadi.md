@@ -3,17 +3,17 @@
 
 # Atthyādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Dassanenapahātabbaduka
+* Dassanenapahātabbaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthyādi
+* Atthyādi
 
 (27.)
 

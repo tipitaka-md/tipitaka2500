@@ -3,15 +3,15 @@
 
 # Navippayutta
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navippayutta
+* Navippayutta
 
 (23.)
 

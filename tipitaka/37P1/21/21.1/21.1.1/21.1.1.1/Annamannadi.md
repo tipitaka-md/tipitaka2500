@@ -3,15 +3,15 @@
 
 # Aññamaññādi
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamaññādi
+* Aññamaññādi
 
 (5.)
 

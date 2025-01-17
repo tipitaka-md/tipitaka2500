@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Hetuduka
+* Hetuduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (2.)
 

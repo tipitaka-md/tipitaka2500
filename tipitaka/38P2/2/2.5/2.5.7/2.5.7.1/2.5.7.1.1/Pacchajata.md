@@ -3,17 +3,17 @@
 
 # Pacchājāta
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Rūpīduka
+* Rūpīduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājāta
+* Pacchājāta
 
 (118.)
 

@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavasampayuttaduka
+* Āsavasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (107.)
 

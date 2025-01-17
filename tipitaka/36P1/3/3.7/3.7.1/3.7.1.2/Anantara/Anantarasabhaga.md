@@ -3,17 +3,17 @@
 
 # Anantarasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Anantara
+* Anantara
 
-### Anantarasabhāga
+* Anantarasabhāga
 
 (69.)
 

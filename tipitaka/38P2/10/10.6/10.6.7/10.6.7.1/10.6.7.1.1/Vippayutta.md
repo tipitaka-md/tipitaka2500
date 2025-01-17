@@ -3,17 +3,17 @@
 
 # Vippayutta
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasamuṭṭhānaduka
+* Cittasamuṭṭhānaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vippayutta
+* Vippayutta
 
 (227.)
 

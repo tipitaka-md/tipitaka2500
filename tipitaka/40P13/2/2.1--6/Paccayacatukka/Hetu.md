@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (12.)
 

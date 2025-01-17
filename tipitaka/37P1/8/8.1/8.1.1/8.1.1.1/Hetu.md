@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Pītittika
+* Pītittika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (1.)
 

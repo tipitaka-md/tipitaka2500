@@ -3,13 +3,13 @@
 
 # Nanissayaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nanissayaduka
+* Nanissayaduka
 
 (501.)
 

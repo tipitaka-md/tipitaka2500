@@ -3,17 +3,17 @@
 
 # Hetvādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Vedanāttika
+* Hetuduka, Vedanāttika
 
-### Adukkhamasukhāyavedanāyasampayuttapada
+* Adukkhamasukhāyavedanāyasampayuttapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetvādi
+* Hetvādi
 
 (99.)
 

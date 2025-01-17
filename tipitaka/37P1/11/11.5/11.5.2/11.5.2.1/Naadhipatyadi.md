@@ -3,15 +3,15 @@
 
 # Naadhipatyādi
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (41.)
 

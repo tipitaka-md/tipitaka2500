@@ -3,15 +3,15 @@
 
 # Sādhipati-āhāraghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Indriya
+* Indriya
 
-### Sādhipati-āhāraghaṭanā
+* Sādhipati-āhāraghaṭanā
 
 (466.)
 

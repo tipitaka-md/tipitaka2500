@@ -3,15 +3,15 @@
 
 # Kamma
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (51.)
 

@@ -3,17 +3,17 @@
 
 # Vigatasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Vigata
+* Vigata
 
-### Vigatasabhāga
+* Vigatasabhāga
 
 (385.)
 

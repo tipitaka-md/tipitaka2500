@@ -3,17 +3,17 @@
 
 # Chakka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Najhānaduka
+* Najhānaduka
 
-### Chakka
+* Chakka
 
 1847\. Najhānapaccayā nahetupaccayā naadhipatipaccayā napacchājātapaccayā naāsevanapaccayā namagge tīṇi. (Saṃkhittaṃ.)
 

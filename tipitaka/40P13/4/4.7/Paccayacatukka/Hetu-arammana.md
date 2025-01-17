@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Upādinnattika
+* Upādinnattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (28.)
 

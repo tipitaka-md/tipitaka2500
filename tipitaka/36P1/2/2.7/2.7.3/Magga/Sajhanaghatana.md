@@ -3,15 +3,15 @@
 
 # Sajhānaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Magga
+* Magga
 
-### Sajhānaghaṭanā
+* Sajhānaghaṭanā
 
 (478.)
 

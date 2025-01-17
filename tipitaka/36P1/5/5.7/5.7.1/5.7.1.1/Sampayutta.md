@@ -3,15 +3,15 @@
 
 # Sampayutta
 
-### Upādinnattika
+* Upādinnattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sampayutta
+* Sampayutta
 
 (79.)
 

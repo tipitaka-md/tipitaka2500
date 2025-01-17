@@ -3,15 +3,15 @@
 
 # Āhārādi
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhārādi
+* Āhārādi
 
 (91.)
 

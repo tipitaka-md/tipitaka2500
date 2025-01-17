@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānaduka
+* Upādānaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (20.)
 

@@ -3,15 +3,15 @@
 
 # Atthiduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Atthi
+* Atthi
 
-### Atthiduka
+* Atthiduka
 
 (489.)
 

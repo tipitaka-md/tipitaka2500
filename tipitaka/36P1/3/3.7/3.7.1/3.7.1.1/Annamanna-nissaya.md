@@ -3,15 +3,15 @@
 
 # Aññamañña-nissaya
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamañña-nissaya
+* Aññamañña-nissaya
 
 (52.)
 

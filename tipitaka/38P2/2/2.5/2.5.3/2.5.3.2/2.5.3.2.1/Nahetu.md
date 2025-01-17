@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Rūpīduka
+* Rūpīduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (104.)
 

@@ -3,15 +3,15 @@
 
 # Nahetu
 
-### Kusalattika, Cūḷantaraduka
+* Kusalattika, Cūḷantaraduka
 
-### Kusalattika, Sappaṭighaduka
+* Kusalattika, Sappaṭighaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu
+* Nahetu
 
 (21.)
 

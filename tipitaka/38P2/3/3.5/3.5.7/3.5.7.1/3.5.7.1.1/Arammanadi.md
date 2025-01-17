@@ -3,17 +3,17 @@
 
 # Ārammaṇādi
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavaāsavasampayuttaduka
+* Āsavaāsavasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (122.)
 

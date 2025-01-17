@@ -3,17 +3,17 @@
 
 # Upanissayādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Vipākattika
+* Hetuduka, Vipākattika
 
-### Vipākapada
+* Vipākapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Upanissayādi
+* Upanissayādi
 
 (116.)
 

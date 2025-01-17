@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Niyataduka
+* Niyataduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (331.)
 

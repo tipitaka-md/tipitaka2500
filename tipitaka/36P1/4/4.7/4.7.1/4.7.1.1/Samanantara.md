@@ -3,15 +3,15 @@
 
 # Samanantara
 
-### Vipākattika
+* Vipākattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Samanantara
+* Samanantara
 
 (98.)
 

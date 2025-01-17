@@ -3,15 +3,15 @@
 
 # Naindriya
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naindriya
+* Naindriya
 
 (26.)
 

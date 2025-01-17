@@ -3,15 +3,15 @@
 
 # Ārammaṇa
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (4.)
 

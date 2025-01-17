@@ -3,15 +3,15 @@
 
 # Jhāna-magga
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Jhāna-magga
+* Jhāna-magga
 
 (130.)
 

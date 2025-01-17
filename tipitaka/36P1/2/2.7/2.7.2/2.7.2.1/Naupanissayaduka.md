@@ -3,15 +3,15 @@
 
 # Naupanissayaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Naupanissayaduka
+* Naupanissayaduka
 
 (403.)
 

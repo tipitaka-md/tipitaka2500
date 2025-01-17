@@ -3,15 +3,15 @@
 
 # Navipāka-najhāna
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipāka-najhāna
+* Navipāka-najhāna
 
 (13.)
 

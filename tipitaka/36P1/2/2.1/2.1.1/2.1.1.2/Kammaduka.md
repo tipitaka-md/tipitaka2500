@@ -3,15 +3,15 @@
 
 # Kammaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Kammaduka
+* Kammaduka
 
 (30.)
 

@@ -3,17 +3,17 @@
 
 # Nahetu-naārammaṇa
 
-### Kusalattika, Hetugocchaka
+* Kusalattika, Hetugocchaka
 
-### Kusalattika, Hetusampayuttaduka
+* Kusalattika, Hetusampayuttaduka
 
-### Hetuvippayuttapada
+* Hetuvippayuttapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Nahetu-naārammaṇa
+* Nahetu-naārammaṇa
 
 (16.)
 

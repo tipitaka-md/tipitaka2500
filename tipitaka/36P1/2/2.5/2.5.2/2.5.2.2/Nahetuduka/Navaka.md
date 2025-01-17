@@ -3,17 +3,17 @@
 
 # Navaka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
-### Navaka
+* Navaka
 
 734\. Nahetupaccayā naadhipatipaccayā…pe…  nakammapaccayā navipākapaccayā namaggapaccayā navippayutte ekaṃ.
 

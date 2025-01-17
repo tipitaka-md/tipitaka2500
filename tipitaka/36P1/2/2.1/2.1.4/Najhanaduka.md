@@ -3,13 +3,13 @@
 
 # Najhānaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Najhānaduka
+* Najhānaduka
 
 (94.)
 

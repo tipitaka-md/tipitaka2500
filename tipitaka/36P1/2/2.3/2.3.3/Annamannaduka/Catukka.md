@@ -3,15 +3,15 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Aññamaññaduka
+* Aññamaññaduka
 
-### Catukka
+* Catukka
 
 594\. Aññamaññapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta. (Saṃkhittaṃ.)
 

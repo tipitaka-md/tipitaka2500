@@ -3,15 +3,15 @@
 
 # Najhānaduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Najhānaduka
+* Najhānaduka
 
 (22.)
 

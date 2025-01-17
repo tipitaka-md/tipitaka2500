@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Dassanenapahātabbahetukattika
+* Hetuduka, Dassanenapahātabbahetukattika
 
-### Nevadassanenanabhāvanāyapahātabbahetukapada
+* Nevadassanenanabhāvanāyapahātabbahetukapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (302.)
 

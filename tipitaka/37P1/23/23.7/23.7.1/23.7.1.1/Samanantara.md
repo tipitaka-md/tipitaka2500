@@ -3,15 +3,15 @@
 
 # Samanantara
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Samanantara
+* Samanantara
 
 (35.)
 

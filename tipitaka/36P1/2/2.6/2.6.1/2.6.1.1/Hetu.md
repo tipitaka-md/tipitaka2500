@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Kusalattika
+* Kusalattika
 
-### Sampayuttavāra
+* Sampayuttavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (256.)
 

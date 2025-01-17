@@ -3,15 +3,15 @@
 
 # Purejāta
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Purejāta
+* Purejāta
 
 (48.)
 

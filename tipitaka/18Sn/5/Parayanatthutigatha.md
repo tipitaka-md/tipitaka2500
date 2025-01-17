@@ -3,9 +3,9 @@
 
 # Pārāyanatthutigāthā
 
-### Pārāyanavagga
+* Pārāyanavagga
 
-### Pārāyanatthutigāthā
+* Pārāyanatthutigāthā
 
 1333\. Idamavoca bhagavā magadhesu viharanto pāsāṇake cetiye, paricārakasoḷasānaṃ brāhmaṇānaṃ ajjhiṭṭho puṭṭho puṭṭho pañhaṃ byākāsi. Ekamekassa cepi pañhassa atthamaññāya dhammamaññāya dhammānudhammaṃ paṭipajjeyya, gaccheyyeva jarāmaraṇassa pāraṃ. Pāraṅgamanīyā ime dhammāti, tasmā imassa dhammapariyāyassa pārāyananteva adhivacanaṃ.
 

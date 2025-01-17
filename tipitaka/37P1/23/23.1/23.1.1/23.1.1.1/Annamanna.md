@@ -3,15 +3,15 @@
 
 # Aññamañña
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamañña
+* Aññamañña
 
 (12.)
 

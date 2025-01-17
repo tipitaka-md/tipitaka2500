@@ -3,13 +3,13 @@
 
 # Hetusabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetusabhāga
+* Hetusabhāga
 
 (86.)
 

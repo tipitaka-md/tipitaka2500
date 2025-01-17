@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Kusalattika, Piṭṭhiduka
+* Kusalattika, Piṭṭhiduka
 
-### Kusalattika, Savitakkaduka
+* Kusalattika, Savitakkaduka
 
-### Avitakkapada
+* Avitakkapada
 
-### Hetu
+* Hetu
 
 (16.)
 

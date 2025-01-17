@@ -3,17 +3,17 @@
 
 # Samanantarasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Samanantara
+* Samanantara
 
-### Samanantarasabhāga
+* Samanantarasabhāga
 
 (319.)
 

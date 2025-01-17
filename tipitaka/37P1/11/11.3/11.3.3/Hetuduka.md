@@ -3,13 +3,13 @@
 
 # Hetuduka
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (35.)
 

@@ -3,15 +3,15 @@
 
 # Atthi
 
-### Uppannattika
+* Uppannattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthi
+* Atthi
 
 (17.)
 

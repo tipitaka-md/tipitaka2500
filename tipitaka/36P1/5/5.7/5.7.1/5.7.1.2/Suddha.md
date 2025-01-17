@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Upādinnattika
+* Upādinnattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (88.)
 

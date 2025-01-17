@@ -3,17 +3,17 @@
 
 # Sampayuttasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sampayutta
+* Sampayutta
 
-### Sampayuttasabhāga
+* Sampayuttasabhāga
 
 (80.)
 

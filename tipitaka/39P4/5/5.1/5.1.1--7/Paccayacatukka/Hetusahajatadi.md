@@ -3,15 +3,15 @@
 
 # Hetusahajātādi
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Sārammaṇaduka
+* Kusalattika, Sārammaṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetusahajātādi
+* Hetusahajātādi
 
 (5.)
 

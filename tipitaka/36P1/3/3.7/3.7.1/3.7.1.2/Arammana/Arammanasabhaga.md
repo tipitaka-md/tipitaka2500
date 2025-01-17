@@ -3,17 +3,17 @@
 
 # Ārammaṇasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Ārammaṇa
+* Ārammaṇa
 
-### Ārammaṇasabhāga
+* Ārammaṇasabhāga
 
 (66.)
 

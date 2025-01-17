@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (10.)
 

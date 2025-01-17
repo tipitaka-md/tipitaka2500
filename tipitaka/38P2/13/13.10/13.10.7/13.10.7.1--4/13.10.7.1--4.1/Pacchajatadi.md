@@ -3,17 +3,17 @@
 
 # Pacchājātādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Upekkhāsahagataduka
+* Upekkhāsahagataduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājātādi
+* Pacchājātādi
 
 (192.)
 

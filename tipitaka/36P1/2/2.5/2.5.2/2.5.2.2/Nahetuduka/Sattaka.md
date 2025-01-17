@@ -3,17 +3,17 @@
 
 # Sattaka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
-### Sattaka
+* Sattaka
 
 733\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ…pe… .
 

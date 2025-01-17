@@ -3,15 +3,15 @@
 
 # Aññamañña
 
-### Parittattika
+* Parittattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamañña
+* Aññamañña
 
 (68.)
 

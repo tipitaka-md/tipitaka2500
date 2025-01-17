@@ -3,13 +3,13 @@
 
 # Nahetuduka
 
-### Saṃkiliṭṭhattika
+* Saṃkiliṭṭhattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
 (7.)
 

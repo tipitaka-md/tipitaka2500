@@ -3,13 +3,13 @@
 
 # Hetuduka
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (12.)
 

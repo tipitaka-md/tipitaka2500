@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetuduka
+* Hetuduka
 
 (74.)
 

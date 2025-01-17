@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Sārammaṇaduka
+* Sārammaṇaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (45.)
 

@@ -3,17 +3,17 @@
 
 # Naārammaṇādi
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sappaṭighaduka
+* Sappaṭighaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇādi
+* Naārammaṇādi
 
 (61.)
 

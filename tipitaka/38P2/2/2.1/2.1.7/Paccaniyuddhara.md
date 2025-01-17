@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sappaccayaduka
+* Sappaccayaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (13.)
 

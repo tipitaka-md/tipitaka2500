@@ -3,17 +3,17 @@
 
 # Ārammaṇādi
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthaganthasampayuttaduka
+* Ganthaganthasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (115.)
 

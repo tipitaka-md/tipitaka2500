@@ -3,17 +3,17 @@
 
 # Nahetu-naārammaṇa
 
-### Kusalattika, Hetugocchaka
+* Kusalattika, Hetugocchaka
 
-### Kusalattika, Sahetukaduka
+* Kusalattika, Sahetukaduka
 
-### Ahetukapada
+* Ahetukapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu-naārammaṇa
+* Nahetu-naārammaṇa
 
 947\. Abyākataṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati nahetupaccayā. (1)
 

@@ -3,17 +3,17 @@
 
 # Vipāka-āhāra
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Sārammaṇaduka
+* Sārammaṇaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vipāka-āhāra
+* Vipāka-āhāra
 
 (37.)
 

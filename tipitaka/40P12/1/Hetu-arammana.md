@@ -3,9 +3,9 @@
 
 # Hetu-ārammaṇa
 
-### Hetuduka, Sahetukadukādi
+* Hetuduka, Sahetukadukādi
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (3.)
 

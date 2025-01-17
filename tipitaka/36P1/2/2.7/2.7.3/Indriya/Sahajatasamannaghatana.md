@@ -3,15 +3,15 @@
 
 # Sahajātasāmaññaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Indriya
+* Indriya
 
-### Sahajātasāmaññaghaṭanā
+* Sahajātasāmaññaghaṭanā
 
 (461.)
 

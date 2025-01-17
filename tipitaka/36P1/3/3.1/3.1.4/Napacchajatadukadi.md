@@ -3,13 +3,13 @@
 
 # Napacchājātadukādi
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Napacchājātadukādi
+* Napacchājātadukādi
 
 (29.)
 

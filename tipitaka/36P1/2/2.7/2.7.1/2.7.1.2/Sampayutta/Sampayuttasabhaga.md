@@ -3,17 +3,17 @@
 
 # Sampayuttasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sampayutta
+* Sampayutta
 
-### Sampayuttasabhāga
+* Sampayuttasabhāga
 
 (373.)
 

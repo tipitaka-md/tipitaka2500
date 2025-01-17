@@ -3,15 +3,15 @@
 
 # Āsevanādi
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āsevanādi
+* Āsevanādi
 
 (3.)
 

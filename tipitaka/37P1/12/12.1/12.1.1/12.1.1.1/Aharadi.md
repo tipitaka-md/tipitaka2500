@@ -3,15 +3,15 @@
 
 # Āhārādi
 
-### Sekkhattika
+* Sekkhattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhārādi
+* Āhārādi
 
 (5.)
 

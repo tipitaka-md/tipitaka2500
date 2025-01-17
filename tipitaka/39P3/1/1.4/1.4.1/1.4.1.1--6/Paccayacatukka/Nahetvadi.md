@@ -3,17 +3,17 @@
 
 # Nahetvādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Upādinnattika
+* Hetuduka, Upādinnattika
 
-### Upādinnupādāniyapada
+* Upādinnupādāniyapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Nahetvādi
+* Nahetvādi
 
 (154.)
 

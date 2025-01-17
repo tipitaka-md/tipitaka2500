@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sappaṭighaduka
+* Sappaṭighaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (56.)
 

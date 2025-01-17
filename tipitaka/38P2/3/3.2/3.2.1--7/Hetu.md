@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Sāsavaduka
+* Sāsavaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu
+* Hetu
 
 (47.)
 

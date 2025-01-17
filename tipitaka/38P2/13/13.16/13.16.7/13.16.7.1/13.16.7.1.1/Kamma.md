@@ -3,17 +3,17 @@
 
 # Kamma
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Niyataduka
+* Niyataduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (338.)
 

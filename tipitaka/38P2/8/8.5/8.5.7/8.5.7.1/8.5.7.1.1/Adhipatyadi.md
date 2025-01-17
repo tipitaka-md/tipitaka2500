@@ -3,17 +3,17 @@
 
 # Adhipatyādi
 
-### Nīvaraṇagocchaka
+* Nīvaraṇagocchaka
 
-### Nīvaraṇanīvaraṇasampayuttaduka
+* Nīvaraṇanīvaraṇasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipatyādi
+* Adhipatyādi
 
 (102.)
 

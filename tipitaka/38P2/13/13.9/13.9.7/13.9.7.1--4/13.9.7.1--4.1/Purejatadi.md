@@ -3,17 +3,17 @@
 
 # Purejātādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Sukhasahagataduka
+* Sukhasahagataduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Purejātādi
+* Purejātādi
 
 (174.)
 

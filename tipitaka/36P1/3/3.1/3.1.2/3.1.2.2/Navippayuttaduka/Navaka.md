@@ -3,17 +3,17 @@
 
 # Navaka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Navippayuttaduka
+* Navippayuttaduka
 
-### Navaka
+* Navaka
 
 1853\. Navippayuttapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā namagge ekaṃ. (Saṃkhittaṃ.)
 

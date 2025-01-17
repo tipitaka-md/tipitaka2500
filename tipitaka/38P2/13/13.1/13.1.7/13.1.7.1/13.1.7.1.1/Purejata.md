@@ -3,17 +3,17 @@
 
 # Purejāta
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Dassanenapahātabbaduka
+* Dassanenapahātabbaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Purejāta
+* Purejāta
 
 (21.)
 

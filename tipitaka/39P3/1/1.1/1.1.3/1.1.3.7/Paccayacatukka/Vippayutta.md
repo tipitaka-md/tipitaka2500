@@ -3,17 +3,17 @@
 
 # Vippayutta
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Kusalattika
+* Hetuduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Vippayutta
+* Vippayutta
 
 (62.)
 

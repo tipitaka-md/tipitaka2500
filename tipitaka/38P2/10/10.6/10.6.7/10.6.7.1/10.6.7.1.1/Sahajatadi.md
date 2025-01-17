@@ -3,17 +3,17 @@
 
 # Sahajātādi
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasamuṭṭhānaduka
+* Cittasamuṭṭhānaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajātādi
+* Sahajātādi
 
 (215.)
 

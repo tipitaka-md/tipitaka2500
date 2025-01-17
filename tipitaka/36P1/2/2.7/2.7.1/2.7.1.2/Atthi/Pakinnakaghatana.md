@@ -3,17 +3,17 @@
 
 # Pakiṇṇakaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Atthi
+* Atthi
 
-### Pakiṇṇakaghaṭanā
+* Pakiṇṇakaghaṭanā
 
 (381.)
 

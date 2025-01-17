@@ -3,9 +3,9 @@
 
 # Nahetu-naārammaṇa
 
-### Saraṇaduka, Sanidassanattika
+* Saraṇaduka, Sanidassanattika
 
-### Nahetu-naārammaṇa
+* Nahetu-naārammaṇa
 
 (103.)
 

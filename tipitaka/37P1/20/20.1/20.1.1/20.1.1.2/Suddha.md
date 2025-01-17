@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Atītārammaṇattika
+* Atītārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (5.)
 

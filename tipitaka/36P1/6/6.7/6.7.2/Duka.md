@@ -3,13 +3,13 @@
 
 # Duka
 
-### Saṃkiliṭṭhattika
+* Saṃkiliṭṭhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Duka
+* Duka
 
 2928\. Nahetupaccayā naārammaṇe cuddasa. (Saṃkhittaṃ.)
 

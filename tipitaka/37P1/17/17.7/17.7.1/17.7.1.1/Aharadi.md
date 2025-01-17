@@ -3,15 +3,15 @@
 
 # Āhārādi
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhārādi
+* Āhārādi
 
 (47.)
 

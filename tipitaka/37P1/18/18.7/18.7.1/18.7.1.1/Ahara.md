@@ -3,15 +3,15 @@
 
 # Āhāra
 
-### Uppannattika
+* Uppannattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Āhāra
+* Āhāra
 
 (14.)
 

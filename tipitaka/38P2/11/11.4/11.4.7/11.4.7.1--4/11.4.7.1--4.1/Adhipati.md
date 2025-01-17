@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānaupādāniyaduka
+* Upādānaupādāniyaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (100.)
 

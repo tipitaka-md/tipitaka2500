@@ -3,15 +3,15 @@
 
 # Anantara-samanantaraduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Anantara-samanantaraduka
+* Anantara-samanantaraduka
 
 (138.)
 

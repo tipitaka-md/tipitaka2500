@@ -3,15 +3,15 @@
 
 # Pacchājāta
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājāta
+* Pacchājāta
 
 (49.)
 

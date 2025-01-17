@@ -3,13 +3,13 @@
 
 # Naadhipatiduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Naadhipatiduka
+* Naadhipatiduka
 
 (85.)
 

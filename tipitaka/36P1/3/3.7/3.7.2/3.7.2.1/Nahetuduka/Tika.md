@@ -3,17 +3,17 @@
 
 # Tika
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
-### Tika
+* Tika
 
 2017\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā nava…pe…  naupanissaye aṭṭha…pe…  noavigate nava…pe… .
 

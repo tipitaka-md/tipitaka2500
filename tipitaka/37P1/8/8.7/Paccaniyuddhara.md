@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Pītittika
+* Pītittika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (46.)
 

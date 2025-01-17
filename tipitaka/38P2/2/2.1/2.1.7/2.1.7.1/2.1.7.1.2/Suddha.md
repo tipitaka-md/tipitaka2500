@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sappaccayaduka
+* Sappaccayaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (12.)
 

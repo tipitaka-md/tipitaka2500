@@ -3,17 +3,17 @@
 
 # Tevīsaka (saupanissaya)
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Noatthiduka
+* Noatthiduka
 
-### Tevīsaka (saupanissaya)
+* Tevīsaka (saupanissaya)
 
 1263\. Noatthipaccayā nahetupaccayā…pe…  novigatapaccayā noavigate dve.
 

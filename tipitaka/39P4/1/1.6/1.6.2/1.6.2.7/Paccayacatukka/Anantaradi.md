@@ -3,17 +3,17 @@
 
 # Anantarādi
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vitakkattika, Hetuduka
+* Vitakkattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Anantarādi
+* Anantarādi
 
 (100.)
 

@@ -3,17 +3,17 @@
 
 # Anantara
 
-### Saññojanagocchaka
+* Saññojanagocchaka
 
-### Saññojanaduka
+* Saññojanaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara
+* Anantara
 
 (20.)
 

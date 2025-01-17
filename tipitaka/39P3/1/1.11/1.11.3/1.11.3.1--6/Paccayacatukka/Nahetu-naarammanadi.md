@@ -3,17 +3,17 @@
 
 # Nahetu-naārammaṇādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Sekkhattika
+* Hetuduka, Sekkhattika
 
-### Nevasekkhanāsekkhapada
+* Nevasekkhanāsekkhapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Nahetu-naārammaṇādi
+* Nahetu-naārammaṇādi
 
 (348.)
 

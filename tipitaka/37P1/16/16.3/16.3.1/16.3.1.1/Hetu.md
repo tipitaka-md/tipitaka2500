@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (14.)
 

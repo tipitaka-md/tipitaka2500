@@ -3,15 +3,15 @@
 
 # Adhipati
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (32.)
 

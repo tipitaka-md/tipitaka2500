@@ -3,13 +3,13 @@
 
 # Sampayuttaduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sampayuttaduka
+* Sampayuttaduka
 
 (245.)
 

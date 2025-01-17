@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Kusalattika, Cūḷantaraduka
+* Kusalattika, Cūḷantaraduka
 
-### Kusalattika, Lokiyaduka
+* Kusalattika, Lokiyaduka
 
-### Lokiyapada
+* Lokiyapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu
+* Nahetu
 
 (32.)
 

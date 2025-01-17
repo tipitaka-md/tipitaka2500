@@ -3,17 +3,17 @@
 
 # Ārammaṇādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Kusalattika
+* Hetuduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (55.)
 

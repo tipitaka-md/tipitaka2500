@@ -3,15 +3,15 @@
 
 # Navipāka
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navipāka
+* Navipāka
 
 (27.)
 

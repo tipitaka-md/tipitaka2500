@@ -3,15 +3,15 @@
 
 # Atthi
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthi
+* Atthi
 
 (56.)
 

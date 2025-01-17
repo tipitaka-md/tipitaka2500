@@ -3,17 +3,17 @@
 
 # Anantarādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Savitakkaduka
+* Savitakkaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantarādi
+* Anantarādi
 
 (122.)
 

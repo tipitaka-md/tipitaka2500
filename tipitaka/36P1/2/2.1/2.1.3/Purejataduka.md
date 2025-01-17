@@ -3,13 +3,13 @@
 
 # Purejātaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Purejātaduka
+* Purejātaduka
 
 (70.)
 

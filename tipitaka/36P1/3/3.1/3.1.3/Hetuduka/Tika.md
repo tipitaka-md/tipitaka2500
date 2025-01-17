@@ -3,15 +3,15 @@
 
 # Tika
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
-### Tika
+* Tika
 
 1856\. Hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte dve.
 

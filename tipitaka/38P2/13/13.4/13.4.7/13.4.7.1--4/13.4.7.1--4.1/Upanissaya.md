@@ -3,17 +3,17 @@
 
 # Upanissaya
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Bhāvanāyapahātabbahetukaduka
+* Bhāvanāyapahātabbahetukaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Upanissaya
+* Upanissaya
 
 (99.)
 

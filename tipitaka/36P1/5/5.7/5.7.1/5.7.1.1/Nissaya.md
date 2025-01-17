@@ -3,15 +3,15 @@
 
 # Nissaya
 
-### Upādinnattika
+* Upādinnattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nissaya
+* Nissaya
 
 (60.)
 

@@ -3,15 +3,15 @@
 
 # Natthi-vigatāvigata
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Natthi-vigatāvigata
+* Natthi-vigatāvigata
 
 (49.)
 

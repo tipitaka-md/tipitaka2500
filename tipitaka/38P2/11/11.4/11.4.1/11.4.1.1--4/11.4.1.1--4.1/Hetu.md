@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānaupādāniyaduka
+* Upādānaupādāniyaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (95.)
 

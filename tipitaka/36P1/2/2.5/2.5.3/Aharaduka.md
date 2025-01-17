@@ -3,13 +3,13 @@
 
 # Āhāraduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āhāraduka
+* Āhāraduka
 
 (241.)
 

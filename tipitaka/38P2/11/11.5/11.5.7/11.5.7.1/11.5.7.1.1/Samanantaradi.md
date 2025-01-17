@@ -3,17 +3,17 @@
 
 # Samanantarādi
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānaupādānasampayuttaduka
+* Upādānaupādānasampayuttaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Samanantarādi
+* Samanantarādi
 
 (108.)
 

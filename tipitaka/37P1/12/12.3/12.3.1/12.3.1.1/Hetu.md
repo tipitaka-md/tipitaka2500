@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Sekkhattika
+* Sekkhattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (18.)
 

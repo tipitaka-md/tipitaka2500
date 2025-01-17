@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sampayuttaduka
+* Sampayuttaduka
 
-### Tika
+* Tika
 
 783\. Sampayuttapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 

@@ -3,15 +3,15 @@
 
 # Nasahajātaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nasahajātaduka
+* Nasahajātaduka
 
 (400.)
 

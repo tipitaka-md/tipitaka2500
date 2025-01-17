@@ -3,15 +3,15 @@
 
 # Napurejātādi
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Napurejātādi
+* Napurejātādi
 
 (6.)
 

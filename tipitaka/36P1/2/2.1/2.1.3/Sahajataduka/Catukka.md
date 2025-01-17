@@ -3,15 +3,15 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sahajātaduka
+* Sahajātaduka
 
-### Catukka
+* Catukka
 
 295\. Sahajātapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 

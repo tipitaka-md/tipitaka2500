@@ -3,15 +3,15 @@
 
 # Pañcaka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vippayuttaduka
+* Vippayuttaduka
 
-### Pañcaka
+* Pañcaka
 
 619\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā adhipatipaccayā napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta…pe… .
 

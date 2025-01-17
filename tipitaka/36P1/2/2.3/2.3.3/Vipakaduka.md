@@ -3,13 +3,13 @@
 
 # Vipākaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vipākaduka
+* Vipākaduka
 
 (172.)
 

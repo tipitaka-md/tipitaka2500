@@ -3,17 +3,17 @@
 
 # Nissayamissakaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nissaya
+* Nissaya
 
-### Nissayamissakaghaṭanā
+* Nissayamissakaghaṭanā
 
 (326.)
 

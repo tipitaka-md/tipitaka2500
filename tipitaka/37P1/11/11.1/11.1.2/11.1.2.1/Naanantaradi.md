@@ -3,15 +3,15 @@
 
 # Naanantarādi
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naanantarādi
+* Naanantarādi
 
 (11.)
 

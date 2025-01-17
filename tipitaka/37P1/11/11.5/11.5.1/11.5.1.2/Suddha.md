@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (39.)
 

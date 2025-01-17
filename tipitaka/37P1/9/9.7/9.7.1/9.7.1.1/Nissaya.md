@@ -3,15 +3,15 @@
 
 # Nissaya
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nissaya
+* Nissaya
 
 (81.)
 

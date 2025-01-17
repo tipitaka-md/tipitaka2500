@@ -3,17 +3,17 @@
 
 # Adhipatyādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Bhāvanāyapahātabbahetukaduka
+* Bhāvanāyapahātabbahetukaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipatyādi
+* Adhipatyādi
 
 (97.)
 

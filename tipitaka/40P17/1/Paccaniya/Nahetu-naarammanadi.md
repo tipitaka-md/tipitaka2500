@@ -3,11 +3,11 @@
 
 # Nahetu-naārammaṇādi
 
-### Kusalattika, Vedanāttika
+* Kusalattika, Vedanāttika
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu-naārammaṇādi
+* Nahetu-naārammaṇādi
 
 (2.)
 

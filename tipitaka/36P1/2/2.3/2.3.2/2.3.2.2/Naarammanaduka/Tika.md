@@ -3,17 +3,17 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Naārammaṇaduka
+* Naārammaṇaduka
 
-### Tika
+* Tika
 
 549\. Naārammaṇapaccayā nahetupaccayā naadhipatiyā ekaṃ…pe…  novigate ekaṃ…pe… .
 

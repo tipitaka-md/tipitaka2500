@@ -3,17 +3,17 @@
 
 # Hetusāmaññaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetu
+* Hetu
 
-### Hetusāmaññaghaṭanā
+* Hetusāmaññaghaṭanā
 
 (305.)
 

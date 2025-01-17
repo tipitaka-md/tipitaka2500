@@ -3,13 +3,13 @@
 
 # Jhānaduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Jhānaduka
+* Jhānaduka
 
 (243.)
 

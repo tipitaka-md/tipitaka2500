@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Maggaduka
+* Maggaduka
 
-### Tika
+* Tika
 
 781\. Maggapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 

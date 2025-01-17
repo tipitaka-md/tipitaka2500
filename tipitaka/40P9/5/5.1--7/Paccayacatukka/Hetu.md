@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Hetuduka, Sanidassanattika
+* Hetuduka, Sanidassanattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (29.)
 

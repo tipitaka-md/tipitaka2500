@@ -3,15 +3,15 @@
 
 # Tevīsaka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āsevanaduka
+* Āsevanaduka
 
-### Tevīsaka
+* Tevīsaka
 
 602\. Āsevanapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte satta, navipāke satta.
 

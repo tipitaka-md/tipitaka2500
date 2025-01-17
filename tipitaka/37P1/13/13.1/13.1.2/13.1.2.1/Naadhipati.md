@@ -3,15 +3,15 @@
 
 # Naadhipati
 
-### Parittattika
+* Parittattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipati
+* Naadhipati
 
 (12.)
 

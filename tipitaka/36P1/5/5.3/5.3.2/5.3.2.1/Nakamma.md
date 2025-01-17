@@ -3,15 +3,15 @@
 
 # Nakamma
 
-### Upādinnattika
+* Upādinnattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nakamma
+* Nakamma
 
 (40.)
 

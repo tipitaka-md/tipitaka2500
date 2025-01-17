@@ -3,15 +3,15 @@
 
 # Nonatthi-novigata
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nonatthi-novigata
+* Nonatthi-novigata
 
 (31.)
 

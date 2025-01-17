@@ -3,15 +3,15 @@
 
 # Catuvīsaka (saupanissaya)
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Catuvīsaka (saupanissaya)
+* Catuvīsaka (saupanissaya)
 
 2030\. Nahetupaccayā naārammaṇapaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā noatthipaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā kamme aṭṭha.
 

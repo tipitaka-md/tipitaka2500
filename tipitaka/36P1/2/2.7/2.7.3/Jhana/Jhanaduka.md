@@ -3,15 +3,15 @@
 
 # Jhānaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Jhāna
+* Jhāna
 
-### Jhānaduka
+* Jhānaduka
 
 (470.)
 

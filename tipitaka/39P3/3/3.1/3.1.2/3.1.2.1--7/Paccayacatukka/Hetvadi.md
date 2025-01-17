@@ -3,17 +3,17 @@
 
 # Hetvādi
 
-### Cūḷantaraduka, Kusalattika
+* Cūḷantaraduka, Kusalattika
 
-### Sappaccayaduka, Kusalattika
+* Sappaccayaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetvādi
+* Hetvādi
 
 (11.)
 

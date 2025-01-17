@@ -3,17 +3,17 @@
 
 # Terasaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nakammaduka
+* Nakammaduka
 
-### Terasaka
+* Terasaka
 
 1230\. Nakammapaccayā nahetupaccayā…pe…  napurejātapaccayā napacchājātapaccayā naāsevane ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (Saṃkhittaṃ.)
 

@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Jhānaduka
+* Jhānaduka
 
-### Tika
+* Tika
 
 779\. Jhānapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 

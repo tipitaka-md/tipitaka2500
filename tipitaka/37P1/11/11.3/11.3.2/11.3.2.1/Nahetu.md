@@ -3,15 +3,15 @@
 
 # Nahetu
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (26.)
 

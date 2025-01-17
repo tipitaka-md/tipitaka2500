@@ -3,15 +3,15 @@
 
 # Dvādasaka (sāsevana)
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
-### Dvādasaka (sāsevana)
+* Dvādasaka (sāsevana)
 
 756\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
 

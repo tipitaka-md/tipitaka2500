@@ -3,15 +3,15 @@
 
 # Namagga
 
-### Atītārammaṇattika
+* Atītārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Namagga
+* Namagga
 
 (14.)
 

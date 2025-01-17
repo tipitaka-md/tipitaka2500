@@ -3,15 +3,15 @@
 
 # Sahajātadukādi
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sahajātadukādi
+* Sahajātadukādi
 
 (139.)
 

@@ -3,15 +3,15 @@
 
 # Anuloma-hetu
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anuloma-hetu
+* Anuloma-hetu
 
 (1.)
 

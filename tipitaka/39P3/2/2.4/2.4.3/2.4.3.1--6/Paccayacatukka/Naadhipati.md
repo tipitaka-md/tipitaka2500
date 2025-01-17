@@ -3,17 +3,17 @@
 
 # Naadhipati
 
-### Hetugocchaka, Kusalattika
+* Hetugocchaka, Kusalattika
 
-### Hetusahetukaduka, Kusalattika
+* Hetusahetukaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Naadhipati
+* Naadhipati
 
 (65.)
 

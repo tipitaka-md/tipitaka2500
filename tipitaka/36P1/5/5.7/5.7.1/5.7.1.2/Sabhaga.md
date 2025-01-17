@@ -3,15 +3,15 @@
 
 # Sabhāga
 
-### Upādinnattika
+* Upādinnattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sabhāga
+* Sabhāga
 
 2767\. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke cha, indriye satta, magge satta, sampayutte tīṇi, vippayutte cattāri, atthiyā satta, avigate satta. (Saṃkhittaṃ.)
 

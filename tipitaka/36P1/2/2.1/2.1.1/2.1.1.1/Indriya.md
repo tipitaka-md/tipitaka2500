@@ -3,15 +3,15 @@
 
 # Indriya
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Indriya
+* Indriya
 
 (14.)
 

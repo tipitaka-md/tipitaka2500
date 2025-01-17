@@ -3,13 +3,13 @@
 
 # Aññamaññaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Aññamaññaduka
+* Aññamaññaduka
 
 (166.)
 

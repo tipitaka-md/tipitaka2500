@@ -3,17 +3,17 @@
 
 # Dvādasaka (sāsevana)
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetuduka
+* Hetuduka
 
-### Dvādasaka (sāsevana)
+* Dvādasaka (sāsevana)
 
 500\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kamme satta, āhāre satta…pe…  avigate satta…pe… .
 

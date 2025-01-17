@@ -3,15 +3,15 @@
 
 # Najhāna
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Najhāna
+* Najhāna
 
 (44.)
 

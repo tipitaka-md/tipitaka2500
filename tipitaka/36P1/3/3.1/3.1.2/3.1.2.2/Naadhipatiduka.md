@@ -3,15 +3,15 @@
 
 # Naadhipatiduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Naadhipatiduka
+* Naadhipatiduka
 
 (18.)
 

@@ -3,17 +3,17 @@
 
 # Kammasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Kamma
+* Kamma
 
-### Kammasabhāga
+* Kammasabhāga
 
 (74.)
 

@@ -3,15 +3,15 @@
 
 # Sampayutta
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sampayutta
+* Sampayutta
 
 (297.)
 

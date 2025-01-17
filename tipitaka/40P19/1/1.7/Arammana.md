@@ -3,11 +3,11 @@
 
 # Ārammaṇa
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (8.)
 

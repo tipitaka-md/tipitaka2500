@@ -3,15 +3,15 @@
 
 # Nahetu
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nahetu
+* Nahetu
 
 (63.)
 

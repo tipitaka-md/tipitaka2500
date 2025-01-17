@@ -3,15 +3,15 @@
 
 # Samanantarādi
 
-### Ajjhattārammaṇattika
+* Ajjhattārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Samanantarādi
+* Samanantarādi
 
 (18.)
 

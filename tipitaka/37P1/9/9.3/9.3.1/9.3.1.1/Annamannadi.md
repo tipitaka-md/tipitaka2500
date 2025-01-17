@@ -3,15 +3,15 @@
 
 # Aññamaññādi
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Aññamaññādi
+* Aññamaññādi
 
 (44.)
 

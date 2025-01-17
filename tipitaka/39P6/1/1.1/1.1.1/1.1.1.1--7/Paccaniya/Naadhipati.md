@@ -3,17 +3,17 @@
 
 # Naadhipati
 
-### Hetuduka, Duka
+* Hetuduka, Duka
 
-### Hetuduka, Sahetukaduka
+* Hetuduka, Sahetukaduka
 
-### Sahetukapada
+* Sahetukapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Naadhipati
+* Naadhipati
 
 (5.)
 

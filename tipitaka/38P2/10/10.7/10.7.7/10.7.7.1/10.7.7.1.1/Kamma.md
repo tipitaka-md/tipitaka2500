@@ -3,17 +3,17 @@
 
 # Kamma
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasahabhūduka
+* Cittasahabhūduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (263.)
 

@@ -3,15 +3,15 @@
 
 # Ārammaṇādi
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (17.)
 

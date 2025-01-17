@@ -3,17 +3,17 @@
 
 # Kamma
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Saṃkiliṭṭhaduka
+* Saṃkiliṭṭhaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma
+* Kamma
 
 (62.)
 

@@ -3,13 +3,13 @@
 
 # Nahetu
 
-### Saṃkiliṭṭhattika
+* Saṃkiliṭṭhattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Nahetu
+* Nahetu
 
 (4.)
 

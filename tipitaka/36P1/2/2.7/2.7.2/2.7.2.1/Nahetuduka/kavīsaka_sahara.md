@@ -3,17 +3,17 @@
 
 # Ekavīsaka (sāhāra)
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
-### Ekavīsaka (sāhāra)
+* Ekavīsaka (sāhāra)
 
 1186\. Nahetupaccayā naārammaṇapaccayā…pe…  naāhārapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigate ekaṃ.
 

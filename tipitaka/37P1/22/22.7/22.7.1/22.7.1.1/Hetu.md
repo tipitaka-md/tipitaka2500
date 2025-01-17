@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Ajjhattārammaṇattika
+* Ajjhattārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (11.)
 

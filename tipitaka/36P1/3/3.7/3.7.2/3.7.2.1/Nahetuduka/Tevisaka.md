@@ -3,17 +3,17 @@
 
 # Tevīsaka
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
-### Tevīsaka
+* Tevīsaka
 
 2018\. Nahetupaccayā naārammaṇapaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā…pe…  noavigate aṭṭha.
 

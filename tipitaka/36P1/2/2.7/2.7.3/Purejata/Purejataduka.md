@@ -3,15 +3,15 @@
 
 # Purejātaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Purejāta
+* Purejāta
 
-### Purejātaduka
+* Purejātaduka
 
 (441.)
 

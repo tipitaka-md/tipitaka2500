@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Kusalattika, Sahetukaduka
+* Kusalattika, Sahetukaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (6.)
 

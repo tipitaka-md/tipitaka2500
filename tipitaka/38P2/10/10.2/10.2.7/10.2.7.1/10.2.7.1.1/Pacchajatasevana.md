@@ -3,17 +3,17 @@
 
 # Pacchājātāsevana
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittaduka
+* Cittaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājātāsevana
+* Pacchājātāsevana
 
 (79.)
 

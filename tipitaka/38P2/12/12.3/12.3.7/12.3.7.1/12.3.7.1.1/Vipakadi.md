@@ -3,17 +3,17 @@
 
 # Vipākādi
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Saṃkiliṭṭhaduka
+* Saṃkiliṭṭhaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vipākādi
+* Vipākādi
 
 (63.)
 

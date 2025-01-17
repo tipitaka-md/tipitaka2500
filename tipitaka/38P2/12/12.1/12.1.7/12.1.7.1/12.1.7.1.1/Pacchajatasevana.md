@@ -3,17 +3,17 @@
 
 # Pacchājātāsevana
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesaduka
+* Kilesaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Pacchājātāsevana
+* Pacchājātāsevana
 
 (26.)
 

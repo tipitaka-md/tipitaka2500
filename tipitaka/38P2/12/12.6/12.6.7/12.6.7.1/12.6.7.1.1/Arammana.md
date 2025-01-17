@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesasaṃkiliṭṭhaduka
+* Kilesasaṃkiliṭṭhaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (87.)
 

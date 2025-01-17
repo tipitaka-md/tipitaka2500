@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānavippayuttaupādāniyaduka
+* Upādānavippayuttaupādāniyaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Hetu
+* Hetu
 
 (116.)
 

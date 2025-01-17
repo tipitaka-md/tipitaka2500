@@ -3,17 +3,17 @@
 
 # Indriyasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Indriya
+* Indriya
 
-### Indriyasabhāga
+* Indriyasabhāga
 
 (348.)
 

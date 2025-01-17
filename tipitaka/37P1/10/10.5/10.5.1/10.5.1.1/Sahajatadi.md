@@ -3,15 +3,15 @@
 
 # Sahajātādi
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Sahajātādi
+* Sahajātādi
 
 (68.)
 

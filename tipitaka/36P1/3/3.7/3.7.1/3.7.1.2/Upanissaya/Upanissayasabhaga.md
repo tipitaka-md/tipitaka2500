@@ -3,17 +3,17 @@
 
 # Upanissayasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Upanissaya
+* Upanissaya
 
-### Upanissayasabhāga
+* Upanissayasabhāga
 
 (72.)
 

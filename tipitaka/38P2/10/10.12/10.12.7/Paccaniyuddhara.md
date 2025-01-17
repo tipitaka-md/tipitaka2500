@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Ajjhattikaduka
+* Ajjhattikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (364.)
 

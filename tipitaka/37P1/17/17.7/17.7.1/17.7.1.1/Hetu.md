@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (27.)
 

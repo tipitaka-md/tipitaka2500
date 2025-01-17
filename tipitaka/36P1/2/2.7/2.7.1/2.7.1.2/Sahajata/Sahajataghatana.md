@@ -3,17 +3,17 @@
 
 # Sahajātaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sahajāta
+* Sahajāta
 
-### Sahajātaghaṭanā
+* Sahajātaghaṭanā
 
 (322.)
 

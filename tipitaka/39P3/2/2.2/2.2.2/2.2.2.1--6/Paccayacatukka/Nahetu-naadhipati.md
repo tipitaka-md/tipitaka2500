@@ -3,17 +3,17 @@
 
 # Nahetu-naadhipati
 
-### Hetugocchaka, Kusalattika
+* Hetugocchaka, Kusalattika
 
-### Sahetukaduka, Kusalattika
+* Sahetukaduka, Kusalattika
 
-### Akusalapada
+* Akusalapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Nahetu-naadhipati
+* Nahetu-naadhipati
 
 (11.)
 

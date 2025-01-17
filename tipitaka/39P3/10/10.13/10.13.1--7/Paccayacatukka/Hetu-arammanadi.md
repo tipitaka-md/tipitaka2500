@@ -3,15 +3,15 @@
 
 # Hetu-ārammaṇādi
 
-### Mahantaraduka, Kusalattika
+* Mahantaraduka, Kusalattika
 
-### Upādāduka, Kusalattika
+* Upādāduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇādi
+* Hetu-ārammaṇādi
 
 (96.)
 

@@ -3,17 +3,17 @@
 
 # Sahajātaghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Kamma
+* Kamma
 
-### Sahajātaghaṭanā
+* Sahajātaghaṭanā
 
 1973\. Kamma sahajāta aññamañña nissaya āhāra sampayutta atthi avigatanti tīṇi. Kamma sahajāta aññamañña nissaya vipāka āhāra sampayutta atthi avigatanti tīṇi.
 

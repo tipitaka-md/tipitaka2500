@@ -3,57 +3,57 @@
 
 # Paccayacatukka
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Sārammaṇaduka
+* Kusalattika, Sārammaṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (1.)
 
 1332\. Kusalaṃ sārammaṇaṃ dhammaṃ paṭicca kusalo sārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Sārammaṇaduka
+* Kusalattika, Sārammaṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1333\. Akusalaṃ sārammaṇaṃ dhammaṃ paṭicca akusalo sārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Sārammaṇaduka
+* Kusalattika, Sārammaṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1334\. Abyākataṃ sārammaṇaṃ dhammaṃ paṭicca abyākato sārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Sārammaṇaduka
+* Kusalattika, Sārammaṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (2.)
 
 1335\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Sārammaṇaduka
+* Kusalattika, Sārammaṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1336\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 

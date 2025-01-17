@@ -3,17 +3,17 @@
 
 # Upanissaya
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Kusalattika, Hetuduka
+* Kusalattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Upanissaya
+* Upanissaya
 
 (23.)
 

@@ -3,17 +3,17 @@
 
 # Pakiṇṇakaghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Kamma
+* Kamma
 
-### Pakiṇṇakaghaṭanā
+* Pakiṇṇakaghaṭanā
 
 1972\. Kamma upanissayanti aṭṭha. Kamma anantara samanantara upanissaya natthi vigatanti dve.
 

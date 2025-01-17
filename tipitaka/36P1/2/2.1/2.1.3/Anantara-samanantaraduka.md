@@ -3,13 +3,13 @@
 
 # Anantara-samanantaraduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Anantara-samanantaraduka
+* Anantara-samanantaraduka
 
 ---
 

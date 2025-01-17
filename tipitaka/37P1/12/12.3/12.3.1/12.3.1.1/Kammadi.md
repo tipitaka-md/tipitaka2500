@@ -3,15 +3,15 @@
 
 # Kammādi
 
-### Sekkhattika
+* Sekkhattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kammādi
+* Kammādi
 
 (23.)
 

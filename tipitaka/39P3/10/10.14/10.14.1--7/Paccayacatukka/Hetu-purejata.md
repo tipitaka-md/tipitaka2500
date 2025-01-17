@@ -3,15 +3,15 @@
 
 # Hetu-purejāta
 
-### Mahantaraduka, Kusalattika
+* Mahantaraduka, Kusalattika
 
-### Upādinnaduka, Kusalattika
+* Upādinnaduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-purejāta
+* Hetu-purejāta
 
 (102.)
 

@@ -3,17 +3,17 @@
 
 # Ārammaṇādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Vedanāttika
+* Hetuduka, Vedanāttika
 
-### Dukkhāyavedanāyasampayuttapada
+* Dukkhāyavedanāyasampayuttapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (89.)
 

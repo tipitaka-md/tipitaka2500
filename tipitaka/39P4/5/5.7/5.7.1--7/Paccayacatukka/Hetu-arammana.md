@@ -3,15 +3,15 @@
 
 # Hetu-ārammaṇa
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (32.)
 

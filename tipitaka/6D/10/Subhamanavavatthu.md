@@ -3,9 +3,9 @@
 
 # Subhamāṇavavatthu
 
-### Subhasutta
+* Subhasutta
 
-### Subhamāṇavavatthu
+* Subhamāṇavavatthu
 
 (444.)
 

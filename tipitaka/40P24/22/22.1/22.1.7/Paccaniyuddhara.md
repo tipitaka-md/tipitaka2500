@@ -3,13 +3,13 @@
 
 # Paccanīyuddhāra
 
-### Saraṇaduka, Piṭṭhiduka
+* Saraṇaduka, Piṭṭhiduka
 
-### Sauttarapada
+* Sauttarapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (89.)
 

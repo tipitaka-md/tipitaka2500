@@ -3,15 +3,15 @@
 
 # Ārammaṇādi
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (6.)
 

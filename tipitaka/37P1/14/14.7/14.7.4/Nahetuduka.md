@@ -3,13 +3,13 @@
 
 # Nahetuduka
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
 (40.)
 

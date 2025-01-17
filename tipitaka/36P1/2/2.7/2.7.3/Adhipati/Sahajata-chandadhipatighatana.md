@@ -3,15 +3,15 @@
 
 # Sahajāta-chandādhipatighaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Adhipati
+* Adhipati
 
-### Sahajāta-chandādhipatighaṭanā
+* Sahajāta-chandādhipatighaṭanā
 
 (423.)
 

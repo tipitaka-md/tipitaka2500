@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āhāraduka
+* Āhāraduka
 
-### Tika
+* Tika
 
 319\. Āhārapaccayā hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 

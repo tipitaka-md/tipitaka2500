@@ -3,15 +3,15 @@
 
 # Naanantara-nasamanantara
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naanantara-nasamanantara
+* Naanantara-nasamanantara
 
 (37.)
 

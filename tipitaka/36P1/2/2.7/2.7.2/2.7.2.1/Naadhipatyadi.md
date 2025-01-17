@@ -3,15 +3,15 @@
 
 # Naadhipatyādi
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (399.)
 

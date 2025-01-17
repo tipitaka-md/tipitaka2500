@@ -3,15 +3,15 @@
 
 # Naāhārādi
 
-### Parittattika
+* Parittattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naāhārādi
+* Naāhārādi
 
 (24.)
 

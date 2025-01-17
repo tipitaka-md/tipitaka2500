@@ -3,15 +3,15 @@
 
 # Paccanīyuddhāra
 
-### Cūḷantaraduka, Kusalattika
+* Cūḷantaraduka, Kusalattika
 
-### Sappaccayaduka, Kusalattika
+* Sappaccayaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (12.)
 

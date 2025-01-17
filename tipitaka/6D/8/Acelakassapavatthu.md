@@ -3,9 +3,9 @@
 
 # Acelakassapavatthu
 
-### Mahāsīhanādasutta
+* Mahāsīhanādasutta
 
-### Acelakassapavatthu
+* Acelakassapavatthu
 
 (381.)
 

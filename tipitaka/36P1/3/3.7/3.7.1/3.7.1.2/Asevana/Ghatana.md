@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āsevana
+* Āsevana
 
-### Ghaṭanā
+* Ghaṭanā
 
 1970\. Āsevana anantara samanantara upanissaya natthi vigatanti tīṇi.
 

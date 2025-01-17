@@ -3,17 +3,17 @@
 
 # Sattaka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Navipākaduka
+* Navipākaduka
 
-### Sattaka
+* Sattaka
 
 744\. Navipākapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakamme ekaṃ, namagge ekaṃ, navippayutte dve. (Saṃkhittaṃ.)
 

@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āhāraduka
+* Āhāraduka
 
-### Tika
+* Tika
 
 775\. Āhārapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 

@@ -3,17 +3,17 @@
 
 # Jhānasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Jhāna
+* Jhāna
 
-### Jhānasabhāga
+* Jhānasabhāga
 
 (360.)
 

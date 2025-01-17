@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Kusalattika, Tika
+* Kusalattika, Tika
 
-### Kusalattika, Dassanattika
+* Kusalattika, Dassanattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (38.)
 

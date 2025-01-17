@@ -3,17 +3,17 @@
 
 # Dasaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nakammaduka
+* Nakammaduka
 
-### Dasaka
+* Dasaka
 
 1228\. Nakammapaccayā nahetupaccayā naārammaṇapaccayā…pe…  nanissayapaccayā naupanissaye pañca, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa…pe…  noavigate nava.
 

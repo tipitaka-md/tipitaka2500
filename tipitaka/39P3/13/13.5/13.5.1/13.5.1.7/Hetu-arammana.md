@@ -3,15 +3,15 @@
 
 # Hetu-ārammaṇa
 
-### Piṭṭhiduka, Kusalattika
+* Piṭṭhiduka, Kusalattika
 
-### Savitakkaduka, Kusalattika
+* Savitakkaduka, Kusalattika
 
-### Kusalapada
+* Kusalapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (25.)
 

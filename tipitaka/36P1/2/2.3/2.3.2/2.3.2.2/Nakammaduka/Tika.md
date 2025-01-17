@@ -3,17 +3,17 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nakammaduka
+* Nakammaduka
 
-### Tika
+* Tika
 
 561\. Nakammapaccayā nahetupaccayā naārammaṇe ekaṃ (sabbattha ekaṃ) novigate ekaṃ…pe… .
 

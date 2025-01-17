@@ -3,17 +3,17 @@
 
 # Naadhipati
 
-### Āsavagocchaka, Kusalattika
+* Āsavagocchaka, Kusalattika
 
-### Āsavaāsavasampayuttaduka, Kusalattika
+* Āsavaāsavasampayuttaduka, Kusalattika
 
-### Akusalapada
+* Akusalapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Naadhipati
+* Naadhipati
 
 (44.)
 

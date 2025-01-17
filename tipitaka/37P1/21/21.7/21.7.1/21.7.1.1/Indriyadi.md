@@ -3,15 +3,15 @@
 
 # Indriyādi
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Indriyādi
+* Indriyādi
 
 (45.)
 

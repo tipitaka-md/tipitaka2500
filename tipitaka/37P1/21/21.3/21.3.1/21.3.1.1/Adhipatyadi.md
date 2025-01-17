@@ -3,15 +3,15 @@
 
 # Adhipatyādi
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipatyādi
+* Adhipatyādi
 
 (20.)
 

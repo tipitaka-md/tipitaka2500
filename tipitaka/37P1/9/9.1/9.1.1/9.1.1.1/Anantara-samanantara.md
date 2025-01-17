@@ -3,15 +3,15 @@
 
 # Anantara-samanantara
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara-samanantara
+* Anantara-samanantara
 
 (8.)
 

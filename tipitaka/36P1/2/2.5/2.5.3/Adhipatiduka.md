@@ -3,13 +3,13 @@
 
 # Adhipatiduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Adhipatiduka
+* Adhipatiduka
 
 (235.)
 

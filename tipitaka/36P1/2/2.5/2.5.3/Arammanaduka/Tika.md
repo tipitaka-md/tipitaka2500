@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Ārammaṇaduka
+* Ārammaṇaduka
 
-### Tika
+* Tika
 
 761\. Ārammaṇapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 

@@ -3,17 +3,17 @@
 
 # Paccanīya-naadhipati
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Kusalattika, Hetuduka
+* Kusalattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Paccanīya-naadhipati
+* Paccanīya-naadhipati
 
 (4.)
 

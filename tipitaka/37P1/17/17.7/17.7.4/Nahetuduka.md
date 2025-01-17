@@ -3,13 +3,13 @@
 
 # Nahetuduka
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
 (56.)
 

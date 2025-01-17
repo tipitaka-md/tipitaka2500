@@ -3,13 +3,13 @@
 
 # Avigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Avigataduka
+* Avigataduka
 
 (82.)
 

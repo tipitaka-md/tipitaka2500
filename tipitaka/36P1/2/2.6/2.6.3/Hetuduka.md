@@ -3,13 +3,13 @@
 
 # Hetuduka
 
-### Kusalattika
+* Kusalattika
 
-### Sampayuttavāra
+* Sampayuttavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (263.)
 

@@ -3,17 +3,17 @@
 
 # Anantara-upanissaya
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Maggārammaṇattika, Hetuduka
+* Maggārammaṇattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Anantara-upanissaya
+* Anantara-upanissaya
 
 (202.)
 

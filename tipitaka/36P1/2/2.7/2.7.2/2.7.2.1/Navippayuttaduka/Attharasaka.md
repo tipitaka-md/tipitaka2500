@@ -3,17 +3,17 @@
 
 # Aṭṭhārasaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Navippayuttaduka
+* Navippayuttaduka
 
-### Aṭṭhārasaka
+* Aṭṭhārasaka
 
 1256\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) nakammapaccayā navipākapaccayā naindriyapaccayā najhāne ekaṃ…pe…  novigate ekaṃ. (Saṃkhittaṃ.)
 

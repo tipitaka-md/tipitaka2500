@@ -3,15 +3,15 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vipākaduka
+* Vipākaduka
 
-### Catukka
+* Catukka
 
 315\. Vipākapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navippayutte ekaṃ.
 

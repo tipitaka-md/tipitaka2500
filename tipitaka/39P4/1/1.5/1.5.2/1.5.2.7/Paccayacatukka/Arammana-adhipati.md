@@ -3,17 +3,17 @@
 
 # Ārammaṇa-adhipati
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Saṃkiliṭṭhattika, Hetuduka
+* Saṃkiliṭṭhattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Ārammaṇa-adhipati
+* Ārammaṇa-adhipati
 
 (75.)
 

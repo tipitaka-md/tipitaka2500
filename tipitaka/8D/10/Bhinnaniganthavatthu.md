@@ -3,9 +3,9 @@
 
 # Bhinnanigaṇṭhavatthu
 
-### Saṅgītisutta
+* Saṅgītisutta
 
-### Bhinnanigaṇṭhavatthu
+* Bhinnanigaṇṭhavatthu
 
 (301.)
 

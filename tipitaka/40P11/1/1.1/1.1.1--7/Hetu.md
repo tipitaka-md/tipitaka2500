@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Kusalattika, Vedanāttika
+* Kusalattika, Vedanāttika
 
-### Sukhāyavedanāyasampayuttapada
+* Sukhāyavedanāyasampayuttapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu
+* Hetu
 
 (1.)
 

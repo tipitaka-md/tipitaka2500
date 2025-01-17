@@ -3,15 +3,15 @@
 
 # Adhipati
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (39.)
 

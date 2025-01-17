@@ -3,15 +3,15 @@
 
 # Napacchājātādi
 
-### Dassanenapahātabbahetukattika
+* Dassanenapahātabbahetukattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Napacchājātādi
+* Napacchājātādi
 
 (24.)
 

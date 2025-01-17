@@ -3,15 +3,15 @@
 
 # Naāsevanādi
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naāsevanādi
+* Naāsevanādi
 
 (32.)
 

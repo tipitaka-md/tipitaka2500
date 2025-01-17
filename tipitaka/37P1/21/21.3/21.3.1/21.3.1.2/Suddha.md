@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (21.)
 

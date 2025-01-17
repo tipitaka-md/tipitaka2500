@@ -3,15 +3,15 @@
 
 # Naanantarādi
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naanantarādi
+* Naanantarādi
 
 (16.)
 

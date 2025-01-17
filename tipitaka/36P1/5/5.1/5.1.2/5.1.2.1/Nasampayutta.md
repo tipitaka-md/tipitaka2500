@@ -3,15 +3,15 @@
 
 # Nasampayutta
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nasampayutta
+* Nasampayutta
 
 (23.)
 

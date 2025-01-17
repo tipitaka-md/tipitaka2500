@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇa
 
-### Kusalattika, Tika
+* Kusalattika, Tika
 
-### Kusalattika, Vedanāttika
+* Kusalattika, Vedanāttika
 
-### Dukkhāyavedanāyasampayuttapada
+* Dukkhāyavedanāyasampayuttapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (5.)
 

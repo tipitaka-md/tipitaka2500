@@ -3,15 +3,15 @@
 
 # Hetusāmaññaghaṭanā
 
-### Saṃkiliṭṭhattika
+* Saṃkiliṭṭhattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetusāmaññaghaṭanā
+* Hetusāmaññaghaṭanā
 
 (32.)
 

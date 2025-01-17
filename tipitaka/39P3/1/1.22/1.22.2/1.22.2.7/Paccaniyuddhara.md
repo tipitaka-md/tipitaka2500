@@ -3,15 +3,15 @@
 
 # Paccanīyuddhāra
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Sanidassanasappaṭighattika
+* Hetuduka, Sanidassanasappaṭighattika
 
-### Anidassanaappaṭighapada
+* Anidassanaappaṭighapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (551.)
 

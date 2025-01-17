@@ -3,15 +3,15 @@
 
 # Soḷasaka (saindriya)
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Soḷasaka (saindriya)
+* Soḷasaka (saindriya)
 
 1706\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) navipākapaccayā naindriyapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
 

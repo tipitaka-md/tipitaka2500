@@ -3,15 +3,15 @@
 
 # Atthyādi
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthyādi
+* Atthyādi
 
 (65.)
 

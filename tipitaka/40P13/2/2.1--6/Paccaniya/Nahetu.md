@@ -3,13 +3,13 @@
 
 # Nahetu
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu
+* Nahetu
 
 (15.)
 

@@ -3,17 +3,17 @@
 
 # Tika
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
-### Tika
+* Tika
 
 2144\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi…pe…  nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge tīṇi, nasampayutte tīṇi, navippayutte ekaṃ, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
 

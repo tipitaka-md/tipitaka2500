@@ -3,15 +3,15 @@
 
 # Sakammaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āhāra
+* Āhāra
 
-### Sakammaghaṭanā
+* Sakammaghaṭanā
 
 (455.)
 

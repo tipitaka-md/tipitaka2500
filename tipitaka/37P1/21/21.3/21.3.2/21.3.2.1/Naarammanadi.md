@@ -3,15 +3,15 @@
 
 # Naārammaṇādi
 
-### Ajjhattattika
+* Ajjhattattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naārammaṇādi
+* Naārammaṇādi
 
 (23.)
 

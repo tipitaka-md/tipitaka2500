@@ -3,17 +3,17 @@
 
 # Suddha
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetu
+* Hetu
 
-### Suddha
+* Suddha
 
 (303.)
 

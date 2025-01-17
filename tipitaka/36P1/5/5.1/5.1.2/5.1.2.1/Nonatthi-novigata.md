@@ -3,15 +3,15 @@
 
 # Nonatthi-novigata
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nonatthi-novigata
+* Nonatthi-novigata
 
 (25.)
 

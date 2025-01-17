@@ -3,15 +3,15 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Napacchājātaduka
+* Napacchājātaduka
 
-### Catukka
+* Catukka
 
 645\. Napacchājātapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 

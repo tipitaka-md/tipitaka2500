@@ -3,15 +3,15 @@
 
 # Jhānasāmaññaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Jhāna
+* Jhāna
 
-### Jhānasāmaññaghaṭanā
+* Jhānasāmaññaghaṭanā
 
 (471.)
 

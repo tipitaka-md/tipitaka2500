@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Hīnattika, Hetuduka
+* Hīnattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Hetu
+* Hetu
 
 (179.)
 

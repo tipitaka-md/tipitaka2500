@@ -3,15 +3,15 @@
 
 # Naadhipati
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipati
+* Naadhipati
 
 (30.)
 

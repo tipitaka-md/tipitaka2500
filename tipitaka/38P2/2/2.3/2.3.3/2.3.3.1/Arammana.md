@@ -3,15 +3,15 @@
 
 # Ārammaṇa
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sanidassanaduka
+* Sanidassanaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Ārammaṇa
+* Ārammaṇa
 
 (27.)
 

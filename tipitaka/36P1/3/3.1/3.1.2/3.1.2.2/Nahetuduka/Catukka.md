@@ -3,17 +3,17 @@
 
 # Catukka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
-### Catukka
+* Catukka
 
 1836\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ…pe… .
 

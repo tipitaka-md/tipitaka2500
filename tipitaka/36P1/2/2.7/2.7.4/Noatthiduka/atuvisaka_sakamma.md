@@ -3,15 +3,15 @@
 
 # Catuvīsaka (sakamma)
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Noatthiduka
+* Noatthiduka
 
-### Catuvīsaka (sakamma)
+* Catuvīsaka (sakamma)
 
 1784\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā upanissaye nava.
 

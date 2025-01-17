@@ -3,15 +3,15 @@
 
 # Suddha
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Suddha
+* Suddha
 
 (34.)
 

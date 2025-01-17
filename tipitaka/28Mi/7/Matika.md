@@ -3,9 +3,9 @@
 
 # Mātikā
 
-### Opammakathāpañha
+* Opammakathāpañha
 
-### Mātikā
+* Mātikā
 
 (224.)
 

@@ -3,15 +3,15 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Naāsevanaduka
+* Naāsevanaduka
 
-### Catukka
+* Catukka
 
 648\. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 

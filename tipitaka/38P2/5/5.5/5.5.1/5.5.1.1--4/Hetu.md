@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Ganthagocchaka
+* Ganthagocchaka
 
-### Ganthaganthasampayuttaduka
+* Ganthaganthasampayuttaduka
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (107.)
 

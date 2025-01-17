@@ -3,15 +3,15 @@
 
 # Ārammaṇādi
 
-### Parittattika
+* Parittattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (31.)
 

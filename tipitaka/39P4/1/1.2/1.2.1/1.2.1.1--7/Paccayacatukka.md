@@ -3,103 +3,103 @@
 
 # Paccayacatukka
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (25.)
 
 80\. Sukhāya vedanāya sampayuttaṃ hetuṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto hetu dhammo uppajjati hetupaccayā. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 81\. Dukkhāya vedanāya sampayuttaṃ hetuṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto hetu dhammo uppajjati hetupaccayā. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 82\. Adukkhamasukhāya vedanāya sampayuttaṃ hetuṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (26.)
 
 83\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  vipāke dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 84\. Naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte dve. (Saṃkhittaṃ.)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 85\. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 86\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Vedanāttika, Hetuduka
+* Vedanāttika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 87\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
 

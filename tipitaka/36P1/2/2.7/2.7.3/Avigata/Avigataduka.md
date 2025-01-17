@@ -3,15 +3,15 @@
 
 # Avigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Avigata
+* Avigata
 
-### Avigataduka
+* Avigataduka
 
 (494.)
 

@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Kusalattika, Cūḷantaraduka
+* Kusalattika, Cūḷantaraduka
 
-### Kusalattika, Lokiyaduka
+* Kusalattika, Lokiyaduka
 
-### Lokiyapada
+* Lokiyapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (30.)
 

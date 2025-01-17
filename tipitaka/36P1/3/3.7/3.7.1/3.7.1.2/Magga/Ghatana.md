@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Magga
+* Magga
 
-### Ghaṭanā
+* Ghaṭanā
 
 1995\. Magga sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Magga sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti dve.
 

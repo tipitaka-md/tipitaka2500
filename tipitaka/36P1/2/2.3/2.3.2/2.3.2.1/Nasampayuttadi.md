@@ -3,15 +3,15 @@
 
 # Nasampayuttādi
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nasampayuttādi
+* Nasampayuttādi
 
 (150.)
 

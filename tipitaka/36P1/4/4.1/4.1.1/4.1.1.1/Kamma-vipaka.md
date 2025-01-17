@@ -3,15 +3,15 @@
 
 # Kamma-vipāka
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kamma-vipāka
+* Kamma-vipāka
 
 (18.)
 

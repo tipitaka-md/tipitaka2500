@@ -3,13 +3,13 @@
 
 # Indriyaduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Indriyaduka
+* Indriyaduka
 
 (242.)
 

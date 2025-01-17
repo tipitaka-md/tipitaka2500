@@ -3,15 +3,15 @@
 
 # Āsevanaduka
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āsevanaduka
+* Āsevanaduka
 
 (22.)
 

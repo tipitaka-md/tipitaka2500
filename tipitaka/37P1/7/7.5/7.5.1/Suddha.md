@@ -3,13 +3,13 @@
 
 # Suddha
 
-### Vitakkattika
+* Vitakkattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Suddha
+* Suddha
 
 (62.)
 

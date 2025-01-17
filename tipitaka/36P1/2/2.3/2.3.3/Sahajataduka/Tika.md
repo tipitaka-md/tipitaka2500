@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sahajātaduka
+* Sahajātaduka
 
-### Tika
+* Tika
 
 590\. Sahajātapaccayā hetupaccayā naārammaṇe pañca (saṃkhittaṃ) navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 

@@ -3,15 +3,15 @@
 
 # Paccanīyuddhāra
 
-### Āsavagocchaka, Kusalattika
+* Āsavagocchaka, Kusalattika
 
-### Āsavavippayuttasāsavaduka, Kusalattika
+* Āsavavippayuttasāsavaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (56.)
 

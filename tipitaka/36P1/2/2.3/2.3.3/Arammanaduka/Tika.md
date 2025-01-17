@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Ārammaṇaduka
+* Ārammaṇaduka
 
-### Tika
+* Tika
 
 583\. Ārammaṇapaccayā hetupaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, navippayutte tīṇi.
 

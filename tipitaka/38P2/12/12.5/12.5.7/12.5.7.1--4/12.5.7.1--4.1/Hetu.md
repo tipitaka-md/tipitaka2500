@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesasaṃkilesikaduka
+* Kilesasaṃkilesikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Hetu
+* Hetu
 
 (75.)
 

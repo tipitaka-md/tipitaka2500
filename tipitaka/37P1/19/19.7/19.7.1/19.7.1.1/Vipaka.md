@@ -3,15 +3,15 @@
 
 # Vipāka
 
-### Atītattika
+* Atītattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vipāka
+* Vipāka
 
 (13.)
 

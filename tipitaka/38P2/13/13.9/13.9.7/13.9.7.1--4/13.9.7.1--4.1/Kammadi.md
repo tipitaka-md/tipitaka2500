@@ -3,17 +3,17 @@
 
 # Kammādi
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Sukhasahagataduka
+* Sukhasahagataduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Kammādi
+* Kammādi
 
 (175.)
 

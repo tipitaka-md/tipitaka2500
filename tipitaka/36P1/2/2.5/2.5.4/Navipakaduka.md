@@ -3,13 +3,13 @@
 
 # Navipākaduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Navipākaduka
+* Navipākaduka
 
 (252.)
 

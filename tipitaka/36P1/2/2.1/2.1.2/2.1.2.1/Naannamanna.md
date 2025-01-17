@@ -3,15 +3,15 @@
 
 # Naaññamañña
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naaññamañña
+* Naaññamañña
 
 (38.)
 

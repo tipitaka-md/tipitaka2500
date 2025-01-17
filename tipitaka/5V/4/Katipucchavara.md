@@ -3,9 +3,9 @@
 
 # Katipucchāvāra
 
-### Antarapeyyāla
+* Antarapeyyāla
 
-### Katipucchāvāra
+* Katipucchāvāra
 
 (271.)
 

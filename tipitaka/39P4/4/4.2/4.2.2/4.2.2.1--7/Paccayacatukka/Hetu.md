@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Kusalattika, Āsavaparāmāsagocchaka
+* Kusalattika, Āsavaparāmāsagocchaka
 
-### Kusalattika, Sāsavaduka
+* Kusalattika, Sāsavaduka
 
-### Anāsavapada
+* Anāsavapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (10.)
 

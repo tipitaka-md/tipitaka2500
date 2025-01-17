@@ -3,15 +3,15 @@
 
 # Anantara
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara
+* Anantara
 
 (20.)
 

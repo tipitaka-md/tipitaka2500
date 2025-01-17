@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Vitakkattika
+* Vitakkattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (139.)
 

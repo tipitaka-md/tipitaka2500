@@ -3,13 +3,13 @@
 
 # Nakammaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nakammaduka
+* Nakammaduka
 
 (185.)
 

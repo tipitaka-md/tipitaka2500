@@ -3,17 +3,17 @@
 
 # Kammasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Kamma
+* Kamma
 
-### Kammasabhāga
+* Kammasabhāga
 
 (337.)
 

@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Mahantaraduka, Kusalattika
+* Mahantaraduka, Kusalattika
 
-### Cittasampayuttaduka, Kusalattika
+* Cittasampayuttaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Hetu
+* Hetu
 
 (33.)
 

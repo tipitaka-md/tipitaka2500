@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Kusalattika, Piṭṭhiduka
+* Kusalattika, Piṭṭhiduka
 
-### Kusalattika, Sauttaraduka
+* Kusalattika, Sauttaraduka
 
-### Anuttarapada
+* Anuttarapada
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (57.)
 

@@ -3,15 +3,15 @@
 
 # Avigata
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Avigata
+* Avigata
 
 (20.)
 

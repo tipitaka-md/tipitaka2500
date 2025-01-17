@@ -3,13 +3,13 @@
 
 # Ārammaṇādi
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Uppannattika, Hetuduka
+* Uppannattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (207.)
 

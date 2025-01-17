@@ -3,15 +3,15 @@
 
 # Samanantara
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Samanantara
+* Samanantara
 
 (23.)
 

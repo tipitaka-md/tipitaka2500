@@ -3,15 +3,15 @@
 
 # Vipākaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vipāka
+* Vipāka
 
-### Vipākaghaṭanā
+* Vipākaghaṭanā
 
 (451.)
 

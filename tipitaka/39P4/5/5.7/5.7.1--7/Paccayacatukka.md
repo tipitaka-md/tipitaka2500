@@ -3,109 +3,109 @@
 
 # Paccayacatukka
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (29.)
 
 1415\. Abyākataṃ upādinnaṃ dhammaṃ paṭicca abyākato upādinno dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1416\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1417\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (30.)
 
 1418\. Kusalaṃ anupādinnaṃ dhammaṃ paṭicca kusalo anupādinno dhammo uppajjati hetupaccayā…  tīṇi.
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1419\. Akusalaṃ anupādinnaṃ dhammaṃ paṭicca akusalo anupādinno dhammo uppajjati hetupaccayā…  tīṇi.
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1420\. Abyākataṃ anupādinnaṃ dhammaṃ paṭicca abyākato anupādinno dhammo uppajjati hetupaccayā. (1)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1421\. Kusalaṃ anupādinnañca abyākataṃ anupādinnañca dhammaṃ paṭicca abyākato anupādinno dhammo uppajjati hetupaccayā. (1)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1422\. Akusalaṃ anupādinnañca abyākataṃ anupādinnañca dhammaṃ paṭicca abyākato anupādinno dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (31.)
 
 1423\. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
 
-### Kusalattika, Mahantaradukaupādānagocchaka
+* Kusalattika, Mahantaradukaupādānagocchaka
 
-### Kusalattika, Upādinnaduka
+* Kusalattika, Upādinnaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 1424\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 

@@ -3,17 +3,17 @@
 
 # Ekavīsaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Noatthiduka
+* Noatthiduka
 
-### Ekavīsaka
+* Ekavīsaka
 
 1262\. Noatthipaccayā nahetupaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā…pe…  navippayuttapaccayā nonatthiyā dve, novigate dve, noavigate dve.
 

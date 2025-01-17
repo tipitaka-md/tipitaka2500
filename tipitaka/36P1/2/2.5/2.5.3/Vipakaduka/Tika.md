@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vipākaduka
+* Vipākaduka
 
-### Tika
+* Tika
 
 773\. Vipākapaccayā hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
 

@@ -3,15 +3,15 @@
 
 # Vigata
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vigata
+* Vigata
 
 (301.)
 

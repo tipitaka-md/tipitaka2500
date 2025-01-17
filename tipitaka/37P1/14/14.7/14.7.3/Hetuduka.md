@@ -3,13 +3,13 @@
 
 # Hetuduka
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
 (39.)
 

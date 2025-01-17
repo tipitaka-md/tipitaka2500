@@ -3,17 +3,17 @@
 
 # Sajhānaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Indriya
+* Indriya
 
-### Sajhānaghaṭanā
+* Sajhānaghaṭanā
 
 (353.)
 

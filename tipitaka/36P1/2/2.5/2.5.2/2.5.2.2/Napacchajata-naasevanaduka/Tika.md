@@ -3,17 +3,17 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Napacchājāta-naāsevanaduka
+* Napacchājāta-naāsevanaduka
 
-### Tika
+* Tika
 
 740\. Naāsevanapaccayā nahetupaccayā naadhipatiyā dve, napurejāte dve, napacchājāte dve, nakamme ekaṃ, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte dve. (Saṃkhittaṃ.)
 

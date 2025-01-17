@@ -3,15 +3,15 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āsevanaduka
+* Āsevanaduka
 
-### Catukka
+* Catukka
 
 601\. Āsevanapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta. (Saṃkhittaṃ.)
 

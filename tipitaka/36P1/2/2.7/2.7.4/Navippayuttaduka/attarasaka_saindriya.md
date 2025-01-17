@@ -3,15 +3,15 @@
 
 # Sattarasaka (saindriya)
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Navippayuttaduka
+* Navippayuttaduka
 
-### Sattarasaka (saindriya)
+* Sattarasaka (saindriya)
 
 1777\. Navippayuttapaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) navipākapaccayā naindriyapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
 

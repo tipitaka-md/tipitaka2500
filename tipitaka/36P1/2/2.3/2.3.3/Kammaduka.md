@@ -3,13 +3,13 @@
 
 # Kammaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Kammaduka
+* Kammaduka
 
 (171.)
 

@@ -3,13 +3,13 @@
 
 # Nonatthi-novigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nonatthi-novigataduka
+* Nonatthi-novigataduka
 
 (98.)
 

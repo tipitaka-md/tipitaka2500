@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Upādānagocchaka
+* Upādānagocchaka
 
-### Upādānaupādāniyaduka
+* Upādānaupādāniyaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (99.)
 

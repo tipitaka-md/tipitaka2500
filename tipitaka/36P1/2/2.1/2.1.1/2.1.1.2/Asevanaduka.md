@@ -3,15 +3,15 @@
 
 # Āsevanaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āsevanaduka
+* Āsevanaduka
 
 (29.)
 

@@ -3,15 +3,15 @@
 
 # Vipākādi
 
-### Ajjhattārammaṇattika
+* Ajjhattārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Vipākādi
+* Vipākādi
 
 (23.)
 

@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Mahantaraduka, Kusalattika
+* Mahantaraduka, Kusalattika
 
-### Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka, Kusalattika
+* Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (73.)
 

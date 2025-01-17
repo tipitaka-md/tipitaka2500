@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Kusalattika, Kilesagocchaka
+* Kusalattika, Kilesagocchaka
 
-### Kusalattika, Saṃkiliṭṭhaduka
+* Kusalattika, Saṃkiliṭṭhaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (14.)
 

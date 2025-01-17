@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Kusalattika, Kilesagocchaka
+* Kusalattika, Kilesagocchaka
 
-### Kusalattika, Kilesasaṃkiliṭṭhaduka
+* Kusalattika, Kilesasaṃkiliṭṭhaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu
+* Hetu
 
 (26.)
 

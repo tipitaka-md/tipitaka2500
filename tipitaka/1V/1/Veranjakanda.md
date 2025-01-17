@@ -3,9 +3,9 @@
 
 # Verañjakaṇḍa
 
-### Mahāvibhaṅga
+* Mahāvibhaṅga
 
-### Verañjakaṇḍa
+* Verañjakaṇḍa
 
 (1.)
 

@@ -3,17 +3,17 @@
 
 # Maggasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Magga
+* Magga
 
-### Maggasabhāga
+* Maggasabhāga
 
 (79.)
 

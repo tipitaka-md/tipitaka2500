@@ -3,17 +3,17 @@
 
 # Ārammaṇa-adhipati-anantara
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Micchattaniyatattika, Hetuduka
+* Micchattaniyatattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Ārammaṇa-adhipati-anantara
+* Ārammaṇa-adhipati-anantara
 
 (189.)
 

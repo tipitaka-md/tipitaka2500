@@ -3,17 +3,17 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Gaṇanā hetumūlakā
+* Gaṇanā hetumūlakā
 
-### Tika
+* Tika
 
 (23.)
 

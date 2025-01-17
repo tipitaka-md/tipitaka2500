@@ -3,15 +3,15 @@
 
 # Tikādi
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Adhipatiduka
+* Adhipatiduka
 
-### Tikādi
+* Tikādi
 
 763\. Adhipatipaccayā hetupaccayā. (Saṃkhittaṃ.)
 

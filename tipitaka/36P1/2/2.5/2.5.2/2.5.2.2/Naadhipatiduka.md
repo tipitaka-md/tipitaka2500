@@ -3,15 +3,15 @@
 
 # Naadhipatiduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Naadhipatiduka
+* Naadhipatiduka
 
 (225.)
 

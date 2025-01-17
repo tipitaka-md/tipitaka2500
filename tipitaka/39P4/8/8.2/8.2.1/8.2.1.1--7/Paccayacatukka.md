@@ -3,15 +3,15 @@
 
 # Paccayacatukka
 
-### Tika, Saraṇaduka
+* Tika, Saraṇaduka
 
-### Vedanāttika, Saraṇaduka
+* Vedanāttika, Saraṇaduka
 
-### Saraṇapada
+* Saraṇapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (1.)
 

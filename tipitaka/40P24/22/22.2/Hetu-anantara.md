@@ -3,11 +3,11 @@
 
 # Hetu-anantara
 
-### Saraṇaduka, Piṭṭhiduka
+* Saraṇaduka, Piṭṭhiduka
 
-### Anuttarapada
+* Anuttarapada
 
-### Hetu-anantara
+* Hetu-anantara
 
 (90.)
 

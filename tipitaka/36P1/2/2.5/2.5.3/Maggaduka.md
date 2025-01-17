@@ -3,13 +3,13 @@
 
 # Maggaduka
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Maggaduka
+* Maggaduka
 
 (244.)
 

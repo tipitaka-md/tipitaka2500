@@ -3,15 +3,15 @@
 
 # Pacchājātaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Pacchājāta
+* Pacchājāta
 
-### Pacchājātaduka
+* Pacchājātaduka
 
 (443.)
 

@@ -3,15 +3,15 @@
 
 # Dvādasaka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vipākaduka
+* Vipākaduka
 
-### Dvādasaka
+* Dvādasaka
 
 607\. Vipākapaccayā hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ…pe… .
 

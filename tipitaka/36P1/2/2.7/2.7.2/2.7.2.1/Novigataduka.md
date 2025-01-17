@@ -3,15 +3,15 @@
 
 # Novigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Novigataduka
+* Novigataduka
 
 (412.)
 

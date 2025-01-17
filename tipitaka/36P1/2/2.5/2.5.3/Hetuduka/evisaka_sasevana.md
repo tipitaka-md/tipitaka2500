@@ -3,15 +3,15 @@
 
 # Tevīsaka (sāsevana)
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetuduka
+* Hetuduka
 
-### Tevīsaka (sāsevana)
+* Tevīsaka (sāsevana)
 
 757\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte tīṇi, navipāke tīṇi.
 

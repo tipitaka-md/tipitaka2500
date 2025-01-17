@@ -3,117 +3,117 @@
 
 # Paccayacatukka
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (53.)
 
 172\. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 173\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 174\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa hetupaccayena paccayo. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (54.)
 
 175\. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. Upādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (2)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 176\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. Anupādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (2)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 177\. Anupādinnaanupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa ārammaṇapaccayena paccayo. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (55.)
 
 178\. Upādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 179\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (1)
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Upādinnattika, Hetuduka
+* Upādinnattika, Hetuduka
 
-### Hetupada
+* Hetupada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 180\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. Anupādinnaanupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa adhipatipaccayena paccayo. (2)
 

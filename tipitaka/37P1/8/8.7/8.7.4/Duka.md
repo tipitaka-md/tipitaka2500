@@ -3,13 +3,13 @@
 
 # Duka
 
-### Pītittika
+* Pītittika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Duka
+* Duka
 
 (52.)
 

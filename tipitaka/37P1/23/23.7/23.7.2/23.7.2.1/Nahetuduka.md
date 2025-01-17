@@ -3,15 +3,15 @@
 
 # Nahetuduka
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
 3092\. Nahetupaccayā naārammaṇe bāvīsa (paṭhamagamanasadisaṃ), noavigate nava.
 

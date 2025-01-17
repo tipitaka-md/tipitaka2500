@@ -3,11 +3,11 @@
 
 # Hetu
 
-### Saraṇaduka, Vedanāttikādi
+* Saraṇaduka, Vedanāttikādi
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (86.)
 

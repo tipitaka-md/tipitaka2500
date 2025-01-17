@@ -3,15 +3,15 @@
 
 # Sādhipati-indriya-maggaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetu
+* Hetu
 
-### Sādhipati-indriya-maggaghaṭanā
+* Sādhipati-indriya-maggaghaṭanā
 
 (417.)
 

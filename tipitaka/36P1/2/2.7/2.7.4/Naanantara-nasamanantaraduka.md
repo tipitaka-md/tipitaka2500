@@ -3,13 +3,13 @@
 
 # Naanantara-nasamanantaraduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Naanantara-nasamanantaraduka
+* Naanantara-nasamanantaraduka
 
 (498.)
 

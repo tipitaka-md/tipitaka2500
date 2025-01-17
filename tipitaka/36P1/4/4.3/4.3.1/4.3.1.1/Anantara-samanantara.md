@@ -3,15 +3,15 @@
 
 # Anantara-samanantara
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara-samanantara
+* Anantara-samanantara
 
 (65.)
 

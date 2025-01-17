@@ -3,15 +3,15 @@
 
 # Tika
 
-### Vipākattika
+* Vipākattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Tika
+* Tika
 
 2244\. Nahetupaccayā naārammaṇapaccayā sahajāte tīṇi, aññamaññe dve…pe…  avigate tīṇi.
 

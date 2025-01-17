@@ -3,13 +3,13 @@
 
 # Namaggaduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Namaggaduka
+* Namaggaduka
 
 (31.)
 

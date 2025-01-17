@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Āsavagocchaka, Kusalattika
+* Āsavagocchaka, Kusalattika
 
-### Sāsavaduka, Kusalattika
+* Sāsavaduka, Kusalattika
 
-### Kusalapada
+* Kusalapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Hetu
+* Hetu
 
 (12.)
 

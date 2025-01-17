@@ -3,15 +3,15 @@
 
 # Adhipatiduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Adhipati
+* Adhipati
 
-### Adhipatiduka
+* Adhipatiduka
 
 (420.)
 

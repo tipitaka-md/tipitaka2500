@@ -3,17 +3,17 @@
 
 # Sahajātādisabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sahajāta
+* Sahajāta
 
-### Sahajātādisabhāga
+* Sahajātādisabhāga
 
 (71.)
 

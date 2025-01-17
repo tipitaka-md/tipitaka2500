@@ -3,15 +3,15 @@
 
 # Anantaraghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Anantara
+* Anantara
 
-### Anantaraghaṭanā
+* Anantaraghaṭanā
 
 (428.)
 

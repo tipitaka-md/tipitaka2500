@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Kilesagocchaka
+* Kilesagocchaka
 
-### Kilesasaṃkilesikaduka
+* Kilesasaṃkilesikaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (78.)
 

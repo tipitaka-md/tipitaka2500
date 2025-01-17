@@ -3,13 +3,13 @@
 
 # Atthiduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Atthiduka
+* Atthiduka
 
 (80.)
 

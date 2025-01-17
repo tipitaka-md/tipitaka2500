@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (81.)
 

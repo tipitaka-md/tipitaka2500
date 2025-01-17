@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Maggārammaṇattika
+* Maggārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (49.)
 

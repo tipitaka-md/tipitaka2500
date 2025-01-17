@@ -3,17 +3,17 @@
 
 # Ekādasaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Napacchājātaduka
+* Napacchājātaduka
 
-### Ekādasaka
+* Ekādasaka
 
 1224\. Napacchājātapaccayā nahetupaccayā…pe…  nanissayapaccayā naupanissayapaccayā napurejāte tīṇi, naāsevane tīṇi, nakamme ekaṃ, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve. (Saṃkhittaṃ.)
 

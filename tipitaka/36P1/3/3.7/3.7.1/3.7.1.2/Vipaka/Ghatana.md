@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Vipāka
+* Vipāka
 
-### Ghaṭanā
+* Ghaṭanā
 
 1975\. Vipāka sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi.
 

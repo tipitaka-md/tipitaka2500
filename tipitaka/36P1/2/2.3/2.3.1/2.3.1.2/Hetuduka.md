@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetuduka
+* Hetuduka
 
 (135.)
 

@@ -3,13 +3,13 @@
 
 # Hetughaṭanā
 
-### Upādinnattika
+* Upādinnattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetughaṭanā
+* Hetughaṭanā
 
 (94.)
 

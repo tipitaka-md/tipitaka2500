@@ -3,15 +3,15 @@
 
 # Ārammaṇādi
 
-### Ajjhattārammaṇattika
+* Ajjhattārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇādi
+* Ārammaṇādi
 
 (2.)
 

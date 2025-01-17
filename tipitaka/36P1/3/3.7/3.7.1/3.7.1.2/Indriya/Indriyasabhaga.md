@@ -3,17 +3,17 @@
 
 # Indriyasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Indriya
+* Indriya
 
-### Indriyasabhāga
+* Indriyasabhāga
 
 (77.)
 

@@ -3,17 +3,17 @@
 
 # Sādhipati-indriya-maggaghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetu
+* Hetu
 
-### Sādhipati-indriya-maggaghaṭanā
+* Sādhipati-indriya-maggaghaṭanā
 
 (65.)
 

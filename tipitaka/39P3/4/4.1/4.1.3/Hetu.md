@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Āsavagocchaka, Kusalattika
+* Āsavagocchaka, Kusalattika
 
-### Āsavaduka, Kusalattika
+* Āsavaduka, Kusalattika
 
-### Abyākatapada
+* Abyākatapada
 
-### Hetu
+* Hetu
 
 (7.)
 

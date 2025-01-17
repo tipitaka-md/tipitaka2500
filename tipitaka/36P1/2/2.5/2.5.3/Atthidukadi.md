@@ -3,13 +3,13 @@
 
 # Atthidukādi
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Atthidukādi
+* Atthidukādi
 
 (247.)
 

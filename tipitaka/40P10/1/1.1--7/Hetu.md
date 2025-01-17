@@ -3,11 +3,11 @@
 
 # Hetu
 
-### Kusalattika, Hetuduka
+* Kusalattika, Hetuduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu
+* Hetu
 
 (1.)
 

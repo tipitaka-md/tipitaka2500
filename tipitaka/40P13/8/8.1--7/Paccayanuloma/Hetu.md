@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Dassanattika
+* Dassanattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Hetu
+* Hetu
 
 (36.)
 

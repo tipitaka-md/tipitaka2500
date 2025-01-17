@@ -3,15 +3,15 @@
 
 # Najhāna
 
-### Atītārammaṇattika
+* Atītārammaṇattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Najhāna
+* Najhāna
 
 (13.)
 

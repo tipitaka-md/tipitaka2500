@@ -3,17 +3,17 @@
 
 # Kammapakiṇṇakaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Kamma
+* Kamma
 
-### Kammapakiṇṇakaghaṭanā
+* Kammapakiṇṇakaghaṭanā
 
 (338.)
 

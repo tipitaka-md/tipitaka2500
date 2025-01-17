@@ -3,17 +3,17 @@
 
 # Sāmaññaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Jhāna
+* Jhāna
 
-### Sāmaññaghaṭanā
+* Sāmaññaghaṭanā
 
 (361.)
 

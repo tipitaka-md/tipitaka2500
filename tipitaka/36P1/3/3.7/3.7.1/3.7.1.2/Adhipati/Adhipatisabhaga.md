@@ -3,17 +3,17 @@
 
 # Adhipatisabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Adhipati
+* Adhipati
 
-### Adhipatisabhāga
+* Adhipatisabhāga
 
 (68.)
 

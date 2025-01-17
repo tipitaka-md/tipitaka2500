@@ -3,13 +3,13 @@
 
 # Nahetu-naārammaṇa
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu-naārammaṇa
+* Nahetu-naārammaṇa
 
 (3.)
 

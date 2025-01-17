@@ -3,15 +3,15 @@
 
 # Bāvīsaka (saindriya)
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Bāvīsaka (saindriya)
+* Bāvīsaka (saindriya)
 
 1707\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
 

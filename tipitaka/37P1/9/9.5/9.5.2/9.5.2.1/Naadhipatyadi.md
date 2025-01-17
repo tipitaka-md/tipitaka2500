@@ -3,15 +3,15 @@
 
 # Naadhipatyādi
 
-### Dassanenapahātabbattika
+* Dassanenapahātabbattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naadhipatyādi
+* Naadhipatyādi
 
 (64.)
 

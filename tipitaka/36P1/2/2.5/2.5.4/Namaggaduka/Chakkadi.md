@@ -3,15 +3,15 @@
 
 # Chakkādi
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Namaggaduka
+* Namaggaduka
 
-### Chakkādi
+* Chakkādi
 
 813\. Namaggapaccayā nahetupaccayā. (Saṃkhittaṃ.)
 

@@ -3,17 +3,17 @@
 
 # Tika
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Napurejātaduka
+* Napurejātaduka
 
-### Tika
+* Tika
 
 1840\. Napurejātapaccayā nahetupaccayā naadhipatiyā ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
 

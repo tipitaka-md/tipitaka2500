@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Hetuduka
+* Hetuduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (1.)
 

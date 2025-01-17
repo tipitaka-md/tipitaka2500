@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Saraṇaduka, Piṭṭhiduka
+* Saraṇaduka, Piṭṭhiduka
 
-### Sauttarapada
+* Sauttarapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (88.)
 

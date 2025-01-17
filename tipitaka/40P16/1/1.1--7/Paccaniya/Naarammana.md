@@ -3,13 +3,13 @@
 
 # Naārammaṇa
 
-### Kusalattika, Hetuduka
+* Kusalattika, Hetuduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Naārammaṇa
+* Naārammaṇa
 
 (2.)
 

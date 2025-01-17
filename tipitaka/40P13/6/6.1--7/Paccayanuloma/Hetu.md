@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Vitakkattika
+* Vitakkattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Hetu
+* Hetu
 
 (33.)
 

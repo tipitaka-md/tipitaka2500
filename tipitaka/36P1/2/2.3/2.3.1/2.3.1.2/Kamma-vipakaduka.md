@@ -3,15 +3,15 @@
 
 # Kamma-vipākaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Kamma-vipākaduka
+* Kamma-vipākaduka
 
 (140.)
 

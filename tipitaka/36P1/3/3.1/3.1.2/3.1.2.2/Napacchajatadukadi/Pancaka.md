@@ -3,17 +3,17 @@
 
 # Pañcaka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Napacchājātadukādi
+* Napacchājātadukādi
 
-### Pañcaka
+* Pañcaka
 
 1843\. Nakammapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
 

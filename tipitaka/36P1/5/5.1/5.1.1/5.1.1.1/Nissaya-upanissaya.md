@@ -3,15 +3,15 @@
 
 # Nissaya-upanissaya
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nissaya-upanissaya
+* Nissaya-upanissaya
 
 (6.)
 

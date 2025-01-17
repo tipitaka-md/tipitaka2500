@@ -3,13 +3,13 @@
 
 # Hetusāmaññaghaṭanā
 
-### Sanidassanasappaṭighattika
+* Sanidassanasappaṭighattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetusāmaññaghaṭanā
+* Hetusāmaññaghaṭanā
 
 (65.)
 

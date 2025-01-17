@@ -3,17 +3,17 @@
 
 # Āsevanaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āsevana
+* Āsevana
 
-### Āsevanaghaṭanā
+* Āsevanaghaṭanā
 
 (336.)
 

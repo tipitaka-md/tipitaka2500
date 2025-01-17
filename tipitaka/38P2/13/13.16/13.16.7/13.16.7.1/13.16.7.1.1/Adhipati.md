@@ -3,17 +3,17 @@
 
 # Adhipati
 
-### Piṭṭhiduka
+* Piṭṭhiduka
 
-### Niyataduka
+* Niyataduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Adhipati
+* Adhipati
 
 (332.)
 

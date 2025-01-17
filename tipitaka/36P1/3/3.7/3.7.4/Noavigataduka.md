@@ -3,13 +3,13 @@
 
 # Noavigataduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Noavigataduka
+* Noavigataduka
 
 (90.)
 

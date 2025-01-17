@@ -3,15 +3,15 @@
 
 # Anantara-samanantara
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara-samanantara
+* Anantara-samanantara
 
 (4.)
 

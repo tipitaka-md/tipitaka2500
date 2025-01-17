@@ -3,17 +3,17 @@
 
 # Nahetu
 
-### Tika, Hetuduka
+* Tika, Hetuduka
 
-### Maggārammaṇattika, Hetuduka
+* Maggārammaṇattika, Hetuduka
 
-### Nahetupada
+* Nahetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu
+* Nahetu
 
 (199.)
 

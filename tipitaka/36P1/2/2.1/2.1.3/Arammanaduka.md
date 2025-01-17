@@ -3,13 +3,13 @@
 
 # Ārammaṇaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Ārammaṇaduka
+* Ārammaṇaduka
 
 (65.)
 

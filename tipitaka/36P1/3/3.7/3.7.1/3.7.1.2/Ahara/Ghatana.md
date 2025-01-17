@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āhāra
+* Āhāra
 
-### Ghaṭanā
+* Ghaṭanā
 
 1977\. Āhāra sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Āhāra sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti tīṇi.
 

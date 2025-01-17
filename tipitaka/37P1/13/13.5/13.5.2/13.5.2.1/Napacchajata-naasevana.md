@@ -3,15 +3,15 @@
 
 # Napacchājāta-naāsevana
 
-### Parittattika
+* Parittattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Napacchājāta-naāsevana
+* Napacchājāta-naāsevana
 
 (48.)
 

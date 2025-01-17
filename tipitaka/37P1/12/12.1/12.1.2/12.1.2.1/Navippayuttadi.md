@@ -3,15 +3,15 @@
 
 # Navippayuttādi
 
-### Sekkhattika
+* Sekkhattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Navippayuttādi
+* Navippayuttādi
 
 1694\. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati navippayuttapaccayā. Arūpe sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
 

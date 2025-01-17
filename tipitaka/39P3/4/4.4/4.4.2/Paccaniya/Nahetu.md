@@ -3,15 +3,15 @@
 
 # Nahetu
 
-### Āsavagocchaka, Kusalattika
+* Āsavagocchaka, Kusalattika
 
-### Āsavasāsavaduka, Kusalattika
+* Āsavasāsavaduka, Kusalattika
 
-### Akusalapada
+* Akusalapada
 
-### Paccanīya
+* Paccanīya
 
-### Nahetu
+* Nahetu
 
 (34.)
 

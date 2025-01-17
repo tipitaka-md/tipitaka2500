@@ -3,13 +3,13 @@
 
 # Najhānaduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Najhānaduka
+* Najhānaduka
 
 (30.)
 

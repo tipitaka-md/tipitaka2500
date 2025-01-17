@@ -3,17 +3,17 @@
 
 # Hetu-adhipati
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Micchattaniyatattika
+* Hetuduka, Micchattaniyatattika
 
-### Micchattaniyatapada
+* Micchattaniyatapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-adhipati
+* Hetu-adhipati
 
 (433.)
 

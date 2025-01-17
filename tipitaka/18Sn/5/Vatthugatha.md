@@ -3,9 +3,9 @@
 
 # Vatthugāthā
 
-### Pārāyanavagga
+* Pārāyanavagga
 
-### Vatthugāthā
+* Vatthugāthā
 
 (983.)
 

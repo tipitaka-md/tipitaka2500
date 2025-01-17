@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Ganthagocchaka, Kusalattika
+* Ganthagocchaka, Kusalattika
 
-### Ganthaduka, Kusalattika
+* Ganthaduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (1.)
 

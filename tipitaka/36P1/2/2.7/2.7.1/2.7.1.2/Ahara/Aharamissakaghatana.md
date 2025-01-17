@@ -3,17 +3,17 @@
 
 # Āhāramissakaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āhāra
+* Āhāra
 
-### Āhāramissakaghaṭanā
+* Āhāramissakaghaṭanā
 
 (343.)
 

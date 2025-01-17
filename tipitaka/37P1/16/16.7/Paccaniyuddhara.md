@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Micchattaniyatattika
+* Micchattaniyatattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (59.)
 

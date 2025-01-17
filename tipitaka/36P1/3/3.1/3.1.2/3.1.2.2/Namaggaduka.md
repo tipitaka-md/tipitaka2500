@@ -3,15 +3,15 @@
 
 # Namaggaduka
 
-### Vedanāttika
+* Vedanāttika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Namaggaduka
+* Namaggaduka
 
 (23.)
 

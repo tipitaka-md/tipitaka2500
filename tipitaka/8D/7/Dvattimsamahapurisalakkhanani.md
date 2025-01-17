@@ -3,7 +3,7 @@
 
 # Dvattiṃsamahāpurisalakkhaṇāni
 
-### Lakkhaṇasutta
+* Lakkhaṇasutta
 
 ## 396\. Dvattiṃsamahāpurisalakkhaṇāni
 

@@ -3,17 +3,17 @@
 
 # Sahetu-indriyaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Magga
+* Magga
 
-### Sahetu-indriyaghaṭanā
+* Sahetu-indriyaghaṭanā
 
 (371.)
 

@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Hetuduka, Duka
+* Hetuduka, Duka
 
-### Hetuduka, Sahetukaduka
+* Hetuduka, Sahetukaduka
 
-### Ahetukapada
+* Ahetukapada
 
-### Paccayacatukka
+* Paccayacatukka
 
 (9.)
 

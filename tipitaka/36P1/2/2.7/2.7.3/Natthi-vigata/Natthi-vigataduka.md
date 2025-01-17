@@ -3,15 +3,15 @@
 
 # Natthi-vigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Natthi-vigata
+* Natthi-vigata
 
-### Natthi-vigataduka
+* Natthi-vigataduka
 
 (493.)
 

@@ -3,15 +3,15 @@
 
 # Upanissayaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Upanissaya
+* Upanissaya
 
-### Upanissayaduka
+* Upanissayaduka
 
 (439.)
 

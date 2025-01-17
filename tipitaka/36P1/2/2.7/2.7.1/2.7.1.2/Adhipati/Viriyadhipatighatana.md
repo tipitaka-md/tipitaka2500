@@ -3,17 +3,17 @@
 
 # Vīriyādhipatighaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Adhipati
+* Adhipati
 
-### Vīriyādhipatighaṭanā
+* Vīriyādhipatighaṭanā
 
 (315.)
 

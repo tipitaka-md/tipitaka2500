@@ -3,17 +3,17 @@
 
 # Navaka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Naupanissayaduka
+* Naupanissayaduka
 
-### Navaka
+* Navaka
 
 1211\. Naupanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissaye pañca, napurejāte pañca, napacchājāte pañca, naāsevane satta, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte tīṇi, noatthiyā dve, nonatthiyā satta, novigate satta, noavigate dve.
 

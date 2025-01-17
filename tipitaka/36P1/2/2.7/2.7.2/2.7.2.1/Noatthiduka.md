@@ -3,15 +3,15 @@
 
 # Noatthiduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Noatthiduka
+* Noatthiduka
 
 (410.)
 

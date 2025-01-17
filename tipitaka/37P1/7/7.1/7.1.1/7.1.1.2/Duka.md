@@ -3,15 +3,15 @@
 
 # Duka
 
-### Vitakkattika
+* Vitakkattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Duka
+* Duka
 
 100\. Hetupaccayā ārammaṇe ekavīsa…pe…  avigate sattatiṃsa. (Saṃkhittaṃ.)
 

@@ -3,15 +3,15 @@
 
 # Naāsevana
 
-### Ācayagāmittika
+* Ācayagāmittika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naāsevana
+* Naāsevana
 
 (31.)
 

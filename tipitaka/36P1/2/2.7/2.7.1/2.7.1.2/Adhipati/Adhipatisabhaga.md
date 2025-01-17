@@ -3,17 +3,17 @@
 
 # Adhipatisabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Adhipati
+* Adhipati
 
-### Adhipatisabhāga
+* Adhipatisabhāga
 
 (310.)
 

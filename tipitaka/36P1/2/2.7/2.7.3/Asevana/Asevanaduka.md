@@ -3,15 +3,15 @@
 
 # Āsevanaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āsevana
+* Āsevana
 
-### Āsevanaduka
+* Āsevanaduka
 
 (445.)
 

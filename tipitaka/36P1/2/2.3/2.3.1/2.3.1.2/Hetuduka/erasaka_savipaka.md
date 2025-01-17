@@ -3,17 +3,17 @@
 
 # Terasaka (savipāka)
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetuduka
+* Hetuduka
 
-### Terasaka (savipāka)
+* Terasaka (savipāka)
 
 502\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhāre ekaṃ…pe…  avigate ekaṃ.
 

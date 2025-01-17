@@ -3,17 +3,17 @@
 
 # Vipākasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Vipāka
+* Vipāka
 
-### Vipākasabhāga
+* Vipākasabhāga
 
 (75.)
 

@@ -3,15 +3,15 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Saṃsaṭṭhavāra
+* Saṃsaṭṭhavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Indriyaduka
+* Indriyaduka
 
-### Tika
+* Tika
 
 777\. Indriyapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 

@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Tika, Saraṇaduka
+* Tika, Saraṇaduka
 
-### Vedanāttika, Saraṇaduka
+* Vedanāttika, Saraṇaduka
 
-### Araṇapada
+* Araṇapada
 
-### Hetu
+* Hetu
 
 (5.)
 

@@ -3,17 +3,17 @@
 
 # Hetu
 
-### Kusalattika, Hetugocchaka
+* Kusalattika, Hetugocchaka
 
-### Kusalattika, Hetusahetukaduka
+* Kusalattika, Hetusahetukaduka
 
-### Sahetukanahetupada
+* Sahetukanahetupada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (24.)
 

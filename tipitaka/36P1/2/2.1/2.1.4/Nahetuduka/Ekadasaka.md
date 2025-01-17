@@ -3,15 +3,15 @@
 
 # Ekādasaka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Ekādasaka
+* Ekādasaka
 
 357\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā.
 

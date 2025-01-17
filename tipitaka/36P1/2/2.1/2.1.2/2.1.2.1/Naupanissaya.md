@@ -3,15 +3,15 @@
 
 # Naupanissaya
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Naupanissaya
+* Naupanissaya
 
 (39.)
 

@@ -3,15 +3,15 @@
 
 # Nahetuduka
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Nahetuduka
+* Nahetuduka
 
 2512\. Nahetupaccayā naārammaṇe cattāri, naadhipatiyā pañca, naanantare cattāri…pe…  naāsevane pañca, nakamme ekaṃ, navipāke dve…pe…  najhāne dve, namagge pañca, nasampayutte cattāri, navippayutte dve…pe…  novigate cattāri.
 

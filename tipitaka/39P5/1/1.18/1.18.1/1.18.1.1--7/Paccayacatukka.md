@@ -3,15 +3,15 @@
 
 # Paccayacatukka
 
-### Kusalattika, Tika
+* Kusalattika, Tika
 
-### Kusalattika, Atītārammaṇattika
+* Kusalattika, Atītārammaṇattika
 
-### Atītārammaṇapada
+* Atītārammaṇapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (72.)
 

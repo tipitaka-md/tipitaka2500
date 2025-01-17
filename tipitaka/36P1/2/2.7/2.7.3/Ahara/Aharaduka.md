@@ -3,15 +3,15 @@
 
 # Āhāraduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Āhāra
+* Āhāra
 
-### Āhāraduka
+* Āhāraduka
 
 (452.)
 

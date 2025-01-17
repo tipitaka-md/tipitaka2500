@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Parittārammaṇattika
+* Parittārammaṇattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (35.)
 

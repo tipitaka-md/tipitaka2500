@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Kilesagocchaka, Kusalattika
+* Kilesagocchaka, Kusalattika
 
-### Kilesasampayuttaduka, Kusalattika
+* Kilesasampayuttaduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (17.)
 

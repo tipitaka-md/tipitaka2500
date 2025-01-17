@@ -3,13 +3,13 @@
 
 # Hetu-ārammaṇa
 
-### Tika, Saraṇaduka
+* Tika, Saraṇaduka
 
-### Ācayagāmittika, Saraṇaduka
+* Ācayagāmittika, Saraṇaduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (34.)
 

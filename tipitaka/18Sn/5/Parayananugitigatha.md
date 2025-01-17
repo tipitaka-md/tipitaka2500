@@ -3,9 +3,9 @@
 
 # Pārāyanānugītigāthā
 
-### Pārāyanavagga
+* Pārāyanavagga
 
-### Pārāyanānugītigāthā
+* Pārāyanānugītigāthā
 
 (1138.)
 

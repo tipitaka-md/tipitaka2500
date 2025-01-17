@@ -3,15 +3,15 @@
 
 # Ārammaṇaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Ārammaṇa
+* Ārammaṇa
 
-### Ārammaṇaghaṭanā
+* Ārammaṇaghaṭanā
 
 (419.)
 

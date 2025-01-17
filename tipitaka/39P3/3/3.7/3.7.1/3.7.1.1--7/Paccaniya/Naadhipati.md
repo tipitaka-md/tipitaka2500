@@ -3,17 +3,17 @@
 
 # Naadhipati
 
-### Cūḷantaraduka, Kusalattika
+* Cūḷantaraduka, Kusalattika
 
-### Kenaciviññeyyaduka, Kusalattika
+* Kenaciviññeyyaduka, Kusalattika
 
-### Kusalapada
+* Kusalapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Naadhipati
+* Naadhipati
 
 (57.)
 

@@ -3,17 +3,17 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Noatthiduka
+* Noatthiduka
 
-### Catukka
+* Catukka
 
 1258\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā nava…pe…  nanissaye nava, naupanissaye dve…pe… .
 

@@ -3,15 +3,15 @@
 
 # Avigata
 
-### Uppannattika
+* Uppannattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Avigata
+* Avigata
 
 (18.)
 

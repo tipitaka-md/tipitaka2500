@@ -3,15 +3,15 @@
 
 # Paccanīya-nahetu
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Paccanīya-nahetu
+* Paccanīya-nahetu
 
 (34.)
 

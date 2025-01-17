@@ -3,15 +3,15 @@
 
 # Hetuduka
 
-### Upādinnattika
+* Upādinnattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetuduka
+* Hetuduka
 
 2550\. Hetupaccayā ārammaṇe satta…pe…  avigate ekādasa.
 

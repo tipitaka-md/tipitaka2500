@@ -3,17 +3,17 @@
 
 # Upanissayaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Upanissaya
+* Upanissaya
 
-### Upanissayaghaṭanā
+* Upanissayaghaṭanā
 
 (330.)
 

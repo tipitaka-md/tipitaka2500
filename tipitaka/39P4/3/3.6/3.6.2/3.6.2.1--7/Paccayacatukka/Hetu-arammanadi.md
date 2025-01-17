@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇādi
 
-### Kusalattika, Cūḷantaraduka
+* Kusalattika, Cūḷantaraduka
 
-### Kusalattika, Lokiyaduka
+* Kusalattika, Lokiyaduka
 
-### Lokuttarapada
+* Lokuttarapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu-ārammaṇādi
+* Hetu-ārammaṇādi
 
 (39.)
 

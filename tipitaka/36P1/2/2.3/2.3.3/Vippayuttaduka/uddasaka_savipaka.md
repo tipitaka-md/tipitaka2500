@@ -3,15 +3,15 @@
 
 # Cuddasaka (savipāka)
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Vippayuttaduka
+* Vippayuttaduka
 
-### Cuddasaka (savipāka)
+* Cuddasaka (savipāka)
 
 622\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā. (Saṃkhittaṃ.) Purejātapaccayā kammapaccayā vipākapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
 

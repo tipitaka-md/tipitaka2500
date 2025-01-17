@@ -3,17 +3,17 @@
 
 # Bāvīsaka (savipāka)
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetuduka
+* Hetuduka
 
-### Bāvīsaka (savipāka)
+* Bāvīsaka (savipāka)
 
 503\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā…pe…  vigatapaccayā avigate ekaṃ. Hetumūlakaṃ.
 

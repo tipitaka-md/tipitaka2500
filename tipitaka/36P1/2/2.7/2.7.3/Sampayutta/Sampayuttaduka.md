@@ -3,15 +3,15 @@
 
 # Sampayuttaduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sampayutta
+* Sampayutta
 
-### Sampayuttaduka
+* Sampayuttaduka
 
 (483.)
 

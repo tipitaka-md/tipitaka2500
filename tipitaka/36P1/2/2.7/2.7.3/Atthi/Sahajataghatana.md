@@ -3,15 +3,15 @@
 
 # Sahajātaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Atthi
+* Atthi
 
-### Sahajātaghaṭanā
+* Sahajātaghaṭanā
 
 (492.)
 

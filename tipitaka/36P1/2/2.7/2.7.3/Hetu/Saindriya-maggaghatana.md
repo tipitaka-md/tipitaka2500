@@ -3,15 +3,15 @@
 
 # Saindriya-maggaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Hetu
+* Hetu
 
-### Saindriya-maggaghaṭanā
+* Saindriya-maggaghaṭanā
 
 (416.)
 

@@ -3,17 +3,17 @@
 
 # Aññamaññasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Aññamañña
+* Aññamañña
 
-### Aññamaññasabhāga
+* Aññamaññasabhāga
 
 (323.)
 

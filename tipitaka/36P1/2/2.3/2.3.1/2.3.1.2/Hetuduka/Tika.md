@@ -3,17 +3,17 @@
 
 # Tika
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetuduka
+* Hetuduka
 
-### Tika
+* Tika
 
 499\. Hetupaccayā ārammaṇapaccayā adhipatiyā satta (sabbattha satta) vipāke ekaṃ, avigate satta…pe… .
 

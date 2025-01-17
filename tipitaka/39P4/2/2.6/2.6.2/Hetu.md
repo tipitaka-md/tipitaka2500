@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Kusalattika, Hetugocchaka
+* Kusalattika, Hetugocchaka
 
-### Kusalattika, Nahetusahetukaduka
+* Kusalattika, Nahetusahetukaduka
 
-### Nahetuahetukapada
+* Nahetuahetukapada
 
-### Hetu
+* Hetu
 
 (40.)
 

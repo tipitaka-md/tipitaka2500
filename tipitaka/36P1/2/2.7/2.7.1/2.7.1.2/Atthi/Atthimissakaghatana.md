@@ -3,17 +3,17 @@
 
 # Atthimissakaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Atthi
+* Atthi
 
-### Atthimissakaghaṭanā
+* Atthimissakaghaṭanā
 
 (380.)
 

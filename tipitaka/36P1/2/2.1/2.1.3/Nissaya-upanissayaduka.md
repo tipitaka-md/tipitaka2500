@@ -3,13 +3,13 @@
 
 # Nissaya-upanissayaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Nissaya-upanissayaduka
+* Nissaya-upanissayaduka
 
 (69.)
 

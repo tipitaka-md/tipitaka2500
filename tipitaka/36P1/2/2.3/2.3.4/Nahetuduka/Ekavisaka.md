@@ -3,15 +3,15 @@
 
 # Ekavīsaka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Nahetuduka
+* Nahetuduka
 
-### Ekavīsaka
+* Ekavīsaka
 
 633\. Nahetupaccayā naārammaṇapaccayā…pe…  nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā…pe…  novigatapaccayā sahajāte ekaṃ, nissaye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
 

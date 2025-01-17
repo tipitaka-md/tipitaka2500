@@ -3,13 +3,13 @@
 
 # Natthi-vigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Natthi-vigataduka
+* Natthi-vigataduka
 
 (81.)
 

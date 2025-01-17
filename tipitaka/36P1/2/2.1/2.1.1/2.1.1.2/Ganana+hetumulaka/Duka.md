@@ -3,17 +3,17 @@
 
 # Duka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Gaṇanā hetumūlakā
+* Gaṇanā hetumūlakā
 
-### Duka
+* Duka
 
 (22.)
 

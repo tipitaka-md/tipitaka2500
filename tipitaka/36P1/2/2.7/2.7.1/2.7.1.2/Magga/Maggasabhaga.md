@@ -3,17 +3,17 @@
 
 # Maggasabhāga
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Magga
+* Magga
 
-### Maggasabhāga
+* Maggasabhāga
 
 (365.)
 

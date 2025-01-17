@@ -3,17 +3,17 @@
 
 # Ārammaṇa
 
-### Parāmāsagocchaka
+* Parāmāsagocchaka
 
-### Parāmāsaparāmaṭṭhaduka
+* Parāmāsaparāmaṭṭhaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Ārammaṇa
+* Ārammaṇa
 
 (88.)
 

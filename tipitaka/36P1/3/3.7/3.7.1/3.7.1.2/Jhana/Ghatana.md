@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Jhāna
+* Jhāna
 
-### Ghaṭanā
+* Ghaṭanā
 
 1991\. Jhāna sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Jhāna sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti dve.
 

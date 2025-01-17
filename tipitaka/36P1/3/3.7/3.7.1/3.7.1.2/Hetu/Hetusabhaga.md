@@ -3,17 +3,17 @@
 
 # Hetusabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Hetu
+* Hetu
 
-### Hetusabhāga
+* Hetusabhāga
 
 (63.)
 

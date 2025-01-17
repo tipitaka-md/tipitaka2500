@@ -3,15 +3,15 @@
 
 # Kammapakiṇṇakaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Kamma
+* Kamma
 
-### Kammapakiṇṇakaghaṭanā
+* Kammapakiṇṇakaghaṭanā
 
 (448.)
 

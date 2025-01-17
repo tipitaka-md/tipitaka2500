@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Saññojanagocchaka, Kusalattika
+* Saññojanagocchaka, Kusalattika
 
-### Saññojanasampayuttaduka, Kusalattika
+* Saññojanasampayuttaduka, Kusalattika
 
-### Kusalākusalapada
+* Kusalākusalapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Hetu
+* Hetu
 
 (25.)
 

@@ -3,15 +3,15 @@
 
 # Samanantaraduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Samanantara
+* Samanantara
 
-### Samanantaraduka
+* Samanantaraduka
 
 (429.)
 

@@ -3,17 +3,17 @@
 
 # Saindriya-jhānaghaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Magga
+* Magga
 
-### Saindriya-jhānaghaṭanā
+* Saindriya-jhānaghaṭanā
 
 (369.)
 

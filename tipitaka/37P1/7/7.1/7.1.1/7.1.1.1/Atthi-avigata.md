@@ -3,15 +3,15 @@
 
 # Atthi-avigata
 
-### Vitakkattika
+* Vitakkattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Atthi-avigata
+* Atthi-avigata
 
 (21.)
 

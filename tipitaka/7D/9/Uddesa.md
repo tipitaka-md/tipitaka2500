@@ -3,9 +3,9 @@
 
 # Uddesa
 
-### Mahāsatipaṭṭhānasutta
+* Mahāsatipaṭṭhānasutta
 
-### Uddesa
+* Uddesa
 
 (373.)
 

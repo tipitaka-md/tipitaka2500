@@ -3,13 +3,13 @@
 
 # Novigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Novigataduka
+* Novigataduka
 
 (516.)
 

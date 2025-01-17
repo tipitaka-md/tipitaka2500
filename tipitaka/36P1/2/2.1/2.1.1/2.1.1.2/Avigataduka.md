@@ -3,15 +3,15 @@
 
 # Avigataduka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Avigataduka
+* Avigataduka
 
 (33.)
 

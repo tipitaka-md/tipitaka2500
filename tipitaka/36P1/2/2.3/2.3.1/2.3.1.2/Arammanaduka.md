@@ -3,15 +3,15 @@
 
 # Ārammaṇaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Ārammaṇaduka
+* Ārammaṇaduka
 
 (136.)
 

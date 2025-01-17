@@ -3,9 +3,9 @@
 
 # Lohiccabrāhmaṇavatthu
 
-### Lohiccasutta
+* Lohiccasutta
 
-### Lohiccabrāhmaṇavatthu
+* Lohiccabrāhmaṇavatthu
 
 (501.)
 

@@ -3,17 +3,17 @@
 
 # Ghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Indriya
+* Indriya
 
-### Ghaṭanā
+* Ghaṭanā
 
 1982\. Indriya sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Indriya sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti tīṇi.
 

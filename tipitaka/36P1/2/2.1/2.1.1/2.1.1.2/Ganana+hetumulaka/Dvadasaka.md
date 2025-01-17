@@ -3,17 +3,17 @@
 
 # Dvādasaka
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Gaṇanā hetumūlakā
+* Gaṇanā hetumūlakā
 
-### Dvādasaka
+* Dvādasaka
 
 (24.)
 

@@ -3,11 +3,11 @@
 
 # Hetu
 
-### Piṭṭhiduka, Sanidassanattika
+* Piṭṭhiduka, Sanidassanattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Hetu
+* Hetu
 
 (140.)
 

@@ -3,13 +3,13 @@
 
 # Paccayacatukka
 
-### Hetuduka, Duka
+* Hetuduka, Duka
 
-### Cūḷantaraduka, Hetuduka
+* Cūḷantaraduka, Hetuduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
 (72.)
 

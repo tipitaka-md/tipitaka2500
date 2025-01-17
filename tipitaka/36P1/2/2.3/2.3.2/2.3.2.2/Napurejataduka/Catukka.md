@@ -3,17 +3,17 @@
 
 # Catukka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Napurejātaduka
+* Napurejātaduka
 
-### Catukka
+* Catukka
 
 556\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ (sabbattha ekaṃ) novigate ekaṃ…pe… .
 

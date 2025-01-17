@@ -3,15 +3,15 @@
 
 # Āhāradukādi
 
-### Kusalattika
+* Kusalattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āhāradukādi
+* Āhāradukādi
 
 (32.)
 

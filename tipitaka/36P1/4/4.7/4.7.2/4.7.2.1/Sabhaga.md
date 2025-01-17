@@ -3,15 +3,15 @@
 
 # Sabhāga
 
-### Vipākattika
+* Vipākattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Sabhāga
+* Sabhāga
 
 2425\. Nahetupaccayā naārammaṇe soḷasa…pe…  noavigate dasa.
 

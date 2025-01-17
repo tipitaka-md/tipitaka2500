@@ -3,11 +3,11 @@
 
 # Paccanīyuddhāra
 
-### Saraṇaduka
+* Saraṇaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (56.)
 

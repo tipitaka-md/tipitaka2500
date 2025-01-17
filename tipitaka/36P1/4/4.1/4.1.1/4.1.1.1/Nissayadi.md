@@ -3,15 +3,15 @@
 
 # Nissayādi
 
-### Vipākattika
+* Vipākattika
 
-### Paṭiccavāra
+* Paṭiccavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Nissayādi
+* Nissayādi
 
 (16.)
 

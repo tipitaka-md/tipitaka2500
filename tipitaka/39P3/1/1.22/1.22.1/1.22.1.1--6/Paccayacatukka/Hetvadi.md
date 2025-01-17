@@ -3,17 +3,17 @@
 
 # Hetvādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Sanidassanasappaṭighattika
+* Hetuduka, Sanidassanasappaṭighattika
 
-### Anidassanasappaṭighapada
+* Anidassanasappaṭighapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetvādi
+* Hetvādi
 
 (541.)
 

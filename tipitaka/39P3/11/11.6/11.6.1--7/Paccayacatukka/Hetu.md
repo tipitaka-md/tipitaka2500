@@ -3,15 +3,15 @@
 
 # Hetu
 
-### Upādānagocchaka, Kusalattika
+* Upādānagocchaka, Kusalattika
 
-### Upādānavippayuttaupādāniyaduka, Kusalattika
+* Upādānavippayuttaupādāniyaduka, Kusalattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (28.)
 

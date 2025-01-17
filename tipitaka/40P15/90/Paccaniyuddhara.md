@@ -3,9 +3,9 @@
 
 # Paccanīyuddhāra
 
-### Saraṇaduka, Sanidassanattika
+* Saraṇaduka, Sanidassanattika
 
-### Paccanīyuddhāra
+* Paccanīyuddhāra
 
 (105.)
 

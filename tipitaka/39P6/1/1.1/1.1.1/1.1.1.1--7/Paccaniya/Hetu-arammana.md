@@ -3,17 +3,17 @@
 
 # Hetu-ārammaṇa
 
-### Hetuduka, Duka
+* Hetuduka, Duka
 
-### Hetuduka, Sahetukaduka
+* Hetuduka, Sahetukaduka
 
-### Sahetukapada
+* Sahetukapada
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccanīya
+* Paccanīya
 
-### Hetu-ārammaṇa
+* Hetu-ārammaṇa
 
 (6.)
 

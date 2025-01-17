@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Upādinnattika
+* Upādinnattika
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Hetu
+* Hetu
 
 (26.)
 

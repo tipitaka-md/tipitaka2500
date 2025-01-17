@@ -3,17 +3,17 @@
 
 # Āsevanasabhāga
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Āsevana
+* Āsevana
 
-### Āsevanasabhāga
+* Āsevanasabhāga
 
 (73.)
 

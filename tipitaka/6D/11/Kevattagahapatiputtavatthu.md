@@ -3,9 +3,9 @@
 
 # Kevaṭṭagahapatiputtavatthu
 
-### Kevaṭṭasutta
+* Kevaṭṭasutta
 
-### Kevaṭṭagahapatiputtavatthu
+* Kevaṭṭagahapatiputtavatthu
 
 (481.)
 

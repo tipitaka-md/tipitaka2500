@@ -3,13 +3,13 @@
 
 # Sāmaññaghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sāmaññaghaṭanā
+* Sāmaññaghaṭanā
 
 (87.)
 

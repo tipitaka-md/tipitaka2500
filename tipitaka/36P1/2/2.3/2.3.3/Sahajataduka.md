@@ -3,13 +3,13 @@
 
 # Sahajātaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Sahajātaduka
+* Sahajātaduka
 
 (165.)
 

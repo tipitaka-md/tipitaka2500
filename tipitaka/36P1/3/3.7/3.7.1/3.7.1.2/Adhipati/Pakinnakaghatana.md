@@ -3,17 +3,17 @@
 
 # Pakiṇṇakaghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Adhipati
+* Adhipati
 
-### Pakiṇṇakaghaṭanā
+* Pakiṇṇakaghaṭanā
 
 1957\. Adhipati ārammaṇa upanissayanti cattāri.
 

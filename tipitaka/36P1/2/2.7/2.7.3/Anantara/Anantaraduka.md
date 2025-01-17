@@ -3,15 +3,15 @@
 
 # Anantaraduka
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Anantara
+* Anantara
 
-### Anantaraduka
+* Anantaraduka
 
 (427.)
 

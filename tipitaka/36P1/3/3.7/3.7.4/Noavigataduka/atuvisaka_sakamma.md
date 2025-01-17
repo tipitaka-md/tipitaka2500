@@ -3,15 +3,15 @@
 
 # Catuvīsaka (sakamma)
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayapaccanīyānuloma
+* Paccayapaccanīyānuloma
 
-### Noavigataduka
+* Noavigataduka
 
-### Catuvīsaka (sakamma)
+* Catuvīsaka (sakamma)
 
 2037\. Noavigatapaccayā nahetupaccayā…pe…  nanissayapaccayā napurejātapaccayā…pe…  nakammapaccayā…pe…  novigatapaccayā upanissaye nava.
 

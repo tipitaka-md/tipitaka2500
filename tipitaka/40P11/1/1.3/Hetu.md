@@ -3,11 +3,11 @@
 
 # Hetu
 
-### Kusalattika, Vedanāttika
+* Kusalattika, Vedanāttika
 
-### Adukkhamasukhavedanāyasampayuttapada
+* Adukkhamasukhavedanāyasampayuttapada
 
-### Hetu
+* Hetu
 
 (8.)
 

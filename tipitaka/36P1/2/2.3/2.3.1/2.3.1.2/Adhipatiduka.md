@@ -3,15 +3,15 @@
 
 # Adhipatiduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Adhipatiduka
+* Adhipatiduka
 
 (137.)
 

@@ -3,15 +3,15 @@
 
 # Nahetu
 
-### Cūḷantaraduka
+* Cūḷantaraduka
 
-### Sanidassanaduka
+* Sanidassanaduka
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayapaccanīya
+* Paccayapaccanīya
 
-### Nahetu
+* Nahetu
 
 (29.)
 

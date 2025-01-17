@@ -3,17 +3,17 @@
 
 # Anantara
 
-### Āsavagocchaka
+* Āsavagocchaka
 
-### Āsavasāsavaduka
+* Āsavasāsavaduka
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānulomādi
+* Paccayānulomādi
 
-### Vibhaṅgavāra
+* Vibhaṅgavāra
 
-### Anantara
+* Anantara
 
 (112.)
 

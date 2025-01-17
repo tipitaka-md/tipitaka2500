@@ -3,17 +3,17 @@
 
 # Natthighaṭanā
 
-### Kusalattika
+* Kusalattika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Natthi
+* Natthi
 
-### Natthighaṭanā
+* Natthighaṭanā
 
 (384.)
 

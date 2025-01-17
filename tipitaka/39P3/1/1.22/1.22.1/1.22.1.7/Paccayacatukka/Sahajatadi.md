@@ -3,17 +3,17 @@
 
 # Sahajātādi
 
-### Hetuduka, Tika
+* Hetuduka, Tika
 
-### Hetuduka, Sanidassanasappaṭighattika
+* Hetuduka, Sanidassanasappaṭighattika
 
-### Anidassanasappaṭighapada
+* Anidassanasappaṭighapada
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayacatukka
+* Paccayacatukka
 
-### Sahajātādi
+* Sahajātādi
 
 (544.)
 

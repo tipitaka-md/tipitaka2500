@@ -3,13 +3,13 @@
 
 # Upanissayaduka
 
-### Kusalattika
+* Kusalattika
 
-### Paccayavāra
+* Paccayavāra
 
-### Paccayānulomapaccanīya
+* Paccayānulomapaccanīya
 
-### Upanissayaduka
+* Upanissayaduka
 
 (168.)
 

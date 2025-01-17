@@ -3,17 +3,17 @@
 
 # Sahajātaghaṭanā
 
-### Vedanāttika
+* Vedanāttika
 
-### Pañhāvāra
+* Pañhāvāra
 
-### Paccayānuloma
+* Paccayānuloma
 
-### Saṅkhyāvāra
+* Saṅkhyāvāra
 
-### Adhipati
+* Adhipati
 
-### Sahajātaghaṭanā
+* Sahajātaghaṭanā
 
 1958\. Adhipati sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Adhipati sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti dve.
 

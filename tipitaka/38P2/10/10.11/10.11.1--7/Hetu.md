@@ -3,13 +3,13 @@
 
 # Hetu
 
-### Mahantaraduka
+* Mahantaraduka
 
-### Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka
+* Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka
 
-### Paṭiccādivāra
+* Paṭiccādivāra
 
-### Hetu
+* Hetu
 
 (317.)
 
