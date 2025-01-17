@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.1 Paṭiccavāra](../../../4.3.1.md) / [4.3.1.1 Paccayānuloma](../../4.3.1.1.md) / [4.3.1.1.1 Vibhaṅgavāra](../4.3.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [4 Saññojanagocchaka](../../../...md) / [4.3 Saññojanasampayuttaduka](../../...md) / [4.3.1 Paṭiccavāra](../...md) / [4.3.1.1 Paccayānuloma](...md) / [4.3.1.1.1 Vibhaṅgavāra](../38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1.md)
 
 # Ārammaṇa
 
@@ -31,6 +31,6 @@
 
 1433\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paṭicca saññojanasampayutto dhammo uppajjati ārammaṇapaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (4.3.1.1.1 Vibhaṅgavāra)](../4.3.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (4.3.1.1.1 Vibhaṅgavāra)](../38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

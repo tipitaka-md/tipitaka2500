@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.6 Lokiyaduka](../../../../2.6.md) / [2.6.7 Pañhāvāra](../../../2.6.7.md) / [2.6.7.1 Paccayānuloma](../../2.6.7.1.md) / [2.6.7.1.1 Vibhaṅgavāra](../2.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [2 Cūḷantaraduka](../../../...md) / [2.6 Lokiyaduka](../../...md) / [2.6.7 Pañhāvāra](../...md) / [2.6.7.1 Paccayānuloma](...md) / [2.6.7.1.1 Vibhaṅgavāra](../38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md)
 
 # Atthyādi
 
@@ -37,6 +37,6 @@
 
 934\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (2)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (2.6.7.1.2 Saṅkhyāvāra)](../2.6.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (2.6.7.1.2 Saṅkhyāvāra)](../2.6.7.1.2.md)
 
 

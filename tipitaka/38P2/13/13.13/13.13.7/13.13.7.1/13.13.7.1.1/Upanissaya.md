@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.13 Arūpāvacaraduka](../../../../13.13.md) / [13.13.7 Pañhāvāra](../../../13.13.7.md) / [13.13.7.1 Paccayānuloma](../../13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](../13.13.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.13 Arūpāvacaraduka](../../...md) / [13.13.7 Pañhāvāra](../...md) / [13.13.7.1 Paccayānuloma](...md) / [13.13.7.1.1 Vibhaṅgavāra](../38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md)
 
 # Upanissaya
 
@@ -25,6 +25,6 @@
 
 4690\. Naarūpāvacaro dhammo arūpāvacarassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  ākāsānañcāyatanassa parikammaṃ ākāsānañcāyatanassa upanissayapaccayena paccayo…pe…  nevasaññānāsaññāyatanassa parikammaṃ nevasaññānāsaññāyatanassa upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.7 Pañhāvāra](../../../11.7.md) / [11.7.1 Paccayānuloma](../../11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](../11.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [11 Ācayagāmittika](../../...md) / [11.7 Pañhāvāra](../...md) / [11.7.1 Paccayānuloma](...md) / [11.7.1.1 Vibhaṅgavāra](../37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Adhipati
 
@@ -39,6 +39,6 @@
 
 1581\. Nevācayagāmināpacayagāmī dhammo apacayagāmissa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../11.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

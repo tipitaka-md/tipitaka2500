@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [22 Ajjhattārammaṇattika](../../../../22.md) / [22.7 Pañhāvāra](../../../22.7.md) / [22.7.1 Paccayānuloma](../../22.7.1.md) / [22.7.1.1 Vibhaṅgavāra](../22.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [22 Ajjhattārammaṇattika](../../...md) / [22.7 Pañhāvāra](../...md) / [22.7.1 Paccayānuloma](...md) / [22.7.1.1 Vibhaṅgavāra](../37P1/22/22.7/22.7.1/22.7.1.1.md)
 
 # Adhipati
 
@@ -23,6 +23,6 @@
 
 2899\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ…  phalaṃ garuṃ katvā paccavekkhanti. Bahiddhārammaṇaṃ ajjhattaṃ dibbaṃ cakkhuṃ garuṃ katvā…pe…  dibbaṃ sotadhātuṃ…  iddhividhañāṇaṃ…  cetopariyañāṇaṃ…  pubbenivāsānussatiñāṇaṃ…  yathākammūpagañāṇaṃ…  anāgataṃsañāṇaṃ garuṃ katvā paccavekkhati, bahiddhārammaṇe ajjhatte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā ajjhattārammaṇo rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../37P1/22/22.7/22.7.1/22.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../1.md) / [1.5 Saṃkiliṭṭhattika, Hetuduka](../../../1.5.md) / [1.5.1 Hetupada](../../1.5.1.md) / [1.5.1.1--6 Paṭiccādivāra](../1.5.1.1--6.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../...md) / [1 Tika, Hetuduka](../../...md) / [1.5 Saṃkiliṭṭhattika, Hetuduka](../...md) / [1.5.1 Hetupada](...md) / [1.5.1.1--6 Paṭiccādivāra](../39P4/1/1.5/1.5.1/1.5.1.1--6.md)
 
 # Paccayacatukka
 
@@ -27,6 +27,6 @@
 
 212\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
 
-[Go to previous page (1.5.1.1--6 Paṭiccādivāra)](../1.5.1.1--6.md) / [Go to parent page (1.5.1.1--6 Paṭiccādivāra)](../1.5.1.1--6.md) / [Go to next page (1.5.1.7 Pañhāvāra)](../1.5.1.7.md)
+[Go to previous page (1.5.1.1--6 Paṭiccādivāra)](../39P4/1/1.5/1.5.1/1.5.1.1--6.md) / [Go to parent page (1.5.1.1--6 Paṭiccādivāra)](../39P4/1/1.5/1.5.1/1.5.1.1--6.md) / [Go to next page (1.5.1.7 Pañhāvāra)](../1.5.1.7.md)
 
 

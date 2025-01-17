@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.5 Saṃsaṭṭhavāra](../../../12.5.md) / [12.5.2 Paccayapaccanīya](../../12.5.2.md) / [12.5.2.2 Saṅkhyāvāra](../12.5.2.2.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [12 Sekkhattika](../../...md) / [12.5 Saṃsaṭṭhavāra](../...md) / [12.5.2 Paccayapaccanīya](...md) / [12.5.2.2 Saṅkhyāvāra](../37P1/12/12.5/12.5.2/12.5.2.2.md)
 
 # Suddha
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md) / [Go to parent page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md) / [Go to next page (12.5.3 Paccayānulomapaccanīya)](../../12.5.3.md)
+[Go to previous page (12.5.2.2 Saṅkhyāvāra)](../37P1/12/12.5/12.5.2/12.5.2.2.md) / [Go to parent page (12.5.2.2 Saṅkhyāvāra)](../37P1/12/12.5/12.5.2/12.5.2.2.md) / [Go to next page (12.5.3 Paccayānulomapaccanīya)](../../12.5.3.md)
 
 

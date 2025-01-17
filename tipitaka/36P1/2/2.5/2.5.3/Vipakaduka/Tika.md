@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.3 Paccayānulomapaccanīya](../../2.5.3.md) / [Vipākaduka](../Vipakaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.5 Saṃsaṭṭhavāra](../...md) / [2.5.3 Paccayānulomapaccanīya](...md) / [Vipākaduka](../36P1/2/2.5/2.5.3/Vipakaduka.md)
 
 # Tika
 
@@ -15,6 +15,6 @@
 
 773\. Vipākapaccayā hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
 
-[Go to previous page (Vipākaduka)](../Vipakaduka.md) / [Go to parent page (Vipākaduka)](../Vipakaduka.md) / [Go to next page (Āhāraduka)](../Aharaduka.md)
+[Go to previous page (Vipākaduka)](../36P1/2/2.5/2.5.3/Vipakaduka.md) / [Go to parent page (Vipākaduka)](../36P1/2/2.5/2.5.3/Vipakaduka.md) / [Go to next page (Āhāraduka)](../Aharaduka.md)
 
 

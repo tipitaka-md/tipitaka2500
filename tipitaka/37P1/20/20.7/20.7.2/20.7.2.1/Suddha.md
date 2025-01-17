@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [20 Atītārammaṇattika](../../../../20.md) / [20.7 Pañhāvāra](../../../20.7.md) / [20.7.2 Paccayapaccanīya](../../20.7.2.md) / [20.7.2.1 Saṅkhyāvāra](../20.7.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [20 Atītārammaṇattika](../../...md) / [20.7 Pañhāvāra](../...md) / [20.7.2 Paccayapaccanīya](...md) / [20.7.2.1 Saṅkhyāvāra](../37P1/20/20.7/20.7.2/20.7.2.1.md)
 
 # Suddha
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (20.7.2.1 Saṅkhyāvāra)](../20.7.2.1.md) / [Go to parent page (20.7.2.1 Saṅkhyāvāra)](../20.7.2.1.md) / [Go to next page (20.7.3 Paccayānulomapaccanīya)](../../20.7.3.md)
+[Go to previous page (20.7.2.1 Saṅkhyāvāra)](../37P1/20/20.7/20.7.2/20.7.2.1.md) / [Go to parent page (20.7.2.1 Saṅkhyāvāra)](../37P1/20/20.7/20.7.2/20.7.2.1.md) / [Go to next page (20.7.3 Paccayānulomapaccanīya)](../../20.7.3.md)
 
 

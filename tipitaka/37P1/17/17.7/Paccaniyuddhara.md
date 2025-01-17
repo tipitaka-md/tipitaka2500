@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [17 Maggārammaṇattika](../../17.md) / [17.7 Pañhāvāra](../17.7.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../...md) / [17 Maggārammaṇattika](...md) / [17.7 Pañhāvāra](../37P1/17/17.7.md)
 
 # Paccanīyuddhāra
 
@@ -61,6 +61,6 @@
 
 2587\. Maggahetuko ca maggādhipati ca dhammā maggahetukassa ca maggādhipatissa ca dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (5)
 
-[Go to previous page (Suddha)](17.7.1/17.7.1.2/Suddha.md) / [Go to parent page (17.7 Pañhāvāra)](../17.7.md) / [Go to next page (17.7.2 Paccayapaccanīya)](17.7.2.md)
+[Go to previous page (Suddha)](17.7.1/17.7.1.2/Suddha.md) / [Go to parent page (17.7 Pañhāvāra)](../37P1/17/17.7.md) / [Go to next page (17.7.2 Paccayapaccanīya)](17.7.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.12 Rūpāvacaraduka](../../../../13.12.md) / [13.12.1 Paṭiccavāra](../../../13.12.1.md) / [13.12.1.2 Paccayapaccanīya](../../13.12.1.2.md) / [13.12.1.2.1 Vibhaṅgavāra](../13.12.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.12 Rūpāvacaraduka](../../...md) / [13.12.1 Paṭiccavāra](../...md) / [13.12.1.2 Paccayapaccanīya](...md) / [13.12.1.2.1 Vibhaṅgavāra](../38P2/13/13.12/13.12.1/13.12.1.2/13.12.1.2.1.md)
 
 # Nahetu-naārammaṇa
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (13.12.1.2.1 Vibhaṅgavāra)](../13.12.1.2.1.md) / [Go to parent page (13.12.1.2.1 Vibhaṅgavāra)](../13.12.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
+[Go to previous page (13.12.1.2.1 Vibhaṅgavāra)](../38P2/13/13.12/13.12.1/13.12.1.2/13.12.1.2.1.md) / [Go to parent page (13.12.1.2.1 Vibhaṅgavāra)](../38P2/13/13.12/13.12.1/13.12.1.2/13.12.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 
 

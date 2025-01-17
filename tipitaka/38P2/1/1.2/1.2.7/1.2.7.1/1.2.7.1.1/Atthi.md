@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.7 Pañhāvāra](../../../1.2.7.md) / [1.2.7.1 Paccayānuloma](../../1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](../1.2.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [1 Hetugocchaka](../../../...md) / [1.2 Sahetukaduka](../../...md) / [1.2.7 Pañhāvāra](../...md) / [1.2.7.1 Paccayānuloma](...md) / [1.2.7.1.1 Vibhaṅgavāra](../38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md)
 
 # Atthi
 
@@ -39,6 +39,6 @@
 
 331\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  vicikicchāsahagato uddhaccasahagato eko khandho ca moho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe… . **Sahajāto**—  vicikicchāsahagato uddhaccasahagato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ mohassa ca atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (3)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (1.2.7.1.2 Saṅkhyāvāra)](../1.2.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md) / [Go to next page (1.2.7.1.2 Saṅkhyāvāra)](../1.2.7.1.2.md)
 
 

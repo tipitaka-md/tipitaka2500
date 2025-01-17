@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.6 Cittasamuṭṭhānaduka](../../../../10.6.md) / [10.6.7 Pañhāvāra](../../../10.6.7.md) / [10.6.7.1 Paccayānuloma](../../10.6.7.1.md) / [10.6.7.1.1 Vibhaṅgavāra](../10.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.6 Cittasamuṭṭhānaduka](../../...md) / [10.6.7 Pañhāvāra](../...md) / [10.6.7.1 Paccayānuloma](...md) / [10.6.7.1.1 Vibhaṅgavāra](../38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1.md)
 
 # Ārammaṇa
 
@@ -29,6 +29,6 @@
 
 2840\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Ārabbha kātabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

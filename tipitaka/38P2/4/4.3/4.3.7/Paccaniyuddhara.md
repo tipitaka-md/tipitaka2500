@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [4 Saññojanagocchaka](../../../4.md) / [4.3 Saññojanasampayuttaduka](../../4.3.md) / [4.3.7 Pañhāvāra](../4.3.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [4 Saññojanagocchaka](../...md) / [4.3 Saññojanasampayuttaduka](...md) / [4.3.7 Pañhāvāra](../38P2/4/4.3/4.3.7.md)
 
 # Paccanīyuddhāra
 
@@ -35,6 +35,6 @@
 
 1554\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](4.3.7.1/4.3.7.1.2/Suddha.md) / [Go to parent page (4.3.7 Pañhāvāra)](../4.3.7.md) / [Go to next page (4.3.7.2 Paccayapaccanīya)](4.3.7.2.md)
+[Go to previous page (Suddha)](4.3.7.1/4.3.7.1.2/Suddha.md) / [Go to parent page (4.3.7 Pañhāvāra)](../38P2/4/4.3/4.3.7.md) / [Go to next page (4.3.7.2 Paccayapaccanīya)](4.3.7.2.md)
 
 

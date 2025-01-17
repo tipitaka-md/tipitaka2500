@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.7 Pañhāvāra](../../../4.3.7.md) / [4.3.7.1 Paccayānuloma](../../4.3.7.1.md) / [4.3.7.1.1 Vibhaṅgavāra](../4.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [4 Saññojanagocchaka](../../../...md) / [4.3 Saññojanasampayuttaduka](../../...md) / [4.3.7 Pañhāvāra](../...md) / [4.3.7.1 Paccayānuloma](...md) / [4.3.7.1.1 Vibhaṅgavāra](../38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md)
 
 # Pacchājāta
 
@@ -23,6 +23,6 @@
 
 1521\. Saññojanasampayutto ca saññojanavippayutto ca dhammā saññojanavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā uddhaccasahagatā khandhā ca moho ca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../38P2/4/4.3/4.3.7/4.3.7.1/4.3.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

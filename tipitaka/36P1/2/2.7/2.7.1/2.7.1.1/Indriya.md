@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.1 Paccayānuloma](...md) / [2.7.1.1 Vibhaṅgavāra](../36P1/2/2.7/2.7.1/2.7.1.1.md)
 
 # Indriya
 
@@ -29,6 +29,6 @@
 
 963\. Abyākato dhammo abyākatassa dhammassa indriyapaccayena paccayo—  vipākābyākatā kiriyābyākatā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatā indriyā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ indriyapaccayena paccayo. Cakkhundriyaṃ cakkhuviññāṇassa indriyapaccayena paccayo. Sotindriyaṃ sotaviññāṇassa…pe…  ghānindriyaṃ ghānaviññāṇassa…pe…  jivhindriyaṃ jivhāviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo. **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Jhāna)](Jhana.md)
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page (Jhāna)](Jhana.md)
 
 

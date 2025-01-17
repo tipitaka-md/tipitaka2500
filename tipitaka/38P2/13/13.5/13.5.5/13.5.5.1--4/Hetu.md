@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../13.md) / [13.5 Savitakkaduka](../../../13.5.md) / [13.5.5 Saṃsaṭṭhavāra](../../13.5.5.md) / [13.5.5.1--4 Paccayānulomādi](../13.5.5.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [13 Piṭṭhiduka](../../...md) / [13.5 Savitakkaduka](../...md) / [13.5.5 Saṃsaṭṭhavāra](...md) / [13.5.5.1--4 Paccayānulomādi](../38P2/13/13.5/13.5.5/13.5.5.1--4.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 
 
-[Go to previous page (13.5.5.1--4 Paccayānulomādi)](../13.5.5.1--4.md) / [Go to parent page (13.5.5.1--4 Paccayānulomādi)](../13.5.5.1--4.md) / [Go to next page (13.5.6 Sampayuttavāra)](../../13.5.6.md)
+[Go to previous page (13.5.5.1--4 Paccayānulomādi)](../38P2/13/13.5/13.5.5/13.5.5.1--4.md) / [Go to parent page (13.5.5.1--4 Paccayānulomādi)](../38P2/13/13.5/13.5.5/13.5.5.1--4.md) / [Go to next page (13.5.6 Sampayuttavāra)](../../13.5.6.md)
 
 

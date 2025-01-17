@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../8.md) / [8.13 Parittārammaṇattika, Saraṇaduka](../../8.13.md) / [8.13.1--7 Paṭiccādivāra](../8.13.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [8 Tika, Saraṇaduka](../...md) / [8.13 Parittārammaṇattika, Saraṇaduka](...md) / [8.13.1--7 Paṭiccādivāra](../39P4/8/8.13/8.13.1--7.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 1848\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
 
-[Go to previous page (8.13.1--7 Paṭiccādivāra)](../8.13.1--7.md) / [Go to parent page (8.13.1--7 Paṭiccādivāra)](../8.13.1--7.md) / [Go to next page (8.14 Hīnattika, Saraṇaduka)](../../8.14.md)
+[Go to previous page (8.13.1--7 Paṭiccādivāra)](../39P4/8/8.13/8.13.1--7.md) / [Go to parent page (8.13.1--7 Paṭiccādivāra)](../39P4/8/8.13/8.13.1--7.md) / [Go to next page (8.14 Hīnattika, Saraṇaduka)](../../8.14.md)
 
 

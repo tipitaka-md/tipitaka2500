@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.7 Pañhāvāra](../../../11.7.md) / [11.7.1 Paccayānuloma](../../11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](../11.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [11 Ācayagāmittika](../../...md) / [11.7 Pañhāvāra](../...md) / [11.7.1 Paccayānuloma](...md) / [11.7.1.1 Vibhaṅgavāra](../37P1/11/11.7/11.7.1/11.7.1.1.md)
 
 # Atthyādi
 
@@ -39,6 +39,6 @@
 
 1630\. Apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā apacayagāmissa dhammassa atthipaccayena paccayo (dve kātabbā dassitanayena), natthipaccayena paccayo, vigatapaccayena paccayo, avigatapaccayena paccayo.
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../11.7.1.1.md) / [Go to next page (11.7.1.2 Saṅkhyāvāra)](../11.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page (11.7.1.2 Saṅkhyāvāra)](../11.7.1.2.md)
 
 

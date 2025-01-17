@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](../../../../5.md) / [5.1 Kusalattika, Sārammaṇaduka](../../../5.1.md) / [5.1.1--7 Paṭiccādivāra](../../5.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../...md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](../../...md) / [5.1 Kusalattika, Sārammaṇaduka](../...md) / [5.1.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/5/5.1/5.1.1--7/Paccayacatukka.md)
 
 # Hetusahajātādi
 
@@ -27,6 +27,6 @@
 
 1347\. Abyākato anārammaṇo dhammo abyākatassa anārammaṇassa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo…  atthipaccayena paccayo…  avigatapaccayena paccayo (sabbattha ekaṃ. Saṃkhittaṃ.)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.2 Kusalattika, Cittaduka)](../../../5.2.md)
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../39P4/5/5.1/5.1.1--7/Paccayacatukka.md) / [Go to next page (5.2 Kusalattika, Cittaduka)](../../../5.2.md)
 
 

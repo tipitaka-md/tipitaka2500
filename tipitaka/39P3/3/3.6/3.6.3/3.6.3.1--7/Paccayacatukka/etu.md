@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.6 Lokiyaduka, Kusalattika](../../../../3.6.md) / [3.6.3 Abyākatapada](../../../3.6.3.md) / [3.6.3.1--7 Paṭiccādivāra](../../3.6.3.1--7.md) / [Paccayacatukka](../Paccayacatukka%281%29.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [3 Cūḷantaraduka, Kusalattika](../../../...md) / [3.6 Lokiyaduka, Kusalattika](../../...md) / [3.6.3 Abyākatapada](../...md) / [3.6.3.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../Paccayacatukka%281%29.md)
 
 # Hetu
 

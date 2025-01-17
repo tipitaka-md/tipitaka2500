@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.1 Hetuduka, Kusalattika](../../../../1.1.md) / [1.1.2 Akusalapada](../../../1.1.2.md) / [1.1.2.7 Pañhāvāra](../../1.1.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [1 Hetuduka, Tika](../../../...md) / [1.1 Hetuduka, Kusalattika](../../...md) / [1.1.2 Akusalapada](../...md) / [1.1.2.7 Pañhāvāra](...md) / [Paccayacatukka](../39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka.md)
 
 # Ārammaṇādi
 
@@ -35,6 +35,6 @@
 
 63\. Nahetu akusalo dhammo nahetussa akusalassa dhammassa kammapaccayena paccayo. Nahetu akusalo dhammo hetussa akusalassa dhammassa kammapaccayena paccayo. Nahetu akusalo dhammo hetussa akusalassa ca nahetussa akusalassa ca dhammassa kammapaccayena paccayo. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Āhārādi)](Aharadi.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../39P3/1/1.1/1.1.2/1.1.2.7/Paccayacatukka.md) / [Go to next page (Āhārādi)](Aharadi.md)
 
 

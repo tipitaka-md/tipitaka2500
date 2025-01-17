@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [14 Saraṇaduka, Tika](../../../14.md) / [14.9 Saraṇaduka, Dassanenapahātabbahetukattika](../../14.9.md) / [14.9.1--7 Paṭiccādivāra](../14.9.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [14 Saraṇaduka, Tika](../...md) / [14.9 Saraṇaduka, Dassanenapahātabbahetukattika](...md) / [14.9.1--7 Paṭiccādivāra](../39P3/14/14.9/14.9.1--7.md)
 
 # Paccayacatukka
 
@@ -29,6 +29,6 @@
 
 2669\. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  sahajāte tīṇi, aññamaññe ekaṃ, nissaye tīṇi…pe…  kamme tīṇi, vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ. Sabbattha vitthāretabbaṃ.)
 
-[Go to previous page (14.9.1--7 Paṭiccādivāra)](../14.9.1--7.md) / [Go to parent page (14.9.1--7 Paṭiccādivāra)](../14.9.1--7.md) / [Go to next page (14.10 Saraṇaduka, Ācayagāmittika)](../../14.10.md)
+[Go to previous page (14.9.1--7 Paṭiccādivāra)](../39P3/14/14.9/14.9.1--7.md) / [Go to parent page (14.9.1--7 Paṭiccādivāra)](../39P3/14/14.9/14.9.1--7.md) / [Go to next page (14.10 Saraṇaduka, Ācayagāmittika)](../../14.10.md)
 
 

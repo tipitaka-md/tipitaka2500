@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.4 Paccayapaccanīyānuloma](../../2.7.4.md) / [Naāhāraduka](../Naaharaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.4 Paccayapaccanīyānuloma](...md) / [Naāhāraduka](../36P1/2/2.7/2.7.4/Naaharaduka.md)
 
 # Catukka
 
@@ -15,6 +15,6 @@
 
 1751\. Naāhārapaccayā nahetupaccayā naārammaṇapaccayā adhipatiyā satta, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme dve, vipāke ekaṃ, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā satta, vigate satta, avigate terasa…pe… .
 
-[Go to previous page (Naāhāraduka)](../Naaharaduka.md) / [Go to parent page (Naāhāraduka)](../Naaharaduka.md) / [Go to next page (Bāvīsaka)](Bavisaka.md)
+[Go to previous page (Naāhāraduka)](../36P1/2/2.7/2.7.4/Naaharaduka.md) / [Go to parent page (Naāhāraduka)](../36P1/2/2.7/2.7.4/Naaharaduka.md) / [Go to next page (Bāvīsaka)](Bavisaka.md)
 
 

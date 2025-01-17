@@ -1,5 +1,5 @@
 
-[Home](/) / [1V Pārājikapāḷi](../../1V.md) / [1 Mahāvibhaṅga](../1.md)
+[Home](/) / [1V Pārājikapāḷi](...md) / [1 Mahāvibhaṅga](../1V/1.md)
 
 # Verañjakaṇḍa
 
@@ -135,6 +135,6 @@
 
 
 
-[Go to previous page (1 Mahāvibhaṅga)](../1.md) / [Go to parent page (1 Mahāvibhaṅga)](../1.md) / [Go to next page (1.1 Pārājikakaṇḍa)](1.1.md)
+[Go to previous page (1 Mahāvibhaṅga)](../1V/1.md) / [Go to parent page (1 Mahāvibhaṅga)](../1V/1.md) / [Go to next page (1.1 Pārājikakaṇḍa)](1.1.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.7 Pañhāvāra](../../../21.7.md) / [21.7.1 Paccayānuloma](../../21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](../21.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [21 Ajjhattattika](../../...md) / [21.7 Pañhāvāra](../...md) / [21.7.1 Paccayānuloma](...md) / [21.7.1.1 Vibhaṅgavāra](../37P1/21/21.7/21.7.1/21.7.1.1.md)
 
 # Adhipati
 
@@ -25,6 +25,6 @@
 
 2820\. Bahiddhā dhammo ajjhattassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, adhipatipaccayena paccayo. Bahiddhā cakkhuṃ…pe…  vatthuṃ…  bahiddhā khandhe garuṃ katvā assādeti, abhinandati, taṃ garuṃ katvā rāgo…pe…  diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

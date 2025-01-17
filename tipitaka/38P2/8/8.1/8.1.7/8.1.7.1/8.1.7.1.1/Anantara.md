@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.1 Nīvaraṇaduka](../../../../8.1.md) / [8.1.7 Pañhāvāra](../../../8.1.7.md) / [8.1.7.1 Paccayānuloma](../../8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](../8.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [8 Nīvaraṇagocchaka](../../../...md) / [8.1 Nīvaraṇaduka](../../...md) / [8.1.7 Pañhāvāra](../...md) / [8.1.7.1 Paccayānuloma](...md) / [8.1.7.1.1 Vibhaṅgavāra](../38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md)
 
 # Anantara
 
@@ -27,6 +27,6 @@
 
 1955\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa anantarapaccayena paccayo—  purimā purimā nīvaraṇā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nīvaraṇānaṃ anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimā purimā nīvaraṇā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nonīvaraṇānaṃ khandhānaṃ anantarapaccayena paccayo; nīvaraṇā ca sampayuttakā ca khandhā vuṭṭhānassa anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimā purimā nīvaraṇā ca sampayuttakā ca khandhā pacchimānaṃ pacchimānaṃ nīvaraṇānañca sampayuttakānañca khandhānaṃ anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

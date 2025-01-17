@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.7 Pañhāvāra](../../../13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](../../13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](../13.7.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.7 Sappītikaduka](../../...md) / [13.7.7 Pañhāvāra](../...md) / [13.7.7.1--4 Paccayānulomādi](...md) / [13.7.7.1--4.1 Vibhaṅgavāra](../38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md)
 
 # Hetu
 
@@ -21,6 +21,6 @@
 
 4401\. Appītiko dhammo appītikassa dhammassa hetupaccayena paccayo—  appītikā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (13.7.7.1--4.1 Vibhaṅgavāra)](../13.7.7.1--4.1.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](../13.7.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (13.7.7.1--4.1 Vibhaṅgavāra)](../38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](../38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

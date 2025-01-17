@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.13 Parittārammaṇattika, Hetuduka](../../../../1.13.md) / [1.13.2 Nahetupada](../../../1.13.2.md) / [1.13.2.1--7 Paṭiccādivāra](../../1.13.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.13 Parittārammaṇattika, Hetuduka](../../...md) / [1.13.2 Nahetupada](../...md) / [1.13.2.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 634\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇa-adhipati)](Arammana-adhipati.md)
+[Go to previous page (Paccayacatukka)](../39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/1/1.13/1.13.2/1.13.2.1--7/Paccayacatukka.md) / [Go to next page (Ārammaṇa-adhipati)](Arammana-adhipati.md)
 
 

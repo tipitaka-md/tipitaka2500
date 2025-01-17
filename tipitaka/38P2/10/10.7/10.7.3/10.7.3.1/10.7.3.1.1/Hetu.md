@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.7 Cittasahabhūduka](../../../../10.7.md) / [10.7.3 Paccayavāra](../../../10.7.3.md) / [10.7.3.1 Paccayānuloma](../../10.7.3.1.md) / [10.7.3.1.1 Vibhaṅgavāra](../10.7.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.7 Cittasahabhūduka](../../...md) / [10.7.3 Paccayavāra](../...md) / [10.7.3.1 Paccayānuloma](...md) / [10.7.3.1.1 Vibhaṅgavāra](../38P2/10/10.7/10.7.3/10.7.3.1/10.7.3.1.1.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 2935\. Cittasahabhuñca nocittasahabhuñca dhammaṃ paccayā cittasahabhū ca nocittasahabhū ca dhammā uppajjanti hetupaccayā—  cittasahabhuṃ ekaṃ khandhañca cittañca paccayā dve khandhā cittasahabhu ca nocittasahabhu ca cittasamuṭṭhānaṃ rūpaṃ, cittasahabhuṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe… . (Paṭiccasadisaṃ, sabbe mahābhūtā.) (3)
 
-[Go to previous page (10.7.3.1.1 Vibhaṅgavāra)](../10.7.3.1.1.md) / [Go to parent page (10.7.3.1.1 Vibhaṅgavāra)](../10.7.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (10.7.3.1.1 Vibhaṅgavāra)](../38P2/10/10.7/10.7.3/10.7.3.1/10.7.3.1.1.md) / [Go to parent page (10.7.3.1.1 Vibhaṅgavāra)](../38P2/10/10.7/10.7.3/10.7.3.1/10.7.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

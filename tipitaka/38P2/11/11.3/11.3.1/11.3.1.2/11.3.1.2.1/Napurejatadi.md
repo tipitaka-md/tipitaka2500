@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.3 Upādānasampayuttaduka](../../../../11.3.md) / [11.3.1 Paṭiccavāra](../../../11.3.1.md) / [11.3.1.2 Paccayapaccanīya](../../11.3.1.2.md) / [11.3.1.2.1 Vibhaṅgavāra](../11.3.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [11 Upādānagocchaka](../../../...md) / [11.3 Upādānasampayuttaduka](../../...md) / [11.3.1 Paṭiccavāra](../...md) / [11.3.1.2 Paccayapaccanīya](...md) / [11.3.1.2.1 Vibhaṅgavāra](../38P2/11/11.3/11.3.1/11.3.1.2/11.3.1.2.1.md)
 
 # Napurejātādi
 
@@ -35,6 +35,6 @@
 
 3665\. Napacchājātapaccayā…  naāsevanapaccayā.
 
-[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (11.3.1.2.1 Vibhaṅgavāra)](../11.3.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
+[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (11.3.1.2.1 Vibhaṅgavāra)](../38P2/11/11.3/11.3.1/11.3.1.2/11.3.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 
 

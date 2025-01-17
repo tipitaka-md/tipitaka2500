@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.7 Pañhāvāra](../../../12.1.7.md) / [12.1.7.1 Paccayānuloma](../../12.1.7.1.md) / [12.1.7.1.1 Vibhaṅgavāra](../12.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [12 Kilesagocchaka](../../../...md) / [12.1 Kilesaduka](../../...md) / [12.1.7 Pañhāvāra](../...md) / [12.1.7.1 Paccayānuloma](...md) / [12.1.7.1.1 Vibhaṅgavāra](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md)
 
 # Kamma
 
@@ -23,6 +23,6 @@
 
 3885\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa kammapaccayena paccayo—  nokilesā cetanā sampayuttakānaṃ khandhānaṃ kilesānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 
 

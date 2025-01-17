@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.1 Vedanāttika, Kusalattika](../../2.1.md) / [2.1.1--7 Paṭiccādivāra](../2.1.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../...md) / [2 Tika, Kusalattika](../...md) / [2.1 Vedanāttika, Kusalattika](...md) / [2.1.1--7 Paṭiccādivāra](../39P5/2/2.1/2.1.1--7.md)
 
 # Paccayacatukka
 
@@ -45,6 +45,6 @@
 
 309\. Hetuyā dve, ārammaṇe tīṇi…pe…  āsevane dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
-[Go to previous page (2.1.1--7 Paṭiccādivāra)](../2.1.1--7.md) / [Go to parent page (2.1.1--7 Paṭiccādivāra)](../2.1.1--7.md) / [Go to next page (2.2 Vipākattika, Kusalattika)](../../2.2.md)
+[Go to previous page (2.1.1--7 Paṭiccādivāra)](../39P5/2/2.1/2.1.1--7.md) / [Go to parent page (2.1.1--7 Paṭiccādivāra)](../39P5/2/2.1/2.1.1--7.md) / [Go to next page (2.2 Vipākattika, Kusalattika)](../../2.2.md)
 
 

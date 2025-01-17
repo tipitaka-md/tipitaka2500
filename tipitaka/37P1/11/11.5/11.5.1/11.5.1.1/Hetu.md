@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.5 Saṃsaṭṭhavāra](../../../11.5.md) / [11.5.1 Paccayānuloma](../../11.5.1.md) / [11.5.1.1 Vibhaṅgavāra](../11.5.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [11 Ācayagāmittika](../../...md) / [11.5 Saṃsaṭṭhavāra](../...md) / [11.5.1 Paccayānuloma](...md) / [11.5.1.1 Vibhaṅgavāra](../37P1/11/11.5/11.5.1/11.5.1.1.md)
 
 # Hetu
 
@@ -21,6 +21,6 @@
 
 1545\. Nevācayagāmināpacayagāmiṃ dhammaṃ saṃsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (11.5.1.1 Vibhaṅgavāra)](../11.5.1.1.md) / [Go to parent page (11.5.1.1 Vibhaṅgavāra)](../11.5.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
+[Go to previous page (11.5.1.1 Vibhaṅgavāra)](../37P1/11/11.5/11.5.1/11.5.1.1.md) / [Go to parent page (11.5.1.1 Vibhaṅgavāra)](../37P1/11/11.5/11.5.1/11.5.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

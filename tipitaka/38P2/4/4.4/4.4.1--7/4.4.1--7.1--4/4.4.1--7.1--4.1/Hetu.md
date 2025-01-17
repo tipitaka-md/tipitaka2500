@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.4 Saññojanasaññojaniyaduka](../../../../4.4.md) / [4.4.1--7 Paṭiccādivāra](../../../4.4.1--7.md) / [4.4.1--7.1--4 Paccayānulomādi](../../4.4.1--7.1--4.md) / [4.4.1--7.1--4.1 Vibhaṅgavāra](../4.4.1--7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [4 Saññojanagocchaka](../../../...md) / [4.4 Saññojanasaññojaniyaduka](../../...md) / [4.4.1--7 Paṭiccādivāra](../...md) / [4.4.1--7.1--4 Paccayānulomādi](...md) / [4.4.1--7.1--4.1 Vibhaṅgavāra](../38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1.md)
 
 # Hetu
 
@@ -49,6 +49,6 @@
 
 
 
-[Go to previous page (4.4.1--7.1--4.1 Vibhaṅgavāra)](../4.4.1--7.1--4.1.md) / [Go to parent page (4.4.1--7.1--4.1 Vibhaṅgavāra)](../4.4.1--7.1--4.1.md) / [Go to next page (4.5 Saññojanasaññojanasampayuttaduka)](../../../../4.5.md)
+[Go to previous page (4.4.1--7.1--4.1 Vibhaṅgavāra)](../38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1.md) / [Go to parent page (4.4.1--7.1--4.1 Vibhaṅgavāra)](../38P2/4/4.4/4.4.1--7/4.4.1--7.1--4/4.4.1--7.1--4.1.md) / [Go to next page (4.5 Saññojanasaññojanasampayuttaduka)](../../../../4.5.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../4.md) / [4.4 Āsavasāsavaduka, Kusalattika](../../../4.4.md) / [4.4.2 Akusalapada](../../4.4.2.md) / [Paccanīya](../Paccaniya.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [4 Āsavagocchaka, Kusalattika](../../...md) / [4.4 Āsavasāsavaduka, Kusalattika](../...md) / [4.4.2 Akusalapada](...md) / [Paccanīya](../39P3/4/4.4/4.4.2/Paccaniya.md)
 
 # Nahetu
 
@@ -23,6 +23,6 @@
 
 1656\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi vitthāretabbā.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (4.4.2.1--6 Paṭiccādivāra)](../4.4.2.1--6.md)
+[Go to previous page (Paccanīya)](../39P3/4/4.4/4.4.2/Paccaniya.md) / [Go to parent page (Paccanīya)](../39P3/4/4.4/4.4.2/Paccaniya.md) / [Go to next page (4.4.2.1--6 Paṭiccādivāra)](../4.4.2.1--6.md)
 
 

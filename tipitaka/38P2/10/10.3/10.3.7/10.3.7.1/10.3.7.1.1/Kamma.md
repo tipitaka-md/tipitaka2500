@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.3 Cetasikaduka](../../../../10.3.md) / [10.3.7 Pañhāvāra](../../../10.3.7.md) / [10.3.7.1 Paccayānuloma](../../10.3.7.1.md) / [10.3.7.1.1 Vibhaṅgavāra](../10.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.3 Cetasikaduka](../../...md) / [10.3.7 Pañhāvāra](../...md) / [10.3.7.1 Paccayānuloma](...md) / [10.3.7.1.1 Vibhaṅgavāra](../38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md)
 
 # Kamma
 
@@ -23,6 +23,6 @@
 
 2639\. Cetasiko dhammo cetasikassa ca acetasikassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cetasikā cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cetasikā cetanā vipākānaṃ khandhānaṃ cittassa kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../38P2/10/10.3/10.3.7/10.3.7.1/10.3.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 
 

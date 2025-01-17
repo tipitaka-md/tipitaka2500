@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../../../7.md) / [7.9 Kusalattika, Kāmāvacaraduka](../../../../7.9.md) / [7.9.1 Kāmāvacarapada](../../../7.9.1.md) / [7.9.1.1--7 Paṭiccādivāra](../../7.9.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [7 Kusalattika, Piṭṭhiduka](../../../...md) / [7.9 Kusalattika, Kāmāvacaraduka](../../...md) / [7.9.1 Kāmāvacarapada](../...md) / [7.9.1.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -47,6 +47,6 @@
 
 1610\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (7.9.2 Nakāmāvacarapada)](../../../7.9.2.md)
+[Go to previous page (Paccayacatukka)](../39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/7/7.9/7.9.1/7.9.1.1--7/Paccayacatukka.md) / [Go to next page (7.9.2 Nakāmāvacarapada)](../../../7.9.2.md)
 
 

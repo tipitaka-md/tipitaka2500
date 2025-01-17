@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.1 Upādānaduka](../../../../11.1.md) / [11.1.7 Pañhāvāra](../../../11.1.7.md) / [11.1.7.1 Paccayānuloma](../../11.1.7.1.md) / [11.1.7.1.1 Vibhaṅgavāra](../11.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [11 Upādānagocchaka](../../../...md) / [11.1 Upādānaduka](../../...md) / [11.1.7 Pañhāvāra](../...md) / [11.1.7.1 Paccayānuloma](...md) / [11.1.7.1.1 Vibhaṅgavāra](../38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1.md)
 
 # Vipākādi
 
@@ -23,6 +23,6 @@
 
 3605\. Upādāno dhammo upādānassa dhammassa maggapaccayena paccayo—  upādānāni maggaṅgāni sampayuttakānaṃ upādānānaṃ maggapaccayena paccayo (iminā kāraṇena nava pañhā kātabbā)…  sampayuttapaccayena paccayo…  nava.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../38P2/11/11.1/11.1.7/11.1.7.1/11.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.1 Kusalattika, Hetuduka](../../../../1.1.md) / [1.1.2 Nahetupada](../../../1.1.2.md) / [1.1.2.7 Pañhāvāra](../../1.1.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.1 Kusalattika, Hetuduka](../../...md) / [1.1.2 Nahetupada](../...md) / [1.1.2.7 Pañhāvāra](...md) / [Paccayacatukka](../39P4/1/1.1/1.1.2/1.1.2.7/Paccayacatukka.md)
 
 # Upanissaya
 
@@ -35,6 +35,6 @@
 
 79\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Ārammaṇādi)](Arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.2 Vedanāttika, Hetuduka)](../../../../1.2.md)
+[Go to previous page (Ārammaṇādi)](Arammanadi.md) / [Go to parent page (Paccayacatukka)](../39P4/1/1.1/1.1.2/1.1.2.7/Paccayacatukka.md) / [Go to next page (1.2 Vedanāttika, Hetuduka)](../../../../1.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [10 Mahantaraduka, Kusalattika](../../../../10.md) / [10.6 Cittasamuṭṭhānaduka, Kusalattika](../../../10.6.md) / [10.6.1--7 Paṭiccādivāra](../../10.6.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [10 Mahantaraduka, Kusalattika](../../...md) / [10.6 Cittasamuṭṭhānaduka, Kusalattika](../...md) / [10.6.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/10/10.6/10.6.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -77,6 +77,6 @@
 
 2117\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.7 Cittasahabhūduka, Kusalattika)](../../../10.7.md)
+[Go to previous page (Paccayacatukka)](../39P3/10/10.6/10.6.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P3/10/10.6/10.6.1--7/Paccayacatukka.md) / [Go to next page (10.7 Cittasahabhūduka, Kusalattika)](../../../10.7.md)
 
 

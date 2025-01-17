@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.3 Paccayānulomapaccanīya](../../2.3.3.md) / [Vipākaduka](../Vipakaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.3 Paccayavāra](../...md) / [2.3.3 Paccayānulomapaccanīya](...md) / [Vipākaduka](../36P1/2/2.3/2.3.3/Vipakaduka.md)
 
 # Tika
 
@@ -15,6 +15,6 @@
 
 606\. Vipākapaccayā hetupaccayā naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
 
-[Go to previous page (Vipākaduka)](../Vipakaduka.md) / [Go to parent page (Vipākaduka)](../Vipakaduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
+[Go to previous page (Vipākaduka)](../36P1/2/2.3/2.3.3/Vipakaduka.md) / [Go to parent page (Vipākaduka)](../36P1/2/2.3/2.3.3/Vipakaduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
 
 

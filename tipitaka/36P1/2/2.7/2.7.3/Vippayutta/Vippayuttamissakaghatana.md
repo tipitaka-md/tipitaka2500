@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Vippayutta](../Vippayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Vippayutta](../36P1/2/2.7/2.7.3/Vippayutta.md)
 
 # Vippayuttamissakaghaṭanā
 
@@ -23,6 +23,6 @@
 
 1650\. Vippayutta nissaya indriya atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte ekaṃ, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (Vippayuttaduka)](Vippayuttaduka.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
+[Go to previous page (Vippayuttaduka)](Vippayuttaduka.md) / [Go to parent page (Vippayutta)](../36P1/2/2.7/2.7.3/Vippayutta.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
 

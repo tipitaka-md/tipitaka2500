@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [2 Vedanāttika](../../../2.md) / [2.1--6 Paṭiccādivāra](../../2.1--6.md) / [Paccanīya](../Paccaniya.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../...md) / [2 Vedanāttika](../...md) / [2.1--6 Paṭiccādivāra](...md) / [Paccanīya](../40P13/2/2.1--6/Paccaniya.md)
 
 # Nahetu
 
@@ -19,6 +19,6 @@
 
 30\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (2.7 Pañhāvāra)](../../2.7.md)
+[Go to previous page (Paccanīya)](../40P13/2/2.1--6/Paccaniya.md) / [Go to parent page (Paccanīya)](../40P13/2/2.1--6/Paccaniya.md) / [Go to next page (2.7 Pañhāvāra)](../../2.7.md)
 
 

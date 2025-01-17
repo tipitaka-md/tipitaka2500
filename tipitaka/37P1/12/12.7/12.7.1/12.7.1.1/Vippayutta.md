@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.7 Pañhāvāra](../../../12.7.md) / [12.7.1 Paccayānuloma](../../12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](../12.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [12 Sekkhattika](../../...md) / [12.7 Pañhāvāra](../...md) / [12.7.1 Paccayānuloma](...md) / [12.7.1.1 Vibhaṅgavāra](../37P1/12/12.7/12.7.1/12.7.1.1.md)
 
 # Vippayutta
 
@@ -25,6 +25,6 @@
 
 1832\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu asekkhānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../12.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
+[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.3 Paccayānulomapaccanīya](../../2.5.3.md) / [Jhānaduka](../Jhanaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.5 Saṃsaṭṭhavāra](../...md) / [2.5.3 Paccayānulomapaccanīya](...md) / [Jhānaduka](../36P1/2/2.5/2.5.3/Jhanaduka.md)
 
 # Tika
 
@@ -15,6 +15,6 @@
 
 779\. Jhānapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
 
-[Go to previous page (Jhānaduka)](../Jhanaduka.md) / [Go to parent page (Jhānaduka)](../Jhanaduka.md) / [Go to next page (Maggaduka)](../Maggaduka.md)
+[Go to previous page (Jhānaduka)](../36P1/2/2.5/2.5.3/Jhanaduka.md) / [Go to parent page (Jhānaduka)](../36P1/2/2.5/2.5.3/Jhanaduka.md) / [Go to next page (Maggaduka)](../Maggaduka.md)
 
 

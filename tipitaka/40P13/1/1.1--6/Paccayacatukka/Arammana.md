@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [1 Kusalattika](../../../1.md) / [1.1--6 Paṭiccādivāra](../../1.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../...md) / [1 Kusalattika](../...md) / [1.1--6 Paṭiccādivāra](...md) / [Paccayacatukka](../40P13/1/1.1--6/Paccayacatukka.md)
 
 # Ārammaṇa
 
@@ -21,6 +21,6 @@
 
 10\. Hetuyā ekūnavīsa, ārammaṇe nava, adhipatiyā ekūnavīsa, anantare nava, samanantare nava, sahajāte ekūnavīsa…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa.
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../40P13/1/1.1--6/Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

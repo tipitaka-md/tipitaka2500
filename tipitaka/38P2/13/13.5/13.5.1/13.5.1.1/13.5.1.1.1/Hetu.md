@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.5 Savitakkaduka](../../../../13.5.md) / [13.5.1 Paṭiccavāra](../../../13.5.1.md) / [13.5.1.1 Paccayānuloma](../../13.5.1.1.md) / [13.5.1.1.1 Vibhaṅgavāra](../13.5.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.5 Savitakkaduka](../../...md) / [13.5.1 Paṭiccavāra](../...md) / [13.5.1.1 Paccayānuloma](...md) / [13.5.1.1.1 Vibhaṅgavāra](../38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1.md)
 
 # Hetu
 
@@ -35,6 +35,6 @@
 
 4293\. Savitakkañca avitakkañca dhammaṃ paṭicca savitakko ca avitakko ca dhammā uppajjanti hetupaccayā—  savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  savitakke khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  savitakke khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ, paṭisandhikkhaṇe savitakkaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā vitakko ca…pe…  dve khandhe…pe… . (3) (Saṃkhittaṃ.)
 
-[Go to previous page (13.5.1.1.1 Vibhaṅgavāra)](../13.5.1.1.1.md) / [Go to parent page (13.5.1.1.1 Vibhaṅgavāra)](../13.5.1.1.1.md) / [Go to next page (13.5.1.1.2 Saṅkhyāvāra)](../13.5.1.1.2.md)
+[Go to previous page (13.5.1.1.1 Vibhaṅgavāra)](../38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1.md) / [Go to parent page (13.5.1.1.1 Vibhaṅgavāra)](../38P2/13/13.5/13.5.1/13.5.1.1/13.5.1.1.1.md) / [Go to next page (13.5.1.1.2 Saṅkhyāvāra)](../13.5.1.1.2.md)
 
 

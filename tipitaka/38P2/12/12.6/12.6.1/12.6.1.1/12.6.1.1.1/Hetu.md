@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.6 Kilesasaṃkiliṭṭhaduka](../../../../12.6.md) / [12.6.1 Paṭiccavāra](../../../12.6.1.md) / [12.6.1.1 Paccayānuloma](../../12.6.1.1.md) / [12.6.1.1.1 Vibhaṅgavāra](../12.6.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [12 Kilesagocchaka](../../../...md) / [12.6 Kilesasaṃkiliṭṭhaduka](../../...md) / [12.6.1 Paṭiccavāra](../...md) / [12.6.1.1 Paccayānuloma](...md) / [12.6.1.1.1 Vibhaṅgavāra](../38P2/12/12.6/12.6.1/12.6.1.1/12.6.1.1.1.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 4025\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca saṃkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
 
-[Go to previous page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to parent page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to next page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md)
+[Go to previous page (12.6.1.1.1 Vibhaṅgavāra)](../38P2/12/12.6/12.6.1/12.6.1.1/12.6.1.1.1.md) / [Go to parent page (12.6.1.1.1 Vibhaṅgavāra)](../38P2/12/12.6/12.6.1/12.6.1.1/12.6.1.1.1.md) / [Go to next page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md)
 
 

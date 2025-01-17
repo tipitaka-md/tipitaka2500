@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.3 Sanidassanaduka, Kusalattika](../../../../3.3.md) / [3.3.3 Abyākatapada](../../../3.3.3.md) / [3.3.3.7 Pañhāvāra](../../3.3.3.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [3 Cūḷantaraduka, Kusalattika](../../../...md) / [3.3 Sanidassanaduka, Kusalattika](../../...md) / [3.3.3 Abyākatapada](../...md) / [3.3.3.7 Pañhāvāra](...md) / [Paccayacatukka](../39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md)
 
 # Hetvādi
 
@@ -44,6 +44,6 @@
 
 
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.4 Sappaṭighaduka, Kusalattika)](../../../../3.4.md)
+[Go to previous page (Paccayacatukka)](../39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P3/3/3.3/3.3.3/3.3.3.7/Paccayacatukka.md) / [Go to next page (3.4 Sappaṭighaduka, Kusalattika)](../../../../3.4.md)
 
 

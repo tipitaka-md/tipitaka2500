@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.1 Paṭiccavāra](../../../13.7.1.md) / [13.7.1.2 Paccayapaccanīya](../../13.7.1.2.md) / [13.7.1.2.1 Vibhaṅgavāra](../13.7.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.7 Sappītikaduka](../../...md) / [13.7.1 Paṭiccavāra](../...md) / [13.7.1.2 Paccayapaccanīya](...md) / [13.7.1.2.1 Vibhaṅgavāra](../38P2/13/13.7/13.7.1/13.7.1.2/13.7.1.2.1.md)
 
 # Nahetu
 
@@ -25,6 +25,6 @@
 
 4384\. Sappītikañca appītikañca dhammaṃ paṭicca sappītiko dhammo uppajjati nahetupaccayā—  ahetukaṃ sappītikaṃ ekaṃ khandhañca pītiñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Sappītikañca appītikañca dhammaṃ paṭicca appītiko dhammo uppajjati nahetupaccayā—  ahetuke sappītike khandhe ca pītiñca paṭicca cittasamuṭṭhānaṃ rūpaṃ, ahetuke sappītike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Sappītikañca appītikañca dhammaṃ paṭicca sappītiko ca appītiko ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ sappītikaṃ ekaṃ khandhañca pītiñca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  ahetukaṃ sappītikaṃ ekaṃ khandhañca pītiñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sappītike khandhe ca pītiñca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-[Go to previous page (13.7.1.2.1 Vibhaṅgavāra)](../13.7.1.2.1.md) / [Go to parent page (13.7.1.2.1 Vibhaṅgavāra)](../13.7.1.2.1.md) / [Go to next page (13.7.1.2.2 Saṅkhyāvāra)](../13.7.1.2.2.md)
+[Go to previous page (13.7.1.2.1 Vibhaṅgavāra)](../38P2/13/13.7/13.7.1/13.7.1.2/13.7.1.2.1.md) / [Go to parent page (13.7.1.2.1 Vibhaṅgavāra)](../38P2/13/13.7/13.7.1/13.7.1.2/13.7.1.2.1.md) / [Go to next page (13.7.1.2.2 Saṅkhyāvāra)](../13.7.1.2.2.md)
 
 

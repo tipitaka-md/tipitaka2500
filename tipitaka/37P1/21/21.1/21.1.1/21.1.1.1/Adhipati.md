@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.1 Paṭiccavāra](../../../21.1.md) / [21.1.1 Paccayānuloma](../../21.1.1.md) / [21.1.1.1 Vibhaṅgavāra](../21.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [21 Ajjhattattika](../../...md) / [21.1 Paṭiccavāra](../...md) / [21.1.1 Paccayānuloma](...md) / [21.1.1.1 Vibhaṅgavāra](../37P1/21/21.1/21.1.1/21.1.1.1.md)
 
 # Adhipati
 
@@ -19,6 +19,6 @@
 
 2765\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati adhipatipaccayā—  bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](../21.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](../37P1/21/21.1/21.1.1/21.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

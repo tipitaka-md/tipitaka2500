@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.9 Sukhasahagataduka](../../../../13.9.md) / [13.9.7 Pañhāvāra](../../../13.9.7.md) / [13.9.7.1--4 Paccayānulomādi](../../13.9.7.1--4.md) / [13.9.7.1--4.1 Vibhaṅgavāra](../13.9.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.9 Sukhasahagataduka](../../...md) / [13.9.7 Pañhāvāra](../...md) / [13.9.7.1--4 Paccayānulomādi](...md) / [13.9.7.1--4.1 Vibhaṅgavāra](../38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1.md)
 
 # Purejātādi
 
@@ -25,6 +25,6 @@
 
 4461\. Pacchājātapaccayena paccayo…  tīṇi…  āsevanapaccayena paccayo…  nava.
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.9.7.1--4.1 Vibhaṅgavāra)](../13.9.7.1--4.1.md) / [Go to next page (Kammādi)](Kammadi.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.9.7.1--4.1 Vibhaṅgavāra)](../38P2/13/13.9/13.9.7/13.9.7.1--4/13.9.7.1--4.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 
 

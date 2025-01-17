@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.3 Paccayavāra](../../../10.3.md) / [10.3.1 Paccayānuloma](../../10.3.1.md) / [10.3.1.1 Vibhaṅgavāra](../10.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [10 Dassanenapahātabbahetukattika](../../...md) / [10.3 Paccayavāra](../...md) / [10.3.1 Paccayānuloma](...md) / [10.3.1.1 Vibhaṅgavāra](../37P1/10/10.3/10.3.1/10.3.1.1.md)
 
 # Vippayutta
 
@@ -45,6 +45,6 @@
 
 1205\. Bhāvanāya pahātabbahetukañca…pe…  tīṇi. (Dassanena sadisā.)
 
-[Go to previous page (Aññamaññādi)](Annamannadi.md) / [Go to parent page (10.3.1.1 Vibhaṅgavāra)](../10.3.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
+[Go to previous page (Aññamaññādi)](Annamannadi.md) / [Go to parent page (10.3.1.1 Vibhaṅgavāra)](../37P1/10/10.3/10.3.1/10.3.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

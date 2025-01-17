@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.9 Upekkhāsahagataduka, Kusalattika](../../13.9.md) / [13.9.1--7 Paṭiccādivāra](../13.9.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [13 Piṭṭhiduka, Kusalattika](../...md) / [13.9 Upekkhāsahagataduka, Kusalattika](...md) / [13.9.1--7 Paṭiccādivāra](../39P3/13/13.9/13.9.1--7.md)
 
 # Paccayacatukka
 
@@ -37,6 +37,6 @@
 
 2508\. Upekkhāsahagataṃ abyākataṃ dhammaṃ paṭicca upekkhāsahagato abyākato dhammo uppajjati hetupaccayā nava pañhā. (Sappītikadukaabyākatasadisaṃ. Pañhāvāre kusalākusale indriye jhāne cha, abyākate nava.)
 
-[Go to previous page (13.9.1--7 Paṭiccādivāra)](../13.9.1--7.md) / [Go to parent page (13.9.1--7 Paṭiccādivāra)](../13.9.1--7.md) / [Go to next page (13.10 Kāmāvacaraduka, Kusalattika)](../../13.10.md)
+[Go to previous page (13.9.1--7 Paṭiccādivāra)](../39P3/13/13.9/13.9.1--7.md) / [Go to parent page (13.9.1--7 Paṭiccādivāra)](../39P3/13/13.9/13.9.1--7.md) / [Go to next page (13.10 Kāmāvacaraduka, Kusalattika)](../../13.10.md)
 
 

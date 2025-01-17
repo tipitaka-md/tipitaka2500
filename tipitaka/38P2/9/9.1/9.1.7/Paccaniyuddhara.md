@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [9 Parāmāsagocchaka](../../../9.md) / [9.1 Parāmāsaduka](../../9.1.md) / [9.1.7 Pañhāvāra](../9.1.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [9 Parāmāsagocchaka](../...md) / [9.1 Parāmāsaduka](...md) / [9.1.7 Pañhāvāra](../38P2/9/9.1/9.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -35,6 +35,6 @@
 
 2205\. Parāmāso ca noparāmāso ca dhammā parāmāsassa ca noparāmāsassa ca dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](9.1.7.1/9.1.7.1.2/Suddha.md) / [Go to parent page (9.1.7 Pañhāvāra)](../9.1.7.md) / [Go to next page (9.1.7.2 Paccayapaccanīya)](9.1.7.2.md)
+[Go to previous page (Suddha)](9.1.7.1/9.1.7.1.2/Suddha.md) / [Go to parent page (9.1.7 Pañhāvāra)](../38P2/9/9.1/9.1.7.md) / [Go to next page (9.1.7.2 Paccayapaccanīya)](9.1.7.2.md)
 
 

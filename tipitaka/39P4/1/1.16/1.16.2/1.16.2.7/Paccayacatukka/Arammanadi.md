@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.16 Maggārammaṇattika, Hetuduka](../../../../1.16.md) / [1.16.2 Nahetupada](../../../1.16.2.md) / [1.16.2.7 Pañhāvāra](../../1.16.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.16 Maggārammaṇattika, Hetuduka](../../...md) / [1.16.2 Nahetupada](../...md) / [1.16.2.7 Pañhāvāra](...md) / [Paccayacatukka](../39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka.md)
 
 # Ārammaṇādi
 
@@ -35,6 +35,6 @@
 
 765\. Maggahetuko nahetu ca maggādhipati nahetu ca dhammā maggahetukassa nahetussa dhammassa adhipatipaccayena paccayo…  pañca.
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Anantara-upanissaya)](Anantara-upanissaya.md)
+[Go to previous page (Paccayacatukka)](../39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/1/1.16/1.16.2/1.16.2.7/Paccayacatukka.md) / [Go to next page (Anantara-upanissaya)](Anantara-upanissaya.md)
 
 

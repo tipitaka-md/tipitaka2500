@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.7 Pañhāvāra](../../../10.7.md) / [10.7.1 Paccayānuloma](../../10.7.1.md) / [10.7.1.1 Vibhaṅgavāra](../10.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [10 Dassanenapahātabbahetukattika](../../...md) / [10.7 Pañhāvāra](../...md) / [10.7.1 Paccayānuloma](...md) / [10.7.1.1 Vibhaṅgavāra](../37P1/10/10.7/10.7.1/10.7.1.1.md)
 
 # Āhāra
 
@@ -25,6 +25,6 @@
 
 1363\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo nevadassanena nabhāvanāya pahātabbahetukassa dhammassa āhārapaccayena paccayo—  nevadassanena nabhāvanāya pahātabbahetukā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa kāyassa āhārapaccayena paccayo.
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Indriyādi)](Indriyadi.md)
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../37P1/10/10.7/10.7.1/10.7.1.1.md) / [Go to next page (Indriyādi)](Indriyadi.md)
 
 

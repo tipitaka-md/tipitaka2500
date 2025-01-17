@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [4 Vipākattika](../../...md) / [4.7 Pañhāvāra](../...md) / [4.7.1 Paccayānuloma](...md) / [4.7.1.1 Vibhaṅgavāra](../36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Atthi
 
@@ -51,6 +51,6 @@
 
 2402\. Vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā nevavipākanavipākadhammadhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  vipākadhammadhammā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  vipākadhammadhammā khandhā ca kabaḷīkāro āhāro ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  vipākadhammadhammā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Natthi-vigatāvigata)](Natthi-vigatavigata.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Natthi-vigatāvigata)](Natthi-vigatavigata.md)
 
 

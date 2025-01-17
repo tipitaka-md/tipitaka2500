@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [17 Maggārammaṇattika](../../../../17.md) / [17.1 Paṭiccavāra](../../../17.1.md) / [17.1.2 Paccayapaccanīya](../../17.1.2.md) / [17.1.2.1 Vibhaṅgavāra](../17.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [17 Maggārammaṇattika](../../...md) / [17.1 Paṭiccavāra](../...md) / [17.1.2 Paccayapaccanīya](...md) / [17.1.2.1 Vibhaṅgavāra](../37P1/17/17.1/17.1.2/17.1.2.1.md)
 
 # Naadhipati
 
@@ -57,6 +57,6 @@
 
 2467\. Maggahetukañca maggādhipatiñca dhammaṃ paṭicca maggahetuko ca maggādhipati ca dhammā uppajjanti naadhipatipaccayā—  maggahetuke ca maggādhipatī ca khandhe paṭicca maggahetuko ca maggādhipati ca adhipati. (3)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (17.1.2.1 Vibhaṅgavāra)](../17.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (17.1.2.1 Vibhaṅgavāra)](../37P1/17/17.1/17.1.2/17.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.3 Paccayavāra](../../../12.3.md) / [12.3.1 Paccayānuloma](../../12.3.1.md) / [12.3.1.1 Vibhaṅgavāra](../12.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [12 Sekkhattika](../../...md) / [12.3 Paccayavāra](../...md) / [12.3.1 Paccayānuloma](...md) / [12.3.1.1 Vibhaṅgavāra](../37P1/12/12.3/12.3.1/12.3.1.1.md)
 
 # Hetu
 
@@ -41,6 +41,6 @@
 
 1714\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā…  tīṇi. (Sekkhasadisā.)
 
-[Go to previous page (12.3.1.1 Vibhaṅgavāra)](../12.3.1.1.md) / [Go to parent page (12.3.1.1 Vibhaṅgavāra)](../12.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (12.3.1.1 Vibhaṅgavāra)](../37P1/12/12.3/12.3.1/12.3.1.1.md) / [Go to parent page (12.3.1.1 Vibhaṅgavāra)](../37P1/12/12.3/12.3.1/12.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

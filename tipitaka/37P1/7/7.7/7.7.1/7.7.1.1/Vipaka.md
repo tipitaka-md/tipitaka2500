@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [7 Vitakkattika](../../...md) / [7.7 Pañhāvāra](../...md) / [7.7.1 Paccayānuloma](...md) / [7.7.1.1 Vibhaṅgavāra](../37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Vipāka
 
@@ -47,6 +47,6 @@
 
 507\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa vipākapaccayena paccayo—  vipāko savitakkasavicāro eko khandho ca vitakko ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 
 

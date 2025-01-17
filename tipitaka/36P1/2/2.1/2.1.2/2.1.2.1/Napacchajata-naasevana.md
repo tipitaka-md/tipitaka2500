@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.2 Paccayapaccanīya](../../2.1.2.md) / [2.1.2.1 Vibhaṅgavāra](../2.1.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.1 Paṭiccavāra](../...md) / [2.1.2 Paccayapaccanīya](...md) / [2.1.2.1 Vibhaṅgavāra](../36P1/2/2.1/2.1.2/2.1.2.1.md)
 
 # Napacchājāta-naāsevana
 
@@ -19,6 +19,6 @@
 
 230\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati naāsevanapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…pe… . (Napacchājātapaccayampi naāsevanapaccayampi naadhipatipaccayasadisaṃ.)
 
-[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
+[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../36P1/2/2.1/2.1.2/2.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 
 

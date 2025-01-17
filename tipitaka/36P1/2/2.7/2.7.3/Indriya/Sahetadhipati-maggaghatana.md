@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Indriya](../Indriya.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Indriya](../36P1/2/2.7/2.7.3/Indriya.md)
 
 # Sahetādhipati-maggaghaṭanā
 
@@ -33,6 +33,6 @@
 
 
 
-[Go to previous page (Sahetu-maggaghaṭanā)](Sahetu-maggaghatana.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Jhāna)](../Jhana.md)
+[Go to previous page (Sahetu-maggaghaṭanā)](Sahetu-maggaghatana.md) / [Go to parent page (Indriya)](../36P1/2/2.7/2.7.3/Indriya.md) / [Go to next page (Jhāna)](../Jhana.md)
 
 

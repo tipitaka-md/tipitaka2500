@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.1 Nīvaraṇaduka](../../../../8.1.md) / [8.1.1 Paṭiccavāra](../../../8.1.1.md) / [8.1.1.1 Paccayānuloma](../../8.1.1.1.md) / [8.1.1.1.1 Vibhaṅgavāra](../8.1.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [8 Nīvaraṇagocchaka](../../../...md) / [8.1 Nīvaraṇaduka](../../...md) / [8.1.1 Paṭiccavāra](../...md) / [8.1.1.1 Paccayānuloma](...md) / [8.1.1.1.1 Vibhaṅgavāra](../38P2/8/8.1/8.1.1/8.1.1.1/8.1.1.1.1.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 1897\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paṭicca tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ. Saṃkhittaṃ.) (3)
 
-[Go to previous page (8.1.1.1.1 Vibhaṅgavāra)](../8.1.1.1.1.md) / [Go to parent page (8.1.1.1.1 Vibhaṅgavāra)](../8.1.1.1.1.md) / [Go to next page (8.1.1.1.2 Saṅkhyāvāra)](../8.1.1.1.2.md)
+[Go to previous page (8.1.1.1.1 Vibhaṅgavāra)](../38P2/8/8.1/8.1.1/8.1.1.1/8.1.1.1.1.md) / [Go to parent page (8.1.1.1.1 Vibhaṅgavāra)](../38P2/8/8.1/8.1.1/8.1.1.1/8.1.1.1.1.md) / [Go to next page (8.1.1.1.2 Saṅkhyāvāra)](../8.1.1.1.2.md)
 
 

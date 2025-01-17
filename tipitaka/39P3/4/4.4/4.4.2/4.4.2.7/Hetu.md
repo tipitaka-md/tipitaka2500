@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../4.md) / [4.4 Āsavasāsavaduka, Kusalattika](../../../4.4.md) / [4.4.2 Akusalapada](../../4.4.2.md) / [4.4.2.7 Pañhāvāra](../4.4.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [4 Āsavagocchaka, Kusalattika](../../...md) / [4.4 Āsavasāsavaduka, Kusalattika](../...md) / [4.4.2 Akusalapada](...md) / [4.4.2.7 Pañhāvāra](../39P3/4/4.4/4.4.2/4.4.2.7.md)
 
 # Hetu
 
@@ -21,6 +21,6 @@
 
 1658\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  upanissaye āsevane nava, kamme āhāre indriye jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page (4.4.2.7 Pañhāvāra)](../4.4.2.7.md) / [Go to parent page (4.4.2.7 Pañhāvāra)](../4.4.2.7.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
+[Go to previous page (4.4.2.7 Pañhāvāra)](../39P3/4/4.4/4.4.2/4.4.2.7.md) / [Go to parent page (4.4.2.7 Pañhāvāra)](../39P3/4/4.4/4.4.2/4.4.2.7.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
 
 

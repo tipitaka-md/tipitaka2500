@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.3 Paccayavāra](../../../13.3.md) / [13.3.1 Paccayānuloma](../../13.3.1.md) / [13.3.1.1 Vibhaṅgavāra](../13.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [13 Parittattika](../../...md) / [13.3 Paccayavāra](../...md) / [13.3.1 Paccayānuloma](...md) / [13.3.1.1 Vibhaṅgavāra](../37P1/13/13.3/13.3.1/13.3.1.1.md)
 
 # Hetu
 
@@ -45,6 +45,6 @@
 
 1970\. Parittañca mahaggatañca dhammaṃ paccayā paritto dhammo uppajjati hetupaccayā…  tīṇi. (Paṭisandhikkhaṇe tīṇipi kātabbā.)
 
-[Go to previous page (13.3.1.1 Vibhaṅgavāra)](../13.3.1.1.md) / [Go to parent page (13.3.1.1 Vibhaṅgavāra)](../13.3.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
+[Go to previous page (13.3.1.1 Vibhaṅgavāra)](../37P1/13/13.3/13.3.1/13.3.1.1.md) / [Go to parent page (13.3.1.1 Vibhaṅgavāra)](../37P1/13/13.3/13.3.1/13.3.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

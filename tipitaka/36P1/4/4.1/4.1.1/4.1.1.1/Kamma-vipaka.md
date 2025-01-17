@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.1 Paṭiccavāra](../../../4.1.md) / [4.1.1 Paccayānuloma](../../4.1.1.md) / [4.1.1.1 Vibhaṅgavāra](../4.1.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [4 Vipākattika](../../...md) / [4.1 Paṭiccavāra](../...md) / [4.1.1 Paccayānuloma](...md) / [4.1.1.1 Vibhaṅgavāra](../36P1/4/4.1/4.1.1/4.1.1.1.md)
 
 # Kamma-vipāka
 
@@ -25,6 +25,6 @@
 
 2082\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko dhammo uppajjati vipākapaccayā…pe…  nevavipākanavipākadhammadhammo uppajjati vipākapaccayā. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti vipākapaccayā…pe… .
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](../4.1.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](../36P1/4/4.1/4.1.1/4.1.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 
 

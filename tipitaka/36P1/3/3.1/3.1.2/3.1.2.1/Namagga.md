@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.2 Paccayapaccanīya](../../3.1.2.md) / [3.1.2.1 Vibhaṅgavāra](../3.1.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [3 Vedanāttika](../../...md) / [3.1 Paṭiccavāra](../...md) / [3.1.2 Paccayapaccanīya](...md) / [3.1.2.1 Vibhaṅgavāra](../36P1/3/3.1/3.1.2/3.1.2.1.md)
 
 # Namagga
 
@@ -21,6 +21,6 @@
 
 1831\. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati namaggapaccayā—  ahetukaṃ adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; ahetukapaṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
 
-[Go to previous page (Navipāka-najhāna)](Navipaka-najhana.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
+[Go to previous page (Navipāka-najhāna)](Navipaka-najhana.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../36P1/3/3.1/3.1.2/3.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
 
 

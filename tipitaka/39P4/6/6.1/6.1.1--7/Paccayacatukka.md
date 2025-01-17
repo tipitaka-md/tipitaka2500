@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [6 Kusalattika, Kilesagocchaka](../../../6.md) / [6.1 Kusalattika, Kilesaduka](../../6.1.md) / [6.1.1--7 Paṭiccādivāra](../6.1.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [6 Kusalattika, Kilesagocchaka](../...md) / [6.1 Kusalattika, Kilesaduka](...md) / [6.1.1--7 Paṭiccādivāra](../39P4/6/6.1/6.1.1--7.md)
 
 # Paccayacatukka
 
@@ -45,6 +45,6 @@
 
 1447\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (6.1.1--7 Paṭiccādivāra)](../6.1.1--7.md) / [Go to parent page (6.1.1--7 Paṭiccādivāra)](../6.1.1--7.md) / [Go to next page (6.2 Kusalattika, Saṃkilesikaduka)](../../6.2.md)
+[Go to previous page (6.1.1--7 Paṭiccādivāra)](../39P4/6/6.1/6.1.1--7.md) / [Go to parent page (6.1.1--7 Paṭiccādivāra)](../39P4/6/6.1/6.1.1--7.md) / [Go to next page (6.2 Kusalattika, Saṃkilesikaduka)](../../6.2.md)
 
 

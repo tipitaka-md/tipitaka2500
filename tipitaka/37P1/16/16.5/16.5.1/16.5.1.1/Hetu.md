@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.5 Saṃsaṭṭhavāra](../../../16.5.md) / [16.5.1 Paccayānuloma](../../16.5.1.md) / [16.5.1.1 Vibhaṅgavāra](../16.5.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [16 Micchattaniyatattika](../../...md) / [16.5 Saṃsaṭṭhavāra](../...md) / [16.5.1 Paccayānuloma](...md) / [16.5.1.1 Vibhaṅgavāra](../37P1/16/16.5/16.5.1/16.5.1.1.md)
 
 # Hetu
 
@@ -21,6 +21,6 @@
 
 2321\. Aniyataṃ dhammaṃ saṃsaṭṭho aniyato dhammo uppajjati hetupaccayā—  aniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (16.5.1.1 Vibhaṅgavāra)](../16.5.1.1.md) / [Go to parent page (16.5.1.1 Vibhaṅgavāra)](../16.5.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
+[Go to previous page (16.5.1.1 Vibhaṅgavāra)](../37P1/16/16.5/16.5.1/16.5.1.1.md) / [Go to parent page (16.5.1.1 Vibhaṅgavāra)](../37P1/16/16.5/16.5.1/16.5.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

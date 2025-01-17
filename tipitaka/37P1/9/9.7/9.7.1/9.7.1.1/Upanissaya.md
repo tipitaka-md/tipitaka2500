@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.1 Paccayānuloma](../../9.7.1.md) / [9.7.1.1 Vibhaṅgavāra](../9.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.7 Pañhāvāra](../...md) / [9.7.1 Paccayānuloma](...md) / [9.7.1.1 Vibhaṅgavāra](../37P1/9/9.7/9.7.1/9.7.1.1.md)
 
 # Upanissaya
 
@@ -35,6 +35,6 @@
 
 997\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti. Sīlaṃ…pe…  paññaṃ…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya mānaṃ jappeti. Saddhā…pe…  paññā…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utu…  bhojanaṃ…  senāsanaṃ bhāvanāya pahātabbassa rāgassa…  dosassa…  mohassa…  mānassa…  patthanāya upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
+[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../37P1/9/9.7/9.7.1/9.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

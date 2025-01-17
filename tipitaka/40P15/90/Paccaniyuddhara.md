@@ -1,5 +1,5 @@
 
-[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](../../40P15.md) / [90 Saraṇaduka, Sanidassanattika](../90.md)
+[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](...md) / [90 Saraṇaduka, Sanidassanattika](../40P15/90.md)
 
 # Paccanīyuddhāra
 
@@ -15,6 +15,6 @@
 
 291\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](../90.md)
+[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](../40P15/90.md)
 
 

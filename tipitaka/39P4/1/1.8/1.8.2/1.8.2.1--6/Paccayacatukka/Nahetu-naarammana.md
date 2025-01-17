@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.8 Dassanenapahātabbattika, Hetuduka](../../../../1.8.md) / [1.8.2 Nahetupada](../../../1.8.2.md) / [1.8.2.1--6 Paṭiccādivāra](../../1.8.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.8 Dassanenapahātabbattika, Hetuduka](../../...md) / [1.8.2 Nahetupada](../...md) / [1.8.2.1--6 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/1/1.8/1.8.2/1.8.2.1--6/Paccayacatukka.md)
 
 # Nahetu-naārammaṇa
 
@@ -39,6 +39,6 @@
 
 424\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.8.2.7 Pañhāvāra)](../../1.8.2.7.md)
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../39P4/1/1.8/1.8.2/1.8.2.1--6/Paccayacatukka.md) / [Go to next page (1.8.2.7 Pañhāvāra)](../../1.8.2.7.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](../../../40P19.md) / [1 Kusalattika](../../1.md) / [1.7 Pañhāvāra](../1.7.md)
+[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](../...md) / [1 Kusalattika](...md) / [1.7 Pañhāvāra](../40P19/1/1.7.md)
 
 # Ārammaṇa
 
@@ -27,6 +27,6 @@
 
 41\. Hetuyā aṭṭhārasa, ārammaṇe aṭṭhārasa, adhipatiyā tevīsa, anantare soḷasa…pe…  sahajāte aṭṭhārasa, aññamaññe nava, nissaye bāvīsa, upanissaye aṭṭhārasa, purejāte nava, pacchājāte cha, āsevane nava, kamme aṭṭhārasa, vipāke tīṇi, āhāre…pe…  magge aṭṭhārasa, sampayutte nava, vippayutte dvādasa…pe…  avigate dvāvīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.7 Pañhāvāra)](../1.7.md) / [Go to parent page (1.7 Pañhāvāra)](../1.7.md) / [Go to next page (2 Vedanāttika)](../../2.md)
+[Go to previous page (1.7 Pañhāvāra)](../40P19/1/1.7.md) / [Go to parent page (1.7 Pañhāvāra)](../40P19/1/1.7.md) / [Go to next page (2 Vedanāttika)](../../2.md)
 
 

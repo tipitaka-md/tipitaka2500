@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.7 Pañhāvāra](../../../12.7.md) / [12.7.1 Paccayānuloma](../../12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](../12.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [12 Sekkhattika](../../...md) / [12.7 Pañhāvāra](../...md) / [12.7.1 Paccayānuloma](...md) / [12.7.1.1 Vibhaṅgavāra](../37P1/12/12.7/12.7.1/12.7.1.1.md)
 
 # Kamma
 
@@ -35,6 +35,6 @@
 
 1823\. Nevasekkhanāsekkho dhammo nevasekkhanāsekkhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nevasekkhanāsekkhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nevasekkhanāsekkhā cetanā vipākānaṃ nevasekkhanāsekkhānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../12.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 
 

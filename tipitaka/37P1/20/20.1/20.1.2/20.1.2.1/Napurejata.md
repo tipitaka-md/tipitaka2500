@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [20 Atītārammaṇattika](../../../../20.md) / [20.1 Paṭiccavāra](../../../20.1.md) / [20.1.2 Paccayapaccanīya](../../20.1.2.md) / [20.1.2.1 Vibhaṅgavāra](../20.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [20 Atītārammaṇattika](../../...md) / [20.1 Paṭiccavāra](../...md) / [20.1.2 Paccayapaccanīya](...md) / [20.1.2.1 Vibhaṅgavāra](../37P1/20/20.1/20.1.2/20.1.2.1.md)
 
 # Napurejāta
 
@@ -21,6 +21,6 @@
 
 2676\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati napurejātapaccayā—  paṭisandhikkhaṇe paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca…pe…  dve khandhe…pe… . (1)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../37P1/20/20.1/20.1.2/20.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 
 

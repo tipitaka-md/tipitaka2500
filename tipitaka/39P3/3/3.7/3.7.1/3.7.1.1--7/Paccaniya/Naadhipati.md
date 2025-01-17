@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.7 Kenaciviññeyyaduka, Kusalattika](../../../../3.7.md) / [3.7.1 Kusalapada](../../../3.7.1.md) / [3.7.1.1--7 Paṭiccādivāra](../../3.7.1.1--7.md) / [Paccanīya](../Paccaniya.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [3 Cūḷantaraduka, Kusalattika](../../../...md) / [3.7 Kenaciviññeyyaduka, Kusalattika](../../...md) / [3.7.1 Kusalapada](../...md) / [3.7.1.1--7 Paṭiccādivāra](...md) / [Paccanīya](../39P3/3/3.7/3.7.1/3.7.1.1--7/Paccaniya.md)
 
 # Naadhipati
 
@@ -25,6 +25,6 @@
 
 1582\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Paccayacatukka)](../Paccayacatukka.md)
+[Go to previous page (Paccanīya)](../39P3/3/3.7/3.7.1/3.7.1.1--7/Paccaniya.md) / [Go to parent page (Paccanīya)](../39P3/3/3.7/3.7.1/3.7.1.1--7/Paccaniya.md) / [Go to next page (Paccayacatukka)](../Paccayacatukka.md)
 
 

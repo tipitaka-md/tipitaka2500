@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.2 Cittaduka](../../../../10.2.md) / [10.2.1 Paṭiccavāra](../../../10.2.1.md) / [10.2.1.2 Paccayapaccanīya](../../10.2.1.2.md) / [10.2.1.2.1 Vibhaṅgavāra](../10.2.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.2 Cittaduka](../../...md) / [10.2.1 Paṭiccavāra](../...md) / [10.2.1.2 Paccayapaccanīya](...md) / [10.2.1.2.1 Vibhaṅgavāra](../38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md)
 
 # Nahetu
 
@@ -27,6 +27,6 @@
 
 2437\. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati nahetupaccayā—  ahetukaṃ nocittaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  ahetukapaṭisandhikkhaṇe nocittaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe ca…pe…  ahetukapaṭisandhikkhaṇe cittañca vatthuñca paṭicca nocittā khandhā, vicikicchāsahagataṃ uddhaccasahagataṃ cittañca sampayuttake ca khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
+[Go to previous page (10.2.1.2.1 Vibhaṅgavāra)](../38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

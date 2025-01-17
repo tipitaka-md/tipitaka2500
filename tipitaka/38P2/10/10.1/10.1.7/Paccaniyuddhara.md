@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [10 Mahantaraduka](../../../10.md) / [10.1 Sārammaṇaduka](../../10.1.md) / [10.1.7 Pañhāvāra](../10.1.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [10 Mahantaraduka](../...md) / [10.1 Sārammaṇaduka](...md) / [10.1.7 Pañhāvāra](../38P2/10/10.1/10.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -29,6 +29,6 @@
 
 2417\. Sārammaṇo ca anārammaṇo ca dhammā anārammaṇassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
-[Go to previous page (Suddha)](10.1.7.1/10.1.7.1.2/Suddha.md) / [Go to parent page (10.1.7 Pañhāvāra)](../10.1.7.md) / [Go to next page (10.1.7.2 Paccayapaccanīya)](10.1.7.2.md)
+[Go to previous page (Suddha)](10.1.7.1/10.1.7.1.2/Suddha.md) / [Go to parent page (10.1.7 Pañhāvāra)](../38P2/10/10.1/10.1.7.md) / [Go to next page (10.1.7.2 Paccayapaccanīya)](10.1.7.2.md)
 
 

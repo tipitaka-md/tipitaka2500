@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.5 Saṃsaṭṭhavāra](../../../12.5.md) / [12.5.2 Paccayapaccanīya](../../12.5.2.md) / [12.5.2.1 Vibhaṅgavāra](../12.5.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [12 Sekkhattika](../../...md) / [12.5 Saṃsaṭṭhavāra](../...md) / [12.5.2 Paccayapaccanīya](...md) / [12.5.2.1 Vibhaṅgavāra](../37P1/12/12.5/12.5.2/12.5.2.1.md)
 
 # Napurejātādi
 
@@ -17,6 +17,6 @@
 
 1763\. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati napurejātapaccayā…  napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā (dve kātabbā)…  navipākapaccayā (dve kātabbā)…  najhānapaccayā…  namaggapaccayā…  navippayuttapaccayā…pe… .
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (12.5.2.1 Vibhaṅgavāra)](../12.5.2.1.md) / [Go to next page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md)
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (12.5.2.1 Vibhaṅgavāra)](../37P1/12/12.5/12.5.2/12.5.2.1.md) / [Go to next page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md)
 
 

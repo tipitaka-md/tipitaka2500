@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../../39P5.md) / [1 Kusalattika, Tika](../../../../1.md) / [1.11 Kusalattika, Parittattika](../../../1.11.md) / [1.11.1 Parittapada](../../1.11.1.md) / [1.11.1.1--7 Paṭiccādivāra](../1.11.1.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../...md) / [1 Kusalattika, Tika](../../...md) / [1.11 Kusalattika, Parittattika](../...md) / [1.11.1 Parittapada](...md) / [1.11.1.1--7 Paṭiccādivāra](../39P5/1/1.11/1.11.1/1.11.1.1--7.md)
 
 # Paccayacatukka
 
@@ -43,6 +43,6 @@
 
 168\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.11.1.1--7 Paṭiccādivāra)](../1.11.1.1--7.md) / [Go to parent page (1.11.1.1--7 Paṭiccādivāra)](../1.11.1.1--7.md) / [Go to next page (1.11.2 Mahaggatādipada)](../../1.11.2.md)
+[Go to previous page (1.11.1.1--7 Paṭiccādivāra)](../39P5/1/1.11/1.11.1/1.11.1.1--7.md) / [Go to parent page (1.11.1.1--7 Paṭiccādivāra)](../39P5/1/1.11/1.11.1/1.11.1.1--7.md) / [Go to next page (1.11.2 Mahaggatādipada)](../../1.11.2.md)
 
 

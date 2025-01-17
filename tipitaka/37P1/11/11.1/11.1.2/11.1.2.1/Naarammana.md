@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.1 Paṭiccavāra](../../../11.1.md) / [11.1.2 Paccayapaccanīya](../../11.1.2.md) / [11.1.2.1 Vibhaṅgavāra](../11.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [11 Ācayagāmittika](../../...md) / [11.1 Paṭiccavāra](../...md) / [11.1.2 Paccayapaccanīya](...md) / [11.1.2.1 Vibhaṅgavāra](../37P1/11/11.1/11.1.2/11.1.2.1.md)
 
 # Naārammaṇa
 
@@ -25,6 +25,6 @@
 
 1449\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../37P1/11/11.1/11.1.2/11.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 
 

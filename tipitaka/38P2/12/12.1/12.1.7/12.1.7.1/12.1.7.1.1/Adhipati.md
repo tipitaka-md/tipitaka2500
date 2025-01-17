@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.7 Pañhāvāra](../../../12.1.7.md) / [12.1.7.1 Paccayānuloma](../../12.1.7.1.md) / [12.1.7.1.1 Vibhaṅgavāra](../12.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [12 Kilesagocchaka](../../../...md) / [12.1 Kilesaduka](../../...md) / [12.1.7 Pañhāvāra](../...md) / [12.1.7.1 Paccayānuloma](...md) / [12.1.7.1.1 Vibhaṅgavāra](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md)
 
 # Adhipati
 
@@ -27,6 +27,6 @@
 
 3867\. Kileso ca nokileso ca dhammā kilesassa dhammassa adhipatipaccayena paccayo…  tīṇi. (Ārammaṇādhipatiyeva.) (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

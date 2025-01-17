@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.7 Pañhāvāra](../../../8.7.md) / [8.7.1 Paccayānuloma](../../8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](../8.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [8 Pītittika](../../...md) / [8.7 Pañhāvāra](../...md) / [8.7.1 Paccayānuloma](...md) / [8.7.1.1 Vibhaṅgavāra](../37P1/8/8.7/8.7.1/8.7.1.1.md)
 
 # Ārammaṇa
 
@@ -37,6 +37,6 @@
 
 692\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.) (4)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../8.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

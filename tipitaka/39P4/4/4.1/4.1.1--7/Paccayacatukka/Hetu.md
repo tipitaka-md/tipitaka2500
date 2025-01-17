@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../../../4.md) / [4.1 Kusalattika, Āsavaduka](../../../4.1.md) / [4.1.1--7 Paṭiccādivāra](../../4.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../...md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../...md) / [4.1 Kusalattika, Āsavaduka](../...md) / [4.1.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/4/4.1/4.1.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 1231\. Akusalaṃ noāsavañca abyākataṃ noāsavañca dhammaṃ paṭicca abyākato noāsavo dhammo uppajjati hetupaccayā. (1)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (Paccayacatukka)](../39P4/4/4.1/4.1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/4/4.1/4.1.1--7/Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

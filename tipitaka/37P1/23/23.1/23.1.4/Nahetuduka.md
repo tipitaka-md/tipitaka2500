@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../23.md) / [23.1 Paṭiccavāra](../../23.1.md) / [23.1.4 Paccayapaccanīyānuloma](../23.1.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [23 Sanidassanasappaṭighattika](../...md) / [23.1 Paṭiccavāra](...md) / [23.1.4 Paccayapaccanīyānuloma](../37P1/23/23.1/23.1.4.md)
 
 # Nahetuduka
 
@@ -24,6 +24,6 @@ Paṭiccavāro.
 
 
 
-[Go to previous page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md) / [Go to parent page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md) / [Go to next page (23.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../23.2--6.md)
+[Go to previous page (23.1.4 Paccayapaccanīyānuloma)](../37P1/23/23.1/23.1.4.md) / [Go to parent page (23.1.4 Paccayapaccanīyānuloma)](../37P1/23/23.1/23.1.4.md) / [Go to next page (23.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../23.2--6.md)
 
 

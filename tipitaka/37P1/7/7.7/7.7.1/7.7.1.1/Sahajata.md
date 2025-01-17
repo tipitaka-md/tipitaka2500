@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [7 Vitakkattika](../../...md) / [7.7 Pañhāvāra](../...md) / [7.7.1 Paccayānuloma](...md) / [7.7.1.1 Vibhaṅgavāra](../37P1/7/7.7/7.7.1/7.7.1.1.md)
 
 # Sahajāta
 
@@ -87,6 +87,6 @@
 
 381\. Savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā avitakkaavicārassa dhammassa sahajātapaccayena paccayo—  savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ sahajātapaccayena paccayo. Paṭisandhikkhaṇe savitakkasavicārā khandhā ca vitakko ca mahābhūtā ca kaṭattārūpānaṃ sahajātapaccayena paccayo. (2)
 
-[Go to previous page (Samanantara)](Samanantara.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
+[Go to previous page (Samanantara)](Samanantara.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
 
 

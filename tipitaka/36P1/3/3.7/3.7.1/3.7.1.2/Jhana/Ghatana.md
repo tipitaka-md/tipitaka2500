@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.7 Pañhāvāra](../../../../3.7.md) / [3.7.1 Paccayānuloma](../../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../../3.7.1.2.md) / [Jhāna](../Jhana.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [3 Vedanāttika](../../../...md) / [3.7 Pañhāvāra](../../...md) / [3.7.1 Paccayānuloma](../...md) / [3.7.1.2 Saṅkhyāvāra](...md) / [Jhāna](../36P1/3/3.7/3.7.1/3.7.1.2/Jhana.md)
 
 # Ghaṭanā
 
@@ -21,6 +21,6 @@
 
 1993\. Jhāna sahajāta aññamañña nissaya indriya magga sampayutta atthi avigatanti tīṇi. Jhāna sahajāta aññamañña nissaya vipāka indriya magga sampayutta atthi avigatanti dve.
 
-[Go to previous page (Jhānasabhāga)](Jhanasabhaga.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Magga)](../Magga.md)
+[Go to previous page (Jhānasabhāga)](Jhanasabhaga.md) / [Go to parent page (Jhāna)](../36P1/3/3.7/3.7.1/3.7.1.2/Jhana.md) / [Go to next page (Magga)](../Magga.md)
 
 

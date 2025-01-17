@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.4 Paccayapaccanīyānuloma](../../2.3.4.md) / [Najhānaduka](../Najhanaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.3 Paccayavāra](../...md) / [2.3.4 Paccayapaccanīyānuloma](...md) / [Najhānaduka](../36P1/2/2.3/2.3.4/Najhanaduka.md)
 
 # Catukka
 
@@ -15,6 +15,6 @@
 
 658\. Najhānapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
 
-[Go to previous page (Najhānaduka)](../Najhanaduka.md) / [Go to parent page (Najhānaduka)](../Najhanaduka.md) / [Go to next page (Namaggaduka)](../Namaggaduka.md)
+[Go to previous page (Najhānaduka)](../36P1/2/2.3/2.3.4/Najhanaduka.md) / [Go to parent page (Najhānaduka)](../36P1/2/2.3/2.3.4/Najhanaduka.md) / [Go to next page (Namaggaduka)](../Namaggaduka.md)
 
 

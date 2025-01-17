@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Sahajāta](../Sahajata.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Sahajāta](../36P1/2/2.7/2.7.3/Sahajata.md)
 
 # Sahajātaghaṭanā
 
@@ -41,6 +41,6 @@
 
 
 
-[Go to previous page (Sahajātaduka)](Sahajataduka.md) / [Go to parent page (Sahajāta)](../Sahajata.md) / [Go to next page (Aññamañña)](../Annamanna.md)
+[Go to previous page (Sahajātaduka)](Sahajataduka.md) / [Go to parent page (Sahajāta)](../36P1/2/2.7/2.7.3/Sahajata.md) / [Go to next page (Aññamañña)](../Annamanna.md)
 
 

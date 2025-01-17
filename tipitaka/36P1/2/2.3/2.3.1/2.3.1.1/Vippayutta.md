@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.1 Paccayānuloma](../../2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](../2.3.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.3 Paccayavāra](../...md) / [2.3.1 Paccayānuloma](...md) / [2.3.1.1 Vibhaṅgavāra](../36P1/2/2.3/2.3.1/2.3.1.1.md)
 
 # Vippayutta
 
@@ -33,6 +33,6 @@
 
 495\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati vippayuttapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vatthuṃ vippayuttapaccayā. Akusalañca abyākatañca dhammaṃ paccayā abyākato dhammo uppajjati vippayuttapaccayā—  akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhe vippayuttapaccayā. Akusalañca abyākatañca dhammaṃ paccayā akusalo ca abyākato ca dhammā uppajjanti vippayuttapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā, akusale khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, khandhā vatthuṃ vippayuttapaccayā, cittasamuṭṭhānaṃ rūpaṃ khandhe vippayuttapaccayā. (3)
 
-[Go to previous page (Sampayutta)](Sampayutta.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
+[Go to previous page (Sampayutta)](Sampayutta.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../36P1/2/2.3/2.3.1/2.3.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

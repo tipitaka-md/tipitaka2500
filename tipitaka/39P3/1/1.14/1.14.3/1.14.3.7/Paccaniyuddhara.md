@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.14 Hetuduka, Hīnattika](../../../1.14.md) / [1.14.3 Paṇītapada](../../1.14.3.md) / [1.14.3.7 Pañhāvāra](../1.14.3.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [1 Hetuduka, Tika](../../...md) / [1.14 Hetuduka, Hīnattika](../...md) / [1.14.3 Paṇītapada](...md) / [1.14.3.7 Pañhāvāra](../39P3/1/1.14/1.14.3/1.14.3.7.md)
 
 # Paccanīyuddhāra
 
@@ -33,6 +33,6 @@
 
 
 
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.14.3.7 Pañhāvāra)](../1.14.3.7.md) / [Go to next page (1.15 Hetuduka, Micchattaniyatattika)](../../../1.15.md)
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.14.3.7 Pañhāvāra)](../39P3/1/1.14/1.14.3/1.14.3.7.md) / [Go to next page (1.15 Hetuduka, Micchattaniyatattika)](../../../1.15.md)
 
 

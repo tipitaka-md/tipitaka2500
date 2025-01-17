@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [5 Saññojanagocchaka, Kusalattika](../../../../5.md) / [5.2 Saññojaniyaduka, Kusalattika](../../../5.2.md) / [5.2.2 Abyākatapada](../../5.2.2.md) / [5.2.2.7 Pañhāvāra](../5.2.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [5 Saññojanagocchaka, Kusalattika](../../...md) / [5.2 Saññojaniyaduka, Kusalattika](../...md) / [5.2.2 Abyākatapada](...md) / [5.2.2.7 Pañhāvāra](../39P3/5/5.2/5.2.2/5.2.2.7.md)
 
 # Paccanīyuddhāra
 
@@ -27,6 +27,6 @@
 
 1739\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (5.2.2.7 Pañhāvāra)](../5.2.2.7.md) / [Go to next page (5.3 Saññojanasampayuttaduka, Kusalattika)](../../../5.3.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (5.2.2.7 Pañhāvāra)](../39P3/5/5.2/5.2.2/5.2.2.7.md) / [Go to next page (5.3 Saññojanasampayuttaduka, Kusalattika)](../../../5.3.md)
 
 

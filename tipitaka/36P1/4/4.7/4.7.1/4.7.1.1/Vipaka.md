@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [4 Vipākattika](../../...md) / [4.7 Pañhāvāra](../...md) / [4.7.1 Paccayānuloma](...md) / [4.7.1.1 Vibhaṅgavāra](../36P1/4/4.7/4.7.1/4.7.1.1.md)
 
 # Vipāka
 
@@ -21,6 +21,6 @@
 
 2370\. Vipāko dhammo vipākassa ca nevavipākanavipākadhammadhammassa ca vipākapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo; paṭisandhikkhaṇe vipāko eko khandho tiṇṇannaṃ khandhānaṃ kaṭattā ca rūpānaṃ vipākapaccayena paccayo. (3)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 
 

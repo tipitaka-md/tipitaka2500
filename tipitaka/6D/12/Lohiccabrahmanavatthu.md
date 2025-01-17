@@ -1,5 +1,5 @@
 
-[Home](/) / [6D Sīlakkhandhavaggapāḷi](../../6D.md) / [12 Lohiccasutta](../12.md)
+[Home](/) / [6D Sīlakkhandhavaggapāḷi](...md) / [12 Lohiccasutta](../6D/12.md)
 
 # Lohiccabrāhmaṇavatthu
 
@@ -41,6 +41,6 @@
 
 873\. Atha kho bhagavā yena lohiccassa brāhmaṇassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi. Atha kho lohicco brāhmaṇo buddhappamukhaṃ bhikkhusaṃghaṃ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.
 
-[Go to previous page (12 Lohiccasutta)](../12.md) / [Go to parent page (12 Lohiccasutta)](../12.md) / [Go to next page (12.1 Lohiccabrāhmaṇānuyoga)](12.1.md)
+[Go to previous page (12 Lohiccasutta)](../6D/12.md) / [Go to parent page (12 Lohiccasutta)](../6D/12.md) / [Go to next page (12.1 Lohiccabrāhmaṇānuyoga)](12.1.md)
 
 

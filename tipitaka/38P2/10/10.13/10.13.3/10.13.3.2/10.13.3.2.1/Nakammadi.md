@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.13 Upādāduka](../../../../10.13.md) / [10.13.3 Paccayavāra](../../../10.13.3.md) / [10.13.3.2 Paccayapaccanīya](../../10.13.3.2.md) / [10.13.3.2.1 Vibhaṅgavāra](../10.13.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.13 Upādāduka](../../...md) / [10.13.3 Paccayavāra](../...md) / [10.13.3.2 Paccayapaccanīya](...md) / [10.13.3.2.1 Vibhaṅgavāra](../38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1.md)
 
 # Nakammādi
 
@@ -29,6 +29,6 @@
 
 3302\. Navipākapaccayā pañca, naāhārapaccayā tīṇi, naindriyapaccayā tīṇi.
 
-[Go to previous page (Nahetvādi)](Nahetvadi.md) / [Go to parent page (10.13.3.2.1 Vibhaṅgavāra)](../10.13.3.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
+[Go to previous page (Nahetvādi)](Nahetvadi.md) / [Go to parent page (10.13.3.2.1 Vibhaṅgavāra)](../38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
 
 

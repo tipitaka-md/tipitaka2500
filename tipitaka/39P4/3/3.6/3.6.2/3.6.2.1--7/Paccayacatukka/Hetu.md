@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../../3.md) / [3.6 Kusalattika, Lokiyaduka](../../../../3.6.md) / [3.6.2 Lokuttarapada](../../../3.6.2.md) / [3.6.2.1--7 Paṭiccādivāra](../../3.6.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [3 Kusalattika, Cūḷantaraduka](../../../...md) / [3.6 Kusalattika, Lokiyaduka](../../...md) / [3.6.2 Lokuttarapada](../...md) / [3.6.2.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/3/3.6/3.6.2/3.6.2.1--7/Paccayacatukka.md)
 
 # Hetu
 
@@ -29,6 +29,6 @@
 
 1195\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
+[Go to previous page (Paccayacatukka)](../39P4/3/3.6/3.6.2/3.6.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/3/3.6/3.6.2/3.6.2.1--7/Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
 
 

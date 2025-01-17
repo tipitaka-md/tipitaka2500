@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.18 Kusalattika, Atītārammaṇattika](../../1.18.md) / [1.18.2 Anāgatārammaṇapada](../1.18.2.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../...md) / [1 Kusalattika, Tika](../...md) / [1.18 Kusalattika, Atītārammaṇattika](...md) / [1.18.2 Anāgatārammaṇapada](../39P5/1/1.18/1.18.2.md)
 
 # Hetu
 
@@ -27,6 +27,6 @@
 
 251\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.18.2 Anāgatārammaṇapada)](../1.18.2.md) / [Go to parent page (1.18.2 Anāgatārammaṇapada)](../1.18.2.md) / [Go to next page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md)
+[Go to previous page (1.18.2 Anāgatārammaṇapada)](../39P5/1/1.18/1.18.2.md) / [Go to parent page (1.18.2 Anāgatārammaṇapada)](../39P5/1/1.18/1.18.2.md) / [Go to next page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md)
 
 

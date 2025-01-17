@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.3 Paccayavāra](../../../4.3.md) / [4.3.1 Paccayānuloma](../../4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](../4.3.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [4 Vipākattika](../../...md) / [4.3 Paccayavāra](../...md) / [4.3.1 Paccayānuloma](...md) / [4.3.1.1 Vibhaṅgavāra](../36P1/4/4.3/4.3.1/4.3.1.1.md)
 
 # Aññamañña
 
@@ -35,6 +35,6 @@
 
 2211\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati aññamaññapaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
-[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
+[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../36P1/4/4.3/4.3.1/4.3.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 
 

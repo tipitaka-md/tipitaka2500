@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.1 Sārammaṇaduka](../../../../10.1.md) / [10.1.7 Pañhāvāra](../../../10.1.7.md) / [10.1.7.1 Paccayānuloma](../../10.1.7.1.md) / [10.1.7.1.1 Vibhaṅgavāra](../10.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.1 Sārammaṇaduka](../../...md) / [10.1.7 Pañhāvāra](../...md) / [10.1.7.1 Paccayānuloma](...md) / [10.1.7.1.1 Vibhaṅgavāra](../38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1.md)
 
 # Atthi
 
@@ -35,6 +35,6 @@
 
 2409\. Sārammaṇo ca anārammaṇo ca dhammā anārammaṇassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  sārammaṇā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  sārammaṇā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  sārammaṇā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (10.1.7.1.2 Saṅkhyāvāra)](../10.1.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../38P2/10/10.1/10.1.7/10.1.7.1/10.1.7.1.1.md) / [Go to next page (10.1.7.1.2 Saṅkhyāvāra)](../10.1.7.1.2.md)
 
 

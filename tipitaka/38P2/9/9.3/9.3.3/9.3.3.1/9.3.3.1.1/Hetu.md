@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.3 Parāmāsasampayuttaduka](../../../../9.3.md) / [9.3.3 Paccayavāra](../../../9.3.3.md) / [9.3.3.1 Paccayānuloma](../../9.3.3.1.md) / [9.3.3.1.1 Vibhaṅgavāra](../9.3.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [9 Parāmāsagocchaka](../../../...md) / [9.3 Parāmāsasampayuttaduka](../../...md) / [9.3.3 Paccayavāra](../...md) / [9.3.3.1 Paccayānuloma](...md) / [9.3.3.1.1 Vibhaṅgavāra](../38P2/9/9.3/9.3.3/9.3.3.1/9.3.3.1.1.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 2234\. Parāmāsasampayuttañca parāmāsavippayuttañca dhammaṃ paccayā parāmāsasampayutto ca parāmāsavippayutto ca dhammā uppajjanti hetupaccayā—  parāmāsasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  parāmāsasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
 
-[Go to previous page (9.3.3.1.1 Vibhaṅgavāra)](../9.3.3.1.1.md) / [Go to parent page (9.3.3.1.1 Vibhaṅgavāra)](../9.3.3.1.1.md) / [Go to next page (9.3.3.1.2 Saṅkhyāvāra)](../9.3.3.1.2.md)
+[Go to previous page (9.3.3.1.1 Vibhaṅgavāra)](../38P2/9/9.3/9.3.3/9.3.3.1/9.3.3.1.1.md) / [Go to parent page (9.3.3.1.1 Vibhaṅgavāra)](../38P2/9/9.3/9.3.3/9.3.3.1/9.3.3.1.1.md) / [Go to next page (9.3.3.1.2 Saṅkhyāvāra)](../9.3.3.1.2.md)
 
 

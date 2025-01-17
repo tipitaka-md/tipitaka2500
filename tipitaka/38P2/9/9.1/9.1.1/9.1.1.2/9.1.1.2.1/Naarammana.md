@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.1 Parāmāsaduka](../../../../9.1.md) / [9.1.1 Paṭiccavāra](../../../9.1.1.md) / [9.1.1.2 Paccayapaccanīya](../../9.1.1.2.md) / [9.1.1.2.1 Vibhaṅgavāra](../9.1.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [9 Parāmāsagocchaka](../../../...md) / [9.1 Parāmāsaduka](../../...md) / [9.1.1 Paṭiccavāra](../...md) / [9.1.1.2 Paccayapaccanīya](...md) / [9.1.1.2.1 Vibhaṅgavāra](../38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.1.md)
 
 # Naārammaṇa
 
@@ -23,6 +23,6 @@
 
 2139\. Parāmāsañca noparāmāsañca dhammaṃ paṭicca noparāmāso dhammo uppajjati naārammaṇapaccayā—  parāmāsañca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.1.1.2.1 Vibhaṅgavāra)](../9.1.1.2.1.md) / [Go to next page (9.1.1.2.2 Saṅkhyāvāra)](../9.1.1.2.2.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.1.1.2.1 Vibhaṅgavāra)](../38P2/9/9.1/9.1.1/9.1.1.2/9.1.1.2.1.md) / [Go to next page (9.1.1.2.2 Saṅkhyāvāra)](../9.1.1.2.2.md)
 
 

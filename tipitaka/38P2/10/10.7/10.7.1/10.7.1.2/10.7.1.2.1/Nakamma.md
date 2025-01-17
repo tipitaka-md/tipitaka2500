@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.7 Cittasahabhūduka](../../../../10.7.md) / [10.7.1 Paṭiccavāra](../../../10.7.1.md) / [10.7.1.2 Paccayapaccanīya](../../10.7.1.2.md) / [10.7.1.2.1 Vibhaṅgavāra](../10.7.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.7 Cittasahabhūduka](../../...md) / [10.7.1 Paṭiccavāra](../...md) / [10.7.1.2 Paccayapaccanīya](...md) / [10.7.1.2.1 Vibhaṅgavāra](../38P2/10/10.7/10.7.1/10.7.1.2/10.7.1.2.1.md)
 
 # Nakamma
 
@@ -25,6 +25,6 @@
 
 2924\. Cittasahabhuñca nocittasahabhuñca dhammaṃ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā—  cittasahabhū khandhe ca cittañca paṭicca sampayuttakā cetanā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.7.1.2.1 Vibhaṅgavāra)](../10.7.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.7.1.2.1 Vibhaṅgavāra)](../38P2/10/10.7/10.7.1/10.7.1.2/10.7.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
 
 

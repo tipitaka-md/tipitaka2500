@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [6 Kusalattika, Kilesagocchaka](../../../6.md) / [6.8 Kusalattika, Kilesavippayuttasaṃkilesikaduka](../../6.8.md) / [6.8.1--7 Paṭiccādivāra](../6.8.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [6 Kusalattika, Kilesagocchaka](../...md) / [6.8 Kusalattika, Kilesavippayuttasaṃkilesikaduka](...md) / [6.8.1--7 Paṭiccādivāra](../39P4/6/6.8/6.8.1--7.md)
 
 # Hetu
 
@@ -63,6 +63,6 @@
 
 
 
-[Go to previous page (6.8.1--7 Paṭiccādivāra)](../6.8.1--7.md) / [Go to parent page (6.8.1--7 Paṭiccādivāra)](../6.8.1--7.md) / [Go to next page (7 Kusalattika, Piṭṭhiduka)](../../../7.md)
+[Go to previous page (6.8.1--7 Paṭiccādivāra)](../39P4/6/6.8/6.8.1--7.md) / [Go to parent page (6.8.1--7 Paṭiccādivāra)](../39P4/6/6.8/6.8.1--7.md) / [Go to next page (7 Kusalattika, Piṭṭhiduka)](../../../7.md)
 
 

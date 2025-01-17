@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.8 Dassanahetuttika, Kusalattika](../../2.8.md) / [2.8.1--7 Paṭiccādivāra](../2.8.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../...md) / [2 Tika, Kusalattika](../...md) / [2.8 Dassanahetuttika, Kusalattika](...md) / [2.8.1--7 Paṭiccādivāra](../39P5/2/2.8/2.8.1--7.md)
 
 # Hetu
 
@@ -27,6 +27,6 @@
 
 365\. Nevadassanena nabhāvanāya pahātabbahetukaṃ abyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
 
-[Go to previous page (2.8.1--7 Paṭiccādivāra)](../2.8.1--7.md) / [Go to parent page (2.8.1--7 Paṭiccādivāra)](../2.8.1--7.md) / [Go to next page (2.9 Ācayagāmittika, Kusalattika)](../../2.9.md)
+[Go to previous page (2.8.1--7 Paṭiccādivāra)](../39P5/2/2.8/2.8.1--7.md) / [Go to parent page (2.8.1--7 Paṭiccādivāra)](../39P5/2/2.8/2.8.1--7.md) / [Go to next page (2.9 Ācayagāmittika, Kusalattika)](../../2.9.md)
 
 
