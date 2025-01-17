@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.16 Niyataduka](/tipitaka/38P2/13/13.16.md) / [13.16.7 Pañhāvāra](/tipitaka/38P2/13/13.16/13.16.7.md) / [13.16.7.1 Paccayānuloma](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1.md) / [13.16.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.16 Niyataduka](../../../../13.16.md) / [13.16.7 Pañhāvāra](../../../13.16.7.md) / [13.16.7.1 Paccayānuloma](../../13.16.7.1.md) / [13.16.7.1.1 Vibhaṅgavāra](../13.16.7.1.1.md)
 
 # Adhipati
 
@@ -23,6 +23,6 @@
 
 4771\. Aniyato dhammo aniyatassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā aniyato rāgo uppajjati…  diṭṭhi uppajjati; pubbe…pe…  jhānā…pe…  ariyā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ aniyate khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā aniyato rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  aniyatādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. Aniyato dhammo niyatassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (2)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1/Arammana.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md) / [Go to next page (Anantarādi)](/tipitaka/38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1/Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

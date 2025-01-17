@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Hetu](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Hetu](../Hetu.md)
 
 # Hetusāmaññaghaṭanā
 
@@ -21,6 +21,6 @@
 
 1010\. Hetu sahajāta nissaya vipāka atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti ekaṃ. Hetu sahajāta nissaya vipāka vippayutta atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Hetusabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu/Hetusabhaga.md) / [Go to parent page (Hetu)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu.md) / [Go to next page (Saindriyamaggaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu/Saindriyamaggaghatana.md)
+[Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Saindriyamaggaghaṭanā)](Saindriyamaggaghatana.md)
 
 

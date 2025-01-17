@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.8 Dassanenapahātabbattika, Hetuduka](/tipitaka/39P4/1/1.8.md) / [1.8.2 Nahetupada](/tipitaka/39P4/1/1.8/1.8.2.md) / [1.8.2.7 Pañhāvāra](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../1.md) / [1.8 Dassanenapahātabbattika, Hetuduka](../../../1.8.md) / [1.8.2 Nahetupada](../../1.8.2.md) / [1.8.2.7 Pañhāvāra](../1.8.2.7.md)
 
 # Paccayacatukka
 
@@ -33,6 +33,6 @@
 
 432\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.8.2.7 Pañhāvāra)](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md) / [Go to parent page (1.8.2.7 Pañhāvāra)](/tipitaka/39P4/1/1.8/1.8.2/1.8.2.7.md) / [Go to next page (1.9 Dassanenapahātabbahetukattika, Hetuduka)](/tipitaka/39P4/1/1.9.md)
+[Go to previous page (1.8.2.7 Pañhāvāra)](../1.8.2.7.md) / [Go to parent page (1.8.2.7 Pañhāvāra)](../1.8.2.7.md) / [Go to next page (1.9 Dassanenapahātabbahetukattika, Hetuduka)](../../../1.9.md)
 
 

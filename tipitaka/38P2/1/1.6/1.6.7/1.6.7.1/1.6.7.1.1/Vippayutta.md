@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.1 Paccayānuloma](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.6 Nahetusahetukaduka](../../../../1.6.md) / [1.6.7 Pañhāvāra](../../../1.6.7.md) / [1.6.7.1 Paccayānuloma](../../1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](../1.6.7.1.1.md)
 
 # Vippayutta
 
@@ -23,6 +23,6 @@
 
 521\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
 
-[Go to previous page (Sampayutta)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Sampayutta.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page (Atthi)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Atthi.md)
+[Go to previous page (Sampayutta)](Sampayutta.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.7 Pañhāvāra](/tipitaka/37P1/16/16.7.md) / [16.7.1 Paccayānuloma](/tipitaka/37P1/16/16.7/16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # Upanissaya
 
@@ -33,6 +33,6 @@
 
 2374\. Aniyato dhammo sammattaniyatassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paṭhamassa maggassa parikammaṃ paṭhamassa maggassa…pe…  catutthassa maggassa parikammaṃ catutthassa maggassa upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Samanantarādi)](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Samanantaradi.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1.md) / [Go to next page (Purejāta)](/tipitaka/37P1/16/16.7/16.7.1/16.7.1.1/Purejata.md)
+[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

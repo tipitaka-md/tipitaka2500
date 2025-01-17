@@ -1,5 +1,5 @@
 
-[Home](/) / [40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P7.md) / [1 Kusalattika](/tipitaka/40P7/1.md) / [1.1--6 Paṭiccādivāra](/tipitaka/40P7/1/1.1--6.md) / [Paccayacatukka](/tipitaka/40P7/1/1.1--6/Paccayacatukka.md)
+[Home](/) / [40P7 Dhammapaccanīya (2), Tikapaṭṭhānapāḷi (1)](../../../../40P7.md) / [1 Kusalattika](../../../1.md) / [1.1--6 Paṭiccādivāra](../../1.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -43,6 +43,6 @@
 
 10\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/40P7/1/1.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/40P7/1/1.1--6/Paccayacatukka.md) / [Go to next page (1.7 Pañhāvāra)](/tipitaka/40P7/1/1.7.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7 Pañhāvāra)](../../1.7.md)
 
 

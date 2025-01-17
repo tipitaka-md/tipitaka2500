@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.4 Parāmāsaparāmaṭṭhaduka](/tipitaka/38P2/9/9.4.md) / [9.4.7 Pañhāvāra](/tipitaka/38P2/9/9.4/9.4.7.md) / [9.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4.md) / [9.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.4 Parāmāsaparāmaṭṭhaduka](../../../../9.4.md) / [9.4.7 Pañhāvāra](../../../9.4.7.md) / [9.4.7.1--4 Paccayānulomādi](../../9.4.7.1--4.md) / [9.4.7.1--4.1 Vibhaṅgavāra](../9.4.7.1--4.1.md)
 
 # Ārammaṇa
 
@@ -35,6 +35,6 @@
 
 
 
-[Go to previous page (Hetu)](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1/Hetu.md) / [Go to parent page (9.4.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.4/9.4.7/9.4.7.1--4/9.4.7.1--4.1.md) / [Go to next page (9.5 Parāmāsavippayuttaparāmaṭṭhaduka)](/tipitaka/38P2/9/9.5.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (9.4.7.1--4.1 Vibhaṅgavāra)](../9.4.7.1--4.1.md) / [Go to next page (9.5 Parāmāsavippayuttaparāmaṭṭhaduka)](../../../../9.5.md)
 
 

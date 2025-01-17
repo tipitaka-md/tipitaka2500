@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.2 Paccayapaccanīya](/tipitaka/37P1/7/7.1/7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.2 Paccayapaccanīya](../../7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](../7.1.2.1.md)
 
 # Navippayutta
 
@@ -39,6 +39,6 @@
 
 190\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati navippayuttapaccayā—  arūpe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca paṭicca dve khandhā. (1)
 
-[Go to previous page (Navipākādi)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Navipakadi.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page (Nonatthi-novigata)](/tipitaka/37P1/7/7.1/7.1.2/7.1.2.1/Nonatthi-novigata.md)
+[Go to previous page (Navipākādi)](Navipakadi.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Nonatthi-novigata)](Nonatthi-novigata.md)
 
 

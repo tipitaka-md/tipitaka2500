@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](/tipitaka/38P2/10/10.9.md) / [10.9.1 Paṭiccavāra](/tipitaka/38P2/10/10.9/10.9.1.md) / [10.9.1.2 Paccayapaccanīya](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2.md) / [10.9.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](../../../../10.9.md) / [10.9.1 Paṭiccavāra](../../../10.9.1.md) / [10.9.1.2 Paccayapaccanīya](../../10.9.1.2.md) / [10.9.1.2.1 Vibhaṅgavāra](../10.9.1.2.1.md)
 
 # Nahetu
 
@@ -39,6 +39,6 @@
 
 3022\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe… . (Ahetukapaṭisandhikkhaṇe dvepi kātabbā.) (3)
 
-[Go to previous page (10.9.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md) / [Go to parent page (10.9.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md) / [Go to next page (Naārammaṇa)](/tipitaka/38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1/Naarammana.md)
+[Go to previous page (10.9.1.2.1 Vibhaṅgavāra)](../10.9.1.2.1.md) / [Go to parent page (10.9.1.2.1 Vibhaṅgavāra)](../10.9.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.3 Dassanenapahātabbahetukaduka](/tipitaka/38P2/13/13.3.md) / [13.3.1 Paṭiccavāra](/tipitaka/38P2/13/13.3/13.3.1.md) / [13.3.1.1 Paccayānuloma](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1.md) / [13.3.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.3 Dassanenapahātabbahetukaduka](../../../../13.3.md) / [13.3.1 Paṭiccavāra](../../../13.3.1.md) / [13.3.1.1 Paccayānuloma](../../13.3.1.1.md) / [13.3.1.1.1 Vibhaṅgavāra](../13.3.1.1.1.md)
 
 # Ārammaṇa
 
@@ -31,6 +31,6 @@
 
 4181\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1) (Saṃkhittaṃ.)
 
-[Go to previous page (Hetu)](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1/Hetu.md) / [Go to parent page (13.3.1.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.1.md) / [Go to next page (13.3.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.3/13.3.1/13.3.1.1/13.3.1.1.2.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.3.1.1.1 Vibhaṅgavāra)](../13.3.1.1.1.md) / [Go to next page (13.3.1.1.2 Saṅkhyāvāra)](../13.3.1.1.2.md)
 
 

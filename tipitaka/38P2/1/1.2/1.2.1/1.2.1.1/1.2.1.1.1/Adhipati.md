@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.1 Paṭiccavāra](/tipitaka/38P2/1/1.2/1.2.1.md) / [1.2.1.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1.md) / [1.2.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.1 Paṭiccavāra](../../../1.2.1.md) / [1.2.1.1 Paccayānuloma](../../1.2.1.1.md) / [1.2.1.1.1 Vibhaṅgavāra](../1.2.1.1.1.md)
 
 # Adhipati
 
@@ -29,6 +29,6 @@
 
 150\. Sahetukañca ahetukañca dhammaṃ paṭicca ahetuko dhammo uppajjati adhipatipaccayā—  sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Arammana.md) / [Go to parent page (1.2.1.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md) / [Go to next page (Anantarādi)](/tipitaka/38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1/Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (1.2.1.1.1 Vibhaṅgavāra)](../1.2.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

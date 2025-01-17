@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.10 Upekkhāsahagataduka](/tipitaka/38P2/13/13.10.md) / [13.10.7 Pañhāvāra](/tipitaka/38P2/13/13.10/13.10.7.md) / [13.10.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4.md) / [13.10.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.10 Upekkhāsahagataduka](../../../../13.10.md) / [13.10.7 Pañhāvāra](../../../13.10.7.md) / [13.10.7.1--4 Paccayānulomādi](../../13.10.7.1--4.md) / [13.10.7.1--4.1 Vibhaṅgavāra](../13.10.7.1--4.1.md)
 
 # Anantarādi
 
@@ -35,6 +35,6 @@
 
 4500\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava.
 
-[Go to previous page (Hetvādi)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Hetvadi.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/13/13.10/13.10.7/13.10.7.1--4/13.10.7.1--4.1/Upanissaya.md)
+[Go to previous page (Hetvādi)](Hetvadi.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](../13.10.7.1--4.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

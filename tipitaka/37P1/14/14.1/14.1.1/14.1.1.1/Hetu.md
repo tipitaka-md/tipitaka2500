@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [14 Parittārammaṇattika](/tipitaka/37P1/14.md) / [14.1 Paṭiccavāra](/tipitaka/37P1/14/14.1.md) / [14.1.1 Paccayānuloma](/tipitaka/37P1/14/14.1/14.1.1.md) / [14.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [14 Parittārammaṇattika](../../../../14.md) / [14.1 Paṭiccavāra](../../../14.1.md) / [14.1.1 Paccayānuloma](../../14.1.1.md) / [14.1.1.1 Vibhaṅgavāra](../14.1.1.1.md)
 
 # Hetu
 
@@ -21,6 +21,6 @@
 
 2159\. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati hetupaccayā—  appamāṇārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
 
-[Go to previous page (14.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.1.md) / [Go to parent page (14.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.1.md) / [Go to next page (Ārammaṇādi)](/tipitaka/37P1/14/14.1/14.1.1/14.1.1.1/Arammanadi.md)
+[Go to previous page (14.1.1.1 Vibhaṅgavāra)](../14.1.1.1.md) / [Go to parent page (14.1.1.1 Vibhaṅgavāra)](../14.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

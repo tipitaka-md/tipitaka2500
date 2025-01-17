@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.4 Sappaṭighaduka](/tipitaka/38P2/2/2.4.md) / [2.4.7 Pañhāvāra](/tipitaka/38P2/2/2.4/2.4.7.md) / [2.4.7.1 Paccayānuloma](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
 
 # Kamma
 
@@ -23,6 +23,6 @@
 
 718\. Appaṭigho dhammo sappaṭighassa ca appaṭighassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  appaṭighā cetanā sampayuttakānaṃ khandhānaṃ sappaṭighānañca appaṭighānañca cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  appaṭighā cetanā vipākānaṃ khandhānaṃ sappaṭighānañca appaṭighānañca kaṭattārūpānaṃ kammapaccayena paccayo. (3)
 
-[Go to previous page (Āsevana)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Asevana.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page (Vipāka)](/tipitaka/38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1/Vipaka.md)
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 
 

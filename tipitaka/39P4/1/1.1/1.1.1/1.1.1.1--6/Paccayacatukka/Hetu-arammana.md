@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.1 Kusalattika, Hetuduka](/tipitaka/39P4/1/1.1.md) / [1.1.1 Hetupada](/tipitaka/39P4/1/1.1/1.1.1.md) / [1.1.1.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.1--6.md) / [Paccayacatukka](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.1--6/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.1 Kusalattika, Hetuduka](../../../../1.1.md) / [1.1.1 Hetupada](../../../1.1.1.md) / [1.1.1.1--6 Paṭiccādivāra](../../1.1.1.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -35,6 +35,6 @@
 
 8\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.1--6/Paccayacatukka.md) / [Go to next page (Paccanīya-naadhipati)](/tipitaka/39P4/1/1.1/1.1.1/1.1.1.1--6/Paccayacatukka/Paccaniya-naadhipati.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya-naadhipati)](Paccaniya-naadhipati.md)
 
 

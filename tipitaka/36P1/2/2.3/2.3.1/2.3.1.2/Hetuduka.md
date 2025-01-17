@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.1 Paccayānuloma](../../2.3.1.md) / [2.3.1.2 Saṅkhyāvāra](../2.3.1.2.md)
 
 # Hetuduka
 
@@ -17,8 +17,8 @@
 
 498\. Hetupaccayā ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa…pe…  avigate sattarasa.
 
-* [Tika](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/Tika.md)
+* [Tika](Hetuduka/Tika.md)
 
-[Go to previous page (Suddha)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Suddha.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2.md) / [Go to next page (Tika)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.2/Hetuduka/Tika.md)
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (Tika)](Hetuduka/Tika.md)
 
 

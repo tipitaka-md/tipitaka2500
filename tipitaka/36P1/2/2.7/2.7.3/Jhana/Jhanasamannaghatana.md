@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Jhāna](/tipitaka/36P1/2/2.7/2.7.3/Jhana.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Jhāna](../Jhana.md)
 
 # Jhānasāmaññaghaṭanā
 
@@ -33,6 +33,6 @@
 
 1554\. Jhāna sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Jhānaduka)](/tipitaka/36P1/2/2.7/2.7.3/Jhana/Jhanaduka.md) / [Go to parent page (Jhāna)](/tipitaka/36P1/2/2.7/2.7.3/Jhana.md) / [Go to next page (Saindriyaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Jhana/Saindriyaghatana.md)
+[Go to previous page (Jhānaduka)](Jhanaduka.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Saindriyaghaṭanā)](Saindriyaghatana.md)
 
 

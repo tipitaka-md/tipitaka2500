@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
 
 # Āsevana
 
@@ -19,6 +19,6 @@
 
 2358\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa āsevanapaccayena paccayo—  purimā purimā…pe…  paccayo. (1)
 
-[Go to previous page (Pacchājāta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Pacchajata.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Kamma.md)
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

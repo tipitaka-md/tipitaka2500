@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Atthi](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Atthi](../Atthi.md)
 
 # Atthimissakaghaṭanā
 
@@ -37,6 +37,6 @@
 
 1672\. Atthi nissaya indriya vippayutta avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte ekaṃ, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (Atthiduka)](/tipitaka/36P1/2/2.7/2.7.3/Atthi/Atthiduka.md) / [Go to parent page (Atthi)](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Atthi/Pakinnakaghatana.md)
+[Go to previous page (Atthiduka)](Atthiduka.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.12 Rūpāvacaraduka](/tipitaka/38P2/13/13.12.md) / [13.12.7 Pañhāvāra](/tipitaka/38P2/13/13.12/13.12.7.md) / [13.12.7.1 Paccayānuloma](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1.md) / [13.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.12 Rūpāvacaraduka](../../../../13.12.md) / [13.12.7 Pañhāvāra](../../../13.12.7.md) / [13.12.7.1 Paccayānuloma](../../13.12.7.1.md) / [13.12.7.1.1 Vibhaṅgavāra](../13.12.7.1.1.md)
 
 # Upanissaya
 
@@ -27,6 +27,6 @@
 
 4630\. Narūpāvacaro dhammo rūpāvacarassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  narūpāvacaraṃ saddhaṃ upanissāya rūpāvacaraṃ jhānaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; narūpāvacaraṃ sīlaṃ…pe…  senāsanaṃ upanissāya rūpāvacaraṃ jhānaṃ…pe…  abhiññaṃ…pe…  samāpattiṃ uppādeti; narūpāvacarā saddhā…pe…  senāsanaṃ rūpāvacarāya saddhāya…pe…  paññāya upanissayapaccayena paccayo, paṭhamassa jhānassa parikammaṃ paṭhamassa jhānassa upanissayapaccayena paccayo…pe…  catutthassa jhānassa…pe…  dibbassa cakkhussa parikammaṃ…pe…  dibbāya sotadhātuyā…pe…  iddhividhañāṇassa…pe…  cetopariyañāṇassa…pe…  pubbenivāsānussatiñāṇassa…pe…  yathākammūpagañāṇassa…pe…  anāgataṃsañāṇassa parikammaṃ anāgataṃsañāṇassa upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Anantarādi)](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Anantaradi.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md) / [Go to next page (Purejātādi)](/tipitaka/38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1/Purejatadi.md)
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 

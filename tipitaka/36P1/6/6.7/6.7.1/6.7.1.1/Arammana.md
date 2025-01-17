@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md) / [6.7.1 Paccayānuloma](/tipitaka/36P1/6/6.7/6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../../6.md) / [6.7 Pañhāvāra](../../../6.7.md) / [6.7.1 Paccayānuloma](../../6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](../6.7.1.1.md)
 
 # Ārammaṇa
 
@@ -35,6 +35,6 @@
 
 2838\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, āvajjanāya ārammaṇapaccayena paccayo. Ariyā cetopariyañāṇena asaṃkiliṭṭhaasaṃkilesikacittasamaṅgissa cittaṃ jānanti. Asaṃkiliṭṭhaasaṃkilesikā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
-[Go to previous page (Hetu)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Hetu.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

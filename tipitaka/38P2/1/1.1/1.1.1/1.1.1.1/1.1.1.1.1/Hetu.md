@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.1 Hetuduka](/tipitaka/38P2/1/1.1.md) / [1.1.1 Paṭiccavāra](/tipitaka/38P2/1/1.1/1.1.1.md) / [1.1.1.1 Paccayānuloma](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1.md) / [1.1.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.1 Hetuduka](../../../../1.1.md) / [1.1.1 Paṭiccavāra](../../../1.1.1.md) / [1.1.1.1 Paccayānuloma](../../1.1.1.1.md) / [1.1.1.1.1 Vibhaṅgavāra](../1.1.1.1.1.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 10\. Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti hetupaccayā—  nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca alobhañca paṭicca dve khandhā adoso amoho ca cittasamuṭṭhānañca rūpaṃ. (Cakkaṃ.) Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuñca alobhañca paṭicca adoso amoho sampayuttakā ca khandhā. (3)
 
-[Go to previous page (1.1.1.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1.md) / [Go to parent page (1.1.1.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1.md) / [Go to next page (Ārammaṇādi)](/tipitaka/38P2/1/1.1/1.1.1/1.1.1.1/1.1.1.1.1/Arammanadi.md)
+[Go to previous page (1.1.1.1.1 Vibhaṅgavāra)](../1.1.1.1.1.md) / [Go to parent page (1.1.1.1.1 Vibhaṅgavāra)](../1.1.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

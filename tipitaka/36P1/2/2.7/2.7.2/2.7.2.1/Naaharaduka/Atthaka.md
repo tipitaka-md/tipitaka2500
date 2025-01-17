@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Naāhāraduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../../2.7.2.1.md) / [Naāhāraduka](../Naaharaduka.md)
 
 # Aṭṭhaka
 
@@ -17,6 +17,6 @@
 
 1234\. Naāhārapaccayā nahetupaccayā…pe…  nasahajātapaccayā naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye satta, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naindriye nava, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava…pe… .
 
-[Go to previous page (Catukka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Catukka.md) / [Go to parent page (Naāhāraduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md) / [Go to next page (Dasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka/Dasaka.md)
+[Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Naāhāraduka)](../Naaharaduka.md) / [Go to next page (Dasaka)](Dasaka.md)
 
 

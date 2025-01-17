@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [2 Tika, Kusalattika](/tipitaka/39P5/2.md) / [2.15 Maggārammaṇattika, Kusalattika](/tipitaka/39P5/2/2.15.md) / [2.15.1--7 Paṭiccādivāra](/tipitaka/39P5/2/2.15/2.15.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.15 Maggārammaṇattika, Kusalattika](../../2.15.md) / [2.15.1--7 Paṭiccādivāra](../2.15.1--7.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 411\. Maggārammaṇaṃ abyākatañca maggādhipatiṃ abyākatañca dhammaṃ paṭicca maggārammaṇo abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha nava. Sabbattha vitthāro.)
 
-[Go to previous page (2.15.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.15/2.15.1--7.md) / [Go to parent page (2.15.1--7 Paṭiccādivāra)](/tipitaka/39P5/2/2.15/2.15.1--7.md) / [Go to next page (2.16 Uppannattika, Kusalattika)](/tipitaka/39P5/2/2.16.md)
+[Go to previous page (2.15.1--7 Paṭiccādivāra)](../2.15.1--7.md) / [Go to parent page (2.15.1--7 Paṭiccādivāra)](../2.15.1--7.md) / [Go to next page (2.16 Uppannattika, Kusalattika)](../../2.16.md)
 
 

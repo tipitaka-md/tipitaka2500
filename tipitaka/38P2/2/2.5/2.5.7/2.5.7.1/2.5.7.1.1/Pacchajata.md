@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.7 Pañhāvāra](../../../2.5.7.md) / [2.5.7.1 Paccayānuloma](../../2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](../2.5.7.1.1.md)
 
 # Pacchājāta
 
@@ -19,6 +19,6 @@
 
 814\. Arūpī dhammo rūpissa dhammassa pacchājātapaccayena paccayo—  pacchājātā arūpino khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-[Go to previous page (Purejāta)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Purejata.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Asevana.md)
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

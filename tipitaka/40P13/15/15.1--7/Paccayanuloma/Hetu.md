@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [15 Micchattattika](/tipitaka/40P13/15.md) / [15.1--7 Paṭiccādivāra](/tipitaka/40P13/15/15.1--7.md) / [Paccayānuloma](/tipitaka/40P13/15/15.1--7/Paccayanuloma.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [15 Micchattattika](../../../15.md) / [15.1--7 Paṭiccādivāra](../../15.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu
 
@@ -25,6 +25,6 @@
 
 120\. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa. (Sabbattha vitthāretabbaṃ.)
 
-[Go to previous page (Paccayānuloma)](/tipitaka/40P13/15/15.1--7/Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](/tipitaka/40P13/15/15.1--7/Paccayanuloma.md) / [Go to next page (16 Maggārammaṇattika)](/tipitaka/40P13/16.md)
+[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (16 Maggārammaṇattika)](../../../16.md)
 
 

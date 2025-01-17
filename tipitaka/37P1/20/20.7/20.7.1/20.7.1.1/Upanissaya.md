@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [20 Atītārammaṇattika](/tipitaka/37P1/20.md) / [20.7 Pañhāvāra](/tipitaka/37P1/20/20.7.md) / [20.7.1 Paccayānuloma](/tipitaka/37P1/20/20.7/20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [20 Atītārammaṇattika](../../../../20.md) / [20.7 Pañhāvāra](../../../20.7.md) / [20.7.1 Paccayānuloma](../../20.7.1.md) / [20.7.1.1 Vibhaṅgavāra](../20.7.1.1.md)
 
 # Upanissaya
 
@@ -37,6 +37,6 @@
 
 2728\. Paccuppannārammaṇo dhammo anāgatārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  paccuppannārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā anāgatārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Sahajātādi)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Sahajatadi.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1.md) / [Go to next page (Āsevana)](/tipitaka/37P1/20/20.7/20.7.1/20.7.1.1/Asevana.md)
+[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

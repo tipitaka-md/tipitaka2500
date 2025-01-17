@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.12 Parittattika, Hetuduka](/tipitaka/39P4/1/1.12.md) / [1.12.2 Nahetupada](/tipitaka/39P4/1/1.12/1.12.2.md) / [1.12.2.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.12/1.12.2/1.12.2.1--6.md) / [Paccayacatukka](/tipitaka/39P4/1/1.12/1.12.2/1.12.2.1--6/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.12 Parittattika, Hetuduka](../../../../1.12.md) / [1.12.2 Nahetupada](../../../1.12.2.md) / [1.12.2.1--6 Paṭiccādivāra](../../1.12.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -31,6 +31,6 @@
 
 596\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe…  sahajāte terasa, aññamaññe satta…pe…  purejāte āsevane tīṇi…pe…  vigate pañca, avigate terasa. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P4/1/1.12/1.12.2/1.12.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.12/1.12.2/1.12.2.1--6/Paccayacatukka.md) / [Go to next page (Paccanīya)](/tipitaka/39P4/1/1.12/1.12.2/1.12.2.1--6/Paccaniya.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.3 Parāmāsasampayuttaduka](/tipitaka/38P2/9/9.3.md) / [9.3.7 Pañhāvāra](/tipitaka/38P2/9/9.3/9.3.7.md) / [9.3.7.1 Paccayānuloma](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.3 Parāmāsasampayuttaduka](../../../../9.3.md) / [9.3.7 Pañhāvāra](../../../9.3.7.md) / [9.3.7.1 Paccayānuloma](../../9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](../9.3.7.1.1.md)
 
 # Upanissaya
 
@@ -27,6 +27,6 @@
 
 2264\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya parāmāsasampayutto rāgo uppajjati; sīlaṃ…pe…  senāsanaṃ upanissāya parāmāsasampayutto rāgo uppajjati; saddhā…pe…  senāsanaṃ parāmāsasampayuttassa rāgassa…pe…  patthanāya upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Sahajātādi)](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Sahajatadi.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md) / [Go to next page (Purejāta)](/tipitaka/38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1/Purejata.md)
+[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

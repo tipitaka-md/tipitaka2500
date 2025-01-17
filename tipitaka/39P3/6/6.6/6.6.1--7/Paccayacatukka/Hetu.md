@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [6 Ganthagocchaka, Kusalattika](/tipitaka/39P3/6.md) / [6.6 Ganthavippayuttaganthaniyaduka, Kusalattika](/tipitaka/39P3/6/6.6.md) / [6.6.1--7 Paṭiccādivāra](/tipitaka/39P3/6/6.6/6.6.1--7.md) / [Paccayacatukka](/tipitaka/39P3/6/6.6/6.6.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [6 Ganthagocchaka, Kusalattika](../../../../6.md) / [6.6 Ganthavippayuttaganthaniyaduka, Kusalattika](../../../6.6.md) / [6.6.1--7 Paṭiccādivāra](../../6.6.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -75,6 +75,6 @@
 
 
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/6/6.6/6.6.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/6/6.6/6.6.1--7/Paccayacatukka.md) / [Go to next page (7 Oghayogagocchaka, Kusalattika)](/tipitaka/39P3/7.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (7 Oghayogagocchaka, Kusalattika)](../../../../7.md)
 
 

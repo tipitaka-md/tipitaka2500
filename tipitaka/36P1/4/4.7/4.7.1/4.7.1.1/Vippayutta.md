@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
 
 # Vippayutta
 
@@ -25,6 +25,6 @@
 
 2386\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu vipākadhammadhammānaṃ khandhānaṃ vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Sampayutta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Sampayutta.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Atthi)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Atthi.md)
+[Go to previous page (Sampayutta)](Sampayutta.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

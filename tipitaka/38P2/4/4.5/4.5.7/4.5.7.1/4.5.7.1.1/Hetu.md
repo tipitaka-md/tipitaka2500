@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.5 Saññojanasaññojanasampayuttaduka](/tipitaka/38P2/4/4.5.md) / [4.5.7 Pañhāvāra](/tipitaka/38P2/4/4.5/4.5.7.md) / [4.5.7.1 Paccayānuloma](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1.md) / [4.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.5 Saññojanasaññojanasampayuttaduka](../../../../4.5.md) / [4.5.7 Pañhāvāra](../../../4.5.7.md) / [4.5.7.1 Paccayānuloma](../../4.5.7.1.md) / [4.5.7.1.1 Vibhaṅgavāra](../4.5.7.1.1.md)
 
 # Hetu
 
@@ -23,6 +23,6 @@
 
 1589\. Saññojano ceva saññojanasampayutto ca dhammo saññojanassa ceva saññojanasampayuttassa ca saññojanasampayuttassa ceva no ca saññojanassa ca dhammassa hetupaccayena paccayo—  kāmarāgasaññojano diṭṭhisaññojanassa avijjāsaññojanassa sampayuttakānañca khandhānaṃ hetupaccayena paccayo. (Cakkaṃ.) (3)
 
-[Go to previous page (4.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to parent page (4.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/4/4.5/4.5.7/4.5.7.1/4.5.7.1.1/Arammana.md)
+[Go to previous page (4.5.7.1.1 Vibhaṅgavāra)](../4.5.7.1.1.md) / [Go to parent page (4.5.7.1.1 Vibhaṅgavāra)](../4.5.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

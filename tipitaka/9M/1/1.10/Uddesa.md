@@ -1,5 +1,5 @@
 
-[Home](/) / [9M Mūlapaṇṇāsapāḷi](/tipitaka/9M.md) / [1 Mūlapariyāyavagga](/tipitaka/9M/1.md) / [1.10 Mahāsatipaṭṭhānasutta](/tipitaka/9M/1/1.10.md)
+[Home](/) / [9M Mūlapaṇṇāsapāḷi](../../../9M.md) / [1 Mūlapariyāyavagga](../../1.md) / [1.10 Mahāsatipaṭṭhānasutta](../1.10.md)
 
 # Uddesa
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (1.10 Mahāsatipaṭṭhānasutta)](/tipitaka/9M/1/1.10.md) / [Go to parent page (1.10 Mahāsatipaṭṭhānasutta)](/tipitaka/9M/1/1.10.md) / [Go to next page (1.10.1 Kāyānupassanā)](/tipitaka/9M/1/1.10/1.10.1.md)
+[Go to previous page (1.10 Mahāsatipaṭṭhānasutta)](../1.10.md) / [Go to parent page (1.10 Mahāsatipaṭṭhānasutta)](../1.10.md) / [Go to next page (1.10.1 Kāyānupassanā)](1.10.1.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.18 Saraṇaduka](/tipitaka/38P2/13/13.18.md) / [13.18.7 Pañhāvāra](/tipitaka/38P2/13/13.18/13.18.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [13 Piṭṭhiduka](../../../13.md) / [13.18 Saraṇaduka](../../13.18.md) / [13.18.7 Pañhāvāra](../13.18.7.md)
 
 # Paccanīyuddhāra
 
@@ -21,6 +21,6 @@
 
 4835\. Saraṇo ca araṇo ca dhammā saraṇassa dhammassa sahajātaṃ, purejātaṃ. Saraṇo ca araṇo ca dhammā araṇassa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
-[Go to previous page (Suddha)](/tipitaka/38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.2/Suddha.md) / [Go to parent page (13.18.7 Pañhāvāra)](/tipitaka/38P2/13/13.18/13.18.7.md) / [Go to next page (13.18.7.2 Paccayapaccanīya)](/tipitaka/38P2/13/13.18/13.18.7/13.18.7.2.md)
+[Go to previous page (Suddha)](13.18.7.1/13.18.7.1.2/Suddha.md) / [Go to parent page (13.18.7 Pañhāvāra)](../13.18.7.md) / [Go to next page (13.18.7.2 Paccayapaccanīya)](13.18.7.2.md)
 
 

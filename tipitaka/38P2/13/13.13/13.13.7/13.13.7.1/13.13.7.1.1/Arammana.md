@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.7 Pañhāvāra](/tipitaka/38P2/13/13.13/13.13.7.md) / [13.13.7.1 Paccayānuloma](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.13 Arūpāvacaraduka](../../../../13.13.md) / [13.13.7 Pañhāvāra](../../../13.13.7.md) / [13.13.7.1 Paccayānuloma](../../13.13.7.1.md) / [13.13.7.1.1 Vibhaṅgavāra](../13.13.7.1.1.md)
 
 # Ārammaṇa
 
@@ -21,6 +21,6 @@
 
 4682\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati assādeti abhinandati, taṃ ārabbha rāgo…pe…  domanassaṃ uppajjati; pubbe suciṇṇāni…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese…pe…  pubbe…pe…  cakkhuṃ…pe…  vatthuṃ naarūpāvacare khandhe aniccato…pe…  domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, cetopariyañāṇena naarūpāvacaracittasamaṅgissa cittaṃ jānāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe…  naarūpāvacarā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page (Hetu)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Hetu.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/38P2/13/13.13/13.13.7/13.13.7.1/13.13.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

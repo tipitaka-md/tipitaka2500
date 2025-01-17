@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [18 Uppannattika](/tipitaka/37P1/18.md) / [18.7 Pañhāvāra](/tipitaka/37P1/18/18.7.md) / [18.7.1 Paccayānuloma](/tipitaka/37P1/18/18.7/18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [18 Uppannattika](../../../../18.md) / [18.7 Pañhāvāra](../../../18.7.md) / [18.7.1 Paccayānuloma](../../18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](../18.7.1.1.md)
 
 # Ārammaṇa
 
@@ -25,6 +25,6 @@
 
 2598\. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—  uppādiṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  uppādī khandhe aniccato dukkhato anattato…pe…  domanassaṃ uppajjati. Uppādī khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page (Hetu)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Hetu.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/37P1/18/18.7/18.7.1/18.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

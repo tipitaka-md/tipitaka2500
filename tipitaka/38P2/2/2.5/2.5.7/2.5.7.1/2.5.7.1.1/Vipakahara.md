@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.7 Pañhāvāra](../../../2.5.7.md) / [2.5.7.1 Paccayānuloma](../../2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](../2.5.7.1.1.md)
 
 # Vipākāhāra
 
@@ -23,6 +23,6 @@
 
 821\. Arūpī dhammo arūpissa dhammassa āhārapaccayena paccayo…  tīṇi.
 
-[Go to previous page (Kamma)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Kamma.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page (Indriya)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Indriya.md)
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 
 

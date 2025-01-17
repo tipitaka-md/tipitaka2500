@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.1 Paṭiccavāra](/tipitaka/37P1/23/23.1.md) / [23.1.1 Paccayānuloma](/tipitaka/37P1/23/23.1/23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.1 Paṭiccavāra](../../../23.1.md) / [23.1.1 Paccayānuloma](../../23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](../23.1.1.1.md)
 
 # Ārammaṇa
 
@@ -17,6 +17,6 @@
 
 2951\. Anidassanaappaṭighaṃ dhammaṃ paṭicca anidassanaappaṭigho dhammo uppajjati ārammaṇapaccayā—  anidassanaappaṭighaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe …pe…  paṭisandhikkhaṇe anidassanaappaṭighaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  vatthuṃ paṭicca khandhā. (1)
 
-[Go to previous page (Hetu)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Hetu.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to next page (Adhipati)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

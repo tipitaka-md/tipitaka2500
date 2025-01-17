@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.4 Upādānaupādāniyaduka](/tipitaka/38P2/11/11.4.md) / [11.4.7 Pañhāvāra](/tipitaka/38P2/11/11.4/11.4.7.md) / [11.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4.md) / [11.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.4 Upādānaupādāniyaduka](../../../../11.4.md) / [11.4.7 Pañhāvāra](../../../11.4.7.md) / [11.4.7.1--4 Paccayānulomādi](../../11.4.7.1--4.md) / [11.4.7.1--4.1 Vibhaṅgavāra](../11.4.7.1--4.1.md)
 
 # Adhipati
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1/Arammana.md) / [Go to parent page (11.4.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/11/11.4/11.4.7/11.4.7.1--4/11.4.7.1--4.1.md) / [Go to next page (11.5 Upādānaupādānasampayuttaduka)](/tipitaka/38P2/11/11.5.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.4.7.1--4.1 Vibhaṅgavāra)](../11.4.7.1--4.1.md) / [Go to next page (11.5 Upādānaupādānasampayuttaduka)](../../../../11.5.md)
 
 

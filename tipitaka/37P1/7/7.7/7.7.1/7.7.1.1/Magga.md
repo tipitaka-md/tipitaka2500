@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.7 Pañhāvāra](/tipitaka/37P1/7/7.7.md) / [7.7.1 Paccayānuloma](/tipitaka/37P1/7/7.7/7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
 
 # Magga
 
@@ -31,6 +31,6 @@
 
 542\. Savitakkasavicāro ca avitakkavicāramatto ca dhammā savitakkasavicārassa ca avitakkaavicārassa ca dhammassa maggapaccayena paccayo—  savitakkasavicārāni maggaṅgāni vitakko ca sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ maggapaccayena paccayo. Paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (Jhāna)](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Jhana.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page (Sampayutta)](/tipitaka/37P1/7/7.7/7.7.1/7.7.1.1/Sampayutta.md)
+[Go to previous page (Jhāna)](Jhana.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Sampayutta)](Sampayutta.md)
 
 

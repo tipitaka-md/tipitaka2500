@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.7 Pañhāvāra](/tipitaka/38P2/13/13.5/13.5.7.md) / [13.5.7.1 Paccayānuloma](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.5 Savitakkaduka](../../../../13.5.md) / [13.5.7 Pañhāvāra](../../../13.5.7.md) / [13.5.7.1 Paccayānuloma](../../13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](../13.5.7.1.1.md)
 
 # Adhipati
 
@@ -33,6 +33,6 @@
 
 4337\. Savitakko ca avitakko ca dhammā savitakkassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  savitakke khandhe ca vitakkañca garuṃ katvā savitakkā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca garuṃ katvā vitakko uppajjati. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca garuṃ katvā savitakkā khandhā ca vitakko ca uppajjanti. (3)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Arammana.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md) / [Go to next page (Anantarādi)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](../13.5.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

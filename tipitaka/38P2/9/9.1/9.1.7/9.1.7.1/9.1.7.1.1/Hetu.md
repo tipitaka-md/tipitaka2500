@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.7 Pañhāvāra](/tipitaka/38P2/9/9.1/9.1.7.md) / [9.1.7.1 Paccayānuloma](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.1 Parāmāsaduka](../../../../9.1.md) / [9.1.7 Pañhāvāra](../../../9.1.7.md) / [9.1.7.1 Paccayānuloma](../../9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](../9.1.7.1.1.md)
 
 # Hetu
 
@@ -23,6 +23,6 @@
 
 2158\. Noparāmāso dhammo parāmāsassa ca noparāmāsassa ca dhammassa hetupaccayena paccayo—  noparāmāsā hetū sampayuttakānaṃ khandhānaṃ parāmāsassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
 
-[Go to previous page (9.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1/Arammana.md)
+[Go to previous page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

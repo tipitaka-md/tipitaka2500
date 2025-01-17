@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.7 Pañhāvāra](/tipitaka/38P2/13/13.15/13.15.7.md) / [13.15.7.1 Paccayānuloma](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.7 Pañhāvāra](../../../13.15.7.md) / [13.15.7.1 Paccayānuloma](../../13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](../13.15.7.1.1.md)
 
 # Hetu
 
@@ -21,6 +21,6 @@
 
 4743\. Aniyyāniko dhammo aniyyānikassa dhammassa hetupaccayena paccayo—  aniyyānikā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (13.15.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Arammana.md)
+[Go to previous page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

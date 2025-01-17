@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2.md) / [Gaṇanā hetumūlakā](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.1 Paṭiccavāra](../../../../2.1.md) / [2.1.1 Paccayānuloma](../../../2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](../../2.1.1.2.md) / [Gaṇanā hetumūlakā](../Ganana+hetumulaka.md)
 
 # Bāvīsaka
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (Terasaka)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka/Terasaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka.md) / [Go to next page (Ārammaṇadukādi)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.2/Arammanadukadi.md)
+[Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to next page (Ārammaṇadukādi)](../Arammanadukadi.md)
 
 

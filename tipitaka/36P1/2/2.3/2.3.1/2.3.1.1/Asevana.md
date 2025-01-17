@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.1 Paccayānuloma](/tipitaka/36P1/2/2.3/2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.1 Paccayānuloma](../../2.3.1.md) / [2.3.1.1 Vibhaṅgavāra](../2.3.1.1.md)
 
 # Āsevana
 
@@ -29,6 +29,6 @@
 
 470\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati āsevanapaccayā—  akusalaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… .
 
-[Go to previous page (Purejāta)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Purejata.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1.md) / [Go to next page (Kamma)](/tipitaka/36P1/2/2.3/2.3.1/2.3.1.1/Kamma.md)
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.1 Paccayānuloma](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.6 Nahetusahetukaduka](../../../../1.6.md) / [1.6.7 Pañhāvāra](../../../1.6.7.md) / [1.6.7.1 Paccayānuloma](../../1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](../1.6.7.1.1.md)
 
 # Indriya
 
@@ -21,6 +21,6 @@
 
 515\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa indriyapaccayena paccayo—  nahetu ahetukā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo.
 
-[Go to previous page (Āhāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Ahara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page (Jhānādi)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Jhanadi.md)
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
 
 

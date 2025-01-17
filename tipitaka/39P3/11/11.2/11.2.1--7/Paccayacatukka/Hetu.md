@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [11 Upādānagocchaka, Kusalattika](/tipitaka/39P3/11.md) / [11.2 Upādāniyaduka, Kusalattika](/tipitaka/39P3/11/11.2.md) / [11.2.1--7 Paṭiccādivāra](/tipitaka/39P3/11/11.2/11.2.1--7.md) / [Paccayacatukka](/tipitaka/39P3/11/11.2/11.2.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [11 Upādānagocchaka, Kusalattika](../../../../11.md) / [11.2 Upādāniyaduka, Kusalattika](../../../11.2.md) / [11.2.1--7 Paṭiccādivāra](../../11.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -43,6 +43,6 @@
 
 2263\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ. Lokiyadukaabyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/11/11.2/11.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/11/11.2/11.2.1--7/Paccayacatukka.md) / [Go to next page (11.3 Upādānasampayuttaduka, Kusalattika)](/tipitaka/39P3/11/11.3.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (11.3 Upādānasampayuttaduka, Kusalattika)](../../../11.3.md)
 
 

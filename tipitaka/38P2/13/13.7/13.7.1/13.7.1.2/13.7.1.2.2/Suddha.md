@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.7 Sappītikaduka](/tipitaka/38P2/13/13.7.md) / [13.7.1 Paṭiccavāra](/tipitaka/38P2/13/13.7/13.7.1.md) / [13.7.1.2 Paccayapaccanīya](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.2.md) / [13.7.1.2.2 Saṅkhyāvāra](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.2/13.7.1.2.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.1 Paṭiccavāra](../../../13.7.1.md) / [13.7.1.2 Paccayapaccanīya](../../13.7.1.2.md) / [13.7.1.2.2 Saṅkhyāvāra](../13.7.1.2.2.md)
 
 # Suddha
 
@@ -19,6 +19,6 @@
 
 4385\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi…pe…  naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (13.7.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.2/13.7.1.2.2.md) / [Go to parent page (13.7.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.2/13.7.1.2.2.md) / [Go to next page (13.7.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](/tipitaka/38P2/13/13.7/13.7.1/13.7.1.3--4.md)
+[Go to previous page (13.7.1.2.2 Saṅkhyāvāra)](../13.7.1.2.2.md) / [Go to parent page (13.7.1.2.2 Saṅkhyāvāra)](../13.7.1.2.2.md) / [Go to next page (13.7.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../13.7.1.3--4.md)
 
 

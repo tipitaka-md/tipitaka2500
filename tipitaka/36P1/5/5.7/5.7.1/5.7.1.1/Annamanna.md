@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.1 Vibhaṅgavāra](../5.7.1.1.md)
 
 # Aññamañña
 
@@ -21,6 +21,6 @@
 
 2643\. Anupādinnaanupādāniyo dhammo anupādinnaanupādāniyassa dhammassa aññamaññapaccayena paccayo—  anupādinnaanupādāniyo eko khandho tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā dvinnaṃ khandhānaṃ…pe… . (1)
 
-[Go to previous page (Sahajāta)](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Sahajata.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1.md) / [Go to next page (Nissaya)](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.1/Nissaya.md)
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.1 Sappaccayaduka, Kusalattika](/tipitaka/39P3/3/3.1.md) / [3.1.2 Abyākatapada](/tipitaka/39P3/3/3.1/3.1.2.md) / [3.1.2.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccayacatukka%281%29.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.1 Sappaccayaduka, Kusalattika](../../../../3.1.md) / [3.1.2 Abyākatapada](../../../3.1.2.md) / [3.1.2.1--7 Paṭiccādivāra](../../3.1.2.1--7.md) / [Paccayacatukka](../Paccayacatukka%281%29.md)
 
 # Hetvādi
 
@@ -29,6 +29,6 @@
 
 1490\. Hetuyā ekaṃ, ārammaṇe dve, adhipatiyā dve, anantare ekaṃ…pe…  nissaye ekaṃ, upanissaye dve, purejāte ekaṃ, pacchājāte ekaṃ, (sabbattha ekaṃ), avigate ekaṃ. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/accayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/accayacatukka.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/3/3.1/3.1.2/3.1.2.1--7/Paccaniyuddhara.md)
+[Go to previous page (Paccayacatukka)](../accayacatukka.md) / [Go to parent page (Paccayacatukka)](../accayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
 
 

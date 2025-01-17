@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.1 Paṭiccavāra](/tipitaka/37P1/23/23.1.md) / [23.1.1 Paccayānuloma](/tipitaka/37P1/23/23.1/23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.1 Paṭiccavāra](../../../23.1.md) / [23.1.1 Paccayānuloma](../../23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](../23.1.1.1.md)
 
 # Hetu
 
@@ -61,6 +61,6 @@
 
 2950\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho ca anidassanasappaṭigho ca anidassanaappaṭigho ca dhammā uppajjanti hetupaccayā—  anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe anidassanaappaṭighe khandhe ca mahābhūte ca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca kaṭattārūpaṃ. Anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighañca anidassanasappaṭighañca anidassanaappaṭighañca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Phoṭṭhabbāyatanañca āpodhātuñca paṭicca rūpāyatanaṃ, cakkhāyatanaṃ…pe…  rasāyatanaṃ, itthindriyaṃ…pe…  kabaḷīkāro āhāro. (7)
 
-[Go to previous page (23.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/37P1/23/23.1/23.1.1/23.1.1.1/Arammana.md)
+[Go to previous page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

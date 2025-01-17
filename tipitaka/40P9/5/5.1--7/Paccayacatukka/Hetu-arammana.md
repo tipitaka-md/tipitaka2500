@@ -1,5 +1,5 @@
 
-[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [5 Hetuduka, Sanidassanattika](/tipitaka/40P9/5.md) / [5.1--7 Paṭiccādivāra](/tipitaka/40P9/5/5.1--7.md) / [Paccayacatukka](/tipitaka/40P9/5/5.1--7/Paccayacatukka.md)
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](../../../../40P9.md) / [5 Hetuduka, Sanidassanattika](../../../5.md) / [5.1--7 Paṭiccādivāra](../../5.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -25,6 +25,6 @@
 
 90\. Hetuyā ekaṃ, adhipatiyā sahajāte aññamaññe nissaye kamme…pe…  magge ekaṃ, vippayutte atthiyā avigate ekaṃ. (Sabbattha vitthāro.)
 
-[Go to previous page (Hetu)](/tipitaka/40P9/5/5.1--7/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/40P9/5/5.1--7/Paccayacatukka.md) / [Go to next page (6 Sahetukadukādi, Kusalattika)](/tipitaka/40P9/6.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6 Sahetukadukādi, Kusalattika)](../../../6.md)
 
 

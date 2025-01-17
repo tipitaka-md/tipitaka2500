@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Vippayutta](/tipitaka/36P1/2/2.7/2.7.3/Vippayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Vippayutta](../Vippayutta.md)
 
 # Sahajātaghaṭanā
 
@@ -29,6 +29,6 @@
 
 
 
-[Go to previous page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Vippayutta/Pakinnakaghatana.md) / [Go to parent page (Vippayutta)](/tipitaka/36P1/2/2.7/2.7.3/Vippayutta.md) / [Go to next page (Atthi)](/tipitaka/36P1/2/2.7/2.7.3/Atthi.md)
+[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Atthi)](../Atthi.md)
 
 

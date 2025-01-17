@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../36P1.md) / [3 Vedanāttika](../../3.md) / [3.7 Pañhāvāra](../3.7.md)
 
 # Paccanīyuddhāra
 
@@ -33,6 +33,6 @@
 
 2014\. Adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (3)
 
-[Go to previous page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta/Ghatana.md) / [Go to parent page (3.7 Pañhāvāra)](/tipitaka/36P1/3/3.7.md) / [Go to next page (3.7.2 Paccayapaccanīya)](/tipitaka/36P1/3/3.7/3.7.2.md)
+[Go to previous page (Ghaṭanā)](3.7.1/3.7.1.2/Sampayutta/Ghatana.md) / [Go to parent page (3.7 Pañhāvāra)](../3.7.md) / [Go to next page (3.7.2 Paccayapaccanīya)](3.7.2.md)
 
 

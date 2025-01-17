@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.7 Pañhāvāra](/tipitaka/38P2/13/13.15/13.15.7.md) / [13.15.7.1 Paccayānuloma](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.7 Pañhāvāra](../../../13.15.7.md) / [13.15.7.1 Paccayānuloma](../../13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](../13.15.7.1.1.md)
 
 # Adhipati
 
@@ -23,6 +23,6 @@
 
 4748\. Aniyyāniko dhammo aniyyānikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā…pe…  ariyā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ aniyyānike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  aniyyānikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. Aniyyāniko dhammo niyyānikassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (2)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Arammana.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to next page (Anantarādi)](/tipitaka/38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1/Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

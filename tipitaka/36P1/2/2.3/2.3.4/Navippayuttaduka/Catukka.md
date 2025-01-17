@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.3/2.3.4.md) / [Navippayuttaduka](/tipitaka/36P1/2/2.3/2.3.4/Navippayuttaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.4 Paccayapaccanīyānuloma](../../2.3.4.md) / [Navippayuttaduka](../Navippayuttaduka.md)
 
 # Catukka
 
@@ -26,6 +26,6 @@ Paccayavāro.
 
 
 
-[Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.4/Navippayuttaduka/Tika.md) / [Go to parent page (Navippayuttaduka)](/tipitaka/36P1/2/2.3/2.3.4/Navippayuttaduka.md) / [Go to next page (2.4 Nissayavāra)](/tipitaka/36P1/2/2.4.md)
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (2.4 Nissayavāra)](../../../2.4.md)
 
 

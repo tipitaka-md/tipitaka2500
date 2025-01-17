@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.5 Rūpīduka](/tipitaka/38P2/2/2.5.md) / [2.5.7 Pañhāvāra](/tipitaka/38P2/2/2.5/2.5.7.md) / [2.5.7.1 Paccayānuloma](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.5 Rūpīduka](../../../../2.5.md) / [2.5.7 Pañhāvāra](../../../2.5.7.md) / [2.5.7.1 Paccayānuloma](../../2.5.7.1.md) / [2.5.7.1.1 Vibhaṅgavāra](../2.5.7.1.1.md)
 
 # Anantarādi
 
@@ -21,6 +21,6 @@
 
 810\. (Sahajātapaccaye satta, iha ghaṭanā natthi. Aññamaññapaccaye cha, nissayapaccaye satta pañhā, iha ghaṭanā natthi.)
 
-[Go to previous page (Adhipati)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Adhipati.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/38P2/2/2.5/2.5.7/2.5.7.1/2.5.7.1.1/Upanissaya.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

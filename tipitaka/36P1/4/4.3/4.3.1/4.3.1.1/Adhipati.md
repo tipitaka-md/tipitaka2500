@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.1 Paccayānuloma](/tipitaka/36P1/4/4.3/4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.3 Paccayavāra](../../../4.3.md) / [4.3.1 Paccayānuloma](../../4.3.1.md) / [4.3.1.1 Vibhaṅgavāra](../4.3.1.1.md)
 
 # Adhipati
 
@@ -49,6 +49,6 @@
 
 2201\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Arammana.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1.md) / [Go to next page (Anantara-samanantara)](/tipitaka/36P1/4/4.3/4.3.1/4.3.1.1/Anantara-samanantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 
 

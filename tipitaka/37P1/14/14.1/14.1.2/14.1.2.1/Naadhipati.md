@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [14 Parittārammaṇattika](/tipitaka/37P1/14.md) / [14.1 Paṭiccavāra](/tipitaka/37P1/14/14.1.md) / [14.1.2 Paccayapaccanīya](/tipitaka/37P1/14/14.1/14.1.2.md) / [14.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [14 Parittārammaṇattika](../../../../14.md) / [14.1 Paṭiccavāra](../../../14.1.md) / [14.1.2 Paccayapaccanīya](../../14.1.2.md) / [14.1.2.1 Vibhaṅgavāra](../14.1.2.1.md)
 
 # Naadhipati
 
@@ -21,6 +21,6 @@
 
 2168\. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati naadhipatipaccayā—  appamāṇārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
 
-[Go to previous page (Nahetu)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Nahetu.md) / [Go to parent page (14.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1.md) / [Go to next page (Napurejātādi)](/tipitaka/37P1/14/14.1/14.1.2/14.1.2.1/Napurejatadi.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (14.1.2.1 Vibhaṅgavāra)](../14.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
 
 

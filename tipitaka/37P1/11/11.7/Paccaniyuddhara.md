@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.7 Pañhāvāra](/tipitaka/37P1/11/11.7.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [11 Ācayagāmittika](../../11.md) / [11.7 Pañhāvāra](../11.7.md)
 
 # Paccanīyuddhāra
 
@@ -47,6 +47,6 @@
 
 1647\. Apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā nevācayagāmināpacayagāmissa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (2)
 
-[Go to previous page (Suddha)](/tipitaka/37P1/11/11.7/11.7.1/11.7.1.2/Suddha.md) / [Go to parent page (11.7 Pañhāvāra)](/tipitaka/37P1/11/11.7.md) / [Go to next page (11.7.2 Paccayapaccanīya)](/tipitaka/37P1/11/11.7/11.7.2.md)
+[Go to previous page (Suddha)](11.7.1/11.7.1.2/Suddha.md) / [Go to parent page (11.7 Pañhāvāra)](../11.7.md) / [Go to next page (11.7.2 Paccayapaccanīya)](11.7.2.md)
 
 

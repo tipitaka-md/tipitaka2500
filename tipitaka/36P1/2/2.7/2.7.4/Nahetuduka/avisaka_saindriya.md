@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md) / [Nahetuduka](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.4 Paccayapaccanīyānuloma](../../2.7.4.md) / [Nahetuduka](../Nahetuduka.md)
 
 # Bāvīsaka (saindriya)
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (Soḷasaka (saindriya))](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka/oḷasaka_saindriya.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/2/2.7/2.7.4/Nahetuduka.md) / [Go to next page (Naārammaṇaduka)](/tipitaka/36P1/2/2.7/2.7.4/Naarammanaduka.md)
+[Go to previous page (Soḷasaka (saindriya))](oḷasaka_saindriya.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naārammaṇaduka)](../Naarammanaduka.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.7 Sappītikaduka](/tipitaka/38P2/13/13.7.md) / [13.7.7 Pañhāvāra](/tipitaka/38P2/13/13.7/13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.7 Pañhāvāra](../../../13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](../../13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](../13.7.7.1--4.1.md)
 
 # Purejāta
 
@@ -23,6 +23,6 @@
 
 4429\. Appītiko dhammo sappītikassa ca appītikassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ sappītikena cittena aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha pīti ca sampayuttakā khandhā ca uppajjanti. **Vatthupurejātaṃ**—  vatthu sappītikānaṃ khandhānaṃ pītiyā ca purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Upanissaya.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md) / [Go to next page (Pacchājātādi)](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1/Pacchajatadi.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](../13.7.7.1--4.1.md) / [Go to next page (Pacchājātādi)](Pacchajatadi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [5V Parivārapāḷi](/tipitaka/5V.md) / [4 Antarapeyyāla](/tipitaka/5V/4.md)
+[Home](/) / [5V Parivārapāḷi](../../5V.md) / [4 Antarapeyyāla](../4.md)
 
 # Katipucchāvāra
 
@@ -95,6 +95,6 @@ _Satteva samathā vuttā,_
 _padā sattarasā imeti._  
 
 
-[Go to previous page (4 Antarapeyyāla)](/tipitaka/5V/4.md) / [Go to parent page (4 Antarapeyyāla)](/tipitaka/5V/4.md) / [Go to next page (4.1 Chaāpattisamuṭṭhānavāra)](/tipitaka/5V/4/4.1.md)
+[Go to previous page (4 Antarapeyyāla)](../4.md) / [Go to parent page (4 Antarapeyyāla)](../4.md) / [Go to next page (4.1 Chaāpattisamuṭṭhānavāra)](4.1.md)
 
 

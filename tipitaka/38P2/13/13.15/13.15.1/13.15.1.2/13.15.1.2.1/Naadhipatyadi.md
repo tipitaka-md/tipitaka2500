@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.15 Niyyānikaduka](/tipitaka/38P2/13/13.15.md) / [13.15.1 Paṭiccavāra](/tipitaka/38P2/13/13.15/13.15.1.md) / [13.15.1.2 Paccayapaccanīya](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2.md) / [13.15.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.1 Paṭiccavāra](../../../13.15.1.md) / [13.15.1.2 Paccayapaccanīya](../../13.15.1.2.md) / [13.15.1.2.1 Vibhaṅgavāra](../13.15.1.2.1.md)
 
 # Naadhipatyādi
 
@@ -23,6 +23,6 @@
 
 4720\. Naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…pe… .
 
-[Go to previous page (Nahetu-naārammaṇa)](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Nahetu-naarammana.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1.md) / [Go to next page (Napurejāta)](/tipitaka/38P2/13/13.15/13.15.1/13.15.1.2/13.15.1.2.1/Napurejata.md)
+[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 
 

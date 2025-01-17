@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.1 Paṭiccavāra](/tipitaka/37P1/11/11.1.md) / [11.1.2 Paccayapaccanīya](/tipitaka/37P1/11/11.1/11.1.2.md) / [11.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.1 Paṭiccavāra](../../../11.1.md) / [11.1.2 Paccayapaccanīya](../../11.1.2.md) / [11.1.2.1 Vibhaṅgavāra](../11.1.2.1.md)
 
 # Naāsevana
 
@@ -25,6 +25,6 @@
 
 1459\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Naanantarādi)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Naanantaradi.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1.md) / [Go to next page (Nakamma)](/tipitaka/37P1/11/11.1/11.1.2/11.1.2.1/Nakamma.md)
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 
 

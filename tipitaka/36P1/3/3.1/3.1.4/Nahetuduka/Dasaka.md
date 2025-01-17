@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.4 Paccayapaccanīyānuloma](/tipitaka/36P1/3/3.1/3.1.4.md) / [Nahetuduka](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.4 Paccayapaccanīyānuloma](../../3.1.4.md) / [Nahetuduka](../Nahetuduka.md)
 
 # Dasaka
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (Sattaka)](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka/Sattaka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/3/3.1/3.1.4/Nahetuduka.md) / [Go to next page (Naadhipatiduka)](/tipitaka/36P1/3/3.1/3.1.4/Naadhipatiduka.md)
+[Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naadhipatiduka)](../Naadhipatiduka.md)
 
 

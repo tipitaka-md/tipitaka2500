@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.2 Cittaduka](/tipitaka/38P2/10/10.2.md) / [10.2.3 Paccayavāra](/tipitaka/38P2/10/10.2/10.2.3.md) / [10.2.3.2 Paccayapaccanīya](/tipitaka/38P2/10/10.2/10.2.3/10.2.3.2.md) / [10.2.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.2/10.2.3/10.2.3.2/10.2.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.2 Cittaduka](../../../../10.2.md) / [10.2.3 Paccayavāra](../../../10.2.3.md) / [10.2.3.2 Paccayapaccanīya](../../10.2.3.2.md) / [10.2.3.2.1 Vibhaṅgavāra](../10.2.3.2.1.md)
 
 # Nahetu
 
@@ -29,6 +29,6 @@
 
 2470\. Cittañca nocittañca dhammaṃ paccayā nocitto dhammo uppajjati nahetupaccayā—  ahetukaṃ nocittaṃ ekaṃ khandhañca cittañca paccayā dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  cittañca vatthuñca paccayā nocittā khandhā; ahetukapaṭisandhikkhaṇe…pe…  ahetukapaṭisandhikkhaṇe cittañca vatthuñca paccayā nocittā khandhā, cakkhāyatanañca cakkhuviññāṇañca paccayā cakkhuviññāṇasahagatā khandhā…pe…  kāyāyatanaṃ ca…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca cittañca paccayā vicikicchāsahagato uddhaccasahagato moho. (1) (Saṃkhittaṃ.)
 
-[Go to previous page (10.2.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.2/10.2.3/10.2.3.2/10.2.3.2.1.md) / [Go to parent page (10.2.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.2/10.2.3/10.2.3.2/10.2.3.2.1.md) / [Go to next page (10.2.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/10/10.2/10.2.3/10.2.3.2/10.2.3.2.2.md)
+[Go to previous page (10.2.3.2.1 Vibhaṅgavāra)](../10.2.3.2.1.md) / [Go to parent page (10.2.3.2.1 Vibhaṅgavāra)](../10.2.3.2.1.md) / [Go to next page (10.2.3.2.2 Saṅkhyāvāra)](../10.2.3.2.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.18 Hetuduka, Atītattika](/tipitaka/39P3/1/1.18.md) / [1.18.1 Paccuppannapada](/tipitaka/39P3/1/1.18/1.18.1.md) / [1.18.1.7 Pañhāvāra](/tipitaka/39P3/1/1.18/1.18.1/1.18.1.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.18/1.18.1/1.18.1.7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.18 Hetuduka, Atītattika](../../../../1.18.md) / [1.18.1 Paccuppannapada](../../../1.18.1.md) / [1.18.1.7 Pañhāvāra](../../1.18.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetvādi
 
@@ -31,6 +31,6 @@
 
 1067\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā cha, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.18/1.18.1/1.18.1.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.18/1.18.1/1.18.1.7/Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/1/1.18/1.18.1/1.18.1.7/Paccaniyuddhara.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
 
 

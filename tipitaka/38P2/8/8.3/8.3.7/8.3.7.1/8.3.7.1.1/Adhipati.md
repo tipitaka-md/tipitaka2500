@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.3 Nīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.3.md) / [8.3.7 Pañhāvāra](/tipitaka/38P2/8/8.3/8.3.7.md) / [8.3.7.1 Paccayānuloma](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.3 Nīvaraṇasampayuttaduka](../../../../8.3.md) / [8.3.7 Pañhāvāra](../../../8.3.7.md) / [8.3.7.1 Paccayānuloma](../../8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](../8.3.7.1.1.md)
 
 # Adhipati
 
@@ -27,6 +27,6 @@
 
 2039\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  pubbe…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ nīvaraṇavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Arammana.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md) / [Go to next page (Anantara)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

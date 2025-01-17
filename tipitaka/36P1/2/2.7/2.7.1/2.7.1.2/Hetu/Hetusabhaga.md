@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Hetu](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Hetu](../Hetu.md)
 
 # Hetusabhāga
 
@@ -19,6 +19,6 @@
 
 1008\. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke ekaṃ, indriye cattāri, magge cattāri, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (11)
 
-[Go to previous page (Suddha)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu/Suddha.md) / [Go to parent page (Hetu)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu.md) / [Go to next page (Hetusāmaññaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Hetu/Hetusamannaghatana.md)
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md)
 
 

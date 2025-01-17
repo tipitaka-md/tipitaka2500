@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.3 Sanidassanaduka](/tipitaka/38P2/2/2.3.md) / [2.3.3 Paccayavāra](/tipitaka/38P2/2/2.3/2.3.3.md) / [2.3.3.2 Paccayapaccanīya](/tipitaka/38P2/2/2.3/2.3.3/2.3.3.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../2.md) / [2.3 Sanidassanaduka](../../../2.3.md) / [2.3.3 Paccayavāra](../../2.3.3.md) / [2.3.3.2 Paccayapaccanīya](../2.3.3.2.md)
 
 # Nahetu
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (2.3.3.2 Paccayapaccanīya)](/tipitaka/38P2/2/2.3/2.3.3/2.3.3.2.md) / [Go to parent page (2.3.3.2 Paccayapaccanīya)](/tipitaka/38P2/2/2.3/2.3.3/2.3.3.2.md) / [Go to next page (2.3.3.3 Paccayānulomapaccanīya)](/tipitaka/38P2/2/2.3/2.3.3/2.3.3.3.md)
+[Go to previous page (2.3.3.2 Paccayapaccanīya)](../2.3.3.2.md) / [Go to parent page (2.3.3.2 Paccayapaccanīya)](../2.3.3.2.md) / [Go to next page (2.3.3.3 Paccayānulomapaccanīya)](../2.3.3.3.md)
 
 

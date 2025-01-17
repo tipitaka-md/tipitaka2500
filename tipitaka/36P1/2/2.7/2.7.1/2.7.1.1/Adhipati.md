@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # Adhipati
 
@@ -41,6 +41,6 @@
 
 853\. Abyākato dhammo akusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  cakkhuṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  vipākābyākate kiriyābyākate khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Arammana.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page (Anantara)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

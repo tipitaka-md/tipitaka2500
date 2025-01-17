@@ -1,5 +1,5 @@
 
-[Home](/) / [40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/40P11.md) / [1 Kusalattika, Vedanāttika](/tipitaka/40P11/1.md) / [1.1 Sukhāyavedanāyasampayuttapada](/tipitaka/40P11/1/1.1.md) / [1.1.1--7 Paṭiccādivāra](/tipitaka/40P11/1/1.1/1.1.1--7.md)
+[Home](/) / [40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)](../../../../40P11.md) / [1 Kusalattika, Vedanāttika](../../../1.md) / [1.1 Sukhāyavedanāyasampayuttapada](../../1.1.md) / [1.1.1--7 Paṭiccādivāra](../1.1.1--7.md)
 
 # Hetu
 
@@ -37,6 +37,6 @@
 
 8\. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa. (Sahajātavārepi…pe…  pañhāvārepi vitthāro.)
 
-[Go to previous page (1.1.1--7 Paṭiccādivāra)](/tipitaka/40P11/1/1.1/1.1.1--7.md) / [Go to parent page (1.1.1--7 Paṭiccādivāra)](/tipitaka/40P11/1/1.1/1.1.1--7.md) / [Go to next page (1.2 Dukkhāyavedanāyasampayuttapada)](/tipitaka/40P11/1/1.2.md)
+[Go to previous page (1.1.1--7 Paṭiccādivāra)](../1.1.1--7.md) / [Go to parent page (1.1.1--7 Paṭiccādivāra)](../1.1.1--7.md) / [Go to next page (1.2 Dukkhāyavedanāyasampayuttapada)](../../1.2.md)
 
 

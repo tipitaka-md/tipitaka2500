@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.1/2.1.3.md) / [Hetuduka](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.3 Paccayānulomapaccanīya](../../2.1.3.md) / [Hetuduka](../Hetuduka.md)
 
 # Terasaka (savipāka)
 
@@ -15,6 +15,6 @@
 
 284\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā napacchājāte ekaṃ, naāsevane ekaṃ…pe… .
 
-[Go to previous page (Tevīsaka (sāsevana))](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka/evisaka_sasevana.md) / [Go to parent page (Hetuduka)](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka.md) / [Go to next page (Tevīsaka (savipāka))](/tipitaka/36P1/2/2.1/2.1.3/Hetuduka/evisaka_savipaka.md)
+[Go to previous page (Tevīsaka (sāsevana))](evisaka_sasevana.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Tevīsaka (savipāka))](evisaka_savipaka.md)
 
 

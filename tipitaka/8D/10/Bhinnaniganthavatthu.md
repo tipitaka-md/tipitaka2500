@@ -1,5 +1,5 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [10 Saṅgītisutta](/tipitaka/8D/10.md)
+[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [10 Saṅgītisutta](../10.md)
 
 # Bhinnanigaṇṭhavatthu
 
@@ -17,6 +17,6 @@
 
 781\. Katamo cāvuso, amhākaṃ bhagavatā dhammo svākkhāto suppavedito niyyāniko upasamasaṃvattaniko sammāsambuddhappavedito; yattha sabbeheva saṅgāyitabbaṃ, na vivaditabbaṃ, yathayidaṃ brahmacariyaṃ addhaniyaṃ assa ciraṭṭhitikaṃ, tadassa bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānaṃ?
 
-[Go to previous page (Ubbhatakanavasandhāgāra)](/tipitaka/8D/10/Ubbhatakanavasandhagara.md) / [Go to parent page (10 Saṅgītisutta)](/tipitaka/8D/10.md) / [Go to next page (10.1 Ekaka)](/tipitaka/8D/10/10.1.md)
+[Go to previous page (Ubbhatakanavasandhāgāra)](Ubbhatakanavasandhagara.md) / [Go to parent page (10 Saṅgītisutta)](../10.md) / [Go to next page (10.1 Ekaka)](10.1.md)
 
 

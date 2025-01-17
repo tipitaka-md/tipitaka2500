@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.1 Paṭiccavāra](/tipitaka/37P1/8/8.1.md) / [8.1.2 Paccayapaccanīya](/tipitaka/37P1/8/8.1/8.1.2.md) / [8.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.1 Paṭiccavāra](../../../8.1.md) / [8.1.2 Paccayapaccanīya](../../8.1.2.md) / [8.1.2.1 Vibhaṅgavāra](../8.1.2.1.md)
 
 # Nakamma
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (Naadhipati-naāsevana)](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Naadhipati-naasevana.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1.md) / [Go to next page (Navipāka)](/tipitaka/37P1/8/8.1/8.1.2/8.1.2.1/Navipaka.md)
+[Go to previous page (Naadhipati-naāsevana)](Naadhipati-naasevana.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

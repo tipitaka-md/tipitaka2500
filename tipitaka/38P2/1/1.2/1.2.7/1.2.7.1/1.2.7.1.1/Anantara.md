@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.2 Sahetukaduka](/tipitaka/38P2/1/1.2.md) / [1.2.7 Pañhāvāra](/tipitaka/38P2/1/1.2/1.2.7.md) / [1.2.7.1 Paccayānuloma](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.7 Pañhāvāra](../../../1.2.7.md) / [1.2.7.1 Paccayānuloma](../../1.2.7.1.md) / [1.2.7.1.1 Vibhaṅgavāra](../1.2.7.1.1.md)
 
 # Anantara
 
@@ -39,6 +39,6 @@
 
 284\. Sahetuko ca ahetuko ca dhammā sahetukassa ca ahetukassa ca dhammassa anantarapaccayena paccayo—  purimā purimā vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca pacchimānaṃ pacchimānaṃ vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Adhipati.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1.md) / [Go to next page (Sahajātādi)](/tipitaka/38P2/1/1.2/1.2.7/1.2.7.1/1.2.7.1.1/Sahajatadi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Sahajātādi)](Sahajatadi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [7 Pītittika](/tipitaka/40P13/7.md) / [7.1--7 Paṭiccādivāra](/tipitaka/40P13/7/7.1--7.md) / [Paccayānuloma](/tipitaka/40P13/7/7.1--7/Paccayanuloma.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [7 Pītittika](../../../7.md) / [7.1--7 Paṭiccādivāra](../../7.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu
 
@@ -25,6 +25,6 @@
 
 83\. (Sahajātavārampi…pe…  sampayuttavārampi pañhāvārampi sabbattha vitthāretabbaṃ.)
 
-[Go to previous page (Paccayānuloma)](/tipitaka/40P13/7/7.1--7/Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](/tipitaka/40P13/7/7.1--7/Paccayanuloma.md) / [Go to next page (8 Dassanattika)](/tipitaka/40P13/8.md)
+[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (8 Dassanattika)](../../../8.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [14 Saraṇaduka, Tika](/tipitaka/39P3/14.md) / [14.2 Saraṇaduka, Vedanāttika](/tipitaka/39P3/14/14.2.md) / [14.2.1--7 Paṭiccādivāra](/tipitaka/39P3/14/14.2/14.2.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [14 Saraṇaduka, Tika](../../../14.md) / [14.2 Saraṇaduka, Vedanāttika](../../14.2.md) / [14.2.1--7 Paṭiccādivāra](../14.2.1--7.md)
 
 # Paccayacatukka
 
@@ -51,6 +51,6 @@
 
 
 
-[Go to previous page (14.2.1--7 Paṭiccādivāra)](/tipitaka/39P3/14/14.2/14.2.1--7.md) / [Go to parent page (14.2.1--7 Paṭiccādivāra)](/tipitaka/39P3/14/14.2/14.2.1--7.md) / [Go to next page (14.3 Saraṇaduka, Vipākattika)](/tipitaka/39P3/14/14.3.md)
+[Go to previous page (14.2.1--7 Paṭiccādivāra)](../14.2.1--7.md) / [Go to parent page (14.2.1--7 Paṭiccādivāra)](../14.2.1--7.md) / [Go to next page (14.3 Saraṇaduka, Vipākattika)](../../14.3.md)
 
 

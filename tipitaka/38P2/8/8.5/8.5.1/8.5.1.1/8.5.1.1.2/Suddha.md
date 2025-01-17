@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.5.md) / [8.5.1 Paṭiccavāra](/tipitaka/38P2/8/8.5/8.5.1.md) / [8.5.1.1 Paccayānuloma](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1.md) / [8.5.1.1.2 Saṅkhyāvāra](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](../../../../8.5.md) / [8.5.1 Paṭiccavāra](../../../8.5.1.md) / [8.5.1.1 Paccayānuloma](../../8.5.1.1.md) / [8.5.1.1.2 Saṅkhyāvāra](../8.5.1.1.2.md)
 
 # Suddha
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (8.5.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.2.md) / [Go to parent page (8.5.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.1/8.5.1.1.2.md) / [Go to next page (8.5.1.2 Paccayapaccanīya)](/tipitaka/38P2/8/8.5/8.5.1/8.5.1.2.md)
+[Go to previous page (8.5.1.1.2 Saṅkhyāvāra)](../8.5.1.1.2.md) / [Go to parent page (8.5.1.1.2 Saṅkhyāvāra)](../8.5.1.1.2.md) / [Go to next page (8.5.1.2 Paccayapaccanīya)](../../8.5.1.2.md)
 
 

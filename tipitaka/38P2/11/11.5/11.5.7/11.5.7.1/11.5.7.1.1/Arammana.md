@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.5 Upādānaupādānasampayuttaduka](/tipitaka/38P2/11/11.5.md) / [11.5.7 Pañhāvāra](/tipitaka/38P2/11/11.5/11.5.7.md) / [11.5.7.1 Paccayānuloma](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1.md) / [11.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.5 Upādānaupādānasampayuttaduka](../../../../11.5.md) / [11.5.7 Pañhāvāra](../../../11.5.7.md) / [11.5.7.1 Paccayānuloma](../../11.5.7.1.md) / [11.5.7.1.1 Vibhaṅgavāra](../11.5.7.1.1.md)
 
 # Ārammaṇa
 
@@ -21,6 +21,6 @@
 
 3785\. Upādānasampayutto ceva no ca upādāno dhammo upādānasampayuttassa ceva no ca upādānassa dhammassa ārammaṇapaccayena paccayo—  upādānasampayutte ceva no ca upādāne khandhe ārabbha upādānasampayuttā ceva no ca upādānā khandhā uppajjanti. (Tīṇipi kātabbā, ghaṭane tīṇipi kātabbā.)
 
-[Go to previous page (Hetu)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1/Hetu.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](../11.5.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

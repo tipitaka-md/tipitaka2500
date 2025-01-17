@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Adhipati](/tipitaka/36P1/2/2.7/2.7.3/Adhipati.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Adhipati](../Adhipati.md)
 
 # Cittādhipatighaṭanā
 
@@ -27,6 +27,6 @@
 
 1321\. Adhipati sahajāta nissaya vipāka āhāra indriya vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  3]
 
-[Go to previous page (Sahajāta-chandādhipatighaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Adhipati/Sahajata-chandadhipatighatana.md) / [Go to parent page (Adhipati)](/tipitaka/36P1/2/2.7/2.7.3/Adhipati.md) / [Go to next page (Vīriyādhipatighaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Adhipati/Viriyadhipatighatana.md)
+[Go to previous page (Sahajāta-chandādhipatighaṭanā)](Sahajata-chandadhipatighatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Vīriyādhipatighaṭanā)](Viriyadhipatighatana.md)
 
 

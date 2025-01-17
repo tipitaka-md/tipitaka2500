@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.6 Kusalattika, Pītittika](/tipitaka/39P5/1/1.6.md) / [1.6.1--7 Paṭiccādivāra](/tipitaka/39P5/1/1.6/1.6.1--7.md) / [Paccayacatukka](/tipitaka/39P5/1/1.6/1.6.1--7/Paccayacatukka.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../../39P5.md) / [1 Kusalattika, Tika](../../../../1.md) / [1.6 Kusalattika, Pītittika](../../../1.6.md) / [1.6.1--7 Paṭiccādivāra](../../1.6.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -61,6 +61,6 @@
 
 116\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P5/1/1.6/1.6.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P5/1/1.6/1.6.1--7/Paccayacatukka.md) / [Go to next page (1.7 Kusalattika, Dassanattika)](/tipitaka/39P5/1/1.7.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7 Kusalattika, Dassanattika)](../../../1.7.md)
 
 

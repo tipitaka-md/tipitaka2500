@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.5 Rūpīduka, Kusalattika](/tipitaka/39P3/3/3.5.md) / [3.5.1 Kusalākusalapada](/tipitaka/39P3/3/3.5/3.5.1.md) / [3.5.1.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.5/3.5.1/3.5.1.1--7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.5/3.5.1/3.5.1.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.5 Rūpīduka, Kusalattika](../../../../3.5.md) / [3.5.1 Kusalākusalapada](../../../3.5.1.md) / [3.5.1.1--7 Paṭiccādivāra](../../3.5.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -31,6 +31,6 @@
 
 1537\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.5/3.5.1/3.5.1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.5/3.5.1/3.5.1.1--7/Paccayacatukka.md) / [Go to next page (3.5.2 Abyākatapada)](/tipitaka/39P3/3/3.5/3.5.2.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.5.2 Abyākatapada)](../../../3.5.2.md)
 
 

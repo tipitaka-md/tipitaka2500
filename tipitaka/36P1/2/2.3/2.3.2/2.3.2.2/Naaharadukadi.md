@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.2 Paccayapaccanīya](/tipitaka/36P1/2/2.3/2.3.2.md) / [2.3.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.2 Paccayapaccanīya](../../2.3.2.md) / [2.3.2.2 Saṅkhyāvāra](../2.3.2.2.md)
 
 # Naāhāradukādi
 
@@ -25,6 +25,6 @@
 
 569\. Nasampayuttapaccayā. (Naārammaṇapaccayasadisaṃ.)
 
-[Go to previous page (Catukka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Navipakaduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2.md) / [Go to next page (Navippayuttaduka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Navippayuttaduka.md)
+[Go to previous page (Catukka)](Navipakaduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Navippayuttaduka)](Navippayuttaduka.md)
 
 

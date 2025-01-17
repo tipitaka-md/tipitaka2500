@@ -1,5 +1,5 @@
 
-[Home](/) / [40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P20.md) / [9 Saraṇaduka](/tipitaka/40P20/9.md) / [9.1--7 Paṭiccādivāra](/tipitaka/40P20/9/9.1--7.md)
+[Home](/) / [40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)](../../../40P20.md) / [9 Saraṇaduka](../../9.md) / [9.1--7 Paṭiccādivāra](../9.1--7.md)
 
 # Paccanīyuddhāra
 
@@ -17,6 +17,6 @@
 
 167\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (Hetu-ārammaṇa)](/tipitaka/40P20/9/9.1--7/Paccaniya/Hetu-arammana.md) / [Go to parent page (9.1--7 Paṭiccādivāra)](/tipitaka/40P20/9/9.1--7.md)
+[Go to previous page (Hetu-ārammaṇa)](Paccaniya/Hetu-arammana.md) / [Go to parent page (9.1--7 Paṭiccādivāra)](../9.1--7.md)
 
 

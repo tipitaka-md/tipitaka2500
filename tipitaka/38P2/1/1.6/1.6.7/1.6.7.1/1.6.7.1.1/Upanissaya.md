@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.1 Paccayānuloma](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.6 Nahetusahetukaduka](../../../../1.6.md) / [1.6.7 Pañhāvāra](../../../1.6.7.md) / [1.6.7.1 Paccayānuloma](../../1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](../1.6.7.1.1.md)
 
 # Upanissaya
 
@@ -27,6 +27,6 @@
 
 499\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  kāyikaṃ sukhaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; kāyikaṃ dukkhaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; kāyikaṃ sukhaṃ …pe…  senāsanaṃ saddhāya…pe…  patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Samanantarādi)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Samanantaradi.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page (Purejāta)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Purejata.md)
+[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

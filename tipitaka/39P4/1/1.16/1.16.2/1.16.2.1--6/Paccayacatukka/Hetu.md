@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.16 Maggārammaṇattika, Hetuduka](/tipitaka/39P4/1/1.16.md) / [1.16.2 Nahetupada](/tipitaka/39P4/1/1.16/1.16.2.md) / [1.16.2.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.1--6.md) / [Paccayacatukka](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.1--6/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.16 Maggārammaṇattika, Hetuduka](../../../../1.16.md) / [1.16.2 Nahetupada](../../../1.16.2.md) / [1.16.2.1--6 Paṭiccādivāra](../../1.16.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -31,6 +31,6 @@
 
 752\. Hetuyā sattarasa, ārammaṇe sattarasa…pe…  avigate sattarasa. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.1--6/Paccayacatukka.md) / [Go to next page (Paccanīya)](/tipitaka/39P4/1/1.16/1.16.2/1.16.2.1--6/Paccaniya.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

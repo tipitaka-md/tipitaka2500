@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [12 Sekkhattika](/tipitaka/37P1/12.md) / [12.7 Pañhāvāra](/tipitaka/37P1/12/12.7.md) / [12.7.1 Paccayānuloma](/tipitaka/37P1/12/12.7/12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.7 Pañhāvāra](../../../12.7.md) / [12.7.1 Paccayānuloma](../../12.7.1.md) / [12.7.1.1 Vibhaṅgavāra](../12.7.1.1.md)
 
 # Adhipati
 
@@ -37,6 +37,6 @@
 
 1789\. Nevasekkhanāsekkho dhammo asekkhassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ asekkhassa phalassa adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Arammana.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1.md) / [Go to next page (Anantara)](/tipitaka/37P1/12/12.7/12.7.1/12.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (12.7.1.1 Vibhaṅgavāra)](../12.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

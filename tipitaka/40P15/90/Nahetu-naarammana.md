@@ -1,5 +1,5 @@
 
-[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P15.md) / [90 Saraṇaduka, Sanidassanattika](/tipitaka/40P15/90.md)
+[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](../../40P15.md) / [90 Saraṇaduka, Sanidassanattika](../90.md)
 
 # Nahetu-naārammaṇa
 
@@ -25,6 +25,6 @@
 
 288\. Hetuyā dve, adhipatiyā dve, sahajāte nissaye tīṇi, pacchājāte kamme dve, vipāke ekaṃ, āhāre indriye jhāne magge vippayutte dve…pe…  avigate tīṇi.
 
-[Go to previous page (90 Saraṇaduka, Sanidassanattika)](/tipitaka/40P15/90.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](/tipitaka/40P15/90.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/40P15/90/Paccaniyuddhara.md)
+[Go to previous page (90 Saraṇaduka, Sanidassanattika)](../90.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](../90.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
 
 

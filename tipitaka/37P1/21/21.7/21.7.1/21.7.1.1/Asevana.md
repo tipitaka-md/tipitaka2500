@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.7 Pañhāvāra](/tipitaka/37P1/21/21.7.md) / [21.7.1 Paccayānuloma](/tipitaka/37P1/21/21.7/21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.7 Pañhāvāra](../../../21.7.md) / [21.7.1 Paccayānuloma](../../21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](../21.7.1.1.md)
 
 # Āsevana
 
@@ -19,6 +19,6 @@
 
 2837\. Bahiddhā dhammo bahiddhā dhammassa āsevanapaccayena paccayo—  purimā purimā…pe… . (Ajjhattasadisaṃyeva.)
 
-[Go to previous page (Pacchājāta)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Pacchajata.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Kamma.md)
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

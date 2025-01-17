@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [11 Upādānagocchaka](/tipitaka/38P2/11.md) / [11.5 Upādānaupādānasampayuttaduka](/tipitaka/38P2/11/11.5.md) / [11.5.7 Pañhāvāra](/tipitaka/38P2/11/11.5/11.5.7.md) / [11.5.7.1 Paccayānuloma](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1.md) / [11.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.5 Upādānaupādānasampayuttaduka](../../../../11.5.md) / [11.5.7 Pañhāvāra](../../../11.5.7.md) / [11.5.7.1 Paccayānuloma](../../11.5.7.1.md) / [11.5.7.1.1 Vibhaṅgavāra](../11.5.7.1.1.md)
 
 # Hetu
 
@@ -27,6 +27,6 @@
 
 3783\. Upādāno ceva upādānasampayutto ca upādānasampayutto ceva no ca upādāno ca dhammā upādānassa ceva upādānasampayuttassa ca dhammassa hetupaccayena paccayo—  upādānā ceva upādānasampayuttā ca upādānasampayuttā ceva no ca upādānā ca hetū sampayuttakānaṃ upādānānaṃ hetupaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Upādānā ceva upādānasampayuttā ca upādānasampayuttā ceva no ca upādānā ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Upādānā ceva upādānasampayuttā ca upādānasampayuttā ceva no ca upādānā ca hetū sampayuttakānaṃ khandhānaṃ upādānānañca hetupaccayena paccayo. (3)
 
-[Go to previous page (11.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/11/11.5/11.5.7/11.5.7.1/11.5.7.1.1/Arammana.md)
+[Go to previous page (11.5.7.1.1 Vibhaṅgavāra)](../11.5.7.1.1.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](../11.5.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

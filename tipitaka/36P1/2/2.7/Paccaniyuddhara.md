@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../36P1.md) / [2 Kusalattika](../../2.md) / [2.7 Pañhāvāra](../2.7.md)
 
 # Paccanīyuddhāra
 
@@ -55,6 +55,6 @@
 
 
 
-[Go to previous page (Sahajātaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Avigata/Sahajataghatana.md) / [Go to parent page (2.7 Pañhāvāra)](/tipitaka/36P1/2/2.7.md) / [Go to next page (2.7.2 Paccayapaccanīya)](/tipitaka/36P1/2/2.7/2.7.2.md)
+[Go to previous page (Sahajātaghaṭanā)](2.7.1/2.7.1.2/Avigata/Sahajataghatana.md) / [Go to parent page (2.7 Pañhāvāra)](../2.7.md) / [Go to next page (2.7.2 Paccayapaccanīya)](2.7.2.md)
 
 

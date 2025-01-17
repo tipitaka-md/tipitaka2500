@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.1 Kilesaduka](/tipitaka/38P2/12/12.1.md) / [12.1.1 Paṭiccavāra](/tipitaka/38P2/12/12.1/12.1.1.md) / [12.1.1.2 Paccayapaccanīya](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2.md) / [12.1.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.1 Paṭiccavāra](../../../12.1.1.md) / [12.1.1.2 Paccayapaccanīya](../../12.1.1.2.md) / [12.1.1.2.1 Vibhaṅgavāra](../12.1.1.2.1.md)
 
 # Nakamma
 
@@ -23,6 +23,6 @@
 
 3831\. Kilesañca nokilesañca dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  kilese ca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1) (Evaṃ sabbe paccayā kātabbā.)
 
-[Go to previous page (Napurejātādi)](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1/Napurejatadi.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.1.md) / [Go to next page (12.1.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.1/12.1.1.2/12.1.1.2.2.md)
+[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to next page (12.1.1.2.2 Saṅkhyāvāra)](../12.1.1.2.2.md)
 
 

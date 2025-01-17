@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.7 Pañhāvāra](/tipitaka/38P2/13/13.5/13.5.7.md) / [13.5.7.1 Paccayānuloma](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.5 Savitakkaduka](../../../../13.5.md) / [13.5.7 Pañhāvāra](../../../13.5.7.md) / [13.5.7.1 Paccayānuloma](../../13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](../13.5.7.1.1.md)
 
 # Ārammaṇa
 
@@ -31,6 +31,6 @@
 
 4330\. Savitakko ca avitakko ca dhammā savitakkassa dhammassa ārammaṇapaccayena paccayo—  savitakke khandhe ca vitakkañca ārabbha savitakkā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca ārabbha avitakkā khandhā ca vitakko ca uppajjanti. (Mūlaṃ kātabbaṃ.) Savitakke khandhe ca vitakkañca ārabbha savitakkā khandhā ca vitakko ca uppajjanti. (3)
 
-[Go to previous page (Hetu)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Hetu.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](../13.5.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

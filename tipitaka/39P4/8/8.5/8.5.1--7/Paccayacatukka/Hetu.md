@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.5 Saṃkiliṭṭhattika, Saraṇaduka](/tipitaka/39P4/8/8.5.md) / [8.5.1--7 Paṭiccādivāra](/tipitaka/39P4/8/8.5/8.5.1--7.md) / [Paccayacatukka](/tipitaka/39P4/8/8.5/8.5.1--7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../../8.md) / [8.5 Saṃkiliṭṭhattika, Saraṇaduka](../../../8.5.md) / [8.5.1--7 Paṭiccādivāra](../../8.5.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -45,6 +45,6 @@
 
 1765\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P4/8/8.5/8.5.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/8/8.5/8.5.1--7/Paccayacatukka.md) / [Go to next page (8.6 Vitakkattika, Saraṇaduka)](/tipitaka/39P4/8/8.6.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.6 Vitakkattika, Saraṇaduka)](../../../8.6.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.1 Paṭiccavāra](/tipitaka/37P1/7/7.1.md) / [7.1.1 Paccayānuloma](/tipitaka/37P1/7/7.1/7.1.1.md) / [7.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.1 Paccayānuloma](../../7.1.1.md) / [7.1.1.1 Vibhaṅgavāra](../7.1.1.1.md)
 
 # Vippayutta
 
@@ -101,6 +101,6 @@
 
 97\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti vippayuttapaccayā—  paṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. Khandhā vatthuṃ vippayuttapaccayā. Kaṭattārūpaṃ khandhe ca vitakkañca vippayuttapaccayā. (3)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Arammana.md) / [Go to parent page (7.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1.md) / [Go to next page (Atthi-avigata)](/tipitaka/37P1/7/7.1/7.1.1/7.1.1.1/Atthi-avigata.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (7.1.1.1 Vibhaṅgavāra)](../7.1.1.1.md) / [Go to next page (Atthi-avigata)](Atthi-avigata.md)
 
 

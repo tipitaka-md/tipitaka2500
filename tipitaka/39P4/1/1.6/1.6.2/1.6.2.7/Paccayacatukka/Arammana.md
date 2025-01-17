@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.6 Vitakkattika, Hetuduka](/tipitaka/39P4/1/1.6.md) / [1.6.2 Nahetupada](/tipitaka/39P4/1/1.6/1.6.2.md) / [1.6.2.7 Pañhāvāra](/tipitaka/39P4/1/1.6/1.6.2/1.6.2.7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.6/1.6.2/1.6.2.7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.6 Vitakkattika, Hetuduka](../../../../1.6.md) / [1.6.2 Nahetupada](../../../1.6.2.md) / [1.6.2.7 Pañhāvāra](../../1.6.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Ārammaṇa
 
@@ -35,6 +35,6 @@
 
 331\. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā avitakkavicāramattassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā avitakkaavicārassa nahetussa dhammassa ārammaṇapaccayena paccayo. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa ca avitakkavicāramattassa nahetussa ca dhammassa ārammaṇapaccayena paccayo…  cattāri.
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P4/1/1.6/1.6.2/1.6.2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.6/1.6.2/1.6.2.7/Paccayacatukka.md) / [Go to next page (Adhipati)](/tipitaka/39P4/1/1.6/1.6.2/1.6.2.7/Paccayacatukka/Adhipati.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

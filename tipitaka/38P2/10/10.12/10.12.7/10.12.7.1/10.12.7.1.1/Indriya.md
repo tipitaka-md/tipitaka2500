@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.12 Ajjhattikaduka](/tipitaka/38P2/10/10.12.md) / [10.12.7 Pañhāvāra](/tipitaka/38P2/10/10.12/10.12.7.md) / [10.12.7.1 Paccayānuloma](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1.md) / [10.12.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.12 Ajjhattikaduka](../../../../10.12.md) / [10.12.7 Pañhāvāra](../../../10.12.7.md) / [10.12.7.1 Paccayānuloma](../../10.12.7.1.md) / [10.12.7.1.1 Vibhaṅgavāra](../10.12.7.1.1.md)
 
 # Indriya
 
@@ -39,6 +39,6 @@
 
 3201\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa indriyapaccayena paccayo—  paṭisandhikkhaṇe ajjhattikā ca bāhirā ca indriyā sampayuttakānaṃ khandhānaṃ ajjhattikānañca bāhirānañca kaṭattārūpānaṃ indriyapaccayena paccayo, cakkhundriyañca upekkhindriyañca cakkhuviññāṇassa sampayuttakānañca khandhānaṃ indriyapaccayena paccayo…  kāyindriyañca…pe… . (3)
 
-[Go to previous page (Āhāra)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Ahara.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md) / [Go to next page (Jhānādi)](/tipitaka/38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1/Jhanadi.md)
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
 
 

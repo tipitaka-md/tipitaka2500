@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.7 Kusalattika, Sappītikaduka](/tipitaka/39P4/7/7.7.md) / [7.7.1 Sappītikapada](/tipitaka/39P4/7/7.7/7.7.1.md) / [7.7.1.1--7 Paṭiccādivāra](/tipitaka/39P4/7/7.7/7.7.1/7.7.1.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../../7.md) / [7.7 Kusalattika, Sappītikaduka](../../../7.7.md) / [7.7.1 Sappītikapada](../../7.7.1.md) / [7.7.1.1--7 Paṭiccādivāra](../7.7.1.1--7.md)
 
 # Paccayacatukka
 
@@ -39,6 +39,6 @@
 
 1587\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā…pe…  samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
 
-[Go to previous page (7.7.1.1--7 Paṭiccādivāra)](/tipitaka/39P4/7/7.7/7.7.1/7.7.1.1--7.md) / [Go to parent page (7.7.1.1--7 Paṭiccādivāra)](/tipitaka/39P4/7/7.7/7.7.1/7.7.1.1--7.md) / [Go to next page (7.7.2 Appītikapada)](/tipitaka/39P4/7/7.7/7.7.2.md)
+[Go to previous page (7.7.1.1--7 Paṭiccādivāra)](../7.7.1.1--7.md) / [Go to parent page (7.7.1.1--7 Paṭiccādivāra)](../7.7.1.1--7.md) / [Go to next page (7.7.2 Appītikapada)](../../7.7.2.md)
 
 

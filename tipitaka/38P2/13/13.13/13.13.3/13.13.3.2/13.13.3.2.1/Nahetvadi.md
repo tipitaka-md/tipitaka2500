@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.13 Arūpāvacaraduka](/tipitaka/38P2/13/13.13.md) / [13.13.3 Paccayavāra](/tipitaka/38P2/13/13.13/13.13.3.md) / [13.13.3.2 Paccayapaccanīya](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2.md) / [13.13.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.13 Arūpāvacaraduka](../../../../13.13.md) / [13.13.3 Paccayavāra](../../../13.13.3.md) / [13.13.3.2 Paccayapaccanīya](../../13.13.3.2.md) / [13.13.3.2.1 Vibhaṅgavāra](../13.13.3.2.1.md)
 
 # Nahetvādi
 
@@ -23,6 +23,6 @@
 
 4671\. Naarūpāvacaraṃ dhammaṃ paccayā naarūpāvacaro dhammo uppajjati naadhipatipaccayā—  naarūpāvacaraṃ ekaṃ khandhaṃ…pe…  paṭisandhikkhaṇe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā naarūpāvacarā khandhā. (1)
 
-[Go to previous page (13.13.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1.md) / [Go to parent page (13.13.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.1.md) / [Go to next page (13.13.3.2.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.13/13.13.3/13.13.3.2/13.13.3.2.2.md)
+[Go to previous page (13.13.3.2.1 Vibhaṅgavāra)](../13.13.3.2.1.md) / [Go to parent page (13.13.3.2.1 Vibhaṅgavāra)](../13.13.3.2.1.md) / [Go to next page (13.13.3.2.2 Saṅkhyāvāra)](../13.13.3.2.2.md)
 
 

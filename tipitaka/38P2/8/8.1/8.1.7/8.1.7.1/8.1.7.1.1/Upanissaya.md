@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.1 Nīvaraṇaduka](/tipitaka/38P2/8/8.1.md) / [8.1.7 Pañhāvāra](/tipitaka/38P2/8/8.1/8.1.7.md) / [8.1.7.1 Paccayānuloma](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.1 Nīvaraṇaduka](../../../../8.1.md) / [8.1.7 Pañhāvāra](../../../8.1.7.md) / [8.1.7.1 Paccayānuloma](../../8.1.7.1.md) / [8.1.7.1.1 Vibhaṅgavāra](../8.1.7.1.1.md)
 
 # Upanissaya
 
@@ -29,6 +29,6 @@
 
 1961\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  nīvaraṇā ca sampayuttakā ca khandhā nīvaraṇānaṃ upanissayapaccayena paccayo…  tīṇi.
 
-[Go to previous page (Samanantarādi)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Samanantaradi.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1.md) / [Go to next page (Purejāta)](/tipitaka/38P2/8/8.1/8.1.7/8.1.7.1/8.1.7.1.1/Purejata.md)
+[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

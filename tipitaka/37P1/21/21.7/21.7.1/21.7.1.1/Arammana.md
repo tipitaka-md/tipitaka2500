@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.7 Pañhāvāra](/tipitaka/37P1/21/21.7.md) / [21.7.1 Paccayānuloma](/tipitaka/37P1/21/21.7/21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.7 Pañhāvāra](../../../21.7.md) / [21.7.1 Paccayānuloma](../../21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](../21.7.1.1.md)
 
 # Ārammaṇa
 
@@ -25,6 +25,6 @@
 
 2816\. Bahiddhā dhammo ajjhattassa dhammassa ārammaṇapaccayena paccayo—  ariyā nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo. Bahiddhā cakkhuṃ…pe…  vatthuṃ…  bahiddhā khandhe aniccato…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Cetopariyañāṇena bahiddhā cittasamaṅgissa cittaṃ jānāti. Bahiddhā rūpāyatanaṃ ajjhattaṃ cakkhuviññāṇassa…pe…  bahiddhā phoṭṭhabbāyatanaṃ ajjhattaṃ kāyaviññāṇassa…pe…  bahiddhā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
-[Go to previous page (Hetu)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Hetu.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

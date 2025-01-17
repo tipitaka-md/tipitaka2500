@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.14 Upādinnaduka](/tipitaka/38P2/10/10.14.md) / [10.14.7 Pañhāvāra](/tipitaka/38P2/10/10.14/10.14.7.md) / [10.14.7.1 Paccayānuloma](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1.md) / [10.14.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.14 Upādinnaduka](../../../../10.14.md) / [10.14.7 Pañhāvāra](../../../10.14.7.md) / [10.14.7.1 Paccayānuloma](../../10.14.7.1.md) / [10.14.7.1.1 Vibhaṅgavāra](../10.14.7.1.1.md)
 
 # Vippayutta
 
@@ -31,6 +31,6 @@
 
 3501\. Anupādinno dhammo upādinnassa ca anupādinnassa ca dhammassa vippayuttapaccayena paccayo. **Pacchājātā**—  anupādinnā khandhā purejātassa imassa upādinnassa ca anupādinnassa ca kāyassa vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Indriyādi)](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Indriyadi.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md) / [Go to next page (Atthyādi)](/tipitaka/38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1/Atthyadi.md)
+[Go to previous page (Indriyādi)](Indriyadi.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](../10.14.7.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

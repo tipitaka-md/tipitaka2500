@@ -1,5 +1,5 @@
 
-[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P8.md) / [1 Hetuduka](/tipitaka/40P8/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P8/1/1.1--7.md) / [Paccayacatukka](/tipitaka/40P8/1/1.1--7/Paccayacatukka.md)
+[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](../../../../40P8.md) / [1 Hetuduka](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -25,6 +25,6 @@
 
 11\. Hetuyā tīṇi, ārammaṇe nava…pe…  purejāte pacchājāte tīṇi…pe…  kamme tīṇi…pe…  jhāne tīṇi…pe…  vippayutte pañca…pe…  avigate nava. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (Hetu)](/tipitaka/40P8/1/1.1--7/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/40P8/1/1.1--7/Paccayacatukka.md) / [Go to next page (2 Sahetukaduka)](/tipitaka/40P8/2.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2 Sahetukaduka)](../../../2.md)
 
 

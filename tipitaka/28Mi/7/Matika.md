@@ -1,5 +1,5 @@
 
-[Home](/) / [28Mi Milindapañhapāḷi](/tipitaka/28Mi.md) / [7 Opammakathāpañha](/tipitaka/28Mi/7.md)
+[Home](/) / [28Mi Milindapañhapāḷi](../../28Mi.md) / [7 Opammakathāpañha](../7.md)
 
 # Mātikā
 
@@ -271,6 +271,6 @@
 
 
 
-[Go to previous page (7 Opammakathāpañha)](/tipitaka/28Mi/7.md) / [Go to parent page (7 Opammakathāpañha)](/tipitaka/28Mi/7.md) / [Go to next page (7.1 Gadrabhavagga)](/tipitaka/28Mi/7/7.1.md)
+[Go to previous page (7 Opammakathāpañha)](../7.md) / [Go to parent page (7 Opammakathāpañha)](../7.md) / [Go to next page (7.1 Gadrabhavagga)](7.1.md)
 
 

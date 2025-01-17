@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.6 Vitakkattika, Hetuduka](/tipitaka/39P4/1/1.6.md) / [1.6.1 Hetupada](/tipitaka/39P4/1/1.6/1.6.1.md) / [1.6.1.1--6 Paṭiccādivāra](/tipitaka/39P4/1/1.6/1.6.1/1.6.1.1--6.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../1.md) / [1.6 Vitakkattika, Hetuduka](../../../1.6.md) / [1.6.1 Hetupada](../../1.6.1.md) / [1.6.1.1--6 Paṭiccādivāra](../1.6.1.1--6.md)
 
 # Paccayacatukka
 
@@ -29,6 +29,6 @@
 
 259\. (Yathā sahajātavārampi…  sampayuttavārampi evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (1.6.1.1--6 Paṭiccādivāra)](/tipitaka/39P4/1/1.6/1.6.1/1.6.1.1--6.md) / [Go to parent page (1.6.1.1--6 Paṭiccādivāra)](/tipitaka/39P4/1/1.6/1.6.1/1.6.1.1--6.md) / [Go to next page (1.6.1.7 Pañhāvāra)](/tipitaka/39P4/1/1.6/1.6.1/1.6.1.7.md)
+[Go to previous page (1.6.1.1--6 Paṭiccādivāra)](../1.6.1.1--6.md) / [Go to parent page (1.6.1.1--6 Paṭiccādivāra)](../1.6.1.1--6.md) / [Go to next page (1.6.1.7 Pañhāvāra)](../1.6.1.7.md)
 
 

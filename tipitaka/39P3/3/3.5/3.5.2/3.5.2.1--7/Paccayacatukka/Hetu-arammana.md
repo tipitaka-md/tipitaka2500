@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [3 Cūḷantaraduka, Kusalattika](/tipitaka/39P3/3.md) / [3.5 Rūpīduka, Kusalattika](/tipitaka/39P3/3/3.5.md) / [3.5.2 Abyākatapada](/tipitaka/39P3/3/3.5/3.5.2.md) / [3.5.2.1--7 Paṭiccādivāra](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7.md) / [Paccayacatukka](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka%281%29.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.5 Rūpīduka, Kusalattika](../../../../3.5.md) / [3.5.2 Abyākatapada](../../../3.5.2.md) / [3.5.2.1--7 Paṭiccādivāra](../../3.5.2.1--7.md) / [Paccayacatukka](../Paccayacatukka%281%29.md)
 
 # Hetu-ārammaṇa
 
@@ -33,6 +33,6 @@
 
 1543\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte nava…pe…  nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ, paccanīyaṃ.)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/accayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/accayacatukka.md) / [Go to next page (Paccayacatukka)](/tipitaka/39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka.md)
+[Go to previous page (Paccayacatukka)](../accayacatukka.md) / [Go to parent page (Paccayacatukka)](../accayacatukka.md) / [Go to next page (Paccayacatukka)](../Paccayacatukka.md)
 
 

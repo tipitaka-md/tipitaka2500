@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.7 Pañhāvāra](/tipitaka/36P1/5/5.7.md) / [5.7.1 Paccayānuloma](/tipitaka/36P1/5/5.7/5.7.1.md) / [5.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.7 Pañhāvāra](../../../5.7.md) / [5.7.1 Paccayānuloma](../../5.7.1.md) / [5.7.1.2 Saṅkhyāvāra](../5.7.1.2.md)
 
 # Sabhāga
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (Suddha)](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.2/Suddha.md) / [Go to parent page (5.7.1.2 Saṅkhyāvāra)](/tipitaka/36P1/5/5.7/5.7.1/5.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/36P1/5/5.7/Paccaniyuddhara.md)
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (5.7.1.2 Saṅkhyāvāra)](../5.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

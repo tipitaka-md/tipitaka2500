@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [13 Piṭṭhiduka, Kusalattika](/tipitaka/39P3/13.md) / [13.14 Niyyānikaduka, Kusalattika](/tipitaka/39P3/13/13.14.md) / [13.14.1--7 Paṭiccādivāra](/tipitaka/39P3/13/13.14/13.14.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.14 Niyyānikaduka, Kusalattika](../../13.14.md) / [13.14.1--7 Paṭiccādivāra](../13.14.1--7.md)
 
 # Paccayacatukka
 
@@ -37,6 +37,6 @@
 
 2574\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (13.14.1--7 Paṭiccādivāra)](/tipitaka/39P3/13/13.14/13.14.1--7.md) / [Go to parent page (13.14.1--7 Paṭiccādivāra)](/tipitaka/39P3/13/13.14/13.14.1--7.md) / [Go to next page (13.15 Niyataduka, Kusalattika)](/tipitaka/39P3/13/13.15.md)
+[Go to previous page (13.14.1--7 Paṭiccādivāra)](../13.14.1--7.md) / [Go to parent page (13.14.1--7 Paṭiccādivāra)](../13.14.1--7.md) / [Go to next page (13.15 Niyataduka, Kusalattika)](../../13.15.md)
 
 

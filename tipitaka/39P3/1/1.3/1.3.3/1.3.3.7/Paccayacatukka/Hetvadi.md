@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.3 Hetuduka, Vipākattika](/tipitaka/39P3/1/1.3.md) / [1.3.3 Nevavipākanavipākadhammapada](/tipitaka/39P3/1/1.3/1.3.3.md) / [1.3.3.7 Pañhāvāra](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7.md) / [Paccayacatukka](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.3 Hetuduka, Vipākattika](../../../../1.3.md) / [1.3.3 Nevavipākanavipākadhammapada](../../../1.3.3.md) / [1.3.3.7 Pañhāvāra](../../1.3.3.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetvādi
 
@@ -25,6 +25,6 @@
 
 255\. Nahetu nevavipākanavipākadhammadhammo nahetussa nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  tīṇi…pe… .
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka.md) / [Go to next page (Purejātādi)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka/Purejatadi.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 

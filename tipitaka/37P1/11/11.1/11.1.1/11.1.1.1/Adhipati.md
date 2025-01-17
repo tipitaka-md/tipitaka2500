@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [11 Ācayagāmittika](/tipitaka/37P1/11.md) / [11.1 Paṭiccavāra](/tipitaka/37P1/11/11.1.md) / [11.1.1 Paccayānuloma](/tipitaka/37P1/11/11.1/11.1.1.md) / [11.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/11/11.1/11.1.1/11.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.1 Paṭiccavāra](../../../11.1.md) / [11.1.1 Paccayānuloma](../../11.1.1.md) / [11.1.1.1 Vibhaṅgavāra](../11.1.1.1.md)
 
 # Adhipati
 
@@ -25,6 +25,6 @@
 
 1439\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati adhipatipaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/37P1/11/11.1/11.1.1/11.1.1.1/Arammana.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/11/11.1/11.1.1/11.1.1.1.md) / [Go to next page (Anantarādi)](/tipitaka/37P1/11/11.1/11.1.1/11.1.1.1/Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

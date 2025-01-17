@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.1 Paccayānuloma](../../2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](../2.1.1.1.md)
 
 # Aññamañña
 
@@ -21,6 +21,6 @@
 
 140\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati aññamaññapaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā vatthu ca, tayo khandhe paṭicca eko khandho vatthu ca, dve khandhe paṭicca dve khandhā vatthu ca; khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā. (1)
 
-[Go to previous page (Sahajāta)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Sahajata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page (Nissaya)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Nissaya.md)
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.6 Cittasamuṭṭhānaduka](/tipitaka/38P2/10/10.6.md) / [10.6.7 Pañhāvāra](/tipitaka/38P2/10/10.6/10.6.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [10 Mahantaraduka](../../../10.md) / [10.6 Cittasamuṭṭhānaduka](../../10.6.md) / [10.6.7 Pañhāvāra](../10.6.7.md)
 
 # Paccanīyuddhāra
 
@@ -35,6 +35,6 @@
 
 2905\. Cittasamuṭṭhāno ca nocittasamuṭṭhāno ca dhammā cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.1/10.6.7.1.2/Suddha.md) / [Go to parent page (10.6.7 Pañhāvāra)](/tipitaka/38P2/10/10.6/10.6.7.md) / [Go to next page (10.6.7.2 Paccayapaccanīya)](/tipitaka/38P2/10/10.6/10.6.7/10.6.7.2.md)
+[Go to previous page (Suddha)](10.6.7.1/10.6.7.1.2/Suddha.md) / [Go to parent page (10.6.7 Pañhāvāra)](../10.6.7.md) / [Go to next page (10.6.7.2 Paccayapaccanīya)](10.6.7.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [7D Mahāvaggapāḷi](/tipitaka/7D.md) / [9 Mahāsatipaṭṭhānasutta](/tipitaka/7D/9.md)
+[Home](/) / [7D Mahāvaggapāḷi](../../7D.md) / [9 Mahāsatipaṭṭhānasutta](../9.md)
 
 # Uddesa
 
@@ -19,6 +19,6 @@
 
 
 
-[Go to previous page (9 Mahāsatipaṭṭhānasutta)](/tipitaka/7D/9.md) / [Go to parent page (9 Mahāsatipaṭṭhānasutta)](/tipitaka/7D/9.md) / [Go to next page (9.1 Kāyānupassanā)](/tipitaka/7D/9/9.1.md)
+[Go to previous page (9 Mahāsatipaṭṭhānasutta)](../9.md) / [Go to parent page (9 Mahāsatipaṭṭhānasutta)](../9.md) / [Go to next page (9.1 Kāyānupassanā)](9.1.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Āsevana](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Asevana.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Āsevana](../Asevana.md)
 
 # Āsevanaghaṭanā
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (Āsevanasabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Asevana/Asevanasabhaga.md) / [Go to parent page (Āsevana)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Asevana.md) / [Go to next page (Kamma)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Kamma.md)
+[Go to previous page (Āsevanasabhāga)](Asevanasabhaga.md) / [Go to parent page (Āsevana)](../Asevana.md) / [Go to next page (Kamma)](../Kamma.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.3 Dassanenapahātabbahetukaduka](/tipitaka/38P2/13/13.3.md) / [13.3.7 Pañhāvāra](/tipitaka/38P2/13/13.3/13.3.7.md) / [13.3.7.1 Paccayānuloma](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1.md) / [13.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.3 Dassanenapahātabbahetukaduka](../../../../13.3.md) / [13.3.7 Pañhāvāra](../../../13.3.7.md) / [13.3.7.1 Paccayānuloma](../../13.3.7.1.md) / [13.3.7.1.1 Vibhaṅgavāra](../13.3.7.1.1.md)
 
 # Adhipati
 
@@ -29,6 +29,6 @@
 
 4235\. Nadassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nadassanena pahātabbahetuke khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbahetuko rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Arammana.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1.md) / [Go to next page (Anantara)](/tipitaka/38P2/13/13.3/13.3.7/13.3.7.1/13.3.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

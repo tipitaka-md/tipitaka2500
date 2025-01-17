@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [22 Ajjhattārammaṇattika](/tipitaka/37P1/22.md) / [22.1 Paṭiccavāra](/tipitaka/37P1/22/22.1.md) / [22.1.1 Paccayānuloma](/tipitaka/37P1/22/22.1/22.1.1.md) / [22.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/22/22.1/22.1.1/22.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [22 Ajjhattārammaṇattika](../../../../22.md) / [22.1 Paṭiccavāra](../../../22.1.md) / [22.1.1 Paccayānuloma](../../22.1.1.md) / [22.1.1.1 Vibhaṅgavāra](../22.1.1.1.md)
 
 # Hetu
 
@@ -19,6 +19,6 @@
 
 2872\. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati hetupaccayā—  bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
-[Go to previous page (22.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/22/22.1/22.1.1/22.1.1.1.md) / [Go to parent page (22.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/22/22.1/22.1.1/22.1.1.1.md) / [Go to next page (Ārammaṇādi)](/tipitaka/37P1/22/22.1/22.1.1/22.1.1.1/Arammanadi.md)
+[Go to previous page (22.1.1.1 Vibhaṅgavāra)](../22.1.1.1.md) / [Go to parent page (22.1.1.1 Vibhaṅgavāra)](../22.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

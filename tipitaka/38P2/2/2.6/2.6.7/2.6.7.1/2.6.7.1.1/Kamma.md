@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.6 Lokiyaduka](/tipitaka/38P2/2/2.6.md) / [2.6.7 Pañhāvāra](/tipitaka/38P2/2/2.6/2.6.7.md) / [2.6.7.1 Paccayānuloma](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1.md) / [2.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.6 Lokiyaduka](../../../../2.6.md) / [2.6.7 Pañhāvāra](../../../2.6.7.md) / [2.6.7.1 Paccayānuloma](../../2.6.7.1.md) / [2.6.7.1.1 Vibhaṅgavāra](../2.6.7.1.1.md)
 
 # Kamma
 
@@ -25,6 +25,6 @@
 
 915\. Lokuttaro dhammo lokiyassa ca lokuttarassa ca dhammassa kammapaccayena paccayo—  lokuttarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
 
-[Go to previous page (Āsevana)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Asevana.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Vipāka)](/tipitaka/38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1/Vipaka.md)
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 
 

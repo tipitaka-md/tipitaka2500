@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.10 Upekkhāsahagataduka](/tipitaka/38P2/13/13.10.md) / [13.10.1 Paṭiccavāra](/tipitaka/38P2/13/13.10/13.10.1.md) / [13.10.1.2 Paccayapaccanīya](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2.md) / [13.10.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2/13.10.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.10 Upekkhāsahagataduka](../../../../13.10.md) / [13.10.1 Paṭiccavāra](../../../13.10.1.md) / [13.10.1.2 Paccayapaccanīya](../../13.10.1.2.md) / [13.10.1.2.1 Vibhaṅgavāra](../13.10.1.2.1.md)
 
 # Nahetu
 
@@ -35,6 +35,6 @@
 
 4475\. Upekkhāsahagatañca naupekkhāsahagatañca dhammaṃ paṭicca upekkhāsahagato ca naupekkhāsahagato ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  ahetukaṃ upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā, dve khandhe…pe…  ahetuke upekkhāsahagate khandhe ca upekkhañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe…pe…  ahetukapaṭisandhikkhaṇe upekkhāsahagataṃ ekaṃ khandhañca upekkhañca paṭicca dve khandhā, dve khandhe…pe…  ahetuke upekkhāsahagate khandhe ca upekkhañca mahābhūte ca paṭicca kaṭattārūpaṃ; ahetukapaṭisandhikkhaṇe upekkhāsahagataṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā upekkhā ca, dve khandhe…pe…  (Saṃkhittaṃ.) (3)
 
-[Go to previous page (13.10.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2/13.10.1.2.1.md) / [Go to parent page (13.10.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2/13.10.1.2.1.md) / [Go to next page (13.10.1.2.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.10/13.10.1/13.10.1.2/13.10.1.2.2.md)
+[Go to previous page (13.10.1.2.1 Vibhaṅgavāra)](../13.10.1.2.1.md) / [Go to parent page (13.10.1.2.1 Vibhaṅgavāra)](../13.10.1.2.1.md) / [Go to next page (13.10.1.2.2 Saṅkhyāvāra)](../13.10.1.2.2.md)
 
 

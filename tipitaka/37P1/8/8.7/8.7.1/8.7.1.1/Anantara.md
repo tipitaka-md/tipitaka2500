@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [8 Pītittika](/tipitaka/37P1/8.md) / [8.7 Pañhāvāra](/tipitaka/37P1/8/8.7.md) / [8.7.1 Paccayānuloma](/tipitaka/37P1/8/8.7/8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.7 Pañhāvāra](../../../8.7.md) / [8.7.1 Paccayānuloma](../../8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](../8.7.1.1.md)
 
 # Anantara
 
@@ -53,6 +53,6 @@
 
 722\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa anantarapaccayena paccayo—  purimā purimā pītisahagatā ca sukhasahagatā ca khandhā pacchimānaṃ pacchimānaṃ pītisahagatānañca sukhasahagatānañca khandhānaṃ…pe…  pītisahagatañca sukhasahagatañca anulomaṃ pītisahagatāya ca sukhasahagatāya ca phalasamāpattiyā anantarapaccayena paccayo. (4)
 
-[Go to previous page (Adhipati)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Adhipati.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page (Samanantara)](/tipitaka/37P1/8/8.7/8.7.1/8.7.1.1/Samanantara.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../8.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 
 

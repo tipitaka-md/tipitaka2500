@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.7 Pañhāvāra](../../../3.7.md) / [3.7.1 Paccayānuloma](../../3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](../3.7.1.1.md)
 
 # Ārammaṇa
 
@@ -37,6 +37,6 @@
 
 1891\. Adukkhamasukhāya vedanāya sampayutto dhammo dukkhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo—  adukkhamasukhāya vedanāya sampayuttena cittena dānaṃ datvā, sīlaṃ samādiyitvā, uposathakammaṃ katvā vippaṭisārissa domanassaṃ uppajjati, adukkhamasukhāya vedanāya sampayutte jhāne parihīne vippaṭisārissa domanassaṃ uppajjati, adukkhamasukhāya vedanāya sampayutte khandhe ārabbha dukkhāya vedanāya sampayuttā khandhā uppajjanti. (3)
 
-[Go to previous page (Hetu)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Hetu.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1.md) / [Go to next page (Adhipati)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.1 Paṭiccavāra](/tipitaka/37P1/21/21.1.md) / [21.1.1 Paccayānuloma](/tipitaka/37P1/21/21.1/21.1.1.md) / [21.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.1 Paṭiccavāra](../../../21.1.md) / [21.1.1 Paccayānuloma](../../21.1.1.md) / [21.1.1.1 Vibhaṅgavāra](../21.1.1.1.md)
 
 # Hetu
 
@@ -19,6 +19,6 @@
 
 2761\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati hetupaccayā—  bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. Ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
 
-[Go to previous page (21.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/37P1/21/21.1/21.1.1/21.1.1.1/Arammana.md)
+[Go to previous page (21.1.1.1 Vibhaṅgavāra)](../21.1.1.1.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](../21.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

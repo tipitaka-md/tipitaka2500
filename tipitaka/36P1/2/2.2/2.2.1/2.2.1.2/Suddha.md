@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.2 Sahajātavāra](/tipitaka/36P1/2/2.2.md) / [2.2.1 Paccayānuloma](/tipitaka/36P1/2/2.2/2.2.1.md) / [2.2.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.2/2.2.1/2.2.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.2 Sahajātavāra](../../../2.2.md) / [2.2.1 Paccayānuloma](../../2.2.1.md) / [2.2.1.2 Saṅkhyāvāra](../2.2.1.2.md)
 
 # Suddha
 
@@ -29,6 +29,6 @@
 
 
 
-[Go to previous page (2.2.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.2/2.2.1/2.2.1.2.md) / [Go to parent page (2.2.1.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.2/2.2.1/2.2.1.2.md) / [Go to next page (2.2.2 Paccayapaccanīya)](/tipitaka/36P1/2/2.2/2.2.2.md)
+[Go to previous page (2.2.1.2 Saṅkhyāvāra)](../2.2.1.2.md) / [Go to parent page (2.2.1.2 Saṅkhyāvāra)](../2.2.1.2.md) / [Go to next page (2.2.2 Paccayapaccanīya)](../../2.2.2.md)
 
 

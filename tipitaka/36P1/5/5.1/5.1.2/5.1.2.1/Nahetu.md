@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.2 Paccayapaccanīya](/tipitaka/36P1/5/5.1/5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.1 Paṭiccavāra](../../../5.1.md) / [5.1.2 Paccayapaccanīya](../../5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](../5.1.2.1.md)
 
 # Nahetu
 
@@ -25,6 +25,6 @@
 
 2479\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetuke upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (5.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md) / [Go to next page (Naārammaṇa)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Naarammana.md)
+[Go to previous page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.7 Pañhāvāra](/tipitaka/36P1/4/4.7.md) / [4.7.1 Paccayānuloma](/tipitaka/36P1/4/4.7/4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
 
 # Sampayutta
 
@@ -17,6 +17,6 @@
 
 2381\. Vipāko dhammo vipākassa dhammassa sampayuttapaccayena paccayo—  vipāko eko khandho tiṇṇannaṃ…pe…  dve khandhā dvinnaṃ…pe…  paṭisandhikkhaṇe…pe…  vipākadhammadhammo vipākadhammadhammassa sampayuttapaccayena paccayo; nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa sampayuttapaccayena paccayo; dve khandhā dvinnaṃ khandhānaṃ sampayuttapaccayena paccayo.
 
-[Go to previous page (Magga)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Magga.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/36P1/4/4.7/4.7.1/4.7.1.1/Vippayutta.md)
+[Go to previous page (Magga)](Magga.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

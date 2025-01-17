@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.3 Sanidassanaduka](/tipitaka/38P2/2/2.3.md) / [2.3.1 Paṭiccavāra](/tipitaka/38P2/2/2.3/2.3.1.md) / [2.3.1.1 Paccayānuloma](/tipitaka/38P2/2/2.3/2.3.1/2.3.1.1.md) / [2.3.1.1.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.3/2.3.1/2.3.1.1/2.3.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.3 Sanidassanaduka](../../../../2.3.md) / [2.3.1 Paṭiccavāra](../../../2.3.1.md) / [2.3.1.1 Paccayānuloma](../../2.3.1.1.md) / [2.3.1.1.1 Vibhaṅgavāra](../2.3.1.1.1.md)
 
 # Hetu
 
@@ -23,6 +23,6 @@
 
 581\. Anidassanaṃ dhammaṃ paṭicca sanidassano ca anidassano ca dhammā uppajjanti hetupaccayā—  anidassanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā sanidassanañca anidassanañca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  mahābhūte paṭicca sanidassanañca anidassanañca cittasamuṭṭhānañca rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (3)
 
-[Go to previous page (2.3.1.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.3/2.3.1/2.3.1.1/2.3.1.1.1.md) / [Go to parent page (2.3.1.1.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.3/2.3.1/2.3.1.1/2.3.1.1.1.md) / [Go to next page (Ārammaṇa)](/tipitaka/38P2/2/2.3/2.3.1/2.3.1.1/2.3.1.1.1/Arammana.md)
+[Go to previous page (2.3.1.1.1 Vibhaṅgavāra)](../2.3.1.1.1.md) / [Go to parent page (2.3.1.1.1 Vibhaṅgavāra)](../2.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

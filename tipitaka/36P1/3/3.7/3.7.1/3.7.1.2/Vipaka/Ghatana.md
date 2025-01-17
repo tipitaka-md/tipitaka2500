@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2.md) / [Vipāka](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.7 Pañhāvāra](../../../../3.7.md) / [3.7.1 Paccayānuloma](../../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../../3.7.1.2.md) / [Vipāka](../Vipaka.md)
 
 # Ghaṭanā
 
@@ -17,6 +17,6 @@
 
 1975\. Vipāka sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi.
 
-[Go to previous page (Vipākasabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka/Vipakasabhaga.md) / [Go to parent page (Vipāka)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Vipaka.md) / [Go to next page (Āhāra)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Ahara.md)
+[Go to previous page (Vipākasabhāga)](Vipakasabhaga.md) / [Go to parent page (Vipāka)](../Vipaka.md) / [Go to next page (Āhāra)](../Ahara.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Magga](/tipitaka/36P1/2/2.7/2.7.3/Magga.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Magga](../Magga.md)
 
 # Sajhānaghaṭanā
 
@@ -33,6 +33,6 @@
 
 1610\. Magga sahajāta aññamañña nissaya vipāka jhāna vippayutta atthi avigatanti nahetuyā ekaṃ…pe…  novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Saindriyaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Magga/Saindriyaghatana.md) / [Go to parent page (Magga)](/tipitaka/36P1/2/2.7/2.7.3/Magga.md) / [Go to next page (Saindriya-jhānaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Magga/Saindriya-jhanaghatana.md)
+[Go to previous page (Saindriyaghaṭanā)](Saindriyaghatana.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Saindriya-jhānaghaṭanā)](Saindriya-jhanaghatana.md)
 
 

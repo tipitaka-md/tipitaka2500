@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.3/2.3.3.md) / [Vipākaduka](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.3 Paccayānulomapaccanīya](../../2.3.3.md) / [Vipākaduka](../Vipakaduka.md)
 
 # Dvādasaka
 
@@ -15,6 +15,6 @@
 
 607\. Vipākapaccayā hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ…pe… .
 
-[Go to previous page (Tika)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka/Tika.md) / [Go to parent page (Vipākaduka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka.md) / [Go to next page (Tevīsaka)](/tipitaka/36P1/2/2.3/2.3.3/Vipakaduka/Tevisaka.md)
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Vipākaduka)](../Vipakaduka.md) / [Go to next page (Tevīsaka)](Tevisaka.md)
 
 

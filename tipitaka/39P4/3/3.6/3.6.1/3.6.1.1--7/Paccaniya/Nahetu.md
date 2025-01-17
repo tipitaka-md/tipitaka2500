@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.6 Kusalattika, Lokiyaduka](/tipitaka/39P4/3/3.6.md) / [3.6.1 Lokiyapada](/tipitaka/39P4/3/3.6/3.6.1.md) / [3.6.1.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7.md) / [Paccanīya](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7/Paccaniya.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../../3.md) / [3.6 Kusalattika, Lokiyaduka](../../../../3.6.md) / [3.6.1 Lokiyapada](../../../3.6.1.md) / [3.6.1.1--7 Paṭiccādivāra](../../3.6.1.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # Nahetu
 
@@ -25,6 +25,6 @@
 
 1183\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
-[Go to previous page (Paccanīya)](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7/Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7/Paccaniya/Hetu-arammana.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.4 Cittasampayuttaduka, Kusalattika](/tipitaka/39P3/10/10.4.md) / [10.4.2 Abyākatapada](/tipitaka/39P3/10/10.4/10.4.2.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [10 Mahantaraduka, Kusalattika](../../../10.md) / [10.4 Cittasampayuttaduka, Kusalattika](../../10.4.md) / [10.4.2 Abyākatapada](../10.4.2.md)
 
 # Hetu
 
@@ -25,6 +25,6 @@
 
 2082\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte nava…pe…  nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve…pe…  novigate dve. (Saṃkhittaṃ, sahajātavārādi vitthāretabbo.)
 
-[Go to previous page (10.4.2 Abyākatapada)](/tipitaka/39P3/10/10.4/10.4.2.md) / [Go to parent page (10.4.2 Abyākatapada)](/tipitaka/39P3/10/10.4/10.4.2.md) / [Go to next page (Hetu-ārammaṇa)](/tipitaka/39P3/10/10.4/10.4.2/Hetu-arammana.md)
+[Go to previous page (10.4.2 Abyākatapada)](../10.4.2.md) / [Go to parent page (10.4.2 Abyākatapada)](../10.4.2.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

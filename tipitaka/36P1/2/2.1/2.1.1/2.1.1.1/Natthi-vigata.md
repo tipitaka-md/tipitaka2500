@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.1 Paccayānuloma](/tipitaka/36P1/2/2.1/2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.1 Paccayānuloma](../../2.1.1.md) / [2.1.1.1 Vibhaṅgavāra](../2.1.1.1.md)
 
 # Natthi-vigata
 
@@ -17,6 +17,6 @@
 
 171\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati natthipaccayā…  vigatapaccayā. (Natthipaccayampi vigatapaccayampi ārammaṇapaccayasadisaṃ.)
 
-[Go to previous page (Atthi)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Atthi.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1.md) / [Go to next page (Avigata)](/tipitaka/36P1/2/2.1/2.1.1/2.1.1.1/Avigata.md)
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Avigata)](Avigata.md)
 
 
