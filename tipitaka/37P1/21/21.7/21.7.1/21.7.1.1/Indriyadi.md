@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [21 Ajjhattattika](/tipitaka/37P1/21.md) / [21.7 Pañhāvāra](/tipitaka/37P1/21/21.7.md) / [21.7.1 Paccayānuloma](/tipitaka/37P1/21/21.7/21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.7 Pañhāvāra](../../../21.7.md) / [21.7.1 Paccayānuloma](../../21.7.1.md) / [21.7.1.1 Vibhaṅgavāra](../21.7.1.1.md)
 
 # 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀸𑀤𑀺
 
@@ -19,6 +19,6 @@
 
 2848\. 𑀩𑀳𑀺𑀤𑁆𑀥𑀸 𑀥𑀫𑁆𑀫𑁄 𑀩𑀳𑀺𑀤𑁆𑀥𑀸 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀲𑀳𑀚𑀸𑀢𑀁, 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀁, 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Āhāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Ahara.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1.md) / [Go to next page (Atthi)](/tipitaka/37P1/21/21.7/21.7.1/21.7.1.1/Atthi.md)
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

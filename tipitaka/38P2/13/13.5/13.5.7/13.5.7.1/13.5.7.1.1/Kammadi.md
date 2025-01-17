@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.5 Savitakkaduka](/tipitaka/38P2/13/13.5.md) / [13.5.7 Pañhāvāra](/tipitaka/38P2/13/13.5/13.5.7.md) / [13.5.7.1 Paccayānuloma](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.5 Savitakkaduka](../../../../13.5.md) / [13.5.7 Pañhāvāra](../../../13.5.7.md) / [13.5.7.1 Paccayānuloma](../../13.5.7.1.md) / [13.5.7.1.1 Vibhaṅgavāra](../13.5.7.1.1.md)
 
 # 𑀓𑀫𑁆𑀫𑀸𑀤𑀺
 
@@ -29,6 +29,6 @@
 
 4361\. 𑀲𑀯𑀺𑀢𑀓𑁆𑀓𑁄 𑀘 𑀅𑀯𑀺𑀢𑀓𑁆𑀓𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀅𑀯𑀺𑀢𑀓𑁆𑀓𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀲𑀳𑀚𑀸𑀢𑀁, 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Pacchājātāsevana)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Pacchajatasevana.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1.md) / [Go to next page (Atthyādi)](/tipitaka/38P2/13/13.5/13.5.7/13.5.7.1/13.5.7.1.1/Atthyadi.md)
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (13.5.7.1.1 Vibhaṅgavāra)](../13.5.7.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.4 Kusalattika, Saṃkiliṭṭhattika](/tipitaka/39P5/1/1.4.md) / [1.4.1--7 Paṭiccādivāra](/tipitaka/39P5/1/1.4/1.4.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.4 Kusalattika, Saṃkiliṭṭhattika](../../1.4.md) / [1.4.1--7 Paṭiccādivāra](../1.4.1--7.md)
 
 # 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
@@ -41,6 +41,6 @@
 
 78\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (1.4.1--7 Paṭiccādivāra)](/tipitaka/39P5/1/1.4/1.4.1--7.md) / [Go to parent page (1.4.1--7 Paṭiccādivāra)](/tipitaka/39P5/1/1.4/1.4.1--7.md) / [Go to next page (1.5 Kusalattika, Vitakkattika)](/tipitaka/39P5/1/1.5.md)
+[Go to previous page (1.4.1--7 Paṭiccādivāra)](../1.4.1--7.md) / [Go to parent page (1.4.1--7 Paṭiccādivāra)](../1.4.1--7.md) / [Go to next page (1.5 Kusalattika, Vitakkattika)](../../1.5.md)
 
 

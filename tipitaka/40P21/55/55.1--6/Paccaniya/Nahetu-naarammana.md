@@ -1,5 +1,5 @@
 
-[Home](/) / [40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P21.md) / [55 Piṭṭhiduka, Sanidassanattika](/tipitaka/40P21/55.md) / [55.1--6 Paṭiccādivāra](/tipitaka/40P21/55/55.1--6.md) / [Paccanīya](/tipitaka/40P21/55/55.1--6/Paccaniya.md)
+[Home](/) / [40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)](../../../../40P21.md) / [55 Piṭṭhiduka, Sanidassanattika](../../../55.md) / [55.1--6 Paṭiccādivāra](../../55.1--6.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀦𑀳𑁂𑀢𑀼-𑀦𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -23,6 +23,6 @@
 
 357\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccanīya)](/tipitaka/40P21/55/55.1--6/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/40P21/55/55.1--6/Paccaniya.md) / [Go to next page (55.7 Pañhāvāra)](/tipitaka/40P21/55/55.7.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (55.7 Pañhāvāra)](../../55.7.md)
 
 

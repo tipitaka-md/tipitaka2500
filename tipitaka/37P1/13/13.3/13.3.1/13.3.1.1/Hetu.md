@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.3 Paccayavāra](/tipitaka/37P1/13/13.3.md) / [13.3.1 Paccayānuloma](/tipitaka/37P1/13/13.3/13.3.1.md) / [13.3.1.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.3 Paccayavāra](../../../13.3.md) / [13.3.1 Paccayānuloma](../../13.3.1.md) / [13.3.1.1 Vibhaṅgavāra](../13.3.1.1.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -45,6 +45,6 @@
 
 1970\. 𑀧𑀭𑀺𑀢𑁆𑀢𑀜𑁆𑀘 𑀫𑀳𑀕𑁆𑀕𑀢𑀜𑁆𑀘 𑀥𑀫𑁆𑀫𑀁 𑀧𑀘𑁆𑀘𑀬𑀸 𑀧𑀭𑀺𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇 (𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺𑀓𑁆𑀔𑀡𑁂 𑀢𑀻𑀡𑀺𑀧𑀺 𑀓𑀸𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (13.3.1.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1.md) / [Go to parent page (13.3.1.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1.md) / [Go to next page (Ārammaṇādi)](/tipitaka/37P1/13/13.3/13.3.1/13.3.1.1/Arammanadi.md)
+[Go to previous page (13.3.1.1 Vibhaṅgavāra)](../13.3.1.1.md) / [Go to parent page (13.3.1.1 Vibhaṅgavāra)](../13.3.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

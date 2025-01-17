@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Vippayutta](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Vippayutta](../Vippayutta.md)
 
 # 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀫𑀺𑀲𑁆𑀲𑀓𑀖𑀝𑀦𑀸
 
@@ -19,6 +19,6 @@
 
 1135\. 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀧𑀜𑁆𑀘𑁇 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀦𑀺𑀲𑁆𑀲𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀧𑀜𑁆𑀘𑁇 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀸𑀥𑀺𑀧𑀢𑀺 𑀦𑀺𑀲𑁆𑀲𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀘𑀢𑁆𑀢𑀸𑀭𑀺𑁇 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀦𑀺𑀲𑁆𑀲𑀬 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Vippayuttasabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta/Vippayuttasabhaga.md) / [Go to parent page (Vippayutta)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Vippayutta/Pakinnakaghatana.md)
+[Go to previous page (Vippayuttasabhāga)](Vippayuttasabhaga.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
 

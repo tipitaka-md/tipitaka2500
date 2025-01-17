@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.5 Āsavaāsavasampayuttaduka](/tipitaka/38P2/3/3.5.md) / [3.5.7 Pañhāvāra](/tipitaka/38P2/3/3.5/3.5.7.md) / [3.5.7.3 Paccayānulomapaccanīya](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [3 Āsavagocchaka](../../../../3.md) / [3.5 Āsavaāsavasampayuttaduka](../../../3.5.md) / [3.5.7 Pañhāvāra](../../3.5.7.md) / [3.5.7.3 Paccayānulomapaccanīya](../3.5.7.3.md)
 
 # 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
@@ -17,6 +17,6 @@
 
 1314\. 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺…𑀧𑁂…  𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺…𑀧𑁂…  𑀦𑀫𑀕𑁆𑀕𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺…𑀧𑁂…  𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺𑁇
 
-[Go to previous page (3.5.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.3.md) / [Go to parent page (3.5.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.3.md) / [Go to next page (3.5.7.4 Paccayapaccanīyānuloma)](/tipitaka/38P2/3/3.5/3.5.7/3.5.7.4.md)
+[Go to previous page (3.5.7.3 Paccayānulomapaccanīya)](../3.5.7.3.md) / [Go to parent page (3.5.7.3 Paccayānulomapaccanīya)](../3.5.7.3.md) / [Go to next page (3.5.7.4 Paccayapaccanīyānuloma)](../3.5.7.4.md)
 
 

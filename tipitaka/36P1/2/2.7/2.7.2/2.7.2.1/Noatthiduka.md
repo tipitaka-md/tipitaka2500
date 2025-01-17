@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../2.7.2.1.md)
 
 # 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀤𑀼𑀓
 
@@ -17,12 +17,12 @@
 
 1257\. 𑀦𑁄𑀅𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯, 𑀦𑀲𑀳𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑀯, 𑀦𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀦𑀯, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀦𑀯, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀦𑀯, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀦𑀯, 𑀦𑀛𑀸𑀦𑁂 𑀦𑀯, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀦𑀯, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀦𑀯, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀦𑀯, 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯…𑀧𑁂… 𑁇
 
-* [Catukka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Catukka.md)
-* [Dasaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Dasaka.md)
-* [Ekādasaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Ekadasaka.md)
-* [Sattarasaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Sattarasaka.md)
-* [Ekavīsaka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Ekavisaka.md)
+* [Catukka](Noatthiduka/Catukka.md)
+* [Dasaka](Noatthiduka/Dasaka.md)
+* [Ekādasaka](Noatthiduka/Ekadasaka.md)
+* [Sattarasaka](Noatthiduka/Sattarasaka.md)
+* [Ekavīsaka](Noatthiduka/Ekavisaka.md)
 
-[Go to previous page (Aṭṭhārasaka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Navippayuttaduka/Attharasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Go to next page (Catukka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Noatthiduka/Catukka.md)
+[Go to previous page (Aṭṭhārasaka)](Navippayuttaduka/Attharasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Noatthiduka/Catukka.md)
 
 

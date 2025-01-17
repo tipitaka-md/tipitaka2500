@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.13 Upādāduka](/tipitaka/38P2/10/10.13.md) / [10.13.3 Paccayavāra](/tipitaka/38P2/10/10.13/10.13.3.md) / [10.13.3.2 Paccayapaccanīya](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2.md) / [10.13.3.2.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.13 Upādāduka](../../../../10.13.md) / [10.13.3 Paccayavāra](../../../10.13.3.md) / [10.13.3.2 Paccayapaccanīya](../../10.13.3.2.md) / [10.13.3.2.1 Vibhaṅgavāra](../10.13.3.2.1.md)
 
 # 𑀦𑀓𑀫𑁆𑀫𑀸𑀤𑀺
 
@@ -29,6 +29,6 @@
 
 3302\. 𑀦𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀦𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀧𑀘𑁆𑀘𑀬𑀸 𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Nahetvādi)](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Nahetvadi.md) / [Go to parent page (10.13.3.2.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1.md) / [Go to next page (Najhānādi)](/tipitaka/38P2/10/10.13/10.13.3/10.13.3.2/10.13.3.2.1/Najhanadi.md)
+[Go to previous page (Nahetvādi)](Nahetvadi.md) / [Go to parent page (10.13.3.2.1 Vibhaṅgavāra)](../10.13.3.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
 
 

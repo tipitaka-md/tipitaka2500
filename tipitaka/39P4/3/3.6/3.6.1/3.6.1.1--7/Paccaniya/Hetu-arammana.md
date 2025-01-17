@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [3 Kusalattika, Cūḷantaraduka](/tipitaka/39P4/3.md) / [3.6 Kusalattika, Lokiyaduka](/tipitaka/39P4/3/3.6.md) / [3.6.1 Lokiyapada](/tipitaka/39P4/3/3.6/3.6.1.md) / [3.6.1.1--7 Paṭiccādivāra](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7.md) / [Paccanīya](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7/Paccaniya.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../../3.md) / [3.6 Kusalattika, Lokiyaduka](../../../../3.6.md) / [3.6.1 Lokiyapada](../../../3.6.1.md) / [3.6.1.1--7 Paṭiccādivāra](../../3.6.1.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -35,6 +35,6 @@
 
 1190\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇 𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Nahetu)](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7/Paccaniya/Nahetu.md) / [Go to parent page (Paccanīya)](/tipitaka/39P4/3/3.6/3.6.1/3.6.1.1--7/Paccaniya.md) / [Go to next page (3.6.2 Lokuttarapada)](/tipitaka/39P4/3/3.6/3.6.2.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (3.6.2 Lokuttarapada)](../../../3.6.2.md)
 
 

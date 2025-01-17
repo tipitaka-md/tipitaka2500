@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [16 Micchattaniyatattika](/tipitaka/37P1/16.md) / [16.1 Paṭiccavāra](/tipitaka/37P1/16/16.1.md) / [16.1.1 Paccayānuloma](/tipitaka/37P1/16/16.1/16.1.1.md) / [16.1.1.2 Saṅkhyāvāra](/tipitaka/37P1/16/16.1/16.1.1/16.1.1.2.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.1 Paṭiccavāra](../../../16.1.md) / [16.1.1 Paccayānuloma](../../16.1.1.md) / [16.1.1.2 Saṅkhyāvāra](../16.1.1.2.md)
 
 # 𑀲𑀼𑀤𑁆𑀥
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (16.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/16/16.1/16.1.1/16.1.1.2.md) / [Go to parent page (16.1.1.2 Saṅkhyāvāra)](/tipitaka/37P1/16/16.1/16.1.1/16.1.1.2.md) / [Go to next page (16.1.2 Paccayapaccanīya)](/tipitaka/37P1/16/16.1/16.1.2.md)
+[Go to previous page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md) / [Go to parent page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md) / [Go to next page (16.1.2 Paccayapaccanīya)](../../16.1.2.md)
 
 

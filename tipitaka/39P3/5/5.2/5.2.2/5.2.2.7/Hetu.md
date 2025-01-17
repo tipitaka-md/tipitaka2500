@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [5 Saññojanagocchaka, Kusalattika](/tipitaka/39P3/5.md) / [5.2 Saññojaniyaduka, Kusalattika](/tipitaka/39P3/5/5.2.md) / [5.2.2 Abyākatapada](/tipitaka/39P3/5/5.2/5.2.2.md) / [5.2.2.7 Pañhāvāra](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [5 Saññojanagocchaka, Kusalattika](../../../../5.md) / [5.2 Saññojaniyaduka, Kusalattika](../../../5.2.md) / [5.2.2 Abyākatapada](../../5.2.2.md) / [5.2.2.7 Pañhāvāra](../5.2.2.7.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -23,6 +23,6 @@
 
 1734\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀲𑀢𑁆𑀢𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (5.2.2.7 Pañhāvāra)](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.7.md) / [Go to parent page (5.2.2.7 Pañhāvāra)](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.7.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/5/5.2/5.2.2/5.2.2.7/Paccaniyuddhara.md)
+[Go to previous page (5.2.2.7 Pañhāvāra)](../5.2.2.7.md) / [Go to parent page (5.2.2.7 Pañhāvāra)](../5.2.2.7.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
 
 

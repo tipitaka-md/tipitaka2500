@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.20 Ajjhattattika, Hetuduka](/tipitaka/39P4/1/1.20.md) / [1.20.2 Nahetupada](/tipitaka/39P4/1/1.20/1.20.2.md) / [1.20.2.1--7 Paṭiccādivāra](/tipitaka/39P4/1/1.20/1.20.2/1.20.2.1--7.md) / [Paccayacatukka](/tipitaka/39P4/1/1.20/1.20.2/1.20.2.1--7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.20 Ajjhattattika, Hetuduka](../../../../1.20.md) / [1.20.2 Nahetupada](../../../1.20.2.md) / [1.20.2.1--7 Paṭiccādivāra](../../1.20.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -37,6 +37,6 @@
 
 
 
-[Go to previous page (Hetu)](/tipitaka/39P4/1/1.20/1.20.2/1.20.2.1--7/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/1/1.20/1.20.2/1.20.2.1--7/Paccayacatukka.md) / [Go to next page (1.21 Ajjhattārammaṇattika, Hetuduka)](/tipitaka/39P4/1/1.21.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.21 Ajjhattārammaṇattika, Hetuduka)](../../../../1.21.md)
 
 

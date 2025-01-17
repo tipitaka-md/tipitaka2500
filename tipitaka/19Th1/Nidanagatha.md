@@ -1,5 +1,5 @@
 
-[Home](/) / [19Th1 Theragāthāpāḷi](/tipitaka/19Th1.md)
+[Home](/) / [19Th1 Theragāthāpāḷi](../19Th1.md)
 
 # 𑀦𑀺𑀤𑀸𑀦𑀕𑀸𑀣𑀸
 
@@ -25,6 +25,6 @@ _𑀓𑀢𑀦𑁆𑀢𑀁 𑀧𑀘𑁆𑀘𑀯𑁂𑀓𑁆𑀔𑀦𑁆𑀢𑀸,_
 _𑀇𑀫𑀫𑀢𑁆𑀣𑀫𑀪𑀸𑀲𑀺𑀲𑀼𑀁𑁇_  
 
 
-[Go to previous page (19Th1 Theragāthāpāḷi)](/tipitaka/19Th1/0.md) / [Go to parent page (19Th1 Theragāthāpāḷi)](/tipitaka/19Th1/0.md) / [Go to next page (1 Ekakanipāta)](/tipitaka/19Th1/1.md)
+[Go to previous page (19Th1 Theragāthāpāḷi)](0.md) / [Go to parent page (19Th1 Theragāthāpāḷi)](0.md) / [Go to next page (1 Ekakanipāta)](1.md)
 
 

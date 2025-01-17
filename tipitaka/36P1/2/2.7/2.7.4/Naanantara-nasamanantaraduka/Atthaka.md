@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.4 Paccayapaccanīyānuloma](/tipitaka/36P1/2/2.7/2.7.4.md) / [Naanantara-nasamanantaraduka](/tipitaka/36P1/2/2.7/2.7.4/Naanantara-nasamanantaraduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.4 Paccayapaccanīyānuloma](../../2.7.4.md) / [Naanantara-nasamanantaraduka](../Naanantara-nasamanantaraduka.md)
 
 # 𑀅𑀝𑁆𑀞𑀓
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (Naanantara-nasamanantaraduka)](/tipitaka/36P1/2/2.7/2.7.4/Naanantara-nasamanantaraduka.md) / [Go to parent page (Naanantara-nasamanantaraduka)](/tipitaka/36P1/2/2.7/2.7.4/Naanantara-nasamanantaraduka.md) / [Go to next page (Nasahajātaduka)](/tipitaka/36P1/2/2.7/2.7.4/Nasahajataduka.md)
+[Go to previous page (Naanantara-nasamanantaraduka)](../Naanantara-nasamanantaraduka.md) / [Go to parent page (Naanantara-nasamanantaraduka)](../Naanantara-nasamanantaraduka.md) / [Go to next page (Nasahajātaduka)](../Nasahajataduka.md)
 
 

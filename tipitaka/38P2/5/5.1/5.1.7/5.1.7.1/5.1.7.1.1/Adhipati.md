@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.1 Ganthaduka](/tipitaka/38P2/5/5.1.md) / [5.1.7 Pañhāvāra](/tipitaka/38P2/5/5.1/5.1.7.md) / [5.1.7.1 Paccayānuloma](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1.md) / [5.1.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.1 Ganthaduka](../../../../5.1.md) / [5.1.7 Pañhāvāra](../../../5.1.7.md) / [5.1.7.1 Paccayānuloma](../../5.1.7.1.md) / [5.1.7.1.1 Vibhaṅgavāra](../5.1.7.1.1.md)
 
 # 𑀅𑀥𑀺𑀧𑀢𑀺
 
@@ -29,6 +29,6 @@
 
 1667\. 𑀕𑀦𑁆𑀣𑁄 𑀘 𑀦𑁄𑀕𑀦𑁆𑀣𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀕𑀦𑁆𑀣𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀥𑀺𑀧𑀢𑀺…  𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Ārammaṇa)](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Arammana.md) / [Go to parent page (5.1.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1.md) / [Go to next page (Anantara)](/tipitaka/38P2/5/5.1/5.1.7/5.1.7.1/5.1.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (5.1.7.1.1 Vibhaṅgavāra)](../5.1.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

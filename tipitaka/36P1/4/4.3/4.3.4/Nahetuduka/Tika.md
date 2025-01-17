@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [4 Vipākattika](/tipitaka/36P1/4.md) / [4.3 Paccayavāra](/tipitaka/36P1/4/4.3.md) / [4.3.4 Paccayapaccanīyānuloma](/tipitaka/36P1/4/4.3/4.3.4.md) / [Nahetuduka](/tipitaka/36P1/4/4.3/4.3.4/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.3 Paccayavāra](../../../4.3.md) / [4.3.4 Paccayapaccanīyānuloma](../../4.3.4.md) / [Nahetuduka](../Nahetuduka.md)
 
 # 𑀢𑀺𑀓
 
@@ -26,6 +26,6 @@
 
 
 
-[Go to previous page (Nahetuduka)](/tipitaka/36P1/4/4.3/4.3.4/Nahetuduka.md) / [Go to parent page (Nahetuduka)](/tipitaka/36P1/4/4.3/4.3.4/Nahetuduka.md) / [Go to next page (4.4 Nissayavāra)](/tipitaka/36P1/4/4.4.md)
+[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (4.4 Nissayavāra)](../../../4.4.md)
 
 

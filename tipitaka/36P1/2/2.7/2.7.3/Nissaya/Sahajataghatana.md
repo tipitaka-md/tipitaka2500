@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Nissaya](/tipitaka/36P1/2/2.7/2.7.3/Nissaya.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Nissaya](../Nissaya.md)
 
 # 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
 
@@ -41,6 +41,6 @@
 
 
 
-[Go to previous page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Nissaya/Pakinnakaghatana.md) / [Go to parent page (Nissaya)](/tipitaka/36P1/2/2.7/2.7.3/Nissaya.md) / [Go to next page (Upanissaya)](/tipitaka/36P1/2/2.7/2.7.3/Upanissaya.md)
+[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Nissaya)](../Nissaya.md) / [Go to next page (Upanissaya)](../Upanissaya.md)
 
 

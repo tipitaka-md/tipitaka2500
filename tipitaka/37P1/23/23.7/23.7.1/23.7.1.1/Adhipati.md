@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [23 Sanidassanasappaṭighattika](/tipitaka/37P1/23.md) / [23.7 Pañhāvāra](/tipitaka/37P1/23/23.7.md) / [23.7.1 Paccayānuloma](/tipitaka/37P1/23/23.7/23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.7 Pañhāvāra](../../../23.7.md) / [23.7.1 Paccayānuloma](../../23.7.1.md) / [23.7.1.1 Vibhaṅgavāra](../23.7.1.1.md)
 
 # 𑀅𑀥𑀺𑀧𑀢𑀺
 
@@ -27,6 +27,6 @@
 
 3011\. (𑀅𑀦𑀺𑀤𑀲𑁆𑀲𑀦𑀅𑀧𑁆𑀧𑀝𑀺𑀖𑀫𑀽𑀮𑀓𑁂 𑀲𑀢𑁆𑀢𑀧𑀺 𑀧𑀜𑁆𑀳𑀸 𑀯𑀺𑀪𑀚𑀺𑀢𑀩𑁆𑀩𑀸, 𑀅𑀥𑀺𑀧𑀢𑀺 𑀢𑀺𑀯𑀺𑀥𑀭𑀽𑀧𑀲𑀗𑁆𑀕𑀳𑁂𑀦𑁇)
 
-[Go to previous page (Ārammaṇa)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Arammana.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1.md) / [Go to next page (Anantara)](/tipitaka/37P1/23/23.7/23.7.1/23.7.1.1/Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

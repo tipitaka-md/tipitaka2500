@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [10 Mahantaraduka](/tipitaka/38P2/10.md) / [10.7 Cittasahabhūduka](/tipitaka/38P2/10/10.7.md) / [10.7.7 Pañhāvāra](/tipitaka/38P2/10/10.7/10.7.7.md) / [10.7.7.1 Paccayānuloma](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1.md) / [10.7.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.7 Cittasahabhūduka](../../../../10.7.md) / [10.7.7 Pañhāvāra](../../../10.7.7.md) / [10.7.7.1 Paccayānuloma](../../10.7.7.1.md) / [10.7.7.1.1 Vibhaṅgavāra](../10.7.7.1.1.md)
 
 # 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀸𑀲𑁂𑀯𑀦
 
@@ -23,6 +23,6 @@
 
 2963\. 𑀘𑀺𑀢𑁆𑀢𑀲𑀳𑀪𑀽 𑀘 𑀦𑁄𑀘𑀺𑀢𑁆𑀢𑀲𑀳𑀪𑀽 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀦𑁄𑀘𑀺𑀢𑁆𑀢𑀲𑀳𑀪𑀼𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁)…  𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀯𑁇
 
-[Go to previous page (Purejāta)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Purejata.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md) / [Go to next page (Kamma)](/tipitaka/38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1/Kamma.md)
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

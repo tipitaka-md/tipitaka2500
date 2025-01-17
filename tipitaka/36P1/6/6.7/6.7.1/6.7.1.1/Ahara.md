@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [6 Saṃkiliṭṭhattika](/tipitaka/36P1/6.md) / [6.7 Pañhāvāra](/tipitaka/36P1/6/6.7.md) / [6.7.1 Paccayānuloma](/tipitaka/36P1/6/6.7/6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../../6.md) / [6.7 Pañhāvāra](../../../6.7.md) / [6.7.1 Paccayānuloma](../../6.7.1.md) / [6.7.1.1 Vibhaṅgavāra](../6.7.1.1.md)
 
 # 𑀆𑀳𑀸𑀭
 
@@ -21,6 +21,6 @@
 
 2884\. 𑀅𑀲𑀁𑀓𑀺𑀮𑀺𑀝𑁆𑀞𑀅𑀲𑀁𑀓𑀺𑀮𑁂𑀲𑀺𑀓𑁄 𑀥𑀫𑁆𑀫𑁄 𑀅𑀲𑀁𑀓𑀺𑀮𑀺𑀝𑁆𑀞𑀅𑀲𑀁𑀓𑀺𑀮𑁂𑀲𑀺𑀓𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Vipāka)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Vipaka.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1.md) / [Go to next page (Indriya)](/tipitaka/36P1/6/6.7/6.7.1/6.7.1.1/Indriya.md)
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 
 

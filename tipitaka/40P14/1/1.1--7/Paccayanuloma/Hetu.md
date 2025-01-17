@@ -1,5 +1,5 @@
 
-[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P14.md) / [1 Hetuduka](/tipitaka/40P14/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P14/1/1.1--7.md) / [Paccayānuloma](/tipitaka/40P14/1/1.1--7/Paccayanuloma.md)
+[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](../../../../40P14.md) / [1 Hetuduka](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -21,6 +21,6 @@
 
 5\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺…𑀧𑁂…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Paccayānuloma)](/tipitaka/40P14/1/1.1--7/Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](/tipitaka/40P14/1/1.1--7/Paccayanuloma.md) / [Go to next page (Hetu-ārammaṇa)](/tipitaka/40P14/1/1.1--7/Paccayanuloma/Hetu-arammana.md)
+[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

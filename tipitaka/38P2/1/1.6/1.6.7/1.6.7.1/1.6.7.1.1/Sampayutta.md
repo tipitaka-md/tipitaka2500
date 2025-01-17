@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [1 Hetugocchaka](/tipitaka/38P2/1.md) / [1.6 Nahetusahetukaduka](/tipitaka/38P2/1/1.6.md) / [1.6.7 Pañhāvāra](/tipitaka/38P2/1/1.6/1.6.7.md) / [1.6.7.1 Paccayānuloma](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.6 Nahetusahetukaduka](../../../../1.6.md) / [1.6.7 Pañhāvāra](../../../1.6.7.md) / [1.6.7.1 Paccayānuloma](../../1.6.7.1.md) / [1.6.7.1.1 Vibhaṅgavāra](../1.6.7.1.1.md)
 
 # 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
@@ -21,6 +21,6 @@
 
 518\. 𑀦𑀳𑁂𑀢𑀼 𑀅𑀳𑁂𑀢𑀼𑀓𑁄 𑀥𑀫𑁆𑀫𑁄 𑀦𑀳𑁂𑀢𑀼𑀅𑀳𑁂𑀢𑀼𑀓𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀦𑀳𑁂𑀢𑀼 𑀅𑀳𑁂𑀢𑀼𑀓𑁄 𑀏𑀓𑁄 𑀔𑀦𑁆𑀥𑁄 𑀢𑀺𑀡𑁆𑀡𑀦𑁆𑀦𑀁 𑀔𑀦𑁆𑀥𑀸𑀦𑀁…𑀧𑁂…  𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺𑀓𑁆𑀔𑀡𑁂…𑀧𑁂… 𑁇 (𑁨)
 
-[Go to previous page (Jhānādi)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Jhanadi.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1.md) / [Go to next page (Vippayutta)](/tipitaka/38P2/1/1.6/1.6.7/1.6.7.1/1.6.7.1.1/Vippayutta.md)
+[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

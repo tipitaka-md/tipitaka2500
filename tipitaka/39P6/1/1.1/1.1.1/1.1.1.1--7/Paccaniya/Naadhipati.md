@@ -1,5 +1,5 @@
 
-[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/39P6.md) / [1 Hetuduka, Duka](/tipitaka/39P6/1.md) / [1.1 Hetuduka, Sahetukaduka](/tipitaka/39P6/1/1.1.md) / [1.1.1 Sahetukapada](/tipitaka/39P6/1/1.1/1.1.1.md) / [1.1.1.1--7 Paṭiccādivāra](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7.md) / [Paccanīya](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya.md)
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../../../../../39P6.md) / [1 Hetuduka, Duka](../../../../../1.md) / [1.1 Hetuduka, Sahetukaduka](../../../../1.1.md) / [1.1.1 Sahetukapada](../../../1.1.1.md) / [1.1.1.1--7 Paṭiccādivāra](../../1.1.1.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀦𑀅𑀥𑀺𑀧𑀢𑀺
 
@@ -27,6 +27,6 @@
 
 10\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Paccanīya)](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](/tipitaka/39P6/1/1.1/1.1.1/1.1.1.1--7/Paccaniya/Hetu-arammana.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

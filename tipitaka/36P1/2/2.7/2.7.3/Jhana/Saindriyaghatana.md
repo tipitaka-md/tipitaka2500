@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.7/2.7.3.md) / [Jhāna](/tipitaka/36P1/2/2.7/2.7.3/Jhana.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Jhāna](../Jhana.md)
 
 # 𑀲𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀖𑀝𑀦𑀸
 
@@ -33,6 +33,6 @@
 
 1563\. 𑀛𑀸𑀦 𑀲𑀳𑀚𑀸𑀢 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜 𑀦𑀺𑀲𑁆𑀲𑀬 𑀯𑀺𑀧𑀸𑀓 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁…𑀧𑁂…  𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 [𑀲𑀯𑀺𑀧𑀸𑀓—  𑁫]
 
-[Go to previous page (Jhānasāmaññaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Jhana/Jhanasamannaghatana.md) / [Go to parent page (Jhāna)](/tipitaka/36P1/2/2.7/2.7.3/Jhana.md) / [Go to next page (Samaggaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.3/Jhana/Samaggaghatana.md)
+[Go to previous page (Jhānasāmaññaghaṭanā)](Jhanasamannaghatana.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Samaggaghaṭanā)](Samaggaghatana.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.1 Saññojanaduka](/tipitaka/38P2/4/4.1.md) / [4.1.7 Pañhāvāra](/tipitaka/38P2/4/4.1/4.1.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [4 Saññojanagocchaka](../../../4.md) / [4.1 Saññojanaduka](../../4.1.md) / [4.1.7 Pañhāvāra](../4.1.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -35,6 +35,6 @@
 
 1411\. 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑁄 𑀘 𑀦𑁄𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑁆𑀲 𑀘 𑀦𑁄𑀲𑀜𑁆𑀜𑁄𑀚𑀦𑀲𑁆𑀲 𑀘 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁩)
 
-[Go to previous page (Suddha)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.1/4.1.7.1.2/Suddha.md) / [Go to parent page (4.1.7 Pañhāvāra)](/tipitaka/38P2/4/4.1/4.1.7.md) / [Go to next page (4.1.7.2 Paccayapaccanīya)](/tipitaka/38P2/4/4.1/4.1.7/4.1.7.2.md)
+[Go to previous page (Suddha)](4.1.7.1/4.1.7.1.2/Suddha.md) / [Go to parent page (4.1.7 Pañhāvāra)](../4.1.7.md) / [Go to next page (4.1.7.2 Paccayapaccanīya)](4.1.7.2.md)
 
 

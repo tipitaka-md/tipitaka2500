@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.4 Ganthaganthaniyaduka](/tipitaka/38P2/5/5.4.md) / [5.4.7 Pañhāvāra](/tipitaka/38P2/5/5.4/5.4.7.md) / [5.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/5/5.4/5.4.7/5.4.7.1--4.md) / [5.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.4/5.4.7/5.4.7.1--4/5.4.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.4 Ganthaganthaniyaduka](../../../../5.4.md) / [5.4.7 Pañhāvāra](../../../5.4.7.md) / [5.4.7.1--4 Paccayānulomādi](../../5.4.7.1--4.md) / [5.4.7.1--4.1 Vibhaṅgavāra](../5.4.7.1--4.1.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -35,6 +35,6 @@
 
 
 
-[Go to previous page (Hetu)](/tipitaka/38P2/5/5.4/5.4.7/5.4.7.1--4/5.4.7.1--4.1/Hetu.md) / [Go to parent page (5.4.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.4/5.4.7/5.4.7.1--4/5.4.7.1--4.1.md) / [Go to next page (5.5 Ganthaganthasampayuttaduka)](/tipitaka/38P2/5/5.5.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (5.4.7.1--4.1 Vibhaṅgavāra)](../5.4.7.1--4.1.md) / [Go to next page (5.5 Ganthaganthasampayuttaduka)](../../../../5.5.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [2 Kusalattika, Hetugocchaka](/tipitaka/39P4/2.md) / [2.2 Kusalattika, Sahetukaduka](/tipitaka/39P4/2/2.2.md) / [2.2.2 Ahetukapada](/tipitaka/39P4/2/2.2/2.2.2.md) / [2.2.2.1--7 Paṭiccādivāra](/tipitaka/39P4/2/2.2/2.2.2/2.2.2.1--7.md) / [Paccanīya](/tipitaka/39P4/2/2.2/2.2.2/2.2.2.1--7/Paccaniya.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [2 Kusalattika, Hetugocchaka](../../../../../2.md) / [2.2 Kusalattika, Sahetukaduka](../../../../2.2.md) / [2.2.2 Ahetukapada](../../../2.2.2.md) / [2.2.2.1--7 Paṭiccādivāra](../../2.2.2.1--7.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
@@ -41,6 +41,6 @@
 
 965\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Nahetu-naārammaṇa)](/tipitaka/39P4/2/2.2/2.2.2/2.2.2.1--7/Paccaniya/Nahetu-naarammana.md) / [Go to parent page (Paccanīya)](/tipitaka/39P4/2/2.2/2.2.2/2.2.2.1--7/Paccaniya.md) / [Go to next page (2.3 Kusalattika, Hetusampayuttaduka)](/tipitaka/39P4/2/2.3.md)
+[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (2.3 Kusalattika, Hetusampayuttaduka)](../../../../2.3.md)
 
 

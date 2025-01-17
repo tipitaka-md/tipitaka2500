@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.1 Ganthaduka](/tipitaka/38P2/5/5.1.md) / [5.1.1 Paṭiccavāra](/tipitaka/38P2/5/5.1/5.1.1.md) / [5.1.1.2 Paccayapaccanīya](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2.md) / [5.1.1.2.1 Vibhaṅgavāra](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.1 Ganthaduka](../../../../5.1.md) / [5.1.1 Paṭiccavāra](../../../5.1.1.md) / [5.1.1.2 Paccayapaccanīya](../../5.1.1.2.md) / [5.1.1.2.1 Vibhaṅgavāra](../5.1.1.2.1.md)
 
 # 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
@@ -25,6 +25,6 @@
 
 1629\. 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀯, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Nahetu)](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Nahetu.md) / [Go to parent page (5.1.1.2.1 Vibhaṅgavāra)](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1.md) / [Go to next page (Napurejātādi)](/tipitaka/38P2/5/5.1/5.1.1/5.1.1.2/5.1.1.2.1/Napurejatadi.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (5.1.1.2.1 Vibhaṅgavāra)](../5.1.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
 
 

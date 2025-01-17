@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.2 Paccayapaccanīya](/tipitaka/36P1/5/5.1/5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.1 Paṭiccavāra](../../../5.1.md) / [5.1.2 Paccayapaccanīya](../../5.1.2.md) / [5.1.2.1 Vibhaṅgavāra](../5.1.2.1.md)
 
 # 𑀦𑀫𑀕𑁆𑀕
 
@@ -17,6 +17,6 @@
 
 2504\. 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀼𑀧𑀸𑀤𑀸𑀦𑀺𑀬𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀼𑀧𑀸𑀤𑀸𑀦𑀺𑀬𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑀸—  𑀅𑀳𑁂𑀢𑀼𑀓𑀁 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀼𑀧𑀸𑀤𑀸𑀦𑀺𑀬𑀁 𑀏𑀓𑀁 𑀔𑀦𑁆𑀥𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀢𑀬𑁄 𑀔𑀦𑁆𑀥𑀸…  𑀧𑀜𑁆𑀘𑁇
 
-[Go to previous page (Najhāna)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Najhana.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1.md) / [Go to next page (Nasampayutta)](/tipitaka/36P1/5/5.1/5.1.2/5.1.2.1/Nasampayutta.md)
+[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
 
 

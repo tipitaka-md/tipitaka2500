@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [8 Dassanattika](/tipitaka/40P13/8.md) / [8.1--7 Paṭiccādivāra](/tipitaka/40P13/8/8.1--7.md) / [Paccayānuloma](/tipitaka/40P13/8/8.1--7/Paccayanuloma.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [8 Dassanattika](../../../8.md) / [8.1--7 Paṭiccādivāra](../../8.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -27,6 +27,6 @@
 
 90\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺…𑀧𑁂…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccayānuloma)](/tipitaka/40P13/8/8.1--7/Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](/tipitaka/40P13/8/8.1--7/Paccayanuloma.md) / [Go to next page (9 Dassanahetuttika)](/tipitaka/40P13/9.md)
+[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (9 Dassanahetuttika)](../../../9.md)
 
 

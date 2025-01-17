@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.3 Nīvaraṇasampayuttaduka](/tipitaka/38P2/8/8.3.md) / [8.3.7 Pañhāvāra](/tipitaka/38P2/8/8.3/8.3.7.md) / [8.3.7.1 Paccayānuloma](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.3 Nīvaraṇasampayuttaduka](../../../../8.3.md) / [8.3.7 Pañhāvāra](../../../8.3.7.md) / [8.3.7.1 Paccayānuloma](../../8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](../8.3.7.1.1.md)
 
 # 𑀅𑀦𑀦𑁆𑀢𑀭
 
@@ -23,6 +23,6 @@
 
 2042\. 𑀦𑀻𑀯𑀭𑀡𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀆𑀯𑀚𑁆𑀚𑀦𑀸 𑀦𑀻𑀯𑀭𑀡𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀓𑀸𑀦𑀁 𑀔𑀦𑁆𑀥𑀸𑀦𑀁 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁨)
 
-[Go to previous page (Adhipati)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Adhipati.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md) / [Go to next page (Samanantarādi)](/tipitaka/38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1/Samanantaradi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

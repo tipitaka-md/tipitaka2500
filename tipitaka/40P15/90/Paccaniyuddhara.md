@@ -1,5 +1,5 @@
 
-[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P15.md) / [90 Saraṇaduka, Sanidassanattika](/tipitaka/40P15/90.md)
+[Home](/) / [40P15 Dhammānulomapaccanīya (3), Dukatikapaṭṭhānapāḷi (3)](../../40P15.md) / [90 Saraṇaduka, Sanidassanattika](../90.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -15,6 +15,6 @@
 
 291\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Nahetu-naārammaṇa)](/tipitaka/40P15/90/Nahetu-naarammana.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](/tipitaka/40P15/90.md)
+[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](../90.md)
 
 

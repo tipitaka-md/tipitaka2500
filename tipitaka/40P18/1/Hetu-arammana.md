@@ -1,5 +1,5 @@
 
-[Home](/) / [40P18 Dhammānulomapaccanīya (3), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P18.md) / [1 Hetuduka, Sahetukaduka](/tipitaka/40P18/1.md)
+[Home](/) / [40P18 Dhammānulomapaccanīya (3), Dukadukapaṭṭhānapāḷi (6)](../../40P18.md) / [1 Hetuduka, Sahetukaduka](../1.md)
 
 # 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -27,6 +27,6 @@
 
 15\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺…𑀧𑁂…  𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀆𑀲𑁂𑀯𑀦𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀘𑀢𑁆𑀢𑀸𑀭𑀺𑁇
 
-[Go to previous page (1 Hetuduka, Sahetukaduka)](/tipitaka/40P18/1.md) / [Go to parent page (1 Hetuduka, Sahetukaduka)](/tipitaka/40P18/1.md) / [Go to next page (2 Hetuduka, Hetusampayuttaduka)](/tipitaka/40P18/2.md)
+[Go to previous page (1 Hetuduka, Sahetukaduka)](../1.md) / [Go to parent page (1 Hetuduka, Sahetukaduka)](../1.md) / [Go to next page (2 Hetuduka, Hetusampayuttaduka)](../2.md)
 
 

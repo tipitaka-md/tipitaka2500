@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.6 Lokiyaduka](/tipitaka/38P2/2/2.6.md) / [2.6.1 Paṭiccavāra](/tipitaka/38P2/2/2.6/2.6.1.md) / [2.6.1.1 Paccayānuloma](/tipitaka/38P2/2/2.6/2.6.1/2.6.1.1.md) / [2.6.1.1.2 Saṅkhyāvāra](/tipitaka/38P2/2/2.6/2.6.1/2.6.1.1/2.6.1.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.6 Lokiyaduka](../../../../2.6.md) / [2.6.1 Paṭiccavāra](../../../2.6.1.md) / [2.6.1.1 Paccayānuloma](../../2.6.1.1.md) / [2.6.1.1.2 Saṅkhyāvāra](../2.6.1.1.2.md)
 
 # 𑀲𑀼𑀤𑁆𑀥
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (2.6.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/2/2.6/2.6.1/2.6.1.1/2.6.1.1.2.md) / [Go to parent page (2.6.1.1.2 Saṅkhyāvāra)](/tipitaka/38P2/2/2.6/2.6.1/2.6.1.1/2.6.1.1.2.md) / [Go to next page (2.6.1.2 Paccayapaccanīya)](/tipitaka/38P2/2/2.6/2.6.1/2.6.1.2.md)
+[Go to previous page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md) / [Go to parent page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md) / [Go to next page (2.6.1.2 Paccayapaccanīya)](../../2.6.1.2.md)
 
 

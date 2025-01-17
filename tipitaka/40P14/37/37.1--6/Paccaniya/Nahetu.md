@@ -1,5 +1,5 @@
 
-[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](/tipitaka/40P14.md) / [37 Saraṇaduka](/tipitaka/40P14/37.md) / [37.1--6 Paṭiccādivāra](/tipitaka/40P14/37/37.1--6.md) / [Paccanīya](/tipitaka/40P14/37/37.1--6/Paccaniya.md)
+[Home](/) / [40P14 Dhammānulomapaccanīya (3), Dukapaṭṭhānapāḷi (2)](../../../../40P14.md) / [37 Saraṇaduka](../../../37.md) / [37.1--6 Paṭiccādivāra](../../37.1--6.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀦𑀳𑁂𑀢𑀼
 
@@ -21,6 +21,6 @@
 
 176\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccanīya)](/tipitaka/40P14/37/37.1--6/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/40P14/37/37.1--6/Paccaniya.md) / [Go to next page (37.7 Pañhāvāra)](/tipitaka/40P14/37/37.7.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (37.7 Pañhāvāra)](../../37.7.md)
 
 

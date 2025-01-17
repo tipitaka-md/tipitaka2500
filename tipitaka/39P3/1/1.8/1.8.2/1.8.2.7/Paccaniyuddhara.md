@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.8 Hetuduka, Dassanenapahātabbattika](/tipitaka/39P3/1/1.8.md) / [1.8.2 Bhāvanāyapahātabbapada](/tipitaka/39P3/1/1.8/1.8.2.md) / [1.8.2.7 Pañhāvāra](/tipitaka/39P3/1/1.8/1.8.2/1.8.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.8 Hetuduka, Dassanenapahātabbattika](../../../1.8.md) / [1.8.2 Bhāvanāyapahātabbapada](../../1.8.2.md) / [1.8.2.7 Pañhāvāra](../1.8.2.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -27,6 +27,6 @@
 
 553\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀲𑁆𑀲 𑀅𑀦𑀼𑀮𑁄𑀫𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀫𑁆𑀧𑀺 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀫𑁆𑀧𑀺 𑀕𑀡𑀺𑀢𑀁, 𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Hetu-ārammaṇa)](/tipitaka/39P3/1/1.8/1.8.2/1.8.2.7/Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.8.2.7 Pañhāvāra)](/tipitaka/39P3/1/1.8/1.8.2/1.8.2.7.md) / [Go to next page (1.8.3 Nevadassanenanabhāvanāyapahātabbapada)](/tipitaka/39P3/1/1.8/1.8.3.md)
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.8.2.7 Pañhāvāra)](../1.8.2.7.md) / [Go to next page (1.8.3 Nevadassanenanabhāvanāyapahātabbapada)](../../1.8.3.md)
 
 

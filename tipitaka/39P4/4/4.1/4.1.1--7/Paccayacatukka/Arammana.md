@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](/tipitaka/39P4/4.md) / [4.1 Kusalattika, Āsavaduka](/tipitaka/39P4/4/4.1.md) / [4.1.1--7 Paṭiccādivāra](/tipitaka/39P4/4/4.1/4.1.1--7.md) / [Paccayacatukka](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../../../4.md) / [4.1 Kusalattika, Āsavaduka](../../../4.1.md) / [4.1.1--7 Paṭiccādivāra](../../4.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -27,6 +27,6 @@
 
 1236\. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇 𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺…𑀧𑁂…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Hetu)](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](/tipitaka/39P4/4/4.1/4.1.1--7/Paccayacatukka/Hetu-arammana.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

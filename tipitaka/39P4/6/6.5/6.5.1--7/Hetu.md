@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [6 Kusalattika, Kilesagocchaka](/tipitaka/39P4/6.md) / [6.5 Kusalattika, Kilesasaṃkilesikaduka](/tipitaka/39P4/6/6.5.md) / [6.5.1--7 Paṭiccādivāra](/tipitaka/39P4/6/6.5/6.5.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [6 Kusalattika, Kilesagocchaka](../../../6.md) / [6.5 Kusalattika, Kilesasaṃkilesikaduka](../../6.5.md) / [6.5.1--7 Paṭiccādivāra](../6.5.1--7.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -47,6 +47,6 @@
 
 1496\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇 𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (6.5.1--7 Paṭiccādivāra)](/tipitaka/39P4/6/6.5/6.5.1--7.md) / [Go to parent page (6.5.1--7 Paṭiccādivāra)](/tipitaka/39P4/6/6.5/6.5.1--7.md) / [Go to next page (6.6 Kusalattika, Kilesasaṃkiliṭṭhaduka)](/tipitaka/39P4/6/6.6.md)
+[Go to previous page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to parent page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to next page (6.6 Kusalattika, Kilesasaṃkiliṭṭhaduka)](../../6.6.md)
 
 

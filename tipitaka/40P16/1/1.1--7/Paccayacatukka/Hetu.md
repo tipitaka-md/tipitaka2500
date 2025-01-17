@@ -1,5 +1,5 @@
 
-[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/40P16.md) / [1 Kusalattika, Hetuduka](/tipitaka/40P16/1.md) / [1.1--7 Paṭiccādivāra](/tipitaka/40P16/1/1.1--7.md) / [Paccayacatukka](/tipitaka/40P16/1/1.1--7/Paccayacatukka.md)
+[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](../../../../40P16.md) / [1 Kusalattika, Hetuduka](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -21,6 +21,6 @@
 
 5\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑁂𑀭𑀲, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇
 
-[Go to previous page (Paccayacatukka)](/tipitaka/40P16/1/1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/40P16/1/1.1--7/Paccayacatukka.md) / [Go to next page (Paccanīya)](/tipitaka/40P16/1/1.1--7/Paccaniya.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

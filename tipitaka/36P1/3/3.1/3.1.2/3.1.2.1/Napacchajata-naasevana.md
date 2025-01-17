@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.2 Paccayapaccanīya](/tipitaka/36P1/3/3.1/3.1.2.md) / [3.1.2.1 Vibhaṅgavāra](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.2 Paccayapaccanīya](../../3.1.2.md) / [3.1.2.1 Vibhaṅgavāra](../3.1.2.1.md)
 
 # 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢-𑀦𑀆𑀲𑁂𑀯𑀦
 
@@ -17,6 +17,6 @@
 
 1822\. 𑀲𑀼𑀔𑀸𑀬 𑀯𑁂𑀤𑀦𑀸𑀬 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀲𑀼𑀔𑀸𑀬 𑀯𑁂𑀤𑀦𑀸𑀬 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀫𑁆𑀧𑀺 𑀦𑀆𑀲𑁂𑀯𑀦𑀫𑁆𑀧𑀺 𑀧𑀭𑀺𑀧𑀼𑀡𑁆𑀡𑀁 𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺𑀓𑀁𑁇)
 
-[Go to previous page (Napurejāta)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1/Napurejata.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1.md) / [Go to next page (Nakamma)](/tipitaka/36P1/3/3.1/3.1.2/3.1.2.1/Nakamma.md)
+[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.10 Upekkhāsahagataduka](/tipitaka/38P2/13/13.10.md) / [13.10.3 Paccayavāra](/tipitaka/38P2/13/13.10/13.10.3.md) / [13.10.3.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../13.md) / [13.10 Upekkhāsahagataduka](../../../13.10.md) / [13.10.3 Paccayavāra](../../13.10.3.md) / [13.10.3.1--4 Paccayānulomādi](../13.10.3.1--4.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -37,6 +37,6 @@
 
 
 
-[Go to previous page (13.10.3.1--4 Paccayānulomādi)](/tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4.md) / [Go to parent page (13.10.3.1--4 Paccayānulomādi)](/tipitaka/38P2/13/13.10/13.10.3/13.10.3.1--4.md) / [Go to next page (13.10.4 Nissayavāra)](/tipitaka/38P2/13/13.10/13.10.4.md)
+[Go to previous page (13.10.3.1--4 Paccayānulomādi)](../13.10.3.1--4.md) / [Go to parent page (13.10.3.1--4 Paccayānulomādi)](../13.10.3.1--4.md) / [Go to next page (13.10.4 Nissayavāra)](../../13.10.4.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.6 Āsavavippayuttasāsavaduka, Kusalattika](/tipitaka/39P3/4/4.6.md) / [4.6.2 Abyākatapada](/tipitaka/39P3/4/4.6/4.6.2.md) / [4.6.2.7 Pañhāvāra](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../4.md) / [4.6 Āsavavippayuttasāsavaduka, Kusalattika](../../../4.6.md) / [4.6.2 Abyākatapada](../../4.6.2.md) / [4.6.2.7 Pañhāvāra](../4.6.2.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -39,6 +39,6 @@
 
 
 
-[Go to previous page (Hetu-ārammaṇa)](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7/Paccayacatukka/Hetu-arammana.md) / [Go to parent page (4.6.2.7 Pañhāvāra)](/tipitaka/39P3/4/4.6/4.6.2/4.6.2.7.md) / [Go to next page (5 Saññojanagocchaka, Kusalattika)](/tipitaka/39P3/5.md)
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (4.6.2.7 Pañhāvāra)](../4.6.2.7.md) / [Go to next page (5 Saññojanagocchaka, Kusalattika)](../../../../5.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [2 Hetugocchaka, Kusalattika](/tipitaka/39P3/2.md) / [2.4 Hetusahetukaduka, Kusalattika](/tipitaka/39P3/2/2.4.md) / [2.4.2 Akusalapada](/tipitaka/39P3/2/2.4/2.4.2.md) / [2.4.2.7 Pañhāvāra](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [2 Hetugocchaka, Kusalattika](../../../../2.md) / [2.4 Hetusahetukaduka, Kusalattika](../../../2.4.md) / [2.4.2 Akusalapada](../../2.4.2.md) / [2.4.2.7 Pañhāvāra](../2.4.2.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -27,6 +27,6 @@
 
 1391\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀲𑁆𑀲 𑀅𑀦𑀼𑀮𑁄𑀫𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀫𑁆𑀧𑀺 𑀅𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀫𑁆𑀧𑀺 𑀕𑀡𑀺𑀢𑀁, 𑀏𑀯𑀁 𑀕𑀡𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Hetu)](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.7/Paccayacatukka/Hetu.md) / [Go to parent page (2.4.2.7 Pañhāvāra)](/tipitaka/39P3/2/2.4/2.4.2/2.4.2.7.md) / [Go to next page (2.4.3 Abyākatapada)](/tipitaka/39P3/2/2.4/2.4.3.md)
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.4.2.7 Pañhāvāra)](../2.4.2.7.md) / [Go to next page (2.4.3 Abyākatapada)](../../2.4.3.md)
 
 

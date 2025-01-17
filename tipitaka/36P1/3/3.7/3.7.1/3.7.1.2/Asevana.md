@@ -1,11 +1,11 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.7 Pañhāvāra](../../../3.7.md) / [3.7.1 Paccayānuloma](../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../3.7.1.2.md)
 
 # 𑀆𑀲𑁂𑀯𑀦
 
-* [Āsevanasabhāga](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Asevana/Asevanasabhaga.md)
-* [Ghaṭanā](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Asevana/Ghatana.md)
+* [Āsevanasabhāga](Asevana/Asevanasabhaga.md)
+* [Ghaṭanā](Asevana/Ghatana.md)
 
-[Go to previous page (Ghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Upanissaya/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2.md) / [Go to next page (Āsevanasabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Asevana/Asevanasabhaga.md)
+[Go to previous page (Ghaṭanā)](Upanissaya/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Āsevanasabhāga)](Asevana/Asevanasabhaga.md)
 
 

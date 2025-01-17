@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.1 Vibhaṅgavāra](../2.7.1.1.md)
 
 # 𑀦𑀺𑀲𑁆𑀲𑀬
 
@@ -43,6 +43,6 @@
 
 892\. 𑀅𑀓𑀼𑀲𑀮𑁄 𑀘 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀅𑀓𑀼𑀲𑀮𑀸 𑀔𑀦𑁆𑀥𑀸 𑀘 𑀫𑀳𑀸𑀪𑀽𑀢𑀸 𑀘 𑀘𑀺𑀢𑁆𑀢𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀸𑀦𑀁 𑀭𑀽𑀧𑀸𑀦𑀁 𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁨)
 
-[Go to previous page (Aññamañña)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Annamanna.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1.md) / [Go to next page (Upanissaya)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.1/Upanissaya.md)
+[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

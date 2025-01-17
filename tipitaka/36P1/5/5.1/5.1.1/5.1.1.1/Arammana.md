@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [5 Upādinnattika](/tipitaka/36P1/5.md) / [5.1 Paṭiccavāra](/tipitaka/36P1/5/5.1.md) / [5.1.1 Paccayānuloma](/tipitaka/36P1/5/5.1/5.1.1.md) / [5.1.1.1 Vibhaṅgavāra](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [5 Upādinnattika](../../../../5.md) / [5.1 Paṭiccavāra](../../../5.1.md) / [5.1.1 Paccayānuloma](../../5.1.1.md) / [5.1.1.1 Vibhaṅgavāra](../5.1.1.1.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -21,6 +21,6 @@
 
 2448\. 𑀅𑀦𑀼𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀅𑀦𑀼𑀧𑀸𑀤𑀸𑀦𑀺𑀬𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘…𑀧𑁂…  𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Hetu)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Hetu.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1.md) / [Go to next page (Adhipati)](/tipitaka/36P1/5/5.1/5.1.1/5.1.1.1/Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

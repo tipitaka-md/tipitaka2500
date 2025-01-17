@@ -1,5 +1,5 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](/tipitaka/18Sn.md) / [5 Pārāyanavagga](/tipitaka/18Sn/5.md)
+[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # 𑀧𑀸𑀭𑀸𑀬𑀦𑀢𑁆𑀣𑀼𑀢𑀺𑀕𑀸𑀣𑀸
 
@@ -67,6 +67,6 @@ _𑀫𑀕𑁆𑀕𑁄 𑀲𑁄 𑀧𑀸𑀭𑀁 𑀕𑀫𑀦𑀸𑀬,_
 _𑀢𑀲𑁆𑀫𑀸 𑀧𑀸𑀭𑀸𑀬𑀦𑀁 𑀇𑀢𑀺𑁇 (𑁭)_  
 
 
-[Go to previous page (5.16 Piṅgiyamāṇavapucchā)](/tipitaka/18Sn/5/5.16.md) / [Go to parent page (5 Pārāyanavagga)](/tipitaka/18Sn/5.md) / [Go to next page (Pārāyanānugītigāthā)](/tipitaka/18Sn/5/Parayananugitigatha.md)
+[Go to previous page (5.16 Piṅgiyamāṇavapucchā)](5.16.md) / [Go to parent page (5 Pārāyanavagga)](../5.md) / [Go to next page (Pārāyanānugītigāthā)](Parayananugitigatha.md)
 
 

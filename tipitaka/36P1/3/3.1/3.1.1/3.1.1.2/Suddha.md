@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.1 Paṭiccavāra](/tipitaka/36P1/3/3.1.md) / [3.1.1 Paccayānuloma](/tipitaka/36P1/3/3.1/3.1.1.md) / [3.1.1.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.1 Paccayānuloma](../../3.1.1.md) / [3.1.1.2 Saṅkhyāvāra](../3.1.1.2.md)
 
 # 𑀲𑀼𑀤𑁆𑀥
 
@@ -17,6 +17,6 @@
 
 1807\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑀻𑀡𑀺, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (3.1.1.2 Saṅkhyāvāra)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.2.md) / [Go to parent page (3.1.1.2 Saṅkhyāvāra)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.2.md) / [Go to next page (Hetudukādi)](/tipitaka/36P1/3/3.1/3.1.1/3.1.1.2/Hetudukadi.md)
+[Go to previous page (3.1.1.2 Saṅkhyāvāra)](../3.1.1.2.md) / [Go to parent page (3.1.1.2 Saṅkhyāvāra)](../3.1.1.2.md) / [Go to next page (Hetudukādi)](Hetudukadi.md)
 
 

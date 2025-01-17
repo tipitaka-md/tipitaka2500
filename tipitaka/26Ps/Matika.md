@@ -1,5 +1,5 @@
 
-[Home](/) / [26Ps Paṭisambhidāmaggapāḷi](/tipitaka/26Ps.md)
+[Home](/) / [26Ps Paṭisambhidāmaggapāḷi](../26Ps.md)
 
 # 𑀫𑀸𑀢𑀺𑀓𑀸
 
@@ -305,6 +305,6 @@
 
 
 
-[Go to previous page (26Ps Paṭisambhidāmaggapāḷi)](/tipitaka/26Ps/0.md) / [Go to parent page (26Ps Paṭisambhidāmaggapāḷi)](/tipitaka/26Ps/0.md) / [Go to next page (1 Mahāvagga)](/tipitaka/26Ps/1.md)
+[Go to previous page (26Ps Paṭisambhidāmaggapāḷi)](0.md) / [Go to parent page (26Ps Paṭisambhidāmaggapāḷi)](0.md) / [Go to next page (1 Mahāvagga)](1.md)
 
 

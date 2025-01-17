@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/39P5.md) / [1 Kusalattika, Tika](/tipitaka/39P5/1.md) / [1.1 Kusalattika, Vedanāttika](/tipitaka/39P5/1/1.1.md) / [1.1.1 Sukhāyavedanāyasampayuttapada](/tipitaka/39P5/1/1.1/1.1.1.md) / [1.1.1.1--7 Paṭiccādivāra](/tipitaka/39P5/1/1.1/1.1.1/1.1.1.1--7.md) / [Paccayacatukka](/tipitaka/39P5/1/1.1/1.1.1/1.1.1.1--7/Paccayacatukka.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../../../39P5.md) / [1 Kusalattika, Tika](../../../../../1.md) / [1.1 Kusalattika, Vedanāttika](../../../../1.1.md) / [1.1.1 Sukhāyavedanāyasampayuttapada](../../../1.1.1.md) / [1.1.1.1--7 Paṭiccādivāra](../../1.1.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -43,6 +43,6 @@
 
 11\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P5/1/1.1/1.1.1/1.1.1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P5/1/1.1/1.1.1/1.1.1.1--7/Paccayacatukka.md) / [Go to next page (1.1.2 Dukkhāyavedanāyasampayuttapada)](/tipitaka/39P5/1/1.1/1.1.2.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.2 Dukkhāyavedanāyasampayuttapada)](../../../1.1.2.md)
 
 

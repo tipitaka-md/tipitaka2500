@@ -1,5 +1,5 @@
 
-[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](/tipitaka/40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](/tipitaka/40P24/22.md) / [22.1 Sauttarapada](/tipitaka/40P24/22/22.1.md) / [22.1.7 Pañhāvāra](/tipitaka/40P24/22/22.1/22.1.7.md)
+[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](../../../../40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](../../../22.md) / [22.1 Sauttarapada](../../22.1.md) / [22.1.7 Pañhāvāra](../22.1.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -23,6 +23,6 @@
 
 192\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Hetu-ārammaṇa)](/tipitaka/40P24/22/22.1/22.1.7/Hetu-arammana.md) / [Go to parent page (22.1.7 Pañhāvāra)](/tipitaka/40P24/22/22.1/22.1.7.md) / [Go to next page (22.2 Anuttarapada)](/tipitaka/40P24/22/22.2.md)
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (22.1.7 Pañhāvāra)](../22.1.7.md) / [Go to next page (22.2 Anuttarapada)](../../22.2.md)
 
 

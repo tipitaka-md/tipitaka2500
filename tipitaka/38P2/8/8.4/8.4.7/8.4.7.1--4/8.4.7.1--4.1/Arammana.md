@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [8 Nīvaraṇagocchaka](/tipitaka/38P2/8.md) / [8.4 Nīvaraṇanīvaraṇiyaduka](/tipitaka/38P2/8/8.4.md) / [8.4.7 Pañhāvāra](/tipitaka/38P2/8/8.4/8.4.7.md) / [8.4.7.1--4 Paccayānulomādi](/tipitaka/38P2/8/8.4/8.4.7/8.4.7.1--4.md) / [8.4.7.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/8/8.4/8.4.7/8.4.7.1--4/8.4.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.4 Nīvaraṇanīvaraṇiyaduka](../../../../8.4.md) / [8.4.7 Pañhāvāra](../../../8.4.7.md) / [8.4.7.1--4 Paccayānulomādi](../../8.4.7.1--4.md) / [8.4.7.1--4.1 Vibhaṅgavāra](../8.4.7.1--4.1.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -33,6 +33,6 @@
 
 
 
-[Go to previous page (Hetu)](/tipitaka/38P2/8/8.4/8.4.7/8.4.7.1--4/8.4.7.1--4.1/Hetu.md) / [Go to parent page (8.4.7.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/8/8.4/8.4.7/8.4.7.1--4/8.4.7.1--4.1.md) / [Go to next page (8.5 Nīvaraṇanīvaraṇasampayuttaduka)](/tipitaka/38P2/8/8.5.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (8.4.7.1--4.1 Vibhaṅgavāra)](../8.4.7.1--4.1.md) / [Go to next page (8.5 Nīvaraṇanīvaraṇasampayuttaduka)](../../../../8.5.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.1 Paṭiccavāra](/tipitaka/37P1/9/9.1.md) / [9.1.2 Paccayapaccanīya](/tipitaka/37P1/9/9.1/9.1.2.md) / [9.1.2.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.2 Paccayapaccanīya](../../9.1.2.md) / [9.1.2.1 Vibhaṅgavāra](../9.1.2.1.md)
 
 # 𑀦𑀫𑀕𑁆𑀕
 
@@ -17,6 +17,6 @@
 
 845\. 𑀦𑁂𑀯𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀦𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀁…𑀧𑁂…  𑀦𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑀸—  𑀅𑀳𑁂𑀢𑀼𑀓𑀁 𑀦𑁂𑀯𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀦𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀁…𑀧𑁂…  𑀅𑀳𑁂𑀢𑀼𑀓𑀧𑀝𑀺𑀲𑀦𑁆𑀥𑀺𑀓𑁆𑀔𑀡𑁂…𑀧𑁂…  𑀏𑀓𑀁 𑀫𑀳𑀸𑀪𑀽𑀢𑀁…𑀧𑁂…  𑀩𑀸𑀳𑀺𑀭𑀁…  𑀆𑀳𑀸𑀭𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀁…  𑀉𑀢𑀼𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀁…  𑀅𑀲𑀜𑁆𑀜𑀲𑀢𑁆𑀢𑀸𑀦𑀁 𑀏𑀓𑀁 𑀫𑀳𑀸𑀪𑀽𑀢𑀁…𑀧𑁂… 𑁇
 
-[Go to previous page (Najhāna)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Najhana.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1.md) / [Go to next page (Nasampayutta)](/tipitaka/37P1/9/9.1/9.1.2/9.1.2.1/Nasampayutta.md)
+[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
 
 

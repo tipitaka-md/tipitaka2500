@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [7 Vitakkattika](/tipitaka/37P1/7.md) / [7.3 Paccayavāra](/tipitaka/37P1/7/7.3.md) / [7.3.2 Paccayapaccanīya](/tipitaka/37P1/7/7.3/7.3.2.md) / [7.3.2.1 Vibhaṅgavāra](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.3 Paccayavāra](../../../7.3.md) / [7.3.2 Paccayapaccanīya](../../7.3.2.md) / [7.3.2.1 Vibhaṅgavāra](../7.3.2.1.md)
 
 # 𑀦𑀓𑀫𑁆𑀫
 
@@ -35,6 +35,6 @@
 
 242\. (𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢𑀢𑀺𑀁𑀲 𑀧𑀜𑁆𑀳𑀸 𑀓𑀸𑀢𑀩𑁆𑀩𑀸𑁇 𑀦𑀆𑀳𑀸𑀭 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀦𑀛𑀸𑀦𑀦𑀫𑀕𑁆𑀕 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀦𑁄𑀦𑀢𑁆𑀣𑀺 𑀦𑁄𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (Naanantarādi)](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1/Naanantaradi.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.1.md) / [Go to next page (7.3.2.2 Saṅkhyāvāra)](/tipitaka/37P1/7/7.3/7.3.2/7.3.2.2.md)
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to next page (7.3.2.2 Saṅkhyāvāra)](../7.3.2.2.md)
 
 

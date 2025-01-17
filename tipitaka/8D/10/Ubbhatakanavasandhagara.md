@@ -1,5 +1,5 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](/tipitaka/8D.md) / [10 Saṅgītisutta](/tipitaka/8D/10.md)
+[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [10 Saṅgītisutta](../10.md)
 
 # 𑀉𑀩𑁆𑀪𑀢𑀓𑀦𑀯𑀲𑀦𑁆𑀥𑀸𑀕𑀸𑀭
 
@@ -25,6 +25,6 @@
 
 778\. 𑀅𑀣 𑀔𑁄 𑀪𑀕𑀯𑀸 𑀘𑀢𑀼𑀕𑁆𑀕𑀼𑀡𑀁 𑀲𑀗𑁆𑀖𑀸𑀝𑀺𑀁 𑀧𑀜𑁆𑀜𑀸𑀧𑁂𑀢𑁆𑀯𑀸 𑀤𑀓𑁆𑀔𑀺𑀡𑁂𑀦 𑀧𑀲𑁆𑀲𑁂𑀦 𑀲𑀻𑀳𑀲𑁂𑀬𑁆𑀬𑀁 𑀓𑀧𑁆𑀧𑁂𑀲𑀺 𑀧𑀸𑀤𑁂 𑀧𑀸𑀤𑀁 𑀅𑀘𑁆𑀘𑀸𑀥𑀸𑀬, 𑀲𑀢𑁄 𑀲𑀫𑁆𑀧𑀚𑀸𑀦𑁄 𑀉𑀝𑁆𑀞𑀸𑀦𑀲𑀜𑁆𑀜𑀁 𑀫𑀦𑀲𑀺 𑀓𑀭𑀺𑀢𑁆𑀯𑀸𑁇
 
-[Go to previous page (10 Saṅgītisutta)](/tipitaka/8D/10.md) / [Go to parent page (10 Saṅgītisutta)](/tipitaka/8D/10.md) / [Go to next page (Bhinnanigaṇṭhavatthu)](/tipitaka/8D/10/Bhinnaniganthavatthu.md)
+[Go to previous page (10 Saṅgītisutta)](../10.md) / [Go to parent page (10 Saṅgītisutta)](../10.md) / [Go to next page (Bhinnanigaṇṭhavatthu)](Bhinnaniganthavatthu.md)
 
 

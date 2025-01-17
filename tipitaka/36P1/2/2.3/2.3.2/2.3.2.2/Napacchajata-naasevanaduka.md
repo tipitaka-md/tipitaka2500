@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.3 Paccayavāra](/tipitaka/36P1/2/2.3.md) / [2.3.2 Paccayapaccanīya](/tipitaka/36P1/2/2.3/2.3.2.md) / [2.3.2.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.3 Paccayavāra](../../../2.3.md) / [2.3.2 Paccayapaccanīya](../../2.3.2.md) / [2.3.2.2 Saṅkhyāvāra](../2.3.2.2.md)
 
 # 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢-𑀦𑀆𑀲𑁂𑀯𑀦𑀤𑀼𑀓
 
@@ -17,9 +17,9 @@
 
 557\. 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀧𑀜𑁆𑀘, 𑀦𑁅𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀓𑀫𑁆𑀫𑁂 𑀲𑀢𑁆𑀢, 𑀦𑀯𑀺𑀧𑀸𑀓𑁂 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀦𑀆𑀳𑀸𑀭𑁂 𑀏𑀓𑀁, 𑀦𑁃𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀏𑀓𑀁, 𑀦𑀛𑀸𑀦𑁂 𑀏𑀓𑀁, 𑀦𑀫𑀕𑁆𑀕𑁂 𑀏𑀓𑀁, 𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀧𑀜𑁆𑀘, 𑀦𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀢𑀻𑀡𑀺, 𑀦𑁄𑀦𑀢𑁆𑀣𑀺𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇
 
-* [Tika](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Napacchajata-naasevanaduka/Tika.md)
-* [Catukka](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Napacchajata-naasevanaduka/Catukka.md)
+* [Tika](Napacchajata-naasevanaduka/Tika.md)
+* [Catukka](Napacchajata-naasevanaduka/Catukka.md)
 
-[Go to previous page (Catukka)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Napurejataduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2.md) / [Go to next page (Tika)](/tipitaka/36P1/2/2.3/2.3.2/2.3.2.2/Napacchajata-naasevanaduka/Tika.md)
+[Go to previous page (Catukka)](Napurejataduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Tika)](Napacchajata-naasevanaduka/Tika.md)
 
 

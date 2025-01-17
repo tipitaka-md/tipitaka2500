@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [4 Āsavagocchaka, Kusalattika](/tipitaka/39P3/4.md) / [4.4 Āsavasāsavaduka, Kusalattika](/tipitaka/39P3/4/4.4.md) / [4.4.2 Akusalapada](/tipitaka/39P3/4/4.4/4.4.2.md) / [4.4.2.7 Pañhāvāra](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../4.md) / [4.4 Āsavasāsavaduka, Kusalattika](../../../4.4.md) / [4.4.2 Akusalapada](../../4.4.2.md) / [4.4.2.7 Pañhāvāra](../4.4.2.7.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -21,6 +21,6 @@
 
 1658\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀲𑀢𑁆𑀢, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀆𑀲𑁂𑀯𑀦𑁂 𑀦𑀯, 𑀓𑀫𑁆𑀫𑁂 𑀆𑀳𑀸𑀭𑁂 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑁂 𑀛𑀸𑀦𑁂 𑀢𑀻𑀡𑀺, 𑀫𑀕𑁆𑀕𑁂 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (4.4.2.7 Pañhāvāra)](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7.md) / [Go to parent page (4.4.2.7 Pañhāvāra)](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/39P3/4/4.4/4.4.2/4.4.2.7/Paccaniyuddhara.md)
+[Go to previous page (4.4.2.7 Pañhāvāra)](../4.4.2.7.md) / [Go to parent page (4.4.2.7 Pañhāvāra)](../4.4.2.7.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
 
 

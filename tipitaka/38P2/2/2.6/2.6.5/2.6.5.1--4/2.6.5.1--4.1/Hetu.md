@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [2 Cūḷantaraduka](/tipitaka/38P2/2.md) / [2.6 Lokiyaduka](/tipitaka/38P2/2/2.6.md) / [2.6.5 Saṃsaṭṭhavāra](/tipitaka/38P2/2/2.6/2.6.5.md) / [2.6.5.1--4 Paccayānulomādi](/tipitaka/38P2/2/2.6/2.6.5/2.6.5.1--4.md) / [2.6.5.1--4.1 Vibhaṅgavāra](/tipitaka/38P2/2/2.6/2.6.5/2.6.5.1--4/2.6.5.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.6 Lokiyaduka](../../../../2.6.md) / [2.6.5 Saṃsaṭṭhavāra](../../../2.6.5.md) / [2.6.5.1--4 Paccayānulomādi](../../2.6.5.1--4.md) / [2.6.5.1--4.1 Vibhaṅgavāra](../2.6.5.1--4.1.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -23,6 +23,6 @@
 
 886\. (𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑁄 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑁄, 𑀲𑀳 𑀕𑀡𑀦𑀸𑀳𑀺 𑀤𑁆𑀯𑁂 𑀧𑀜𑁆𑀳𑀸𑁇)
 
-[Go to previous page (2.6.5.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.5/2.6.5.1--4/2.6.5.1--4.1.md) / [Go to parent page (2.6.5.1--4.1 Vibhaṅgavāra)](/tipitaka/38P2/2/2.6/2.6.5/2.6.5.1--4/2.6.5.1--4.1.md) / [Go to next page (2.6.6 Sampayuttavāra)](/tipitaka/38P2/2/2.6/2.6.6.md)
+[Go to previous page (2.6.5.1--4.1 Vibhaṅgavāra)](../2.6.5.1--4.1.md) / [Go to parent page (2.6.5.1--4.1 Vibhaṅgavāra)](../2.6.5.1--4.1.md) / [Go to next page (2.6.6 Sampayuttavāra)](../../../2.6.6.md)
 
 

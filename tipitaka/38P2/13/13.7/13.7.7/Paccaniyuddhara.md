@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.7 Sappītikaduka](/tipitaka/38P2/13/13.7.md) / [13.7.7 Pañhāvāra](/tipitaka/38P2/13/13.7/13.7.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [13 Piṭṭhiduka](../../../13.md) / [13.7 Sappītikaduka](../../13.7.md) / [13.7.7 Pañhāvāra](../13.7.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -31,6 +31,6 @@
 
 
 
-[Go to previous page (Suddha)](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1.2/Suddha.md) / [Go to parent page (13.7.7 Pañhāvāra)](/tipitaka/38P2/13/13.7/13.7.7.md) / [Go to next page (13.8 Pītisahagataduka)](/tipitaka/38P2/13/13.8.md)
+[Go to previous page (Suddha)](13.7.7.1--4/13.7.7.1.2/Suddha.md) / [Go to parent page (13.7.7 Pañhāvāra)](../13.7.7.md) / [Go to next page (13.8 Pītisahagataduka)](../../13.8.md)
 
 

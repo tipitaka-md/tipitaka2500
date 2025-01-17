@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [3 Āsavagocchaka](/tipitaka/38P2/3.md) / [3.6 Āsavavippayuttasāsavaduka](/tipitaka/38P2/3/3.6.md) / [3.6.1--7 Paṭiccādivāra](/tipitaka/38P2/3/3.6/3.6.1--7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [3 Āsavagocchaka](../../../3.md) / [3.6 Āsavavippayuttasāsavaduka](../../3.6.md) / [3.6.1--7 Paṭiccādivāra](../3.6.1--7.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -31,6 +31,6 @@
 
 
 
-[Go to previous page (3.6.1--7 Paṭiccādivāra)](/tipitaka/38P2/3/3.6/3.6.1--7.md) / [Go to parent page (3.6.1--7 Paṭiccādivāra)](/tipitaka/38P2/3/3.6/3.6.1--7.md) / [Go to next page (4 Saññojanagocchaka)](/tipitaka/38P2/4.md)
+[Go to previous page (3.6.1--7 Paṭiccādivāra)](../3.6.1--7.md) / [Go to parent page (3.6.1--7 Paṭiccādivāra)](../3.6.1--7.md) / [Go to next page (4 Saññojanagocchaka)](../../../4.md)
 
 

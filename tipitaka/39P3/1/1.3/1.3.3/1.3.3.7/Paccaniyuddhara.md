@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [1 Hetuduka, Tika](/tipitaka/39P3/1.md) / [1.3 Hetuduka, Vipākattika](/tipitaka/39P3/1/1.3.md) / [1.3.3 Nevavipākanavipākadhammapada](/tipitaka/39P3/1/1.3/1.3.3.md) / [1.3.3.7 Pañhāvāra](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.3 Hetuduka, Vipākattika](../../../1.3.md) / [1.3.3 Nevavipākanavipākadhammapada](../../1.3.3.md) / [1.3.3.7 Pañhāvāra](../1.3.3.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
@@ -33,6 +33,6 @@
 
 
 
-[Go to previous page (Purejātādi)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7/Paccayacatukka/Purejatadi.md) / [Go to parent page (1.3.3.7 Pañhāvāra)](/tipitaka/39P3/1/1.3/1.3.3/1.3.3.7.md) / [Go to next page (1.4 Hetuduka, Upādinnattika)](/tipitaka/39P3/1/1.4.md)
+[Go to previous page (Purejātādi)](Paccayacatukka/Purejatadi.md) / [Go to parent page (1.3.3.7 Pañhāvāra)](../1.3.3.7.md) / [Go to next page (1.4 Hetuduka, Upādinnattika)](../../../1.4.md)
 
 

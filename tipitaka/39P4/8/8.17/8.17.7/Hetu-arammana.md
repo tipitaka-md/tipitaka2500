@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [8 Tika, Saraṇaduka](/tipitaka/39P4/8.md) / [8.17 Uppannattika, Saraṇaduka](/tipitaka/39P4/8/8.17.md) / [8.17.7 Pañhāvāra](/tipitaka/39P4/8/8.17/8.17.7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../8.md) / [8.17 Uppannattika, Saraṇaduka](../../8.17.md) / [8.17.7 Pañhāvāra](../8.17.7.md)
 
 # 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -23,6 +23,6 @@
 
 1881\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀁, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (8.17.7 Pañhāvāra)](/tipitaka/39P4/8/8.17/8.17.7.md) / [Go to parent page (8.17.7 Pañhāvāra)](/tipitaka/39P4/8/8.17/8.17.7.md) / [Go to next page (8.18 Atītattika, Saraṇaduka)](/tipitaka/39P4/8/8.18.md)
+[Go to previous page (8.17.7 Pañhāvāra)](../8.17.7.md) / [Go to parent page (8.17.7 Pañhāvāra)](../8.17.7.md) / [Go to next page (8.18 Atītattika, Saraṇaduka)](../../8.18.md)
 
 

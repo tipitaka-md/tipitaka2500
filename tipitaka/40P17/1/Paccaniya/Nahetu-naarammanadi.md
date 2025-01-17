@@ -1,5 +1,5 @@
 
-[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/40P17.md) / [1 Kusalattika, Vedanāttika](/tipitaka/40P17/1.md) / [Paccanīya](/tipitaka/40P17/1/Paccaniya.md)
+[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](../../../40P17.md) / [1 Kusalattika, Vedanāttika](../../1.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀦𑀳𑁂𑀢𑀼-𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
@@ -37,6 +37,6 @@
 
 15\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑁂𑀭𑀲, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀅𑀝𑁆𑀞𑀸𑀭𑀲, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀲𑀢𑁆𑀢𑀭𑀲, 𑀅𑀦𑀦𑁆𑀢𑀭𑁂 𑀦𑀯…𑀧𑁂…  𑀲𑀳𑀚𑀸𑀢𑁂 𑀢𑁂𑀭𑀲, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑁂 𑀦𑀯, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀢𑁂𑀭𑀲, 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀅𑀝𑁆𑀞𑀸𑀭𑀲, 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀦𑀯, 𑀓𑀫𑁆𑀫𑁂 𑀢𑁂𑀭𑀲, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺, 𑀆𑀳𑀸𑀭𑁂…𑀧𑁂…  𑀫𑀕𑁆𑀕𑁂 𑀢𑁂𑀭𑀲, 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯, 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇 (𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccanīya)](/tipitaka/40P17/1/Paccaniya.md) / [Go to parent page (Paccanīya)](/tipitaka/40P17/1/Paccaniya.md) / [Go to next page (1.1 Akusalapada)](/tipitaka/40P17/1/1.1.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.1 Akusalapada)](../1.1.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.1 Paṭiccavāra](/tipitaka/36P1/2/2.1.md) / [2.1.3 Paccayānulomapaccanīya](/tipitaka/36P1/2/2.1/2.1.3.md) / [Vippayuttaduka](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.3 Paccayānulomapaccanīya](../../2.1.3.md) / [Vippayuttaduka](../Vippayuttaduka.md)
 
 # 𑀢𑁂𑀯𑀻𑀲𑀓 (𑀲𑀯𑀺𑀧𑀸𑀓)
 
@@ -15,6 +15,6 @@
 
 344\. 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑁂 𑀏𑀓𑀁, 𑀦𑀆𑀲𑁂𑀯𑀦𑁂 𑀏𑀓𑀁𑁇
 
-[Go to previous page (Cuddasaka (savipāka))](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka/uddasaka_savipaka.md) / [Go to parent page (Vippayuttaduka)](/tipitaka/36P1/2/2.1/2.1.3/Vippayuttaduka.md) / [Go to next page (Atthiduka)](/tipitaka/36P1/2/2.1/2.1.3/Atthiduka.md)
+[Go to previous page (Cuddasaka (savipāka))](uddasaka_savipaka.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Atthiduka)](../Atthiduka.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [4 Saññojanagocchaka](/tipitaka/38P2/4.md) / [4.1 Saññojanaduka](/tipitaka/38P2/4/4.1.md) / [4.1.3 Paccayavāra](/tipitaka/38P2/4/4.1/4.1.3.md) / [4.1.3.1--4 Paccayānulomādi](/tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../4.md) / [4.1 Saññojanaduka](../../../4.1.md) / [4.1.3 Paccayavāra](../../4.1.3.md) / [4.1.3.1--4 Paccayānulomādi](../4.1.3.1--4.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -39,6 +39,6 @@
 
 1353\. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀘𑀢𑁆𑀢𑀸𑀭𑀺 (𑀬𑀢𑁆𑀣 𑀬𑀢𑁆𑀣 𑀯𑀢𑁆𑀣𑀼 𑀮𑀩𑁆𑀪𑀢𑀺, 𑀢𑀢𑁆𑀣 𑀢𑀢𑁆𑀣 𑀦𑀺𑀦𑁆𑀦𑁂𑀢𑀩𑁆𑀩𑀁), 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀦𑁄𑀯𑀺𑀕𑀢𑁂 𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (4.1.3.1--4 Paccayānulomādi)](/tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4.md) / [Go to parent page (4.1.3.1--4 Paccayānulomādi)](/tipitaka/38P2/4/4.1/4.1.3/4.1.3.1--4.md) / [Go to next page (4.1.4 Nissayavāra)](/tipitaka/38P2/4/4.1/4.1.4.md)
+[Go to previous page (4.1.3.1--4 Paccayānulomādi)](../4.1.3.1--4.md) / [Go to parent page (4.1.3.1--4 Paccayānulomādi)](../4.1.3.1--4.md) / [Go to next page (4.1.4 Nissayavāra)](../../4.1.4.md)
 
 

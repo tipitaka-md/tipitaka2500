@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.2 Paccayapaccanīya](/tipitaka/36P1/2/2.7/2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1.md) / [Naaññamaññaduka](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naannamannaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../../2.7.2.1.md) / [Naaññamaññaduka](../Naannamannaduka.md)
 
 # 𑀅𑀝𑁆𑀞𑀓
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (Catukka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naannamannaduka/Catukka.md) / [Go to parent page (Naaññamaññaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Naannamannaduka.md) / [Go to next page (Nanissayaduka)](/tipitaka/36P1/2/2.7/2.7.2/2.7.2.1/Nanissayaduka.md)
+[Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Naaññamaññaduka)](../Naannamannaduka.md) / [Go to next page (Nanissayaduka)](../Nanissayaduka.md)
 
 

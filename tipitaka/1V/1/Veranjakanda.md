@@ -1,5 +1,5 @@
 
-[Home](/) / [1V Pārājikapāḷi](/tipitaka/1V.md) / [1 Mahāvibhaṅga](/tipitaka/1V/1.md)
+[Home](/) / [1V Pārājikapāḷi](../../1V.md) / [1 Mahāvibhaṅga](../1.md)
 
 # 𑀯𑁂𑀭𑀜𑁆𑀚𑀓𑀡𑁆𑀟
 
@@ -135,6 +135,6 @@
 
 
 
-[Go to previous page (1 Mahāvibhaṅga)](/tipitaka/1V/1.md) / [Go to parent page (1 Mahāvibhaṅga)](/tipitaka/1V/1.md) / [Go to next page (1.1 Pārājikakaṇḍa)](/tipitaka/1V/1/1.1.md)
+[Go to previous page (1 Mahāvibhaṅga)](../1.md) / [Go to parent page (1 Mahāvibhaṅga)](../1.md) / [Go to next page (1.1 Pārājikakaṇḍa)](1.1.md)
 
 

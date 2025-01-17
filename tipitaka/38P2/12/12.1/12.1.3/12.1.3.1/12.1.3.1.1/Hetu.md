@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.1 Kilesaduka](/tipitaka/38P2/12/12.1.md) / [12.1.3 Paccayavāra](/tipitaka/38P2/12/12.1/12.1.3.md) / [12.1.3.1 Paccayānuloma](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.1.md) / [12.1.3.1.1 Vibhaṅgavāra](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.1/12.1.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.3 Paccayavāra](../../../12.1.3.md) / [12.1.3.1 Paccayānuloma](../../12.1.3.1.md) / [12.1.3.1.1 Vibhaṅgavāra](../12.1.3.1.1.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -35,6 +35,6 @@
 
 3841\. (𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑁂 𑀦𑁄𑀓𑀺𑀮𑁂𑀲𑀫𑀽𑀮𑁂 𑀧𑀜𑁆𑀘 𑀯𑀺𑀜𑁆𑀜𑀸𑀡𑀸 𑀓𑀸𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (12.1.3.1.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.1/12.1.3.1.1.md) / [Go to parent page (12.1.3.1.1 Vibhaṅgavāra)](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.1/12.1.3.1.1.md) / [Go to next page (12.1.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.3/12.1.3.1/12.1.3.1.2.md)
+[Go to previous page (12.1.3.1.1 Vibhaṅgavāra)](../12.1.3.1.1.md) / [Go to parent page (12.1.3.1.1 Vibhaṅgavāra)](../12.1.3.1.1.md) / [Go to next page (12.1.3.1.2 Saṅkhyāvāra)](../12.1.3.1.2.md)
 
 

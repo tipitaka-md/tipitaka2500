@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.11 Kāmāvacaraduka](/tipitaka/38P2/13/13.11.md) / [13.11.7 Pañhāvāra](/tipitaka/38P2/13/13.11/13.11.7.md) / [13.11.7.1 Paccayānuloma](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1.md) / [13.11.7.1.1 Vibhaṅgavāra](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.11 Kāmāvacaraduka](../../../../13.11.md) / [13.11.7 Pañhāvāra](../../../13.11.7.md) / [13.11.7.1 Paccayānuloma](../../13.11.7.1.md) / [13.11.7.1.1 Vibhaṅgavāra](../13.11.7.1.1.md)
 
 # 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀸𑀤𑀺
 
@@ -21,6 +21,6 @@
 
 4564\. 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀤𑁆𑀯𑁂…  𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Upanissaya)](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Upanissaya.md) / [Go to parent page (13.11.7.1.1 Vibhaṅgavāra)](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1.md) / [Go to next page (Kammādi)](/tipitaka/38P2/13/13.11/13.11.7/13.11.7.1/13.11.7.1.1/Kammadi.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.11.7.1.1 Vibhaṅgavāra)](../13.11.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [1 Tika, Hetuduka](/tipitaka/39P4/1.md) / [1.8 Dassanenapahātabbattika, Hetuduka](/tipitaka/39P4/1/1.8.md) / [1.8.1 Hetupada](/tipitaka/39P4/1/1.8/1.8.1.md) / [1.8.1.1--7 Paṭiccādivāra](/tipitaka/39P4/1/1.8/1.8.1/1.8.1.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../1.md) / [1.8 Dassanenapahātabbattika, Hetuduka](../../../1.8.md) / [1.8.1 Hetupada](../../1.8.1.md) / [1.8.1.1--7 Paṭiccādivāra](../1.8.1.1--7.md)
 
 # 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
@@ -47,6 +47,6 @@
 
 405\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (1.8.1.1--7 Paṭiccādivāra)](/tipitaka/39P4/1/1.8/1.8.1/1.8.1.1--7.md) / [Go to parent page (1.8.1.1--7 Paṭiccādivāra)](/tipitaka/39P4/1/1.8/1.8.1/1.8.1.1--7.md) / [Go to next page (1.8.2 Nahetupada)](/tipitaka/39P4/1/1.8/1.8.2.md)
+[Go to previous page (1.8.1.1--7 Paṭiccādivāra)](../1.8.1.1--7.md) / [Go to parent page (1.8.1.1--7 Paṭiccādivāra)](../1.8.1.1--7.md) / [Go to next page (1.8.2 Nahetupada)](../../1.8.2.md)
 
 

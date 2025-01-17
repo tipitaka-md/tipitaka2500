@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.7 Pañhāvāra](/tipitaka/37P1/10/10.7.md) / [10.7.1 Paccayānuloma](/tipitaka/37P1/10/10.7/10.7.1.md) / [10.7.1.1 Vibhaṅgavāra](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.7 Pañhāvāra](../../../10.7.md) / [10.7.1 Paccayānuloma](../../10.7.1.md) / [10.7.1.1 Vibhaṅgavāra](../10.7.1.1.md)
 
 # 𑀅𑀦𑀦𑁆𑀢𑀭
 
@@ -51,6 +51,6 @@
 
 1313\. 𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑁄 𑀘 𑀦𑁂𑀯𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀦𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺𑁇 (𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀲𑀤𑀺𑀲𑀁 𑀕𑀫𑀦𑀁𑁇)
 
-[Go to previous page (Adhipati)](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Adhipati.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1.md) / [Go to next page (Samanantarādi)](/tipitaka/37P1/10/10.7/10.7.1/10.7.1.1/Samanantaradi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

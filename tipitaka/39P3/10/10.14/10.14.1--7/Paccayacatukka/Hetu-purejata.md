@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [10 Mahantaraduka, Kusalattika](/tipitaka/39P3/10.md) / [10.14 Upādinnaduka, Kusalattika](/tipitaka/39P3/10/10.14.md) / [10.14.1--7 Paṭiccādivāra](/tipitaka/39P3/10/10.14/10.14.1--7.md) / [Paccayacatukka](/tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [10 Mahantaraduka, Kusalattika](../../../../10.md) / [10.14 Upādinnaduka, Kusalattika](../../../10.14.md) / [10.14.1--7 Paṭiccādivāra](../../10.14.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼-𑀧𑀼𑀭𑁂𑀚𑀸𑀢
 
@@ -41,6 +41,6 @@
 
 
 
-[Go to previous page (Hetu)](/tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka/Hetu.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/10/10.14/10.14.1--7/Paccayacatukka.md) / [Go to next page (11 Upādānagocchaka, Kusalattika)](/tipitaka/39P3/11.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (11 Upādānagocchaka, Kusalattika)](../../../../11.md)
 
 

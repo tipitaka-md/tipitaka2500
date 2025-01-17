@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](/tipitaka/40P13.md) / [4 Upādinnattika](/tipitaka/40P13/4.md) / [4.1--6 Paṭiccādivāra](/tipitaka/40P13/4/4.1--6.md) / [Paccayacatukka](/tipitaka/40P13/4/4.1--6/Paccayacatukka.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [4 Upādinnattika](../../../4.md) / [4.1--6 Paṭiccādivāra](../../4.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -29,6 +29,6 @@
 
 56\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/40P13/4/4.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/40P13/4/4.1--6/Paccayacatukka.md) / [Go to next page (4.7 Pañhāvāra)](/tipitaka/40P13/4/4.7.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.7 Pañhāvāra)](../../4.7.md)
 
 

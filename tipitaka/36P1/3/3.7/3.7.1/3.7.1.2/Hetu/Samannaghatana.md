@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [3 Vedanāttika](/tipitaka/36P1/3.md) / [3.7 Pañhāvāra](/tipitaka/36P1/3/3.7.md) / [3.7.1 Paccayānuloma](/tipitaka/36P1/3/3.7/3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2.md) / [Hetu](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.7 Pañhāvāra](../../../../3.7.md) / [3.7.1 Paccayānuloma](../../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../../3.7.1.2.md) / [Hetu](../Hetu.md)
 
 # 𑀲𑀸𑀫𑀜𑁆𑀜𑀖𑀝𑀦𑀸
 
@@ -17,6 +17,6 @@
 
 1951\. 𑀳𑁂𑀢𑀼 𑀲𑀳𑀚𑀸𑀢 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜 𑀦𑀺𑀲𑁆𑀲𑀬 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇 𑀳𑁂𑀢𑀼 𑀲𑀳𑀚𑀸𑀢 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜 𑀦𑀺𑀲𑁆𑀲𑀬 𑀯𑀺𑀧𑀸𑀓 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀤𑁆𑀯𑁂𑁇
 
-[Go to previous page (Hetusabhāga)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu/Hetusabhaga.md) / [Go to parent page (Hetu)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu.md) / [Go to next page (Saindriya-maggaghaṭanā)](/tipitaka/36P1/3/3.7/3.7.1/3.7.1.2/Hetu/Saindriya-maggaghatana.md)
+[Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Saindriya-maggaghaṭanā)](Saindriya-maggaghatana.md)
 
 

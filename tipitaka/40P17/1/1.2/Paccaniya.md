@@ -1,5 +1,5 @@
 
-[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](/tipitaka/40P17.md) / [1 Kusalattika, Vedanāttika](/tipitaka/40P17/1.md) / [1.2 Abyākatapada](/tipitaka/40P17/1/1.2.md)
+[Home](/) / [40P17 Dhammānulomapaccanīya (3), Tikatikapaṭṭhānapāḷi (5)](../../../40P17.md) / [1 Kusalattika, Vedanāttika](../../1.md) / [1.2 Abyākatapada](../1.2.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
@@ -21,6 +21,6 @@
 
 21\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀢𑁂𑀭𑀲, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀢𑁂𑀭𑀲𑁇 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁄𑁇)
 
-[Go to previous page (1.2 Abyākatapada)](/tipitaka/40P17/1/1.2.md) / [Go to parent page (1.2 Abyākatapada)](/tipitaka/40P17/1/1.2.md) / [Go to next page (2 Kusalattika, Vipākattika)](/tipitaka/40P17/2.md)
+[Go to previous page (1.2 Abyākatapada)](../1.2.md) / [Go to parent page (1.2 Abyākatapada)](../1.2.md) / [Go to next page (2 Kusalattika, Vipākattika)](../../2.md)
 
 

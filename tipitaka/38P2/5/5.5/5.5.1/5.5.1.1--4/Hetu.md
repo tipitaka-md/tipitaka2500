@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [5 Ganthagocchaka](/tipitaka/38P2/5.md) / [5.5 Ganthaganthasampayuttaduka](/tipitaka/38P2/5/5.5.md) / [5.5.1 Paṭiccavāra](/tipitaka/38P2/5/5.5/5.5.1.md) / [5.5.1.1--4 Paccayacatukka](/tipitaka/38P2/5/5.5/5.5.1/5.5.1.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [5 Ganthagocchaka](../../../../5.md) / [5.5 Ganthaganthasampayuttaduka](../../../5.5.md) / [5.5.1 Paṭiccavāra](../../5.5.1.md) / [5.5.1.1--4 Paccayacatukka](../5.5.1.1--4.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -59,6 +59,6 @@
 
 
 
-[Go to previous page (5.5.1.1--4 Paccayacatukka)](/tipitaka/38P2/5/5.5/5.5.1/5.5.1.1--4.md) / [Go to parent page (5.5.1.1--4 Paccayacatukka)](/tipitaka/38P2/5/5.5/5.5.1/5.5.1.1--4.md) / [Go to next page (5.5.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](/tipitaka/38P2/5/5.5/5.5.2--6.md)
+[Go to previous page (5.5.1.1--4 Paccayacatukka)](../5.5.1.1--4.md) / [Go to parent page (5.5.1.1--4 Paccayacatukka)](../5.5.1.1--4.md) / [Go to next page (5.5.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../5.5.2--6.md)
 
 

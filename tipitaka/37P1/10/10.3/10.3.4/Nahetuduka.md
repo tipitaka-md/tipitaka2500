@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [10 Dassanenapahātabbahetukattika](/tipitaka/37P1/10.md) / [10.3 Paccayavāra](/tipitaka/37P1/10/10.3.md) / [10.3.4 Paccayapaccanīyānuloma](/tipitaka/37P1/10/10.3/10.3.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../10.md) / [10.3 Paccayavāra](../../10.3.md) / [10.3.4 Paccayapaccanīyānuloma](../10.3.4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
@@ -24,6 +24,6 @@
 
 
 
-[Go to previous page (10.3.4 Paccayapaccanīyānuloma)](/tipitaka/37P1/10/10.3/10.3.4.md) / [Go to parent page (10.3.4 Paccayapaccanīyānuloma)](/tipitaka/37P1/10/10.3/10.3.4.md) / [Go to next page (10.4 Nissayavāra)](/tipitaka/37P1/10/10.4.md)
+[Go to previous page (10.3.4 Paccayapaccanīyānuloma)](../10.3.4.md) / [Go to parent page (10.3.4 Paccayapaccanīyānuloma)](../10.3.4.md) / [Go to next page (10.4 Nissayavāra)](../../10.4.md)
 
 

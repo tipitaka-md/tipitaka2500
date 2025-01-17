@@ -1,5 +1,5 @@
 
-[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/40P9.md) / [16 Saraṇaduka, Vedanāttikādi](/tipitaka/40P9/16.md) / [Paccayacatukka](/tipitaka/40P9/16/Paccayacatukka.md)
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](../../../40P9.md) / [16 Saraṇaduka, Vedanāttikādi](../../16.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -31,6 +31,6 @@
 
 216\. 𑀦𑀲𑀭𑀡𑀁 𑀦𑀅𑀦𑀼𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀅𑀦𑀼𑀧𑀸𑀤𑀸𑀦𑀺𑀬𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘… 𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇) 𑀳𑁂𑀢𑀼𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀤𑁆𑀯𑁂…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇
 
-[Go to previous page (Paccayacatukka)](/tipitaka/40P9/16/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/40P9/16/Paccayacatukka.md) / [Go to next page (17 Saraṇaduka, Sanidassanattika)](/tipitaka/40P9/17.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (17 Saraṇaduka, Sanidassanattika)](../../17.md)
 
 

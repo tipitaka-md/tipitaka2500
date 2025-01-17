@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [11 Upādānagocchaka, Kusalattika](/tipitaka/39P3/11.md) / [11.2 Upādāniyaduka, Kusalattika](/tipitaka/39P3/11/11.2.md) / [11.2.1--7 Paṭiccādivāra](/tipitaka/39P3/11/11.2/11.2.1--7.md) / [Paccayacatukka](/tipitaka/39P3/11/11.2/11.2.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [11 Upādānagocchaka, Kusalattika](../../../../11.md) / [11.2 Upādāniyaduka, Kusalattika](../../../11.2.md) / [11.2.1--7 Paṭiccādivāra](../../11.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -43,6 +43,6 @@
 
 2263\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀤𑁆𑀯𑁂…𑀧𑁂…  𑀆𑀲𑁂𑀯𑀦𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇 𑀮𑁄𑀓𑀺𑀬𑀤𑀼𑀓𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀲𑀤𑀺𑀲𑀁𑁇 𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](/tipitaka/39P3/11/11.2/11.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](/tipitaka/39P3/11/11.2/11.2.1--7/Paccayacatukka.md) / [Go to next page (11.3 Upādānasampayuttaduka, Kusalattika)](/tipitaka/39P3/11/11.3.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (11.3 Upādānasampayuttaduka, Kusalattika)](../../../11.3.md)
 
 

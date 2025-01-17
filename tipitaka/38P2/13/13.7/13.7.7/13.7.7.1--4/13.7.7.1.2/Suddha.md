@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [13 Piṭṭhiduka](/tipitaka/38P2/13.md) / [13.7 Sappītikaduka](/tipitaka/38P2/13/13.7.md) / [13.7.7 Pañhāvāra](/tipitaka/38P2/13/13.7/13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4.md) / [13.7.7.1.2 Saṅkhyāvāra](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.7 Pañhāvāra](../../../13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](../../13.7.7.1--4.md) / [13.7.7.1.2 Saṅkhyāvāra](../13.7.7.1.2.md)
 
 # 𑀲𑀼𑀤𑁆𑀥
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (13.7.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1.2.md) / [Go to parent page (13.7.7.1.2 Saṅkhyāvāra)](/tipitaka/38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](/tipitaka/38P2/13/13.7/13.7.7/Paccaniyuddhara.md)
+[Go to previous page (13.7.7.1.2 Saṅkhyāvāra)](../13.7.7.1.2.md) / [Go to parent page (13.7.7.1.2 Saṅkhyāvāra)](../13.7.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

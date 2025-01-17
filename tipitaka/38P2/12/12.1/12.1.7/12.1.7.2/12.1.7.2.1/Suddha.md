@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [12 Kilesagocchaka](/tipitaka/38P2/12.md) / [12.1 Kilesaduka](/tipitaka/38P2/12/12.1.md) / [12.1.7 Pañhāvāra](/tipitaka/38P2/12/12.1/12.1.7.md) / [12.1.7.2 Paccayapaccanīya](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.2.md) / [12.1.7.2.1 Saṅkhyāvāra](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.2/12.1.7.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.7 Pañhāvāra](../../../12.1.7.md) / [12.1.7.2 Paccayapaccanīya](../../12.1.7.2.md) / [12.1.7.2.1 Saṅkhyāvāra](../12.1.7.2.1.md)
 
 # 𑀲𑀼𑀤𑁆𑀥
 
@@ -19,6 +19,6 @@
 
 3912\. 𑀦𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀦𑀯), 𑀦𑁄𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇
 
-[Go to previous page (12.1.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.2/12.1.7.2.1.md) / [Go to parent page (12.1.7.2.1 Saṅkhyāvāra)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.2/12.1.7.2.1.md) / [Go to next page (12.1.7.3 Paccayānulomapaccanīya)](/tipitaka/38P2/12/12.1/12.1.7/12.1.7.3.md)
+[Go to previous page (12.1.7.2.1 Saṅkhyāvāra)](../12.1.7.2.1.md) / [Go to parent page (12.1.7.2.1 Saṅkhyāvāra)](../12.1.7.2.1.md) / [Go to next page (12.1.7.3 Paccayānulomapaccanīya)](../../12.1.7.3.md)
 
 

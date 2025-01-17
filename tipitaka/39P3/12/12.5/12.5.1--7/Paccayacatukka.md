@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](/tipitaka/39P3.md) / [12 Kilesagocchaka, Kusalattika](/tipitaka/39P3/12.md) / [12.5 Saṃkilesasaṃkilesikaduka, Kusalattika](/tipitaka/39P3/12/12.5.md) / [12.5.1--7 Paṭiccādivāra](/tipitaka/39P3/12/12.5/12.5.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [12 Kilesagocchaka, Kusalattika](../../../12.md) / [12.5 Saṃkilesasaṃkilesikaduka, Kusalattika](../../12.5.md) / [12.5.1--7 Paṭiccādivāra](../12.5.1--7.md)
 
 # 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
@@ -39,6 +39,6 @@
 
 2355\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀏𑀓𑀁𑁇)
 
-[Go to previous page (12.5.1--7 Paṭiccādivāra)](/tipitaka/39P3/12/12.5/12.5.1--7.md) / [Go to parent page (12.5.1--7 Paṭiccādivāra)](/tipitaka/39P3/12/12.5/12.5.1--7.md) / [Go to next page (12.6 Kilesasaṃkiliṭṭhaduka, Kusalattika)](/tipitaka/39P3/12/12.6.md)
+[Go to previous page (12.5.1--7 Paṭiccādivāra)](../12.5.1--7.md) / [Go to parent page (12.5.1--7 Paṭiccādivāra)](../12.5.1--7.md) / [Go to next page (12.6 Kilesasaṃkiliṭṭhaduka, Kusalattika)](../../12.6.md)
 
 

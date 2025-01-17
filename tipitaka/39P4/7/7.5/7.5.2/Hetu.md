@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](/tipitaka/39P4.md) / [7 Kusalattika, Piṭṭhiduka](/tipitaka/39P4/7.md) / [7.5 Kusalattika, Savitakkaduka](/tipitaka/39P4/7/7.5.md) / [7.5.2 Avitakkapada](/tipitaka/39P4/7/7.5/7.5.2.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../7.md) / [7.5 Kusalattika, Savitakkaduka](../../7.5.md) / [7.5.2 Avitakkapada](../7.5.2.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -31,6 +31,6 @@
 
 1577\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (7.5.2 Avitakkapada)](/tipitaka/39P4/7/7.5/7.5.2.md) / [Go to parent page (7.5.2 Avitakkapada)](/tipitaka/39P4/7/7.5/7.5.2.md) / [Go to next page (7.6 Kusalattika, Savicāraduka)](/tipitaka/39P4/7/7.6.md)
+[Go to previous page (7.5.2 Avitakkapada)](../7.5.2.md) / [Go to parent page (7.5.2 Avitakkapada)](../7.5.2.md) / [Go to next page (7.6 Kusalattika, Savicāraduka)](../../7.6.md)
 
 

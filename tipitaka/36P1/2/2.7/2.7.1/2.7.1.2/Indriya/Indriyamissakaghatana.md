@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/36P1.md) / [2 Kusalattika](/tipitaka/36P1/2.md) / [2.7 Pañhāvāra](/tipitaka/36P1/2/2.7.md) / [2.7.1 Paccayānuloma](/tipitaka/36P1/2/2.7/2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2.md) / [Indriya](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Indriya](../Indriya.md)
 
 # 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀫𑀺𑀲𑁆𑀲𑀓𑀖𑀝𑀦𑀸
 
@@ -19,6 +19,6 @@
 
 1083\. 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀲𑀢𑁆𑀢𑁇 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀦𑀺𑀲𑁆𑀲𑀬 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀲𑀢𑁆𑀢𑁇 𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬 𑀦𑀺𑀲𑁆𑀲𑀬 𑀯𑀺𑀧𑁆𑀧𑀬𑀼𑀢𑁆𑀢 𑀅𑀢𑁆𑀣𑀺 𑀅𑀯𑀺𑀕𑀢𑀦𑁆𑀢𑀺 𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Indriyasabhāga)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Indriyasabhaga.md) / [Go to parent page (Indriya)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya.md) / [Go to next page (Pakiṇṇakaghaṭanā)](/tipitaka/36P1/2/2.7/2.7.1/2.7.1.2/Indriya/Pakinnakaghatana.md)
+[Go to previous page (Indriyasabhāga)](Indriyasabhaga.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
 

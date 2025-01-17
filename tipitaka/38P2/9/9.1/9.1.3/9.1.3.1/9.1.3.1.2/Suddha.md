@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](/tipitaka/38P2.md) / [9 Parāmāsagocchaka](/tipitaka/38P2/9.md) / [9.1 Parāmāsaduka](/tipitaka/38P2/9/9.1.md) / [9.1.3 Paccayavāra](/tipitaka/38P2/9/9.1/9.1.3.md) / [9.1.3.1 Paccayānuloma](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.1.md) / [9.1.3.1.2 Saṅkhyāvāra](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.1/9.1.3.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.1 Parāmāsaduka](../../../../9.1.md) / [9.1.3 Paccayavāra](../../../9.1.3.md) / [9.1.3.1 Paccayānuloma](../../9.1.3.1.md) / [9.1.3.1.2 Saṅkhyāvāra](../9.1.3.1.2.md)
 
 # 𑀲𑀼𑀤𑁆𑀥
 
@@ -19,6 +19,6 @@
 
 2149\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀧𑀜𑁆𑀘, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀧𑀜𑁆𑀘, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀧𑀜𑁆𑀘 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀧𑀜𑁆𑀘), 𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀧𑀜𑁆𑀘𑁇
 
-[Go to previous page (9.1.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.1/9.1.3.1.2.md) / [Go to parent page (9.1.3.1.2 Saṅkhyāvāra)](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.1/9.1.3.1.2.md) / [Go to next page (9.1.3.2 Paccayapaccanīya)](/tipitaka/38P2/9/9.1/9.1.3/9.1.3.2.md)
+[Go to previous page (9.1.3.1.2 Saṅkhyāvāra)](../9.1.3.1.2.md) / [Go to parent page (9.1.3.1.2 Saṅkhyāvāra)](../9.1.3.1.2.md) / [Go to next page (9.1.3.2 Paccayapaccanīya)](../../9.1.3.2.md)
 
 

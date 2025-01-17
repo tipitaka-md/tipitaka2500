@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [13 Parittattika](/tipitaka/37P1/13.md) / [13.5 Saṃsaṭṭhavāra](/tipitaka/37P1/13/13.5.md) / [13.5.2 Paccayapaccanīya](/tipitaka/37P1/13/13.5/13.5.2.md) / [13.5.2.1 Vibhaṅgavāra](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.5 Saṃsaṭṭhavāra](../../../13.5.md) / [13.5.2 Paccayapaccanīya](../../13.5.2.md) / [13.5.2.1 Vibhaṅgavāra](../13.5.2.1.md)
 
 # 𑀦𑀅𑀥𑀺𑀧𑀢𑀺
 
@@ -21,6 +21,6 @@
 
 2005\. 𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑀁 𑀥𑀫𑁆𑀫𑀁 𑀲𑀁𑀲𑀝𑁆𑀞𑁄 𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸—  𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑁂 𑀔𑀦𑁆𑀥𑁂 𑀲𑀁𑀲𑀝𑁆𑀞𑀸 𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑀸 𑀅𑀥𑀺𑀧𑀢𑀺𑁇 (𑁧)
 
-[Go to previous page (Nahetu)](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1/Nahetu.md) / [Go to parent page (13.5.2.1 Vibhaṅgavāra)](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1.md) / [Go to next page (Napurejāta)](/tipitaka/37P1/13/13.5/13.5.2/13.5.2.1/Napurejata.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.5.2.1 Vibhaṅgavāra)](../13.5.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 
 

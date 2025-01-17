@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](/tipitaka/37P1.md) / [9 Dassanenapahātabbattika](/tipitaka/37P1/9.md) / [9.1 Paṭiccavāra](/tipitaka/37P1/9/9.1.md) / [9.1.1 Paccayānuloma](/tipitaka/37P1/9/9.1/9.1.1.md) / [9.1.1.1 Vibhaṅgavāra](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.1 Paccayānuloma](../../9.1.1.md) / [9.1.1.1 Vibhaṅgavāra](../9.1.1.1.md)
 
 # 𑀲𑀳𑀚𑀸𑀢
 
@@ -27,6 +27,6 @@
 
 812\. 𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀜𑁆𑀘 𑀦𑁂𑀯𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀦𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀜𑁆𑀘 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑁂𑀯𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀦𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑀸—  𑀪𑀸𑀯𑀦𑀸𑀬 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑁂 𑀔𑀦𑁆𑀥𑁂 𑀘 𑀫𑀳𑀸𑀪𑀽𑀢𑁂 𑀘 𑀧𑀝𑀺𑀘𑁆𑀘 𑀘𑀺𑀢𑁆𑀢𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀁 𑀭𑀽𑀧𑀁𑁇 (𑁧)
 
-[Go to previous page (Anantara-samanantara)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Anantara-samanantara.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page (Aññamañña)](/tipitaka/37P1/9/9.1/9.1.1/9.1.1.1/Annamanna.md)
+[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
 
 
