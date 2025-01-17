@@ -1,15 +1,15 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [12 Sekkhattika](../../../12.md) / [12.1 Paṭiccavāra](../../12.1.md) / [12.1.4 Paccayapaccanīyānuloma](../12.1.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [12 Sekkhattika](../...md) / [12.1 Paṭiccavāra](...md) / [12.1.4 Paccayapaccanīyānuloma](../37P1/12/12.1/12.1.4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀲𑁂𑀓𑁆𑀔𑀢𑁆𑀢𑀺𑀓
+* 𑀲𑁂𑀓𑁆𑀔𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (17.)
 
@@ -24,6 +24,6 @@
 
 
 
-[Go to previous page (12.1.4 Paccayapaccanīyānuloma)](../12.1.4.md) / [Go to parent page (12.1.4 Paccayapaccanīyānuloma)](../12.1.4.md) / [Go to next page (12.2 Sahajātavāra)](../../12.2.md)
+[Go to previous page (12.1.4 Paccayapaccanīyānuloma)](../37P1/12/12.1/12.1.4.md) / [Go to parent page (12.1.4 Paccayapaccanīyānuloma)](../37P1/12/12.1/12.1.4.md) / [Go to next page (12.2 Sahajātavāra)](../../12.2.md)
 
 

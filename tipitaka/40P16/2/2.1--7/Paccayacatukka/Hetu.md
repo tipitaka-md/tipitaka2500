@@ -1,15 +1,15 @@
 
-[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](../../../../40P16.md) / [2 Kusalattika, Sahetukaduka](../../../2.md) / [2.1--7 Paṭiccādivāra](../../2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [2 Kusalattika, Sahetukaduka](../...md) / [2.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../40P16/2/2.1--7/Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (6.)
 
@@ -41,6 +41,6 @@
 
 26\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀙, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀙, 𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀙𑁇
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3 Kusalattika, Hetusampayuttaduka)](../../../3.md)
+[Go to previous page (Paccayacatukka)](../40P16/2/2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../40P16/2/2.1--7/Paccayacatukka.md) / [Go to next page (3 Kusalattika, Hetusampayuttaduka)](../../../3.md)
 
 

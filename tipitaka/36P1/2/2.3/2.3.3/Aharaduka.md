@@ -1,15 +1,15 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [2 Kusalattika](../../../2.md) / [2.3 Paccayavāra](../../2.3.md) / [2.3.3 Paccayānulomapaccanīya](../2.3.3.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [2 Kusalattika](../...md) / [2.3 Paccayavāra](...md) / [2.3.3 Paccayānulomapaccanīya](../36P1/2/2.3/2.3.3.md)
 
 # 𑀆𑀳𑀸𑀭𑀤𑀼𑀓
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
+* 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀆𑀳𑀸𑀭𑀤𑀼𑀓
+* 𑀆𑀳𑀸𑀭𑀤𑀼𑀓
 
 (173.)
 
@@ -17,6 +17,6 @@
 
 * [Tika](Aharaduka/Tika.md)
 
-[Go to previous page (Tevīsaka)](Vipakaduka/Tevisaka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Tika)](Aharaduka/Tika.md)
+[Go to previous page (Tevīsaka)](Vipakaduka/Tevisaka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../36P1/2/2.3/2.3.3.md) / [Go to next page (Tika)](Aharaduka/Tika.md)
 
 

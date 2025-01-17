@@ -1,17 +1,17 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.9 Hetuduka, Dassanenapahātabbahetukattika](../../../1.9.md) / [1.9.3 Nevadassanenanabhāvanāyapahātabbahetukapada](../../1.9.3.md) / [1.9.3.7 Pañhāvāra](../1.9.3.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [1 Hetuduka, Tika](../../...md) / [1.9 Hetuduka, Dassanenapahātabbahetukattika](../...md) / [1.9.3 Nevadassanenanabhāvanāyapahātabbahetukapada](...md) / [1.9.3.7 Pañhāvāra](../39P3/1/1.9/1.9.3/1.9.3.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
+* 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀢𑀺𑀓
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀢𑁆𑀢𑀺𑀓
+* 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀢𑁆𑀢𑀺𑀓
 
-### 𑀦𑁂𑀯𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀦𑀪𑀸𑀯𑀦𑀸𑀬𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀧𑀤
+* 𑀦𑁂𑀯𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀦𑀪𑀸𑀯𑀦𑀸𑀬𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀧𑀤
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
+* 𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀼𑀤𑁆𑀥𑀸𑀭
 
 (304.)
 
@@ -33,6 +33,6 @@
 
 
 
-[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (1.9.3.7 Pañhāvāra)](../1.9.3.7.md) / [Go to next page (1.10 Hetuduka, Ācayagāmittika)](../../../1.10.md)
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (1.9.3.7 Pañhāvāra)](../39P3/1/1.9/1.9.3/1.9.3.7.md) / [Go to next page (1.10 Hetuduka, Ācayagāmittika)](../../../1.10.md)
 
 

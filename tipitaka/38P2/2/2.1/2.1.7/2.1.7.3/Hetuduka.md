@@ -1,17 +1,17 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../2.md) / [2.1 Sappaccayaduka](../../../2.1.md) / [2.1.7 Pañhāvāra](../../2.1.7.md) / [2.1.7.3 Paccayānulomapaccanīya](../2.1.7.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [2 Cūḷantaraduka](../../...md) / [2.1 Sappaccayaduka](../...md) / [2.1.7 Pañhāvāra](...md) / [2.1.7.3 Paccayānulomapaccanīya](../38P2/2/2.1/2.1.7/2.1.7.3.md)
 
 # 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
+* 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀤𑀼𑀓
+* 𑀲𑀧𑁆𑀧𑀘𑁆𑀘𑀬𑀤𑀼𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (15.)
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (2.1.7.3 Paccayānulomapaccanīya)](../2.1.7.3.md) / [Go to parent page (2.1.7.3 Paccayānulomapaccanīya)](../2.1.7.3.md) / [Go to next page (2.1.7.4 Paccayapaccanīyānuloma)](../2.1.7.4.md)
+[Go to previous page (2.1.7.3 Paccayānulomapaccanīya)](../38P2/2/2.1/2.1.7/2.1.7.3.md) / [Go to parent page (2.1.7.3 Paccayānulomapaccanīya)](../38P2/2/2.1/2.1.7/2.1.7.3.md) / [Go to next page (2.1.7.4 Paccayapaccanīyānuloma)](../2.1.7.4.md)
 
 

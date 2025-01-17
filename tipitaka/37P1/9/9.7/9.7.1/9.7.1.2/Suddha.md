@@ -1,17 +1,17 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.1 Paccayānuloma](../../9.7.1.md) / [9.7.1.2 Saṅkhyāvāra](../9.7.1.2.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.7 Pañhāvāra](../...md) / [9.7.1 Paccayānuloma](...md) / [9.7.1.2 Saṅkhyāvāra](../37P1/9/9.7/9.7.1/9.7.1.2.md)
 
 # 𑀲𑀼𑀤𑁆𑀥
 
-### 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀢𑁆𑀢𑀺𑀓
+* 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+* 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### 𑀲𑀼𑀤𑁆𑀥
+* 𑀲𑀼𑀤𑁆𑀥
 
 (97.)
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (9.7.1.2 Saṅkhyāvāra)](../9.7.1.2.md) / [Go to parent page (9.7.1.2 Saṅkhyāvāra)](../9.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
+[Go to previous page (9.7.1.2 Saṅkhyāvāra)](../37P1/9/9.7/9.7.1/9.7.1.2.md) / [Go to parent page (9.7.1.2 Saṅkhyāvāra)](../37P1/9/9.7/9.7.1/9.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

@@ -1,17 +1,17 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.1 Paṭiccavāra](../../../4.1.md) / [4.1.1 Paccayānuloma](../../4.1.1.md) / [4.1.1.2 Saṅkhyāvāra](../4.1.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [4 Vipākattika](../../...md) / [4.1 Paṭiccavāra](../...md) / [4.1.1 Paccayānuloma](...md) / [4.1.1.2 Saṅkhyāvāra](../36P1/4/4.1/4.1.1/4.1.1.2.md)
 
 # 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
+* 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+* 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (21.)
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.1.1.2 Saṅkhyāvāra)](../4.1.1.2.md) / [Go to next page (Āsevanaduka)](Asevanaduka.md)
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.1.1.2 Saṅkhyāvāra)](../36P1/4/4.1/4.1.1/4.1.1.2.md) / [Go to next page (Āsevanaduka)](Asevanaduka.md)
 
 

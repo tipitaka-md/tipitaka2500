@@ -1,11 +1,11 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
+[Home](/) / [18Sn Suttanipātapāḷi](...md) / [5 Pārāyanavagga](../18Sn/5.md)
 
 # 𑀯𑀢𑁆𑀣𑀼𑀕𑀸𑀣𑀸
 
-### 𑀧𑀸𑀭𑀸𑀬𑀦𑀯𑀕𑁆𑀕
+* 𑀧𑀸𑀭𑀸𑀬𑀦𑀯𑀕𑁆𑀕
 
-### 𑀯𑀢𑁆𑀣𑀼𑀕𑀸𑀣𑀸
+* 𑀯𑀢𑁆𑀣𑀼𑀕𑀸𑀣𑀸
 
 (983.)
 
@@ -467,6 +467,6 @@ _𑀢𑀢𑁆𑀣 𑀧𑀼𑀘𑁆𑀙𑀺 𑀢𑀣𑀸𑀕𑀢𑀁𑁇 (𑁫�
 
 
 
-[Go to previous page (5 Pārāyanavagga)](../5.md) / [Go to parent page (5 Pārāyanavagga)](../5.md) / [Go to next page (5.1 Ajitamāṇavapucchā)](5.1.md)
+[Go to previous page (5 Pārāyanavagga)](../18Sn/5.md) / [Go to parent page (5 Pārāyanavagga)](../18Sn/5.md) / [Go to next page (5.1 Ajitamāṇavapucchā)](5.1.md)
 
 

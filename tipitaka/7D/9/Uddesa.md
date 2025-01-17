@@ -1,11 +1,11 @@
 
-[Home](/) / [7D Mahāvaggapāḷi](../../7D.md) / [9 Mahāsatipaṭṭhānasutta](../9.md)
+[Home](/) / [7D Mahāvaggapāḷi](...md) / [9 Mahāsatipaṭṭhānasutta](../7D/9.md)
 
 # 𑀉𑀤𑁆𑀤𑁂𑀲
 
-### 𑀫𑀳𑀸𑀲𑀢𑀺𑀧𑀝𑁆𑀞𑀸𑀦𑀲𑀼𑀢𑁆𑀢
+* 𑀫𑀳𑀸𑀲𑀢𑀺𑀧𑀝𑁆𑀞𑀸𑀦𑀲𑀼𑀢𑁆𑀢
 
-### 𑀉𑀤𑁆𑀤𑁂𑀲
+* 𑀉𑀤𑁆𑀤𑁂𑀲
 
 (373.)
 
@@ -19,6 +19,6 @@
 
 
 
-[Go to previous page (9 Mahāsatipaṭṭhānasutta)](../9.md) / [Go to parent page (9 Mahāsatipaṭṭhānasutta)](../9.md) / [Go to next page (9.1 Kāyānupassanā)](9.1.md)
+[Go to previous page (9 Mahāsatipaṭṭhānasutta)](../7D/9.md) / [Go to parent page (9 Mahāsatipaṭṭhānasutta)](../7D/9.md) / [Go to next page (9.1 Kāyānupassanā)](9.1.md)
 
 

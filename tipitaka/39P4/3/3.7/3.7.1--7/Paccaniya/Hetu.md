@@ -1,17 +1,17 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../../3.md) / [3.7 Kusalattika, Kenaciviññeyyaduka](../../../3.7.md) / [3.7.1--7 Paṭiccādivāra](../../3.7.1--7.md) / [Paccanīya](../Paccaniya.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../...md) / [3 Kusalattika, Cūḷantaraduka](../../...md) / [3.7 Kusalattika, Kenaciviññeyyaduka](../...md) / [3.7.1--7 Paṭiccādivāra](...md) / [Paccanīya](../39P4/3/3.7/3.7.1--7/Paccaniya.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀓𑁂𑀦𑀘𑀺𑀯𑀺𑀜𑁆𑀜𑁂𑀬𑁆𑀬𑀤𑀼𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀓𑁂𑀦𑀘𑀺𑀯𑀺𑀜𑁆𑀜𑁂𑀬𑁆𑀬𑀤𑀼𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (46.)
 
@@ -37,6 +37,6 @@
 
 
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (4 Kusalattika, Āsavaparāmāsagocchaka)](../../../../4.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../39P4/3/3.7/3.7.1--7/Paccaniya.md) / [Go to next page (4 Kusalattika, Āsavaparāmāsagocchaka)](../../../../4.md)
 
 

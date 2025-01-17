@@ -1,17 +1,17 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Atthi](../Atthi.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Atthi](../36P1/2/2.7/2.7.3/Atthi.md)
 
 # 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀅𑀢𑁆𑀣𑀺
+* 𑀅𑀢𑁆𑀣𑀺
 
-### 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
+* 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
 
 (492.)
 
@@ -41,6 +41,6 @@
 
 
 
-[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Natthi-vigata)](../Natthi-vigata.md)
+[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Atthi)](../36P1/2/2.7/2.7.3/Atthi.md) / [Go to next page (Natthi-vigata)](../Natthi-vigata.md)
 
 

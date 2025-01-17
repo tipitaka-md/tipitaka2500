@@ -1,15 +1,15 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [5 Upādinnattika](../../../5.md) / [5.1 Paṭiccavāra](../../5.1.md) / [5.1.4 Paccayapaccanīyānuloma](../5.1.4.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [5 Upādinnattika](../...md) / [5.1 Paṭiccavāra](...md) / [5.1.4 Paccayapaccanīyānuloma](../36P1/5/5.1/5.1.4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀢𑁆𑀢𑀺𑀓
+* 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (28.)
 
@@ -26,6 +26,6 @@
 
 
 
-[Go to previous page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md) / [Go to parent page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md) / [Go to next page (5.2 Sahajātavāra)](../../5.2.md)
+[Go to previous page (5.1.4 Paccayapaccanīyānuloma)](../36P1/5/5.1/5.1.4.md) / [Go to parent page (5.1.4 Paccayapaccanīyānuloma)](../36P1/5/5.1/5.1.4.md) / [Go to next page (5.2 Sahajātavāra)](../../5.2.md)
 
 

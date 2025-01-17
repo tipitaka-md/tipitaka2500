@@ -1,19 +1,19 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.1 Kusalattika, Hetuduka](../../../../1.1.md) / [1.1.1 Hetupada](../../../1.1.1.md) / [1.1.1.7 Pañhāvāra](../../1.1.1.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.1 Kusalattika, Hetuduka](../../...md) / [1.1.1 Hetupada](../...md) / [1.1.1.7 Pañhāvāra](...md) / [Paccayacatukka](../39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md)
 
 # 𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
-### 𑀢𑀺𑀓, 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀢𑀺𑀓, 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀳𑁂𑀢𑀼𑀧𑀤
+* 𑀳𑁂𑀢𑀼𑀧𑀤
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
+* 𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
 (9.)
 
@@ -37,6 +37,6 @@
 
 
 
-[Go to previous page (Hetu-ārammaṇādi)](Hetu-arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Upanissayādi)](Upanissayadi.md)
+[Go to previous page (Hetu-ārammaṇādi)](Hetu-arammanadi.md) / [Go to parent page (Paccayacatukka)](../39P4/1/1.1/1.1.1/1.1.1.7/Paccayacatukka.md) / [Go to next page (Upanissayādi)](Upanissayadi.md)
 
 

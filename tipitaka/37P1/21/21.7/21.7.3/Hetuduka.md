@@ -1,15 +1,15 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [21 Ajjhattattika](../../../21.md) / [21.7 Pañhāvāra](../../21.7.md) / [21.7.3 Paccayānulomapaccanīya](../21.7.3.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [21 Ajjhattattika](../...md) / [21.7 Pañhāvāra](...md) / [21.7.3 Paccayānulomapaccanīya](../37P1/21/21.7/21.7.3.md)
 
 # 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀅𑀚𑁆𑀛𑀢𑁆𑀢𑀢𑁆𑀢𑀺𑀓
+* 𑀅𑀚𑁆𑀛𑀢𑁆𑀢𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (55.)
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (21.7.3 Paccayānulomapaccanīya)](../21.7.3.md) / [Go to parent page (21.7.3 Paccayānulomapaccanīya)](../21.7.3.md) / [Go to next page (21.7.4 Paccayapaccanīyānuloma)](../21.7.4.md)
+[Go to previous page (21.7.3 Paccayānulomapaccanīya)](../37P1/21/21.7/21.7.3.md) / [Go to parent page (21.7.3 Paccayānulomapaccanīya)](../37P1/21/21.7/21.7.3.md) / [Go to next page (21.7.4 Paccayapaccanīyānuloma)](../21.7.4.md)
 
 

@@ -1,17 +1,17 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [6 Ganthagocchaka, Kusalattika](../../../../6.md) / [6.2 Ganthaniyaduka, Kusalattika](../../../6.2.md) / [6.2.1--7 Paṭiccādivāra](../../6.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [6 Ganthagocchaka, Kusalattika](../../...md) / [6.2 Ganthaniyaduka, Kusalattika](../...md) / [6.2.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/6/6.2/6.2.1--7/Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀕𑀦𑁆𑀣𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀕𑀦𑁆𑀣𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀕𑀦𑁆𑀣𑀦𑀺𑀬𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀕𑀦𑁆𑀣𑀦𑀺𑀬𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (10.)
 
@@ -49,6 +49,6 @@
 
 1832\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁄𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑁄𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6.3 Ganthasampayuttaduka, Kusalattika)](../../../6.3.md)
+[Go to previous page (Paccayacatukka)](../39P3/6/6.2/6.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P3/6/6.2/6.2.1--7/Paccayacatukka.md) / [Go to next page (6.3 Ganthasampayuttaduka, Kusalattika)](../../../6.3.md)
 
 

@@ -1,15 +1,15 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [10 Mahantaraduka](../../../10.md) / [10.10 Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka](../../10.10.md) / [10.10.1--7 Paṭiccādivāra](../10.10.1--7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [10 Mahantaraduka](../...md) / [10.10 Cittasaṃsaṭṭhasamuṭṭhānasahabhūduka](...md) / [10.10.1--7 Paṭiccādivāra](../38P2/10/10.10/10.10.1--7.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀫𑀳𑀦𑁆𑀢𑀭𑀤𑀼𑀓
+* 𑀫𑀳𑀦𑁆𑀢𑀭𑀤𑀼𑀓
 
-### 𑀘𑀺𑀢𑁆𑀢𑀲𑀁𑀲𑀝𑁆𑀞𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀲𑀳𑀪𑀽𑀤𑀼𑀓
+* 𑀘𑀺𑀢𑁆𑀢𑀲𑀁𑀲𑀝𑁆𑀞𑀲𑀫𑀼𑀝𑁆𑀞𑀸𑀦𑀲𑀳𑀪𑀽𑀤𑀼𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (316.)
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (10.10.1--7 Paṭiccādivāra)](../10.10.1--7.md) / [Go to parent page (10.10.1--7 Paṭiccādivāra)](../10.10.1--7.md) / [Go to next page (10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka)](../../10.11.md)
+[Go to previous page (10.10.1--7 Paṭiccādivāra)](../38P2/10/10.10/10.10.1--7.md) / [Go to parent page (10.10.1--7 Paṭiccādivāra)](../38P2/10/10.10/10.10.1--7.md) / [Go to next page (10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka)](../../10.11.md)
 
 

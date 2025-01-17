@@ -1,15 +1,15 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../9.md) / [9.1 Paṭiccavāra](../../9.1.md) / [9.1.4 Paccayapaccanīyānuloma](../9.1.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [9 Dassanenapahātabbattika](../...md) / [9.1 Paṭiccavāra](...md) / [9.1.4 Paccayapaccanīyānuloma](../37P1/9/9.1/9.1.4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀢𑁆𑀢𑀺𑀓
+* 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (34.)
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md) / [Go to parent page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md) / [Go to next page (9.2 Sahajātavāra)](../../9.2.md)
+[Go to previous page (9.1.4 Paccayapaccanīyānuloma)](../37P1/9/9.1/9.1.4.md) / [Go to parent page (9.1.4 Paccayapaccanīyānuloma)](../37P1/9/9.1/9.1.4.md) / [Go to next page (9.2 Sahajātavāra)](../../9.2.md)
 
 

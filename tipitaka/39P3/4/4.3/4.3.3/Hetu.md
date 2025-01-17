@@ -1,15 +1,15 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../4.md) / [4.3 Āsavasampayuttaduka, Kusalattika](../../4.3.md) / [4.3.3 Abyākatapada](../4.3.3.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [4 Āsavagocchaka, Kusalattika](../...md) / [4.3 Āsavasampayuttaduka, Kusalattika](...md) / [4.3.3 Abyākatapada](../39P3/4/4.3/4.3.3.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀆𑀲𑀯𑀕𑁄𑀘𑁆𑀙𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀆𑀲𑀯𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀧𑀤
+* 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀧𑀤
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (26.)
 
@@ -39,6 +39,6 @@
 
 
 
-[Go to previous page (4.3.3 Abyākatapada)](../4.3.3.md) / [Go to parent page (4.3.3 Abyākatapada)](../4.3.3.md) / [Go to next page (4.4 Āsavasāsavaduka, Kusalattika)](../../4.4.md)
+[Go to previous page (4.3.3 Abyākatapada)](../39P3/4/4.3/4.3.3.md) / [Go to parent page (4.3.3 Abyākatapada)](../39P3/4/4.3/4.3.3.md) / [Go to next page (4.4 Āsavasāsavaduka, Kusalattika)](../../4.4.md)
 
 

@@ -1,17 +1,17 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../2.7.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.2 Paccayapaccanīya](...md) / [2.7.2.1 Saṅkhyāvāra](../36P1/2/2.7/2.7.2/2.7.2.1.md)
 
 # 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀤𑀼𑀓
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+* 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀤𑀼𑀓
+* 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀤𑀼𑀓
 
 (404.)
 
@@ -22,6 +22,6 @@
 * [Dasaka](Napurejataduka/Dasaka.md)
 * [Ekādasaka](Napurejataduka/Ekadasaka.md)
 
-[Go to previous page (Dasaka)](Naupanissayaduka/Dasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Napurejataduka/Catukka.md)
+[Go to previous page (Dasaka)](Naupanissayaduka/Dasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../36P1/2/2.7/2.7.2/2.7.2.1.md) / [Go to next page (Catukka)](Napurejataduka/Catukka.md)
 
 

@@ -1,15 +1,15 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../10.md) / [10.7 Pañhāvāra](../../10.7.md) / [10.7.4 Paccayapaccanīyānuloma](../10.7.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [10 Dassanenapahātabbahetukattika](../...md) / [10.7 Pañhāvāra](...md) / [10.7.4 Paccayapaccanīyānuloma](../37P1/10/10.7/10.7.4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀢𑁆𑀢𑀺𑀓
+* 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (115.)
 
@@ -30,6 +30,6 @@
 
 
 
-[Go to previous page (10.7.4 Paccayapaccanīyānuloma)](../10.7.4.md) / [Go to parent page (10.7.4 Paccayapaccanīyānuloma)](../10.7.4.md) / [Go to next page (11 Ācayagāmittika)](../../../11.md)
+[Go to previous page (10.7.4 Paccayapaccanīyānuloma)](../37P1/10/10.7/10.7.4.md) / [Go to parent page (10.7.4 Paccayapaccanīyānuloma)](../37P1/10/10.7/10.7.4.md) / [Go to next page (11 Ācayagāmittika)](../../../11.md)
 
 

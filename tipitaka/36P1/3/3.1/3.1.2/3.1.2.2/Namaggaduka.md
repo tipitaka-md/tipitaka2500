@@ -1,17 +1,17 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.1 Paṭiccavāra](../../../3.1.md) / [3.1.2 Paccayapaccanīya](../../3.1.2.md) / [3.1.2.2 Saṅkhyāvāra](../3.1.2.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [3 Vedanāttika](../../...md) / [3.1 Paṭiccavāra](../...md) / [3.1.2 Paccayapaccanīya](...md) / [3.1.2.2 Saṅkhyāvāra](../36P1/3/3.1/3.1.2/3.1.2.2.md)
 
 # 𑀦𑀫𑀕𑁆𑀕𑀤𑀼𑀓
 
-### 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
+* 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+* 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### 𑀦𑀫𑀕𑁆𑀕𑀤𑀼𑀓
+* 𑀦𑀫𑀕𑁆𑀕𑀤𑀼𑀓
 
 (23.)
 
@@ -20,6 +20,6 @@
 * [Tika](Namaggaduka/Tika.md)
 * [Pañcaka](Namaggaduka/Pancaka.md)
 
-[Go to previous page (Chakka)](Najhanaduka/Chakka.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Tika)](Namaggaduka/Tika.md)
+[Go to previous page (Chakka)](Najhanaduka/Chakka.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../36P1/3/3.1/3.1.2/3.1.2.2.md) / [Go to next page (Tika)](Namaggaduka/Tika.md)
 
 

@@ -1,15 +1,15 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [4 Vipākattika](../../../4.md) / [4.7 Pañhāvāra](../../4.7.md) / [4.7.4 Paccayapaccanīyānuloma](../4.7.4.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [4 Vipākattika](../...md) / [4.7 Pañhāvāra](...md) / [4.7.4 Paccayapaccanīyānuloma](../36P1/4/4.7/4.7.4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
+* 𑀯𑀺𑀧𑀸𑀓𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (124.)
 
@@ -17,6 +17,6 @@
 
 * [Tika](Nahetuduka/Tika.md)
 
-[Go to previous page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md) / [Go to parent page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
+[Go to previous page (4.7.4 Paccayapaccanīyānuloma)](../36P1/4/4.7/4.7.4.md) / [Go to parent page (4.7.4 Paccayapaccanīyānuloma)](../36P1/4/4.7/4.7.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 
 

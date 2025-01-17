@@ -1,17 +1,17 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../13.md) / [13.3 Dassanenapahātabbahetukaduka](../../../13.3.md) / [13.3.5 Saṃsaṭṭhavāra](../../13.3.5.md) / [13.3.5.1--4 Paccayacatukka](../13.3.5.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [13 Piṭṭhiduka](../../...md) / [13.3 Dassanenapahātabbahetukaduka](../...md) / [13.3.5 Saṃsaṭṭhavāra](...md) / [13.3.5.1--4 Paccayacatukka](../38P2/13/13.3/13.3.5/13.3.5.1--4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼
 
-### 𑀧𑀺𑀝𑁆𑀞𑀺𑀤𑀼𑀓
+* 𑀧𑀺𑀝𑁆𑀞𑀺𑀤𑀼𑀓
 
-### 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
+* 𑀤𑀲𑁆𑀲𑀦𑁂𑀦𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
+* 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀦𑀳𑁂𑀢𑀼
+* 𑀦𑀳𑁂𑀢𑀼
 
 (67.)
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to next page (Hetuduka)](Hetuduka.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to next page (Hetuduka)](Hetuduka.md)
 
 

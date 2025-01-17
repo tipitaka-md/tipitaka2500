@@ -1,11 +1,11 @@
 
-[Home](/) / [6D Sīlakkhandhavaggapāḷi](../../6D.md) / [7 Jāliyasutta](../7.md)
+[Home](/) / [6D Sīlakkhandhavaggapāḷi](...md) / [7 Jāliyasutta](../6D/7.md)
 
 # 𑀤𑁆𑀯𑁂𑀧𑀩𑁆𑀩𑀚𑀺𑀢𑀯𑀢𑁆𑀣𑀼
 
-### 𑀚𑀸𑀮𑀺𑀬𑀲𑀼𑀢𑁆𑀢
+* 𑀚𑀸𑀮𑀺𑀬𑀲𑀼𑀢𑁆𑀢
 
-### 𑀤𑁆𑀯𑁂𑀧𑀩𑁆𑀩𑀚𑀺𑀢𑀯𑀢𑁆𑀣𑀼
+* 𑀤𑁆𑀯𑁂𑀧𑀩𑁆𑀩𑀚𑀺𑀢𑀯𑀢𑁆𑀣𑀼
 
 (378.)
 
@@ -29,6 +29,6 @@
 
 
 
-[Go to previous page (7 Jāliyasutta)](../7.md) / [Go to parent page (7 Jāliyasutta)](../7.md) / [Go to next page (8 Mahāsīhanādasutta)](../8.md)
+[Go to previous page (7 Jāliyasutta)](../6D/7.md) / [Go to parent page (7 Jāliyasutta)](../6D/7.md) / [Go to next page (8 Mahāsīhanādasutta)](../8.md)
 
 

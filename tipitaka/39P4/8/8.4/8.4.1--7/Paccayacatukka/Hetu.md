@@ -1,17 +1,17 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../../8.md) / [8.4 Upādinnattika, Saraṇaduka](../../../8.4.md) / [8.4.1--7 Paṭiccādivāra](../../8.4.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../...md) / [8 Tika, Saraṇaduka](../../...md) / [8.4 Upādinnattika, Saraṇaduka](../...md) / [8.4.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/8/8.4/8.4.1--7/Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀢𑀺𑀓, 𑀲𑀭𑀡𑀤𑀼𑀓
+* 𑀢𑀺𑀓, 𑀲𑀭𑀡𑀤𑀼𑀓
 
-### 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀢𑁆𑀢𑀺𑀓, 𑀲𑀭𑀡𑀤𑀼𑀓
+* 𑀉𑀧𑀸𑀤𑀺𑀦𑁆𑀦𑀢𑁆𑀢𑀺𑀓, 𑀲𑀭𑀡𑀤𑀼𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (13.)
 
@@ -53,6 +53,6 @@
 
 1754\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.5 Saṃkiliṭṭhattika, Saraṇaduka)](../../../8.5.md)
+[Go to previous page (Paccayacatukka)](../39P4/8/8.4/8.4.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/8/8.4/8.4.1--7/Paccayacatukka.md) / [Go to next page (8.5 Saṃkiliṭṭhattika, Saraṇaduka)](../../../8.5.md)
 
 

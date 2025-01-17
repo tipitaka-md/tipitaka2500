@@ -1,17 +1,17 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Upanissaya](../Upanissaya.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Upanissaya](../36P1/2/2.7/2.7.3/Upanissaya.md)
 
 # 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀖𑀝𑀦𑀸
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬
+* 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬
 
-### 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀖𑀝𑀦𑀸
+* 𑀉𑀧𑀦𑀺𑀲𑁆𑀲𑀬𑀖𑀝𑀦𑀸
 
 (440.)
 
@@ -35,6 +35,6 @@
 
 
 
-[Go to previous page (Upanissayaduka)](Upanissayaduka.md) / [Go to parent page (Upanissaya)](../Upanissaya.md) / [Go to next page (Purejāta)](../Purejata.md)
+[Go to previous page (Upanissayaduka)](Upanissayaduka.md) / [Go to parent page (Upanissaya)](../36P1/2/2.7/2.7.3/Upanissaya.md) / [Go to next page (Purejāta)](../Purejata.md)
 
 

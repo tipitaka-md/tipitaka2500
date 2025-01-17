@@ -1,19 +1,19 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Āsevana](../Asevana.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.7 Pañhāvāra](../../...md) / [2.7.1 Paccayānuloma](../...md) / [2.7.1.2 Saṅkhyāvāra](...md) / [Āsevana](../36P1/2/2.7/2.7.1/2.7.1.2/Asevana.md)
 
 # 𑀆𑀲𑁂𑀯𑀦𑀖𑀝𑀦𑀸
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+* 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### 𑀆𑀲𑁂𑀯𑀦
+* 𑀆𑀲𑁂𑀯𑀦
 
-### 𑀆𑀲𑁂𑀯𑀦𑀖𑀝𑀦𑀸
+* 𑀆𑀲𑁂𑀯𑀦𑀖𑀝𑀦𑀸
 
 (336.)
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (Āsevanasabhāga)](Asevanasabhaga.md) / [Go to parent page (Āsevana)](../Asevana.md) / [Go to next page (Kamma)](../Kamma.md)
+[Go to previous page (Āsevanasabhāga)](Asevanasabhaga.md) / [Go to parent page (Āsevana)](../36P1/2/2.7/2.7.1/2.7.1.2/Asevana.md) / [Go to next page (Kamma)](../Kamma.md)
 
 

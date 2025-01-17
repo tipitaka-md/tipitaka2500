@@ -1,13 +1,13 @@
 
-[Home](/) / [40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)](../../../40P11.md) / [1 Kusalattika, Vedanāttika](../../1.md) / [1.3 Adukkhamasukhavedanāyasampayuttapada](../1.3.md)
+[Home](/) / [40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)](../...md) / [1 Kusalattika, Vedanāttika](...md) / [1.3 Adukkhamasukhavedanāyasampayuttapada](../40P11/1/1.3.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓, 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
 
-### 𑀅𑀤𑀼𑀓𑁆𑀔𑀫𑀲𑀼𑀔𑀯𑁂𑀤𑀦𑀸𑀬𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀤
+* 𑀅𑀤𑀼𑀓𑁆𑀔𑀫𑀲𑀼𑀔𑀯𑁂𑀤𑀦𑀸𑀬𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀤
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (8.)
 
@@ -25,6 +25,6 @@
 
 22\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀽𑀦𑀢𑀺𑀁𑀲, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀘𑀢𑀼𑀯𑀻𑀲…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀦𑀯…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀽𑀦𑀢𑀺𑀁𑀲𑁇 (𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁄𑁇)
 
-[Go to previous page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md) / [Go to parent page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md) / [Go to next page (2 Kusalattika, Vipākattika)](../../2.md)
+[Go to previous page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../40P11/1/1.3.md) / [Go to parent page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../40P11/1/1.3.md) / [Go to next page (2 Kusalattika, Vipākattika)](../../2.md)
 
 

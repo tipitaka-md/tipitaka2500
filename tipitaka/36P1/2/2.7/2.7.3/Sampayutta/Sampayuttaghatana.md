@@ -1,17 +1,17 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Sampayutta](../Sampayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Sampayutta](../36P1/2/2.7/2.7.3/Sampayutta.md)
 
 # 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀖𑀝𑀦𑀸
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢
+* 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢
 
-### 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀖𑀝𑀦𑀸
+* 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀖𑀝𑀦𑀸
 
 (484.)
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (Sampayuttaduka)](Sampayuttaduka.md) / [Go to parent page (Sampayutta)](../Sampayutta.md) / [Go to next page (Vippayutta)](../Vippayutta.md)
+[Go to previous page (Sampayuttaduka)](Sampayuttaduka.md) / [Go to parent page (Sampayutta)](../36P1/2/2.7/2.7.3/Sampayutta.md) / [Go to next page (Vippayutta)](../Vippayutta.md)
 
 

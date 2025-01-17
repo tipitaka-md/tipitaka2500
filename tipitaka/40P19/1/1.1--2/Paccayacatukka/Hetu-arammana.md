@@ -1,15 +1,15 @@
 
-[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](../../../../40P19.md) / [1 Kusalattika](../../../1.md) / [1.1--2 Paṭiccādivāra](../../1.1--2.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [40P19 Dhammapaccanīyānuloma (4), Tikapaṭṭhānapāḷi (1)](../../...md) / [1 Kusalattika](../...md) / [1.1--2 Paṭiccādivāra](...md) / [Paccayacatukka](../40P19/1/1.1--2/Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
+* 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
 (1.)
 
@@ -41,6 +41,6 @@
 
 14\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀅𑀝𑁆𑀞𑀸𑀭𑀲, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀦𑀯, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀅𑀝𑁆𑀞𑀸𑀭𑀲…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀢𑀻𑀡𑀺…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀅𑀝𑁆𑀞𑀸𑀭𑀲𑁇
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
+[Go to previous page (Paccayacatukka)](../40P19/1/1.1--2/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../40P19/1/1.1--2/Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

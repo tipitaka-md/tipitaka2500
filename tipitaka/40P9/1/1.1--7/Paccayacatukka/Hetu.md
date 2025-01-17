@@ -1,15 +1,15 @@
 
-[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](../../../../40P9.md) / [1 Hetuduka, Kusalattika](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [40P9 Dhammapaccanīya (2), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [1 Hetuduka, Kusalattika](../...md) / [1.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../40P9/1/1.1--7/Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀳𑁂𑀢𑀼𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (1.)
 
@@ -27,6 +27,6 @@
 
 7\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁂𑀧𑀺…𑀧𑁂…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑁂𑀧𑀺 𑀲𑀩𑁆𑀩𑀢𑁆𑀣 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁄𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
+[Go to previous page (Paccayacatukka)](../40P9/1/1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../40P9/1/1.1--7/Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

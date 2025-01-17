@@ -1,15 +1,15 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [7 Vitakkattika](../../../7.md) / [7.5 Saṃsaṭṭhavāra](../../7.5.md) / [7.5.3 Paccayānulomapaccanīya](../7.5.3.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [7 Vitakkattika](../...md) / [7.5 Saṃsaṭṭhavāra](...md) / [7.5.3 Paccayānulomapaccanīya](../37P1/7/7.5/7.5.3.md)
 
 # 𑀤𑀼𑀓
 
-### 𑀯𑀺𑀢𑀓𑁆𑀓𑀢𑁆𑀢𑀺𑀓
+* 𑀯𑀺𑀢𑀓𑁆𑀓𑀢𑁆𑀢𑀺𑀓
 
-### 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
+* 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀤𑀼𑀓
+* 𑀤𑀼𑀓
 
 (64.)
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to parent page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to next page (7.5.4 Paccayapaccanīyānuloma)](../7.5.4.md)
+[Go to previous page (7.5.3 Paccayānulomapaccanīya)](../37P1/7/7.5/7.5.3.md) / [Go to parent page (7.5.3 Paccayānulomapaccanīya)](../37P1/7/7.5/7.5.3.md) / [Go to next page (7.5.4 Paccayapaccanīyānuloma)](../7.5.4.md)
 
 

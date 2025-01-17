@@ -1,13 +1,13 @@
 
-[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](../../../40P8.md) / [6 Nahetusahetukaduka](../../6.md) / [6.1--7 Paṭiccādivāra](../6.1--7.md)
+[Home](/) / [40P8 Dhammapaccanīya (2), Dukapaṭṭhānapāḷi (2)](../...md) / [6 Nahetusahetukaduka](...md) / [6.1--7 Paṭiccādivāra](../40P8/6/6.1--7.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
-### 𑀦𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
+* 𑀦𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀆𑀭𑀫𑁆𑀫𑀡
+* 𑀆𑀭𑀫𑁆𑀫𑀡
 
 (15.)
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (6.1--7 Paṭiccādivāra)](../6.1--7.md) / [Go to parent page (6.1--7 Paṭiccādivāra)](../6.1--7.md) / [Go to next page (7 Sappaccayaduka)](../../7.md)
+[Go to previous page (6.1--7 Paṭiccādivāra)](../40P8/6/6.1--7.md) / [Go to parent page (6.1--7 Paṭiccādivāra)](../40P8/6/6.1--7.md) / [Go to next page (7 Sappaccayaduka)](../../7.md)
 
 

@@ -1,17 +1,17 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [1 Hetugocchaka](../../../../1.md) / [1.4 Hetusahetukaduka](../../../1.4.md) / [1.4.1 Paṭiccavāra](../../1.4.1.md) / [1.4.1.3 Paccayānulomapaccanīya](../1.4.1.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [1 Hetugocchaka](../../...md) / [1.4 Hetusahetukaduka](../...md) / [1.4.1 Paṭiccavāra](...md) / [1.4.1.3 Paccayānulomapaccanīya](../38P2/1/1.4/1.4.1/1.4.1.3.md)
 
 # 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
+* 𑀳𑁂𑀢𑀼𑀕𑁄𑀘𑁆𑀙𑀓
 
-### 𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
+* 𑀳𑁂𑀢𑀼𑀲𑀳𑁂𑀢𑀼𑀓𑀤𑀼𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (134.)
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (1.4.1.3 Paccayānulomapaccanīya)](../1.4.1.3.md) / [Go to parent page (1.4.1.3 Paccayānulomapaccanīya)](../1.4.1.3.md) / [Go to next page (1.4.1.4 Paccayapaccanīyānuloma)](../1.4.1.4.md)
+[Go to previous page (1.4.1.3 Paccayānulomapaccanīya)](../38P2/1/1.4/1.4.1/1.4.1.3.md) / [Go to parent page (1.4.1.3 Paccayānulomapaccanīya)](../38P2/1/1.4/1.4.1/1.4.1.3.md) / [Go to next page (1.4.1.4 Paccayapaccanīyānuloma)](../1.4.1.4.md)
 
 

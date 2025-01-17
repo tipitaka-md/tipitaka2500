@@ -1,15 +1,15 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../23.md) / [23.7 Pañhāvāra](../../23.7.md) / [23.7.4 Paccayapaccanīyānuloma](../23.7.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [23 Sanidassanasappaṭighattika](../...md) / [23.7 Pañhāvāra](...md) / [23.7.4 Paccayapaccanīyānuloma](../37P1/23/23.7/23.7.4.md)
 
 # 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
-### 𑀲𑀦𑀺𑀤𑀲𑁆𑀲𑀦𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑀢𑁆𑀢𑀺𑀓
+* 𑀲𑀦𑀺𑀤𑀲𑁆𑀲𑀦𑀲𑀧𑁆𑀧𑀝𑀺𑀖𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀧𑀘𑁆𑀘𑀦𑀻𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
+* 𑀦𑀳𑁂𑀢𑀼𑀤𑀼𑀓
 
 (66.)
 
@@ -36,6 +36,6 @@
 
 
 
-[Go to previous page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md) / [Go to parent page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md)
+[Go to previous page (23.7.4 Paccayapaccanīyānuloma)](../37P1/23/23.7/23.7.4.md) / [Go to parent page (23.7.4 Paccayapaccanīyānuloma)](../37P1/23/23.7/23.7.4.md)
 
 

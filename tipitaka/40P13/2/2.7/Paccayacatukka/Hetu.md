@@ -1,15 +1,15 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [2 Vedanāttika](../../../2.md) / [2.7 Pañhāvāra](../../2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../...md) / [2 Vedanāttika](../...md) / [2.7 Pañhāvāra](...md) / [Paccayacatukka](../40P13/2/2.7/Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
+* 𑀯𑁂𑀤𑀦𑀸𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (16.)
 
@@ -17,6 +17,6 @@
 
 32\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀏𑀓𑀯𑀻𑀲, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀏𑀓𑀯𑀻𑀲…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀯𑀻𑀲𑁇 (𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3 Vipākattika)](../../../3.md)
+[Go to previous page (Paccayacatukka)](../40P13/2/2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../40P13/2/2.7/Paccayacatukka.md) / [Go to next page (3 Vipākattika)](../../../3.md)
 
 

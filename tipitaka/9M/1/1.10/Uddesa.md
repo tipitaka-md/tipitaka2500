@@ -1,13 +1,13 @@
 
-[Home](/) / [9M Mūlapaṇṇāsapāḷi](../../../9M.md) / [1 Mūlapariyāyavagga](../../1.md) / [1.10 Mahāsatipaṭṭhānasutta](../1.10.md)
+[Home](/) / [9M Mūlapaṇṇāsapāḷi](../...md) / [1 Mūlapariyāyavagga](...md) / [1.10 Mahāsatipaṭṭhānasutta](../9M/1/1.10.md)
 
 # 𑀉𑀤𑁆𑀤𑁂𑀲
 
-### 𑀫𑀽𑀮𑀧𑀭𑀺𑀬𑀸𑀬𑀯𑀕𑁆𑀕
+* 𑀫𑀽𑀮𑀧𑀭𑀺𑀬𑀸𑀬𑀯𑀕𑁆𑀕
 
-### 𑀫𑀳𑀸𑀲𑀢𑀺𑀧𑀝𑁆𑀞𑀸𑀦𑀲𑀼𑀢𑁆𑀢
+* 𑀫𑀳𑀸𑀲𑀢𑀺𑀧𑀝𑁆𑀞𑀸𑀦𑀲𑀼𑀢𑁆𑀢
 
-### 𑀉𑀤𑁆𑀤𑁂𑀲
+* 𑀉𑀤𑁆𑀤𑁂𑀲
 
 (106.)
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (1.10 Mahāsatipaṭṭhānasutta)](../1.10.md) / [Go to parent page (1.10 Mahāsatipaṭṭhānasutta)](../1.10.md) / [Go to next page (1.10.1 Kāyānupassanā)](1.10.1.md)
+[Go to previous page (1.10 Mahāsatipaṭṭhānasutta)](../9M/1/1.10.md) / [Go to parent page (1.10 Mahāsatipaṭṭhānasutta)](../9M/1/1.10.md) / [Go to next page (1.10.1 Kāyānupassanā)](1.10.1.md)
 
 

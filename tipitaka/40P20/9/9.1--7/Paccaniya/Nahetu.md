@@ -1,15 +1,15 @@
 
-[Home](/) / [40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)](../../../../40P20.md) / [9 Saraṇaduka](../../../9.md) / [9.1--7 Paṭiccādivāra](../../9.1--7.md) / [Paccanīya](../Paccaniya.md)
+[Home](/) / [40P20 Dhammapaccanīyānuloma (4), Dukapaṭṭhānapāḷi (2)](../../...md) / [9 Saraṇaduka](../...md) / [9.1--7 Paṭiccādivāra](...md) / [Paccanīya](../40P20/9/9.1--7/Paccaniya.md)
 
 # 𑀦𑀳𑁂𑀢𑀼
 
-### 𑀲𑀭𑀡𑀤𑀼𑀓
+* 𑀲𑀭𑀡𑀤𑀼𑀓
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀦𑀻𑀬
+* 𑀧𑀘𑁆𑀘𑀦𑀻𑀬
 
-### 𑀦𑀳𑁂𑀢𑀼
+* 𑀦𑀳𑁂𑀢𑀼
 
 (56.)
 
@@ -19,6 +19,6 @@
 
 159\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺…𑀧𑁂…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
+[Go to previous page (Paccanīya)](../40P20/9/9.1--7/Paccaniya.md) / [Go to parent page (Paccanīya)](../40P20/9/9.1--7/Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
 
 

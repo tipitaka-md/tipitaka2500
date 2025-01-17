@@ -1,19 +1,19 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.5 Rūpīduka, Kusalattika](../../../../3.5.md) / [3.5.2 Abyākatapada](../../../3.5.2.md) / [3.5.2.1--7 Paṭiccādivāra](../../3.5.2.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [3 Cūḷantaraduka, Kusalattika](../../../...md) / [3.5 Rūpīduka, Kusalattika](../../...md) / [3.5.2 Abyākatapada](../...md) / [3.5.2.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
-### 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀭𑀽𑀧𑀻𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀭𑀽𑀧𑀻𑀤𑀼𑀓, 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀧𑀤
+* 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀧𑀤
 
-### 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
+* 𑀧𑀝𑀺𑀘𑁆𑀘𑀸𑀤𑀺𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
+* 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
-### 𑀳𑁂𑀢𑀼
+* 𑀳𑁂𑀢𑀼
 
 (41.)
 
@@ -37,6 +37,6 @@
 
 
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.6 Lokiyaduka, Kusalattika)](../../../../3.6.md)
+[Go to previous page (Paccayacatukka)](../39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P3/3/3.5/3.5.2/3.5.2.1--7/Paccayacatukka.md) / [Go to next page (3.6 Lokiyaduka, Kusalattika)](../../../../3.6.md)
 
 

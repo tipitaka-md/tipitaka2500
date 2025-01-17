@@ -1,19 +1,19 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Avigata](../Avigata.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.7 Pañhāvāra](../../...md) / [2.7.1 Paccayānuloma](../...md) / [2.7.1.2 Saṅkhyāvāra](...md) / [Avigata](../36P1/2/2.7/2.7.1/2.7.1.2/Avigata.md)
 
 # 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
 
-### 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
+* 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓
 
-### 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
+* 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭
 
-### 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
+* 𑀧𑀘𑁆𑀘𑀬𑀸𑀦𑀼𑀮𑁄𑀫
 
-### 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
+* 𑀲𑀗𑁆𑀔𑁆𑀬𑀸𑀯𑀸𑀭
 
-### 𑀅𑀯𑀺𑀕𑀢
+* 𑀅𑀯𑀺𑀕𑀢
 
-### 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
+* 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
 
 (390.)
 
@@ -30,6 +30,6 @@
 
 
 
-[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Avigata)](../Avigata.md) / [Go to next page (Paccanīyuddhāra)](../../../Paccaniyuddhara.md)
+[Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Avigata)](../36P1/2/2.7/2.7.1/2.7.1.2/Avigata.md) / [Go to next page (Paccanīyuddhāra)](../../../Paccaniyuddhara.md)
 
 
