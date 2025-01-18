@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.5 Saṃsaṭṭhavāra](../...md) / [2.5.4 Paccayapaccanīyānuloma](...md) / [Navipākaduka](../36P1/2/2.5/2.5.4/Navipakaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.4 Paccayapaccanīyānuloma](../../2.5.4.md) / [Navipākaduka](../Navipakaduka.md)
 
 # Pañcaka
 
@@ -17,6 +17,6 @@
 
 808\. (Navipākamūlake idaṃ nānākaraṇaṃ, avasesāni yathā nahetumūlakaṃ.)
 
-[Go to previous page (Navipākaduka)](../36P1/2/2.5/2.5.4/Navipakaduka.md) / [Go to parent page (Navipākaduka)](../36P1/2/2.5/2.5.4/Navipakaduka.md) / [Go to next page (Najhānaduka)](../Najhanaduka.md)
+[Go to previous page (Navipākaduka)](../Navipakaduka.md) / [Go to parent page (Navipākaduka)](../Navipakaduka.md) / [Go to next page (Najhānaduka)](../Najhanaduka.md)
 
 

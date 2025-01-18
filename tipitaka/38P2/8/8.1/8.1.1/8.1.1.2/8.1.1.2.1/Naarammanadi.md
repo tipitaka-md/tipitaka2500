@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [8 Nīvaraṇagocchaka](../../../...md) / [8.1 Nīvaraṇaduka](../../...md) / [8.1.1 Paṭiccavāra](../...md) / [8.1.1.2 Paccayapaccanīya](...md) / [8.1.1.2.1 Vibhaṅgavāra](../38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.1 Nīvaraṇaduka](../../../../8.1.md) / [8.1.1 Paṭiccavāra](../../../8.1.1.md) / [8.1.1.2 Paccayapaccanīya](../../8.1.1.2.md) / [8.1.1.2.1 Vibhaṅgavāra](../8.1.1.2.1.md)
 
 # Naārammaṇādi
 
@@ -23,6 +23,6 @@
 
 1906\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paṭicca nonīvaraṇo dhammo uppajjati naārammaṇapaccayā—  nīvaraṇe ca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ…  (saṃkhittaṃ) naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (8.1.1.2.1 Vibhaṅgavāra)](../38P2/8/8.1/8.1.1/8.1.1.2/8.1.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (8.1.1.2.1 Vibhaṅgavāra)](../8.1.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [14 Parittārammaṇattika](../../...md) / [14.7 Pañhāvāra](../...md) / [14.7.1 Paccayānuloma](...md) / [14.7.1.1 Vibhaṅgavāra](../37P1/14/14.7/14.7.1/14.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [14 Parittārammaṇattika](../../../../14.md) / [14.7 Pañhāvāra](../../../14.7.md) / [14.7.1 Paccayānuloma](../../14.7.1.md) / [14.7.1.1 Vibhaṅgavāra](../14.7.1.1.md)
 
 # Anantara
 
@@ -37,6 +37,6 @@
 
 2213\. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa anantarapaccayena paccayo—  maggapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  phalapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  nibbānapaccavekkhaṇaṃ mahaggatārammaṇassa vuṭṭhānassa…  phalaṃ mahaggatārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (14.7.1.1 Vibhaṅgavāra)](../37P1/14/14.7/14.7.1/14.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (14.7.1.1 Vibhaṅgavāra)](../14.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 
 

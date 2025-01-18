@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [9 Parāmāsagocchaka, Kusalattika](../...md) / [9.4 Parāmāsaparāmaṭṭhaduka, Kusalattika](...md) / [9.4.1--7 Paṭiccādivāra](../39P3/9/9.4/9.4.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [9 Parāmāsagocchaka, Kusalattika](../../../9.md) / [9.4 Parāmāsaparāmaṭṭhaduka, Kusalattika](../../9.4.md) / [9.4.1--7 Paṭiccādivāra](../9.4.1--7.md)
 
 # Paccayacatukka
 
@@ -53,6 +53,6 @@
 
 2009\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (9.4.1--7 Paṭiccādivāra)](../39P3/9/9.4/9.4.1--7.md) / [Go to parent page (9.4.1--7 Paṭiccādivāra)](../39P3/9/9.4/9.4.1--7.md) / [Go to next page (9.5 Parāmāsavippayuttaparāmaṭṭhaduka, Kusalattika)](../../9.5.md)
+[Go to previous page (9.4.1--7 Paṭiccādivāra)](../9.4.1--7.md) / [Go to parent page (9.4.1--7 Paṭiccādivāra)](../9.4.1--7.md) / [Go to next page (9.5 Parāmāsavippayuttaparāmaṭṭhaduka, Kusalattika)](../../9.5.md)
 
 

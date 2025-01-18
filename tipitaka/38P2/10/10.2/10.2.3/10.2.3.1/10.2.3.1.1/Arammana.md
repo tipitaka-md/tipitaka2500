@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.2 Cittaduka](../../...md) / [10.2.3 Paccayavāra](../...md) / [10.2.3.1 Paccayānuloma](...md) / [10.2.3.1.1 Vibhaṅgavāra](../38P2/10/10.2/10.2.3/10.2.3.1/10.2.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.2 Cittaduka](../../../../10.2.md) / [10.2.3 Paccayavāra](../../../10.2.3.md) / [10.2.3.1 Paccayānuloma](../../10.2.3.1.md) / [10.2.3.1.1 Vibhaṅgavāra](../10.2.3.1.1.md)
 
 # Ārammaṇa
 
@@ -27,6 +27,6 @@
 
 2464\. Cittañca nocittañca dhammaṃ paccayā nocitto dhammo uppajjati ārammaṇapaccayā—  nocittaṃ ekaṃ khandhañca cittañca paccayā dve khandhā, dve khandhe ca…pe…  cittañca vatthuñca paccayā nocittā khandhā, paṭisandhikkhaṇe…pe…  paṭisandhikkhaṇe cittañca vatthuñca paccayā nocittā khandhā, cakkhāyatanañca cakkhuviññāṇañca paccayā cakkhuviññāṇasahagatā khandhā…pe…  kāyāyatanaṃ ca…pe…  (Saṃkhittaṃ.) (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.2.3.1.1 Vibhaṅgavāra)](../38P2/10/10.2/10.2.3/10.2.3.1/10.2.3.1.1.md) / [Go to next page (10.2.3.1.2 Saṅkhyāvāra)](../10.2.3.1.2.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.2.3.1.1 Vibhaṅgavāra)](../10.2.3.1.1.md) / [Go to next page (10.2.3.1.2 Saṅkhyāvāra)](../10.2.3.1.2.md)
 
 

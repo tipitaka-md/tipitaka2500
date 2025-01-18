@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.4 Cittasampayuttaduka](../../...md) / [10.4.7 Pañhāvāra](../...md) / [10.4.7.1 Paccayānuloma](...md) / [10.4.7.1.1 Vibhaṅgavāra](../38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.4 Cittasampayuttaduka](../../../../10.4.md) / [10.4.7 Pañhāvāra](../../../10.4.7.md) / [10.4.7.1 Paccayānuloma](../../10.4.7.1.md) / [10.4.7.1.1 Vibhaṅgavāra](../10.4.7.1.1.md)
 
 # Vipākāhāra
 
@@ -23,6 +23,6 @@
 
 2735\. Cittavippayutto dhammo cittavippayuttassa dhammassa āhārapaccayena paccayo—  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../38P2/10/10.4/10.4.7/10.4.7.1/10.4.7.1.1.md) / [Go to next page (Indriyādi)](Indriyadi.md)
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Indriyādi)](Indriyadi.md)
 
 

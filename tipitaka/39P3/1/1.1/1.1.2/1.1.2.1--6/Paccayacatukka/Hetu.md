@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [1 Hetuduka, Tika](../../../...md) / [1.1 Hetuduka, Kusalattika](../../...md) / [1.1.2 Akusalapada](../...md) / [1.1.2.1--6 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.1 Hetuduka, Kusalattika](../../../../1.1.md) / [1.1.2 Akusalapada](../../../1.1.2.md) / [1.1.2.1--6 Paṭiccādivāra](../../1.1.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -31,6 +31,6 @@
 
 46\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ, anulomaṃ.)
 
-[Go to previous page (Paccayacatukka)](../39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P3/1/1.1/1.1.2/1.1.2.1--6/Paccayacatukka.md) / [Go to next page (Nahetu)](Nahetu.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu)](Nahetu.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [16 Micchattaniyatattika](../../...md) / [16.1 Paṭiccavāra](../...md) / [16.1.1 Paccayānuloma](...md) / [16.1.1.1 Vibhaṅgavāra](../37P1/16/16.1/16.1.1/16.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.1 Paṭiccavāra](../../../16.1.md) / [16.1.1 Paccayānuloma](../../16.1.1.md) / [16.1.1.1 Vibhaṅgavāra](../16.1.1.1.md)
 
 # Hetu
 
@@ -35,6 +35,6 @@
 
 2269\. Sammattaniyatañca aniyatañca dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  sammattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (16.1.1.1 Vibhaṅgavāra)](../37P1/16/16.1/16.1.1/16.1.1.1.md) / [Go to parent page (16.1.1.1 Vibhaṅgavāra)](../37P1/16/16.1/16.1.1/16.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to parent page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

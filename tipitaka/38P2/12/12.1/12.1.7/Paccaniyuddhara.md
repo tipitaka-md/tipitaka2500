@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [12 Kilesagocchaka](../...md) / [12.1 Kilesaduka](...md) / [12.1.7 Pañhāvāra](../38P2/12/12.1/12.1.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [12 Kilesagocchaka](../../../12.md) / [12.1 Kilesaduka](../../12.1.md) / [12.1.7 Pañhāvāra](../12.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -35,6 +35,6 @@
 
 3911\. Kileso ca nokileso ca dhammā kilesassa ca nokilesassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](12.1.7.1/12.1.7.1.2/Suddha.md) / [Go to parent page (12.1.7 Pañhāvāra)](../38P2/12/12.1/12.1.7.md) / [Go to next page (12.1.7.2 Paccayapaccanīya)](12.1.7.2.md)
+[Go to previous page (Suddha)](12.1.7.1/12.1.7.1.2/Suddha.md) / [Go to parent page (12.1.7 Pañhāvāra)](../12.1.7.md) / [Go to next page (12.1.7.2 Paccayapaccanīya)](12.1.7.2.md)
 
 

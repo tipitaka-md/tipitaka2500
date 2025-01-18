@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [7 Vitakkattika](../../...md) / [7.1 Paṭiccavāra](../...md) / [7.1.2 Paccayapaccanīya](...md) / [7.1.2.1 Vibhaṅgavāra](../37P1/7/7.1/7.1.2/7.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.2 Paccayapaccanīya](../../7.1.2.md) / [7.1.2.1 Vibhaṅgavāra](../7.1.2.1.md)
 
 # Napacchājātādi
 
@@ -23,6 +23,6 @@
 
 171\. (Naāsevanamūlake avitakkavicāramattaṃ vipākena saha gacchantena napurejātasadisaṃ kātabbaṃ, avitakkavicāramattañca avitakkavicāramattagacchantena vipāko dassetabbo.)
 
-[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../37P1/7/7.1/7.1.2/7.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
+[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 
 

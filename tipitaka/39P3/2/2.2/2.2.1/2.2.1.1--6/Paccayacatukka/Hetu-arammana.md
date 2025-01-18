@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [2 Hetugocchaka, Kusalattika](../../../...md) / [2.2 Sahetukaduka, Kusalattika](../../...md) / [2.2.1 Kusalapada](../...md) / [2.2.1.1--6 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/2/2.2/2.2.1/2.2.1.1--6/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [2 Hetugocchaka, Kusalattika](../../../../../2.md) / [2.2 Sahetukaduka, Kusalattika](../../../../2.2.md) / [2.2.1 Kusalapada](../../../2.2.1.md) / [2.2.1.1--6 Paṭiccādivāra](../../2.2.1.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -25,6 +25,6 @@
 
 1245\. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme ekaṃ, āhāre ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](../39P3/2/2.2/2.2.1/2.2.1.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P3/2/2.2/2.2.1/2.2.1.1--6/Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.13 Arūpāvacaraduka](../../...md) / [13.13.3 Paccayavāra](../...md) / [13.13.3.1 Paccayānuloma](...md) / [13.13.3.1.1 Vibhaṅgavāra](../38P2/13/13.13/13.13.3/13.13.3.1/13.13.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.13 Arūpāvacaraduka](../../../../13.13.md) / [13.13.3 Paccayavāra](../../../13.13.3.md) / [13.13.3.1 Paccayānuloma](../../13.13.3.1.md) / [13.13.3.1.1 Vibhaṅgavāra](../13.13.3.1.1.md)
 
 # Hetu
 
@@ -25,6 +25,6 @@
 
 4667\. Arūpāvacarañca naarūpāvacarañca dhammaṃ paccayā arūpāvacaro dhammo uppajjati hetupaccayā—  arūpāvacaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . Arūpāvacarañca naarūpāvacarañca dhammaṃ paccayā naarūpāvacaro dhammo uppajjati hetupaccayā—  arūpāvacare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Arūpāvacarañca naarūpāvacarañca dhammaṃ paccayā arūpāvacaro ca naarūpāvacaro ca dhammā uppajjanti hetupaccayā—  arūpāvacaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  arūpāvacare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-[Go to previous page (13.13.3.1.1 Vibhaṅgavāra)](../38P2/13/13.13/13.13.3/13.13.3.1/13.13.3.1.1.md) / [Go to parent page (13.13.3.1.1 Vibhaṅgavāra)](../38P2/13/13.13/13.13.3/13.13.3.1/13.13.3.1.1.md) / [Go to next page (13.13.3.1.2 Saṅkhyāvāra)](../13.13.3.1.2.md)
+[Go to previous page (13.13.3.1.1 Vibhaṅgavāra)](../13.13.3.1.1.md) / [Go to parent page (13.13.3.1.1 Vibhaṅgavāra)](../13.13.3.1.1.md) / [Go to next page (13.13.3.1.2 Saṅkhyāvāra)](../13.13.3.1.2.md)
 
 

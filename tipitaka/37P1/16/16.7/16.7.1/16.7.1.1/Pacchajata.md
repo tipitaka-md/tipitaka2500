@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [16 Micchattaniyatattika](../../...md) / [16.7 Pañhāvāra](../...md) / [16.7.1 Paccayānuloma](...md) / [16.7.1.1 Vibhaṅgavāra](../37P1/16/16.7/16.7.1/16.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # Pacchājāta
 
@@ -21,6 +21,6 @@
 
 2380\. Aniyato dhammo aniyatassa dhammassa pacchājātapaccayena paccayo—  pacchājātā aniyatā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../37P1/16/16.7/16.7.1/16.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

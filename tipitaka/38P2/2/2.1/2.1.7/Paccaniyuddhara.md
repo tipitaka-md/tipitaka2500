@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [2 Cūḷantaraduka](../...md) / [2.1 Sappaccayaduka](...md) / [2.1.7 Pañhāvāra](../38P2/2/2.1/2.1.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [2 Cūḷantaraduka](../../../2.md) / [2.1 Sappaccayaduka](../../2.1.md) / [2.1.7 Pañhāvāra](../2.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -17,6 +17,6 @@
 
 569\. Appaccayo dhammo sappaccayassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Suddha)](2.1.7.1/2.1.7.1.2/Suddha.md) / [Go to parent page (2.1.7 Pañhāvāra)](../38P2/2/2.1/2.1.7.md) / [Go to next page (2.1.7.2 Paccayapaccanīya)](2.1.7.2.md)
+[Go to previous page (Suddha)](2.1.7.1/2.1.7.1.2/Suddha.md) / [Go to parent page (2.1.7 Pañhāvāra)](../2.1.7.md) / [Go to next page (2.1.7.2 Paccayapaccanīya)](2.1.7.2.md)
 
 

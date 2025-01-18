@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../...md) / [14 Parittārammaṇattika](...md) / [14.7 Pañhāvāra](../37P1/14/14.7.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../37P1.md) / [14 Parittārammaṇattika](../../14.md) / [14.7 Pañhāvāra](../14.7.md)
 
 # Paccanīyuddhāra
 
@@ -33,6 +33,6 @@
 
 2246\. Appamāṇārammaṇo dhammo mahaggatārammaṇassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](14.7.1/14.7.1.2/Suddha.md) / [Go to parent page (14.7 Pañhāvāra)](../37P1/14/14.7.md) / [Go to next page (14.7.2 Paccayapaccanīya)](14.7.2.md)
+[Go to previous page (Suddha)](14.7.1/14.7.1.2/Suddha.md) / [Go to parent page (14.7 Pañhāvāra)](../14.7.md) / [Go to next page (14.7.2 Paccayapaccanīya)](14.7.2.md)
 
 

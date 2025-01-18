@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [12 Sekkhattika](../../...md) / [12.1 Paṭiccavāra](../...md) / [12.1.2 Paccayapaccanīya](...md) / [12.1.2.1 Vibhaṅgavāra](../37P1/12/12.1/12.1.2/12.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.1 Paṭiccavāra](../../../12.1.md) / [12.1.2 Paccayapaccanīya](../../12.1.2.md) / [12.1.2.1 Vibhaṅgavāra](../12.1.2.1.md)
 
 # Naāhārādi
 

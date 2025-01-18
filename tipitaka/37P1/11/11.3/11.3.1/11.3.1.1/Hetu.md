@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [11 Ācayagāmittika](../../...md) / [11.3 Paccayavāra](../...md) / [11.3.1 Paccayānuloma](...md) / [11.3.1.1 Vibhaṅgavāra](../37P1/11/11.3/11.3.1/11.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.3 Paccayavāra](../../../11.3.md) / [11.3.1 Paccayānuloma](../../11.3.1.md) / [11.3.1.1 Vibhaṅgavāra](../11.3.1.1.md)
 
 # Hetu
 
@@ -45,6 +45,6 @@
 
 1483\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paccayā apacayagāmī dhammo…  tīṇi.
 
-[Go to previous page (11.3.1.1 Vibhaṅgavāra)](../37P1/11/11.3/11.3.1/11.3.1.1.md) / [Go to parent page (11.3.1.1 Vibhaṅgavāra)](../37P1/11/11.3/11.3.1/11.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (11.3.1.1 Vibhaṅgavāra)](../11.3.1.1.md) / [Go to parent page (11.3.1.1 Vibhaṅgavāra)](../11.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

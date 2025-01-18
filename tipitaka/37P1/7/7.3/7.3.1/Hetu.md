@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [7 Vitakkattika](../...md) / [7.3 Paccayavāra](...md) / [7.3.1 Paccayānuloma](../37P1/7/7.3/7.3.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [7 Vitakkattika](../../../7.md) / [7.3 Paccayavāra](../../7.3.md) / [7.3.1 Paccayānuloma](../7.3.1.md)
 
 # Hetu
 
@@ -55,6 +55,6 @@
 
 218\. (Hetupaccayaṃ anumajjantena paccayavāro vitthāretabbo. Yathā paṭiccagaṇanā evaṃ gaṇetabbā. Adhipatiyā sattatiṃsa, purejāte ca āsevane ca ekavīsa, ayaṃ ettha viseso.)
 
-[Go to previous page (7.3.1 Paccayānuloma)](../37P1/7/7.3/7.3.1.md) / [Go to parent page (7.3.1 Paccayānuloma)](../37P1/7/7.3/7.3.1.md) / [Go to next page (7.3.2 Paccayapaccanīya)](../7.3.2.md)
+[Go to previous page (7.3.1 Paccayānuloma)](../7.3.1.md) / [Go to parent page (7.3.1 Paccayānuloma)](../7.3.1.md) / [Go to next page (7.3.2 Paccayapaccanīya)](../7.3.2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](../...md) / [22 Saraṇaduka, Piṭṭhiduka](...md) / [22.2 Anuttarapada](../40P24/22/22.2.md)
+[Home](/) / [40P24 Dhammapaccanīyānuloma (4), Dukadukapaṭṭhānapāḷi (6)](../../../40P24.md) / [22 Saraṇaduka, Piṭṭhiduka](../../22.md) / [22.2 Anuttarapada](../22.2.md)
 
 # Paccanīyuddhāra
 
@@ -41,6 +41,6 @@
 
 
 
-[Go to previous page (Hetu-anantara)](Hetu-anantara.md) / [Go to parent page (22.2 Anuttarapada)](../40P24/22/22.2.md)
+[Go to previous page (Hetu-anantara)](Hetu-anantara.md) / [Go to parent page (22.2 Anuttarapada)](../22.2.md)
 
 

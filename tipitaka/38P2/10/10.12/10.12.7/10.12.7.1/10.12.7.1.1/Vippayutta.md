@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.12 Ajjhattikaduka](../../...md) / [10.12.7 Pañhāvāra](../...md) / [10.12.7.1 Paccayānuloma](...md) / [10.12.7.1.1 Vibhaṅgavāra](../38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.12 Ajjhattikaduka](../../../../10.12.md) / [10.12.7 Pañhāvāra](../../../10.12.7.md) / [10.12.7.1 Paccayānuloma](../../10.12.7.1.md) / [10.12.7.1.1 Vibhaṅgavāra](../10.12.7.1.1.md)
 
 # Vippayutta
 
@@ -39,6 +39,6 @@
 
 3211\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa ca bāhirassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  paṭisandhikkhaṇe ajjhattikā ca bāhirā ca khandhā…pe…  (Saṃkhittaṃ.) (3)
 
-[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../38P2/10/10.12/10.12.7/10.12.7.1/10.12.7.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
+[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 
 

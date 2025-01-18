@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [12 Sekkhattika](../../...md) / [12.3 Paccayavāra](../...md) / [12.3.2 Paccayapaccanīya](...md) / [12.3.2.1 Vibhaṅgavāra](../37P1/12/12.3/12.3.2/12.3.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [12 Sekkhattika](../../../../12.md) / [12.3 Paccayavāra](../../../12.3.md) / [12.3.2 Paccayapaccanīya](../../12.3.2.md) / [12.3.2.1 Vibhaṅgavāra](../12.3.2.1.md)
 
 # Navipāka
 
@@ -21,6 +21,6 @@
 
 1744\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati navipākapaccayā. (Sekkhaghaṭanesu tīṇi.)
 
-[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (12.3.2.1 Vibhaṅgavāra)](../37P1/12/12.3/12.3.2/12.3.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (12.3.2.1 Vibhaṅgavāra)](../12.3.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
 
 

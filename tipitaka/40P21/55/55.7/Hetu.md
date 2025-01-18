@@ -1,5 +1,5 @@
 
-[Home](/) / [40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)](../...md) / [55 Piṭṭhiduka, Sanidassanattika](...md) / [55.7 Pañhāvāra](../40P21/55/55.7.md)
+[Home](/) / [40P21 Dhammapaccanīyānuloma (4), Dukatikapaṭṭhānapāḷi (3)](../../../40P21.md) / [55 Piṭṭhiduka, Sanidassanattika](../../55.md) / [55.7 Pañhāvāra](../55.7.md)
 
 # Hetu
 
@@ -17,6 +17,6 @@
 
 360\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (55.7 Pañhāvāra)](../40P21/55/55.7.md) / [Go to parent page (55.7 Pañhāvāra)](../40P21/55/55.7.md)
+[Go to previous page (55.7 Pañhāvāra)](../55.7.md) / [Go to parent page (55.7 Pañhāvāra)](../55.7.md)
 
 

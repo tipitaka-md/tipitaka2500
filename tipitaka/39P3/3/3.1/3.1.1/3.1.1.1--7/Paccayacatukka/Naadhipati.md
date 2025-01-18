@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [3 Cūḷantaraduka, Kusalattika](../../../...md) / [3.1 Sappaccayaduka, Kusalattika](../../...md) / [3.1.1 Kusalākusalapada](../...md) / [3.1.1.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/3/3.1/3.1.1/3.1.1.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../../../3.md) / [3.1 Sappaccayaduka, Kusalattika](../../../../3.1.md) / [3.1.1 Kusalākusalapada](../../../3.1.1.md) / [3.1.1.1--7 Paṭiccādivāra](../../3.1.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Naadhipati
 
@@ -25,6 +25,6 @@
 
 1477\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../39P3/3/3.1/3.1.1/3.1.1.1--7/Paccayacatukka.md) / [Go to next page (Paccayacatukka)](../accayacatukka.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccayacatukka)](../accayacatukka.md)
 
 

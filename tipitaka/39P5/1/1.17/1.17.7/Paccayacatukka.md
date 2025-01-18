@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../...md) / [1 Kusalattika, Tika](../...md) / [1.17 Kusalattika, Atītattika](...md) / [1.17.7 Pañhāvāra](../39P5/1/1.17/1.17.7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [1 Kusalattika, Tika](../../../1.md) / [1.17 Kusalattika, Atītattika](../../1.17.md) / [1.17.7 Pañhāvāra](../1.17.7.md)
 
 # Paccayacatukka
 
@@ -17,6 +17,6 @@
 
 235\. Hetuyā satta, ārammaṇe nava…pe…  avigate terasa. (Saṃkhittaṃ.)
 
-[Go to previous page (1.17.7 Pañhāvāra)](../39P5/1/1.17/1.17.7.md) / [Go to parent page (1.17.7 Pañhāvāra)](../39P5/1/1.17/1.17.7.md) / [Go to next page (1.18 Kusalattika, Atītārammaṇattika)](../../1.18.md)
+[Go to previous page (1.17.7 Pañhāvāra)](../1.17.7.md) / [Go to parent page (1.17.7 Pañhāvāra)](../1.17.7.md) / [Go to next page (1.18 Kusalattika, Atītārammaṇattika)](../../1.18.md)
 
 

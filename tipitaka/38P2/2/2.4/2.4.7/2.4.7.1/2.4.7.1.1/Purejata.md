@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [2 Cūḷantaraduka](../../../...md) / [2.4 Sappaṭighaduka](../../...md) / [2.4.7 Pañhāvāra](../...md) / [2.4.7.1 Paccayānuloma](...md) / [2.4.7.1.1 Vibhaṅgavāra](../38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
 
 # Purejāta
 
@@ -23,6 +23,6 @@
 
 713\. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa purejātapaccayena paccayo—  **ārammaṇapurejātaṃ, vatthupurejātaṃ**. Cakkhāyatanañca vatthu ca…pe…  phoṭṭhabbāyatanañca vatthu ca appaṭighānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 
 

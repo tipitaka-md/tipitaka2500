@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [13 Parittattika](../../...md) / [13.7 Pañhāvāra](../...md) / [13.7.1 Paccayānuloma](...md) / [13.7.1.1 Vibhaṅgavāra](../37P1/13/13.7/13.7.1/13.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.7 Pañhāvāra](../../../13.7.md) / [13.7.1 Paccayānuloma](../../13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](../13.7.1.1.md)
 
 # Anantara
 
@@ -43,6 +43,6 @@
 
 
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 
 

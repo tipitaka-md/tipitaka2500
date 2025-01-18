@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.5 Saṃsaṭṭhavāra](../../...md) / [2.5.2 Paccayapaccanīya](../...md) / [2.5.2.2 Saṅkhyāvāra](...md) / [Najhānaduka](../36P1/2/2.5/2.5.2/2.5.2.2/Najhanaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../../2.5.md) / [2.5.2 Paccayapaccanīya](../../../2.5.2.md) / [2.5.2.2 Saṅkhyāvāra](../../2.5.2.2.md) / [Najhānaduka](../Najhanaduka.md)
 
 # Chakka
 
@@ -17,6 +17,6 @@
 
 746\. Najhānapaccayā nahetupaccayā naadhipatipaccayā napacchājātapaccayā naāsevanapaccayā namagge ekaṃ.
 
-[Go to previous page (Najhānaduka)](../36P1/2/2.5/2.5.2/2.5.2.2/Najhanaduka.md) / [Go to parent page (Najhānaduka)](../36P1/2/2.5/2.5.2/2.5.2.2/Najhanaduka.md) / [Go to next page (Namaggaduka)](../Namaggaduka.md)
+[Go to previous page (Najhānaduka)](../Najhanaduka.md) / [Go to parent page (Najhānaduka)](../Najhanaduka.md) / [Go to next page (Namaggaduka)](../Namaggaduka.md)
 
 

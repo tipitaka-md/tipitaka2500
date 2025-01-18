@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.12 Rūpāvacaraduka](../../...md) / [13.12.7 Pañhāvāra](../...md) / [13.12.7.1 Paccayānuloma](...md) / [13.12.7.1.1 Vibhaṅgavāra](../38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.12 Rūpāvacaraduka](../../../../13.12.md) / [13.12.7 Pañhāvāra](../../../13.12.7.md) / [13.12.7.1 Paccayānuloma](../../13.12.7.1.md) / [13.12.7.1.1 Vibhaṅgavāra](../13.12.7.1.1.md)
 
 # Adhipati
 
@@ -23,6 +23,6 @@
 
 4623\. Narūpāvacaro dhammo narūpāvacarassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe suciṇṇāni garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā…pe…  phalaṃ…pe…  nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ narūpāvacare khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; ākāsānañcāyatanaṃ garuṃ katvā paccavekkhati…pe…  nevasaññānāsaññāyatanaṃ garuṃ katvā paccavekkhati. **Sahajātādhipati**—  narūpāvacarādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

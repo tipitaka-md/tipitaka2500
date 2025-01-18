@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../...md) / [2 Tika, Kusalattika](../...md) / [2.3 Upādinnattika, Kusalattika](...md) / [2.3.1--7 Paṭiccādivāra](../39P5/2/2.3/2.3.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.3 Upādinnattika, Kusalattika](../../2.3.md) / [2.3.1--7 Paṭiccādivāra](../2.3.1--7.md)
 
 # Hetu
 
@@ -35,6 +35,6 @@
 
 327\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe…  āsevane ekaṃ…pe…  avigate nava. (Sabbattha vitthāro.)
 
-[Go to previous page (2.3.1--7 Paṭiccādivāra)](../39P5/2/2.3/2.3.1--7.md) / [Go to parent page (2.3.1--7 Paṭiccādivāra)](../39P5/2/2.3/2.3.1--7.md) / [Go to next page (2.4 Saṃkiliṭṭhattika, Kusalattika)](../../2.4.md)
+[Go to previous page (2.3.1--7 Paṭiccādivāra)](../2.3.1--7.md) / [Go to parent page (2.3.1--7 Paṭiccādivāra)](../2.3.1--7.md) / [Go to next page (2.4 Saṃkiliṭṭhattika, Kusalattika)](../../2.4.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.16 Niyataduka](../../...md) / [13.16.7 Pañhāvāra](../...md) / [13.16.7.1 Paccayānuloma](...md) / [13.16.7.1.1 Vibhaṅgavāra](../38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.16 Niyataduka](../../../../13.16.md) / [13.16.7 Pañhāvāra](../../../13.16.7.md) / [13.16.7.1 Paccayānuloma](../../13.16.7.1.md) / [13.16.7.1.1 Vibhaṅgavāra](../13.16.7.1.1.md)
 
 # Hetu
 
@@ -19,6 +19,6 @@
 
 4767\. Niyato dhammo niyatassa dhammassa hetupaccayena paccayo…  cattāri. (Niyyānikadukasadisā ninnānākaraṇā.)
 
-[Go to previous page (13.16.7.1.1 Vibhaṅgavāra)](../38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../38P2/13/13.16/13.16.7/13.16.7.1/13.16.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

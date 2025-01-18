@@ -1,5 +1,5 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](...md) / [5 Pārāyanavagga](../18Sn/5.md)
+[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # Pārāyanatthutigāthā
 
@@ -67,6 +67,6 @@ _Maggo so pāraṃ gamanāya,_
 _tasmā pārāyanaṃ iti. (7)_  
 
 
-[Go to previous page (5.16 Piṅgiyamāṇavapucchā)](5.16.md) / [Go to parent page (5 Pārāyanavagga)](../18Sn/5.md) / [Go to next page (Pārāyanānugītigāthā)](Parayananugitigatha.md)
+[Go to previous page (5.16 Piṅgiyamāṇavapucchā)](5.16.md) / [Go to parent page (5 Pārāyanavagga)](../5.md) / [Go to next page (Pārāyanānugītigāthā)](Parayananugitigatha.md)
 
 

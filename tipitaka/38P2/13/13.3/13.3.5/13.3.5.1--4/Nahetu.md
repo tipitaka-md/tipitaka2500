@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [13 Piṭṭhiduka](../../...md) / [13.3 Dassanenapahātabbahetukaduka](../...md) / [13.3.5 Saṃsaṭṭhavāra](...md) / [13.3.5.1--4 Paccayacatukka](../38P2/13/13.3/13.3.5/13.3.5.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../13.md) / [13.3 Dassanenapahātabbahetukaduka](../../../13.3.md) / [13.3.5 Saṃsaṭṭhavāra](../../13.3.5.md) / [13.3.5.1--4 Paccayacatukka](../13.3.5.1--4.md)
 
 # Nahetu
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../38P2/13/13.3/13.3.5/13.3.5.1--4.md) / [Go to next page (Hetuduka)](Hetuduka.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to next page (Hetuduka)](Hetuduka.md)
 
 

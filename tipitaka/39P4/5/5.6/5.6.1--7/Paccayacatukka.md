@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](../...md) / [5.6 Kusalattika, Upādāduka](...md) / [5.6.1--7 Paṭiccādivāra](../39P4/5/5.6/5.6.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [5 Kusalattika, Mahantaradukaupādānagocchaka](../../../5.md) / [5.6 Kusalattika, Upādāduka](../../5.6.md) / [5.6.1--7 Paṭiccādivāra](../5.6.1--7.md)
 
 # Paccayacatukka
 
@@ -57,6 +57,6 @@
 
 1414\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
 
-[Go to previous page (5.6.1--7 Paṭiccādivāra)](../39P4/5/5.6/5.6.1--7.md) / [Go to parent page (5.6.1--7 Paṭiccādivāra)](../39P4/5/5.6/5.6.1--7.md) / [Go to next page (5.7 Kusalattika, Upādinnaduka)](../../5.7.md)
+[Go to previous page (5.6.1--7 Paṭiccādivāra)](../5.6.1--7.md) / [Go to parent page (5.6.1--7 Paṭiccādivāra)](../5.6.1--7.md) / [Go to next page (5.7 Kusalattika, Upādinnaduka)](../../5.7.md)
 
 

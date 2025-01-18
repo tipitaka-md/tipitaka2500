@@ -1,5 +1,5 @@
 
-[Home](/) / [40P10 Dhammapaccanīya (2), Tikadukapaṭṭhānapāḷi (4)](../...md) / [1 Kusalattika, Hetuduka](...md) / [1.1--7 Paṭiccādivāra](../40P10/1/1.1--7.md)
+[Home](/) / [40P10 Dhammapaccanīya (2), Tikadukapaṭṭhānapāḷi (4)](../../../40P10.md) / [1 Kusalattika, Hetuduka](../../1.md) / [1.1--7 Paṭiccādivāra](../1.1--7.md)
 
 # Hetu
 
@@ -51,6 +51,6 @@
 
 15\. Hetuyā catuvīsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate catuvīsa. (Sabbattha vitthāro.)
 
-[Go to previous page (1.1--7 Paṭiccādivāra)](../40P10/1/1.1--7.md) / [Go to parent page (1.1--7 Paṭiccādivāra)](../40P10/1/1.1--7.md) / [Go to next page (2 Kusalattika, Sahetukaduka)](../../2.md)
+[Go to previous page (1.1--7 Paṭiccādivāra)](../1.1--7.md) / [Go to parent page (1.1--7 Paṭiccādivāra)](../1.1--7.md) / [Go to next page (2 Kusalattika, Sahetukaduka)](../../2.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../...md) / [2 Tika, Kusalattika](../...md) / [2.11 Parittattika, Kusalattika](...md) / [2.11.1--7 Paṭiccādivāra](../39P5/2/2.11/2.11.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.11 Parittattika, Kusalattika](../../2.11.md) / [2.11.1--7 Paṭiccādivāra](../2.11.1--7.md)
 
 # Hetu
 
@@ -31,6 +31,6 @@
 
 382\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe…  aññamaññe satta…pe…  purejāte tīṇi, āsevane dve, kamme terasa…pe…  avigate terasa. (Saṃkhittaṃ.)
 
-[Go to previous page (2.11.1--7 Paṭiccādivāra)](../39P5/2/2.11/2.11.1--7.md) / [Go to parent page (2.11.1--7 Paṭiccādivāra)](../39P5/2/2.11/2.11.1--7.md) / [Go to next page (2.12 Parittārammaṇattika, Kusalattika)](../../2.12.md)
+[Go to previous page (2.11.1--7 Paṭiccādivāra)](../2.11.1--7.md) / [Go to parent page (2.11.1--7 Paṭiccādivāra)](../2.11.1--7.md) / [Go to next page (2.12 Parittārammaṇattika, Kusalattika)](../../2.12.md)
 
 

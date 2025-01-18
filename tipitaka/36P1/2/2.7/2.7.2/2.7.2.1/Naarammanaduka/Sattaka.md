@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.7 Pañhāvāra](../../...md) / [2.7.2 Paccayapaccanīya](../...md) / [2.7.2.1 Saṅkhyāvāra](...md) / [Naārammaṇaduka](../36P1/2/2.7/2.7.2/2.7.2.1/Naarammanaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../../2.7.2.1.md) / [Naārammaṇaduka](../Naarammanaduka.md)
 
 # Sattaka
 
@@ -29,6 +29,6 @@
 
 
 
-[Go to previous page (Naārammaṇaduka)](../36P1/2/2.7/2.7.2/2.7.2.1/Naarammanaduka.md) / [Go to parent page (Naārammaṇaduka)](../36P1/2/2.7/2.7.2/2.7.2.1/Naarammanaduka.md) / [Go to next page (Naadhipatyādi)](../Naadhipatyadi.md)
+[Go to previous page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to parent page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to next page (Naadhipatyādi)](../Naadhipatyadi.md)
 
 

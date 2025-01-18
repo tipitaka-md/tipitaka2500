@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [13 Piṭṭhiduka, Kusalattika](../...md) / [13.10 Kāmāvacaraduka, Kusalattika](...md) / [13.10.1--7 Paṭiccādivāra](../39P3/13/13.10/13.10.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [13 Piṭṭhiduka, Kusalattika](../../../13.md) / [13.10 Kāmāvacaraduka, Kusalattika](../../13.10.md) / [13.10.1--7 Paṭiccādivāra](../13.10.1--7.md)
 
 # Paccayacatukka
 
@@ -67,6 +67,6 @@
 
 2527\. Hetuyā cattāri, ārammaṇe cattāri, adhipatiyā cattāri (kāmāvacare ekaṃ, nakāmāvacare tīṇi, kāmāvacare sahajātādhipatiyeva), anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane tīṇi, kamme cattāri, vipāke cattāri, āhāre cattāri…pe…  sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri…pe…  avigate satta. (Saṃkhittaṃ.)
 
-[Go to previous page (13.10.1--7 Paṭiccādivāra)](../39P3/13/13.10/13.10.1--7.md) / [Go to parent page (13.10.1--7 Paṭiccādivāra)](../39P3/13/13.10/13.10.1--7.md) / [Go to next page (13.11 Rūpāvacaraduka, Kusalattika)](../../13.11.md)
+[Go to previous page (13.10.1--7 Paṭiccādivāra)](../13.10.1--7.md) / [Go to parent page (13.10.1--7 Paṭiccādivāra)](../13.10.1--7.md) / [Go to next page (13.11 Rūpāvacaraduka, Kusalattika)](../../13.11.md)
 
 

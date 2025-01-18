@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [9 Parāmāsagocchaka](../../../...md) / [9.1 Parāmāsaduka](../../...md) / [9.1.7 Pañhāvāra](../...md) / [9.1.7.1 Paccayānuloma](...md) / [9.1.7.1.1 Vibhaṅgavāra](../38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.1 Parāmāsaduka](../../../../9.1.md) / [9.1.7 Pañhāvāra](../../../9.1.7.md) / [9.1.7.1 Paccayānuloma](../../9.1.7.1.md) / [9.1.7.1.1 Vibhaṅgavāra](../9.1.7.1.1.md)
 
 # Upanissaya
 
@@ -31,6 +31,6 @@
 
 2177\. Parāmāso ca noparāmāso ca dhammā parāmāsassa dhammassa upanissayapaccayena paccayo—  tīṇi upanissayā parāmāso ca sampayuttakā ca khandhā parāmāsassa upanissayapaccayena paccayo…  tīṇi.
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../38P2/9/9.1/9.1.7/9.1.7.1/9.1.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
+[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

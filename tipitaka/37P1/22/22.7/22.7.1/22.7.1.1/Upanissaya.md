@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [22 Ajjhattārammaṇattika](../../...md) / [22.7 Pañhāvāra](../...md) / [22.7.1 Paccayānuloma](...md) / [22.7.1.1 Vibhaṅgavāra](../37P1/22/22.7/22.7.1/22.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [22 Ajjhattārammaṇattika](../../../../22.md) / [22.7 Pañhāvāra](../../../22.7.md) / [22.7.1 Paccayānuloma](../../22.7.1.md) / [22.7.1.1 Vibhaṅgavāra](../22.7.1.1.md)
 
 # Upanissaya
 
@@ -25,6 +25,6 @@
 
 2908\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  bahiddhārammaṇā aniccānupassanā, dukkhānupassanā, anattānupassanā ajjhattārammaṇāya aniccānupassanāya, dukkhānupassanāya, anattānupassanāya upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../37P1/22/22.7/22.7.1/22.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
+[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

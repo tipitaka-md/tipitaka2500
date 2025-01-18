@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [1 Hetuduka, Tika](../../../...md) / [1.11 Hetuduka, Sekkhattika](../../...md) / [1.11.3 Nevasekkhanāsekkhapada](../...md) / [1.11.3.1--6 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.11 Hetuduka, Sekkhattika](../../../../1.11.md) / [1.11.3 Nevasekkhanāsekkhapada](../../../1.11.3.md) / [1.11.3.1--6 Paṭiccādivāra](../../1.11.3.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Nahetu-naārammaṇādi
 
@@ -41,6 +41,6 @@
 
 739\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../39P3/1/1.11/1.11.3/1.11.3.1--6/Paccayacatukka.md) / [Go to next page (1.11.3.7 Pañhāvāra)](../../1.11.3.7.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.11.3.7 Pañhāvāra)](../../1.11.3.7.md)
 
 

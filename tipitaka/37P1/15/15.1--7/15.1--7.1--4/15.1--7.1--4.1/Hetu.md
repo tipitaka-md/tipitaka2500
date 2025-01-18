@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [15 Hīnattika](../../...md) / [15.1--7 Paṭiccādivāra](../...md) / [15.1--7.1--4 Paccayānulomādi](...md) / [15.1--7.1--4.1 Vibhaṅgavāra](../37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [15 Hīnattika](../../../../15.md) / [15.1--7 Paṭiccādivāra](../../../15.1--7.md) / [15.1--7.1--4 Paccayānulomādi](../../15.1--7.1--4.md) / [15.1--7.1--4.1 Vibhaṅgavāra](../15.1--7.1--4.1.md)
 
 # Hetu
 
@@ -49,6 +49,6 @@
 
 
 
-[Go to previous page (15.1--7.1--4.1 Vibhaṅgavāra)](../37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1.md) / [Go to parent page (15.1--7.1--4.1 Vibhaṅgavāra)](../37P1/15/15.1--7/15.1--7.1--4/15.1--7.1--4.1.md) / [Go to next page (16 Micchattaniyatattika)](../../../../16.md)
+[Go to previous page (15.1--7.1--4.1 Vibhaṅgavāra)](../15.1--7.1--4.1.md) / [Go to parent page (15.1--7.1--4.1 Vibhaṅgavāra)](../15.1--7.1--4.1.md) / [Go to next page (16 Micchattaniyatattika)](../../../../16.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [9 Parāmāsagocchaka](../../../...md) / [9.3 Parāmāsasampayuttaduka](../../...md) / [9.3.7 Pañhāvāra](../...md) / [9.3.7.1 Paccayānuloma](...md) / [9.3.7.1.1 Vibhaṅgavāra](../38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [9 Parāmāsagocchaka](../../../../../9.md) / [9.3 Parāmāsasampayuttaduka](../../../../9.3.md) / [9.3.7 Pañhāvāra](../../../9.3.7.md) / [9.3.7.1 Paccayānuloma](../../9.3.7.1.md) / [9.3.7.1.1 Vibhaṅgavāra](../9.3.7.1.1.md)
 
 # Adhipati
 
@@ -29,6 +29,6 @@
 
 2255\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsasampayutto rāgo uppajjati, pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ parāmāsavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā parāmāsasampayutto rāgo uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../38P2/9/9.3/9.3.7/9.3.7.1/9.3.7.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 
 

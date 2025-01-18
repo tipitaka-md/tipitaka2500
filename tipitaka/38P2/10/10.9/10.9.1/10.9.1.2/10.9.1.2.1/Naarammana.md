@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](../../...md) / [10.9.1 Paṭiccavāra](../...md) / [10.9.1.2 Paccayapaccanīya](...md) / [10.9.1.2.1 Vibhaṅgavāra](../38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](../../../../10.9.md) / [10.9.1 Paṭiccavāra](../../../10.9.1.md) / [10.9.1.2 Paccayapaccanīya](../../10.9.1.2.md) / [10.9.1.2.1 Vibhaṅgavāra](../10.9.1.2.1.md)
 
 # Naārammaṇa
 
@@ -23,6 +23,6 @@
 
 3025\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paṭicca nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittasaṃsaṭṭhasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittasaṃsaṭṭhasamuṭṭhāne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Paṭisandhikkhaṇe dve, saṃkhittaṃ.) (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.9.1.2.1 Vibhaṅgavāra)](../38P2/10/10.9/10.9.1/10.9.1.2/10.9.1.2.1.md) / [Go to next page (10.9.1.2.2 Saṅkhyāvāra)](../10.9.1.2.2.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.9.1.2.1 Vibhaṅgavāra)](../10.9.1.2.1.md) / [Go to next page (10.9.1.2.2 Saṅkhyāvāra)](../10.9.1.2.2.md)
 
 

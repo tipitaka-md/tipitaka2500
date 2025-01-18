@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.2 Vedanāttika, Hetuduka](../../...md) / [1.2.2 Nahetupada](../...md) / [1.2.2.7 Pañhāvāra](...md) / [Paccayacatukka](../39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.2 Vedanāttika, Hetuduka](../../../../1.2.md) / [1.2.2 Nahetupada](../../../1.2.2.md) / [1.2.2.7 Pañhāvāra](../../1.2.2.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Ārammaṇādi
 
@@ -31,6 +31,6 @@
 
 110\. Adukkhamasukhāya vedanāya sampayutto nahetu dhammo adukkhamasukhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. Adukkhamasukhāya vedanāya sampayutto nahetu dhammo sukhāya vedanāya sampayuttassa nahetussa dhammassa adhipatipaccayena paccayo. (2)
 
-[Go to previous page (Paccayacatukka)](../39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/1/1.2/1.2.2/1.2.2.7/Paccayacatukka.md) / [Go to next page (Anantara-upanissaya)](Anantara-upanissaya.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Anantara-upanissaya)](Anantara-upanissaya.md)
 
 

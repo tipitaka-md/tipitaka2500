@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [8 Nīvaraṇagocchaka](../...md) / [8.1 Nīvaraṇaduka](...md) / [8.1.7 Pañhāvāra](../38P2/8/8.1/8.1.7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../8.md) / [8.1 Nīvaraṇaduka](../../8.1.md) / [8.1.7 Pañhāvāra](../8.1.7.md)
 
 # Paccanīyuddhāra
 
@@ -35,6 +35,6 @@
 
 1985\. Nīvaraṇo ca nonīvaraṇo ca dhammā nīvaraṇassa ca nonīvaraṇassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Suddha)](8.1.7.1/8.1.7.1.2/Suddha.md) / [Go to parent page (8.1.7 Pañhāvāra)](../38P2/8/8.1/8.1.7.md) / [Go to next page (8.1.7.2 Paccayapaccanīya)](8.1.7.2.md)
+[Go to previous page (Suddha)](8.1.7.1/8.1.7.1.2/Suddha.md) / [Go to parent page (8.1.7 Pañhāvāra)](../8.1.7.md) / [Go to next page (8.1.7.2 Paccayapaccanīya)](8.1.7.2.md)
 
 

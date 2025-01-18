@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [21 Ajjhattattika](../../...md) / [21.3 Paccayavāra](../...md) / [21.3.2 Paccayapaccanīya](...md) / [21.3.2.1 Vibhaṅgavāra](../37P1/21/21.3/21.3.2/21.3.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [21 Ajjhattattika](../../../../21.md) / [21.3 Paccayavāra](../../../21.3.md) / [21.3.2 Paccayapaccanīya](../../21.3.2.md) / [21.3.2.1 Vibhaṅgavāra](../21.3.2.1.md)
 
 # Naārammaṇādi
 
@@ -17,6 +17,6 @@
 
 2803\. Naārammaṇapaccayā…  naadhipatipaccayā (sahajātasadisaṃ)…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā (paṭiccavārasadisaṃ)…  napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā…pe…  navippayuttapaccayā (paṭiccavārapaccanīye vippayuttasadisaṃ)…  nonatthipaccayā…  novigatapaccayā… .
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (21.3.2.1 Vibhaṅgavāra)](../37P1/21/21.3/21.3.2/21.3.2.1.md) / [Go to next page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md)
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to next page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md)
 
 

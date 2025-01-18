@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [4 Āsavagocchaka, Kusalattika](../...md) / [4.4 Āsavasāsavaduka, Kusalattika](...md) / [4.4.2 Akusalapada](../39P3/4/4.4/4.4.2.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../4.md) / [4.4 Āsavasāsavaduka, Kusalattika](../../4.4.md) / [4.4.2 Akusalapada](../4.4.2.md)
 
 # Hetu
 
@@ -23,6 +23,6 @@
 
 1653\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page (4.4.2 Akusalapada)](../39P3/4/4.4/4.4.2.md) / [Go to parent page (4.4.2 Akusalapada)](../39P3/4/4.4/4.4.2.md) / [Go to next page (Paccanīya)](Paccaniya.md)
+[Go to previous page (4.4.2 Akusalapada)](../4.4.2.md) / [Go to parent page (4.4.2 Akusalapada)](../4.4.2.md) / [Go to next page (Paccanīya)](Paccaniya.md)
 
 

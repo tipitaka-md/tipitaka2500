@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](../../...md) / [10.9.7 Pañhāvāra](../...md) / [10.9.7.1 Paccayānuloma](...md) / [10.9.7.1.1 Vibhaṅgavāra](../38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.9 Cittasaṃsaṭṭhasamuṭṭhānaduka](../../../../10.9.md) / [10.9.7 Pañhāvāra](../../../10.9.7.md) / [10.9.7.1 Paccayānuloma](../../10.9.7.1.md) / [10.9.7.1.1 Vibhaṅgavāra](../10.9.7.1.1.md)
 
 # Ārammaṇa
 
@@ -21,6 +21,6 @@
 
 3058\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti…pe…  nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa…pe… . (Saṃkhittaṃ. Yathā cittasahabhūduke ārammaṇaṃ evaṃ kātabbaṃ, ninnānākaraṇaṃ. Navapi pañhā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../38P2/10/10.9/10.9.7/10.9.7.1/10.9.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

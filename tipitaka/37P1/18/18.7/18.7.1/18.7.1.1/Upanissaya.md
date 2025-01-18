@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [18 Uppannattika](../../...md) / [18.7 Pañhāvāra](../...md) / [18.7.1 Paccayānuloma](...md) / [18.7.1.1 Vibhaṅgavāra](../37P1/18/18.7/18.7.1/18.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [18 Uppannattika](../../../../18.md) / [18.7 Pañhāvāra](../../../18.7.md) / [18.7.1 Paccayānuloma](../../18.7.1.md) / [18.7.1.1 Vibhaṅgavāra](../18.7.1.1.md)
 
 # Upanissaya
 
@@ -21,6 +21,6 @@
 
 2607\. Uppādī dhammo uppannassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  uppādiṃ cakkhusampadaṃ patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Uppādiṃ sotasampadaṃ…pe…  kāyasampadaṃ…pe…  vaṇṇasampadaṃ…  gandhasampadaṃ…  rasasampadaṃ…  phoṭṭhabbasampadaṃ…  uppādī khandhe patthayamāno dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Uppādī cakkhusampadā…pe…  kāyasampadā…  vaṇṇasampadā…pe…  phoṭṭhabbasampadā…  uppādī khandhā uppannāya saddhāya…pe…  paññāya, kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../37P1/18/18.7/18.7.1/18.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
+[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

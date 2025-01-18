@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [2 Cūḷantaraduka](../../../...md) / [2.4 Sappaṭighaduka](../../...md) / [2.4.7 Pañhāvāra](../...md) / [2.4.7.1 Paccayānuloma](...md) / [2.4.7.1.1 Vibhaṅgavāra](../38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.7 Pañhāvāra](../../../2.4.7.md) / [2.4.7.1 Paccayānuloma](../../2.4.7.1.md) / [2.4.7.1.1 Vibhaṅgavāra](../2.4.7.1.1.md)
 
 # Vippayutta
 
@@ -25,6 +25,6 @@
 
 727\. Appaṭigho dhammo sappaṭighassa ca appaṭighassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  appaṭighā khandhā sappaṭighānañca appaṭighānañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  appaṭighā khandhā purejātassa imassa sappaṭighassa ca appaṭighassa ca kāyassa vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Indriyādi)](Indriyadi.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../38P2/2/2.4/2.4.7/2.4.7.1/2.4.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
+[Go to previous page (Indriyādi)](Indriyadi.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

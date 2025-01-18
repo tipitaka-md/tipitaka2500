@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [23 Sanidassanasappaṭighattika](../../...md) / [23.1 Paṭiccavāra](../...md) / [23.1.1 Paccayānuloma](...md) / [23.1.1.1 Vibhaṅgavāra](../37P1/23/23.1/23.1.1/23.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.1 Paṭiccavāra](../../../23.1.md) / [23.1.1 Paccayānuloma](../../23.1.1.md) / [23.1.1.1 Vibhaṅgavāra](../23.1.1.1.md)
 
 # Adhipati
 
@@ -35,6 +35,6 @@
 
 
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../37P1/23/23.1/23.1.1/23.1.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 
 

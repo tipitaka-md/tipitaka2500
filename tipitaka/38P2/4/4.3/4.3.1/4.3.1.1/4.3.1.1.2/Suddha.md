@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [4 Saññojanagocchaka](../../../...md) / [4.3 Saññojanasampayuttaduka](../../...md) / [4.3.1 Paṭiccavāra](../...md) / [4.3.1.1 Paccayānuloma](...md) / [4.3.1.1.2 Saṅkhyāvāra](../38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [4 Saññojanagocchaka](../../../../../4.md) / [4.3 Saññojanasampayuttaduka](../../../../4.3.md) / [4.3.1 Paṭiccavāra](../../../4.3.1.md) / [4.3.1.1 Paccayānuloma](../../4.3.1.1.md) / [4.3.1.1.2 Saṅkhyāvāra](../4.3.1.1.2.md)
 
 # Suddha
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (4.3.1.1.2 Saṅkhyāvāra)](../38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.2.md) / [Go to parent page (4.3.1.1.2 Saṅkhyāvāra)](../38P2/4/4.3/4.3.1/4.3.1.1/4.3.1.1.2.md) / [Go to next page (4.3.1.2 Paccayapaccanīya)](../../4.3.1.2.md)
+[Go to previous page (4.3.1.1.2 Saṅkhyāvāra)](../4.3.1.1.2.md) / [Go to parent page (4.3.1.1.2 Saṅkhyāvāra)](../4.3.1.1.2.md) / [Go to next page (4.3.1.2 Paccayapaccanīya)](../../4.3.1.2.md)
 
 

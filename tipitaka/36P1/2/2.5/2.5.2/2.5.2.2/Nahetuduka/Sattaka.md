@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.5 Saṃsaṭṭhavāra](../../...md) / [2.5.2 Paccayapaccanīya](../...md) / [2.5.2.2 Saṅkhyāvāra](...md) / [Nahetuduka](../36P1/2/2.5/2.5.2/2.5.2.2/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../../2.5.md) / [2.5.2 Paccayapaccanīya](../../../2.5.2.md) / [2.5.2.2 Saṅkhyāvāra](../../2.5.2.2.md) / [Nahetuduka](../Nahetuduka.md)
 
 # Sattaka
 
@@ -17,6 +17,6 @@
 
 733\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ…pe… .
 
-[Go to previous page (Chakka)](Chakka.md) / [Go to parent page (Nahetuduka)](../36P1/2/2.5/2.5.2/2.5.2.2/Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
+[Go to previous page (Chakka)](Chakka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
 
 

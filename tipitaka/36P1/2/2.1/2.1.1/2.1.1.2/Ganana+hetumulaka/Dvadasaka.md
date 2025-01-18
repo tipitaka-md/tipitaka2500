@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.1 Paṭiccavāra](../../...md) / [2.1.1 Paccayānuloma](../...md) / [2.1.1.2 Saṅkhyāvāra](...md) / [Gaṇanā hetumūlakā](../36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.1 Paṭiccavāra](../../../../2.1.md) / [2.1.1 Paccayānuloma](../../../2.1.1.md) / [2.1.1.2 Saṅkhyāvāra](../../2.1.1.2.md) / [Gaṇanā hetumūlakā](../Ganana+hetumulaka.md)
 
 # Dvādasaka
 
@@ -19,6 +19,6 @@
 
 177\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā samanantarapaccayā sahajātapaccayā aññamaññapaccayā nissayapaccayā upanissayapaccayā purejātapaccayā āsevanapaccayā kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi…pe… .
 
-[Go to previous page (Tika)](Tika.md) / [Go to parent page (Gaṇanā hetumūlakā)](../36P1/2/2.1/2.1.1/2.1.1.2/Ganana+hetumulaka.md) / [Go to next page (Bāvīsaka)](../Ganana_hetumulaka_avisaka.md)
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to next page (Bāvīsaka)](../Ganana_hetumulaka_avisaka.md)
 
 

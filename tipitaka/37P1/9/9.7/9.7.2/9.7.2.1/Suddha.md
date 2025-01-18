@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.7 Pañhāvāra](../...md) / [9.7.2 Paccayapaccanīya](...md) / [9.7.2.1 Saṅkhyāvāra](../37P1/9/9.7/9.7.2/9.7.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.7 Pañhāvāra](../../../9.7.md) / [9.7.2 Paccayapaccanīya](../../9.7.2.md) / [9.7.2.1 Saṅkhyāvāra](../9.7.2.1.md)
 
 # Suddha
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (9.7.2.1 Saṅkhyāvāra)](../37P1/9/9.7/9.7.2/9.7.2.1.md) / [Go to parent page (9.7.2.1 Saṅkhyāvāra)](../37P1/9/9.7/9.7.2/9.7.2.1.md) / [Go to next page (9.7.3 Paccayānulomapaccanīya)](../../9.7.3.md)
+[Go to previous page (9.7.2.1 Saṅkhyāvāra)](../9.7.2.1.md) / [Go to parent page (9.7.2.1 Saṅkhyāvāra)](../9.7.2.1.md) / [Go to next page (9.7.3 Paccayānulomapaccanīya)](../../9.7.3.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [7 Vitakkattika](../...md) / [7.1 Paṭiccavāra](...md) / [7.1.4 Paccayapaccanīyānuloma](../37P1/7/7.1/7.1.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [7 Vitakkattika](../../../7.md) / [7.1 Paṭiccavāra](../../7.1.md) / [7.1.4 Paccayapaccanīyānuloma](../7.1.4.md)
 
 # Nahetuduka
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (7.1.4 Paccayapaccanīyānuloma)](../37P1/7/7.1/7.1.4.md) / [Go to parent page (7.1.4 Paccayapaccanīyānuloma)](../37P1/7/7.1/7.1.4.md) / [Go to next page (7.2 Sahajātavāra)](../../7.2.md)
+[Go to previous page (7.1.4 Paccayapaccanīyānuloma)](../7.1.4.md) / [Go to parent page (7.1.4 Paccayapaccanīyānuloma)](../7.1.4.md) / [Go to next page (7.2 Sahajātavāra)](../../7.2.md)
 
 

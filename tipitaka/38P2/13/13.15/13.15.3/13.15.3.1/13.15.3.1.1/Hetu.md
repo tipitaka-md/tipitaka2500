@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.15 Niyyānikaduka](../../...md) / [13.15.3 Paccayavāra](../...md) / [13.15.3.1 Paccayānuloma](...md) / [13.15.3.1.1 Vibhaṅgavāra](../38P2/13/13.15/13.15.3/13.15.3.1/13.15.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.3 Paccayavāra](../../../13.15.3.md) / [13.15.3.1 Paccayānuloma](../../13.15.3.1.md) / [13.15.3.1.1 Vibhaṅgavāra](../13.15.3.1.1.md)
 
 # Hetu
 
@@ -25,6 +25,6 @@
 
 4728\. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko dhammo uppajjati hetupaccayā—  niyyānikaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . Niyyānikañca aniyyānikañca dhammaṃ paccayā aniyyāniko dhammo uppajjati hetupaccayā—  niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko ca aniyyāniko ca dhammā uppajjanti hetupaccayā—  niyyānikaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
 
-[Go to previous page (13.15.3.1.1 Vibhaṅgavāra)](../38P2/13/13.15/13.15.3/13.15.3.1/13.15.3.1.1.md) / [Go to parent page (13.15.3.1.1 Vibhaṅgavāra)](../38P2/13/13.15/13.15.3/13.15.3.1/13.15.3.1.1.md) / [Go to next page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md)
+[Go to previous page (13.15.3.1.1 Vibhaṅgavāra)](../13.15.3.1.1.md) / [Go to parent page (13.15.3.1.1 Vibhaṅgavāra)](../13.15.3.1.1.md) / [Go to next page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md)
 
 

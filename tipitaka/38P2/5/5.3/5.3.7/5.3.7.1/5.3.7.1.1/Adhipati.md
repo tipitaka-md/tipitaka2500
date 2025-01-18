@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [5 Ganthagocchaka](../../../...md) / [5.3 Ganthasampayuttaduka](../../...md) / [5.3.7 Pañhāvāra](../...md) / [5.3.7.1 Paccayānuloma](...md) / [5.3.7.1.1 Vibhaṅgavāra](../38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.3 Ganthasampayuttaduka](../../../../5.3.md) / [5.3.7 Pañhāvāra](../../../5.3.7.md) / [5.3.7.1 Paccayānuloma](../../5.3.7.1.md) / [5.3.7.1.1 Vibhaṅgavāra](../5.3.7.1.1.md)
 
 # Adhipati
 
@@ -35,6 +35,6 @@
 
 1788\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā ganthasampayuttakā khandhā uppajjanti. (Mūlā pucchitabbā) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayutto lobho uppajjati. (Mūlā pucchitabbā) Diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca garuṃ katvā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca uppajjanti. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../5.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 
 

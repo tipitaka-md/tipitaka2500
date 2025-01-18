@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [4 Āsavagocchaka, Kusalattika](../../../...md) / [4.5 Āsavaāsavasampayuttaduka, Kusalattika](../../...md) / [4.5.1 Akusalapada](../...md) / [4.5.1.1--6 Paṭiccādivāra](...md) / [Paccanīya](../39P3/4/4.5/4.5.1/4.5.1.1--6/Paccaniya.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../../4.md) / [4.5 Āsavaāsavasampayuttaduka, Kusalattika](../../../../4.5.md) / [4.5.1 Akusalapada](../../../4.5.1.md) / [4.5.1.1--6 Paṭiccādivāra](../../4.5.1.1--6.md) / [Paccanīya](../Paccaniya.md)
 
 # Naadhipati
 
@@ -25,6 +25,6 @@
 
 1674\. (Sahajātavārepi…  sampayuttavārepi sabbattha nava.)
 
-[Go to previous page (Paccanīya)](../39P3/4/4.5/4.5.1/4.5.1.1--6/Paccaniya.md) / [Go to parent page (Paccanīya)](../39P3/4/4.5/4.5.1/4.5.1.1--6/Paccaniya.md) / [Go to next page (4.5.1.7 Pañhāvāra)](../../4.5.1.7.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (4.5.1.7 Pañhāvāra)](../../4.5.1.7.md)
 
 

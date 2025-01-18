@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [3 Āsavagocchaka](../../../...md) / [3.1 Āsavaduka](../../...md) / [3.1.7 Pañhāvāra](../...md) / [3.1.7.1 Paccayānuloma](...md) / [3.1.7.1.2 Saṅkhyāvāra](../38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.1 Āsavaduka](../../../../3.1.md) / [3.1.7 Pañhāvāra](../../../3.1.7.md) / [3.1.7.1 Paccayānuloma](../../3.1.7.1.md) / [3.1.7.1.2 Saṅkhyāvāra](../3.1.7.1.2.md)
 
 # Suddha
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (3.1.7.1.2 Saṅkhyāvāra)](../38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.2.md) / [Go to parent page (3.1.7.1.2 Saṅkhyāvāra)](../38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
+[Go to previous page (3.1.7.1.2 Saṅkhyāvāra)](../3.1.7.1.2.md) / [Go to parent page (3.1.7.1.2 Saṅkhyāvāra)](../3.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

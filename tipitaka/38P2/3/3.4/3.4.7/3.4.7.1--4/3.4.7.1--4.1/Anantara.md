@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [3 Āsavagocchaka](../../../...md) / [3.4 Āsavasāsavaduka](../../...md) / [3.4.7 Pañhāvāra](../...md) / [3.4.7.1--4 Paccayānulomādi](...md) / [3.4.7.1--4.1 Vibhaṅgavāra](../38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.4 Āsavasāsavaduka](../../../../3.4.md) / [3.4.7 Pañhāvāra](../../../3.4.7.md) / [3.4.7.1--4 Paccayānulomādi](../../3.4.7.1--4.md) / [3.4.7.1--4.1 Vibhaṅgavāra](../3.4.7.1--4.1.md)
 
 # Anantara
 
@@ -47,6 +47,6 @@
 
 
 
-[Go to previous page (3.4.7.1--4.1 Vibhaṅgavāra)](../38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1.md) / [Go to parent page (3.4.7.1--4.1 Vibhaṅgavāra)](../38P2/3/3.4/3.4.7/3.4.7.1--4/3.4.7.1--4.1.md) / [Go to next page (3.5 Āsavaāsavasampayuttaduka)](../../../../3.5.md)
+[Go to previous page (3.4.7.1--4.1 Vibhaṅgavāra)](../3.4.7.1--4.1.md) / [Go to parent page (3.4.7.1--4.1 Vibhaṅgavāra)](../3.4.7.1--4.1.md) / [Go to next page (3.5 Āsavaāsavasampayuttaduka)](../../../../3.5.md)
 
 

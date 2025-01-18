@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.5 Saṃkiliṭṭhattika, Hetuduka](../../...md) / [1.5.2 Nahetupada](../...md) / [1.5.2.1--6 Paṭiccādivāra](...md) / [Paccanīya](../39P4/1/1.5/1.5.2/1.5.2.1--6/Paccaniya.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.5 Saṃkiliṭṭhattika, Hetuduka](../../../../1.5.md) / [1.5.2 Nahetupada](../../../1.5.2.md) / [1.5.2.1--6 Paṭiccādivāra](../../1.5.2.1--6.md) / [Paccanīya](../Paccaniya.md)
 
 # Nahetu
 
@@ -23,6 +23,6 @@
 
 242\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
 
-[Go to previous page (Paccanīya)](../39P4/1/1.5/1.5.2/1.5.2.1--6/Paccaniya.md) / [Go to parent page (Paccanīya)](../39P4/1/1.5/1.5.2/1.5.2.1--6/Paccaniya.md) / [Go to next page (1.5.2.7 Pañhāvāra)](../../1.5.2.7.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.5.2.7 Pañhāvāra)](../../1.5.2.7.md)
 
 

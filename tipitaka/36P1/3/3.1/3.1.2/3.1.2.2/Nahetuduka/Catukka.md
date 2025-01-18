@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [3 Vedanāttika](../../../...md) / [3.1 Paṭiccavāra](../../...md) / [3.1.2 Paccayapaccanīya](../...md) / [3.1.2.2 Saṅkhyāvāra](...md) / [Nahetuduka](../36P1/3/3.1/3.1.2/3.1.2.2/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.1 Paṭiccavāra](../../../../3.1.md) / [3.1.2 Paccayapaccanīya](../../../3.1.2.md) / [3.1.2.2 Saṅkhyāvāra](../../3.1.2.2.md) / [Nahetuduka](../Nahetuduka.md)
 
 # Catukka
 
@@ -17,6 +17,6 @@
 
 1836\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ…pe… .
 
-[Go to previous page (Nahetuduka)](../36P1/3/3.1/3.1.2/3.1.2.2/Nahetuduka.md) / [Go to parent page (Nahetuduka)](../36P1/3/3.1/3.1.2/3.1.2.2/Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
+[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
 
 

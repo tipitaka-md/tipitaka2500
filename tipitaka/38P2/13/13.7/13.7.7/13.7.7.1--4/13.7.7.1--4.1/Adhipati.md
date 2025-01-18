@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.7 Sappītikaduka](../../...md) / [13.7.7 Pañhāvāra](../...md) / [13.7.7.1--4 Paccayānulomādi](...md) / [13.7.7.1--4.1 Vibhaṅgavāra](../38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.7 Sappītikaduka](../../../../13.7.md) / [13.7.7 Pañhāvāra](../../../13.7.7.md) / [13.7.7.1--4 Paccayānulomādi](../../13.7.7.1--4.md) / [13.7.7.1--4.1 Vibhaṅgavāra](../13.7.7.1--4.1.md)
 
 # Adhipati
 
@@ -35,6 +35,6 @@
 
 4414\. Sappītiko ca appītiko ca dhammā sappītikassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sappītike khandhe ca pītiñca garuṃ katvā sappītikā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Sappītike khandhe ca pītiñca garuṃ katvā appītikā khandhā ca pīti ca uppajjanti. (Mūlaṃ kātabbaṃ.) Sappītike khandhe ca pītiñca garuṃ katvā sappītikā khandhā ca pīti ca uppajjanti. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](../38P2/13/13.7/13.7.7/13.7.7.1--4/13.7.7.1--4.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.7.7.1--4.1 Vibhaṅgavāra)](../13.7.7.1--4.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

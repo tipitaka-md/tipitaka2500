@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.1 Paṭiccavāra](../...md) / [9.1.1 Paccayānuloma](...md) / [9.1.1.1 Vibhaṅgavāra](../37P1/9/9.1/9.1.1/9.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.1 Paccayānuloma](../../9.1.1.md) / [9.1.1.1 Vibhaṅgavāra](../9.1.1.1.md)
 
 # Adhipati
 
@@ -27,6 +27,6 @@
 
 806\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 
 

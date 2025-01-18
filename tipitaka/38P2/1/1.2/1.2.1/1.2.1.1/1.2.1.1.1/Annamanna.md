@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [1 Hetugocchaka](../../../...md) / [1.2 Sahetukaduka](../../...md) / [1.2.1 Paṭiccavāra](../...md) / [1.2.1.1 Paccayānuloma](...md) / [1.2.1.1.1 Vibhaṅgavāra](../38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.1 Paṭiccavāra](../../../1.2.1.md) / [1.2.1.1 Paccayānuloma](../../1.2.1.1.md) / [1.2.1.1.1 Vibhaṅgavāra](../1.2.1.1.1.md)
 
 # Aññamañña
 
@@ -31,6 +31,6 @@
 
 161\. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati aññamaññapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (1.2.1.1.1 Vibhaṅgavāra)](../38P2/1/1.2/1.2.1/1.2.1.1/1.2.1.1.1.md) / [Go to next page (Nissayādi)](Nissayadi.md)
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (1.2.1.1.1 Vibhaṅgavāra)](../1.2.1.1.1.md) / [Go to next page (Nissayādi)](Nissayadi.md)
 
 

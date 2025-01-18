@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [14 Saraṇaduka, Tika](../...md) / [14.15 Saraṇaduka, Micchattattika](...md) / [14.15.1--7 Paṭiccādivāra](../39P3/14/14.15/14.15.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [14 Saraṇaduka, Tika](../../../14.md) / [14.15 Saraṇaduka, Micchattattika](../../14.15.md) / [14.15.1--7 Paṭiccādivāra](../14.15.1--7.md)
 
 # Paccayacatukka
 
@@ -39,6 +39,6 @@
 
 2717\. (Sahajātavāropi…pe…  pañhāvāropi sabbattha vitthāretabbā.)
 
-[Go to previous page (14.15.1--7 Paṭiccādivāra)](../39P3/14/14.15/14.15.1--7.md) / [Go to parent page (14.15.1--7 Paṭiccādivāra)](../39P3/14/14.15/14.15.1--7.md) / [Go to next page (14.16 Saraṇaduka, Maggārammaṇattika)](../../14.16.md)
+[Go to previous page (14.15.1--7 Paṭiccādivāra)](../14.15.1--7.md) / [Go to parent page (14.15.1--7 Paṭiccādivāra)](../14.15.1--7.md) / [Go to next page (14.16 Saraṇaduka, Maggārammaṇattika)](../../14.16.md)
 
 

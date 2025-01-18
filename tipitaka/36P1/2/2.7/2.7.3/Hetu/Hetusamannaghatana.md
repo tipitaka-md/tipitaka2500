@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Hetu](../36P1/2/2.7/2.7.3/Hetu.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Hetu](../Hetu.md)
 
 # Hetusāmaññaghaṭanā
 
@@ -33,6 +33,6 @@
 
 1279\. Hetu sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  5]
 
-[Go to previous page (Hetuduka)](Hetuduka.md) / [Go to parent page (Hetu)](../36P1/2/2.7/2.7.3/Hetu.md) / [Go to next page (Saindriya-maggaghaṭanā)](Saindriya-maggaghatana.md)
+[Go to previous page (Hetuduka)](Hetuduka.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Saindriya-maggaghaṭanā)](Saindriya-maggaghatana.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../...md) / [22 Sanidassanattika](../...md) / [22.1--7 Paṭiccādivāra](...md) / [Paccayānuloma](../40P13/22/22.1--7/Paccayanuloma.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [22 Sanidassanattika](../../../22.md) / [22.1--7 Paṭiccādivāra](../../22.1--7.md) / [Paccayānuloma](../Paccayanuloma.md)
 
 # Hetu-ārammaṇa
 
@@ -21,6 +21,6 @@
 
 140\. Hetuyā cha, ārammaṇe nava, adhipatiyā dvādasa, anantare tīṇi…pe…  sahajāte aṭṭhārasa, aññamaññe terasa, nissaye aṭṭhārasa, upanissaye nava, purejāte aṭṭhārasa, pacchājāte cha, āsevane tīṇi, kamme vipāke āhāre cha, indriye nava, jhāne magge cha, sampayutte tīṇi, vippayutte nava…pe…  avigate sattavīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayānuloma)](../40P13/22/22.1--7/Paccayanuloma.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md)
 
 

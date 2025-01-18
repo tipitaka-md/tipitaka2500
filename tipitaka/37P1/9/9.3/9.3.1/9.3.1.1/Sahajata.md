@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.3 Paccayavāra](../...md) / [9.3.1 Paccayānuloma](...md) / [9.3.1.1 Vibhaṅgavāra](../37P1/9/9.3/9.3.1/9.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.3 Paccayavāra](../../../9.3.md) / [9.3.1 Paccayānuloma](../../9.3.1.md) / [9.3.1.1 Vibhaṅgavāra](../9.3.1.1.md)
 
 # Sahajāta
 
@@ -23,6 +23,6 @@
 
 883\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati sahajātapaccayā. (Avasesā hetupaccayasadisā.)
 
-[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../37P1/9/9.3/9.3.1/9.3.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
+[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
 
 

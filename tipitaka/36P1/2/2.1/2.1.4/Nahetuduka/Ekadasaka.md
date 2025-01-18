@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.1 Paṭiccavāra](../...md) / [2.1.4 Paccayapaccanīyānuloma](...md) / [Nahetuduka](../36P1/2/2.1/2.1.4/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.4 Paccayapaccanīyānuloma](../../2.1.4.md) / [Nahetuduka](../Nahetuduka.md)
 
 # Ekādasaka
 
@@ -17,6 +17,6 @@
 
 358\. (Yāvāsevanā sabbaṃ sadisaṃ, nakamme gaṇite pañca pañhā honti.)
 
-[Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../36P1/2/2.1/2.1.4/Nahetuduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
+[Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
 
 

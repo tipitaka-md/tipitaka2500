@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [12 Kilesagocchaka](../../../...md) / [12.1 Kilesaduka](../../...md) / [12.1.7 Pañhāvāra](../...md) / [12.1.7.2 Paccayapaccanīya](...md) / [12.1.7.2.1 Saṅkhyāvāra](../38P2/12/12.1/12.1.7/12.1.7.2/12.1.7.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.7 Pañhāvāra](../../../12.1.7.md) / [12.1.7.2 Paccayapaccanīya](../../12.1.7.2.md) / [12.1.7.2.1 Saṅkhyāvāra](../12.1.7.2.1.md)
 
 # Suddha
 
@@ -19,6 +19,6 @@
 
 3912\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava (sabbattha nava), noavigate nava.
 
-[Go to previous page (12.1.7.2.1 Saṅkhyāvāra)](../38P2/12/12.1/12.1.7/12.1.7.2/12.1.7.2.1.md) / [Go to parent page (12.1.7.2.1 Saṅkhyāvāra)](../38P2/12/12.1/12.1.7/12.1.7.2/12.1.7.2.1.md) / [Go to next page (12.1.7.3 Paccayānulomapaccanīya)](../../12.1.7.3.md)
+[Go to previous page (12.1.7.2.1 Saṅkhyāvāra)](../12.1.7.2.1.md) / [Go to parent page (12.1.7.2.1 Saṅkhyāvāra)](../12.1.7.2.1.md) / [Go to next page (12.1.7.3 Paccayānulomapaccanīya)](../../12.1.7.3.md)
 
 

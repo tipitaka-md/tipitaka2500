@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [7 Vitakkattika](../...md) / [7.5 Saṃsaṭṭhavāra](...md) / [7.5.1 Paccayānuloma](../37P1/7/7.5/7.5.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [7 Vitakkattika](../../../7.md) / [7.5 Saṃsaṭṭhavāra](../../7.5.md) / [7.5.1 Paccayānuloma](../7.5.1.md)
 
 # Hetu
 
@@ -41,6 +41,6 @@
 
 260\. (Hetupaccayaṃ anumajjantena sabbe paccayā vitthāretabbā.)
 
-[Go to previous page (7.5.1 Paccayānuloma)](../37P1/7/7.5/7.5.1.md) / [Go to parent page (7.5.1 Paccayānuloma)](../37P1/7/7.5/7.5.1.md) / [Go to next page (Suddha)](Suddha.md)
+[Go to previous page (7.5.1 Paccayānuloma)](../7.5.1.md) / [Go to parent page (7.5.1 Paccayānuloma)](../7.5.1.md) / [Go to next page (Suddha)](Suddha.md)
 
 

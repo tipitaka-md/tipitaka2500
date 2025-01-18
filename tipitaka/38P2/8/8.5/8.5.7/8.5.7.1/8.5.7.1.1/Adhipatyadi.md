@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [8 Nīvaraṇagocchaka](../../../...md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](../../...md) / [8.5.7 Pañhāvāra](../...md) / [8.5.7.1 Paccayānuloma](...md) / [8.5.7.1.1 Vibhaṅgavāra](../38P2/8/8.5/8.5.7/8.5.7.1/8.5.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.5 Nīvaraṇanīvaraṇasampayuttaduka](../../../../8.5.md) / [8.5.7 Pañhāvāra](../../../8.5.7.md) / [8.5.7.1 Paccayānuloma](../../8.5.7.1.md) / [8.5.7.1.1 Vibhaṅgavāra](../8.5.7.1.1.md)
 
 # Adhipatyādi
 
@@ -27,6 +27,6 @@
 
 2116\. Anantarapaccayena paccayo (āvajjanāpi vuṭṭhānampi natthi, sabbattha purimā purimā kātabbā)…  samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava…  upanissayapaccayena paccayo…  nava (ārammaṇasadisaṃ, vipāko natthi)…  āsevanapaccayena paccayo…  pañca.
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../38P2/8/8.5/8.5.7/8.5.7.1/8.5.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

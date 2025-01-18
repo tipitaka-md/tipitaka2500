@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.7 Cittasahabhūduka](../../...md) / [10.7.7 Pañhāvāra](../...md) / [10.7.7.1 Paccayānuloma](...md) / [10.7.7.1.1 Vibhaṅgavāra](../38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.7 Cittasahabhūduka](../../../../10.7.md) / [10.7.7 Pañhāvāra](../../../10.7.7.md) / [10.7.7.1 Paccayānuloma](../../10.7.7.1.md) / [10.7.7.1.1 Vibhaṅgavāra](../10.7.7.1.1.md)
 
 # Vippayutta
 
@@ -39,6 +39,6 @@
 
 2976\. Cittasahabhū ca nocittasahabhū ca dhammā cittasahabhussa ca nocittasahabhussa ca dhammassa vippayuttapaccayena paccayo—  cittasahabhū khandhā ca cittañca cittasahabhūnañca nocittasahabhūnañca cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. (3)
 
-[Go to previous page (Vipākādi)](Vipakadi.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../38P2/10/10.7/10.7.7/10.7.7.1/10.7.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
+[Go to previous page (Vipākādi)](Vipakadi.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 
 

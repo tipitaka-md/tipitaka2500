@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.5 Saṃsaṭṭhavāra](../...md) / [2.5.3 Paccayānulomapaccanīya](...md) / [Adhipatiduka](../36P1/2/2.5/2.5.3/Adhipatiduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.3 Paccayānulomapaccanīya](../../2.5.3.md) / [Adhipatiduka](../Adhipatiduka.md)
 
 # Tikādi
 
@@ -15,6 +15,6 @@
 
 763\. Adhipatipaccayā hetupaccayā. (Saṃkhittaṃ.)
 
-[Go to previous page (Adhipatiduka)](../36P1/2/2.5/2.5.3/Adhipatiduka.md) / [Go to parent page (Adhipatiduka)](../36P1/2/2.5/2.5.3/Adhipatiduka.md) / [Go to next page (Anantaradukādi)](../Anantaradukadi.md)
+[Go to previous page (Adhipatiduka)](../Adhipatiduka.md) / [Go to parent page (Adhipatiduka)](../Adhipatiduka.md) / [Go to next page (Anantaradukādi)](../Anantaradukadi.md)
 
 

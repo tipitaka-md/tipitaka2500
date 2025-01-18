@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [1 Hetugocchaka](../../../...md) / [1.2 Sahetukaduka](../../...md) / [1.2.3 Paccayavāra](../...md) / [1.2.3.1 Paccayānuloma](...md) / [1.2.3.1.1 Vibhaṅgavāra](../38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.2 Sahetukaduka](../../../../1.2.md) / [1.2.3 Paccayavāra](../../../1.2.3.md) / [1.2.3.1 Paccayānuloma](../../1.2.3.1.md) / [1.2.3.1.1 Vibhaṅgavāra](../1.2.3.1.1.md)
 
 # Ārammaṇa
 
@@ -39,6 +39,6 @@
 
 212\. Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../38P2/1/1.2/1.2.3/1.2.3.1/1.2.3.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

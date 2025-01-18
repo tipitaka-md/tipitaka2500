@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [4 Āsavagocchaka, Kusalattika](../../...md) / [4.1 Āsavaduka, Kusalattika](../...md) / [4.1.1 Kusalapada](...md) / [4.1.1.1--7 Paṭiccādivāra](../39P3/4/4.1/4.1.1/4.1.1.1--7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../4.md) / [4.1 Āsavaduka, Kusalattika](../../../4.1.md) / [4.1.1 Kusalapada](../../4.1.1.md) / [4.1.1.1--7 Paṭiccādivāra](../4.1.1.1--7.md)
 
 # Hetu
 
@@ -23,6 +23,6 @@
 
 1593\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
 
-[Go to previous page (4.1.1.1--7 Paṭiccādivāra)](../39P3/4/4.1/4.1.1/4.1.1.1--7.md) / [Go to parent page (4.1.1.1--7 Paṭiccādivāra)](../39P3/4/4.1/4.1.1/4.1.1.1--7.md) / [Go to next page (4.1.2 Akusalapada)](../../4.1.2.md)
+[Go to previous page (4.1.1.1--7 Paṭiccādivāra)](../4.1.1.1--7.md) / [Go to parent page (4.1.1.1--7 Paṭiccādivāra)](../4.1.1.1--7.md) / [Go to next page (4.1.2 Akusalapada)](../../4.1.2.md)
 
 

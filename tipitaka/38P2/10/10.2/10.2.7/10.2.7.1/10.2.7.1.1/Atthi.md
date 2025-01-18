@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.2 Cittaduka](../../...md) / [10.2.7 Pañhāvāra](../...md) / [10.2.7.1 Paccayānuloma](...md) / [10.2.7.1.1 Vibhaṅgavāra](../38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.2 Cittaduka](../../../../10.2.md) / [10.2.7 Pañhāvāra](../../../10.2.7.md) / [10.2.7.1 Paccayānuloma](../../10.2.7.1.md) / [10.2.7.1.1 Vibhaṅgavāra](../10.2.7.1.1.md)
 
 # Atthi
 
@@ -29,6 +29,6 @@
 
 2527\. Citto ca nocitto ca dhammā nocittassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  nocitto eko khandho ca cittañca dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo; dve khandhā ca…pe… . **Sahajātaṃ**—  cittañca vatthuñca nocittānaṃ khandhānaṃ atthipaccayena paccayo (paṭisandhikkhaṇepi dve). **Sahajātaṃ**—  cittañca sampayuttakā ca khandhā cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Sahajātaṃ**—  cittañca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo (paṭisandhikkhaṇepi dve). **Pacchājātaṃ**—  cittañca sampayuttakā ca khandhā purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātaṃ**—  cittañca sampayuttakā ca khandhā kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātaṃ**—  cittañca sampayuttakā ca khandhā rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (1)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.2.7.1.1 Vibhaṅgavāra)](../38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md) / [Go to next page (10.2.7.1.2 Saṅkhyāvāra)](../10.2.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.2.7.1.1 Vibhaṅgavāra)](../10.2.7.1.1.md) / [Go to next page (10.2.7.1.2 Saṅkhyāvāra)](../10.2.7.1.2.md)
 
 

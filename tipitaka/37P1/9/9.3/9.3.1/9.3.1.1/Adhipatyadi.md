@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.3 Paccayavāra](../...md) / [9.3.1 Paccayānuloma](...md) / [9.3.1.1 Vibhaṅgavāra](../37P1/9/9.3/9.3.1/9.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.3 Paccayavāra](../../../9.3.md) / [9.3.1 Paccayānuloma](../../9.3.1.md) / [9.3.1.1 Vibhaṅgavāra](../9.3.1.1.md)
 
 # Adhipatyādi
 
@@ -17,6 +17,6 @@
 
 879\. Dassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati adhipatipaccayā…  (paripuṇṇaṃ, paṭisandhi natthi) anantarapaccayā…  samanantarapaccayā. (Ārammaṇasadisaṃ.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../37P1/9/9.3/9.3.1/9.3.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 
 

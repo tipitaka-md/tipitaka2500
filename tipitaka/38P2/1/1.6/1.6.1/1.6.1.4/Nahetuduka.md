@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [1 Hetugocchaka](../../...md) / [1.6 Nahetusahetukaduka](../...md) / [1.6.1 Paṭiccavāra](...md) / [1.6.1.4 Paccayapaccanīyānuloma](../38P2/1/1.6/1.6.1/1.6.1.4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [1 Hetugocchaka](../../../../1.md) / [1.6 Nahetusahetukaduka](../../../1.6.md) / [1.6.1 Paṭiccavāra](../../1.6.1.md) / [1.6.1.4 Paccayapaccanīyānuloma](../1.6.1.4.md)
 
 # Nahetuduka
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (1.6.1.4 Paccayapaccanīyānuloma)](../38P2/1/1.6/1.6.1/1.6.1.4.md) / [Go to parent page (1.6.1.4 Paccayapaccanīyānuloma)](../38P2/1/1.6/1.6.1/1.6.1.4.md) / [Go to next page (1.6.2 Sahajātavāra)](../../1.6.2.md)
+[Go to previous page (1.6.1.4 Paccayapaccanīyānuloma)](../1.6.1.4.md) / [Go to parent page (1.6.1.4 Paccayapaccanīyānuloma)](../1.6.1.4.md) / [Go to next page (1.6.2 Sahajātavāra)](../../1.6.2.md)
 
 

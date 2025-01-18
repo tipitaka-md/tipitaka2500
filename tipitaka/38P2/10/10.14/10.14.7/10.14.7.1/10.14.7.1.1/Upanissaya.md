@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.14 Upādinnaduka](../../...md) / [10.14.7 Pañhāvāra](../...md) / [10.14.7.1 Paccayānuloma](...md) / [10.14.7.1.1 Vibhaṅgavāra](../38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.14 Upādinnaduka](../../../../10.14.md) / [10.14.7 Pañhāvāra](../../../10.14.7.md) / [10.14.7.1 Paccayānuloma](../../10.14.7.1.md) / [10.14.7.1.1 Vibhaṅgavāra](../10.14.7.1.1.md)
 
 # Upanissaya
 
@@ -27,6 +27,6 @@
 
 3461\. Anupādinno dhammo upādinnassa dhammassa upanissayapaccayena paccayo—  anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti; sīlaṃ…pe…  patthanaṃ…  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti; saddhā…pe…  senāsanaṃ kāyikassa sukhassa…  kāyikassa dukkhassa upanissayapaccayena paccayo. Kusalākusalaṃ kammaṃ vipākassa upanissayapaccayena paccayo. (2)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](../38P2/10/10.14/10.14.7/10.14.7.1/10.14.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](../10.14.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 
 

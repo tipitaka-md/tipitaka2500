@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Samanantara](../36P1/2/2.7/2.7.3/Samanantara.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Samanantara](../Samanantara.md)
 
 # Samanantaraghaṭanā
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (Samanantaraduka)](Samanantaraduka.md) / [Go to parent page (Samanantara)](../36P1/2/2.7/2.7.3/Samanantara.md) / [Go to next page (Sahajāta)](../Sahajata.md)
+[Go to previous page (Samanantaraduka)](Samanantaraduka.md) / [Go to parent page (Samanantara)](../Samanantara.md) / [Go to next page (Sahajāta)](../Sahajata.md)
 
 

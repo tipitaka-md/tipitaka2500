@@ -1,5 +1,5 @@
 
-[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [1 Kusalattika, Hetuduka](../...md) / [1.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../40P16/1/1.1--7/Paccayacatukka.md)
+[Home](/) / [40P16 Dhammānulomapaccanīya (3), Tikadukapaṭṭhānapāḷi (4)](../../../../40P16.md) / [1 Kusalattika, Hetuduka](../../../1.md) / [1.1--7 Paṭiccādivāra](../../1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -21,6 +21,6 @@
 
 5\. Hetuyā terasa, ārammaṇe nava…pe…  vipāke tīṇi…pe…  avigate terasa.
 
-[Go to previous page (Paccayacatukka)](../40P16/1/1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../40P16/1/1.1--7/Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
 
 

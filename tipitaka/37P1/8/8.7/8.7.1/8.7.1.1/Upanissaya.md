@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [8 Pītittika](../../...md) / [8.7 Pañhāvāra](../...md) / [8.7.1 Paccayānuloma](...md) / [8.7.1.1 Vibhaṅgavāra](../37P1/8/8.7/8.7.1/8.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [8 Pītittika](../../../../8.md) / [8.7 Pañhāvāra](../../../8.7.md) / [8.7.1 Paccayānuloma](../../8.7.1.md) / [8.7.1.1 Vibhaṅgavāra](../8.7.1.1.md)
 
 # Upanissaya
 
@@ -53,6 +53,6 @@
 
 741\. Pītisahagato ca sukhasahagato ca dhammā pītisahagatassa ca sukhasahagatassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  pītisahagatañca sukhasahagatañca saddhaṃ upanissāya pītisahagatena ca sukhasahagatena ca cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Pītisahagatañca sukhasahagatañca jhānaṃ uppādeti, vipassanaṃ uppādeti, maggaṃ uppādeti, samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti. Pītisahagatañca sukhasahagatañca sīlaṃ…  sutaṃ…  cāgaṃ…  paññaṃ…  rāgaṃ…  mohaṃ…  mānaṃ…  diṭṭhiṃ…  patthanaṃ upanissāya pītisahagatena ca sukhasahagatena ca cittena dānaṃ deti, sīlaṃ samādiyati, uposathakammaṃ karoti. Pītisahagatañca sukhasahagatañca jhānaṃ uppādeti…pe…  samāpattiṃ uppādeti. Pītisahagatena ca sukhasahagatena ca cittena adinnaṃ ādiyati, musā bhaṇati, pisuṇaṃ bhaṇati, samphaṃ palapati, sandhiṃ chindati, nillopaṃ harati, ekāgārikaṃ karoti, paripanthe tiṭṭhati, paradāraṃ gacchati, gāmaghātaṃ karoti, nigamaghātaṃ karoti. Pītisahagatā ca sukhasahagatā ca saddhā…pe…  patthanā pītisahagatāya ca sukhasahagatāya ca saddhāya…pe…  patthanāya upanissayapaccayena paccayo. (4)
 
-[Go to previous page (Aññamañña-nissaya)](Annamanna-nissaya.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../37P1/8/8.7/8.7.1/8.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
+[Go to previous page (Aññamañña-nissaya)](Annamanna-nissaya.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../8.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

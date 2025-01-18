@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [2 Cūḷantaraduka](../../...md) / [2.5 Rūpīduka](../...md) / [2.5.1 Paṭiccavāra](...md) / [2.5.1.3 Paccayānulomapaccanīya](../38P2/2/2.5/2.5.1/2.5.1.3.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../2.md) / [2.5 Rūpīduka](../../../2.5.md) / [2.5.1 Paṭiccavāra](../../2.5.1.md) / [2.5.1.3 Paccayānulomapaccanīya](../2.5.1.3.md)
 
 # Hetuduka
 
@@ -23,6 +23,6 @@
 
 
 
-[Go to previous page (2.5.1.3 Paccayānulomapaccanīya)](../38P2/2/2.5/2.5.1/2.5.1.3.md) / [Go to parent page (2.5.1.3 Paccayānulomapaccanīya)](../38P2/2/2.5/2.5.1/2.5.1.3.md) / [Go to next page (2.5.1.4 Paccayapaccanīyānuloma)](../2.5.1.4.md)
+[Go to previous page (2.5.1.3 Paccayānulomapaccanīya)](../2.5.1.3.md) / [Go to parent page (2.5.1.3 Paccayānulomapaccanīya)](../2.5.1.3.md) / [Go to next page (2.5.1.4 Paccayapaccanīyānuloma)](../2.5.1.4.md)
 
 

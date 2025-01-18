@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [10 Dassanenapahātabbahetukattika](../../...md) / [10.3 Paccayavāra](../...md) / [10.3.1 Paccayānuloma](...md) / [10.3.1.1 Vibhaṅgavāra](../37P1/10/10.3/10.3.1/10.3.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [10 Dassanenapahātabbahetukattika](../../../../10.md) / [10.3 Paccayavāra](../../../10.3.md) / [10.3.1 Paccayānuloma](../../10.3.1.md) / [10.3.1.1 Vibhaṅgavāra](../10.3.1.1.md)
 
 # Ārammaṇa
 
@@ -47,6 +47,6 @@
 
 1167\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ paccayā bhāvanāya pahātabbahetuko ca nevadassanena nabhāvanāya pahātabbahetuko ca dhammā uppajjanti ārammaṇapaccayā—  uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe ca…pe… . (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.3.1.1 Vibhaṅgavāra)](../37P1/10/10.3/10.3.1/10.3.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.3.1.1 Vibhaṅgavāra)](../10.3.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
 
 

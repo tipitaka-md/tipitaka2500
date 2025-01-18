@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [20 Atītārammaṇattika](../...md) / [20.7 Pañhāvāra](...md) / [20.7.4 Paccayapaccanīyānuloma](../37P1/20/20.7/20.7.4.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [20 Atītārammaṇattika](../../../20.md) / [20.7 Pañhāvāra](../../20.7.md) / [20.7.4 Paccayapaccanīyānuloma](../20.7.4.md)
 
 # Nahetuduka
 
@@ -30,6 +30,6 @@ Pañhāvāro.
 
 
 
-[Go to previous page (20.7.4 Paccayapaccanīyānuloma)](../37P1/20/20.7/20.7.4.md) / [Go to parent page (20.7.4 Paccayapaccanīyānuloma)](../37P1/20/20.7/20.7.4.md) / [Go to next page (21 Ajjhattattika)](../../../21.md)
+[Go to previous page (20.7.4 Paccayapaccanīyānuloma)](../20.7.4.md) / [Go to parent page (20.7.4 Paccayapaccanīyānuloma)](../20.7.4.md) / [Go to next page (21 Ajjhattattika)](../../../21.md)
 
 

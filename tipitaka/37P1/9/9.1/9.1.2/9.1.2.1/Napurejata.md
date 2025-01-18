@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.1 Paṭiccavāra](../...md) / [9.1.2 Paccayapaccanīya](...md) / [9.1.2.1 Vibhaṅgavāra](../37P1/9/9.1/9.1.2/9.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.2 Paccayapaccanīya](../../9.1.2.md) / [9.1.2.1 Vibhaṅgavāra](../9.1.2.1.md)
 
 # Napurejāta
 
@@ -31,6 +31,6 @@
 
 836\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati napurejātapaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../37P1/9/9.1/9.1.2/9.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 
 

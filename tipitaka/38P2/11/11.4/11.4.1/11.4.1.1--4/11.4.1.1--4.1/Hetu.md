@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [11 Upādānagocchaka](../../../...md) / [11.4 Upādānaupādāniyaduka](../../...md) / [11.4.1 Paṭiccavāra](../...md) / [11.4.1.1--4 Paccayānulomādi](...md) / [11.4.1.1--4.1 Vibhaṅgavāra](../38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [11 Upādānagocchaka](../../../../../11.md) / [11.4 Upādānaupādāniyaduka](../../../../11.4.md) / [11.4.1 Paṭiccavāra](../../../11.4.1.md) / [11.4.1.1--4 Paccayānulomādi](../../11.4.1.1--4.md) / [11.4.1.1--4.1 Vibhaṅgavāra](../11.4.1.1--4.1.md)
 
 # Hetu
 
@@ -39,6 +39,6 @@
 
 3766\. Upādānañceva upādāniyañca upādāniyañceva no ca upādānañca dhammaṃ paṭicca upādāno ceva upādāniyo ca upādāniyo ceva no ca upādāno ca dhammā uppajjanti hetupaccayā—  upādāniyañceva no ca upādānaṃ ekaṃ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
 
-[Go to previous page (11.4.1.1--4.1 Vibhaṅgavāra)](../38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1.md) / [Go to parent page (11.4.1.1--4.1 Vibhaṅgavāra)](../38P2/11/11.4/11.4.1/11.4.1.1--4/11.4.1.1--4.1.md) / [Go to next page (11.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../../11.4.2--6.md)
+[Go to previous page (11.4.1.1--4.1 Vibhaṅgavāra)](../11.4.1.1--4.1.md) / [Go to parent page (11.4.1.1--4.1 Vibhaṅgavāra)](../11.4.1.1--4.1.md) / [Go to next page (11.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../../11.4.2--6.md)
 
 

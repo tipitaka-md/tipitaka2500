@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [13 Parittattika](../../...md) / [13.7 Pañhāvāra](../...md) / [13.7.1 Paccayānuloma](...md) / [13.7.1.1 Vibhaṅgavāra](../37P1/13/13.7/13.7.1/13.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.7 Pañhāvāra](../../../13.7.md) / [13.7.1 Paccayānuloma](../../13.7.1.md) / [13.7.1.1 Vibhaṅgavāra](../13.7.1.1.md)
 
 # Nissaya
 
@@ -45,6 +45,6 @@
 
 2085\. Paritto ca mahaggato ca dhammā mahaggatassa dhammassa nissayapaccayena paccayo—  mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  paṭisandhikkhaṇe mahaggato eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe… . (2)
 
-[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../37P1/13/13.7/13.7.1/13.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
+[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

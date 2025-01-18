@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [8 Nīvaraṇagocchaka](../../../...md) / [8.3 Nīvaraṇasampayuttaduka](../../...md) / [8.3.7 Pañhāvāra](../...md) / [8.3.7.1 Paccayānuloma](...md) / [8.3.7.1.1 Vibhaṅgavāra](../38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [8 Nīvaraṇagocchaka](../../../../../8.md) / [8.3 Nīvaraṇasampayuttaduka](../../../../8.3.md) / [8.3.7 Pañhāvāra](../../../8.3.7.md) / [8.3.7.1 Paccayānuloma](../../8.3.7.1.md) / [8.3.7.1.1 Vibhaṅgavāra](../8.3.7.1.1.md)
 
 # Ārammaṇa
 
@@ -27,6 +27,6 @@
 
 2035\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ nīvaraṇavippayutte khandhe assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi…pe…  vicikicchā…pe…  uddhaccaṃ…pe…  domanassaṃ uppajjati. (2)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../38P2/8/8.3/8.3.7/8.3.7.1/8.3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [3 Vedanāttika](../../...md) / [3.7 Pañhāvāra](../...md) / [3.7.1 Paccayānuloma](...md) / [3.7.1.1 Vibhaṅgavāra](../36P1/3/3.7/3.7.1/3.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.7 Pañhāvāra](../../../3.7.md) / [3.7.1 Paccayānuloma](../../3.7.1.md) / [3.7.1.1 Vibhaṅgavāra](../3.7.1.1.md)
 
 # Upanissaya
 
@@ -55,6 +55,6 @@
 
 1933\. **Pakatūpanissayo**—  adukkhamasukhāya vedanāya sampayuttaṃ saddhaṃ upanissāya attānaṃ ātāpeti paritāpeti, pariyiṭṭhimūlakaṃ dukkhaṃ paccanubhoti. Adukkhamasukhāya vedanāya sampayuttaṃ sīlaṃ…pe…  patthanaṃ upanissāya pāṇaṃ hanati. Dukkhāya vedanāya sampayuttena cittena adinnaṃ ādiyati…pe…  saṃghaṃ bhindati. Adukkhamasukhāya vedanāya sampayuttā saddhā…pe…  patthanā…  dosassa…  mohassa…  dukkhasahagatassa kāyaviññāṇassa…  dukkhāya vedanāya sampayuttakānaṃ khandhānaṃ upanissayapaccayena paccayo. (3)
 
-[Go to previous page (Aññamañña-nissaya)](Annamanna-nissaya.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../36P1/3/3.7/3.7.1/3.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
+[Go to previous page (Aññamañña-nissaya)](Annamanna-nissaya.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 
 

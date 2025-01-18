@@ -1,5 +1,5 @@
 
-[Home](/) / [8D Pāthikavaggapāḷi](...md) / [6 Pāsādikasutta](../8D/6.md)
+[Home](/) / [8D Pāthikavaggapāḷi](../../8D.md) / [6 Pāsādikasutta](../6.md)
 
 # Nigaṇṭhanāṭaputtakālaṃkiriyā
 
@@ -17,6 +17,6 @@
 
 338\. Atha kho āyasmā ca ānando cundo ca samaṇuddeso yena bhagavā tenupasaṅkamiṃsu; upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ nisīdiṃsu. Ekamantaṃ nisinno kho āyasmā ānando bhagavantaṃ etadavoca—  “ayaṃ, bhante, cundo samaṇuddeso evamāha, ‘nigaṇṭho, bhante, nāṭaputto pāvāyaṃ adhunākālaṅkato, tassa kālaṃkiriyāya bhinnā nigaṇṭhā…pe…  bhinnathūpe appaṭisaraṇe’”ti.
 
-[Go to previous page (6 Pāsādikasutta)](../8D/6.md) / [Go to parent page (6 Pāsādikasutta)](../8D/6.md) / [Go to next page (6.1 Asammāsambuddhappaveditadhammavinaya)](6.1.md)
+[Go to previous page (6 Pāsādikasutta)](../6.md) / [Go to parent page (6 Pāsādikasutta)](../6.md) / [Go to next page (6.1 Asammāsambuddhappaveditadhammavinaya)](6.1.md)
 
 

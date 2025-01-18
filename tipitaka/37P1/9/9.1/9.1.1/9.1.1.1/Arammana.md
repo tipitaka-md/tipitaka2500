@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.1 Paṭiccavāra](../...md) / [9.1.1 Paccayānuloma](...md) / [9.1.1.1 Vibhaṅgavāra](../37P1/9/9.1/9.1.1/9.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.1 Paccayānuloma](../../9.1.1.md) / [9.1.1.1 Vibhaṅgavāra](../9.1.1.1.md)
 
 # Ārammaṇa
 
@@ -21,6 +21,6 @@
 
 801\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati ārammaṇapaccayā—  nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Vatthuṃ paṭicca khandhā. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 
 

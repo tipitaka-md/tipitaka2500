@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [12 Sekkhattika](../...md) / [12.7 Pañhāvāra](...md) / [12.7.3 Paccayānulomapaccanīya](../37P1/12/12.7/12.7.3.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../37P1.md) / [12 Sekkhattika](../../../12.md) / [12.7 Pañhāvāra](../../12.7.md) / [12.7.3 Paccayānulomapaccanīya](../12.7.3.md)
 
 # Hetuduka
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (12.7.3 Paccayānulomapaccanīya)](../37P1/12/12.7/12.7.3.md) / [Go to parent page (12.7.3 Paccayānulomapaccanīya)](../37P1/12/12.7/12.7.3.md) / [Go to next page (12.7.4 Paccayapaccanīyānuloma)](../12.7.4.md)
+[Go to previous page (12.7.3 Paccayānulomapaccanīya)](../12.7.3.md) / [Go to parent page (12.7.3 Paccayānulomapaccanīya)](../12.7.3.md) / [Go to next page (12.7.4 Paccayapaccanīyānuloma)](../12.7.4.md)
 
 

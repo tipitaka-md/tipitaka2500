@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.13 Upādāduka](../../...md) / [10.13.1 Paṭiccavāra](../...md) / [10.13.1.1 Paccayānuloma](...md) / [10.13.1.1.1 Vibhaṅgavāra](../38P2/10/10.13/10.13.1/10.13.1.1/10.13.1.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.13 Upādāduka](../../../../10.13.md) / [10.13.1 Paṭiccavāra](../../../10.13.1.md) / [10.13.1.1 Paccayānuloma](../../10.13.1.1.md) / [10.13.1.1.1 Vibhaṅgavāra](../10.13.1.1.1.md)
 
 # Aññamañña
 
@@ -27,6 +27,6 @@
 
 3254\. Upādā ca noupādā ca dhammaṃ paṭicca noupādā dhammo uppajjati aññamaññapaccayā—  paṭisandhikkhaṇe noupādā ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  (Saṃkhittaṃ.) (1)
 
-[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (10.13.1.1.1 Vibhaṅgavāra)](../38P2/10/10.13/10.13.1/10.13.1.1/10.13.1.1.1.md) / [Go to next page (10.13.1.1.2 Saṅkhyāvāra)](../10.13.1.1.2.md)
+[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (10.13.1.1.1 Vibhaṅgavāra)](../10.13.1.1.1.md) / [Go to next page (10.13.1.1.2 Saṅkhyāvāra)](../10.13.1.1.2.md)
 
 

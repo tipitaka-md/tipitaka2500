@@ -1,5 +1,5 @@
 
-[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../...md) / [3 Vipākattika](../...md) / [3.7 Pañhāvāra](...md) / [Paccayacatukka](../40P13/3/3.7/Paccayacatukka.md)
+[Home](/) / [40P13 Dhammānulomapaccanīya (3), Tikapaṭṭhānapāḷi (1)](../../../../40P13.md) / [3 Vipākattika](../../../3.md) / [3.7 Pañhāvāra](../../3.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu-ārammaṇa
 
@@ -27,6 +27,6 @@
 
 49\. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare soḷasa…pe…  sahajāte tevīsa, aññamaññe terasa, nissaye chabbīsa, upanissaye aṭṭhārasa, purejāte cha, pacchājāte nava, āsevane cha, kamme cuddasa, vipāke pañca, āhāre terasa, indriye aṭṭhārasa, jhāne magge terasa, sampayutte nava…pe…  vippayutte dvādasa…pe…  avigate chabbīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
 
-[Go to previous page (Paccayacatukka)](../40P13/3/3.7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../40P13/3/3.7/Paccayacatukka.md) / [Go to next page (4 Upādinnattika)](../../../4.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4 Upādinnattika)](../../../4.md)
 
 

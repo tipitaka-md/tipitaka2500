@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.12 Rūpāvacaraduka](../../...md) / [13.12.7 Pañhāvāra](../...md) / [13.12.7.1 Paccayānuloma](...md) / [13.12.7.1.2 Saṅkhyāvāra](../38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.2.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.12 Rūpāvacaraduka](../../../../13.12.md) / [13.12.7 Pañhāvāra](../../../13.12.7.md) / [13.12.7.1 Paccayānuloma](../../13.12.7.1.md) / [13.12.7.1.2 Saṅkhyāvāra](../13.12.7.1.2.md)
 
 # Suddha
 
@@ -19,6 +19,6 @@
 
 4642\. Hetuyā cattāri, ārammaṇe cattāri, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane tīṇi, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge cattāri, sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri, vigate cattāri, avigate satta.
 
-[Go to previous page (13.12.7.1.2 Saṅkhyāvāra)](../38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.2.md) / [Go to parent page (13.12.7.1.2 Saṅkhyāvāra)](../38P2/13/13.12/13.12.7/13.12.7.1/13.12.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
+[Go to previous page (13.12.7.1.2 Saṅkhyāvāra)](../13.12.7.1.2.md) / [Go to parent page (13.12.7.1.2 Saṅkhyāvāra)](../13.12.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 
 

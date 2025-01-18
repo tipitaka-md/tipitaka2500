@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [2 Hetugocchaka, Kusalattika](../../...md) / [2.4 Hetusahetukaduka, Kusalattika](../...md) / [2.4.2 Akusalapada](...md) / [2.4.2.7 Pañhāvāra](../39P3/2/2.4/2.4.2/2.4.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [2 Hetugocchaka, Kusalattika](../../../../2.md) / [2.4 Hetusahetukaduka, Kusalattika](../../../2.4.md) / [2.4.2 Akusalapada](../../2.4.2.md) / [2.4.2.7 Pañhāvāra](../2.4.2.7.md)
 
 # Paccanīyuddhāra
 
@@ -27,6 +27,6 @@
 
 1391\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.4.2.7 Pañhāvāra)](../39P3/2/2.4/2.4.2/2.4.2.7.md) / [Go to next page (2.4.3 Abyākatapada)](../../2.4.3.md)
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.4.2.7 Pañhāvāra)](../2.4.2.7.md) / [Go to next page (2.4.3 Abyākatapada)](../../2.4.3.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [23 Sanidassanasappaṭighattika](../../...md) / [23.1 Paṭiccavāra](../...md) / [23.1.2 Paccayapaccanīya](...md) / [23.1.2.1 Vibhaṅgavāra](../37P1/23/23.1/23.1.2/23.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [23 Sanidassanasappaṭighattika](../../../../23.md) / [23.1 Paṭiccavāra](../../../23.1.md) / [23.1.2 Paccayapaccanīya](../../23.1.2.md) / [23.1.2.1 Vibhaṅgavāra](../23.1.2.1.md)
 
 # Naindriyādi
 
@@ -31,6 +31,6 @@
 
 2993\. (Evaṃ sattapi pañhā vibhajitabbā), namaggapaccayā…  (nahetusadisaṃ kātabbaṃ. Paripuṇṇaṃ. Moho natthi). Nasampayuttapaccayā…  navippayuttapaccayā (paripuṇṇaṃ)…  nonatthipaccayā…  novigatapaccayā.
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (23.1.2.1 Vibhaṅgavāra)](../37P1/23/23.1/23.1.2/23.1.2.1.md) / [Go to next page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md)
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (23.1.2.1 Vibhaṅgavāra)](../23.1.2.1.md) / [Go to next page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md)
 
 

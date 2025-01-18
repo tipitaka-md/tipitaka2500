@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.7 Pañhāvāra](../../...md) / [2.7.2 Paccayapaccanīya](../...md) / [2.7.2.1 Saṅkhyāvāra](...md) / [Naāhāraduka](../36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.2 Paccayapaccanīya](../../../2.7.2.md) / [2.7.2.1 Saṅkhyāvāra](../../2.7.2.1.md) / [Naāhāraduka](../Naaharaduka.md)
 
 # Ekādasaka
 
@@ -17,6 +17,6 @@
 
 1236\. Naāhārapaccayā nahetupaccayā…pe…  naupanissayapaccayā napurejāte pañca, napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naindriye tīṇi, najhāne pañca, namagge pañca, nasampayutte pañca, navippayutte tīṇi, noatthiyā dve, nonatthiyā pañca, novigate pañca, noavigate dve…pe… .
 
-[Go to previous page (Dasaka)](Dasaka.md) / [Go to parent page (Naāhāraduka)](../36P1/2/2.7/2.7.2/2.7.2.1/Naaharaduka.md) / [Go to next page (Terasaka)](Terasaka.md)
+[Go to previous page (Dasaka)](Dasaka.md) / [Go to parent page (Naāhāraduka)](../Naaharaduka.md) / [Go to next page (Terasaka)](Terasaka.md)
 
 

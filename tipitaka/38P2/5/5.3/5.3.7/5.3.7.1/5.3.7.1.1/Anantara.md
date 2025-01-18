@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [5 Ganthagocchaka](../../../...md) / [5.3 Ganthasampayuttaduka](../../...md) / [5.3.7 Pañhāvāra](../...md) / [5.3.7.1 Paccayānuloma](...md) / [5.3.7.1.1 Vibhaṅgavāra](../38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [5 Ganthagocchaka](../../../../../5.md) / [5.3 Ganthasampayuttaduka](../../../../5.3.md) / [5.3.7 Pañhāvāra](../../../5.3.7.md) / [5.3.7.1 Paccayānuloma](../../5.3.7.1.md) / [5.3.7.1.1 Vibhaṅgavāra](../5.3.7.1.1.md)
 
 # Anantara
 
@@ -31,6 +31,6 @@
 
 1793\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthasampayuttassa dhammassa anantarapaccayena paccayo—  purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimānaṃ pacchimānaṃ diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ anantarapaccayena paccayo; purimā purimā domanassasahagatā khandhā ca paṭighañca pacchimānaṃ pacchimānaṃ domanassasahagatānaṃ khandhānaṃ anantarapaccayena paccayo. (Mūlā pucchitabbā) Purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimassa pacchimassa diṭṭhigatavippayuttassa lobhassa anantarapaccayena paccayo; purimā purimā domanassasahagatā khandhā ca paṭighañca pacchimassa pacchimassa paṭighassa anantarapaccayena paccayo; diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca vuṭṭhānassa anantarapaccayena paccayo. (Mūlā pucchitabbā) Purimā purimā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca pacchimānaṃ pacchimānaṃ diṭṭhigatavippayuttalobhasahagatānaṃ khandhānaṃ lobhassa ca anantarapaccayena paccayo; purimā purimā domanassasahagatā khandhā ca paṭighañca pacchimānaṃ pacchimānaṃ domanassasahagatānaṃ khandhānaṃ paṭighassa ca anantarapaccayena paccayo. (3)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../38P2/5/5.3/5.3.7/5.3.7.1/5.3.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../5.3.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

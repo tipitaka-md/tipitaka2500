@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [4 Vipākattika](../../...md) / [4.7 Pañhāvāra](../...md) / [4.7.1 Paccayānuloma](...md) / [4.7.1.1 Vibhaṅgavāra](../36P1/4/4.7/4.7.1/4.7.1.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [4 Vipākattika](../../../../4.md) / [4.7 Pañhāvāra](../../../4.7.md) / [4.7.1 Paccayānuloma](../../4.7.1.md) / [4.7.1.1 Vibhaṅgavāra](../4.7.1.1.md)
 
 # Aññamañña
 
@@ -29,6 +29,6 @@
 
 2320\. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā vipākassa dhammassa…pe…  paṭisandhikkhaṇe vipāko eko khandho ca vatthu ca…pe… . (1) (Satta pañhā.)
 
-[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../36P1/4/4.7/4.7.1/4.7.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 
 

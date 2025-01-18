@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [10 Mahantaraduka, Kusalattika](../../...md) / [10.12 Ajjhattikaduka, Kusalattika](../...md) / [10.12.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P3/10/10.12/10.12.1--7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [10 Mahantaraduka, Kusalattika](../../../../10.md) / [10.12 Ajjhattikaduka, Kusalattika](../../../10.12.md) / [10.12.1--7 Paṭiccādivāra](../../10.12.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # Hetu
 
@@ -63,6 +63,6 @@
 
 2201\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava (ajjhattiko bāhirassa gamanakāle sahajātādhipati, majjhe tīsupi sahajātādhipati), anantare nava, sahajāte nava, aññamaññe pañca, nissaye nava, upanissaye nava, purejāte nava (ārammaṇapurejātampi vatthupurejātampi), pacchājāte nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre nava (tiṇṇannaṃ kabaḷīkāro āhāro), indriye nava (tiṇṇannaṃ rūpajīvitindriyaṃ), jhāne magge tīṇi, sampayutte pañca, vippayutte nava, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
 
-[Go to previous page (Paccayacatukka)](../39P3/10/10.12/10.12.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P3/10/10.12/10.12.1--7/Paccayacatukka.md) / [Go to next page (10.13 Upādāduka, Kusalattika)](../../../10.13.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.13 Upādāduka, Kusalattika)](../../../10.13.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)](../...md) / [1 Kusalattika, Vedanāttika](...md) / [1.2 Dukkhāyavedanāyasampayuttapada](../40P11/1/1.2.md)
+[Home](/) / [40P11 Dhammapaccanīya (2), Tikatikapaṭṭhānapāḷi (5)](../../../40P11.md) / [1 Kusalattika, Vedanāttika](../../1.md) / [1.2 Dukkhāyavedanāyasampayuttapada](../1.2.md)
 
 # Hetu
 
@@ -25,6 +25,6 @@
 
 15\. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa. (Sabbattha vitthāretabbaṃ.)
 
-[Go to previous page (1.2 Dukkhāyavedanāyasampayuttapada)](../40P11/1/1.2.md) / [Go to parent page (1.2 Dukkhāyavedanāyasampayuttapada)](../40P11/1/1.2.md) / [Go to next page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md)
+[Go to previous page (1.2 Dukkhāyavedanāyasampayuttapada)](../1.2.md) / [Go to parent page (1.2 Dukkhāyavedanāyasampayuttapada)](../1.2.md) / [Go to next page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md)
 
 

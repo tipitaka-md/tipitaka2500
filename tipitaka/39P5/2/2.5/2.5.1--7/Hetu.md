@@ -1,5 +1,5 @@
 
-[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../...md) / [2 Tika, Kusalattika](../...md) / [2.5 Vitakkattika, Kusalattika](...md) / [2.5.1--7 Paṭiccādivāra](../39P5/2/2.5/2.5.1--7.md)
+[Home](/) / [39P5 Dhammānuloma (1), Tikatikapaṭṭhānapāḷi (5)](../../../../39P5.md) / [2 Tika, Kusalattika](../../../2.md) / [2.5 Vitakkattika, Kusalattika](../../2.5.md) / [2.5.1--7 Paṭiccādivāra](../2.5.1--7.md)
 
 # Hetu
 
@@ -41,6 +41,6 @@
 
 344\. Hetuyā sattatiṃsa, ārammaṇe ekavīsa…pe…  aññamaññe aṭṭhavīsa…pe…  purejāte āsevane ekādasa…pe…  avigate sattatiṃsa. (Saṃkhittaṃ.)
 
-[Go to previous page (2.5.1--7 Paṭiccādivāra)](../39P5/2/2.5/2.5.1--7.md) / [Go to parent page (2.5.1--7 Paṭiccādivāra)](../39P5/2/2.5/2.5.1--7.md) / [Go to next page (2.6 Pītittika, Kusalattika)](../../2.6.md)
+[Go to previous page (2.5.1--7 Paṭiccādivāra)](../2.5.1--7.md) / [Go to parent page (2.5.1--7 Paṭiccādivāra)](../2.5.1--7.md) / [Go to next page (2.6 Pītittika, Kusalattika)](../../2.6.md)
 
 

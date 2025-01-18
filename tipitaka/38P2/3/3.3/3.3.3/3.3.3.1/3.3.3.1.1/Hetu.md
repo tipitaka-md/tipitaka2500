@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [3 Āsavagocchaka](../../../...md) / [3.3 Āsavasampayuttaduka](../../...md) / [3.3.3 Paccayavāra](../...md) / [3.3.3.1 Paccayānuloma](...md) / [3.3.3.1.1 Vibhaṅgavāra](../38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.3 Āsavasampayuttaduka](../../../../3.3.md) / [3.3.3 Paccayavāra](../../../3.3.3.md) / [3.3.3.1 Paccayānuloma](../../3.3.3.1.md) / [3.3.3.1.1 Vibhaṅgavāra](../3.3.3.1.1.md)
 
 # Hetu
 
@@ -33,6 +33,6 @@
 
 1150\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paccayā āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā—  āsavasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  āsavasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
 
-[Go to previous page (3.3.3.1.1 Vibhaṅgavāra)](../38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1.md) / [Go to parent page (3.3.3.1.1 Vibhaṅgavāra)](../38P2/3/3.3/3.3.3/3.3.3.1/3.3.3.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
+[Go to previous page (3.3.3.1.1 Vibhaṅgavāra)](../3.3.3.1.1.md) / [Go to parent page (3.3.3.1.1 Vibhaṅgavāra)](../3.3.3.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

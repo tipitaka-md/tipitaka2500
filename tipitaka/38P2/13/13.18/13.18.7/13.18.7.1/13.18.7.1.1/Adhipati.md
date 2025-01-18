@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.18 Saraṇaduka](../../...md) / [13.18.7 Pañhāvāra](../...md) / [13.18.7.1 Paccayānuloma](...md) / [13.18.7.1.1 Vibhaṅgavāra](../38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.18 Saraṇaduka](../../../../13.18.md) / [13.18.7 Pañhāvāra](../../../13.18.7.md) / [13.18.7.1 Paccayānuloma](../../13.18.7.1.md) / [13.18.7.1.1 Vibhaṅgavāra](../13.18.7.1.1.md)
 
 # Adhipati
 
@@ -23,6 +23,6 @@
 
 4817\. Araṇo dhammo araṇassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ…pe…  nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, adhipatipaccayena paccayo. **Sahajātādhipati**—  araṇādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. Araṇo dhammo saraṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati…  diṭṭhi uppajjati; pubbe suciṇṇāni…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ, araṇe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati…  diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.18.7.1.1 Vibhaṅgavāra)](../38P2/13/13.18/13.18.7/13.18.7.1/13.18.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.18.7.1.1 Vibhaṅgavāra)](../13.18.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
 

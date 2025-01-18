@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Vippayutta](../36P1/2/2.7/2.7.3/Vippayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Vippayutta](../Vippayutta.md)
 
 # Pakiṇṇakaghaṭanā
 
@@ -25,6 +25,6 @@
 
 1655\. Vippayutta nissaya purejāta indriya atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
 
-[Go to previous page (Vippayuttamissakaghaṭanā)](Vippayuttamissakaghatana.md) / [Go to parent page (Vippayutta)](../36P1/2/2.7/2.7.3/Vippayutta.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
+[Go to previous page (Vippayuttamissakaghaṭanā)](Vippayuttamissakaghatana.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
 
 

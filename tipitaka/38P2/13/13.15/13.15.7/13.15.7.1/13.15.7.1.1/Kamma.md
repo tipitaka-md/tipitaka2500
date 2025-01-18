@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [13 Piṭṭhiduka](../../../...md) / [13.15 Niyyānikaduka](../../...md) / [13.15.7 Pañhāvāra](../...md) / [13.15.7.1 Paccayānuloma](...md) / [13.15.7.1.1 Vibhaṅgavāra](../38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../../13.md) / [13.15 Niyyānikaduka](../../../../13.15.md) / [13.15.7 Pañhāvāra](../../../13.15.7.md) / [13.15.7.1 Paccayānuloma](../../13.15.7.1.md) / [13.15.7.1.1 Vibhaṅgavāra](../13.15.7.1.1.md)
 
 # Kamma
 
@@ -23,6 +23,6 @@
 
 4756\. Aniyyāniko dhammo aniyyānikassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā** (Saṃkhittaṃ.) **Nānākkhaṇikā**—  aniyyānikā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo…  vipākapaccayena paccayo…  ekaṃyeva…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve…  vippayuttapaccayena paccayo…  tīṇi (arūpadukasadisā kātabbā)…  atthipaccayena paccayo…  satta (arūpadukasadisā kātabbā, āmasanā nānāpadāyeva)…  natthipaccayena paccayo…  tīṇi…  vigatapaccayena paccayo…  tīṇi…  avigatapaccayena paccayo…  satta.
 
-[Go to previous page (Purejātādi)](Purejatadi.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../38P2/13/13.15/13.15.7/13.15.7.1/13.15.7.1.1.md) / [Go to next page (13.15.7.1.2 Saṅkhyāvāra)](../13.15.7.1.2.md)
+[Go to previous page (Purejātādi)](Purejatadi.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to next page (13.15.7.1.2 Saṅkhyāvāra)](../13.15.7.1.2.md)
 
 

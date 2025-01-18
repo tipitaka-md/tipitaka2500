@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [1 Hetuduka, Tika](../../...md) / [1.15 Hetuduka, Micchattaniyatattika](../...md) / [1.15.2 Sammattaniyatapada](...md) / [1.15.2.7 Pañhāvāra](../39P3/1/1.15/1.15.2/1.15.2.7.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../1.md) / [1.15 Hetuduka, Micchattaniyatattika](../../../1.15.md) / [1.15.2 Sammattaniyatapada](../../1.15.2.md) / [1.15.2.7 Pañhāvāra](../1.15.2.7.md)
 
 # Paccanīyuddhāra
 
@@ -27,6 +27,6 @@
 
 966\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
 
-[Go to previous page (Hetu-adhipati)](Paccayacatukka/Hetu-adhipati.md) / [Go to parent page (1.15.2.7 Pañhāvāra)](../39P3/1/1.15/1.15.2/1.15.2.7.md) / [Go to next page (1.15.3 Aniyatapada)](../../1.15.3.md)
+[Go to previous page (Hetu-adhipati)](Paccayacatukka/Hetu-adhipati.md) / [Go to parent page (1.15.2.7 Pañhāvāra)](../1.15.2.7.md) / [Go to next page (1.15.3 Aniyatapada)](../../1.15.3.md)
 
 
