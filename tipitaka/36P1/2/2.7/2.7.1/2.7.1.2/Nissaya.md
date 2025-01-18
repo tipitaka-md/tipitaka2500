@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.1 Paccayānuloma](...md) / [2.7.1.2 Saṅkhyāvāra](../36P1/2/2.7/2.7.1/2.7.1.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.1 Paccayānuloma](../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../2.7.1.2.md)
 
 # 𑀦𑀺𑀲𑁆𑀲𑀬
 
@@ -8,6 +8,6 @@
 * [Pakiṇṇakaghaṭanā](Nissaya/Pakinnakaghatana.md)
 * [Sahajātaghaṭanā](Nissaya/Sahajataghatana.md)
 
-[Go to previous page (Aññamaññaghaṭanā)](Annamanna/Annamannaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../36P1/2/2.7/2.7.1/2.7.1.2.md) / [Go to next page (Nissayasabhāga)](Nissaya/Nissayasabhaga.md)
+[Go to previous page (Aññamaññaghaṭanā)](Annamanna/Annamannaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Nissayasabhāga)](Nissaya/Nissayasabhaga.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [13 Parittattika](../../...md) / [13.1 Paṭiccavāra](../...md) / [13.1.2 Paccayapaccanīya](...md) / [13.1.2.1 Vibhaṅgavāra](../37P1/13/13.1/13.1.2/13.1.2.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [13 Parittattika](../../../../13.md) / [13.1 Paṭiccavāra](../../../13.1.md) / [13.1.2 Paccayapaccanīya](../../13.1.2.md) / [13.1.2.1 Vibhaṅgavāra](../13.1.2.1.md)
 
 # 𑀦𑀓𑀫𑁆𑀫
 
@@ -21,6 +21,6 @@
 
 1938\. 𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸—  𑀓𑀼𑀲𑀮𑁂 𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑁂 𑀔𑀦𑁆𑀥𑁂 𑀧𑀝𑀺𑀘𑁆𑀘 𑀅𑀧𑁆𑀧𑀫𑀸𑀡𑀸 𑀘𑁂𑀢𑀦𑀸𑁇 (𑁧)
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../37P1/13/13.1/13.1.2/13.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
+[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

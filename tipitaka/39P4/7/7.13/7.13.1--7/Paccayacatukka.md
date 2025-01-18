@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [7 Kusalattika, Piṭṭhiduka](../...md) / [7.13 Kusalattika, Niyyānikaduka](...md) / [7.13.1--7 Paṭiccādivāra](../39P4/7/7.13/7.13.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [7 Kusalattika, Piṭṭhiduka](../../../7.md) / [7.13 Kusalattika, Niyyānikaduka](../../7.13.md) / [7.13.1--7 Paṭiccādivāra](../7.13.1--7.md)
 
 # 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
@@ -37,6 +37,6 @@
 
 1667\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺…𑀧𑁂…  𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (7.13.1--7 Paṭiccādivāra)](../39P4/7/7.13/7.13.1--7.md) / [Go to parent page (7.13.1--7 Paṭiccādivāra)](../39P4/7/7.13/7.13.1--7.md) / [Go to next page (7.14 Kusalattika, Niyataduka)](../../7.14.md)
+[Go to previous page (7.13.1--7 Paṭiccādivāra)](../7.13.1--7.md) / [Go to parent page (7.13.1--7 Paṭiccādivāra)](../7.13.1--7.md) / [Go to next page (7.14 Kusalattika, Niyataduka)](../../7.14.md)
 
 

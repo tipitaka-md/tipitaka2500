@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../...md) / [1 Hetuduka, Tika](../../../...md) / [1.1 Hetuduka, Kusalattika](../../...md) / [1.1.3 Abyākatapada](../...md) / [1.1.3.7 Pañhāvāra](...md) / [Paccayacatukka](../39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../../39P3.md) / [1 Hetuduka, Tika](../../../../../1.md) / [1.1 Hetuduka, Kusalattika](../../../../1.1.md) / [1.1.3 Abyākatapada](../../../1.1.3.md) / [1.1.3.7 Pañhāvāra](../../1.1.3.7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀤𑀺
 
@@ -27,6 +27,6 @@
 
 95\. 𑀳𑁂𑀢𑀼 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀘 𑀦𑀳𑁂𑀢𑀼 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀳𑁂𑀢𑀼𑀲𑁆𑀲 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀥𑀺𑀧𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀆𑀭𑀫𑁆𑀫𑀡𑀸𑀥𑀺𑀧𑀢𑀺…  𑀢𑀻𑀡𑀺…𑀧𑁂… 𑁇
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../39P3/1/1.1/1.1.3/1.1.3.7/Paccayacatukka.md) / [Go to next page (Purejātādi)](Purejatadi.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Purejātādi)](Purejatadi.md)
 
 

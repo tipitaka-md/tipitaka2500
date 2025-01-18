@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [7 Vitakkattika](../../...md) / [7.1 Paṭiccavāra](../...md) / [7.1.1 Paccayānuloma](...md) / [7.1.1.1 Vibhaṅgavāra](../37P1/7/7.1/7.1.1/7.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.1 Paṭiccavāra](../../../7.1.md) / [7.1.1 Paccayānuloma](../../7.1.1.md) / [7.1.1.1 Vibhaṅgavāra](../7.1.1.1.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -69,6 +69,6 @@
 
 60\. (𑀤𑁆𑀯𑁂 𑀧𑀘𑁆𑀘𑀬𑀸 𑀲𑀚𑁆𑀛𑀸𑀬𑀫𑀕𑁆𑀕𑁂𑀦 𑀯𑀺𑀪𑀢𑁆𑀢𑀸, 𑀏𑀯𑀁 𑀅𑀯𑀲𑁂𑀲𑀸 𑀯𑀻𑀲𑀢𑀺𑀧𑀘𑁆𑀘𑀬𑀸 𑀯𑀺𑀪𑀚𑀺𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (7.1.1.1 Vibhaṅgavāra)](../37P1/7/7.1/7.1.1/7.1.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (7.1.1.1 Vibhaṅgavāra)](../7.1.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

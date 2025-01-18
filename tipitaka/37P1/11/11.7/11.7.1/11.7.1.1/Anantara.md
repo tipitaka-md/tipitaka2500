@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [11 Ācayagāmittika](../../...md) / [11.7 Pañhāvāra](../...md) / [11.7.1 Paccayānuloma](...md) / [11.7.1.1 Vibhaṅgavāra](../37P1/11/11.7/11.7.1/11.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [11 Ācayagāmittika](../../../../11.md) / [11.7 Pañhāvāra](../../../11.7.md) / [11.7.1 Paccayānuloma](../../11.7.1.md) / [11.7.1.1 Vibhaṅgavāra](../11.7.1.1.md)
 
 # 𑀅𑀦𑀦𑁆𑀢𑀭
 
@@ -27,6 +27,6 @@
 
 1587\. 𑀦𑁂𑀯𑀸𑀘𑀬𑀕𑀸𑀫𑀺𑀦𑀸𑀧𑀘𑀬𑀕𑀸𑀫𑀻 𑀥𑀫𑁆𑀫𑁄 𑀆𑀘𑀬𑀕𑀸𑀫𑀺𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄—  𑀆𑀯𑀚𑁆𑀚𑀦𑀸 𑀆𑀘𑀬𑀕𑀸𑀫𑀻𑀦𑀁 𑀔𑀦𑁆𑀥𑀸𑀦𑀁 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁨)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../37P1/11/11.7/11.7.1/11.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../11.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

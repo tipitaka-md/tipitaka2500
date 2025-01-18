@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [2 Kusalattika](../../../...md) / [2.7 Pañhāvāra](../../...md) / [2.7.1 Paccayānuloma](../...md) / [2.7.1.2 Saṅkhyāvāra](...md) / [Magga](../36P1/2/2.7/2.7.1/2.7.1.2/Magga.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [2 Kusalattika](../../../../../2.md) / [2.7 Pañhāvāra](../../../../2.7.md) / [2.7.1 Paccayānuloma](../../../2.7.1.md) / [2.7.1.2 Saṅkhyāvāra](../../2.7.1.2.md) / [Magga](../Magga.md)
 
 # 𑀲𑀳𑁂𑀢𑀸𑀥𑀺𑀧𑀢𑀺-𑀇𑀦𑁆𑀤𑁆𑀭𑀺𑀬𑀖𑀝𑀦𑀸
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (Sahetu-indriyaghaṭanā)](Sahetu-indriyaghatana.md) / [Go to parent page (Magga)](../36P1/2/2.7/2.7.1/2.7.1.2/Magga.md) / [Go to next page (Sampayutta)](../Sampayutta.md)
+[Go to previous page (Sahetu-indriyaghaṭanā)](Sahetu-indriyaghatana.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Sampayutta)](../Sampayutta.md)
 
 

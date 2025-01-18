@@ -1,5 +1,5 @@
 
-[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../...md) / [1 Hetuduka, Duka](../...md) / [1.1 Hetuduka, Sahetukaduka](...md) / [1.1.2 Ahetukapada](../39P6/1/1.1/1.1.2.md)
+[Home](/) / [39P6 Dhammānuloma (1), Dukadukapaṭṭhānapāḷi (6)](../../../../39P6.md) / [1 Hetuduka, Duka](../../../1.md) / [1.1 Hetuduka, Sahetukaduka](../../1.1.md) / [1.1.2 Ahetukapada](../1.1.2.md)
 
 # 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
@@ -37,6 +37,6 @@
 
 26\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (1.1.2 Ahetukapada)](../39P6/1/1.1/1.1.2.md) / [Go to parent page (1.1.2 Ahetukapada)](../39P6/1/1.1/1.1.2.md) / [Go to next page (1.2 Hetuduka, Hetusampayuttaduka)](../../1.2.md)
+[Go to previous page (1.1.2 Ahetukapada)](../1.1.2.md) / [Go to parent page (1.1.2 Ahetukapada)](../1.1.2.md) / [Go to next page (1.2 Hetuduka, Hetusampayuttaduka)](../../1.2.md)
 
 

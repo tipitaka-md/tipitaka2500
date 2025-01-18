@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [1 Hetugocchaka](../../../...md) / [1.1 Hetuduka](../../...md) / [1.1.1 Paṭiccavāra](../...md) / [1.1.1.2 Paccayapaccanīya](...md) / [1.1.1.2.1 Vibhaṅgavāra](../38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [1 Hetugocchaka](../../../../../1.md) / [1.1 Hetuduka](../../../../1.1.md) / [1.1.1 Paṭiccavāra](../../../1.1.1.md) / [1.1.1.2 Paccayapaccanīya](../../1.1.1.2.md) / [1.1.1.2.1 Vibhaṅgavāra](../1.1.1.2.1.md)
 
 # 𑀦𑀓𑀫𑁆𑀫𑀸𑀤𑀺
 
@@ -25,6 +25,6 @@
 
 32\. 𑀳𑁂𑀢𑀼𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀳𑁂𑀢𑀼 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸…  𑀦𑀯𑁇
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../38P2/1/1.1/1.1.1/1.1.1.2/1.1.1.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
+[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
 
 

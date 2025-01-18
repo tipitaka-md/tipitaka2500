@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.1 Paṭiccavāra](../...md) / [2.1.4 Paccayapaccanīyānuloma](...md) / [Nahetuduka](../36P1/2/2.1/2.1.4/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.4 Paccayapaccanīyānuloma](../../2.1.4.md) / [Nahetuduka](../Nahetuduka.md)
 
 # 𑀤𑁆𑀯𑀸𑀤𑀲𑀓
 
@@ -15,6 +15,6 @@
 
 359\. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀲𑀳𑀚𑀸𑀢𑁂 𑀏𑀓𑀁, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀏𑀓𑀁, 𑀆𑀳𑀸𑀭𑁂 𑀏𑀓𑀁, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀏𑀓𑀁, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁…𑀧𑁂… 𑁇
 
-[Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Nahetuduka)](../36P1/2/2.1/2.1.4/Nahetuduka.md) / [Go to next page (Cuddasaka)](Cuddasaka.md)
+[Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Cuddasaka)](Cuddasaka.md)
 
 

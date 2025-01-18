@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Kamma](../36P1/2/2.7/2.7.3/Kamma.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Kamma](../Kamma.md)
 
 # 𑀲𑀳𑀚𑀸𑀢𑀖𑀝𑀦𑀸
 
@@ -39,6 +39,6 @@
 
 
 
-[Go to previous page (Kammapakiṇṇakaghaṭanā)](Kammapakinnakaghatana.md) / [Go to parent page (Kamma)](../36P1/2/2.7/2.7.3/Kamma.md) / [Go to next page (Vipāka)](../Vipaka.md)
+[Go to previous page (Kammapakiṇṇakaghaṭanā)](Kammapakinnakaghatana.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Vipāka)](../Vipaka.md)
 
 

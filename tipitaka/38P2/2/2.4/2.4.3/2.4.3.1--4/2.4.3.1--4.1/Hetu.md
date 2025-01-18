@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [2 Cūḷantaraduka](../../../...md) / [2.4 Sappaṭighaduka](../../...md) / [2.4.3 Paccayavāra](../...md) / [2.4.3.1--4 Paccayānulomādi](...md) / [2.4.3.1--4.1 Vibhaṅgavāra](../38P2/2/2.4/2.4.3/2.4.3.1--4/2.4.3.1--4.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.4 Sappaṭighaduka](../../../../2.4.md) / [2.4.3 Paccayavāra](../../../2.4.3.md) / [2.4.3.1--4 Paccayānulomādi](../../2.4.3.1--4.md) / [2.4.3.1--4.1 Vibhaṅgavāra](../2.4.3.1--4.1.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -27,6 +27,6 @@
 
 
 
-[Go to previous page (2.4.3.1--4.1 Vibhaṅgavāra)](../38P2/2/2.4/2.4.3/2.4.3.1--4/2.4.3.1--4.1.md) / [Go to parent page (2.4.3.1--4.1 Vibhaṅgavāra)](../38P2/2/2.4/2.4.3/2.4.3.1--4/2.4.3.1--4.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
+[Go to previous page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to parent page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 
 

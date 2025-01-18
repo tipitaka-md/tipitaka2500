@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.5 Saṃsaṭṭhavāra](../...md) / [2.5.3 Paccayānulomapaccanīya](...md) / [Ārammaṇaduka](../36P1/2/2.5/2.5.3/Arammanaduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.3 Paccayānulomapaccanīya](../../2.5.3.md) / [Ārammaṇaduka](../Arammanaduka.md)
 
 # 𑀢𑀺𑀓
 
@@ -15,6 +15,6 @@
 
 761\. 𑀆𑀭𑀫𑁆𑀫𑀡𑀧𑀘𑁆𑀘𑀬𑀸 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀢𑀻𑀡𑀺𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Ārammaṇaduka)](../36P1/2/2.5/2.5.3/Arammanaduka.md) / [Go to parent page (Ārammaṇaduka)](../36P1/2/2.5/2.5.3/Arammanaduka.md) / [Go to next page (Adhipatiduka)](../Adhipatiduka.md)
+[Go to previous page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to parent page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to next page (Adhipatiduka)](../Adhipatiduka.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [13 Piṭṭhiduka](../../...md) / [13.11 Kāmāvacaraduka](../...md) / [13.11.3 Paccayavāra](...md) / [13.11.3.1--4 Paccayānulomādi](../38P2/13/13.11/13.11.3/13.11.3.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [13 Piṭṭhiduka](../../../../13.md) / [13.11 Kāmāvacaraduka](../../../13.11.md) / [13.11.3 Paccayavāra](../../13.11.3.md) / [13.11.3.1--4 Paccayānulomādi](../13.11.3.1--4.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -29,6 +29,6 @@
 
 
 
-[Go to previous page (13.11.3.1--4 Paccayānulomādi)](../38P2/13/13.11/13.11.3/13.11.3.1--4.md) / [Go to parent page (13.11.3.1--4 Paccayānulomādi)](../38P2/13/13.11/13.11.3/13.11.3.1--4.md) / [Go to next page (Nahetu)](Nahetu.md)
+[Go to previous page (13.11.3.1--4 Paccayānulomādi)](../13.11.3.1--4.md) / [Go to parent page (13.11.3.1--4 Paccayānulomādi)](../13.11.3.1--4.md) / [Go to next page (Nahetu)](Nahetu.md)
 
 

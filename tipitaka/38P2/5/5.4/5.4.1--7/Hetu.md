@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../...md) / [5 Ganthagocchaka](../...md) / [5.4 Ganthaganthaniyaduka](...md) / [5.4.1--7 Paṭiccādivāra](../38P2/5/5.4/5.4.1--7.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../38P2.md) / [5 Ganthagocchaka](../../../5.md) / [5.4 Ganthaganthaniyaduka](../../5.4.md) / [5.4.1--7 Paṭiccādivāra](../5.4.1--7.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -19,6 +19,6 @@
 
 1844\. 𑀕𑀦𑁆𑀣𑀜𑁆𑀘𑁂𑀯 𑀕𑀦𑁆𑀣𑀦𑀺𑀬𑀜𑁆𑀘 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀕𑀦𑁆𑀣𑁄 𑀘𑁂𑀯 𑀕𑀦𑁆𑀣𑀦𑀺𑀬𑁄 𑀘 𑀕𑀦𑁆𑀣𑀦𑀺𑀬𑁄 𑀘𑁂𑀯 𑀦𑁄 𑀘 𑀕𑀦𑁆𑀣𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀦𑁆𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑁧)
 
-[Go to previous page (5.4.1--7 Paṭiccādivāra)](../38P2/5/5.4/5.4.1--7.md) / [Go to parent page (5.4.1--7 Paṭiccādivāra)](../38P2/5/5.4/5.4.1--7.md) / [Go to next page (5.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../5.4.2--6.md)
+[Go to previous page (5.4.1--7 Paṭiccādivāra)](../5.4.1--7.md) / [Go to parent page (5.4.1--7 Paṭiccādivāra)](../5.4.1--7.md) / [Go to next page (5.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../5.4.2--6.md)
 
 

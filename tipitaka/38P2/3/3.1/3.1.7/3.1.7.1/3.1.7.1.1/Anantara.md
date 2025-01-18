@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [3 Āsavagocchaka](../../../...md) / [3.1 Āsavaduka](../../...md) / [3.1.7 Pañhāvāra](../...md) / [3.1.7.1 Paccayānuloma](...md) / [3.1.7.1.1 Vibhaṅgavāra](../38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [3 Āsavagocchaka](../../../../../3.md) / [3.1 Āsavaduka](../../../../3.1.md) / [3.1.7 Pañhāvāra](../../../3.1.7.md) / [3.1.7.1 Paccayānuloma](../../3.1.7.1.md) / [3.1.7.1.1 Vibhaṅgavāra](../3.1.7.1.1.md)
 
 # 𑀅𑀦𑀦𑁆𑀢𑀭
 
@@ -35,6 +35,6 @@
 
 1036\. 𑀆𑀲𑀯𑁄 𑀘 𑀦𑁄𑀆𑀲𑀯𑁄 𑀘 𑀥𑀫𑁆𑀫𑀸 𑀆𑀲𑀯𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../38P2/3/3.1/3.1.7/3.1.7.1/3.1.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../3.1.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 
 

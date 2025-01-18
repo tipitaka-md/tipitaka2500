@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../...md) / [12 Kilesagocchaka](../../...md) / [12.3 Saṃkiliṭṭhaduka](../...md) / [12.3.5 Saṃsaṭṭhavāra](...md) / [12.3.5.1--4 Paccayānulomādi](../38P2/12/12.3/12.3.5/12.3.5.1--4.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../38P2.md) / [12 Kilesagocchaka](../../../../12.md) / [12.3 Saṃkiliṭṭhaduka](../../../12.3.md) / [12.3.5 Saṃsaṭṭhavāra](../../12.3.5.md) / [12.3.5.1--4 Paccayānulomādi](../12.3.5.1--4.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -41,6 +41,6 @@
 
 
 
-[Go to previous page (12.3.5.1--4 Paccayānulomādi)](../38P2/12/12.3/12.3.5/12.3.5.1--4.md) / [Go to parent page (12.3.5.1--4 Paccayānulomādi)](../38P2/12/12.3/12.3.5/12.3.5.1--4.md) / [Go to next page (12.3.6 Sampayuttavāra)](../../12.3.6.md)
+[Go to previous page (12.3.5.1--4 Paccayānulomādi)](../12.3.5.1--4.md) / [Go to parent page (12.3.5.1--4 Paccayānulomādi)](../12.3.5.1--4.md) / [Go to next page (12.3.6 Sampayuttavāra)](../../12.3.6.md)
 
 

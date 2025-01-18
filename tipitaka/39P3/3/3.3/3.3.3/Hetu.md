@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [3 Cūḷantaraduka, Kusalattika](../...md) / [3.3 Sanidassanaduka, Kusalattika](...md) / [3.3.3 Abyākatapada](../39P3/3/3.3/3.3.3.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [3 Cūḷantaraduka, Kusalattika](../../../3.md) / [3.3 Sanidassanaduka, Kusalattika](../../3.3.md) / [3.3.3 Abyākatapada](../3.3.3.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -23,6 +23,6 @@
 
 1506\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀸 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (3.3.3 Abyākatapada)](../39P3/3/3.3/3.3.3.md) / [Go to parent page (3.3.3 Abyākatapada)](../39P3/3/3.3/3.3.3.md) / [Go to next page (3.3.3.1--6 Paṭiccādivāra)](3.3.3.1--6.md)
+[Go to previous page (3.3.3 Abyākatapada)](../3.3.3.md) / [Go to parent page (3.3.3 Abyākatapada)](../3.3.3.md) / [Go to next page (3.3.3.1--6 Paṭiccādivāra)](3.3.3.1--6.md)
 
 

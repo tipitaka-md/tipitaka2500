@@ -1,5 +1,5 @@
 
-[Home](/) / [18Sn Suttanipātapāḷi](...md) / [5 Pārāyanavagga](../18Sn/5.md)
+[Home](/) / [18Sn Suttanipātapāḷi](../../18Sn.md) / [5 Pārāyanavagga](../5.md)
 
 # 𑀧𑀸𑀭𑀸𑀬𑀦𑀸𑀦𑀼𑀕𑀻𑀢𑀺𑀕𑀸𑀣𑀸
 
@@ -353,6 +353,6 @@ _𑀤𑁂𑀲𑀬𑀺 𑀲𑀼𑀢𑁆𑀢𑀯𑀭𑀁 𑀤𑁆𑀯𑀺𑀧𑀤�
 
 
 
-[Go to previous page (Pārāyanatthutigāthā)](Parayanatthutigatha.md) / [Go to parent page (5 Pārāyanavagga)](../18Sn/5.md)
+[Go to previous page (Pārāyanatthutigāthā)](Parayanatthutigatha.md) / [Go to parent page (5 Pārāyanavagga)](../5.md)
 
 

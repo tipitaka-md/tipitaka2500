@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.5 Saṃsaṭṭhavāra](../...md) / [2.5.2 Paccayapaccanīya](...md) / [2.5.2.1 Vibhaṅgavāra](../36P1/2/2.5/2.5.2/2.5.2.1.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.5 Saṃsaṭṭhavāra](../../../2.5.md) / [2.5.2 Paccayapaccanīya](../../2.5.2.md) / [2.5.2.1 Vibhaṅgavāra](../2.5.2.1.md)
 
 # 𑀦𑀓𑀫𑁆𑀫
 
@@ -21,6 +21,6 @@
 
 720\. 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀥𑀫𑁆𑀫𑀁 𑀲𑀁𑀲𑀝𑁆𑀞𑁄 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸𑁇 𑀓𑀺𑀭𑀺𑀬𑀸𑀩𑁆𑀬𑀸𑀓𑀢𑁂 𑀔𑀦𑁆𑀥𑁂 𑀲𑀁𑀲𑀝𑁆𑀞𑀸 𑀓𑀺𑀭𑀺𑀬𑀸𑀩𑁆𑀬𑀸𑀓𑀢𑀸 𑀘𑁂𑀢𑀦𑀸𑁇 (𑁧)
 
-[Go to previous page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](../36P1/2/2.5/2.5.2/2.5.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
+[Go to previous page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](../2.5.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 
 

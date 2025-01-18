@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../...md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../...md) / [4.1 Kusalattika, Āsavaduka](../...md) / [4.1.1--7 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/4/4.1/4.1.1--7/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [4 Kusalattika, Āsavaparāmāsagocchaka](../../../../4.md) / [4.1 Kusalattika, Āsavaduka](../../../4.1.md) / [4.1.1--7 Paṭiccādivāra](../../4.1.1--7.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -33,6 +33,6 @@
 
 1231\. 𑀅𑀓𑀼𑀲𑀮𑀁 𑀦𑁄𑀆𑀲𑀯𑀜𑁆𑀘 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑀁 𑀦𑁄𑀆𑀲𑀯𑀜𑁆𑀘 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀅𑀩𑁆𑀬𑀸𑀓𑀢𑁄 𑀦𑁄𑀆𑀲𑀯𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑁧)
 
-[Go to previous page (Paccayacatukka)](../39P4/4/4.1/4.1.1--7/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/4/4.1/4.1.1--7/Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 
 

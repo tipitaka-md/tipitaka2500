@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [7 Vitakkattika](../../...md) / [7.7 Pañhāvāra](../...md) / [7.7.1 Paccayānuloma](...md) / [7.7.1.1 Vibhaṅgavāra](../37P1/7/7.7/7.7.1/7.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [7 Vitakkattika](../../../../7.md) / [7.7 Pañhāvāra](../../../7.7.md) / [7.7.1 Paccayānuloma](../../7.7.1.md) / [7.7.1.1 Vibhaṅgavāra](../7.7.1.1.md)
 
 # 𑀲𑀫𑀦𑀦𑁆𑀢𑀭
 
@@ -17,6 +17,6 @@
 
 351\. 𑀲𑀯𑀺𑀢𑀓𑁆𑀓𑀲𑀯𑀺𑀘𑀸𑀭𑁄 𑀥𑀫𑁆𑀫𑁄 𑀲𑀯𑀺𑀢𑀓𑁆𑀓𑀲𑀯𑀺𑀘𑀸𑀭𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁄𑀧𑀺 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁄𑀧𑀺 𑀲𑀤𑀺𑀲𑁄𑁇)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../37P1/7/7.7/7.7.1/7.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 
 

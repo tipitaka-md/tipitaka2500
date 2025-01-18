@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.8 Dassanenapahātabbattika, Hetuduka](../../...md) / [1.8.2 Nahetupada](../...md) / [1.8.2.1--6 Paṭiccādivāra](...md) / [Paccayacatukka](../39P4/1/1.8/1.8.2/1.8.2.1--6/Paccayacatukka.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.8 Dassanenapahātabbattika, Hetuduka](../../../../1.8.md) / [1.8.2 Nahetupada](../../../1.8.2.md) / [1.8.2.1--6 Paṭiccādivāra](../../1.8.2.1--6.md) / [Paccayacatukka](../Paccayacatukka.md)
 
 # 𑀳𑁂𑀢𑀼-𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -37,6 +37,6 @@
 
 414\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (Paccayacatukka)](../39P4/1/1.8/1.8.2/1.8.2.1--6/Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../39P4/1/1.8/1.8.2/1.8.2.1--6/Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇa)](Nahetu-naarammana.md)
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇa)](Nahetu-naarammana.md)
 
 

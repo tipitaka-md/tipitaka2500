@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [2 Kusalattika, Hetugocchaka](../...md) / [2.6 Kusalattika, Nahetusahetukaduka](...md) / [2.6.2 Nahetuahetukapada](../39P4/2/2.6/2.6.2.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [2 Kusalattika, Hetugocchaka](../../../2.md) / [2.6 Kusalattika, Nahetusahetukaduka](../../2.6.md) / [2.6.2 Nahetuahetukapada](../2.6.2.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -35,6 +35,6 @@
 
 
 
-[Go to previous page (2.6.2 Nahetuahetukapada)](../39P4/2/2.6/2.6.2.md) / [Go to parent page (2.6.2 Nahetuahetukapada)](../39P4/2/2.6/2.6.2.md) / [Go to next page (3 Kusalattika, Cūḷantaraduka)](../../../3.md)
+[Go to previous page (2.6.2 Nahetuahetukapada)](../2.6.2.md) / [Go to parent page (2.6.2 Nahetuahetukapada)](../2.6.2.md) / [Go to next page (3 Kusalattika, Cūḷantaraduka)](../../../3.md)
 
 

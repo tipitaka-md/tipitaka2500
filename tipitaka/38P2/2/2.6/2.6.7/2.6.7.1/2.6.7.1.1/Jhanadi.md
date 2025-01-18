@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [2 Cūḷantaraduka](../../../...md) / [2.6 Lokiyaduka](../../...md) / [2.6.7 Pañhāvāra](../...md) / [2.6.7.1 Paccayānuloma](...md) / [2.6.7.1.1 Vibhaṅgavāra](../38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [2 Cūḷantaraduka](../../../../../2.md) / [2.6 Lokiyaduka](../../../../2.6.md) / [2.6.7 Pañhāvāra](../../../2.6.7.md) / [2.6.7.1 Paccayānuloma](../../2.6.7.1.md) / [2.6.7.1.1 Vibhaṅgavāra](../2.6.7.1.1.md)
 
 # 𑀛𑀸𑀦𑀸𑀤𑀺
 
@@ -21,6 +21,6 @@
 
 923\. 𑀮𑁄𑀓𑀺𑀬𑁄 𑀥𑀫𑁆𑀫𑁄 𑀮𑁄𑀓𑀺𑀬𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀏𑀓𑀁, 𑀮𑁄𑀓𑀼𑀢𑁆𑀢𑀭𑁄 𑀥𑀫𑁆𑀫𑁄…𑀧𑁂…  𑀏𑀓𑀁𑁇
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../38P2/2/2.6/2.6.7/2.6.7.1/2.6.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 
 

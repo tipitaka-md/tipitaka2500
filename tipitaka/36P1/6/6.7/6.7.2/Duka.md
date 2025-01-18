@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../...md) / [6 Saṃkiliṭṭhattika](../...md) / [6.7 Pañhāvāra](...md) / [6.7.2 Paccayapaccanīya](../36P1/6/6.7/6.7.2.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../36P1.md) / [6 Saṃkiliṭṭhattika](../../../6.md) / [6.7 Pañhāvāra](../../6.7.md) / [6.7.2 Paccayapaccanīya](../6.7.2.md)
 
 # 𑀤𑀼𑀓
 
@@ -22,6 +22,6 @@
 
 
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (6.7.2 Paccayapaccanīya)](../36P1/6/6.7/6.7.2.md) / [Go to next page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md)
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (6.7.2 Paccayapaccanīya)](../6.7.2.md) / [Go to next page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md)
 
 

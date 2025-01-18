@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [3 Vedanāttika](../../...md) / [3.7 Pañhāvāra](../...md) / [3.7.4 Paccayapaccanīyānuloma](...md) / [Nahetuduka](../36P1/3/3.7/3.7.4/Nahetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [3 Vedanāttika](../../../../3.md) / [3.7 Pañhāvāra](../../../3.7.md) / [3.7.4 Paccayapaccanīyānuloma](../../3.7.4.md) / [Nahetuduka](../Nahetuduka.md)
 
 # 𑀘𑀢𑀼𑀯𑀻𑀲𑀓 (𑀲𑀓𑀫𑁆𑀫)
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (Catuvīsaka (saupanissaya))](Catuvisaka_saupanissaya.md) / [Go to parent page (Nahetuduka)](../36P1/3/3.7/3.7.4/Nahetuduka.md) / [Go to next page (Naārammaṇaduka)](../Naarammanaduka.md)
+[Go to previous page (Catuvīsaka (saupanissaya))](Catuvisaka_saupanissaya.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naārammaṇaduka)](../Naarammanaduka.md)
 
 

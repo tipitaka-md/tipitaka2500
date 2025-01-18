@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [1 Tika, Hetuduka](../...md) / [1.18 Atītattika, Hetuduka](...md) / [1.18.2 Nahetupada](../39P4/1/1.18/1.18.2.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [1 Tika, Hetuduka](../../../1.md) / [1.18 Atītattika, Hetuduka](../../1.18.md) / [1.18.2 Nahetupada](../1.18.2.md)
 
 # 𑀆𑀭𑀫𑁆𑀫𑀡
 
@@ -29,6 +29,6 @@
 
 813\. 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (1.18.2 Nahetupada)](../39P4/1/1.18/1.18.2.md) / [Go to parent page (1.18.2 Nahetupada)](../39P4/1/1.18/1.18.2.md) / [Go to next page (1.19 Atītārammaṇattika, Hetuduka)](../../1.19.md)
+[Go to previous page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to parent page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to next page (1.19 Atītārammaṇattika, Hetuduka)](../../1.19.md)
 
 

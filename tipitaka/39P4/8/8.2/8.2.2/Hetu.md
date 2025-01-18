@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [8 Tika, Saraṇaduka](../...md) / [8.2 Vedanāttika, Saraṇaduka](...md) / [8.2.2 Araṇapada](../39P4/8/8.2/8.2.2.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [8 Tika, Saraṇaduka](../../../8.md) / [8.2 Vedanāttika, Saraṇaduka](../../8.2.md) / [8.2.2 Araṇapada](../8.2.2.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -33,6 +33,6 @@
 
 1724\. (𑀬𑀣𑀸 𑀓𑀼𑀲𑀮𑀢𑁆𑀢𑀺𑀓𑁂 𑀧𑀜𑁆𑀳𑀸𑀯𑀸𑀭𑀁, 𑀏𑀯𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (8.2.2 Araṇapada)](../39P4/8/8.2/8.2.2.md) / [Go to parent page (8.2.2 Araṇapada)](../39P4/8/8.2/8.2.2.md) / [Go to next page (8.3 Vipākattika, Saraṇaduka)](../../8.3.md)
+[Go to previous page (8.2.2 Araṇapada)](../8.2.2.md) / [Go to parent page (8.2.2 Araṇapada)](../8.2.2.md) / [Go to next page (8.3 Vipākattika, Saraṇaduka)](../../8.3.md)
 
 

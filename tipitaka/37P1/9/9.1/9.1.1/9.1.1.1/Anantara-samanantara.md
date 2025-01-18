@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [9 Dassanenapahātabbattika](../../...md) / [9.1 Paṭiccavāra](../...md) / [9.1.1 Paccayānuloma](...md) / [9.1.1.1 Vibhaṅgavāra](../37P1/9/9.1/9.1.1/9.1.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [9 Dassanenapahātabbattika](../../../../9.md) / [9.1 Paṭiccavāra](../../../9.1.md) / [9.1.1 Paccayānuloma](../../9.1.1.md) / [9.1.1.1 Vibhaṅgavāra](../9.1.1.1.md)
 
 # 𑀅𑀦𑀦𑁆𑀢𑀭-𑀲𑀫𑀦𑀦𑁆𑀢𑀭
 
@@ -17,6 +17,6 @@
 
 807\. 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑀁 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀤𑀲𑁆𑀲𑀦𑁂𑀦 𑀧𑀳𑀸𑀢𑀩𑁆𑀩𑁄 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀅𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸…  𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑀸𑁇 (𑀆𑀭𑀫𑁆𑀫𑀡𑀲𑀤𑀺𑀲𑀁𑁇)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../37P1/9/9.1/9.1.1/9.1.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 
 

@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../...md) / [5 Saññojanagocchaka, Kusalattika](../...md) / [5.2 Saññojaniyaduka, Kusalattika](...md) / [5.2.2 Abyākatapada](../39P3/5/5.2/5.2.2.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../39P3.md) / [5 Saññojanagocchaka, Kusalattika](../../../5.md) / [5.2 Saññojaniyaduka, Kusalattika](../../5.2.md) / [5.2.2 Abyākatapada](../5.2.2.md)
 
 # 𑀳𑁂𑀢𑀼
 
@@ -25,6 +25,6 @@
 
 1731\. 𑀘𑀽𑀍𑀅𑀦𑁆𑀢𑀭𑀤𑀼𑀓𑁂 𑀮𑁄𑀓𑀺𑀬𑀤𑀼𑀓𑀲𑀤𑀺𑀲𑀁𑁇 (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁄𑀧𑀺…𑀧𑁂…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (5.2.2 Abyākatapada)](../39P3/5/5.2/5.2.2.md) / [Go to parent page (5.2.2 Abyākatapada)](../39P3/5/5.2/5.2.2.md) / [Go to next page (5.2.2.1--6 Paṭiccādivāra)](5.2.2.1--6.md)
+[Go to previous page (5.2.2 Abyākatapada)](../5.2.2.md) / [Go to parent page (5.2.2 Abyākatapada)](../5.2.2.md) / [Go to next page (5.2.2.1--6 Paṭiccādivāra)](5.2.2.1--6.md)
 
 

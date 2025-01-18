@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [12 Kilesagocchaka](../../../...md) / [12.1 Kilesaduka](../../...md) / [12.1.7 Pañhāvāra](../...md) / [12.1.7.1 Paccayānuloma](...md) / [12.1.7.1.1 Vibhaṅgavāra](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.7 Pañhāvāra](../../../12.1.7.md) / [12.1.7.1 Paccayānuloma](../../12.1.7.1.md) / [12.1.7.1.1 Vibhaṅgavāra](../12.1.7.1.1.md)
 
 # 𑀅𑀦𑀦𑁆𑀢𑀭𑀸𑀤𑀺
 
@@ -29,6 +29,6 @@
 
 3871\. 𑀲𑀫𑀦𑀦𑁆𑀢𑀭𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄, 𑀲𑀳𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄, 𑀅𑀜𑁆𑀜𑀫𑀜𑁆𑀜𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄, 𑀦𑀺𑀲𑁆𑀲𑀬𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 
 

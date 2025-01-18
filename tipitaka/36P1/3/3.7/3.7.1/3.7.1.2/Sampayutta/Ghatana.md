@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../...md) / [3 Vedanāttika](../../../...md) / [3.7 Pañhāvāra](../../...md) / [3.7.1 Paccayānuloma](../...md) / [3.7.1.2 Saṅkhyāvāra](...md) / [Sampayutta](../36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../../36P1.md) / [3 Vedanāttika](../../../../../3.md) / [3.7 Pañhāvāra](../../../../3.7.md) / [3.7.1 Paccayānuloma](../../../3.7.1.md) / [3.7.1.2 Saṅkhyāvāra](../../3.7.1.2.md) / [Sampayutta](../Sampayutta.md)
 
 # 𑀖𑀝𑀦𑀸
 
@@ -25,6 +25,6 @@
 
 
 
-[Go to previous page (Sampayuttasabhāga)](Sampayuttasabhaga.md) / [Go to parent page (Sampayutta)](../36P1/3/3.7/3.7.1/3.7.1.2/Sampayutta.md) / [Go to next page (Paccanīyuddhāra)](../../../Paccaniyuddhara.md)
+[Go to previous page (Sampayuttasabhāga)](Sampayuttasabhaga.md) / [Go to parent page (Sampayutta)](../Sampayutta.md) / [Go to next page (Paccanīyuddhāra)](../../../Paccaniyuddhara.md)
 
 

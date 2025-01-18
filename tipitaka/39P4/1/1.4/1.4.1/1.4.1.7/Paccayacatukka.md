@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../...md) / [1 Tika, Hetuduka](../../...md) / [1.4 Upādinnattika, Hetuduka](../...md) / [1.4.1 Hetupada](...md) / [1.4.1.7 Pañhāvāra](../39P4/1/1.4/1.4.1/1.4.1.7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../1.md) / [1.4 Upādinnattika, Hetuduka](../../../1.4.md) / [1.4.1 Hetupada](../../1.4.1.md) / [1.4.1.7 Pañhāvāra](../1.4.1.7.md)
 
 # 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
@@ -119,6 +119,6 @@
 
 * [Anantara-upanissaya](Paccayacatukka/Anantara-upanissaya.md)
 
-[Go to previous page (1.4.1.7 Pañhāvāra)](../39P4/1/1.4/1.4.1/1.4.1.7.md) / [Go to parent page (1.4.1.7 Pañhāvāra)](../39P4/1/1.4/1.4.1/1.4.1.7.md) / [Go to next page (Anantara-upanissaya)](Paccayacatukka/Anantara-upanissaya.md)
+[Go to previous page (1.4.1.7 Pañhāvāra)](../1.4.1.7.md) / [Go to parent page (1.4.1.7 Pañhāvāra)](../1.4.1.7.md) / [Go to next page (Anantara-upanissaya)](Paccayacatukka/Anantara-upanissaya.md)
 
 

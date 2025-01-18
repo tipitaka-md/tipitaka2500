@@ -1,5 +1,5 @@
 
-[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [16 Micchattaniyatattika](../../...md) / [16.7 Pañhāvāra](../...md) / [16.7.1 Paccayānuloma](...md) / [16.7.1.1 Vibhaṅgavāra](../37P1/16/16.7/16.7.1/16.7.1.1.md)
+[Home](/) / [37P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../37P1.md) / [16 Micchattaniyatattika](../../../../16.md) / [16.7 Pañhāvāra](../../../16.7.md) / [16.7.1 Paccayānuloma](../../16.7.1.md) / [16.7.1.1 Vibhaṅgavāra](../16.7.1.1.md)
 
 # 𑀧𑀼𑀭𑁂𑀚𑀸𑀢
 
@@ -21,6 +21,6 @@
 
 2377\. 𑀅𑀦𑀺𑀬𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀲𑀫𑁆𑀫𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 **𑀯𑀢𑁆𑀣𑀼𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀁**—  𑀯𑀢𑁆𑀣𑀼 𑀲𑀫𑁆𑀫𑀢𑁆𑀢𑀦𑀺𑀬𑀢𑀸𑀦𑀁 𑀔𑀦𑁆𑀥𑀸𑀦𑀁 𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇 (𑁩)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../37P1/16/16.7/16.7.1/16.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 
 

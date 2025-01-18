@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [12 Kilesagocchaka](../../../...md) / [12.1 Kilesaduka](../../...md) / [12.1.7 Pañhāvāra](../...md) / [12.1.7.1 Paccayānuloma](...md) / [12.1.7.1.1 Vibhaṅgavāra](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [12 Kilesagocchaka](../../../../../12.md) / [12.1 Kilesaduka](../../../../12.1.md) / [12.1.7 Pañhāvāra](../../../12.1.7.md) / [12.1.7.1 Paccayānuloma](../../12.1.7.1.md) / [12.1.7.1.1 Vibhaṅgavāra](../12.1.7.1.1.md)
 
 # 𑀅𑀢𑁆𑀣𑁆𑀬𑀸𑀤𑀺
 
@@ -39,6 +39,6 @@
 
 3901\. 𑀦𑀢𑁆𑀣𑀺𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀅𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄𑁇
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../38P2/12/12.1/12.1.7/12.1.7.1/12.1.7.1.1.md) / [Go to next page (12.1.7.1.2 Saṅkhyāvāra)](../12.1.7.1.2.md)
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (12.1.7.1.2 Saṅkhyāvāra)](../12.1.7.1.2.md)
 
 

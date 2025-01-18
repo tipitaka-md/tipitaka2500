@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.1 Paṭiccavāra](../...md) / [2.1.4 Paccayapaccanīyānuloma](...md) / [Nonatthi-novigataduka](../36P1/2/2.1/2.1.4/Nonatthi-novigataduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.4 Paccayapaccanīyānuloma](../../2.1.4.md) / [Nonatthi-novigataduka](../Nonatthi-novigataduka.md)
 
 # 𑀧𑀦𑁆𑀦𑀭𑀲𑀓
 
@@ -15,6 +15,6 @@
 
 399\. 𑀦𑁄𑀯𑀺𑀕𑀢𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀳𑁂𑀢𑀼𑀧𑀘𑁆𑀘𑀬𑀸…𑀧𑁂…  𑀦𑀓𑀫𑁆𑀫𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀯𑀺𑀧𑀸𑀓𑀧𑀘𑁆𑀘𑀬𑀸 𑀦𑀆𑀳𑀸𑀭𑀧𑀘𑁆𑀘𑀬𑀸 𑀲𑀳𑀚𑀸𑀢𑁂 𑀏𑀓𑀁, 𑀦𑀺𑀲𑁆𑀲𑀬𑁂 𑀏𑀓𑀁, 𑀅𑀢𑁆𑀣𑀺𑀬𑀸 𑀏𑀓𑀁, 𑀅𑀯𑀺𑀕𑀢𑁂 𑀏𑀓𑀁…𑀧𑁂… 𑁇
 
-[Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Nonatthi-novigataduka)](../36P1/2/2.1/2.1.4/Nonatthi-novigataduka.md) / [Go to next page (Ekavīsaka)](Ekavisaka.md)
+[Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to next page (Ekavīsaka)](Ekavisaka.md)
 
 

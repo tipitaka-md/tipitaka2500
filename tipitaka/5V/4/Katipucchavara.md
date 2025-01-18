@@ -1,5 +1,5 @@
 
-[Home](/) / [5V Parivārapāḷi](...md) / [4 Antarapeyyāla](../5V/4.md)
+[Home](/) / [5V Parivārapāḷi](../../5V.md) / [4 Antarapeyyāla](../4.md)
 
 # 𑀓𑀢𑀺𑀧𑀼𑀘𑁆𑀙𑀸𑀯𑀸𑀭
 
@@ -95,6 +95,6 @@ _𑀲𑀢𑁆𑀢𑁂𑀯 𑀲𑀫𑀣𑀸 𑀯𑀼𑀢𑁆𑀢𑀸,_
 _𑀧𑀤𑀸 𑀲𑀢𑁆𑀢𑀭𑀲𑀸 𑀇𑀫𑁂𑀢𑀺𑁇_  
 
 
-[Go to previous page (4 Antarapeyyāla)](../5V/4.md) / [Go to parent page (4 Antarapeyyāla)](../5V/4.md) / [Go to next page (4.1 Chaāpattisamuṭṭhānavāra)](4.1.md)
+[Go to previous page (4 Antarapeyyāla)](../4.md) / [Go to parent page (4 Antarapeyyāla)](../4.md) / [Go to next page (4.1 Chaāpattisamuṭṭhānavāra)](4.1.md)
 
 

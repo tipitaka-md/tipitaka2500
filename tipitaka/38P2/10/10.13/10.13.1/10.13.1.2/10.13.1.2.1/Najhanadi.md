@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.13 Upādāduka](../../...md) / [10.13.1 Paṭiccavāra](../...md) / [10.13.1.2 Paccayapaccanīya](...md) / [10.13.1.2.1 Vibhaṅgavāra](../38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.13 Upādāduka](../../../../10.13.md) / [10.13.1 Paṭiccavāra](../../../10.13.1.md) / [10.13.1.2 Paccayapaccanīya](../../10.13.1.2.md) / [10.13.1.2.1 Vibhaṅgavāra](../10.13.1.2.1.md)
 
 # 𑀦𑀛𑀸𑀦𑀸𑀤𑀺
 
@@ -25,6 +25,6 @@
 
 3278\. 𑀉𑀧𑀸𑀤𑀸 𑀥𑀫𑁆𑀫𑀁 𑀧𑀝𑀺𑀘𑁆𑀘 𑀦𑁄𑀉𑀧𑀸𑀤𑀸 𑀥𑀫𑁆𑀫𑁄 𑀉𑀧𑁆𑀧𑀚𑁆𑀚𑀢𑀺 𑀦𑀫𑀕𑁆𑀕𑀧𑀘𑁆𑀘𑀬𑀸 𑀧𑀜𑁆𑀘…  𑀦𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀧𑀘𑁆𑀘𑀬𑀸…  𑀢𑀻𑀡𑀺𑁇
 
-[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../38P2/10/10.13/10.13.1/10.13.1.2/10.13.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
+[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
 
 

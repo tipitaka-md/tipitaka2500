@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.2 Cittaduka](../../...md) / [10.2.7 Pañhāvāra](../...md) / [10.2.7.1 Paccayānuloma](...md) / [10.2.7.1.1 Vibhaṅgavāra](../38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.2 Cittaduka](../../../../10.2.md) / [10.2.7 Pañhāvāra](../../../10.2.7.md) / [10.2.7.1 Paccayānuloma](../../10.2.7.1.md) / [10.2.7.1.1 Vibhaṅgavāra](../10.2.7.1.1.md)
 
 # 𑀧𑀘𑁆𑀙𑀸𑀚𑀸𑀢𑀸𑀲𑁂𑀯𑀦
 
@@ -25,6 +25,6 @@
 
 2513\. 𑀘𑀺𑀢𑁆𑀢𑁄 𑀥𑀫𑁆𑀫𑁄 𑀘𑀺𑀢𑁆𑀢𑀲𑁆𑀲 𑀥𑀫𑁆𑀫𑀲𑁆𑀲 𑀆𑀲𑁂𑀯𑀦𑀧𑀘𑁆𑀘𑀬𑁂𑀦 𑀧𑀘𑁆𑀘𑀬𑁄…  𑀦𑀯𑁇
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (10.2.7.1.1 Vibhaṅgavāra)](../38P2/10/10.2/10.2.7/10.2.7.1/10.2.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (10.2.7.1.1 Vibhaṅgavāra)](../10.2.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 
 

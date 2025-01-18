@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.1 Paṭiccavāra](../...md) / [2.1.3 Paccayānulomapaccanīya](...md) / [Hetuduka](../36P1/2/2.1/2.1.3/Hetuduka.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.1 Paṭiccavāra](../../../2.1.md) / [2.1.3 Paccayānulomapaccanīya](../../2.1.3.md) / [Hetuduka](../Hetuduka.md)
 
 # 𑀢𑁂𑀯𑀻𑀲𑀓 (𑀲𑀯𑀺𑀧𑀸𑀓)
 
@@ -21,6 +21,6 @@
 
 
 
-[Go to previous page (Terasaka (savipāka))](erasaka_savipaka.md) / [Go to parent page (Hetuduka)](../36P1/2/2.1/2.1.3/Hetuduka.md) / [Go to next page (Ārammaṇaduka)](../Arammanaduka.md)
+[Go to previous page (Terasaka (savipāka))](erasaka_savipaka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Ārammaṇaduka)](../Arammanaduka.md)
 
 

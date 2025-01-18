@@ -1,5 +1,5 @@
 
-[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../...md) / [2 Kusalattika](../../...md) / [2.7 Pañhāvāra](../...md) / [2.7.3 Paccayānulomapaccanīya](...md) / [Adhipati](../36P1/2/2.7/2.7.3/Adhipati.md)
+[Home](/) / [36P1 Dhammānuloma (1), Tikapaṭṭhānapāḷi (1)](../../../../../36P1.md) / [2 Kusalattika](../../../../2.md) / [2.7 Pañhāvāra](../../../2.7.md) / [2.7.3 Paccayānulomapaccanīya](../../2.7.3.md) / [Adhipati](../Adhipati.md)
 
 # 𑀯𑀻𑀫𑀁𑀲𑀸𑀥𑀺𑀧𑀢𑀺𑀖𑀝𑀦𑀸
 
@@ -33,6 +33,6 @@
 
 
 
-[Go to previous page (Vīriyādhipatighaṭanā)](Viriyadhipatighatana.md) / [Go to parent page (Adhipati)](../36P1/2/2.7/2.7.3/Adhipati.md) / [Go to next page (Anantara)](../Anantara.md)
+[Go to previous page (Vīriyādhipatighaṭanā)](Viriyadhipatighatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Anantara)](../Anantara.md)
 
 

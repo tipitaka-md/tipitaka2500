@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../...md) / [3 Kusalattika, Cūḷantaraduka](../...md) / [3.1 Kusalattika, Sappaccayaduka](...md) / [3.1.1--7 Paṭiccādivāra](../39P4/3/3.1/3.1.1--7.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../39P4.md) / [3 Kusalattika, Cūḷantaraduka](../../../3.md) / [3.1 Kusalattika, Sappaccayaduka](../../3.1.md) / [3.1.1--7 Paṭiccādivāra](../3.1.1--7.md)
 
 # 𑀧𑀘𑁆𑀘𑀬𑀘𑀢𑀼𑀓𑁆𑀓
 
@@ -35,6 +35,6 @@
 
 1099\. 𑀳𑁂𑀢𑀼𑀬𑀸 𑀦𑀯, 𑀆𑀭𑀫𑁆𑀫𑀡𑁂 𑀢𑀻𑀡𑀺, 𑀅𑀥𑀺𑀧𑀢𑀺𑀬𑀸 𑀦𑀯…𑀧𑁂…  𑀯𑀺𑀧𑀸𑀓𑁂 𑀏𑀓𑀁…𑀧𑁂…  𑀅𑀯𑀺𑀕𑀢𑁂 𑀦𑀯𑁇 (𑀲𑀁𑀔𑀺𑀢𑁆𑀢𑀁𑁇)
 
-[Go to previous page (3.1.1--7 Paṭiccādivāra)](../39P4/3/3.1/3.1.1--7.md) / [Go to parent page (3.1.1--7 Paṭiccādivāra)](../39P4/3/3.1/3.1.1--7.md) / [Go to next page (Paccanīya)](Paccaniya.md)
+[Go to previous page (3.1.1--7 Paṭiccādivāra)](../3.1.1--7.md) / [Go to parent page (3.1.1--7 Paṭiccādivāra)](../3.1.1--7.md) / [Go to next page (Paccanīya)](Paccaniya.md)
 
 

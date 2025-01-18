@@ -1,5 +1,5 @@
 
-[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../...md) / [10 Mahantaraduka](../../../...md) / [10.2 Cittaduka](../../...md) / [10.2.1 Paṭiccavāra](../...md) / [10.2.1.2 Paccayapaccanīya](...md) / [10.2.1.2.1 Vibhaṅgavāra](../38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md)
+[Home](/) / [38P2 Dhammānuloma (1), Dukapaṭṭhānapāḷi (2)](../../../../../../38P2.md) / [10 Mahantaraduka](../../../../../10.md) / [10.2 Cittaduka](../../../../10.2.md) / [10.2.1 Paṭiccavāra](../../../10.2.1.md) / [10.2.1.2 Paccayapaccanīya](../../10.2.1.2.md) / [10.2.1.2.1 Vibhaṅgavāra](../10.2.1.2.1.md)
 
 # 𑀦𑀧𑀼𑀭𑁂𑀚𑀸𑀢𑀸𑀤𑀺
 
@@ -33,6 +33,6 @@
 
 
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../38P2/10/10.2/10.2.1/10.2.1.2/10.2.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 
 

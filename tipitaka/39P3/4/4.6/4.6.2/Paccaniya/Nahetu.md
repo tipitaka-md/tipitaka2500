@@ -1,5 +1,5 @@
 
-[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../...md) / [4 Āsavagocchaka, Kusalattika](../../...md) / [4.6 Āsavavippayuttasāsavaduka, Kusalattika](../...md) / [4.6.2 Abyākatapada](...md) / [Paccanīya](../39P3/4/4.6/4.6.2/Paccaniya.md)
+[Home](/) / [39P3 Dhammānuloma (1), Dukatikapaṭṭhānapāḷi (3)](../../../../../39P3.md) / [4 Āsavagocchaka, Kusalattika](../../../../4.md) / [4.6 Āsavavippayuttasāsavaduka, Kusalattika](../../../4.6.md) / [4.6.2 Abyākatapada](../../4.6.2.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀦𑀳𑁂𑀢𑀼
 
@@ -23,6 +23,6 @@
 
 1691\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀘𑁆𑀘𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀦𑀺𑀲𑁆𑀲𑀬𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀁𑀲𑀝𑁆𑀞𑀯𑀸𑀭𑁄𑀧𑀺 𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑁄𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀸 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀸𑁇)
 
-[Go to previous page (Paccanīya)](../39P3/4/4.6/4.6.2/Paccaniya.md) / [Go to parent page (Paccanīya)](../39P3/4/4.6/4.6.2/Paccaniya.md) / [Go to next page (4.6.2.1--6 Paṭiccādivāra)](../4.6.2.1--6.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (4.6.2.1--6 Paṭiccādivāra)](../4.6.2.1--6.md)
 
 

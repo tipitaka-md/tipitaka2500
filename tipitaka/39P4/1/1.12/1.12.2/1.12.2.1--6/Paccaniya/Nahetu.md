@@ -1,5 +1,5 @@
 
-[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../...md) / [1 Tika, Hetuduka](../../../...md) / [1.12 Parittattika, Hetuduka](../../...md) / [1.12.2 Nahetupada](../...md) / [1.12.2.1--6 Paṭiccādivāra](...md) / [Paccanīya](../39P4/1/1.12/1.12.2/1.12.2.1--6/Paccaniya.md)
+[Home](/) / [39P4 Dhammānuloma (1), Tikadukapaṭṭhānapāḷi (4)](../../../../../../39P4.md) / [1 Tika, Hetuduka](../../../../../1.md) / [1.12 Parittattika, Hetuduka](../../../../1.12.md) / [1.12.2 Nahetupada](../../../1.12.2.md) / [1.12.2.1--6 Paṭiccādivāra](../../1.12.2.1--6.md) / [Paccanīya](../Paccaniya.md)
 
 # 𑀦𑀳𑁂𑀢𑀼
 
@@ -27,6 +27,6 @@
 
 601\. (𑀲𑀳𑀚𑀸𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺…𑀧𑁂…  𑀲𑀫𑁆𑀧𑀬𑀼𑀢𑁆𑀢𑀯𑀸𑀭𑀫𑁆𑀧𑀺 𑀧𑀝𑀺𑀘𑁆𑀘𑀯𑀸𑀭𑀲𑀤𑀺𑀲𑀁 𑀯𑀺𑀢𑁆𑀣𑀸𑀭𑁂𑀢𑀩𑁆𑀩𑀁𑁇)
 
-[Go to previous page (Paccanīya)](../39P4/1/1.12/1.12.2/1.12.2.1--6/Paccaniya.md) / [Go to parent page (Paccanīya)](../39P4/1/1.12/1.12.2/1.12.2.1--6/Paccaniya.md) / [Go to next page (1.12.2.7 Pañhāvāra)](../../1.12.2.7.md)
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.12.2.7 Pañhāvāra)](../../1.12.2.7.md)
 
 
