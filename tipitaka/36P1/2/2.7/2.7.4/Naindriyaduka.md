@@ -15,7 +15,6 @@
 
 1754\. Naindriyapaccayā hetuyā satta, ārammaṇe nava…pe…  avigate terasa…pe… . (Naindriyapaccayā kamme satta pañhā.)
 
-* [Bāvīsaka](Naindriyaduka/Bavisaka.md)
 
 [Go to previous page (Bāvīsaka)](Naaharaduka/Bavisaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Bāvīsaka)](Naindriyaduka/Bavisaka.md)
 

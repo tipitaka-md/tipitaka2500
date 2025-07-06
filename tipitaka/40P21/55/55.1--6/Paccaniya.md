@@ -3,7 +3,6 @@
 
 # Paccanīya
 
-* [Nahetu-naārammaṇa](Paccaniya/Nahetu-naarammana.md)
 
 [Go to previous page (55.1--6 Paṭiccādivāra)](../55.1--6.md) / [Go to parent page (55.1--6 Paṭiccādivāra)](../55.1--6.md) / [Go to next page (Nahetu-naārammaṇa)](Paccaniya/Nahetu-naarammana.md)
 

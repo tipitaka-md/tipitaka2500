@@ -3,9 +3,6 @@
 
 # Paccayacatukka
 
-* [Ārammaṇa](Paccayacatukka/Arammana.md)
-* [Adhipati](Paccayacatukka/Adhipati.md)
-* [Anantarādi](Paccayacatukka/Anantaradi.md)
 
 [Go to previous page (1.6.2.7 Pañhāvāra)](../1.6.2.7.md) / [Go to parent page (1.6.2.7 Pañhāvāra)](../1.6.2.7.md) / [Go to next page (Ārammaṇa)](Paccayacatukka/Arammana.md)
 

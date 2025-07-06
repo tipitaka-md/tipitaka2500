@@ -3,9 +3,6 @@
 
 # Kamma
 
-* [Kammasabhāga](Kamma/Kammasabhaga.md)
-* [Pakiṇṇakaghaṭanā](Kamma/Pakinnakaghatana.md)
-* [Sahajātaghaṭanā](Kamma/Sahajataghatana.md)
 
 [Go to previous page (Ghaṭanā)](Asevana/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Kammasabhāga)](Kamma/Kammasabhaga.md)
 

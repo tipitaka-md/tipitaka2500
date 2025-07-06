@@ -3,7 +3,6 @@
 
 # Paccanīya
 
-* [Nahetu](Paccaniya/Nahetu.md)
 
 [Go to previous page (Paccayacatukka)](Paccayacatukka.md) / [Go to parent page (1.4.2.1--7 Paṭiccādivāra)](../1.4.2.1--7.md) / [Go to next page (Nahetu)](Paccaniya/Nahetu.md)
 

@@ -15,7 +15,6 @@
 
 770\. Kammapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
 
-* [Tika](Kammaduka/Tika.md)
 
 [Go to previous page (Tika)](Asevanaduka/Tika.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Tika)](Kammaduka/Tika.md)
 

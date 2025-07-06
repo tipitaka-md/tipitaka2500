@@ -3,8 +3,6 @@
 
 # Upanissaya
 
-* [Upanissayasabhāga](Upanissaya/Upanissayasabhaga.md)
-* [Upanissayaghaṭanā](Upanissaya/Upanissayaghatana.md)
 
 [Go to previous page (Sahajātaghaṭanā)](Nissaya/Sahajataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Upanissayasabhāga)](Upanissaya/Upanissayasabhaga.md)
 

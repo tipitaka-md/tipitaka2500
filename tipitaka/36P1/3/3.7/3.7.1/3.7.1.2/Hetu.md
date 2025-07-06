@@ -3,11 +3,6 @@
 
 # Hetu
 
-* [Suddha](Hetu/Suddha.md)
-* [Hetusabhāga](Hetu/Hetusabhaga.md)
-* [Sāmaññaghaṭanā](Hetu/Samannaghatana.md)
-* [Saindriya-maggaghaṭanā](Hetu/Saindriya-maggaghatana.md)
-* [Sādhipati-indriya-maggaghaṭanā](Hetu/Sadhipati-indriya-maggaghatana.md)
 
 [Go to previous page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Suddha)](Hetu/Suddha.md)
 

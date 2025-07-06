@@ -3,8 +3,6 @@
 
 # Sampayutta
 
-* [Sampayuttasabhāga](Sampayutta/Sampayuttasabhaga.md)
-* [Sampayuttaghaṭanā](Sampayutta/Sampayuttaghatana.md)
 
 [Go to previous page (Sahetādhipati-indriyaghaṭanā)](Magga/Sahetadhipati-indriyaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Sampayuttasabhāga)](Sampayutta/Sampayuttasabhaga.md)
 

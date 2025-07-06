@@ -77,7 +77,6 @@
 
 572\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
 
-* [Hetu-ārammaṇādi](Paccayacatukka/Hetu-arammanadi.md)
 
 [Go to previous page (1.12.1.1--7 Paṭiccādivāra)](../1.12.1.1--7.md) / [Go to parent page (1.12.1.1--7 Paṭiccādivāra)](../1.12.1.1--7.md) / [Go to next page (Hetu-ārammaṇādi)](Paccayacatukka/Hetu-arammanadi.md)
 

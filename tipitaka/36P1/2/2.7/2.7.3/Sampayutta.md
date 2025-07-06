@@ -3,8 +3,6 @@
 
 # Sampayutta
 
-* [Sampayuttaduka](Sampayutta/Sampayuttaduka.md)
-* [Sampayuttaghaṭanā](Sampayutta/Sampayuttaghatana.md)
 
 [Go to previous page (Sahetādhipati-indriyaghaṭanā)](Magga/Sahetadhipati-indriyaghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Sampayuttaduka)](Sampayutta/Sampayuttaduka.md)
 

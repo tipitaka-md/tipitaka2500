@@ -79,7 +79,6 @@
 
 147\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava, anantare pañca, samanantare pañca, sahajāte terasa, aññamaññe satta, nissaye terasa, upanissaye pañca, purejāte tīṇi, āsevane dve, kamme terasa, vipāke nava, āhāre terasa…pe…  sampayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
 
-* [Nahetu-naārammaṇa](Paccayacatukka/Nahetu-naarammana.md)
 
 [Go to previous page (1.3.2.1--6 Paṭiccādivāra)](../1.3.2.1--6.md) / [Go to parent page (1.3.2.1--6 Paṭiccādivāra)](../1.3.2.1--6.md) / [Go to next page (Nahetu-naārammaṇa)](Paccayacatukka/Nahetu-naarammana.md)
 

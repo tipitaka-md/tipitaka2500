@@ -3,8 +3,6 @@
 
 # Purejāta
 
-* [Purejātasabhāga](Purejata/Purejatasabhaga.md)
-* [Purejātaghaṭanā](Purejata/Purejataghatana.md)
 
 [Go to previous page (Upanissayaghaṭanā)](Upanissaya/Upanissayaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Purejātasabhāga)](Purejata/Purejatasabhaga.md)
 

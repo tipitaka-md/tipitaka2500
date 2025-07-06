@@ -3,8 +3,6 @@
 
 # Sampayutta
 
-* [Sampayuttasabhāga](Sampayutta/Sampayuttasabhaga.md)
-* [Ghaṭanā](Sampayutta/Ghatana.md)
 
 [Go to previous page (Ghaṭanā)](Magga/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Sampayuttasabhāga)](Sampayutta/Sampayuttasabhaga.md)
 

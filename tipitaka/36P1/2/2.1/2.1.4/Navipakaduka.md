@@ -15,8 +15,6 @@
 
 382\. Navipākapaccayā hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
 
-* [Tika](Navipakaduka/Tika.md)
-* [Catukka](Navipakaduka/Catukka.md)
 
 [Go to previous page (Catukka)](Nakammaduka/Catukka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Navipakaduka/Tika.md)
 

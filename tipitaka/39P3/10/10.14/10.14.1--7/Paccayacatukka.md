@@ -3,8 +3,6 @@
 
 # Paccayacatukka
 
-* [Hetu](Paccayacatukka/Hetu.md)
-* [Hetu-purejāta](Paccayacatukka/Hetu-purejata.md)
 
 [Go to previous page (10.14.1--7 Paṭiccādivāra)](../10.14.1--7.md) / [Go to parent page (10.14.1--7 Paṭiccādivāra)](../10.14.1--7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
 

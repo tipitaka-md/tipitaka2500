@@ -3,7 +3,6 @@
 
 # Paccanīya
 
-* [Nahetu](Paccaniya/Nahetu.md)
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (4.6.2 Abyākatapada)](../4.6.2.md) / [Go to next page (Nahetu)](Paccaniya/Nahetu.md)
 

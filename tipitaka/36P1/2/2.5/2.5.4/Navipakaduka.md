@@ -15,7 +15,6 @@
 
 806\. Navipākapaccayā hetuyā tīṇi. (Saṃkhittaṃ. Paripuṇṇaṃ.) Avigate tīṇi.
 
-* [Pañcaka](Navipakaduka/Pancaka.md)
 
 [Go to previous page (Pañcaka)](Nakammaduka/Pancaka.md) / [Go to parent page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md) / [Go to next page (Pañcaka)](Navipakaduka/Pancaka.md)
 

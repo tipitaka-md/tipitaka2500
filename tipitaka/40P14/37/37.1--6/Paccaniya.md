@@ -3,7 +3,6 @@
 
 # Paccanīya
 
-* [Nahetu](Paccaniya/Nahetu.md)
 
 [Go to previous page (37.1--6 Paṭiccādivāra)](../37.1--6.md) / [Go to parent page (37.1--6 Paṭiccādivāra)](../37.1--6.md) / [Go to next page (Nahetu)](Paccaniya/Nahetu.md)
 

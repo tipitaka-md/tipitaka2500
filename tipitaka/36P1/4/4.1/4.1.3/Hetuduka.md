@@ -15,9 +15,6 @@
 
 2148\. Hetupaccayā naārammaṇe pañca, naadhipatiyā terasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte dvādasa, napacchājāte terasa, naāsevane terasa, nakamme dve, navipāke pañca, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
-* [Tika](Hetuduka/Tika.md)
-* [Catukka](Hetuduka/Catukka.md)
-* [Ekādasaka](Hetuduka/Ekadasaka.md)
 
 [Go to previous page (4.1.3 Paccayānulomapaccanīya)](../4.1.3.md) / [Go to parent page (4.1.3 Paccayānulomapaccanīya)](../4.1.3.md) / [Go to next page (Tika)](Hetuduka/Tika.md)
 

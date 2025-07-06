@@ -15,8 +15,6 @@
 
 1780\. Noatthipaccayā ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme dve, natthiyā satta, vigate satta…pe… .
 
-* [Catukka](Noatthiduka/Catukka.md)
-* [Sattaka](Noatthiduka/Sattaka.md)
 
 [Go to previous page (Bāvīsaka (saindriya))](Navippayuttaduka/Bavisaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Catukka)](Noatthiduka/Catukka.md)
 

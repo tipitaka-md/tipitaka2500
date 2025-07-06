@@ -3,8 +3,6 @@
 
 # Paccayacatukka
 
-* [Hetvādi](Paccayacatukka/Hetvadi.md)
-* [Suddha](Paccayacatukka/Suddha.md)
 
 [Go to previous page (1.22.1.1--6 Paṭiccādivāra)](../1.22.1.1--6.md) / [Go to parent page (1.22.1.1--6 Paṭiccādivāra)](../1.22.1.1--6.md) / [Go to next page (Hetvādi)](Paccayacatukka/Hetvadi.md)
 

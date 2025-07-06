@@ -3,8 +3,6 @@
 
 # Ārammaṇa
 
-* [Ārammaṇasabhāga](Arammana/Arammanasabhaga.md)
-* [Ārammaṇaghaṭanā](Arammana/Arammanaghatana.md)
 
 [Go to previous page (Sādhipati-indriya-maggaghaṭanā)](Hetu/Sadhipati-indriya-maggaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Ārammaṇasabhāga)](Arammana/Arammanasabhaga.md)
 

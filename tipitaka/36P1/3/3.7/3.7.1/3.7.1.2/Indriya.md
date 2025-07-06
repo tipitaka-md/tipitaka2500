@@ -3,8 +3,6 @@
 
 # Indriya
 
-* [Indriyasabhāga](Indriya/Indriyasabhaga.md)
-* [Ghaṭanā](Indriya/Ghatana.md)
 
 [Go to previous page (Ghaṭanā)](Ahara/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Indriyasabhāga)](Indriya/Indriyasabhaga.md)
 

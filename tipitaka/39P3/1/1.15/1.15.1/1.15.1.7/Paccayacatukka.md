@@ -3,7 +3,6 @@
 
 # Paccayacatukka
 
-* [Hetu-adhipati](Paccayacatukka/Hetu-adhipati.md)
 
 [Go to previous page (1.15.1.7 Pañhāvāra)](../1.15.1.7.md) / [Go to parent page (1.15.1.7 Pañhāvāra)](../1.15.1.7.md) / [Go to next page (Hetu-adhipati)](Paccayacatukka/Hetu-adhipati.md)
 

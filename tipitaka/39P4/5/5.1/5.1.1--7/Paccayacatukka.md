@@ -57,8 +57,6 @@
 
 1336\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
-* [Hetu-ārammaṇa](Paccayacatukka/Hetu-arammana.md)
-* [Hetusahajātādi](Paccayacatukka/Hetusahajatadi.md)
 
 [Go to previous page (5.1.1--7 Paṭiccādivāra)](../5.1.1--7.md) / [Go to parent page (5.1.1--7 Paṭiccādivāra)](../5.1.1--7.md) / [Go to next page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md)
 

@@ -3,10 +3,6 @@
 
 # Atthi
 
-* [Atthisabhāga](Atthi/Atthisabhaga.md)
-* [Atthimissakaghaṭanā](Atthi/Atthimissakaghatana.md)
-* [Pakiṇṇakaghaṭanā](Atthi/Pakinnakaghatana.md)
-* [Sahajātaghaṭanā](Atthi/Sahajataghatana.md)
 
 [Go to previous page (Sahajātaghaṭanā)](Vippayutta/Sahajataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Atthisabhāga)](Atthi/Atthisabhaga.md)
 

@@ -15,7 +15,6 @@
 
 2034\. Noavigatapaccayā ārammaṇe nava, adhipatiyā cattāri, anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme aṭṭha, natthiyā satta, vigate satta…pe… .
 
-* [Catukka](Noavigataduka/Catukka.md)
 
 [Go to previous page (Naārammaṇaduka)](Naarammanaduka.md) / [Go to parent page (3.7.4 Paccayapaccanīyānuloma)](../3.7.4.md) / [Go to next page (Catukka)](Noavigataduka/Catukka.md)
 

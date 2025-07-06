@@ -3,10 +3,6 @@
 
 # Vippayutta
 
-* [Vippayuttasabhāga](Vippayutta/Vippayuttasabhaga.md)
-* [Vippayuttamissakaghaṭanā](Vippayutta/Vippayuttamissakaghatana.md)
-* [Pakiṇṇakaghaṭanā](Vippayutta/Pakinnakaghatana.md)
-* [Sahajātaghaṭanā](Vippayutta/Sahajataghatana.md)
 
 [Go to previous page (Sampayuttaghaṭanā)](Sampayutta/Sampayuttaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Vippayuttasabhāga)](Vippayutta/Vippayuttasabhaga.md)
 

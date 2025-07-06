@@ -3,10 +3,6 @@
 
 # Nissaya
 
-* [Nissayasabhāga](Nissaya/Nissayasabhaga.md)
-* [Nissayamissakaghaṭanā](Nissaya/Nissayamissakaghatana.md)
-* [Pakiṇṇakaghaṭanā](Nissaya/Pakinnakaghatana.md)
-* [Sahajātaghaṭanā](Nissaya/Sahajataghatana.md)
 
 [Go to previous page (Aññamaññaghaṭanā)](Annamanna/Annamannaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Nissayasabhāga)](Nissaya/Nissayasabhaga.md)
 

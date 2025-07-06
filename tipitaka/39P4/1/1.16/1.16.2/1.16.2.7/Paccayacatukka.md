@@ -3,8 +3,6 @@
 
 # Paccayacatukka
 
-* [Ārammaṇādi](Paccayacatukka/Arammanadi.md)
-* [Anantara-upanissaya](Paccayacatukka/Anantara-upanissaya.md)
 
 [Go to previous page (1.16.2.7 Pañhāvāra)](../1.16.2.7.md) / [Go to parent page (1.16.2.7 Pañhāvāra)](../1.16.2.7.md) / [Go to next page (Ārammaṇādi)](Paccayacatukka/Arammanadi.md)
 

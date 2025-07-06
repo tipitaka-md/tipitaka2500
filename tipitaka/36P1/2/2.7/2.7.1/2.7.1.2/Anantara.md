@@ -3,8 +3,6 @@
 
 # Anantara
 
-* [Anantarasabhāga](Anantara/Anantarasabhaga.md)
-* [Anantaraghaṭanā](Anantara/Anantaraghatana.md)
 
 [Go to previous page (Vīmaṃsādhipatighaṭanā)](Adhipati/Vimamsadhipatighatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Anantarasabhāga)](Anantara/Anantarasabhaga.md)
 

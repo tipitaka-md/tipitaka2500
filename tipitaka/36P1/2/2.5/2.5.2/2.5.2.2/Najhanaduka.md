@@ -17,7 +17,6 @@
 
 745\. Najhānapaccayā nahetuyā ekaṃ, naadhipatiyā ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, namagge ekaṃ…pe… .
 
-* [Chakka](Najhanaduka/Chakka.md)
 
 [Go to previous page (Sattaka)](Navipakaduka/Sattaka.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Chakka)](Najhanaduka/Chakka.md)
 

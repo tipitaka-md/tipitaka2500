@@ -3,7 +3,6 @@
 
 # Paccanīya
 
-* [Naadhipati](Paccaniya/Naadhipati.md)
 
 [Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (2.2.1.1--6 Paṭiccādivāra)](../2.2.1.1--6.md) / [Go to next page (Naadhipati)](Paccaniya/Naadhipati.md)
 

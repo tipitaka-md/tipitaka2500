@@ -15,7 +15,6 @@
 
 798\. Naadhipatipaccayā hetuyā tīṇi, ārammaṇe tīṇi…pe…  avigate tīṇi.
 
-* [Tika](Naadhipatiduka/Tika.md)
 
 [Go to previous page (Dasaka)](Nahetuduka/Dasaka.md) / [Go to parent page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md) / [Go to next page (Tika)](Naadhipatiduka/Tika.md)
 

@@ -3,8 +3,6 @@
 
 # Natthi
 
-* [Natthisabhāga](Natthi/Natthisabhaga.md)
-* [Natthighaṭanā](Natthi/Natthighatana.md)
 
 [Go to previous page (Sahajātaghaṭanā)](Atthi/Sahajataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Natthisabhāga)](Natthi/Natthisabhaga.md)
 

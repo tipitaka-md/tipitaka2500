@@ -3,8 +3,6 @@
 
 # Āsevana
 
-* [Āsevanasabhāga](Asevana/Asevanasabhaga.md)
-* [Āsevanaghaṭanā](Asevana/Asevanaghatana.md)
 
 [Go to previous page (Pacchājātaghaṭanā)](Pacchajata/Pacchajataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Āsevanasabhāga)](Asevana/Asevanasabhaga.md)
 

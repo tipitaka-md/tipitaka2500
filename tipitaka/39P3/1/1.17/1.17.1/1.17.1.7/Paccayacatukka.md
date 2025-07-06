@@ -3,7 +3,6 @@
 
 # Paccayacatukka
 
-* [Hetu-upanissaya](Paccayacatukka/Hetu-upanissaya.md)
 
 [Go to previous page (1.17.1.7 Pañhāvāra)](../1.17.1.7.md) / [Go to parent page (1.17.1.7 Pañhāvāra)](../1.17.1.7.md) / [Go to next page (Hetu-upanissaya)](Paccayacatukka/Hetu-upanissaya.md)
 

@@ -3,8 +3,6 @@
 
 # Sahajāta
 
-* [Sahajātasabhāga](Sahajata/Sahajatasabhaga.md)
-* [Sahajātaghaṭanā](Sahajata/Sahajataghatana.md)
 
 [Go to previous page (Samanantaraghaṭanā)](Samanantara/Samanantaraghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Sahajātasabhāga)](Sahajata/Sahajatasabhaga.md)
 

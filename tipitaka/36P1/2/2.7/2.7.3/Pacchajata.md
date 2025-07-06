@@ -3,8 +3,6 @@
 
 # Pacchājāta
 
-* [Pacchājātaduka](Pacchajata/Pacchajataduka.md)
-* [Pacchājātaghaṭanā](Pacchajata/Pacchajataghatana.md)
 
 [Go to previous page (Purejātaghaṭanā)](Purejata/Purejataghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Pacchājātaduka)](Pacchajata/Pacchajataduka.md)
 

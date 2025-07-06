@@ -17,7 +17,6 @@
 
 265\. Nakammapaccayā nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā tīṇi, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā ekaṃ, novigate ekaṃ.
 
-* [Tika](Nakammaduka/Tika.md)
 
 [Go to previous page (Catukka)](Napacchajata-naasevanaduka/Catukka.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md) / [Go to next page (Tika)](Nakammaduka/Tika.md)
 
