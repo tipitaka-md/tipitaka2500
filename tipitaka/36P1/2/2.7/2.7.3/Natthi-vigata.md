@@ -3,6 +3,7 @@
 
 # Natthi-vigata
 
+* [Natthi-vigataduka](Natthi-vigata/Natthi-vigataduka.md)
 
 [Go to previous page (Sahajātaghaṭanā)](Atthi/Sahajataghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Natthi-vigataduka)](Natthi-vigata/Natthi-vigataduka.md)
 

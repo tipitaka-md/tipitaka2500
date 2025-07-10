@@ -3,6 +3,8 @@
 
 # Vipāka
 
+* [Vipākasabhāga](Vipaka/Vipakasabhaga.md)
+* [Vipākaghaṭanā](Vipaka/Vipakaghatana.md)
 
 [Go to previous page (Sahajātaghaṭanā)](Kamma/Sahajataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Vipākasabhāga)](Vipaka/Vipakasabhaga.md)
 

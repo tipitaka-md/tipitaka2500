@@ -3,6 +3,8 @@
 
 # Magga
 
+* [Maggasabhāga](Magga/Maggasabhaga.md)
+* [Ghaṭanā](Magga/Ghatana.md)
 
 [Go to previous page (Ghaṭanā)](Jhana/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Maggasabhāga)](Magga/Maggasabhaga.md)
 

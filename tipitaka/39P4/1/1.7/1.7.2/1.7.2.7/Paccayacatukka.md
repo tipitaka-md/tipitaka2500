@@ -3,6 +3,7 @@
 
 # Paccayacatukka
 
+* [Ārammaṇādi](Paccayacatukka/Arammanadi.md)
 
 [Go to previous page (1.7.2.7 Pañhāvāra)](../1.7.2.7.md) / [Go to parent page (1.7.2.7 Pañhāvāra)](../1.7.2.7.md) / [Go to next page (Ārammaṇādi)](Paccayacatukka/Arammanadi.md)
 

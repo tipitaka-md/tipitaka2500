@@ -3,6 +3,7 @@
 
 # Paccanīya
 
+* [Naadhipati](Paccaniya/Naadhipati.md)
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (4.5.1.1--6 Paṭiccādivāra)](../4.5.1.1--6.md) / [Go to next page (Naadhipati)](Paccaniya/Naadhipati.md)
 

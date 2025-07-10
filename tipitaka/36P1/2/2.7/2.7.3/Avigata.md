@@ -3,6 +3,7 @@
 
 # Avigata
 
+* [Avigataduka](Avigata/Avigataduka.md)
 
 [Go to previous page (Natthi-vigataduka)](Natthi-vigata/Natthi-vigataduka.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Avigataduka)](Avigata/Avigataduka.md)
 

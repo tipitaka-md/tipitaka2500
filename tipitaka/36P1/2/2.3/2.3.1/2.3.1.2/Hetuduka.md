@@ -17,6 +17,7 @@
 
 498\. Hetupaccayā ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa…pe…  avigate sattarasa.
 
+* [Tika](Hetuduka/Tika.md)
 
 [Go to previous page (Suddha)](Suddha.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (Tika)](Hetuduka/Tika.md)
 

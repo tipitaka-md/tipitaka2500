@@ -15,6 +15,7 @@
 
 303\. Purejātapaccayā nahetuyā dve, naadhipatiyā tīṇi, na pacchājāte tīṇi, na āsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ.
 
+* [Tika](Purejataduka/Tika.md)
 
 [Go to previous page (Nissaya-upanissayaduka)](Nissaya-upanissayaduka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Tika)](Purejataduka/Tika.md)
 

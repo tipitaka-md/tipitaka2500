@@ -17,6 +17,7 @@
 
 743\. Navipākapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, namagge ekaṃ, navippayutte tīṇi…pe… .
 
+* [Sattaka](Navipakaduka/Sattaka.md)
 
 [Go to previous page (Tika)](Nakammaduka/Tika.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Sattaka)](Navipakaduka/Sattaka.md)
 

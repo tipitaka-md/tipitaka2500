@@ -3,6 +3,7 @@
 
 # Paccayānuloma
 
+* [Hetu](Paccayanuloma/Hetu.md)
 
 [Go to previous page (12.1--7 Paṭiccādivāra)](../12.1--7.md) / [Go to parent page (12.1--7 Paṭiccādivāra)](../12.1--7.md) / [Go to next page (Hetu)](Paccayanuloma/Hetu.md)
 

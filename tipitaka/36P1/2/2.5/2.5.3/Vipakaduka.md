@@ -15,6 +15,7 @@
 
 772\. Vipākapaccayā nahetuyā ekaṃ, naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ.
 
+* [Tika](Vipakaduka/Tika.md)
 
 [Go to previous page (Tika)](Kammaduka/Tika.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Tika)](Vipakaduka/Tika.md)
 

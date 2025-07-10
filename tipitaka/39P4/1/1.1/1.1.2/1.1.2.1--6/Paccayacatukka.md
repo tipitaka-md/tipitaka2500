@@ -3,6 +3,8 @@
 
 # Paccayacatukka
 
+* [Hetu-ārammaṇa](Paccayacatukka/Hetu-arammana.md)
+* [Nahetu-naārammaṇādi](Paccayacatukka/Nahetu-naarammanadi.md)
 
 [Go to previous page (1.1.2.1--6 Paṭiccādivāra)](../1.1.2.1--6.md) / [Go to parent page (1.1.2.1--6 Paṭiccādivāra)](../1.1.2.1--6.md) / [Go to next page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md)
 

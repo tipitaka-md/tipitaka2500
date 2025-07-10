@@ -3,6 +3,9 @@
 
 # Paccayacatukka
 
+* [Hetu-ārammaṇādi](Paccayacatukka/Hetu-arammanadi.md)
+* [Anantarādi](Paccayacatukka/Anantaradi.md)
+* [Upanissayādi](Paccayacatukka/Upanissayadi.md)
 
 [Go to previous page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to parent page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to next page (Hetu-ārammaṇādi)](Paccayacatukka/Hetu-arammanadi.md)
 

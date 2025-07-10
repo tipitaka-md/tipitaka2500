@@ -3,6 +3,8 @@
 
 # Paccayacatukka
 
+* [Hetu](Paccayacatukka/Hetu.md)
+* [Naadhipati](Paccayacatukka/Naadhipati.md)
 
 [Go to previous page (2.4.2.1--6 Paṭiccādivāra)](../2.4.2.1--6.md) / [Go to parent page (2.4.2.1--6 Paṭiccādivāra)](../2.4.2.1--6.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
 

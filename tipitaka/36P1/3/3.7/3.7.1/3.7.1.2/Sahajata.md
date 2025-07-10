@@ -3,6 +3,8 @@
 
 # Sahajāta
 
+* [Sahajātādisabhāga](Sahajata/Sahajatadisabhaga.md)
+* [Ghaṭanā](Sahajata/Ghatana.md)
 
 [Go to previous page (Ghaṭanā)](Anantara/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Sahajātādisabhāga)](Sahajata/Sahajatadisabhaga.md)
 

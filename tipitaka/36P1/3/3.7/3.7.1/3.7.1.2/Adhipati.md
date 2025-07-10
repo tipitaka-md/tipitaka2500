@@ -3,6 +3,9 @@
 
 # Adhipati
 
+* [Adhipatisabhāga](Adhipati/Adhipatisabhaga.md)
+* [Pakiṇṇakaghaṭanā](Adhipati/Pakinnakaghatana.md)
+* [Sahajātaghaṭanā](Adhipati/Sahajataghatana.md)
 
 [Go to previous page (Ārammaṇaghaṭanā)](Arammana/Arammanaghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Adhipatisabhāga)](Adhipati/Adhipatisabhaga.md)
 

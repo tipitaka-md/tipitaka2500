@@ -109,6 +109,7 @@
 
 1424\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
 
+* [Hetu-ārammaṇa](Paccayacatukka/Hetu-arammana.md)
 
 [Go to previous page (5.7.1--7 Paṭiccādivāra)](../5.7.1--7.md) / [Go to parent page (5.7.1--7 Paṭiccādivāra)](../5.7.1--7.md) / [Go to next page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md)
 

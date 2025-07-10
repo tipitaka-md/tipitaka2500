@@ -15,6 +15,7 @@
 
 1855\. Hetupaccayā naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte dve.
 
+* [Tika](Hetuduka/Tika.md)
 
 [Go to previous page (3.1.3 Paccayānulomapaccanīya)](../3.1.3.md) / [Go to parent page (3.1.3 Paccayānulomapaccanīya)](../3.1.3.md) / [Go to next page (Tika)](Hetuduka/Tika.md)
 

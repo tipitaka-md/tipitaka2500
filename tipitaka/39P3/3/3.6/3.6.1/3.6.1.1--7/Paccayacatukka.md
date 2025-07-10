@@ -3,6 +3,7 @@
 
 # Paccayacatukka
 
+* [Hetvādi](Paccayacatukka/Hetvadi.md)
 
 [Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (3.6.1.1--7 Paṭiccādivāra)](../3.6.1.1--7.md) / [Go to next page (Hetvādi)](Paccayacatukka/Hetvadi.md)
 

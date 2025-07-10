@@ -15,6 +15,7 @@
 
 766\. Purejātapaccayā nahetuyā dve, naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ.
 
+* [Tika](Purejataduka/Tika.md)
 
 [Go to previous page (Anantaradukādi)](Anantaradukadi.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Tika)](Purejataduka/Tika.md)
 

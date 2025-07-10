@@ -17,6 +17,10 @@
 
 1252\. Navippayuttapaccayā nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava, naāhāre nava, naindriye nava, najhāne nava, namagge nava, nasampayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava…pe… .
 
+* [Catukka](Navippayuttaduka/Catukka.md)
+* [Dasaka](Navippayuttaduka/Dasaka.md)
+* [Ekādasaka](Navippayuttaduka/Ekadasaka.md)
+* [Aṭṭhārasaka](Navippayuttaduka/Attharasaka.md)
 
 [Go to previous page (Ekavīsaka)](Naindriyaduka/Ekavisaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Navippayuttaduka/Catukka.md)
 

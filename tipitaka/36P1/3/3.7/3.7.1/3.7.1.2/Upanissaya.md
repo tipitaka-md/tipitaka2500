@@ -3,6 +3,8 @@
 
 # Upanissaya
 
+* [Upanissayasabhāga](Upanissaya/Upanissayasabhaga.md)
+* [Ghaṭanā](Upanissaya/Ghatana.md)
 
 [Go to previous page (Ghaṭanā)](Sahajata/Ghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Upanissayasabhāga)](Upanissaya/Upanissayasabhaga.md)
 

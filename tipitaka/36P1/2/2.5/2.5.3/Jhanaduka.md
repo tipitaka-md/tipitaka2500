@@ -15,6 +15,7 @@
 
 778\. Jhānapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ, navippayutte tīṇi.
 
+* [Tika](Jhanaduka/Tika.md)
 
 [Go to previous page (Tika)](Indriyaduka/Tika.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Tika)](Jhanaduka/Tika.md)
 

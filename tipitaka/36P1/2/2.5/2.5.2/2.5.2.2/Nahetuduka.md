@@ -17,6 +17,11 @@
 
 729\. Nahetupaccayā naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte dve.
 
+* [Tika](Nahetuduka/Tika.md)
+* [Catukka](Nahetuduka/Catukka.md)
+* [Chakka](Nahetuduka/Chakka.md)
+* [Sattaka](Nahetuduka/Sattaka.md)
+* [Navaka](Nahetuduka/Navaka.md)
 
 [Go to previous page (Suddha)](Suddha.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 
