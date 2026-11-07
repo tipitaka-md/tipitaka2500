@@ -17,14 +17,13 @@
 
 (32.)
 
-1181\. Akusalaṃ lokiyaṃ dhammaṃ paṭicca akusalo lokiyo dhammo uppajjati nahetupaccayā. (1)
+1181\. Akusalaṁ lokiyaṁ dhammaṁ paṭicca akusalo lokiyo dhammo uppajjati nahetupaccayā. (1)
 
-1182\. Abyākataṃ lokiyaṃ dhammaṃ paṭicca abyākato lokiyo dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+1182\. Abyākataṁ lokiyaṁ dhammaṁ paṭicca abyākato lokiyo dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
 (33.)
 
-1183\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1183\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe… novigate pañca. (Saṁkhittaṁ. Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

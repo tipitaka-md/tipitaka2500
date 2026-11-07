@@ -16,6 +16,5 @@
 * [Sahetu-maggaghaṭanā](Indriya/Sahetu-maggaghatana.md)
 * [Sahetādhipati-maggaghaṭanā](Indriya/Sahetadhipati-maggaghatana.md)
 
-[Go to previous page (Sādhipati-indriyaghaṭanā)](Ahara/Sadhipati-indriyaghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Indriyaduka)](Indriya/Indriyaduka.md)
-
+[Go to previous page (Sādhipati-indriyaghaṭanā)](Ahara/Sadhipati-indriyaghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Indriyaduka)](Indriya/Indriyaduka.md)
 

@@ -17,18 +17,17 @@
 
 (56.)
 
-3964\. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa anantarapaccayena paccayo—  purimā purimā saṃkiliṭṭhā khandhā pacchimānaṃ pacchimānaṃ saṃkiliṭṭhānaṃ khandhānaṃ anantarapaccayena paccayo. (1)
+3964\. Saṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa anantarapaccayena paccayo— purimā purimā saṁkiliṭṭhā khandhā pacchimānaṁ pacchimānaṁ saṁkiliṭṭhānaṁ khandhānaṁ anantarapaccayena paccayo. (1)
 
-3965\. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa anantarapaccayena paccayo—  saṃkiliṭṭhā khandhā vuṭṭhānassa anantarapaccayena paccayo. (2)
+3965\. Saṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa anantarapaccayena paccayo— saṁkiliṭṭhā khandhā vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 (57.)
 
-3966\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa anantarapaccayena paccayo—  purimā purimā asaṃkiliṭṭhā khandhā pacchimānaṃ pacchimānaṃ asaṃkiliṭṭhānaṃ khandhānaṃ…pe…  phalasamāpattiyā anantarapaccayena paccayo. (1)
+3966\. Asaṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa anantarapaccayena paccayo— purimā purimā asaṁkiliṭṭhā khandhā pacchimānaṁ pacchimānaṁ asaṁkiliṭṭhānaṁ khandhānaṁ…pe… phalasamāpattiyā anantarapaccayena paccayo. (1)
 
-3967\. Asaṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa anantarapaccayena paccayo—  āvajjanā saṃkiliṭṭhānaṃ khandhānaṃ anantarapaccayena paccayo. (2)
+3967\. Asaṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa anantarapaccayena paccayo— āvajjanā saṁkiliṭṭhānaṁ khandhānaṁ anantarapaccayena paccayo. (2)
 
-3968\. Samanantarapaccayena paccayo…  cattāri…  sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
+3968\. Samanantarapaccayena paccayo… cattāri… sahajātapaccayena paccayo… pañca… aññamaññapaccayena paccayo… dve… nissayapaccayena paccayo… satta.
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

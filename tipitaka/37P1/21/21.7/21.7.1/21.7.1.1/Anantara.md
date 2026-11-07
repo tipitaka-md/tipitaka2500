@@ -15,10 +15,9 @@
 
 (32.)
 
-2821\. Ajjhatto dhammo ajjhattassa dhammassa anantarapaccayena paccayo—  purimā purimā ajjhattā khandhā pacchimānaṃ pacchimānaṃ ajjhattānaṃ khandhānaṃ anantarapaccayena paccayo. Anulomaṃ gotrabhussa, anulomaṃ vodānassa, gotrabhu maggassa, vodānaṃ maggassa, maggo phalassa, phalaṃ phalassa, anulomaṃ phalasamāpattiyā, nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)
+2821\. Ajjhatto dhammo ajjhattassa dhammassa anantarapaccayena paccayo— purimā purimā ajjhattā khandhā pacchimānaṁ pacchimānaṁ ajjhattānaṁ khandhānaṁ anantarapaccayena paccayo. Anulomaṁ gotrabhussa, anulomaṁ vodānassa, gotrabhu maggassa, vodānaṁ maggassa, maggo phalassa, phalaṁ phalassa, anulomaṁ phalasamāpattiyā, nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṁ phalasamāpattiyā anantarapaccayena paccayo. (1)
 
-2822\. Bahiddhā dhammo bahiddhā dhammassa anantarapaccayena paccayo. (Purimā purimā bahiddhāti nānākaraṇaṃ, taṃyeva gamanaṃ.) (1)
+2822\. Bahiddhā dhammo bahiddhā dhammassa anantarapaccayena paccayo. (Purimā purimā bahiddhāti nānākaraṇaṁ, taṁyeva gamanaṁ.) (1)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 

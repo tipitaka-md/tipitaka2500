@@ -37,24 +37,23 @@
 
 656\. Paṇīto hetu dhammo paṇītassa hetussa dhammassa adhipatipaccayena paccayo. Paṇīto hetu dhammo majjhimassa hetussa dhammassa adhipatipaccayena paccayo. (2)
 
-657\. Hīno hetu dhammo hīnassa hetussa dhammassa anantarapaccayena paccayo…  dve.
+657\. Hīno hetu dhammo hīnassa hetussa dhammassa anantarapaccayena paccayo… dve.
 
-658\. Majjhimo hetu dhammo majjhimassa hetussa dhammassa anantarapaccayena paccayo…  dve.
+658\. Majjhimo hetu dhammo majjhimassa hetussa dhammassa anantarapaccayena paccayo… dve.
 
-659\. Paṇīto hetu dhammo paṇītassa hetussa dhammassa anantarapaccayena paccayo…  dve. (Saṃkhittaṃ.)
+659\. Paṇīto hetu dhammo paṇītassa hetussa dhammassa anantarapaccayena paccayo… dve. (Saṁkhittaṁ.)
 
 (178.)
 
-660\. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā pañca, anantare cha, samanantare cha, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye aṭṭha, āsevane tīṇi, vipāke indriye magge dve, sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+660\. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā pañca, anantare cha, samanantare cha, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye aṭṭha, āsevane tīṇi, vipāke indriye magge dve, sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-661\. Nahetuyā aṭṭha, naārammaṇe aṭṭha. (Saṃkhittaṃ.)
+661\. Nahetuyā aṭṭha, naārammaṇe aṭṭha. (Saṁkhittaṁ.)
 
-662\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+662\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-663\. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
+663\. Nahetupaccayā ārammaṇe pañca. (Saṁkhittaṁ.)
 
-664\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+664\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.14.2 Nahetupada)](../../../1.14.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.14.2 Nahetupada)](../../../1.14.2.md)
 

@@ -13,8 +13,7 @@
 
 * Catukka
 
-1861\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, āsevane ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, magge ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
+1861\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye ekaṁ, āsevane ekaṁ, kamme ekaṁ, vipāke ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, magge ekaṁ, sampayutte ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, natthiyā ekaṁ, vigate ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Sattaka)](Sattaka.md)
-
 

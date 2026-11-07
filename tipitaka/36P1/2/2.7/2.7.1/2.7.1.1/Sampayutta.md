@@ -15,12 +15,11 @@
 
 (297.)
 
-978\. Kusalo dhammo kusalassa dhammassa sampayuttapaccayena paccayo—  kusalo eko khandho tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ sampayuttapaccayena paccayo. (1)
+978\. Kusalo dhammo kusalassa dhammassa sampayuttapaccayena paccayo— kusalo eko khandho tiṇṇannaṁ khandhānaṁ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṁ khandhānaṁ sampayuttapaccayena paccayo. (1)
 
-979\. Akusalo dhammo akusalassa dhammassa sampayuttapaccayena paccayo—  akusalo eko khandho tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ sampayuttapaccayena paccayo. (1)
+979\. Akusalo dhammo akusalassa dhammassa sampayuttapaccayena paccayo— akusalo eko khandho tiṇṇannaṁ khandhānaṁ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṁ khandhānaṁ sampayuttapaccayena paccayo. (1)
 
-980\. Abyākato dhammo abyākatassa dhammassa sampayuttapaccayena paccayo—  vipākābyākato kiriyābyākato eko khandho tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ sampayuttapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākato eko khandho tiṇṇannaṃ khandhānaṃ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ sampayuttapaccayena paccayo. (1)
+980\. Abyākato dhammo abyākatassa dhammassa sampayuttapaccayena paccayo— vipākābyākato kiriyābyākato eko khandho tiṇṇannaṁ khandhānaṁ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṁ khandhānaṁ sampayuttapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākato eko khandho tiṇṇannaṁ khandhānaṁ sampayuttapaccayena paccayo. Tayo khandhā ekassa khandhassa sampayuttapaccayena paccayo. Dve khandhā dvinnaṁ khandhānaṁ sampayuttapaccayena paccayo. (1)
 
-[Go to previous page (Magga)](Magga.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Magga)](Magga.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

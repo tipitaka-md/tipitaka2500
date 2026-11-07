@@ -13,17 +13,9 @@
 
 (36.)
 
-1540\. Nahetupaccayā ārammaṇe cattāri, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme cattāri, vipāke ekaṃ, āhāre cattāri, indriye jhāne cattāri, magge tīṇi, sampayutte vippayutte atthiyā natthiyā vigate cattāri, avigate cattāri. (Evaṃ gaṇetabbaṃ.)
+1540\. Nahetupaccayā ārammaṇe cattāri, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme cattāri, vipāke ekaṁ, āhāre cattāri, indriye jhāne cattāri, magge tīṇi, sampayutte vippayutte atthiyā natthiyā vigate cattāri, avigate cattāri. (Evaṁ gaṇetabbaṁ.)
 
----
+1541\. Paccanīyānulomaṁ. Paccayavāro.
 
-1541\. Paccanīyānulomaṃ.
-
-  
-Paccayavāro.
-
-
-
-[Go to previous page (11.3.4 Paccayapaccanīyānuloma)](../11.3.4.md) / [Go to parent page (11.3.4 Paccayapaccanīyānuloma)](../11.3.4.md) / [Go to next page (11.4 Nissayavāra)](../../11.4.md)
-
+[Go to previous page (11.3.4 Paccayapaccanīyānuloma)](../11.3.4.md) / [Go to parent page (11.3.4 Paccayapaccanīyānuloma)](../11.3.4.md) / [Go to next page (11.4 Nissayavāra)](../../11.4.md)
 

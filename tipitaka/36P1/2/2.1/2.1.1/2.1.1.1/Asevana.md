@@ -15,12 +15,11 @@
 
 (10.)
 
-146\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati āsevanapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
+146\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati āsevanapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
 
-147\. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati āsevanapaccayā—  akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
+147\. Akusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati āsevanapaccayā— akusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
 
-148\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati āsevanapaccayā—  kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
+148\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati āsevanapaccayā— kiriyābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

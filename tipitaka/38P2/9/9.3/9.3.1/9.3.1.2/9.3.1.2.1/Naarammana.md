@@ -17,12 +17,11 @@
 
 (50.)
 
-2221\. Parāmāsasampayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati naārammaṇapaccayā—  parāmāsasampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
+2221\. Parāmāsasampayuttaṁ dhammaṁ paṭicca parāmāsavippayutto dhammo uppajjati naārammaṇapaccayā— parāmāsasampayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.) (1)
 
-2222\. Parāmāsavippayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati naārammaṇapaccayā—  parāmāsavippayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Yāva asaññasattā.) (1)
+2222\. Parāmāsavippayuttaṁ dhammaṁ paṭicca parāmāsavippayutto dhammo uppajjati naārammaṇapaccayā— parāmāsavippayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Yāva asaññasattā.) (1)
 
-2223\. Parāmāsasampayuttañca parāmāsavippayuttañca dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati naārammaṇapaccayā—  parāmāsasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
+2223\. Parāmāsasampayuttañca parāmāsavippayuttañca dhammaṁ paṭicca parāmāsavippayutto dhammo uppajjati naārammaṇapaccayā— parāmāsasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.3.1.2.1 Vibhaṅgavāra)](../9.3.1.2.1.md) / [Go to next page (9.3.1.2.2 Saṅkhyāvāra)](../9.3.1.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.3.1.2.1 Vibhaṅgavāra)](../9.3.1.2.1.md) / [Go to next page (9.3.1.2.2 Saṅkhyāvāra)](../9.3.1.2.2.md)
 

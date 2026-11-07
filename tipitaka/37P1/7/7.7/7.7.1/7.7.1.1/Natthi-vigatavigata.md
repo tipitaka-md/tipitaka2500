@@ -15,10 +15,9 @@
 
 (137.)
 
-589\. Savitakkasavicāro dhammo savitakkasavicārassa dhammassa natthipaccayena paccayo…  vigatapaccayena paccayo.
+589\. Savitakkasavicāro dhammo savitakkasavicārassa dhammassa natthipaccayena paccayo… vigatapaccayena paccayo.
 
-590\. (Natthipaccayañca vigatapaccayañca anantarasadisaṃ, avigataṃ atthisadisaṃ.)
+590\. (Natthipaccayañca vigatapaccayañca anantarasadisaṁ, avigataṁ atthisadisaṁ.)
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (7.7.1.2 Saṅkhyāvāra)](../7.7.1.2.md)
-
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (7.7.1.2 Saṅkhyāvāra)](../7.7.1.2.md)
 

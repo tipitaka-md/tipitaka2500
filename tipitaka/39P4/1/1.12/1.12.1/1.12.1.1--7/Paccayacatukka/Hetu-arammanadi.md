@@ -35,7 +35,7 @@
 
 580\. Mahaggato hetu dhammo mahaggatassa hetussa dhammassa adhipatipaccayena paccayo. Mahaggato hetu dhammo parittassa hetussa dhammassa adhipatipaccayena paccayo. (2)
 
-581\. Appamāṇo hetu dhammo appamāṇassa hetussa dhammassa adhipatipaccayena paccayo…  dve.
+581\. Appamāṇo hetu dhammo appamāṇassa hetussa dhammassa adhipatipaccayena paccayo… dve.
 
 582\. Paritto hetu dhammo parittassa hetussa dhammassa anantarapaccayena paccayo. Paritto hetu dhammo mahaggatassa hetussa dhammassa anantarapaccayena paccayo. Paritto hetu dhammo appamāṇassa hetussa dhammassa anantarapaccayena paccayo. (3)
 
@@ -43,20 +43,19 @@
 
 584\. Appamāṇo hetu dhammo appamāṇassa hetussa dhammassa anantarapaccayena paccayo. Appamāṇo hetu dhammo parittassa hetussa dhammassa anantarapaccayena paccayo. Appamāṇo hetu dhammo mahaggatassa hetussa dhammassa anantarapaccayena paccayo. (3)
 
-585\. Paritto hetu dhammo parittassa hetussa dhammassa upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+585\. Paritto hetu dhammo parittassa hetussa dhammassa upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (161.)
 
-586\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā pañca, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane cattāri, vipāke tīṇi, indriye magge sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+586\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā pañca, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane cattāri, vipāke tīṇi, indriye magge sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-587\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+587\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-588\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+588\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-589\. Nahetupaccayā ārammaṇe cha. (Saṃkhittaṃ.)
+589\. Nahetupaccayā ārammaṇe cha. (Saṁkhittaṁ.)
 
-590\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+590\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.12.2 Nahetupada)](../../../1.12.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.12.2 Nahetupada)](../../../1.12.2.md)
 

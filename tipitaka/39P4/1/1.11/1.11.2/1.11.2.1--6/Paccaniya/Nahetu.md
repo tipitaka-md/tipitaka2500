@@ -17,16 +17,15 @@
 
 (155.)
 
-551\. Nevasekkhanāsekkhaṃ nahetuṃ dhammaṃ paṭicca nevasekkhanāsekkho nahetu dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+551\. Nevasekkhanāsekkhaṁ nahetuṁ dhammaṁ paṭicca nevasekkhanāsekkho nahetu dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
-552\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā tīṇi…pe…  napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke pañca…pe…  novigate pañca. (Saṃkhittaṃ.)
+552\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā tīṇi…pe… napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke pañca…pe… novigate pañca. (Saṁkhittaṁ.)
 
-553\. Hetupaccayā naārammaṇe pañca. (Saṃkhittaṃ.)
+553\. Hetupaccayā naārammaṇe pañca. (Saṁkhittaṁ.)
 
-554\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+554\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-555\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+555\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.11.2.7 Pañhāvāra)](../../1.11.2.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.11.2.7 Pañhāvāra)](../../1.11.2.7.md)
 

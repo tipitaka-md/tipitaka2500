@@ -17,32 +17,23 @@
 
 (59.)
 
-1583\. Kenaci viññeyyo kusalo dhammo kenaci viññeyyassa kusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1583\. Kenaci viññeyyo kusalo dhammo kenaci viññeyyassa kusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (60.)
 
-1584\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe…  kamme nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1584\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe… kamme nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-1585\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1585\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1586\. Hetupaccayā naārammaṇe nava. (Saṃkhittaṃ.)
+1586\. Hetupaccayā naārammaṇe nava. (Saṁkhittaṁ.)
 
-1587\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1587\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-1588\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ. Kenaci viññeyyaṃ akusalampi kenaci viññeyyaṃ abyākatampi kenaci viññeyyakusalasadisaṃ vitthāretabbaṃ.)
+1588\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ. Kenaci viññeyyaṁ akusalampi kenaci viññeyyaṁ abyākatampi kenaci viññeyyakusalasadisaṁ vitthāretabbaṁ.)
 
----
+1589\. Kenaciviññeyyadukakusalattikaṁ niṭṭhitaṁ.
 
-1589\. Kenaciviññeyyadukakusalattikaṃ niṭṭhitaṃ.
+1590\. Cūḷantaradukaṁ niṭṭhitaṁ.
 
-
-
----
-
-1590\. Cūḷantaradukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4 Āsavagocchaka, Kusalattika)](../../../../../4.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4 Āsavagocchaka, Kusalattika)](../../../../../4.md)
 

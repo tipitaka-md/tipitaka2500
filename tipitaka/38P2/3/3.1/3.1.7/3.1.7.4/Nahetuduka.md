@@ -17,15 +17,7 @@
 
 1086\. Nahetupaccayā ārammaṇe nava, adhipatiyā nava (anulomapadā paripuṇṇā), avigate nava.
 
----
+1087\. Paccanīyānulomaṁ. Āsavadukaṁ niṭṭhitaṁ.
 
-1087\. Paccanīyānulomaṃ.
-
-  
-Āsavadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (3.1.7.4 Paccayapaccanīyānuloma)](../3.1.7.4.md) / [Go to parent page (3.1.7.4 Paccayapaccanīyānuloma)](../3.1.7.4.md) / [Go to next page (3.2 Sāsavaduka)](../../../3.2.md)
-
+[Go to previous page (3.1.7.4 Paccayapaccanīyānuloma)](../3.1.7.4.md) / [Go to parent page (3.1.7.4 Paccayapaccanīyānuloma)](../3.1.7.4.md) / [Go to next page (3.2 Sāsavaduka)](../../../3.2.md)
 

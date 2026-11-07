@@ -17,4 +17,3 @@
 
 [Go to previous page (Hetuduka)](../Hetuduka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Catukka)](Catukka.md)
 
-

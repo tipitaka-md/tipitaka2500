@@ -15,14 +15,9 @@
 
 (131.)
 
-848\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe ekaṃ, naupanissaye tīṇi (sabbattha tīṇi), nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā tīṇi, novigate tīṇi.
+848\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe ekaṁ, naupanissaye tīṇi (sabbattha tīṇi), nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā tīṇi, novigate tīṇi.
 
----
+849\. Anulomapaccanīyaṁ.
 
-849\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (2.5.7.3 Paccayānulomapaccanīya)](../2.5.7.3.md) / [Go to parent page (2.5.7.3 Paccayānulomapaccanīya)](../2.5.7.3.md) / [Go to next page (2.5.7.4 Paccayapaccanīyānuloma)](../2.5.7.4.md)
-
+[Go to previous page (2.5.7.3 Paccayānulomapaccanīya)](../2.5.7.3.md) / [Go to parent page (2.5.7.3 Paccayānulomapaccanīya)](../2.5.7.3.md) / [Go to next page (2.5.7.4 Paccayapaccanīyānuloma)](../2.5.7.4.md)
 

@@ -19,4 +19,3 @@
 
 [Go to previous page (Samanantara)](../Samanantara.md) / [Go to parent page (Samanantara)](../Samanantara.md) / [Go to next page (Samanantaraghaṭanā)](Samanantaraghatana.md)
 
-

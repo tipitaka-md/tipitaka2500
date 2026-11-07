@@ -15,16 +15,15 @@
 
 (23.)
 
-1154\. Kusalo appaṭigho dhammo kusalassa appaṭighassa dhammassa hetupaccayena paccayo…  tīṇi.
+1154\. Kusalo appaṭigho dhammo kusalassa appaṭighassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1155\. Akusalo appaṭigho dhammo akusalassa appaṭighassa dhammassa hetupaccayena paccayo…  tīṇi.
+1155\. Akusalo appaṭigho dhammo akusalassa appaṭighassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1156\. Abyākato appaṭigho dhammo abyākatassa appaṭighassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+1156\. Abyākato appaṭigho dhammo abyākatassa appaṭighassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (24.)
 
-1157\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1157\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa…pe… avigate terasa. (Saṁkhittaṁ. Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (3.5 Kusalattika, Rūpīduka)](../../../3.5.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (3.5 Kusalattika, Rūpīduka)](../../../3.5.md)
 

@@ -13,22 +13,21 @@
 
 (3.)
 
-15\. Nakusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati nahetupaccayā. Nakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati nahetupaccayā…pe…  nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati nahetupaccayā.
+15\. Nakusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati nahetupaccayā. Nakusalaṁ dhammaṁ paṭicca abyākato dhammo uppajjati nahetupaccayā…pe… nakusalañca naakusalañca dhammaṁ paṭicca abyākato dhammo uppajjati nahetupaccayā.
 
 (4.)
 
-16\. Nakusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā…pe…  nakusalañca naakusalañca dhammaṃ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ.)
+16\. Nakusalaṁ dhammaṁ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā…pe… nakusalañca naakusalañca dhammaṁ paṭicca abyākato dhammo uppajjati naārammaṇapaccayā. (Saṁkhittaṁ.)
 
 (5.)
 
-17\. Nahetuyā cha, naārammaṇe cha, naadhipatiyā aṭṭhārasa…pe…  napurejāte dvādasa…pe…  nakamme nava…pe…  naāhāre naindriye najhāne namagge tīṇi…pe…  navippayutte nava…pe…  novigate cha.
+17\. Nahetuyā cha, naārammaṇe cha, naadhipatiyā aṭṭhārasa…pe… napurejāte dvādasa…pe… nakamme nava…pe… naāhāre naindriye najhāne namagge tīṇi…pe… navippayutte nava…pe… novigate cha.
 
-18\. Hetupaccayā naārammaṇe cha…  (Saṃkhittaṃ.)
+18\. Hetupaccayā naārammaṇe cha… (Saṁkhittaṁ.)
 
-19\. Nahetupaccayā ārammaṇe cha…  (Saṃkhittaṃ.)
+19\. Nahetupaccayā ārammaṇe cha… (Saṁkhittaṁ.)
 
 20\. (Sahajātavāro paṭiccavārasadiso.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.3--6 Paccayavārādi)](../../1.3--6.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.3--6 Paccayavārādi)](../../1.3--6.md)
 

@@ -17,8 +17,7 @@
 
 (272.)
 
-4663\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā dve, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte cattāri, napacchājāte pañca, naāsevane cattāri, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+4663\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā dve, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte cattāri, napacchājāte pañca, naāsevane cattāri, nakamme dve, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (13.13.1.2.2 Saṅkhyāvāra)](../13.13.1.2.2.md) / [Go to parent page (13.13.1.2.2 Saṅkhyāvāra)](../13.13.1.2.2.md) / [Go to next page (13.13.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../13.13.1.3--4.md)
-
+[Go to previous page (13.13.1.2.2 Saṅkhyāvāra)](../13.13.1.2.2.md) / [Go to parent page (13.13.1.2.2 Saṅkhyāvāra)](../13.13.1.2.2.md) / [Go to next page (13.13.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../13.13.1.3--4.md)
 

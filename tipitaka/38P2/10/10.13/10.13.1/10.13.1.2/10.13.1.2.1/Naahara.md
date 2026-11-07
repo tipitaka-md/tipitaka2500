@@ -17,12 +17,11 @@
 
 (379.)
 
-3269\. Noupādā dhammaṃ paṭicca noupādā dhammo uppajjati naāhārapaccayā—  bāhiraṃ utusamuṭṭhānaṃ asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  dve mahābhūte paṭicca dve mahābhūtā. (1)
+3269\. Noupādā dhammaṁ paṭicca noupādā dhammo uppajjati naāhārapaccayā— bāhiraṁ utusamuṭṭhānaṁ asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… dve mahābhūte paṭicca dve mahābhūtā. (1)
 
-3270\. Noupādā dhammaṃ paṭicca upādā dhammo uppajjati naāhārapaccayā—  bāhiraṃ utusamuṭṭhānaṃ asaññasattānaṃ mahābhūte paṭicca upādārūpaṃ. (2)
+3270\. Noupādā dhammaṁ paṭicca upādā dhammo uppajjati naāhārapaccayā— bāhiraṁ utusamuṭṭhānaṁ asaññasattānaṁ mahābhūte paṭicca upādārūpaṁ. (2)
 
-3271\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti naāhārapaccayā—  bāhiraṃ utusamuṭṭhānaṃ asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā upādā ca rūpaṃ…pe…  dve mahābhūte…pe… . (3)
+3271\. Noupādā dhammaṁ paṭicca upādā ca noupādā ca dhammā uppajjanti naāhārapaccayā— bāhiraṁ utusamuṭṭhānaṁ asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā upādā ca rūpaṁ…pe… dve mahābhūte…pe… . (3)
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Naindriya)](Naindriya.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Naindriya)](Naindriya.md)
 

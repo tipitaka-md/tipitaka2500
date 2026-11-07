@@ -15,8 +15,7 @@
 
 (210.)
 
-708\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā. (Hetupaccayasadisaṃ.)
+708\. Kusalaṁ dhammaṁ saṁsaṭṭho kusalo dhammo uppajjati atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā. (Hetupaccayasadisaṁ.)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (2.5.1.2 Saṅkhyāvāra)](../2.5.1.2.md)
-
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (2.5.1.2 Saṅkhyāvāra)](../2.5.1.2.md)
 

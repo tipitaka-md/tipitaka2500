@@ -15,16 +15,15 @@
 
 (11.)
 
-1897\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati naārammaṇapaccayā—  paritte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe paritte khandhe paṭicca kaṭattārūpaṃ, khandhe paṭicca vatthu…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
+1897\. Parittaṁ dhammaṁ paṭicca paritto dhammo uppajjati naārammaṇapaccayā— paritte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe paritte khandhe paṭicca kaṭattārūpaṁ, khandhe paṭicca vatthu…pe… ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… . (1)
 
-1898\. Mahaggataṃ dhammaṃ paṭicca paritto dhammo uppajjati naārammaṇapaccayā—  mahaggate khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe mahaggate khandhe paṭicca kaṭattārūpaṃ. (1)
+1898\. Mahaggataṁ dhammaṁ paṭicca paritto dhammo uppajjati naārammaṇapaccayā— mahaggate khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe mahaggate khandhe paṭicca kaṭattārūpaṁ. (1)
 
-1899\. Appamāṇaṃ dhammaṃ paṭicca paritto dhammo uppajjati naārammaṇapaccayā—  appamāṇe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1899\. Appamāṇaṁ dhammaṁ paṭicca paritto dhammo uppajjati naārammaṇapaccayā— appamāṇe khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1900\. Parittañca appamāṇañca dhammaṃ paṭicca paritto dhammo uppajjati naārammaṇapaccayā—  appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1900\. Parittañca appamāṇañca dhammaṁ paṭicca paritto dhammo uppajjati naārammaṇapaccayā— appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1901\. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati naārammaṇapaccayā—  mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (1)
+1901\. Parittañca mahaggatañca dhammaṁ paṭicca paritto dhammo uppajjati naārammaṇapaccayā— mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

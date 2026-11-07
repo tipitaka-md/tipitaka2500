@@ -17,14 +17,9 @@
 
 (309.)
 
-1017\. Ārammaṇādhipati upanissayanti satta. Ārammaṇa purejāta atthi avigatanti tīṇi. Ārammaṇa nissaya purejāta vippayutta atthi avigatanti tīṇi. Ārammaṇādhipati upanissaya purejāta atthi avigatanti ekaṃ. Ārammaṇādhipati nissaya upanissaya purejāta vippayutta atthi avigatanti ekaṃ.
+1017\. Ārammaṇādhipati upanissayanti satta. Ārammaṇa purejāta atthi avigatanti tīṇi. Ārammaṇa nissaya purejāta vippayutta atthi avigatanti tīṇi. Ārammaṇādhipati upanissaya purejāta atthi avigatanti ekaṁ. Ārammaṇādhipati nissaya upanissaya purejāta vippayutta atthi avigatanti ekaṁ.
 
----
-
-1018\. Ārammaṇamūlakaṃ.
-
-
+1018\. Ārammaṇamūlakaṁ.
 
 [Go to previous page (Ārammaṇasabhāga)](Arammanasabhaga.md) / [Go to parent page (Ārammaṇa)](../Arammana.md) / [Go to next page (Adhipati)](../Adhipati.md)
-
 

@@ -17,18 +17,17 @@
 
 (431.)
 
-936\. Hetuṃ micchattaniyataṃ dhammaṃ paṭicca nahetu micchattaniyato dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+936\. Hetuṁ micchattaniyataṁ dhammaṁ paṭicca nahetu micchattaniyato dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (432.)
 
-937\. Naadhipatiyā tīṇi, napacchājāte nava, nakamme tīṇi, navipāke nava. (Saṃkhittaṃ.)
+937\. Naadhipatiyā tīṇi, napacchājāte nava, nakamme tīṇi, navipāke nava. (Saṁkhittaṁ.)
 
-938\. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+938\. Hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-939\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
+939\. Naadhipatipaccayā hetuyā tīṇi. (Saṁkhittaṁ.)
 
-940\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+940\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.15.1.7 Pañhāvāra)](../../1.15.1.7.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.15.1.7 Pañhāvāra)](../../1.15.1.7.md)
 

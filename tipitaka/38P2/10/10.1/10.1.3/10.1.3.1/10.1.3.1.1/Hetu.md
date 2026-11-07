@@ -17,24 +17,23 @@
 
 (13.)
 
-2346\. Sārammaṇaṃ dhammaṃ paccayā sārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccasadisā.)
+2346\. Sārammaṇaṁ dhammaṁ paccayā sārammaṇo dhammo uppajjati hetupaccayā… tīṇi. (Paṭiccasadisā.)
 
 (14.)
 
-2347\. Anārammaṇaṃ dhammaṃ paccayā anārammaṇo dhammo uppajjati hetupaccayā—  ekaṃ mahābhūtaṃ…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+2347\. Anārammaṇaṁ dhammaṁ paccayā anārammaṇo dhammo uppajjati hetupaccayā— ekaṁ mahābhūtaṁ…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-2348\. Anārammaṇaṃ dhammaṃ paccayā sārammaṇo dhammo uppajjati hetupaccayā—  vatthuṃ paccayā sārammaṇā khandhā; paṭisandhikkhaṇe vatthuṃ paccayā sārammaṇā khandhā. (2)
+2348\. Anārammaṇaṁ dhammaṁ paccayā sārammaṇo dhammo uppajjati hetupaccayā— vatthuṁ paccayā sārammaṇā khandhā; paṭisandhikkhaṇe vatthuṁ paccayā sārammaṇā khandhā. (2)
 
-2349\. Anārammaṇaṃ dhammaṃ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā sārammaṇā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
+2349\. Anārammaṇaṁ dhammaṁ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā sārammaṇā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (3)
 
 (15.)
 
-2350\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo dhammo uppajjati hetupaccayā—  sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  paṭisandhikkhaṇe…pe… . (1)
+2350\. Sārammaṇañca anārammaṇañca dhammaṁ paccayā sārammaṇo dhammo uppajjati hetupaccayā— sārammaṇaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2351\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā anārammaṇo dhammo uppajjati hetupaccayā—  sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
+2351\. Sārammaṇañca anārammaṇañca dhammaṁ paccayā anārammaṇo dhammo uppajjati hetupaccayā— sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-2352\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti hetupaccayā—  sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
+2352\. Sārammaṇañca anārammaṇañca dhammaṁ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti hetupaccayā— sārammaṇaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (10.1.3.1.1 Vibhaṅgavāra)](../10.1.3.1.1.md) / [Go to parent page (10.1.3.1.1 Vibhaṅgavāra)](../10.1.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.1.3.1.1 Vibhaṅgavāra)](../10.1.3.1.1.md) / [Go to parent page (10.1.3.1.1 Vibhaṅgavāra)](../10.1.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

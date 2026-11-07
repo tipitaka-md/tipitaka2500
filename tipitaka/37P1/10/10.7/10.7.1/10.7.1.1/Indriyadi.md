@@ -15,12 +15,11 @@
 
 (101.)
 
-1364\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa indriyapaccayena paccayo…  tīṇi. (Āhārasadisaṃ. Moho kātabbo.)
+1364\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa indriyapaccayena paccayo… tīṇi. (Āhārasadisaṁ. Moho kātabbo.)
 
-1365\. Bhāvanāya pahātabbahetuko dhammo…  tīṇi.
+1365\. Bhāvanāya pahātabbahetuko dhammo… tīṇi.
 
-1366\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo nevadassanena nabhāvanāya pahātabbahetukassa dhammassa indriyapaccayena paccayo—  nevadassanena nabhāvanāya pahātabbahetukā indriyā sampayuttakānaṃ khandhānaṃ…pe…  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa…pe… . **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  (ime sahetukā kātabbā) sampayuttapaccayena paccayo. (Paṭiccavāre sampayuttavārasadisaṃ.)
+1366\. Nevadassanena nabhāvanāya pahātabbahetuko dhammo nevadassanena nabhāvanāya pahātabbahetukassa dhammassa indriyapaccayena paccayo— nevadassanena nabhāvanāya pahātabbahetukā indriyā sampayuttakānaṁ khandhānaṁ…pe… cakkhundriyaṁ cakkhuviññāṇassa…pe… kāyindriyaṁ kāyaviññāṇassa…pe… . Rūpajīvitindriyaṁ— kaṭattārūpānaṁ indriyapaccayena paccayo… jhānapaccayena paccayo… maggapaccayena paccayo… (ime sahetukā kātabbā) sampayuttapaccayena paccayo. (Paṭiccavāre sampayuttavārasadisaṁ.)
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

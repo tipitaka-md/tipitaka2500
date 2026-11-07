@@ -13,16 +13,11 @@
 
 (176.)
 
-613\. Maggapaccayā nahetuyā tīṇi, naārammaṇe pañca…pe…  navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+613\. Maggapaccayā nahetuyā tīṇi, naārammaṇe pañca…pe… navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
-614\. Maggapaccayā hetupaccayā naārammaṇe pañca. (Saṃkhittaṃ.)
+614\. Maggapaccayā hetupaccayā naārammaṇe pañca. (Saṁkhittaṁ.)
 
----
+615\. Sampayuttapaccayā (Ārammaṇapaccayasadisaṁ.)
 
-615\. Sampayuttapaccayā (Ārammaṇapaccayasadisaṃ.)
-
-
-
-[Go to previous page (Jhānaduka)](Jhanaduka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Vippayuttaduka)](Vippayuttaduka.md)
-
+[Go to previous page (Jhānaduka)](Jhanaduka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Vippayuttaduka)](Vippayuttaduka.md)
 

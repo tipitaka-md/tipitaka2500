@@ -15,18 +15,17 @@
 
 (92.)
 
-156\. Hetu dukkhāya vedanāya sampayutto dhammo hetussa dukkhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+156\. Hetu dukkhāya vedanāya sampayutto dhammo hetussa dukkhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (93.)
 
-157\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava. (Saṃkhittaṃ, paccanīyaṃ.)
+157\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava. (Saṁkhittaṁ, paccanīyaṁ.)
 
-158\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ, anulomapaccanīyaṃ.)
+158\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ, anulomapaccanīyaṁ.)
 
-159\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ, paccanīyānulomaṃ.)
+159\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ, paccanīyānulomaṁ.)
 
-160\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+160\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Ārammaṇādi)](Paccayacatukka/Arammanadi.md) / [Go to parent page (1.2.2.7 Pañhāvāra)](../1.2.2.7.md) / [Go to next page (1.2.3 Adukkhamasukhāyavedanāyasampayuttapada)](../../1.2.3.md)
-
+[Go to previous page (Ārammaṇādi)](Paccayacatukka/Arammanadi.md) / [Go to parent page (1.2.2.7 Pañhāvāra)](../1.2.2.7.md) / [Go to next page (1.2.3 Adukkhamasukhāyavedanāyasampayuttapada)](../../1.2.3.md)
 

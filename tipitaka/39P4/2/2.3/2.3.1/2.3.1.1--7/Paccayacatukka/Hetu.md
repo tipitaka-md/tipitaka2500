@@ -17,20 +17,19 @@
 
 (10.)
 
-966\. Kusalaṃ hetusampayuttaṃ dhammaṃ paṭicca kusalo hetusampayutto dhammo uppajjati hetupaccayā. (1)
+966\. Kusalaṁ hetusampayuttaṁ dhammaṁ paṭicca kusalo hetusampayutto dhammo uppajjati hetupaccayā. (1)
 
-967\. Akusalaṃ hetusampayuttaṃ dhammaṃ paṭicca akusalo hetusampayutto dhammo uppajjati hetupaccayā. (1)
+967\. Akusalaṁ hetusampayuttaṁ dhammaṁ paṭicca akusalo hetusampayutto dhammo uppajjati hetupaccayā. (1)
 
-968\. Abyākataṃ hetusampayuttaṃ dhammaṃ paṭicca abyākato hetusampayutto dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+968\. Abyākataṁ hetusampayuttaṁ dhammaṁ paṭicca abyākato hetusampayutto dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (11.)
 
-969\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+969\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-970\. Naadhipatiyā tīṇi…pe…  navippayutte tīṇi. (Saṃkhittaṃ.)
+970\. Naadhipatiyā tīṇi…pe… navippayutte tīṇi. (Saṁkhittaṁ.)
 
-971\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+971\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

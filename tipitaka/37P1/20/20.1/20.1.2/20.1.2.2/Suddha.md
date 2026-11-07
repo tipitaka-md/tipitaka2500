@@ -15,14 +15,9 @@
 
 (16.)
 
-2685\. Nahetuyā tīṇi, naadhipatiyā napurejāte napacchājāte naāsevane nakamme navipāke tīṇi, najhāne ekaṃ, namagge tīṇi, navippayutte dve. (Evaṃ gaṇetabbaṃ.)
+2685\. Nahetuyā tīṇi, naadhipatiyā napurejāte napacchājāte naāsevane nakamme navipāke tīṇi, najhāne ekaṁ, namagge tīṇi, navippayutte dve. (Evaṁ gaṇetabbaṁ.)
 
----
+2686\. Paccanīyaṁ.
 
-2686\. Paccanīyaṃ.
-
-
-
-[Go to previous page (20.1.2.2 Saṅkhyāvāra)](../20.1.2.2.md) / [Go to parent page (20.1.2.2 Saṅkhyāvāra)](../20.1.2.2.md) / [Go to next page (20.1.3 Paccayānulomapaccanīya)](../../20.1.3.md)
-
+[Go to previous page (20.1.2.2 Saṅkhyāvāra)](../20.1.2.2.md) / [Go to parent page (20.1.2.2 Saṅkhyāvāra)](../20.1.2.2.md) / [Go to next page (20.1.3 Paccayānulomapaccanīya)](../../20.1.3.md)
 

@@ -13,28 +13,27 @@
 
 (18.)
 
-2641\. Saraṇaṃ savitakkasavicāraṃ dhammaṃ paṭicca saraṇo savitakkasavicāro dhammo uppajjati hetupaccayā. (1)
+2641\. Saraṇaṁ savitakkasavicāraṁ dhammaṁ paṭicca saraṇo savitakkasavicāro dhammo uppajjati hetupaccayā. (1)
 
-2642\. Araṇaṃ savitakkasavicāraṃ dhammaṃ paṭicca araṇo savitakkasavicāro dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2642\. Araṇaṁ savitakkasavicāraṁ dhammaṁ paṭicca araṇo savitakkasavicāro dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (19.)
 
-2643\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+2643\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-2644\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2644\. (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (20.)
 
-2645\. Araṇaṃ avitakkavicāramattaṃ dhammaṃ paṭicca araṇo avitakkavicāramatto dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2645\. Araṇaṁ avitakkavicāramattaṁ dhammaṁ paṭicca araṇo avitakkavicāramatto dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2646\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2646\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (21.)
 
-2647\. Araṇaṃ avitakkaavicāraṃ dhammaṃ paṭicca araṇo avitakkaavicāro dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2647\. Araṇaṁ avitakkaavicāraṁ dhammaṁ paṭicca araṇo avitakkaavicāro dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2648\. Hetuyā ekaṃ (sabbattha ekaṃ)…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2648\. Hetuyā ekaṁ (sabbattha ekaṁ)…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-[Go to previous page (14.6.1--7 Paṭiccādivāra)](../14.6.1--7.md) / [Go to parent page (14.6.1--7 Paṭiccādivāra)](../14.6.1--7.md) / [Go to next page (14.7 Saraṇaduka, Pītittika)](../../14.7.md)
-
+[Go to previous page (14.6.1--7 Paṭiccādivāra)](../14.6.1--7.md) / [Go to parent page (14.6.1--7 Paṭiccādivāra)](../14.6.1--7.md) / [Go to next page (14.7 Saraṇaduka, Pītittika)](../../14.7.md)
 

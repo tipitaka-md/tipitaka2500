@@ -13,17 +13,9 @@
 
 (26.)
 
-2494\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ…pe…  jhāne sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+2494\. Nahetupaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ…pe… jhāne sampayutte vippayutte atthiyā natthiyā vigate avigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+2495\. Paccayānulomaṁ. Paṭiccavāro.
 
-2495\. Paccayānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (17.1.4 Paccayapaccanīyānuloma)](../17.1.4.md) / [Go to parent page (17.1.4 Paccayapaccanīyānuloma)](../17.1.4.md) / [Go to next page (17.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../17.2--6.md)
-
+[Go to previous page (17.1.4 Paccayapaccanīyānuloma)](../17.1.4.md) / [Go to parent page (17.1.4 Paccayapaccanīyānuloma)](../17.1.4.md) / [Go to next page (17.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../17.2--6.md)
 

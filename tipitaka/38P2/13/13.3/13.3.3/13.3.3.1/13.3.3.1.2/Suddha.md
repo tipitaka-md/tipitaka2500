@@ -17,8 +17,7 @@
 
 (61.)
 
-4201\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), vipāke ekaṃ…pe…  avigate nava.
+4201\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), vipāke ekaṁ…pe… avigate nava.
 
-[Go to previous page (13.3.3.1.2 Saṅkhyāvāra)](../13.3.3.1.2.md) / [Go to parent page (13.3.3.1.2 Saṅkhyāvāra)](../13.3.3.1.2.md) / [Go to next page (13.3.3.2 Paccayapaccanīya)](../../13.3.3.2.md)
-
+[Go to previous page (13.3.3.1.2 Saṅkhyāvāra)](../13.3.3.1.2.md) / [Go to parent page (13.3.3.1.2 Saṅkhyāvāra)](../13.3.3.1.2.md) / [Go to next page (13.3.3.2 Paccayapaccanīya)](../../13.3.3.2.md)
 

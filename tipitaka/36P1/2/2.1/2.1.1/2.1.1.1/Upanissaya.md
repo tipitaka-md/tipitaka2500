@@ -15,8 +15,7 @@
 
 (8.)
 
-142\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati upanissayapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca… . (Upanissayapaccayaṃ ārammaṇapaccayasadisaṃ.)
+142\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati upanissayapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca… . (Upanissayapaccayaṁ ārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

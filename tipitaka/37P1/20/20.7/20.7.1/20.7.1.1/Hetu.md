@@ -15,12 +15,11 @@
 
 (19.)
 
-2692\. Atītārammaṇo dhammo atītārammaṇassa dhammassa hetupaccayena paccayo—  atītārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe atītārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+2692\. Atītārammaṇo dhammo atītārammaṇassa dhammassa hetupaccayena paccayo— atītārammaṇā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. Paṭisandhikkhaṇe atītārammaṇā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (1)
 
-2693\. Anāgatārammaṇo dhammo anāgatārammaṇassa dhammassa hetupaccayena paccayo—  anāgatārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+2693\. Anāgatārammaṇo dhammo anāgatārammaṇassa dhammassa hetupaccayena paccayo— anāgatārammaṇā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (1)
 
-2694\. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa hetupaccayena paccayo—  paccuppannārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe paccuppannārammaṇā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+2694\. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa hetupaccayena paccayo— paccuppannārammaṇā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. Paṭisandhikkhaṇe paccuppannārammaṇā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (1)
 
-[Go to previous page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

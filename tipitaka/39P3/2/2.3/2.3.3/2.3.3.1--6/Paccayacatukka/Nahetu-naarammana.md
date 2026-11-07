@@ -17,20 +17,19 @@
 
 (41.)
 
-1347\. Hetuvippayuttaṃ abyākataṃ dhammaṃ paṭicca hetuvippayutto abyākato dhammo uppajjati nahetupaccayā. (1)
+1347\. Hetuvippayuttaṁ abyākataṁ dhammaṁ paṭicca hetuvippayutto abyākato dhammo uppajjati nahetupaccayā. (1)
 
-1348\. Hetusampayuttaṃ abyākataṃ dhammaṃ paṭicca hetuvippayutto abyākato dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ.)
+1348\. Hetusampayuttaṁ abyākataṁ dhammaṁ paṭicca hetuvippayutto abyākato dhammo uppajjati naārammaṇapaccayā. (Saṁkhittaṁ.)
 
 (42.)
 
-1349\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
+1349\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ.)
 
-1350\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1350\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1351\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+1351\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-1352\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1352\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.3.3.7 Pañhāvāra)](../../2.3.3.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.3.3.7 Pañhāvāra)](../../2.3.3.7.md)
 

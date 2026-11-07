@@ -15,8 +15,7 @@
 
 (43.)
 
-191\. Savitakkasavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nonatthipaccayā…  novigatapaccayā…  (Saṃkhittaṃ.)
+191\. Savitakkasavicāraṁ dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nonatthipaccayā… novigatapaccayā… (Saṁkhittaṁ.)
 
-[Go to previous page (Navippayutta)](Navippayutta.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (7.1.2.2 Saṅkhyāvāra)](../7.1.2.2.md)
-
+[Go to previous page (Navippayutta)](Navippayutta.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (7.1.2.2 Saṅkhyāvāra)](../7.1.2.2.md)
 

@@ -13,16 +13,11 @@
 
 (27.)
 
-2515\. Hetupaccayā naārammaṇe cha…pe…  napurejāte satta, napacchājāte nava, naāsevane nava, nakamme dve, navipāke cha, nasampayutte cha, navippayutte tīṇi…pe…  novigate cha.
+2515\. Hetupaccayā naārammaṇe cha…pe… napurejāte satta, napacchājāte nava, naāsevane nava, nakamme dve, navipāke cha, nasampayutte cha, navippayutte tīṇi…pe… novigate cha.
 
-2516\. (Yathā kusalattike anulomapaccanīyagaṇanā, evaṃ gaṇetabbā.)
+2516\. (Yathā kusalattike anulomapaccanīyagaṇanā, evaṁ gaṇetabbā.)
 
----
+2517\. Anulomapaccanīyaṁ.
 
-2517\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (5.1.3 Paccayānulomapaccanīya)](../5.1.3.md) / [Go to parent page (5.1.3 Paccayānulomapaccanīya)](../5.1.3.md) / [Go to next page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md)
-
+[Go to previous page (5.1.3 Paccayānulomapaccanīya)](../5.1.3.md) / [Go to parent page (5.1.3 Paccayānulomapaccanīya)](../5.1.3.md) / [Go to next page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md)
 

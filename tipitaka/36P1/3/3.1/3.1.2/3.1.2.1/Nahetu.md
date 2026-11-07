@@ -15,12 +15,11 @@
 
 (8.)
 
-1816\. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
+1816\. Sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā— ahetukaṁ sukhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
 
-1817\. Dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā—  dukkhasahagataṃ kāyaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
+1817\. Dukkhāya vedanāya sampayuttaṁ dhammaṁ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā— dukkhasahagataṁ kāyaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
 
-1818\. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; ahetukapaṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho.
+1818\. Adukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā— ahetukaṁ adukkhamasukhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; ahetukapaṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho.
 
-[Go to previous page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

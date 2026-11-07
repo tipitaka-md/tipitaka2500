@@ -15,14 +15,9 @@
 
 (105.)
 
-414\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+414\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
----
+415\. Paccanīyaṁ.
 
-415\. Paccanīyaṃ.
-
-
-
-[Go to previous page (2.2.2.2 Saṅkhyāvāra)](../2.2.2.2.md) / [Go to parent page (2.2.2.2 Saṅkhyāvāra)](../2.2.2.2.md) / [Go to next page (2.2.3 Paccayānulomapaccanīya)](../../2.2.3.md)
-
+[Go to previous page (2.2.2.2 Saṅkhyāvāra)](../2.2.2.2.md) / [Go to parent page (2.2.2.2 Saṅkhyāvāra)](../2.2.2.2.md) / [Go to next page (2.2.3 Paccayānulomapaccanīya)](../../2.2.3.md)
 

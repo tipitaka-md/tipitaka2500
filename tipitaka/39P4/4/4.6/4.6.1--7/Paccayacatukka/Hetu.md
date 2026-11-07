@@ -15,16 +15,15 @@
 
 (30.)
 
-1313\. Kusalaṃ āsavavippayuttaṃ anāsavaṃ dhammaṃ paṭicca kusalo āsavavippayutto anāsavo dhammo uppajjati hetupaccayā. (1)
+1313\. Kusalaṁ āsavavippayuttaṁ anāsavaṁ dhammaṁ paṭicca kusalo āsavavippayutto anāsavo dhammo uppajjati hetupaccayā. (1)
 
-1314\. Abyākataṃ āsavavippayuttaṃ anāsavaṃ dhammaṃ paṭicca abyākato āsavavippayutto anāsavo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1314\. Abyākataṁ āsavavippayuttaṁ anāsavaṁ dhammaṁ paṭicca abyākato āsavavippayutto anāsavo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (31.)
 
-1315\. Hetuyā dve, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+1315\. Hetuyā dve, ārammaṇe dve…pe… āsevane ekaṁ…pe… vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
-1316\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1316\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
-
 

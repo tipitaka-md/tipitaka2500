@@ -15,28 +15,27 @@
 
 (28.)
 
-2500\. Maggahetuko dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, cetopariyañāṇena maggahetukacittasamaṅgissa cittaṃ jānanti, maggahetukā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2500\. Maggahetuko dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ paccavekkhanti, cetopariyañāṇena maggahetukacittasamaṅgissa cittaṁ jānanti, maggahetukā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-2501\. Maggahetuko dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (2)
+2501\. Maggahetuko dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. (2)
 
-2502\. Maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (3)
+2502\. Maggahetuko dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. (3)
 
 (29.)
 
-2503\. Maggādhipati dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (1)
+2503\. Maggādhipati dhammo maggādhipatissa dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. (1)
 
-2504\. Maggādhipati dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, cetopariyañāṇena maggādhipaticittasamaṅgissa cittaṃ jānanti, maggādhipatī khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
+2504\. Maggādhipati dhammo maggārammaṇassa dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ paccavekkhanti, cetopariyañāṇena maggādhipaticittasamaṅgissa cittaṁ jānanti, maggādhipatī khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
-2505\. Maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (3)
+2505\. Maggādhipati dhammo maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. (3)
 
 (30.)
 
-2506\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, cetopariyañāṇena maggahetukamaggādhipaticittasamaṅgissa cittaṃ jānanti, maggahetukā ca maggādhipatī ca khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2506\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ paccavekkhanti, cetopariyañāṇena maggahetukamaggādhipaticittasamaṅgissa cittaṁ jānanti, maggahetukā ca maggādhipatī ca khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-2507\. Maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (2)
+2507\. Maggahetuko ca maggādhipati ca dhammā maggādhipatissa dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. (2)
 
-2508\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. (3)
+2508\. Maggahetuko ca maggādhipati ca dhammā maggārammaṇassa ca maggādhipatissa ca dhammassa ārammaṇapaccayena paccayo— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

@@ -17,22 +17,21 @@
 
 (100.)
 
-337\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa anantarapaccayena paccayo…pe…  samanantarapaccayena paccayo.
+337\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa anantarapaccayena paccayo…pe… samanantarapaccayena paccayo.
 
-338\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+338\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (101.)
 
-339\. Ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare pañcavīsa, samanantare pañcavīsa, sahajāte tiṃsa, aññamaññe aṭṭhavīsa, nissaye tiṃsa, upanissaye pañcavīsa, purejāte pañca, pacchājāte pañca, āsevane ekavīsa, kamme ekādasa, vipāke ekavīsa, āhāre ekādasa, indriye ekādasa, jhāne ekavīsa, magge soḷasa, sampayutte ekādasa, vippayutte nava…pe…  avigate tiṃsa. (Saṃkhittaṃ.)
+339\. Ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare pañcavīsa, samanantare pañcavīsa, sahajāte tiṁsa, aññamaññe aṭṭhavīsa, nissaye tiṁsa, upanissaye pañcavīsa, purejāte pañca, pacchājāte pañca, āsevane ekavīsa, kamme ekādasa, vipāke ekavīsa, āhāre ekādasa, indriye ekādasa, jhāne ekavīsa, magge soḷasa, sampayutte ekādasa, vippayutte nava…pe… avigate tiṁsa. (Saṁkhittaṁ.)
 
-340\. Nahetuyā pañcatiṃsa, naārammaṇe pañcatiṃsa, naadhipatiyā pañcatiṃsa. (Saṃkhittaṃ.)
+340\. Nahetuyā pañcatiṁsa, naārammaṇe pañcatiṁsa, naadhipatiyā pañcatiṁsa. (Saṁkhittaṁ.)
 
-341\. Ārammaṇapaccayā nahetuyā ekavīsa. (Saṃkhittaṃ.)
+341\. Ārammaṇapaccayā nahetuyā ekavīsa. (Saṁkhittaṁ.)
 
-342\. Nahetupaccayā ārammaṇe ekavīsa. (Saṃkhittaṃ.)
+342\. Nahetupaccayā ārammaṇe ekavīsa. (Saṁkhittaṁ.)
 
-343\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+343\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7 Pītittika, Hetuduka)](../../../../1.7.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7 Pītittika, Hetuduka)](../../../../1.7.md)
 

@@ -15,26 +15,25 @@
 
 (1.)
 
-2263\. Micchattaniyataṃ dhammaṃ paṭicca micchattaniyato dhammo uppajjati hetupaccayā—  micchattaniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+2263\. Micchattaniyataṁ dhammaṁ paṭicca micchattaniyato dhammo uppajjati hetupaccayā— micchattaniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. (1)
 
-2264\. Micchattaniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  micchattaniyate khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2264\. Micchattaniyataṁ dhammaṁ paṭicca aniyato dhammo uppajjati hetupaccayā— micchattaniyate khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2265\. Micchattaniyataṃ dhammaṃ paṭicca micchattaniyato ca aniyato ca dhammā uppajjanti hetupaccayā—  micchattaniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+2265\. Micchattaniyataṁ dhammaṁ paṭicca micchattaniyato ca aniyato ca dhammā uppajjanti hetupaccayā— micchattaniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (2.)
 
-2266\. Sammattaniyataṃ dhammaṃ paṭicca sammattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
+2266\. Sammattaniyataṁ dhammaṁ paṭicca sammattaniyato dhammo uppajjati hetupaccayā… tīṇi.
 
 (3.)
 
-2267\. Aniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  aniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe aniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ, dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūtā. Mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+2267\. Aniyataṁ dhammaṁ paṭicca aniyato dhammo uppajjati hetupaccayā— aniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe aniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ, dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūtā. Mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
 (4.)
 
-2268\. Micchattaniyatañca aniyatañca dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  micchattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2268\. Micchattaniyatañca aniyatañca dhammaṁ paṭicca aniyato dhammo uppajjati hetupaccayā— micchattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-2269\. Sammattaniyatañca aniyatañca dhammaṃ paṭicca aniyato dhammo uppajjati hetupaccayā—  sammattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2269\. Sammattaniyatañca aniyatañca dhammaṁ paṭicca aniyato dhammo uppajjati hetupaccayā— sammattaniyate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to parent page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to parent page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

@@ -13,14 +13,9 @@
 
 * Tika
 
-363\. Naārammaṇapaccayā nahetupaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+363\. Naārammaṇapaccayā nahetupaccayā sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, kamme ekaṁ, vipāke ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
----
-
-364\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+364\. (Yathā nahetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to parent page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to next page (Naadhipatiduka)](../Naadhipatiduka.md)
-
 

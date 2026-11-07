@@ -17,14 +17,13 @@
 
 (244.)
 
-2921\. Cittasahabhuṃ dhammaṃ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā—  cittasahabhū khandhe paṭicca cittasahabhū cetanā.
+2921\. Cittasahabhuṁ dhammaṁ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā— cittasahabhū khandhe paṭicca cittasahabhū cetanā.
 
-2922\. Nocittasahabhuṃ dhammaṃ paṭicca nocittasahabhū dhammo uppajjati nakammapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… .
+2922\. Nocittasahabhuṁ dhammaṁ paṭicca nocittasahabhū dhammo uppajjati nakammapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… .
 
-2923\. Nocittasahabhuṃ dhammaṃ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā—  cittaṃ paṭicca sampayuttakā cetanā.
+2923\. Nocittasahabhuṁ dhammaṁ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā— cittaṁ paṭicca sampayuttakā cetanā.
 
-2924\. Cittasahabhuñca nocittasahabhuñca dhammaṃ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā—  cittasahabhū khandhe ca cittañca paṭicca sampayuttakā cetanā.
+2924\. Cittasahabhuñca nocittasahabhuñca dhammaṁ paṭicca cittasahabhū dhammo uppajjati nakammapaccayā— cittasahabhū khandhe ca cittañca paṭicca sampayuttakā cetanā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.7.1.2.1 Vibhaṅgavāra)](../10.7.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.7.1.2.1 Vibhaṅgavāra)](../10.7.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
 

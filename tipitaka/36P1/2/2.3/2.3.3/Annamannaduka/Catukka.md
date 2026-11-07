@@ -13,8 +13,7 @@
 
 * Catukka
 
-594\. Aññamaññapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta. (Saṃkhittaṃ.)
+594\. Aññamaññapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta. (Saṁkhittaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Aññamaññaduka)](../Annamannaduka.md) / [Go to next page (Nissayaduka)](../Nissayaduka.md)
-
 

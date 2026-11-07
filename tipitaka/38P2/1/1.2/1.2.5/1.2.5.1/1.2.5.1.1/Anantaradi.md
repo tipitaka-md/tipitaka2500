@@ -17,10 +17,9 @@
 
 (90.)
 
-244\. Sahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…pe…  vipākapaccayā—  vipākaṃ sahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… .
+244\. Sahetukaṁ dhammaṁ saṁsaṭṭho sahetuko dhammo uppajjati anantarapaccayā… samanantarapaccayā… sahajātapaccayā…pe… vipākapaccayā— vipākaṁ sahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… .
 
-245\. Ahetukaṃ dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati vipākapaccayā—  vipākaṃ ahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  jhānapaccayā…pe…  avigatapaccayā.
+245\. Ahetukaṁ dhammaṁ saṁsaṭṭho ahetuko dhammo uppajjati vipākapaccayā— vipākaṁ ahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… jhānapaccayā…pe… avigatapaccayā.
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to next page (1.2.5.1.2 Saṅkhyāvāra)](../1.2.5.1.2.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to next page (1.2.5.1.2 Saṅkhyāvāra)](../1.2.5.1.2.md)
 

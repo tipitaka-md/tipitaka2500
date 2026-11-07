@@ -17,10 +17,9 @@
 
 (346.)
 
-1077\. Āhāra sahajāta nissaya indriya atthi avigatanti satta. Āhāra sahajāta aññamañña nissaya indriya atthi avigatanti tīṇi. Āhāra sahajāta aññamañña nissaya indriya sampayutta atthi avigatanti tīṇi. Āhāra sahajāta nissaya indriya vippayutta atthi avigatanti tīṇi. [Avipāka—  4]
+1077\. Āhāra sahajāta nissaya indriya atthi avigatanti satta. Āhāra sahajāta aññamañña nissaya indriya atthi avigatanti tīṇi. Āhāra sahajāta aññamañña nissaya indriya sampayutta atthi avigatanti tīṇi. Āhāra sahajāta nissaya indriya vippayutta atthi avigatanti tīṇi. [Avipāka— 4]
 
-1078\. Āhāra sahajāta nissaya vipāka indriya atthi avigatanti ekaṃ. Āhāra sahajāta aññamañña nissaya vipāka indriya atthi avigatanti ekaṃ. Āhāra sahajāta aññamañña nissaya vipāka indriya sampayutta atthi avigatanti ekaṃ. Āhāra sahajāta nissaya vipāka indriya vippayutta atthi avigatanti ekaṃ. Āhāra sahajāta aññamañña nissaya vipāka indriya vippayutta atthi avigatanti ekaṃ. [Savipāka—  5]
+1078\. Āhāra sahajāta nissaya vipāka indriya atthi avigatanti ekaṁ. Āhāra sahajāta aññamañña nissaya vipāka indriya atthi avigatanti ekaṁ. Āhāra sahajāta aññamañña nissaya vipāka indriya sampayutta atthi avigatanti ekaṁ. Āhāra sahajāta nissaya vipāka indriya vippayutta atthi avigatanti ekaṁ. Āhāra sahajāta aññamañña nissaya vipāka indriya vippayutta atthi avigatanti ekaṁ. [Savipāka— 5]
 
 [Go to previous page (Sakammaghaṭanā)](Sakammaghatana.md) / [Go to parent page (Āhāra)](../Ahara.md) / [Go to next page (Sādhipati-indriyaghaṭanā)](Sadhipati-indriyaghatana.md)
-
 

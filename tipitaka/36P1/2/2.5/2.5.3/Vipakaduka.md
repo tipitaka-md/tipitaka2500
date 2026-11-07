@@ -13,10 +13,9 @@
 
 (240.)
 
-772\. Vipākapaccayā nahetuyā ekaṃ, naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ.
+772\. Vipākapaccayā nahetuyā ekaṁ, naadhipatiyā ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, najhāne ekaṁ, namagge ekaṁ, navippayutte ekaṁ.
 
 * [Tika](Vipakaduka/Tika.md)
 
-[Go to previous page (Tika)](Kammaduka/Tika.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Tika)](Vipakaduka/Tika.md)
-
+[Go to previous page (Tika)](Kammaduka/Tika.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Tika)](Vipakaduka/Tika.md)
 

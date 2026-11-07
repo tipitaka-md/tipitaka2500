@@ -17,12 +17,11 @@
 
 (101.)
 
-3777\. Upādānañceva upādānasampayuttañca dhammaṃ paṭicca upādāno ceva upādānasampayutto ca dhammo uppajjati hetupaccayā—  diṭṭhupādānaṃ paṭicca kāmupādānaṃ. (Cakkaṃ kātabbaṃ.) (1)
+3777\. Upādānañceva upādānasampayuttañca dhammaṁ paṭicca upādāno ceva upādānasampayutto ca dhammo uppajjati hetupaccayā— diṭṭhupādānaṁ paṭicca kāmupādānaṁ. (Cakkaṁ kātabbaṁ.) (1)
 
-3778\. Upādānañceva upādānasampayuttañca dhammaṃ paṭicca upādānasampayutto ceva no ca upādāno dhammo uppajjati hetupaccayā—  upādāne paṭicca sampayuttakā khandhā. (2)
+3778\. Upādānañceva upādānasampayuttañca dhammaṁ paṭicca upādānasampayutto ceva no ca upādāno dhammo uppajjati hetupaccayā— upādāne paṭicca sampayuttakā khandhā. (2)
 
-3779\. Upādānañceva upādānasampayuttañca dhammaṃ paṭicca upādāno ceva upādānasampayutto ca upādānasampayutto ceva no ca upādāno ca dhammā uppajjanti hetupaccayā—  diṭṭhupādānaṃ paṭicca kāmupādānaṃ sampayuttakā ca khandhā. (Cakkaṃ.) (3)
+3779\. Upādānañceva upādānasampayuttañca dhammaṁ paṭicca upādāno ceva upādānasampayutto ca upādānasampayutto ceva no ca upādāno ca dhammā uppajjanti hetupaccayā— diṭṭhupādānaṁ paṭicca kāmupādānaṁ sampayuttakā ca khandhā. (Cakkaṁ.) (3)
 
-[Go to previous page (11.5.1.1--4.1 Vibhaṅgavāra)](../11.5.1.1--4.1.md) / [Go to parent page (11.5.1.1--4.1 Vibhaṅgavāra)](../11.5.1.1--4.1.md) / [Go to next page (11.5.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../../11.5.2--6.md)
-
+[Go to previous page (11.5.1.1--4.1 Vibhaṅgavāra)](../11.5.1.1--4.1.md) / [Go to parent page (11.5.1.1--4.1 Vibhaṅgavāra)](../11.5.1.1--4.1.md) / [Go to next page (11.5.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../../11.5.2--6.md)
 

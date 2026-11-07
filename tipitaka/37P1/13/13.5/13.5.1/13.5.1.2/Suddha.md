@@ -15,14 +15,9 @@
 
 (44.)
 
-2000\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+2000\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe… avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+2001\. Anulomaṁ.
 
-2001\. Anulomaṃ.
-
-
-
-[Go to previous page (13.5.1.2 Saṅkhyāvāra)](../13.5.1.2.md) / [Go to parent page (13.5.1.2 Saṅkhyāvāra)](../13.5.1.2.md) / [Go to next page (13.5.2 Paccayapaccanīya)](../../13.5.2.md)
-
+[Go to previous page (13.5.1.2 Saṅkhyāvāra)](../13.5.1.2.md) / [Go to parent page (13.5.1.2 Saṅkhyāvāra)](../13.5.1.2.md) / [Go to next page (13.5.2 Paccayapaccanīya)](../../13.5.2.md)
 

@@ -15,6 +15,5 @@
 
 2021\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (3.7.3 Paccayānulomapaccanīya)](../3.7.3.md) / [Go to parent page (3.7.3 Paccayānulomapaccanīya)](../3.7.3.md) / [Go to next page (Sāmaññaghaṭanā)](Samannaghatana.md)
-
+[Go to previous page (3.7.3 Paccayānulomapaccanīya)](../3.7.3.md) / [Go to parent page (3.7.3 Paccayānulomapaccanīya)](../3.7.3.md) / [Go to next page (Sāmaññaghaṭanā)](Samannaghatana.md)
 

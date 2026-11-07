@@ -17,8 +17,7 @@
 
 (405.)
 
-3345\. Noupādā dhammo noupādā dhammassa jhānapaccayena paccayo…  tīṇi, maggapaccayena paccayo…  tīṇi; paṭisandhikkhaṇe…pe…  sampayuttapaccayena paccayo…  ekaṃ.
+3345\. Noupādā dhammo noupādā dhammassa jhānapaccayena paccayo… tīṇi, maggapaccayena paccayo… tīṇi; paṭisandhikkhaṇe…pe… sampayuttapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

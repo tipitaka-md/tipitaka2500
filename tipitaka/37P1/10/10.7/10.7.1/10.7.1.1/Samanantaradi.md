@@ -15,8 +15,7 @@
 
 (87.)
 
-1314\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa samanantarapaccayena paccayo…  (anantarasadisaṃ) sahajātapaccayena paccayo…  (Saṃkhittaṃ. Paṭiccavāre sahajātasadisaṃ) aññamaññapaccayena paccayo…  (Saṃkhittaṃ. Paṭiccavāre aññamaññasadisaṃ) nissayapaccayena paccayo… . (Saṃkhittaṃ. Paccayavāre nissayavārasadisaṃ. Visuṃ ghaṭanā natthi.)
+1314\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa samanantarapaccayena paccayo… (anantarasadisaṁ) sahajātapaccayena paccayo… (Saṁkhittaṁ. Paṭiccavāre sahajātasadisaṁ) aññamaññapaccayena paccayo… (Saṁkhittaṁ. Paṭiccavāre aññamaññasadisaṁ) nissayapaccayena paccayo… . (Saṁkhittaṁ. Paccayavāre nissayavārasadisaṁ. Visuṁ ghaṭanā natthi.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

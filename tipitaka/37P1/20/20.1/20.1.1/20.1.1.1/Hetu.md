@@ -15,16 +15,15 @@
 
 (1.)
 
-2664\. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati hetupaccayā—  atītārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe atītārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+2664\. Atītārammaṇaṁ dhammaṁ paṭicca atītārammaṇo dhammo uppajjati hetupaccayā— atītārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. Paṭisandhikkhaṇe atītārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. (1)
 
 (2.)
 
-2665\. Anāgatārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati hetupaccayā—  anāgatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+2665\. Anāgatārammaṇaṁ dhammaṁ paṭicca anāgatārammaṇo dhammo uppajjati hetupaccayā— anāgatārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. (1)
 
 (3.)
 
-2666\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati hetupaccayā—  paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. Paṭisandhikkhaṇe paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+2666\. Paccuppannārammaṇaṁ dhammaṁ paṭicca paccuppannārammaṇo dhammo uppajjati hetupaccayā— paccuppannārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. Paṭisandhikkhaṇe paccuppannārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. (1)
 
-[Go to previous page (20.1.1.1 Vibhaṅgavāra)](../20.1.1.1.md) / [Go to parent page (20.1.1.1 Vibhaṅgavāra)](../20.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
-
+[Go to previous page (20.1.1.1 Vibhaṅgavāra)](../20.1.1.1.md) / [Go to parent page (20.1.1.1 Vibhaṅgavāra)](../20.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 

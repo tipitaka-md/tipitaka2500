@@ -15,18 +15,17 @@
 
 (344.)
 
-721\. Hetu asekkho dhammo hetussa asekkhassa dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+721\. Hetu asekkho dhammo hetussa asekkhassa dhammassa sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (345.)
 
-722\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+722\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-723\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+723\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-724\. Nahetupaccayā adhipatiyā tīṇi. (Saṃkhittaṃ.)
+724\. Nahetupaccayā adhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-725\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+725\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.11.2.7 Pañhāvāra)](../1.11.2.7.md) / [Go to next page (1.11.3 Nevasekkhanāsekkhapada)](../../1.11.3.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.11.2.7 Pañhāvāra)](../1.11.2.7.md) / [Go to next page (1.11.3 Nevasekkhanāsekkhapada)](../../1.11.3.md)
 

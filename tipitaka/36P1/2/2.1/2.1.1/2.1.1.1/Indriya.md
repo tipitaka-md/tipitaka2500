@@ -15,12 +15,11 @@
 
 (14.)
 
-160\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati indriyapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…  tīṇi.
+160\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati indriyapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca… tīṇi.
 
-161\. Akusalaṃ dhammaṃ paṭicca…  tīṇi.
+161\. Akusalaṁ dhammaṁ paṭicca… tīṇi.
 
-162\. Abyākataṃ dhammaṃ paṭicca…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (Indriyapaccayaṃ kammapaccayasadisaṃ.)
+162\. Abyākataṁ dhammaṁ paṭicca…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… . (Indriyapaccayaṁ kammapaccayasadisaṁ.)
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Jhāna-magga)](Jhana-magga.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Jhāna-magga)](Jhana-magga.md)
 

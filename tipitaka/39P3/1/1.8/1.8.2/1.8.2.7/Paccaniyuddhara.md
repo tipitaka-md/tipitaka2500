@@ -15,18 +15,17 @@
 
 (272.)
 
-549\. Hetu bhāvanāya pahātabbo dhammo hetussa bhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+549\. Hetu bhāvanāya pahātabbo dhammo hetussa bhāvanāya pahātabbassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (273.)
 
-550\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+550\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-551\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+551\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-552\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+552\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-553\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+553\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.8.2.7 Pañhāvāra)](../1.8.2.7.md) / [Go to next page (1.8.3 Nevadassanenanabhāvanāyapahātabbapada)](../../1.8.3.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.8.2.7 Pañhāvāra)](../1.8.2.7.md) / [Go to next page (1.8.3 Nevadassanenanabhāvanāyapahātabbapada)](../../1.8.3.md)
 

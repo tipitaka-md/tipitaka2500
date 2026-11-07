@@ -17,4 +17,3 @@
 
 [Go to previous page (Sahajātaduka)](../Sahajataduka.md) / [Go to parent page (Sahajātaduka)](../Sahajataduka.md) / [Go to next page (Catukka)](Catukka.md)
 
-

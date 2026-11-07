@@ -19,4 +19,3 @@
 
 [Go to previous page (Purejāta)](../Purejata.md) / [Go to parent page (Purejāta)](../Purejata.md) / [Go to next page (Purejātaghaṭanā)](Purejataghatana.md)
 
-

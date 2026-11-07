@@ -21,4 +21,3 @@
 
 [Go to previous page (Āhārasabhāga)](Aharasabhaga.md) / [Go to parent page (Āhāra)](../Ahara.md) / [Go to next page (Sahajātasāmaññaghaṭanā)](Sahajatasamannaghatana.md)
 
-

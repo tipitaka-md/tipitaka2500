@@ -17,8 +17,7 @@
 
 (70.)
 
-3996\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte pañca, naaññamaññe pañca, nanissaye pañca, naupanissaye satta, napurejāte cha, napacchājāte satta…pe…  namagge satta, nasampayutte pañca, navippayutte cattāri, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
+3996\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte pañca, naaññamaññe pañca, nanissaye pañca, naupanissaye satta, napurejāte cha, napacchājāte satta…pe… namagge satta, nasampayutte pañca, navippayutte cattāri, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
 
-[Go to previous page (12.3.7.2.1 Saṅkhyāvāra)](../12.3.7.2.1.md) / [Go to parent page (12.3.7.2.1 Saṅkhyāvāra)](../12.3.7.2.1.md) / [Go to next page (12.3.7.3 Paccayānulomapaccanīya)](../../12.3.7.3.md)
-
+[Go to previous page (12.3.7.2.1 Saṅkhyāvāra)](../12.3.7.2.1.md) / [Go to parent page (12.3.7.2.1 Saṅkhyāvāra)](../12.3.7.2.1.md) / [Go to next page (12.3.7.3 Paccayānulomapaccanīya)](../../12.3.7.3.md)
 

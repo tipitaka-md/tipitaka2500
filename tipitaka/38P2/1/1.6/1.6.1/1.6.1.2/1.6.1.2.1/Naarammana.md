@@ -17,12 +17,11 @@
 
 (165.)
 
-456\. Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā—  nahetū sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (1)
+456\. Nahetuṁ sahetukaṁ dhammaṁ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā— nahetū sahetuke khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (1)
 
-457\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā—  nahetū ahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+457\. Nahetuṁ ahetukaṁ dhammaṁ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā— nahetū ahetuke khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-458\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā—  nahetū sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.)
+458\. Nahetuṁ sahetukañca nahetuṁ ahetukañca dhammaṁ paṭicca nahetu ahetuko dhammo uppajjati naārammaṇapaccayā— nahetū sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… (Saṁkhittaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (1.6.1.2.1 Vibhaṅgavāra)](../1.6.1.2.1.md) / [Go to next page (1.6.1.2.2 Saṅkhyāvāra)](../1.6.1.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (1.6.1.2.1 Vibhaṅgavāra)](../1.6.1.2.1.md) / [Go to next page (1.6.1.2.2 Saṅkhyāvāra)](../1.6.1.2.2.md)
 

@@ -17,12 +17,11 @@
 
 (8.)
 
-3829\. Kilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  kilese paṭicca sampayuttakā cetanā. (1)
+3829\. Kilesaṁ dhammaṁ paṭicca nokileso dhammo uppajjati nakammapaccayā— kilese paṭicca sampayuttakā cetanā. (1)
 
-3830\. Nokilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  nokilese khandhe paṭicca sampayuttakā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
+3830\. Nokilesaṁ dhammaṁ paṭicca nokileso dhammo uppajjati nakammapaccayā— nokilese khandhe paṭicca sampayuttakā cetanā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… . (1)
 
-3831\. Kilesañca nokilesañca dhammaṃ paṭicca nokileso dhammo uppajjati nakammapaccayā—  kilese ca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1) (Evaṃ sabbe paccayā kātabbā.)
+3831\. Kilesañca nokilesañca dhammaṁ paṭicca nokileso dhammo uppajjati nakammapaccayā— kilese ca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1) (Evaṁ sabbe paccayā kātabbā.)
 
-[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to next page (12.1.1.2.2 Saṅkhyāvāra)](../12.1.1.2.2.md)
-
+[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to next page (12.1.1.2.2 Saṅkhyāvāra)](../12.1.1.2.2.md)
 

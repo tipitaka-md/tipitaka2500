@@ -17,16 +17,15 @@
 
 (40.)
 
-3918\. Saṃkiliṭṭhaṃ dhammaṃ paṭicca saṃkiliṭṭho dhammo uppajjati hetupaccayā—  saṃkiliṭṭhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+3918\. Saṁkiliṭṭhaṁ dhammaṁ paṭicca saṁkiliṭṭho dhammo uppajjati hetupaccayā— saṁkiliṭṭhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-3919\. Saṃkiliṭṭhaṃ dhammaṃ paṭicca asaṃkiliṭṭho dhammo uppajjati hetupaccayā—  saṃkiliṭṭhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+3919\. Saṁkiliṭṭhaṁ dhammaṁ paṭicca asaṁkiliṭṭho dhammo uppajjati hetupaccayā— saṁkiliṭṭhe khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-3920\. Saṃkiliṭṭhaṃ dhammaṃ paṭicca saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+3920\. Saṁkiliṭṭhaṁ dhammaṁ paṭicca saṁkiliṭṭho ca asaṁkiliṭṭho ca dhammā uppajjanti hetupaccayā— saṁkiliṭṭhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-3921\. Asaṃkiliṭṭhaṃ dhammaṃ paṭicca asaṃkiliṭṭho dhammo uppajjati hetupaccayā—  asaṃkiliṭṭhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… . (1)
+3921\. Asaṁkiliṭṭhaṁ dhammaṁ paṭicca asaṁkiliṭṭho dhammo uppajjati hetupaccayā— asaṁkiliṭṭhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… . (1)
 
-3922\. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paṭicca asaṃkiliṭṭho dhammo uppajjati hetupaccayā—  saṃkiliṭṭhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
+3922\. Saṁkiliṭṭhañca asaṁkiliṭṭhañca dhammaṁ paṭicca asaṁkiliṭṭho dhammo uppajjati hetupaccayā— saṁkiliṭṭhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (12.3.1.1.1 Vibhaṅgavāra)](../12.3.1.1.1.md) / [Go to parent page (12.3.1.1.1 Vibhaṅgavāra)](../12.3.1.1.1.md) / [Go to next page (12.3.1.1.2 Saṅkhyāvāra)](../12.3.1.1.2.md)
-
+[Go to previous page (12.3.1.1.1 Vibhaṅgavāra)](../12.3.1.1.1.md) / [Go to parent page (12.3.1.1.1 Vibhaṅgavāra)](../12.3.1.1.1.md) / [Go to next page (12.3.1.1.2 Saṅkhyāvāra)](../12.3.1.1.2.md)
 

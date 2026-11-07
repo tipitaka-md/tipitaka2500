@@ -17,10 +17,9 @@
 
 (142.)
 
-4379\. Sappītikaṃ dhammaṃ paṭicca sappītiko dhammo uppajjati hetupaccayā—  sappītikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . Sappītikaṃ dhammaṃ paṭicca appītiko dhammo uppajjati hetupaccayā—  sappītike khandhe paṭicca pīti ca cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe… . Sappītikaṃ dhammaṃ paṭicca sappītiko ca appītiko ca dhammā uppajjanti hetupaccayā—  sappītikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā pīti ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+4379\. Sappītikaṁ dhammaṁ paṭicca sappītiko dhammo uppajjati hetupaccayā— sappītikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . Sappītikaṁ dhammaṁ paṭicca appītiko dhammo uppajjati hetupaccayā— sappītike khandhe paṭicca pīti ca cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe…pe… . Sappītikaṁ dhammaṁ paṭicca sappītiko ca appītiko ca dhammā uppajjanti hetupaccayā— sappītikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā pīti ca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
-4380\. Appītikaṃ dhammaṃ paṭicca appītiko dhammo uppajjati hetupaccayā—  appītikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  pītiṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe appītikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ, dve khandhe…pe…  pītiṃ paṭicca kaṭattārūpaṃ, khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, pītiṃ paṭicca vatthu, vatthuṃ paṭicca pīti, ekaṃ mahābhūtaṃ…pe… . (Yathā savitakkadukaṃ sabbattha, evaṃ sappītikadukaṃ kātabbaṃ, sabbattha pavattipaṭisandhi navapi pañhā.)
+4380\. Appītikaṁ dhammaṁ paṭicca appītiko dhammo uppajjati hetupaccayā— appītikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… pītiṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe appītikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ, dve khandhe…pe… pītiṁ paṭicca kaṭattārūpaṁ, khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, pītiṁ paṭicca vatthu, vatthuṁ paṭicca pīti, ekaṁ mahābhūtaṁ…pe… . (Yathā savitakkadukaṁ sabbattha, evaṁ sappītikadukaṁ kātabbaṁ, sabbattha pavattipaṭisandhi navapi pañhā.)
 
-[Go to previous page (13.7.1.1.1 Vibhaṅgavāra)](../13.7.1.1.1.md) / [Go to parent page (13.7.1.1.1 Vibhaṅgavāra)](../13.7.1.1.1.md) / [Go to next page (13.7.1.1.2 Saṅkhyāvāra)](../13.7.1.1.2.md)
-
+[Go to previous page (13.7.1.1.1 Vibhaṅgavāra)](../13.7.1.1.1.md) / [Go to parent page (13.7.1.1.1 Vibhaṅgavāra)](../13.7.1.1.1.md) / [Go to next page (13.7.1.1.2 Saṅkhyāvāra)](../13.7.1.1.2.md)
 

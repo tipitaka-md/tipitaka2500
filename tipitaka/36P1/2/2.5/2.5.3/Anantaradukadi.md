@@ -13,14 +13,9 @@
 
 (236.)
 
-764\. Anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā.
+764\. Anantarapaccayā… samanantarapaccayā… sahajātapaccayā… aññamaññapaccayā… nissayapaccayā… upanissayapaccayā.
 
----
+765\. (Yathā ārammaṇamūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-765\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Tikādi)](Adhipatiduka/Tikadi.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Purejātaduka)](Purejataduka.md)
-
+[Go to previous page (Tikādi)](Adhipatiduka/Tikadi.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (Purejātaduka)](Purejataduka.md)
 

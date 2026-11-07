@@ -17,12 +17,11 @@
 
 (23.)
 
-1746\. Saññojanasampayuttaṃ akusalaṃ dhammaṃ paṭicca saññojanasampayutto akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe paṭicca vicikicchāsahagato moho. Saññojanasampayuttaṃ akusalaṃ dhammaṃ paṭicca saññojanavippayutto akusalo dhammo uppajjati nahetupaccayā—  uddhaccasahagate khandhe paṭicca uddhaccasahagato moho. (2) (Saṃkhittaṃ.)
+1746\. Saññojanasampayuttaṁ akusalaṁ dhammaṁ paṭicca saññojanasampayutto akusalo dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe paṭicca vicikicchāsahagato moho. Saññojanasampayuttaṁ akusalaṁ dhammaṁ paṭicca saññojanavippayutto akusalo dhammo uppajjati nahetupaccayā— uddhaccasahagate khandhe paṭicca uddhaccasahagato moho. (2) (Saṁkhittaṁ.)
 
 (24.)
 
-1747\. Nahetuyā dve, naadhipatiyā pañca, napurejāte pañca…pe…  nakamme tīṇi…pe…  navippayutte pañca. (Saṃkhittaṃ, paccanīyaṃ.)
+1747\. Nahetuyā dve, naadhipatiyā pañca, napurejāte pañca…pe… nakamme tīṇi…pe… navippayutte pañca. (Saṁkhittaṁ, paccanīyaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (5.3.1.7 Pañhāvāra)](../../5.3.1.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (5.3.1.7 Pañhāvāra)](../../5.3.1.7.md)
 

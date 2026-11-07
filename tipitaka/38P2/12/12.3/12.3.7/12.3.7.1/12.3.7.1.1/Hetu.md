@@ -17,14 +17,13 @@
 
 (51.)
 
-3951\. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa hetupaccayena paccayo—  saṃkiliṭṭhā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+3951\. Saṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa hetupaccayena paccayo— saṁkiliṭṭhā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (1)
 
-3952\. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa hetupaccayena paccayo—  saṃkiliṭṭhā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
+3952\. Saṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa hetupaccayena paccayo— saṁkiliṭṭhā hetū cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo. (2)
 
-3953\. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa ca asaṃkiliṭṭhassa ca dhammassa hetupaccayena paccayo—  saṃkiliṭṭhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+3953\. Saṁkiliṭṭho dhammo saṁkiliṭṭhassa ca asaṁkiliṭṭhassa ca dhammassa hetupaccayena paccayo— saṁkiliṭṭhā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
-3954\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa hetupaccayena paccayo—  asaṃkiliṭṭhā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+3954\. Asaṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa hetupaccayena paccayo— asaṁkiliṭṭhā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

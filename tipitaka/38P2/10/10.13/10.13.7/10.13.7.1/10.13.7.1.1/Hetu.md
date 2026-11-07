@@ -17,12 +17,11 @@
 
 (394.)
 
-3318\. Noupādā dhammo noupādā dhammassa hetupaccayena paccayo—  noupādā hetū sampayuttakānaṃ khandhānaṃ noupādā ca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+3318\. Noupādā dhammo noupādā dhammassa hetupaccayena paccayo— noupādā hetū sampayuttakānaṁ khandhānaṁ noupādā ca cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-3319\. Noupādā dhammo upādā dhammassa hetupaccayena paccayo—  noupādā hetū upādā cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
+3319\. Noupādā dhammo upādā dhammassa hetupaccayena paccayo— noupādā hetū upādā cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
 
-3320\. Noupādā dhammo upādā ca noupādā ca dhammassa hetupaccayena paccayo—  noupādā hetū sampayuttakānaṃ khandhānaṃ upādā ca noupādā ca cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
+3320\. Noupādā dhammo upādā ca noupādā ca dhammassa hetupaccayena paccayo— noupādā hetū sampayuttakānaṁ khandhānaṁ upādā ca noupādā ca cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

@@ -23,34 +23,33 @@
 
 (143.)
 
-505\. Ācayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+505\. Ācayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
 506\. Apacayagāmī nahetu dhammo apacayagāmissa nahetussa dhammassa adhipatipaccayena paccayo. Apacayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa adhipatipaccayena paccayo. Apacayagāmī nahetu dhammo nevācayagāmināpacayagāmissa nahetussa dhammassa adhipatipaccayena paccayo. Apacayagāmī nahetu dhammo apacayagāmissa nahetussa ca nevācayagāmināpacayagāmissa nahetussa ca dhammassa adhipatipaccayena paccayo. (4)
 
 (144.)
 
-507\. Nevācayagāmināpacayagāmī nahetu dhammo nevācayagāmināpacayagāmissa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+507\. Nevācayagāmināpacayagāmī nahetu dhammo nevācayagāmināpacayagāmissa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
 508\. Ācayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa anantarapaccayena paccayo. Ācayagāmī nahetu dhammo apacayagāmissa nahetussa dhammassa anantarapaccayena paccayo. Ācayagāmī nahetu dhammo nevācayagāmināpacayagāmissa nahetussa dhammassa anantarapaccayena paccayo. (3)
 
 509\. Apacayagāmī nahetu dhammo nevācayagāmināpacayagāmissa nahetussa dhammassa anantarapaccayena paccayo. (1)
 
-510\. Nevācayagāmināpacayagāmī nahetu dhammo nevācayagāmināpacayagāmissa nahetussa dhammassa anantarapaccayena paccayo. Nevācayagāmināpacayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa anantarapaccayena paccayo. (2)…pe… .
+510\. Nevācayagāmināpacayagāmī nahetu dhammo nevācayagāmināpacayagāmissa nahetussa dhammassa anantarapaccayena paccayo. Nevācayagāmināpacayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa anantarapaccayena paccayo. (2)…pe… .
 
-511\. Ācayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+511\. Ācayagāmī nahetu dhammo ācayagāmissa nahetussa dhammassa upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (145.)
 
-512\. Ārammaṇe satta, adhipatiyā dasa, anantare cha samanantare cha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte pacchājāte āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
+512\. Ārammaṇe satta, adhipatiyā dasa, anantare cha samanantare cha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte pacchājāte āsevane tīṇi, kamme satta, vipāke ekaṁ, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe… avigate terasa. (Saṁkhittaṁ.)
 
-513\. Nahetuyā pannarasa, naārammaṇe pannarasa. (Saṃkhittaṃ.)
+513\. Nahetuyā pannarasa, naārammaṇe pannarasa. (Saṁkhittaṁ.)
 
-514\. Ārammaṇapaccayā nahetuyā satta. (Saṃkhittaṃ.)
+514\. Ārammaṇapaccayā nahetuyā satta. (Saṁkhittaṁ.)
 
-515\. Nahetupaccayā ārammaṇe satta. (Saṃkhittaṃ.)
+515\. Nahetupaccayā ārammaṇe satta. (Saṁkhittaṁ.)
 
-516\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+516\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.10.2.7 Pañhāvāra)](../1.10.2.7.md) / [Go to parent page (1.10.2.7 Pañhāvāra)](../1.10.2.7.md) / [Go to next page (1.11 Sekkhattika, Hetuduka)](../../../1.11.md)
-
+[Go to previous page (1.10.2.7 Pañhāvāra)](../1.10.2.7.md) / [Go to parent page (1.10.2.7 Pañhāvāra)](../1.10.2.7.md) / [Go to next page (1.11 Sekkhattika, Hetuduka)](../../../1.11.md)
 

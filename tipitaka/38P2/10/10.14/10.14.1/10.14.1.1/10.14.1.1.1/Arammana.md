@@ -17,10 +17,9 @@
 
 (417.)
 
-3379\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati ārammaṇapaccayā—  upādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuṃ paṭicca khandhā. (1)
+3379\. Upādinnaṁ dhammaṁ paṭicca upādinno dhammo uppajjati ārammaṇapaccayā— upādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… vatthuṁ paṭicca khandhā. (1)
 
-3380\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati ārammaṇapaccayā—  anupādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+3380\. Anupādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati ārammaṇapaccayā— anupādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

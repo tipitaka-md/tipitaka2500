@@ -13,20 +13,11 @@
 
 (510.)
 
-1757\. Najhānapaccayā hetuyā satta, ārammaṇe nava…pe…  avigate terasa.
+1757\. Najhānapaccayā hetuyā satta, ārammaṇe nava…pe… avigate terasa.
 
----
+1758\. (Yathā nahetumūlakaṁ, evaṁ najhānamūlakaṁ vitthāretabbaṁ.)
 
-1758\. (Yathā nahetumūlakaṃ, evaṃ najhānamūlakaṃ vitthāretabbaṃ.)
+1759\. Najhānamūlakaṁ.
 
-
-
----
-
-1759\. Najhānamūlakaṃ.
-
-
-
-[Go to previous page (Bāvīsaka)](Naindriyaduka/Bavisaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Namaggaduka)](Namaggaduka.md)
-
+[Go to previous page (Bāvīsaka)](Naindriyaduka/Bavisaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Namaggaduka)](Namaggaduka.md)
 

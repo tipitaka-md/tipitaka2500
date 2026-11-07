@@ -15,14 +15,9 @@
 
 (494.)
 
-1693\. Avigatapaccayā nahetuyā terasa… . (Yathā atthipaccayo vitthārito evaṃ avigatapaccayo vitthāretabbo.)
+1693\. Avigatapaccayā nahetuyā terasa… . (Yathā atthipaccayo vitthārito evaṁ avigatapaccayo vitthāretabbo.)
 
----
+1694\. Pañhāvārassa anulomapaccanīyaṁ.
 
-1694\. Pañhāvārassa anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Avigata)](../Avigata.md) / [Go to parent page (Avigata)](../Avigata.md) / [Go to next page (2.7.4 Paccayapaccanīyānuloma)](../../2.7.4.md)
-
+[Go to previous page (Avigata)](../Avigata.md) / [Go to parent page (Avigata)](../Avigata.md) / [Go to next page (2.7.4 Paccayapaccanīyānuloma)](../../2.7.4.md)
 

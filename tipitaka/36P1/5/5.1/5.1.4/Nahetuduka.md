@@ -13,19 +13,11 @@
 
 (28.)
 
-2518\. Nahetupaccayā ārammaṇe dve…pe…  sahajāte pañca, aññamaññe dve, nissaye pañca, upanissaye dve, purejāte dve, āsevane ekaṃ, kamme pañca…pe…  jhāne pañca, magge ekaṃ, sampayutte dve, vippayutte pañca…pe…  avigate pañca.
+2518\. Nahetupaccayā ārammaṇe dve…pe… sahajāte pañca, aññamaññe dve, nissaye pañca, upanissaye dve, purejāte dve, āsevane ekaṁ, kamme pañca…pe… jhāne pañca, magge ekaṁ, sampayutte dve, vippayutte pañca…pe… avigate pañca.
 
-2519\. (Yathā kusalattike paccanīyānulomagaṇanā, evaṃ gaṇetabbā.)
+2519\. (Yathā kusalattike paccanīyānulomagaṇanā, evaṁ gaṇetabbā.)
 
----
+2520\. Paccanīyānulomaṁ. Paṭiccavāro.
 
-2520\. Paccanīyānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md) / [Go to parent page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md) / [Go to next page (5.2 Sahajātavāra)](../../5.2.md)
-
+[Go to previous page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md) / [Go to parent page (5.1.4 Paccayapaccanīyānuloma)](../5.1.4.md) / [Go to next page (5.2 Sahajātavāra)](../../5.2.md)
 

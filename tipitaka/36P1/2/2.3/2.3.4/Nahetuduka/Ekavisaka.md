@@ -13,8 +13,7 @@
 
 * Ekavīsaka
 
-633\. Nahetupaccayā naārammaṇapaccayā…pe…  nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā…pe…  novigatapaccayā sahajāte ekaṃ, nissaye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+633\. Nahetupaccayā naārammaṇapaccayā…pe… nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā…pe… novigatapaccayā sahajāte ekaṁ, nissaye ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
 [Go to previous page (Cuddasaka)](Cuddasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naārammaṇaduka)](../Naarammanaduka.md)
-
 

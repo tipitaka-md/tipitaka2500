@@ -17,8 +17,7 @@
 
 (385.)
 
-1149\. Vigatapaccayā anantare satta, samanantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṃ, natthiyā satta. (6)
+1149\. Vigatapaccayā anantare satta, samanantare satta, upanissaye satta, āsevane tīṇi, kamme ekaṁ, natthiyā satta. (6)
 
 [Go to previous page (Vigata)](../Vigata.md) / [Go to parent page (Vigata)](../Vigata.md) / [Go to next page (Vigataghaṭanā)](Vigataghatana.md)
-
 

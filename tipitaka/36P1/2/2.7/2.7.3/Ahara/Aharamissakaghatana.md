@@ -15,8 +15,7 @@
 
 (453.)
 
-1432\. Āhāra atthi avigatanti nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte ekaṃ, naaññamaññe tīṇi, nanissaye ekaṃ, naupanissaye satta, napurejāte satta, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, naindriye satta, najhāne satta, namagge satta, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta.
+1432\. Āhāra atthi avigatanti nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte ekaṁ, naaññamaññe tīṇi, nanissaye ekaṁ, naupanissaye satta, napurejāte satta, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, naindriye satta, najhāne satta, namagge satta, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta.
 
 [Go to previous page (Āhāraduka)](Aharaduka.md) / [Go to parent page (Āhāra)](../Ahara.md) / [Go to next page (Sahajātasāmaññaghaṭanā)](Sahajatasamannaghatana.md)
-
 

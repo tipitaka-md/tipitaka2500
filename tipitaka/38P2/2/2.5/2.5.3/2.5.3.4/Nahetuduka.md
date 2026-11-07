@@ -15,14 +15,9 @@
 
 (109.)
 
-795\. Nahetupaccayā ārammaṇe tīṇi (sabbe kātabbā)…pe…  jhāne nava, magge tīṇi…pe…  avigate nava.
+795\. Nahetupaccayā ārammaṇe tīṇi (sabbe kātabbā)…pe… jhāne nava, magge tīṇi…pe… avigate nava.
 
----
+796\. Paccanīyānulomaṁ.
 
-796\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (2.5.3.4 Paccayapaccanīyānuloma)](../2.5.3.4.md) / [Go to parent page (2.5.3.4 Paccayapaccanīyānuloma)](../2.5.3.4.md) / [Go to next page (2.5.4 Nissayavāra)](../../2.5.4.md)
-
+[Go to previous page (2.5.3.4 Paccayapaccanīyānuloma)](../2.5.3.4.md) / [Go to parent page (2.5.3.4 Paccayapaccanīyānuloma)](../2.5.3.4.md) / [Go to next page (2.5.4 Nissayavāra)](../../2.5.4.md)
 

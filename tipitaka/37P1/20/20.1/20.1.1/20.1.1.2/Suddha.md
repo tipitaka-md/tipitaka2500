@@ -15,14 +15,9 @@
 
 (5.)
 
-2668\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  (sabbattha tīṇi), vigate tīṇi, avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+2668\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe… (sabbattha tīṇi), vigate tīṇi, avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+2669\. Anulomaṁ.
 
-2669\. Anulomaṃ.
-
-
-
-[Go to previous page (20.1.1.2 Saṅkhyāvāra)](../20.1.1.2.md) / [Go to parent page (20.1.1.2 Saṅkhyāvāra)](../20.1.1.2.md) / [Go to next page (20.1.2 Paccayapaccanīya)](../../20.1.2.md)
-
+[Go to previous page (20.1.1.2 Saṅkhyāvāra)](../20.1.1.2.md) / [Go to parent page (20.1.1.2 Saṅkhyāvāra)](../20.1.1.2.md) / [Go to next page (20.1.2 Paccayapaccanīya)](../../20.1.2.md)
 

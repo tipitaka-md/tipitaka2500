@@ -17,8 +17,7 @@
 
 (29.)
 
-4124\. Hetuyā cattāri, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri, samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane dve, kamme cattāri, vipāke ekaṃ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge cattāri, sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri, vigate cattāri, avigate satta.
+4124\. Hetuyā cattāri, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri, samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane dve, kamme cattāri, vipāke ekaṁ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge cattāri, sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri, vigate cattāri, avigate satta.
 
-[Go to previous page (13.1.7.1.2 Saṅkhyāvāra)](../13.1.7.1.2.md) / [Go to parent page (13.1.7.1.2 Saṅkhyāvāra)](../13.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (13.1.7.1.2 Saṅkhyāvāra)](../13.1.7.1.2.md) / [Go to parent page (13.1.7.1.2 Saṅkhyāvāra)](../13.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

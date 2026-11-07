@@ -15,22 +15,21 @@
 
 (59.)
 
-2038\. Paritto dhammo parittassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati. Sekkhā gotrabhuṃ garuṃ katvā paccavekkhanti, vodānaṃ garuṃ katvā paccavekkhanti. Cakkhuṃ…pe…  vatthuṃ…  paritte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  parittādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+2038\. Paritto dhammo parittassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni garuṁ katvā paccavekkhati. Sekkhā gotrabhuṁ garuṁ katvā paccavekkhanti, vodānaṁ garuṁ katvā paccavekkhanti. Cakkhuṁ…pe… vatthuṁ… paritte khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— parittādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-2039\. Mahaggato dhammo mahaggatassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  mahaggatādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2039\. Mahaggato dhammo mahaggatassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— mahaggatādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2040\. Mahaggato dhammo parittassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  paṭhamaṃ jhānaṃ garuṃ katvā…pe…  nevasaññānāsaññāyatanaṃ…pe…  dibbaṃ cakkhuṃ…pe…  anāgataṃsañāṇaṃ garuṃ katvā paccavekkhati. Mahaggate khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati…  diṭṭhi uppajjati. **Sahajātādhipati**—  mahaggatādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+2040\. Mahaggato dhammo parittassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— paṭhamaṁ jhānaṁ garuṁ katvā…pe… nevasaññānāsaññāyatanaṁ…pe… dibbaṁ cakkhuṁ…pe… anāgataṁsañāṇaṁ garuṁ katvā paccavekkhati. Mahaggate khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati… diṭṭhi uppajjati. Sahajātādhipati— mahaggatādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-2041\. Mahaggato dhammo parittassa ca mahaggatassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  mahaggatādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2041\. Mahaggato dhammo parittassa ca mahaggatassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— mahaggatādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (60.)
 
-2042\. Appamāṇo dhammo appamāṇassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  nibbānaṃ maggassa…  phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appamāṇādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2042\. Appamāṇo dhammo appamāṇassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— nibbānaṁ maggassa… phalassa adhipatipaccayena paccayo. Sahajātādhipati— appamāṇādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2043\. Appamāṇo dhammo parittassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appamāṇādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+2043\. Appamāṇo dhammo parittassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti, phalaṁ garuṁ katvā paccavekkhanti, nibbānaṁ garuṁ katvā paccavekkhanti, nibbānaṁ gotrabhussa, vodānassa adhipatipaccayena paccayo. Sahajātādhipati— appamāṇādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-2044\. Appamāṇo dhammo parittassa ca appamāṇassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appamāṇādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2044\. Appamāṇo dhammo parittassa ca appamāṇassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— appamāṇādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

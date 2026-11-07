@@ -15,15 +15,15 @@
 
 (72.)
 
-236\. Kusalaṃ atītārammaṇaṃ dhammaṃ paṭicca kusalo atītārammaṇo dhammo uppajjati hetupaccayā. (1)
+236\. Kusalaṁ atītārammaṇaṁ dhammaṁ paṭicca kusalo atītārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-237\. Akusalaṃ atītārammaṇaṃ dhammaṃ paṭicca akusalo atītārammaṇo dhammo uppajjati hetupaccayā. (1)
+237\. Akusalaṁ atītārammaṇaṁ dhammaṁ paṭicca akusalo atītārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-238\. Abyākataṃ atītārammaṇaṃ dhammaṃ paṭicca abyākato atītārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+238\. Abyākataṁ atītārammaṇaṁ dhammaṁ paṭicca abyākato atītārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-239\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+239\. Hetuyā tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-240\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+240\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (73.)
 
@@ -31,12 +31,11 @@
 
 242\. Akusalo atītārammaṇo dhammo akusalassa atītārammaṇassa dhammassa hetupaccayena paccayo. (1)
 
-243\. Abyākato atītārammaṇo dhammo abyākatassa atītārammaṇassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+243\. Abyākato atītārammaṇo dhammo abyākatassa atītārammaṇassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
-244\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā pañca, anantare samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+244\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā pañca, anantare samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṁ, āhāre…pe… sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-245\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+245\. (Yathā kusalattike pañhāvāraṁ evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.18.1.1--7 Paṭiccādivāra)](../1.18.1.1--7.md) / [Go to parent page (1.18.1.1--7 Paṭiccādivāra)](../1.18.1.1--7.md) / [Go to next page (1.18.2 Anāgatārammaṇapada)](../../1.18.2.md)
-
+[Go to previous page (1.18.1.1--7 Paṭiccādivāra)](../1.18.1.1--7.md) / [Go to parent page (1.18.1.1--7 Paṭiccādivāra)](../1.18.1.1--7.md) / [Go to next page (1.18.2 Anāgatārammaṇapada)](../../1.18.2.md)
 

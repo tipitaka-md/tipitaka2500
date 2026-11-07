@@ -15,14 +15,9 @@
 
 (30.)
 
-1746\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā satta, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Evaṃ gaṇetabbaṃ.)
+1746\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā satta, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane sattarasa, nakamme cattāri, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Evaṁ gaṇetabbaṁ.)
 
----
+1747\. Paccanīyaṁ.
 
-1747\. Paccanīyaṃ.
-
-
-
-[Go to previous page (12.3.2.2 Saṅkhyāvāra)](../12.3.2.2.md) / [Go to parent page (12.3.2.2 Saṅkhyāvāra)](../12.3.2.2.md) / [Go to next page (12.3.3 Paccayānulomapaccanīya)](../../12.3.3.md)
-
+[Go to previous page (12.3.2.2 Saṅkhyāvāra)](../12.3.2.2.md) / [Go to parent page (12.3.2.2 Saṅkhyāvāra)](../12.3.2.2.md) / [Go to next page (12.3.3 Paccayānulomapaccanīya)](../../12.3.3.md)
 

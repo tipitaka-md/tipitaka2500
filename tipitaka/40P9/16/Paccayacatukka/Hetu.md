@@ -11,26 +11,25 @@
 
 (86.)
 
-209\. Nasaraṇaṃ nasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca…pe…  nasaraṇaṃ nadukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca…pe…  nasaraṇaṃ naadukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ.)
+209\. Nasaraṇaṁ nasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca…pe… nasaraṇaṁ nadukkhāya vedanāya sampayuttaṁ dhammaṁ paṭicca…pe… nasaraṇaṁ naadukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca… . (Saṁkhittaṁ.)
 
-210\. Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca.
+210\. Hetuyā pañca, ārammaṇe dve…pe… vipāke ekaṁ…pe… avigate pañca.
 
 (87.)
 
-211\. Nasaraṇaṃ navipākaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ.) Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca.
+211\. Nasaraṇaṁ navipākaṁ dhammaṁ paṭicca… . (Saṁkhittaṁ.) Hetuyā pañca, ārammaṇe dve…pe… vipāke ekaṁ…pe… avigate pañca.
 
-212\. Nasaraṇaṃ navipākadhammadhammaṃ paṭicca… . (Saṃkhittaṃ. Sabbattha ekaṃ.)
+212\. Nasaraṇaṁ navipākadhammadhammaṁ paṭicca… . (Saṁkhittaṁ. Sabbattha ekaṁ.)
 
-213\. Nasaraṇaṃ nanevavipākanavipākadhammadhammaṃ paṭicca… . (Saṃkhittaṃ.) Hetuyā dve…pe…  vipāke ekaṃ…pe…  avigate dve.
+213\. Nasaraṇaṁ nanevavipākanavipākadhammadhammaṁ paṭicca… . (Saṁkhittaṁ.) Hetuyā dve…pe… vipāke ekaṁ…pe… avigate dve.
 
 (88.)
 
-214\. Nasaraṇaṃ naupādinnupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ.) Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca.
+214\. Nasaraṇaṁ naupādinnupādāniyaṁ dhammaṁ paṭicca… . (Saṁkhittaṁ.) Hetuyā pañca, ārammaṇe dve…pe… vipāke ekaṁ…pe… avigate pañca.
 
-215\. Nasaraṇaṃ naanupādinnupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ. Sabbattha ekaṃ.)
+215\. Nasaraṇaṁ naanupādinnupādāniyaṁ dhammaṁ paṭicca… . (Saṁkhittaṁ. Sabbattha ekaṁ.)
 
-216\. Nasaraṇaṃ naanupādinnaanupādāniyaṃ dhammaṃ paṭicca… . (Saṃkhittaṃ.) Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca.
+216\. Nasaraṇaṁ naanupādinnaanupādāniyaṁ dhammaṁ paṭicca… . (Saṁkhittaṁ.) Hetuyā pañca, ārammaṇe dve…pe… vipāke ekaṁ…pe… avigate pañca.
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (17 Saraṇaduka, Sanidassanattika)](../../17.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (17 Saraṇaduka, Sanidassanattika)](../../17.md)
 

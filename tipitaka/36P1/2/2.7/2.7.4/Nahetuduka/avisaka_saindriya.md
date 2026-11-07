@@ -13,14 +13,9 @@
 
 * Bāvīsaka (saindriya)
 
-1707\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+1707\. Nahetupaccayā naārammaṇapaccayā (mūlakaṁ saṁkhittaṁ) naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā āhāre ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
----
-
-1708\. Nahetumūlakaṃ.
-
-
+1708\. Nahetumūlakaṁ.
 
 [Go to previous page (Soḷasaka (saindriya))](oḷasaka_saindriya.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naārammaṇaduka)](../Naarammanaduka.md)
-
 

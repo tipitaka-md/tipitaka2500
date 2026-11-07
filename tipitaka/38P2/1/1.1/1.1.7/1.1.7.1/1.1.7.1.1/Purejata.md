@@ -17,12 +17,11 @@
 
 (31.)
 
-81\. Nahetu dhammo nahetussa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ…pe…  kāyāyatanaṃ…pe…  vatthu nahetūnaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+81\. Nahetu dhammo nahetussa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati; dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… . Vatthupurejātaṁ— cakkhāyatanaṁ…pe… kāyāyatanaṁ…pe… vatthu nahetūnaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-82\. Nahetu dhammo hetussa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. **Vatthupurejātaṃ**—  vatthu hetūnaṃ purejātapaccayena paccayo. (2)
+82\. Nahetu dhammo hetussa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati; dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Vatthupurejātaṁ— vatthu hetūnaṁ purejātapaccayena paccayo. (2)
 
-83\. Nahetu dhammo hetussa ca nahetussa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu hetūnaṃ sampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
+83\. Nahetu dhammo hetussa ca nahetussa ca dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati. Vatthupurejātaṁ— vatthu hetūnaṁ sampayuttakānañca khandhānaṁ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Pacchājātādi)](Pacchajatadi.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Pacchājātādi)](Pacchajatadi.md)
 

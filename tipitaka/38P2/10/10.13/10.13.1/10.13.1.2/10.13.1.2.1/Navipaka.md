@@ -17,8 +17,7 @@
 
 (378.)
 
-3268\. Noupādā dhammaṃ paṭicca noupādā dhammo uppajjati navipākapaccayā—  noupādā ekaṃ khandhaṃ paṭicca tayo khandhā noupādā ca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ…pe… . (Yāva asaññasattā, evaṃ tīṇi noupādāmūlake.)
+3268\. Noupādā dhammaṁ paṭicca noupādā dhammo uppajjati navipākapaccayā— noupādā ekaṁ khandhaṁ paṭicca tayo khandhā noupādā ca cittasamuṭṭhānaṁ rūpaṁ…pe… dve khandhe…pe… ekaṁ mahābhūtaṁ…pe… . (Yāva asaññasattā, evaṁ tīṇi noupādāmūlake.)
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Naāhāra)](Naahara.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Naāhāra)](Naahara.md)
 

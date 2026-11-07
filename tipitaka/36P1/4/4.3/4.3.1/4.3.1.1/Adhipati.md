@@ -15,40 +15,35 @@
 
 (62.)
 
-2189\. Vipākaṃ dhammaṃ paccayā vipāko dhammo uppajjati adhipatipaccayā—  vipākaṃ ekaṃ khandhaṃ paccayā…  tīṇi. (Adhipatiyā paṭisandhikkhaṇe natthi.)
+2189\. Vipākaṁ dhammaṁ paccayā vipāko dhammo uppajjati adhipatipaccayā— vipākaṁ ekaṁ khandhaṁ paccayā… tīṇi. (Adhipatiyā paṭisandhikkhaṇe natthi.)
 
----
+2190\. Vipākadhammadhammaṁ paccayā… tīṇi.
 
-2190\. Vipākadhammadhammaṃ paccayā…  tīṇi.
+2191\. Nevavipākanavipākadhammadhammaṁ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā— nevavipākanavipākadhammadhammaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paccayā dve khandhā cittasamuṭṭhānañca rūpaṁ, ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ, vatthuṁ paccayā nevavipākanavipākadhammadhammā khandhā. (1)
 
+2192\. Nevavipākanavipākadhammadhammaṁ paccayā vipāko dhammo uppajjati adhipatipaccayā— vatthuṁ paccayā vipākā khandhā. (2)
 
+2193\. Nevavipākanavipākadhammadhammaṁ paccayā vipākadhammadhammo uppajjati adhipatipaccayā— vatthuṁ paccayā vipākadhammadhammā khandhā. (3)
 
-2191\. Nevavipākanavipākadhammadhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā—  nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paccayā dve khandhā cittasamuṭṭhānañca rūpaṃ, ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ, vatthuṃ paccayā nevavipākanavipākadhammadhammā khandhā. (1)
+2194\. Nevavipākanavipākadhammadhammaṁ paccayā vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā— vatthuṁ paccayā vipākā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ. (4)
 
-2192\. Nevavipākanavipākadhammadhammaṃ paccayā vipāko dhammo uppajjati adhipatipaccayā—  vatthuṃ paccayā vipākā khandhā. (2)
-
-2193\. Nevavipākanavipākadhammadhammaṃ paccayā vipākadhammadhammo uppajjati adhipatipaccayā—  vatthuṃ paccayā vipākadhammadhammā khandhā. (3)
-
-2194\. Nevavipākanavipākadhammadhammaṃ paccayā vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā—  vatthuṃ paccayā vipākā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (4)
-
-2195\. Nevavipākanavipākadhammadhammaṃ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā—  vatthuṃ paccayā vipākadhammadhammā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (5)
+2195\. Nevavipākanavipākadhammadhammaṁ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā— vatthuṁ paccayā vipākadhammadhammā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ. (5)
 
 (63.)
 
-2196\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipāko dhammo uppajjati adhipatipaccayā—  vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+2196\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā vipāko dhammo uppajjati adhipatipaccayā— vipākaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
-2197\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā—  vipāke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
+2197\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā— vipāke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2198\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā—  vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vipāke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
+2198\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā— vipākaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca vatthuñca paccayā dve khandhā, vipāke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (3)
 
 (64.)
 
-2199\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati adhipatipaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+2199\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā vipākadhammadhammo uppajjati adhipatipaccayā— vipākadhammadhammaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
-2200\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
+2200\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā nevavipākanavipākadhammadhammo uppajjati adhipatipaccayā— vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2201\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā, vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
+2201\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti adhipatipaccayā— vipākadhammadhammaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca vatthuñca paccayā dve khandhā, vipākadhammadhamme khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 

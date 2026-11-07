@@ -17,14 +17,13 @@
 
 (221.)
 
-2865\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasamuṭṭhānā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasamuṭṭhānā cetanā vipākānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+2865\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasamuṭṭhānā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasamuṭṭhānā cetanā vipākānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-2866\. Cittasamuṭṭhāno dhammo nocittasamuṭṭhānassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasamuṭṭhānā cetanā cittassa kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasamuṭṭhānā cetanā vipākassa cittassa kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
+2866\. Cittasamuṭṭhāno dhammo nocittasamuṭṭhānassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasamuṭṭhānā cetanā cittassa kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasamuṭṭhānā cetanā vipākassa cittassa kaṭattā ca rūpānaṁ kammapaccayena paccayo. (2)
 
-2867\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasamuṭṭhānā cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasamuṭṭhānā cetanā vipākānaṃ khandhānaṃ cittassa ca kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+2867\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa ca nocittasamuṭṭhānassa ca dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasamuṭṭhānā cetanā sampayuttakānaṁ khandhānaṁ cittassa ca cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasamuṭṭhānā cetanā vipākānaṁ khandhānaṁ cittassa ca kaṭattā ca rūpānaṁ kammapaccayena paccayo. (3)
 
-2868\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa vipākapaccayena paccayo…  nava.
+2868\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa vipākapaccayena paccayo… nava.
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 

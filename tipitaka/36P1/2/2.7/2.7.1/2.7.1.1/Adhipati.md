@@ -15,32 +15,31 @@
 
 (277.)
 
-844\. Kusalo dhammo kusalassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā, taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati. Sekkhā gotrabhuṃ garuṃ katvā paccavekkhanti, vodānaṃ garuṃ katvā paccavekkhanti. Sekkhā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. **Sahajātādhipati**—  kusalādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+844\. Kusalo dhammo kusalassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā, taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni garuṁ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā paccavekkhati. Sekkhā gotrabhuṁ garuṁ katvā paccavekkhanti, vodānaṁ garuṁ katvā paccavekkhanti. Sekkhā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. Sahajātādhipati— kusalādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
 (278.)
 
-845\. Kusalo dhammo akusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā, taṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+845\. Kusalo dhammo akusalassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā, taṁ garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-846\. Kusalo dhammo abyākatassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  arahā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhati. **Sahajātādhipati**—  kusalādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
+846\. Kusalo dhammo abyākatassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— arahā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhati. Sahajātādhipati— kusalādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (3)
 
-847\. Kusalo dhammo kusalassa ca abyākatassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  kusalādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (4)
+847\. Kusalo dhammo kusalassa ca abyākatassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— kusalādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (4)
 
 (279.)
 
-848\. Akusalo dhammo akusalassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  rāgaṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Diṭṭhiṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  akusalādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+848\. Akusalo dhammo akusalassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— rāgaṁ garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Diṭṭhiṁ garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— akusalādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-849\. Akusalo dhammo abyākatassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  akusalādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+849\. Akusalo dhammo abyākatassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— akusalādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-850\. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa adhipati paccayena paccayo. **Sahajātādhipati**—  akusalādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+850\. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa adhipati paccayena paccayo. Sahajātādhipati— akusalādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (280.)
 
-851\. Abyākato dhammo abyākatassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  arahā phalaṃ garuṃ katvā paccavekkhati, nibbānaṃ garuṃ katvā paccavekkhati. Nibbānaṃ phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  vipākābyākatakiriyābyākatādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+851\. Abyākato dhammo abyākatassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— arahā phalaṁ garuṁ katvā paccavekkhati, nibbānaṁ garuṁ katvā paccavekkhati. Nibbānaṁ phalassa adhipatipaccayena paccayo. Sahajātādhipati— vipākābyākatakiriyābyākatādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-852\. Abyākato dhammo kusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. (2)
+852\. Abyākato dhammo kusalassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— sekkhā phalaṁ garuṁ katvā paccavekkhanti, nibbānaṁ garuṁ katvā paccavekkhanti. Nibbānaṁ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. (2)
 
-853\. Abyākato dhammo akusalassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  cakkhuṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  vipākābyākate kiriyābyākate khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
+853\. Abyākato dhammo akusalassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— cakkhuṁ garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṁ… ghānaṁ… jivhaṁ… kāyaṁ… rūpe… sadde… gandhe… rase… phoṭṭhabbe… vatthuṁ… vipākābyākate kiriyābyākate khandhe garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

@@ -17,14 +17,13 @@
 
 (111.)
 
-302\. Sahetuko dhammo sahetukassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sahetukā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sahetukā cetanā vipākānaṃ sahetukānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+302\. Sahetuko dhammo sahetukassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— sahetukā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— sahetukā cetanā vipākānaṁ sahetukānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-303\. Sahetuko dhammo ahetukassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sahetukā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  sahetukā cetanā vipākānaṃ ahetukānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
+303\. Sahetuko dhammo ahetukassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— sahetukā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— sahetukā cetanā vipākānaṁ ahetukānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (2)
 
-304\. Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  sahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  sahetukā cetanā vipākānaṃ sahetukānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+304\. Sahetuko dhammo sahetukassa ca ahetukassa ca dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— sahetukā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. Nānākkhaṇikā— sahetukā cetanā vipākānaṁ sahetukānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (3)
 
-305\. Ahetuko dhammo ahetukassa dhammassa kammapaccayena paccayo—  ahetukā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+305\. Ahetuko dhammo ahetukassa dhammassa kammapaccayena paccayo— ahetukā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (Pacchājātādi)](Pacchajatadi.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
-
+[Go to previous page (Pacchājātādi)](Pacchajatadi.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 

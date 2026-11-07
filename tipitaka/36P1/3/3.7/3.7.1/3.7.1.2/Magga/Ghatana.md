@@ -31,4 +31,3 @@
 
 [Go to previous page (Maggasabhāga)](Maggasabhaga.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Sampayutta)](../Sampayutta.md)
 
-

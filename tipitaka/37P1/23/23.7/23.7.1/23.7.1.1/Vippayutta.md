@@ -15,14 +15,13 @@
 
 (49.)
 
-3043\. Anidassanasappaṭigho dhammo anidassanaappaṭighassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa vippayuttapaccayena paccayo. (1)
+3043\. Anidassanasappaṭigho dhammo anidassanaappaṭighassa dhammassa vippayuttapaccayena paccayo. Purejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa vippayuttapaccayena paccayo. (1)
 
-3044\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. **Sahajātā**—  anidassanaappaṭighā khandhā anidassanaappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā anidassanaappaṭighānaṃ kaṭattārūpānaṃ vippayuttapaccayena paccayo. Khandhā vatthussa vippayuttapaccayena paccayo. Vatthu khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu anidassanaappaṭighānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  anidassanaappaṭighā khandhā purejātassa imassa anidassanaappaṭighassa kāyassa vippayuttapaccayena paccayo. (1)
+3044\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. Sahajātā— anidassanaappaṭighā khandhā anidassanaappaṭighānaṁ cittasamuṭṭhānānaṁ rūpānaṁ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā anidassanaappaṭighānaṁ kaṭattārūpānaṁ vippayuttapaccayena paccayo. Khandhā vatthussa vippayuttapaccayena paccayo. Vatthu khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ— vatthu anidassanaappaṭighānaṁ khandhānaṁ vippayuttapaccayena paccayo. Pacchājātā— anidassanaappaṭighā khandhā purejātassa imassa anidassanaappaṭighassa kāyassa vippayuttapaccayena paccayo. (1)
 
-3045\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ kaṭattārūpānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  anidassanaappaṭighā khandhā purejātassa imassa sanidassanasappaṭighassa kāyassa vippayuttapaccayena paccayo. (2)
+3045\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. Sahajātā— anidassanaappaṭighā khandhā sanidassanasappaṭighānaṁ cittasamuṭṭhānānaṁ rūpānaṁ vippayuttapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā sanidassanasappaṭighānaṁ kaṭattārūpānaṁ vippayuttapaccayena paccayo. Pacchājātā— anidassanaappaṭighā khandhā purejātassa imassa sanidassanasappaṭighassa kāyassa vippayuttapaccayena paccayo. (2)
 
-3046\. (Avasesā pañca pañhā evaṃ vitthāretabbā. Sahajātā, pacchājātā.)
+3046\. (Avasesā pañca pañhā evaṁ vitthāretabbā. Sahajātā, pacchājātā.)
 
-[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

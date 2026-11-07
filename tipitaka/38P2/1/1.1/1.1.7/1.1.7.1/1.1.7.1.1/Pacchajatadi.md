@@ -17,14 +17,13 @@
 
 (32.)
 
-84\. Hetu dhammo nahetussa dhammassa pacchājātapaccayena paccayo—  pacchājātā hetū purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+84\. Hetu dhammo nahetussa dhammassa pacchājātapaccayena paccayo— pacchājātā hetū purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-85\. Nahetu dhammo nahetussa dhammassa pacchājātapaccayena paccayo—  pacchājātā nahetū khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+85\. Nahetu dhammo nahetussa dhammassa pacchājātapaccayena paccayo— pacchājātā nahetū khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-86\. Hetū ca nahetū ca dhammā nahetussa dhammassa pacchājātapaccayena paccayo—  pacchājātā hetū ca sampayuttakā ca khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+86\. Hetū ca nahetū ca dhammā nahetussa dhammassa pacchājātapaccayena paccayo— pacchājātā hetū ca sampayuttakā ca khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-87\. Hetu dhammo hetussa dhammassa āsevanapaccayena paccayo (anantarasadisaṃ).
+87\. Hetu dhammo hetussa dhammassa āsevanapaccayena paccayo (anantarasadisaṁ).
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

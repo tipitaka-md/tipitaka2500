@@ -13,8 +13,7 @@
 
 * Bāvīsaka (sāhāra)
 
-1705\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naāhārapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+1705\. Nahetupaccayā naārammaṇapaccayā (mūlakaṁ saṁkhittaṁ) naāhārapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
 [Go to previous page (Soḷasaka (sāhāra))](olasaka_sahara.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Soḷasaka (saindriya))](oḷasaka_saindriya.md)
-
 

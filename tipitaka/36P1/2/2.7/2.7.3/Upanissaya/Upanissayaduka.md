@@ -19,4 +19,3 @@
 
 [Go to previous page (Upanissaya)](../Upanissaya.md) / [Go to parent page (Upanissaya)](../Upanissaya.md) / [Go to next page (Upanissayaghaṭanā)](Upanissayaghatana.md)
 
-

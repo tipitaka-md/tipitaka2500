@@ -15,8 +15,7 @@
 
 (8.)
 
-2958\. Anidassanaappaṭighaṃ dhammaṃ paṭicca anidassanaappaṭigho dhammo uppajjati anantarapaccayā…  samanantarapaccayā. (Ārammaṇasadisaṃ.)
+2958\. Anidassanaappaṭighaṁ dhammaṁ paṭicca anidassanaappaṭigho dhammo uppajjati anantarapaccayā… samanantarapaccayā. (Ārammaṇasadisaṁ.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

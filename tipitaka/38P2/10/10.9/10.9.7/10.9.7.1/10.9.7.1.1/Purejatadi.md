@@ -17,10 +17,9 @@
 
 (304.)
 
-3063\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ…  tīṇi. (Cittasahabhūdukasadisā, ninnānākaraṇaṃ.)
+3063\. Nocittasaṁsaṭṭhasamuṭṭhāno dhammo nocittasaṁsaṭṭhasamuṭṭhānassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ… tīṇi. (Cittasahabhūdukasadisā, ninnānākaraṇaṁ.)
 
-3064\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa pacchājātapaccayena paccayo (cittasahabhūdukasadisā, ninnānākaraṇaṃ. Tīṇipi pacchājātā. Dve. Ekamūlānaṃ ekā ghaṭanā)…  āsevanapaccayena paccayo…  nava.
+3064\. Cittasaṁsaṭṭhasamuṭṭhāno dhammo nocittasaṁsaṭṭhasamuṭṭhānassa dhammassa pacchājātapaccayena paccayo (cittasahabhūdukasadisā, ninnānākaraṇaṁ. Tīṇipi pacchājātā. Dve. Ekamūlānaṁ ekā ghaṭanā)… āsevanapaccayena paccayo… nava.
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 

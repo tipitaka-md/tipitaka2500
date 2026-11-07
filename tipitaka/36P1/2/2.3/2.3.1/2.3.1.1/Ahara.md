@@ -15,12 +15,11 @@
 
 (128.)
 
-479\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati āhārapaccayā—  kusalaṃ ekaṃ khandhaṃ paccayā…  tīṇi.
+479\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati āhārapaccayā— kusalaṁ ekaṁ khandhaṁ paccayā… tīṇi.
 
-480\. Akusalaṃ dhammaṃ paccayā…  tīṇi.
+480\. Akusalaṁ dhammaṁ paccayā… tīṇi.
 
-481\. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati āhārapaccayā…pe…  paṭisandhikkhaṇe…pe…  āhārasamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā vipākābyākatā kiriyābyākatā khandhā. (Paripuṇṇaṃ.)
+481\. Abyākataṁ dhammaṁ paccayā abyākato dhammo uppajjati āhārapaccayā…pe… paṭisandhikkhaṇe…pe… āhārasamuṭṭhānaṁ ekaṁ mahābhūtaṁ…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā vipākābyākatā kiriyābyākatā khandhā. (Paripuṇṇaṁ.)
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Indriya)](Indriya.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 

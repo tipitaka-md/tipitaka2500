@@ -15,14 +15,9 @@
 
 (47.)
 
-127\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe ekaṃ, naupanissaye tīṇi…pe…  namagge tīṇi, nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+127\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe ekaṁ, naupanissaye tīṇi…pe… namagge tīṇi, nasampayutte ekaṁ, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+128\. Anulomapaccanīyaṁ.
 
-128\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (1.1.7.3 Paccayānulomapaccanīya)](../1.1.7.3.md) / [Go to parent page (1.1.7.3 Paccayānulomapaccanīya)](../1.1.7.3.md) / [Go to next page (1.1.7.4 Paccayapaccanīyānuloma)](../1.1.7.4.md)
-
+[Go to previous page (1.1.7.3 Paccayānulomapaccanīya)](../1.1.7.3.md) / [Go to parent page (1.1.7.3 Paccayānulomapaccanīya)](../1.1.7.3.md) / [Go to next page (1.1.7.4 Paccayapaccanīyānuloma)](../1.1.7.4.md)
 

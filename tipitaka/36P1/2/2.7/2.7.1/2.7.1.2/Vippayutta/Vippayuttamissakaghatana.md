@@ -21,4 +21,3 @@
 
 [Go to previous page (Vippayuttasabhāga)](Vippayuttasabhaga.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
-

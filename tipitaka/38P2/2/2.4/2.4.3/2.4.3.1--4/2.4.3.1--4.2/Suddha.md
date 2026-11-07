@@ -17,8 +17,7 @@
 
 (67.)
 
-694\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane ekaṃ, kamme nava…pe…  avigate nava. (Evaṃ paccanīyagaṇanāpi kātabbā.)
+694\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane ekaṁ, kamme nava…pe… avigate nava. (Evaṁ paccanīyagaṇanāpi kātabbā.)
 
-[Go to previous page (2.4.3.1--4.2 Saṅkhyāvāra)](../2.4.3.1--4.2.md) / [Go to parent page (2.4.3.1--4.2 Saṅkhyāvāra)](../2.4.3.1--4.2.md) / [Go to next page (2.4.4 Nissayavāra)](../../../2.4.4.md)
-
+[Go to previous page (2.4.3.1--4.2 Saṅkhyāvāra)](../2.4.3.1--4.2.md) / [Go to parent page (2.4.3.1--4.2 Saṅkhyāvāra)](../2.4.3.1--4.2.md) / [Go to next page (2.4.4 Nissayavāra)](../../../2.4.4.md)
 

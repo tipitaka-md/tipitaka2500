@@ -17,28 +17,27 @@
 
 (120.)
 
-415\. Nevadassanena nabhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati nahetupaccayā.
+415\. Nevadassanena nabhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati nahetupaccayā.
 
-416\. Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
+416\. Dassanena pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
 
-417\. Bhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
+417\. Bhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
 
-418\. Nevadassanena nabhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
+418\. Nevadassanena nabhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
 
-419\. Dassanena pahātabbaṃ nahetuñca nevadassanena nabhāvanāya pahātabbaṃ nahetuñca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
+419\. Dassanena pahātabbaṁ nahetuñca nevadassanena nabhāvanāya pahātabbaṁ nahetuñca dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1)
 
-420\. Bhāvanāya pahātabbaṃ nahetuñca nevadassanena nabhāvanāya pahātabbaṃ nahetuñca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+420\. Bhāvanāya pahātabbaṁ nahetuñca nevadassanena nabhāvanāya pahātabbaṁ nahetuñca dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati naārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (121.)
 
-421\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā nava…pe…  napurejāte satta, napacchājāte naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṃ…pe…  navippayutte tīṇi…pe…  novigate pañca. (Saṃkhittaṃ.)
+421\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā nava…pe… napurejāte satta, napacchājāte naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṁ…pe… navippayutte tīṇi…pe… novigate pañca. (Saṁkhittaṁ.)
 
-422\. Hetupaccayā naārammaṇe pañca. (Saṃkhittaṃ.)
+422\. Hetupaccayā naārammaṇe pañca. (Saṁkhittaṁ.)
 
-423\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+423\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-424\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+424\. (Sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.8.2.7 Pañhāvāra)](../../1.8.2.7.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.8.2.7 Pañhāvāra)](../../1.8.2.7.md)
 

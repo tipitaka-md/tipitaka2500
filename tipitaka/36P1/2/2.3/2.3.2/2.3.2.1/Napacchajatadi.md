@@ -15,14 +15,9 @@
 
 (146.)
 
-527\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati napacchājātapaccayā…  naāsevanapaccayā…pe…  cakkhāyatanaṃ paccayā…pe…  (napacchājātapaccayampi naāsevanapaccayampi paripuṇṇaṃ, sattarasa.)
+527\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati napacchājātapaccayā… naāsevanapaccayā…pe… cakkhāyatanaṁ paccayā…pe… (napacchājātapaccayampi naāsevanapaccayampi paripuṇṇaṁ, sattarasa.)
 
----
+528\. (Yathā anulome sahajātapaccayaṁ, evaṁ vitthāretabbaṁ.)
 
-528\. (Yathā anulome sahajātapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

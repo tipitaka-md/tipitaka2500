@@ -21,4 +21,3 @@
 
 [Go to previous page (Sāmaññaghaṭanā)](Samannaghatana.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Sādhipati-indriya-maggaghaṭanā)](Sadhipati-indriya-maggaghatana.md)
 
-

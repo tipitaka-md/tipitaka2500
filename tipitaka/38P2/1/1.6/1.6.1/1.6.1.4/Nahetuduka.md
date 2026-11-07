@@ -15,14 +15,9 @@
 
 (168.)
 
-463\. Nahetupaccayā ārammaṇe ekaṃ…pe…  āhāre ekaṃ…pe…  jhāne ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ…pe…  vigate ekaṃ, avigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+463\. Nahetupaccayā ārammaṇe ekaṁ…pe… āhāre ekaṁ…pe… jhāne ekaṁ, sampayutte ekaṁ, vippayutte ekaṁ…pe… vigate ekaṁ, avigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+464\. Paccanīyānulomaṁ.
 
-464\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (1.6.1.4 Paccayapaccanīyānuloma)](../1.6.1.4.md) / [Go to parent page (1.6.1.4 Paccayapaccanīyānuloma)](../1.6.1.4.md) / [Go to next page (1.6.2 Sahajātavāra)](../../1.6.2.md)
-
+[Go to previous page (1.6.1.4 Paccayapaccanīyānuloma)](../1.6.1.4.md) / [Go to parent page (1.6.1.4 Paccayapaccanīyānuloma)](../1.6.1.4.md) / [Go to next page (1.6.2 Sahajātavāra)](../../1.6.2.md)
 

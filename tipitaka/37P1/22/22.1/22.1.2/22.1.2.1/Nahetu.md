@@ -15,10 +15,9 @@
 
 (4.)
 
-2876\. Ajjhattārammaṇaṃ dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ ajjhattārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe ajjhattārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2876\. Ajjhattārammaṇaṁ dhammaṁ paṭicca ajjhattārammaṇo dhammo uppajjati nahetupaccayā— ahetukaṁ ajjhattārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe ajjhattārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-2877\. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2877\. Bahiddhārammaṇaṁ dhammaṁ paṭicca bahiddhārammaṇo dhammo uppajjati nahetupaccayā— ahetukaṁ bahiddhārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (22.1.2.1 Vibhaṅgavāra)](../22.1.2.1.md) / [Go to parent page (22.1.2.1 Vibhaṅgavāra)](../22.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (22.1.2.1 Vibhaṅgavāra)](../22.1.2.1.md) / [Go to parent page (22.1.2.1 Vibhaṅgavāra)](../22.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

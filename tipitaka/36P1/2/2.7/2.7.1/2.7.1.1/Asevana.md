@@ -15,12 +15,11 @@
 
 (290.)
 
-939\. Kusalo dhammo kusalassa dhammassa āsevanapaccayena paccayo—  purimā purimā kusalā khandhā pacchimānaṃ pacchimānaṃ kusalānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+939\. Kusalo dhammo kusalassa dhammassa āsevanapaccayena paccayo— purimā purimā kusalā khandhā pacchimānaṁ pacchimānaṁ kusalānaṁ khandhānaṁ āsevanapaccayena paccayo. Anulomaṁ gotrabhussa… anulomaṁ vodānassa… gotrabhu maggassa… vodānaṁ maggassa āsevanapaccayena paccayo. (1)
 
-940\. Akusalo dhammo akusalassa dhammassa āsevanapaccayena paccayo—  purimā purimā akusalā khandhā pacchimānaṃ pacchimānaṃ akusalānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+940\. Akusalo dhammo akusalassa dhammassa āsevanapaccayena paccayo— purimā purimā akusalā khandhā pacchimānaṁ pacchimānaṁ akusalānaṁ khandhānaṁ āsevanapaccayena paccayo. (1)
 
-941\. Abyākato dhammo abyākatassa dhammassa āsevanapaccayena paccayo—  purimā purimā kiriyābyākatā khandhā pacchimānaṃ pacchimānaṃ kiriyābyākatānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+941\. Abyākato dhammo abyākatassa dhammassa āsevanapaccayena paccayo— purimā purimā kiriyābyākatā khandhā pacchimānaṁ pacchimānaṁ kiriyābyākatānaṁ khandhānaṁ āsevanapaccayena paccayo. (1)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

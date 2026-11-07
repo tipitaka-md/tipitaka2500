@@ -15,82 +15,81 @@
 
 (23.)
 
-102\. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā—  ahetukaṃ savitakkasavicāraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. Ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+102\. Savitakkasavicāraṁ dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā— ahetukaṁ savitakkasavicāraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. Ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-103\. Savitakkasavicāraṃ dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati nahetupaccayā—  ahetuke savitakkasavicāre khandhe paṭicca vitakko. Ahetukapaṭisandhikkhaṇe…pe… . (2)
+103\. Savitakkasavicāraṁ dhammaṁ paṭicca avitakkavicāramatto dhammo uppajjati nahetupaccayā— ahetuke savitakkasavicāre khandhe paṭicca vitakko. Ahetukapaṭisandhikkhaṇe…pe… . (2)
 
-104\. Savitakkasavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetuke savitakkasavicāre khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe…pe… . (3)
+104\. Savitakkasavicāraṁ dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā— ahetuke savitakkasavicāre khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Ahetukapaṭisandhikkhaṇe…pe… . (3)
 
-105\. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ savitakkasavicāraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. Ahetukapaṭisandhikkhaṇe…pe… . (4)
+105\. Savitakkasavicāraṁ dhammaṁ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukaṁ savitakkasavicāraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. Ahetukapaṭisandhikkhaṇe…pe… . (4)
 
-106\. Savitakkasavicāraṃ dhammaṃ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetuke savitakkasavicāre khandhe paṭicca vitakko ca cittasamuṭṭhānañca rūpaṃ. Ahetukapaṭisandhikkhaṇe…pe… . (5)
+106\. Savitakkasavicāraṁ dhammaṁ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetuke savitakkasavicāre khandhe paṭicca vitakko ca cittasamuṭṭhānañca rūpaṁ. Ahetukapaṭisandhikkhaṇe…pe… . (5)
 
-107\. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro ca avitakkavicāramatto ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ savitakkasavicāraṃ ekaṃ khandhaṃ paṭicca tayo khandhā vitakko ca…pe…  dve khandhe paṭicca dve khandhā vitakko ca. Ahetukapaṭisandhikkhaṇe…pe… . (6)
+107\. Savitakkasavicāraṁ dhammaṁ paṭicca savitakkasavicāro ca avitakkavicāramatto ca dhammā uppajjanti nahetupaccayā— ahetukaṁ savitakkasavicāraṁ ekaṁ khandhaṁ paṭicca tayo khandhā vitakko ca…pe… dve khandhe paṭicca dve khandhā vitakko ca. Ahetukapaṭisandhikkhaṇe…pe… . (6)
 
-108\. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ savitakkasavicāraṃ ekaṃ khandhaṃ paṭicca tayo khandhā vitakko ca cittasamuṭṭhānañca rūpaṃ…pe…  ahetukapaṭisandhikkhaṇe…pe… . (7)
+108\. Savitakkasavicāraṁ dhammaṁ paṭicca savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukaṁ savitakkasavicāraṁ ekaṁ khandhaṁ paṭicca tayo khandhā vitakko ca cittasamuṭṭhānañca rūpaṁ…pe… ahetukapaṭisandhikkhaṇe…pe… . (7)
 
 (24.)
 
-109\. Avitakkavicāramattaṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā—  ahetukaṃ vitakkaṃ paṭicca savitakkasavicārā khandhā. Ahetukapaṭisandhikkhaṇe vitakkaṃ paṭicca savitakkasavicārā khandhā; vicikicchāsahagataṃ uddhaccasahagataṃ vitakkaṃ paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+109\. Avitakkavicāramattaṁ dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā— ahetukaṁ vitakkaṁ paṭicca savitakkasavicārā khandhā. Ahetukapaṭisandhikkhaṇe vitakkaṁ paṭicca savitakkasavicārā khandhā; vicikicchāsahagataṁ uddhaccasahagataṁ vitakkaṁ paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-110\. Avitakkavicāramattaṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetukaṃ vitakkaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe vitakkaṃ paṭicca kaṭattārūpaṃ. (2)
+110\. Avitakkavicāramattaṁ dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā— ahetukaṁ vitakkaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ. Ahetukapaṭisandhikkhaṇe vitakkaṁ paṭicca kaṭattārūpaṁ. (2)
 
-111\. Avitakkavicāramattaṃ dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ vitakkaṃ paṭicca savitakkasavicārā khandhā cittasamuṭṭhānañca rūpaṃ. Ahetukapaṭisandhikkhaṇe vitakkaṃ paṭicca savitakkasavicārā khandhā kaṭattā ca rūpaṃ. (3)
+111\. Avitakkavicāramattaṁ dhammaṁ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukaṁ vitakkaṁ paṭicca savitakkasavicārā khandhā cittasamuṭṭhānañca rūpaṁ. Ahetukapaṭisandhikkhaṇe vitakkaṁ paṭicca savitakkasavicārā khandhā kaṭattā ca rūpaṁ. (3)
 
-112\. Avitakkaavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetukaṃ avitakkaavicāraṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+112\. Avitakkaavicāraṁ dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā— ahetukaṁ avitakkaavicāraṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-113\. Avitakkaavicāraṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca savitakkasavicārā khandhā. (2)
+113\. Avitakkaavicāraṁ dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca savitakkasavicārā khandhā. (2)
 
-114\. Avitakkaavicāraṃ dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca vitakko. (3)
+114\. Avitakkaavicāraṁ dhammaṁ paṭicca avitakkavicāramatto dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca vitakko. (3)
 
-115\. Avitakkaavicāraṃ dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca savitakkasavicārā khandhā; mahābhūte paṭicca kaṭattārūpaṃ. (4)
+115\. Avitakkaavicāraṁ dhammaṁ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca savitakkasavicārā khandhā; mahābhūte paṭicca kaṭattārūpaṁ. (4)
 
-116\. Avitakkaavicāraṃ dhammaṃ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca vitakko; mahābhūte paṭicca kaṭattārūpaṃ. (5)
+116\. Avitakkaavicāraṁ dhammaṁ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca vitakko; mahābhūte paṭicca kaṭattārūpaṁ. (5)
 
-117\. Avitakkaavicāraṃ dhammaṃ paṭicca savitakkasavicāro ca avitakkavicāramatto ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca savitakkasavicārā khandhā ca vitakko ca. (6)
+117\. Avitakkaavicāraṁ dhammaṁ paṭicca savitakkasavicāro ca avitakkavicāramatto ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca savitakkasavicārā khandhā ca vitakko ca. (6)
 
-118\. Avitakkaavicāraṃ dhammaṃ paṭicca savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca savitakkasavicārā khandhā ca vitakko ca; mahābhūte paṭicca kaṭattārūpaṃ. (7)
+118\. Avitakkaavicāraṁ dhammaṁ paṭicca savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca savitakkasavicārā khandhā ca vitakko ca; mahābhūte paṭicca kaṭattārūpaṁ. (7)
 
 (25.)
 
-119\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā. (1)
+119\. Savitakkasavicārañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca vatthuñca paṭicca dve khandhā. (1)
 
-120\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāre khandhe ca vatthuñca paṭicca vitakko. (2)
+120\. Savitakkasavicārañca avitakkaavicārañca dhammaṁ paṭicca avitakkavicāramatto dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāre khandhe ca vatthuñca paṭicca vitakko. (2)
 
-121\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetuke savitakkasavicāre khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+121\. Savitakkasavicārañca avitakkaavicārañca dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā— ahetuke savitakkasavicāre khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. Ahetukapaṭisandhikkhaṇe savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (3)
 
-122\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā; savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (4)
+122\. Savitakkasavicārañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca vatthuñca paṭicca dve khandhā; savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (4)
 
-123\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāre khandhe ca vatthuñca paṭicca vitakko; savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (5)
+123\. Savitakkasavicārañca avitakkaavicārañca dhammaṁ paṭicca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāre khandhe ca vatthuñca paṭicca vitakko; savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (5)
 
-124\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkavicāramatto ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā vitakko ca…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā vitakko ca. (6)
+124\. Savitakkasavicārañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro ca avitakkavicāramatto ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā vitakko ca…pe… dve khandhe ca vatthuñca paṭicca dve khandhā vitakko ca. (6)
 
-125\. Savitakkasavicārañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā vitakko ca…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā vitakko ca; savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (7)
+125\. Savitakkasavicārañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro ca avitakkavicāramatto ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā vitakko ca…pe… dve khandhe ca vatthuñca paṭicca dve khandhā vitakko ca; savitakkasavicāre khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (7)
 
 (26.)
 
-126\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe vitakkañca vatthuñca paṭicca savitakkasavicārā khandhā. (1)
+126\. Avitakkavicāramattañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe vitakkañca vatthuñca paṭicca savitakkasavicārā khandhā. (1)
 
-127\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetukaṃ vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. (2)
+127\. Avitakkavicāramattañca avitakkaavicārañca dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā— ahetukaṁ vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. Ahetukapaṭisandhikkhaṇe vitakkañca mahābhūte ca paṭicca kaṭattārūpaṁ. (2)
 
-128\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vitakkañca vatthuñca paṭicca savitakkasavicārā khandhā; vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+128\. Avitakkavicāramattañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe vitakkañca vatthuñca paṭicca savitakkasavicārā khandhā; vitakkañca mahābhūte ca paṭicca kaṭattārūpaṁ. (3)
 
 (27.)
 
-129\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā—  ahetukaṃ savitakkasavicāraṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca paṭicca dve khandhā. Ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca paṭicca dve khandhā; vicikicchāsahagate uddhaccasahagate khandhe ca vitakkañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+129\. Savitakkasavicārañca avitakkavicāramattañca dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā— ahetukaṁ savitakkasavicāraṁ ekaṁ khandhañca vitakkañca paṭicca tayo khandhā…pe… dve khandhe ca vitakkañca paṭicca dve khandhā. Ahetukapaṭisandhikkhaṇe savitakkasavicāraṁ ekaṁ khandhañca vitakkañca paṭicca tayo khandhā…pe… dve khandhe ca vitakkañca paṭicca dve khandhā; vicikicchāsahagate uddhaccasahagate khandhe ca vitakkañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-130\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetuke savitakkasavicāre khandhe ca vitakkañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe…pe… . (2)
+130\. Savitakkasavicārañca avitakkavicāramattañca dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā— ahetuke savitakkasavicāre khandhe ca vitakkañca paṭicca cittasamuṭṭhānaṁ rūpaṁ. Ahetukapaṭisandhikkhaṇe…pe… . (2)
 
-131\. Savitakkasavicārañca avitakkavicāramattañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ savitakkasavicāraṃ ekaṃ khandhañca vitakkañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca vitakkañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. Ahetukapaṭisandhikkhaṇe…pe… . (3)
+131\. Savitakkasavicārañca avitakkavicāramattañca dhammaṁ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukaṁ savitakkasavicāraṁ ekaṁ khandhañca vitakkañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe ca vitakkañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. Ahetukapaṭisandhikkhaṇe…pe… . (3)
 
 (28.)
 
-132\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā. (1)
+132\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāraṁ ekaṁ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā. (1)
 
-133\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā—  ahetuke savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Ahetukapaṭisandhikkhaṇe…pe… . (2)
+133\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati nahetupaccayā— ahetuke savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. Ahetukapaṭisandhikkhaṇe…pe… . (2)
 
-134\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṃ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe savitakkasavicāraṃ ekaṃ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā; savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+134\. Savitakkasavicārañca avitakkavicāramattañca avitakkaavicārañca dhammaṁ paṭicca savitakkasavicāro ca avitakkaavicāro ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe savitakkasavicāraṁ ekaṁ khandhañca vitakkañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca vitakkañca vatthuñca paṭicca dve khandhā; savitakkasavicāre khandhe ca vitakkañca mahābhūte ca paṭicca kaṭattārūpaṁ. (3)
 
-[Go to previous page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

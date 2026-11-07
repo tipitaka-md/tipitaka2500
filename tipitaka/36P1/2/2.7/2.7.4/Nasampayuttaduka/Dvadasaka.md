@@ -13,14 +13,9 @@
 
 * Dvādasaka
 
-1767\. Nasampayuttapaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) nanissayapaccayā naupanissayapaccayā napurejātapaccayā pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā pañca, avigate pañca. (Saṃkhittaṃ.)
+1767\. Nasampayuttapaccayā nahetupaccayā (mūlakaṁ saṁkhittaṁ) nanissayapaccayā naupanissayapaccayā napurejātapaccayā pacchājāte tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte tīṇi, atthiyā pañca, avigate pañca. (Saṁkhittaṁ.)
 
----
-
-1768\. Nasampayuttamūlakaṃ.
-
-
+1768\. Nasampayuttamūlakaṁ.
 
 [Go to previous page (Dasaka)](Dasaka.md) / [Go to parent page (Nasampayuttaduka)](../Nasampayuttaduka.md) / [Go to next page (Navippayuttaduka)](../Navippayuttaduka.md)
-
 

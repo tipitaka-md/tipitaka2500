@@ -17,26 +17,21 @@
 
 (46.)
 
-1675\. Āsavo ceva āsavasampayutto ca akusalo dhammo āsavassa ceva āsavasampayuttassa ca akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1675\. Āsavo ceva āsavasampayutto ca akusalo dhammo āsavassa ceva āsavasampayuttassa ca akusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (47.)
 
-1676\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava…pe…  upanissaye āsevane nava, kamme āhāre indriye jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1676\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava…pe… upanissaye āsevane nava, kamme āhāre indriye jhāne tīṇi, magge sampayutte nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-1677\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1677\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1678\. Hetupaccayā naārammaṇe cattāri. (Saṃkhittaṃ.)
+1678\. Hetupaccayā naārammaṇe cattāri. (Saṁkhittaṁ.)
 
-1679\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1679\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-1680\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1680\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
----
+1681\. Āsavaāsavasampayuttadukakusalattikaṁ niṭṭhitaṁ.
 
-1681\. Āsavaāsavasampayuttadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.6 Āsavavippayuttasāsavaduka, Kusalattika)](../../../../4.6.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.6 Āsavavippayuttasāsavaduka, Kusalattika)](../../../../4.6.md)
 

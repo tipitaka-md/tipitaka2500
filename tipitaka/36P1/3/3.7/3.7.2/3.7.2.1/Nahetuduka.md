@@ -15,11 +15,10 @@
 
 (85.)
 
-2016\. Nahetupaccayā naārammaṇe nava…pe…  noavigate nava.
+2016\. Nahetupaccayā naārammaṇe nava…pe… noavigate nava.
 
 * [Tika](Nahetuduka/Tika.md)
 * [Tevīsaka](Nahetuduka/Tevisaka.md)
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 

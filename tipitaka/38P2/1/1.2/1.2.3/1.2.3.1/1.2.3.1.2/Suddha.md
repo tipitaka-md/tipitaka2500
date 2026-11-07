@@ -17,14 +17,9 @@
 
 (81.)
 
-222\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), avigate nava. (Evaṃ gaṇetabbaṃ.)
+222\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava (sabbattha nava), avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+223\. Anulomaṁ.
 
-223\. Anulomaṃ.
-
-
-
-[Go to previous page (1.2.3.1.2 Saṅkhyāvāra)](../1.2.3.1.2.md) / [Go to parent page (1.2.3.1.2 Saṅkhyāvāra)](../1.2.3.1.2.md) / [Go to next page (1.2.3.2 Paccayapaccanīya)](../../1.2.3.2.md)
-
+[Go to previous page (1.2.3.1.2 Saṅkhyāvāra)](../1.2.3.1.2.md) / [Go to parent page (1.2.3.1.2 Saṅkhyāvāra)](../1.2.3.1.2.md) / [Go to next page (1.2.3.2 Paccayapaccanīya)](../../1.2.3.2.md)
 

@@ -17,12 +17,11 @@
 
 (18.)
 
-579\. Anidassanaṃ dhammaṃ paṭicca anidassano dhammo uppajjati hetupaccayā—  anidassanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā anidassanaṃ cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe anidassanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā anidassanaṃ kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca anidassanaṃ cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+579\. Anidassanaṁ dhammaṁ paṭicca anidassano dhammo uppajjati hetupaccayā— anidassanaṁ ekaṁ khandhaṁ paṭicca tayo khandhā anidassanaṁ cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe anidassanaṁ ekaṁ khandhaṁ paṭicca tayo khandhā anidassanaṁ kaṭattā ca rūpaṁ…pe… dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca anidassanaṁ cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-580\. Anidassanaṃ dhammaṃ paṭicca sanidassano dhammo uppajjati hetupaccayā—  anidassane khandhe paṭicca sanidassanaṃ cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  mahābhūte paṭicca sanidassanaṃ cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (2)
+580\. Anidassanaṁ dhammaṁ paṭicca sanidassano dhammo uppajjati hetupaccayā— anidassane khandhe paṭicca sanidassanaṁ cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… mahābhūte paṭicca sanidassanaṁ cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (2)
 
-581\. Anidassanaṃ dhammaṃ paṭicca sanidassano ca anidassano ca dhammā uppajjanti hetupaccayā—  anidassanaṃ ekaṃ khandhaṃ paṭicca tayo khandhā sanidassanañca anidassanañca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  mahābhūte paṭicca sanidassanañca anidassanañca cittasamuṭṭhānañca rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (3)
+581\. Anidassanaṁ dhammaṁ paṭicca sanidassano ca anidassano ca dhammā uppajjanti hetupaccayā— anidassanaṁ ekaṁ khandhaṁ paṭicca tayo khandhā sanidassanañca anidassanañca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… mahābhūte paṭicca sanidassanañca anidassanañca cittasamuṭṭhānañca rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (3)
 
-[Go to previous page (2.3.1.1.1 Vibhaṅgavāra)](../2.3.1.1.1.md) / [Go to parent page (2.3.1.1.1 Vibhaṅgavāra)](../2.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (2.3.1.1.1 Vibhaṅgavāra)](../2.3.1.1.1.md) / [Go to parent page (2.3.1.1.1 Vibhaṅgavāra)](../2.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

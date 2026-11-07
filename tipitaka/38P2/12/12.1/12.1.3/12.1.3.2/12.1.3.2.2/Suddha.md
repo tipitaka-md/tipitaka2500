@@ -17,8 +17,7 @@
 
 (14.)
 
-3847\. Nahetuyā cattāri, naārammaṇe tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi, navipāke nava, naāhāre ekaṃ…pe…  novigate tīṇi.
+3847\. Nahetuyā cattāri, naārammaṇe tīṇi, naadhipatiyā nava…pe… nakamme tīṇi, navipāke nava, naāhāre ekaṁ…pe… novigate tīṇi.
 
-[Go to previous page (12.1.3.2.2 Saṅkhyāvāra)](../12.1.3.2.2.md) / [Go to parent page (12.1.3.2.2 Saṅkhyāvāra)](../12.1.3.2.2.md) / [Go to next page (12.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../12.1.3.3--4.md)
-
+[Go to previous page (12.1.3.2.2 Saṅkhyāvāra)](../12.1.3.2.2.md) / [Go to parent page (12.1.3.2.2 Saṅkhyāvāra)](../12.1.3.2.2.md) / [Go to next page (12.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../12.1.3.3--4.md)
 

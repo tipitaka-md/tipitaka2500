@@ -17,10 +17,9 @@
 
 (33.)
 
-2183\. Noparāmāso dhammo noparāmāsassa dhammassa vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  tīṇi, indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi.
+2183\. Noparāmāso dhammo noparāmāsassa dhammassa vipākapaccayena paccayo… ekaṁ… āhārapaccayena paccayo… tīṇi, indriyapaccayena paccayo… tīṇi… jhānapaccayena paccayo… tīṇi.
 
-2184\. Parāmāso dhammo noparāmāsassa dhammassa maggapaccayena paccayo—  parāmāsāni maggaṅgāni…pe…  (evaṃ pañca pañhā kātabbā) sampayuttapaccayena paccayo…  pañca.
+2184\. Parāmāso dhammo noparāmāsassa dhammassa maggapaccayena paccayo— parāmāsāni maggaṅgāni…pe… (evaṁ pañca pañhā kātabbā) sampayuttapaccayena paccayo… pañca.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

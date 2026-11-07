@@ -15,14 +15,13 @@
 
 (29.)
 
-1946\. Nīvaraṇañceva nīvaraṇasampayuttañca akusalaṃ dhammaṃ paṭicca nīvaraṇo ceva nīvaraṇasampayutto ca akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1946\. Nīvaraṇañceva nīvaraṇasampayuttañca akusalaṁ dhammaṁ paṭicca nīvaraṇo ceva nīvaraṇasampayutto ca akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (30.)
 
-1947\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1947\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-1948\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha nava.)
+1948\. (Sahajātavārepi…pe… pañhāvārepi sabbattha nava.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.6 Nīvaraṇavippayuttanīvaraṇiyaduka, Kusalattika)](../../../8.6.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.6 Nīvaraṇavippayuttanīvaraṇiyaduka, Kusalattika)](../../../8.6.md)
 

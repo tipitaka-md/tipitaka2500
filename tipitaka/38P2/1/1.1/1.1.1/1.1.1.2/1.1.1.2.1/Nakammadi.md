@@ -17,14 +17,13 @@
 
 (12.)
 
-29\. Hetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati nakammapaccayā—  hetuṃ paṭicca sampayuttakā cetanā. (1)
+29\. Hetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati nakammapaccayā— hetuṁ paṭicca sampayuttakā cetanā. (1)
 
-30\. Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati nakammapaccayā—  nahetū khandhe paṭicca sampayuttakā cetanā…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
+30\. Nahetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati nakammapaccayā— nahetū khandhe paṭicca sampayuttakā cetanā… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… . (1)
 
-31\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati nakammapaccayā—  hetuñca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1)
+31\. Hetuñca nahetuñca dhammaṁ paṭicca nahetu dhammo uppajjati nakammapaccayā— hetuñca sampayuttake ca khandhe paṭicca sampayuttakā cetanā. (1)
 
-32\. Hetuṃ dhammaṃ paṭicca hetu dhammo uppajjati navipākapaccayā…  nava.
+32\. Hetuṁ dhammaṁ paṭicca hetu dhammo uppajjati navipākapaccayā… nava.
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
-
+[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
 

@@ -17,22 +17,21 @@
 
 (71.)
 
-118\. Nahetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nahetu sukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā. (1)
+118\. Nahetuṁ sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca nahetu sukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā. (1)
 
 (72.)
 
-119\. Hetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu sukhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. Hetuṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nahetu sukhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+119\. Hetuṁ sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca hetu sukhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. Hetuṁ sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca nahetu sukhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (73.)
 
-120\. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ, navippayutte nava. (Paccanīyaṃ.)
+120\. Nahetuyā ekaṁ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṁ, namagge ekaṁ, navippayutte nava. (Paccanīyaṁ.)
 
-121\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ, anulomapaccanīyaṃ.)
+121\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ, anulomapaccanīyaṁ.)
 
-122\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ, paccanīyānulomaṃ.)
+122\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ, paccanīyānulomaṁ.)
 
-123\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+123\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.2.1.7 Pañhāvāra)](../../1.2.1.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.2.1.7 Pañhāvāra)](../../1.2.1.7.md)
 

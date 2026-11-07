@@ -15,8 +15,7 @@
 
 (9.)
 
-2673\. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati naadhipatipaccayā. (Anulomasahajātasadisaṃ.)
+2673\. Atītārammaṇaṁ dhammaṁ paṭicca atītārammaṇo dhammo uppajjati naadhipatipaccayā. (Anulomasahajātasadisaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 

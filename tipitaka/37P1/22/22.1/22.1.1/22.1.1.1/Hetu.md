@@ -15,10 +15,9 @@
 
 (1.)
 
-2871\. Ajjhattārammaṇaṃ dhammaṃ paṭicca ajjhattārammaṇo dhammo uppajjati hetupaccayā—  ajjhattārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe ajjhattārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2871\. Ajjhattārammaṇaṁ dhammaṁ paṭicca ajjhattārammaṇo dhammo uppajjati hetupaccayā— ajjhattārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe ajjhattārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2872\. Bahiddhārammaṇaṃ dhammaṃ paṭicca bahiddhārammaṇo dhammo uppajjati hetupaccayā—  bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe bahiddhārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2872\. Bahiddhārammaṇaṁ dhammaṁ paṭicca bahiddhārammaṇo dhammo uppajjati hetupaccayā— bahiddhārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe bahiddhārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-[Go to previous page (22.1.1.1 Vibhaṅgavāra)](../22.1.1.1.md) / [Go to parent page (22.1.1.1 Vibhaṅgavāra)](../22.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
-
+[Go to previous page (22.1.1.1 Vibhaṅgavāra)](../22.1.1.1.md) / [Go to parent page (22.1.1.1 Vibhaṅgavāra)](../22.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 

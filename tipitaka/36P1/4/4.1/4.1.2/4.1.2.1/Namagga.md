@@ -15,12 +15,11 @@
 
 (45.)
 
-2132\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati namaggapaccayā—  ahetukaṃ vipākaṃ ekaṃ khandhaṃ paṭicca…  tīṇi.
+2132\. Vipākaṁ dhammaṁ paṭicca vipāko dhammo uppajjati namaggapaccayā— ahetukaṁ vipākaṁ ekaṁ khandhaṁ paṭicca… tīṇi.
 
-2133\. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati namaggapaccayā—  ahetukaṃ nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca…  tīṇi.
+2133\. Nevavipākanavipākadhammadhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati namaggapaccayā— ahetukaṁ nevavipākanavipākadhammadhammaṁ ekaṁ khandhaṁ paṭicca… tīṇi.
 
-2134\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko dhammo uppajjati namaggapaccayā—  ahetukapaṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca…  tīṇi.
+2134\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paṭicca vipāko dhammo uppajjati namaggapaccayā— ahetukapaṭisandhikkhaṇe vipākaṁ ekaṁ khandhañca vatthuñca paṭicca… tīṇi.
 
-[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
-
+[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
 

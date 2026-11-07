@@ -15,8 +15,7 @@
 
 (12.)
 
-667\. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati navipākapaccayā…pe… . (Paripuṇṇaṃ, paṭisandhi natthi.)
+667\. Pītisahagataṁ dhammaṁ paṭicca pītisahagato dhammo uppajjati navipākapaccayā…pe… . (Paripuṇṇaṁ, paṭisandhi natthi.)
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
 

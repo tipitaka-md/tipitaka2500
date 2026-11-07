@@ -13,8 +13,7 @@
 
 * Catukka
 
-381\. Nakammapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+381\. Nakammapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, āhāre ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Nakammaduka)](../Nakammaduka.md) / [Go to next page (Navipākaduka)](../Navipakaduka.md)
-
 

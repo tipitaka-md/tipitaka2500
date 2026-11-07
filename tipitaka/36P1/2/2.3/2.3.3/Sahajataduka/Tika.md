@@ -13,10 +13,9 @@
 
 * Tika
 
-590\. Sahajātapaccayā hetupaccayā naārammaṇe pañca (saṃkhittaṃ) navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+590\. Sahajātapaccayā hetupaccayā naārammaṇe pañca (saṁkhittaṁ) navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
-591\. Sahajātapaccayā hetupaccayā ārammaṇapaccayā. (Saṃkhittaṃ.)
+591\. Sahajātapaccayā hetupaccayā ārammaṇapaccayā. (Saṁkhittaṁ.)
 
 [Go to previous page (Sahajātaduka)](../Sahajataduka.md) / [Go to parent page (Sahajātaduka)](../Sahajataduka.md) / [Go to next page (Aññamaññaduka)](../Annamannaduka.md)
-
 

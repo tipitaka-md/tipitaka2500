@@ -17,12 +17,11 @@
 
 (192.)
 
-519\. Nahetu sahetuko dhammo nahetuahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  nahetū sahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  nahetū sahetukā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
+519\. Nahetu sahetuko dhammo nahetuahetukassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. Sahajātā— nahetū sahetukā khandhā cittasamuṭṭhānānaṁ rūpānaṁ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . Pacchājātā— nahetū sahetukā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
-520\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. **Sahajātā**—  nahetū ahetukā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe…  khandhā vatthussa vippayuttapaccayena paccayo; vatthu khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Pacchājātā**—  nahetū ahetukā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
+520\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. Sahajātā— nahetū ahetukā khandhā cittasamuṭṭhānānaṁ rūpānaṁ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… khandhā vatthussa vippayuttapaccayena paccayo; vatthu khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu nahetusahetukānaṁ khandhānaṁ vippayuttapaccayena paccayo. Pacchājātā— nahetū ahetukā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
-521\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu nahetusahetukānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
+521\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajātaṁ— paṭisandhikkhaṇe vatthu nahetusahetukānaṁ khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ— vatthu nahetusahetukānaṁ khandhānaṁ vippayuttapaccayena paccayo. (2)
 
-[Go to previous page (Sampayutta)](Sampayutta.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Sampayutta)](Sampayutta.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

@@ -13,8 +13,7 @@
 
 * Tika
 
-769\. Āsevanapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.)
+769\. Āsevanapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Āsevanaduka)](../Asevanaduka.md) / [Go to parent page (Āsevanaduka)](../Asevanaduka.md) / [Go to next page (Kammaduka)](../Kammaduka.md)
-
 

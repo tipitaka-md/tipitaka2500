@@ -19,14 +19,13 @@
 
 1311\. Adhipati sahajāta aññamañña nissaya sampayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-1312\. Adhipati sahajāta nissaya vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. [Avipāka—  3]
+1312\. Adhipati sahajāta nissaya vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. [Avipāka— 3]
 
-1313\. Adhipati sahajāta nissaya vipāka atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1313\. Adhipati sahajāta nissaya vipāka atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1314\. Adhipati sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1314\. Adhipati sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1315\. Adhipati sahajāta nissaya vipāka vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  3]
+1315\. Adhipati sahajāta nissaya vipāka vippayutta atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ. [Savipāka— 3]
 
 [Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Cittādhipatighaṭanā)](Cittadhipatighatana.md)
-
 

@@ -11,12 +11,7 @@
 
 * Anantara-samanantaraduka
 
----
+292\. (Anantarapaccayā samanantarapaccayā yathā ārammaṇapaccayā, evaṁ vitthāretabbā.)
 
-292\. (Anantarapaccayā samanantarapaccayā yathā ārammaṇapaccayā, evaṃ vitthāretabbā.)
-
-
-
-[Go to previous page (Catukka)](Adhipatiduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Sahajātaduka)](Sahajataduka.md)
-
+[Go to previous page (Catukka)](Adhipatiduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Sahajātaduka)](Sahajataduka.md)
 

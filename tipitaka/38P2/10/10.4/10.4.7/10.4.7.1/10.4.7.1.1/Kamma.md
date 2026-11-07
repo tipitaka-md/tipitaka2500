@@ -17,12 +17,11 @@
 
 (172.)
 
-2730\. Cittasampayutto dhammo cittasampayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasampayuttā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasampayuttā cetanā vipākānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+2730\. Cittasampayutto dhammo cittasampayuttassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasampayuttā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasampayuttā cetanā vipākānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-2731\. Cittasampayutto dhammo cittavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasampayuttā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasampayuttā cetanā kaṭattārūpānaṃ kammapaccayena paccayo. (2)
+2731\. Cittasampayutto dhammo cittavippayuttassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasampayuttā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasampayuttā cetanā kaṭattārūpānaṁ kammapaccayena paccayo. (2)
 
-2732\. Cittasampayutto dhammo cittasampayuttassa ca cittavippayuttassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasampayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasampayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+2732\. Cittasampayutto dhammo cittasampayuttassa ca cittavippayuttassa ca dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasampayuttā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasampayuttā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (3)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Vipākāhāra)](Vipakahara.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Vipākāhāra)](Vipakahara.md)
 

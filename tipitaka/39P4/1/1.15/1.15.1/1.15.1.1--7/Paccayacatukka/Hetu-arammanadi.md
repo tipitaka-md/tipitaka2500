@@ -37,4 +37,3 @@
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 
-

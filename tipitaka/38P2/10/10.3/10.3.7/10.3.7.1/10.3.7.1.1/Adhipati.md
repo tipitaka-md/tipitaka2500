@@ -17,18 +17,17 @@
 
 (123.)
 
-2616\. Cetasiko dhammo cetasikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  cetasike khandhe garuṃ katvā cetasikā khandhā uppajjanti. **Sahajātādhipati**—  cetasikādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) **Ārammaṇādhipati**—  cetasike khandhe garuṃ katvā cittaṃ uppajjati. **Sahajātādhipati**—  cetasikādhipati cittassa cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) **Ārammaṇādhipati**—  cetasike khandhe garuṃ katvā cetasikā khandhā ca cittañca uppajjanti. **Sahajātādhipati**—  cetasikādhipati sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2616\. Cetasiko dhammo cetasikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— cetasike khandhe garuṁ katvā cetasikā khandhā uppajjanti. Sahajātādhipati— cetasikādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Ārammaṇādhipati— cetasike khandhe garuṁ katvā cittaṁ uppajjati. Sahajātādhipati— cetasikādhipati cittassa cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Ārammaṇādhipati— cetasike khandhe garuṁ katvā cetasikā khandhā ca cittañca uppajjanti. Sahajātādhipati— cetasikādhipati sampayuttakānaṁ khandhānaṁ cittassa ca cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (124.)
 
-2617\. Acetasiko dhammo acetasikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā…pe…  nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa. Maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ acetasike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā cittaṃ uppajjati. **Sahajātādhipati**—  acetasikādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (1)
+2617\. Acetasiko dhammo acetasikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— ariyā maggā vuṭṭhahitvā…pe… nibbānaṁ garuṁ katvā paccavekkhanti, nibbānaṁ gotrabhussa, vodānassa. Maggassa, phalassa adhipatipaccayena paccayo; cakkhuṁ…pe… vatthuṁ acetasike khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā cittaṁ uppajjati. Sahajātādhipati— acetasikādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (1)
 
-2618\. Acetasiko dhammo cetasikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā…pe…  nibbānaṃ garuṃ katvā…pe…  (paṭhamagamanasadisaṃ); cakkhuṃ…pe…  vatthuṃ acetasike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  acetasikādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (2)
+2618\. Acetasiko dhammo cetasikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— ariyā maggā vuṭṭhahitvā…pe… nibbānaṁ garuṁ katvā…pe… (paṭhamagamanasadisaṁ); cakkhuṁ…pe… vatthuṁ acetasike khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— acetasikādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (2)
 
-2619\. Acetasiko dhammo cetasikassa ca acetasikassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā…pe…  nibbānaṃ…pe…  (paṭhamagamanaṃ) acetasike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā cetasikā khandhā ca cittañca uppajjanti. **Sahajātādhipati**—  acetasikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2619\. Acetasiko dhammo cetasikassa ca acetasikassa ca dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— ariyā maggā vuṭṭhahitvā…pe… nibbānaṁ…pe… (paṭhamagamanaṁ) acetasike khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā cetasikā khandhā ca cittañca uppajjanti. Sahajātādhipati— acetasikādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
-2620\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi. (Ārammaṇādhipatiyeva.)
+2620\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati… tīṇi. (Ārammaṇādhipatiyeva.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

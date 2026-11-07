@@ -13,8 +13,7 @@
 
 (181.)
 
-639\. Naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā. (Naārammaṇapaccayasadisaṃ.)
+639\. Naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā. (Naārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Catukka)](Naadhipatiduka/Catukka.md) / [Go to parent page (2.3.4 Paccayapaccanīyānuloma)](../2.3.4.md) / [Go to next page (Napurejātaduka)](Napurejataduka.md)
-
+[Go to previous page (Catukka)](Naadhipatiduka/Catukka.md) / [Go to parent page (2.3.4 Paccayapaccanīyānuloma)](../2.3.4.md) / [Go to next page (Napurejātaduka)](Napurejataduka.md)
 

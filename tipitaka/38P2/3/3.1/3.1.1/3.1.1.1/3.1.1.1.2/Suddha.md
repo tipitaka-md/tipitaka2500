@@ -17,14 +17,9 @@
 
 (4.)
 
-978\. Hetuyā nava, ārammaṇe nava (sabbattha nava), vipāke ekaṃ, āhāre nava…pe…  avigate nava.
+978\. Hetuyā nava, ārammaṇe nava (sabbattha nava), vipāke ekaṁ, āhāre nava…pe… avigate nava.
 
----
+979\. Anulomaṁ.
 
-979\. Anulomaṃ.
-
-
-
-[Go to previous page (3.1.1.1.2 Saṅkhyāvāra)](../3.1.1.1.2.md) / [Go to parent page (3.1.1.1.2 Saṅkhyāvāra)](../3.1.1.1.2.md) / [Go to next page (3.1.1.2 Paccayapaccanīya)](../../3.1.1.2.md)
-
+[Go to previous page (3.1.1.1.2 Saṅkhyāvāra)](../3.1.1.1.2.md) / [Go to parent page (3.1.1.1.2 Saṅkhyāvāra)](../3.1.1.1.2.md) / [Go to next page (3.1.1.2 Paccayapaccanīya)](../../3.1.1.2.md)
 

@@ -25,22 +25,21 @@
 
 823\. Atītārammaṇo hetu dhammo atītārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. Atītārammaṇo hetu dhammo anāgatārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. Atītārammaṇo hetu dhammo paccuppannārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. (3)
 
-824\. Anāgatārammaṇo hetu dhammo anāgatārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+824\. Anāgatārammaṇo hetu dhammo anāgatārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo… tīṇi.
 
-825\. Paccuppannārammaṇo hetu dhammo paccuppannārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+825\. Paccuppannārammaṇo hetu dhammo paccuppannārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (217.)
 
-826\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare cha, samanantare cha, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane tīṇi, vipāke indriye magge sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+826\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare cha, samanantare cha, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane tīṇi, vipāke indriye magge sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-827\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+827\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-828\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+828\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-829\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+829\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-830\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+830\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.19.2 Nahetupada)](../../../1.19.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.19.2 Nahetupada)](../../../1.19.2.md)
 

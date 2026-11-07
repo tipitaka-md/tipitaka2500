@@ -15,14 +15,9 @@
 
 (95.)
 
-254\. Nahetupaccayā ārammaṇe dve, anantare dve…pe…  kamme dve, vipāke ekaṃ, āhāre dve…pe…  magge ekaṃ…pe…  avigate dve. (Evaṃ gaṇetabbaṃ.)
+254\. Nahetupaccayā ārammaṇe dve, anantare dve…pe… kamme dve, vipāke ekaṁ, āhāre dve…pe… magge ekaṁ…pe… avigate dve. (Evaṁ gaṇetabbaṁ.)
 
----
+255\. Paccanīyānulomaṁ.
 
-255\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (1.2.5.4 Paccayapaccanīyānuloma)](../1.2.5.4.md) / [Go to parent page (1.2.5.4 Paccayapaccanīyānuloma)](../1.2.5.4.md) / [Go to next page (1.2.6 Sampayuttavāra)](../../1.2.6.md)
-
+[Go to previous page (1.2.5.4 Paccayapaccanīyānuloma)](../1.2.5.4.md) / [Go to parent page (1.2.5.4 Paccayapaccanīyānuloma)](../1.2.5.4.md) / [Go to next page (1.2.6 Sampayuttavāra)](../../1.2.6.md)
 

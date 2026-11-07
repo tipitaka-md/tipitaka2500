@@ -15,14 +15,9 @@
 
 (24.)
 
-2490\. Nahetuyā ekaṃ, naadhipatiyā sattarasa, napurejāte sattarasa, napacchājāte sattarasa, naāsevane nava, nakamme sattarasa, navipāke sattarasa, namagge ekaṃ, navippayutte sattarasa. (Evaṃ gaṇetabbaṃ.)
+2490\. Nahetuyā ekaṁ, naadhipatiyā sattarasa, napurejāte sattarasa, napacchājāte sattarasa, naāsevane nava, nakamme sattarasa, navipāke sattarasa, namagge ekaṁ, navippayutte sattarasa. (Evaṁ gaṇetabbaṁ.)
 
----
+2491\. Paccanīyaṁ.
 
-2491\. Paccanīyaṃ.
-
-
-
-[Go to previous page (17.1.2.2 Saṅkhyāvāra)](../17.1.2.2.md) / [Go to parent page (17.1.2.2 Saṅkhyāvāra)](../17.1.2.2.md) / [Go to next page (17.1.3 Paccayānulomapaccanīya)](../../17.1.3.md)
-
+[Go to previous page (17.1.2.2 Saṅkhyāvāra)](../17.1.2.2.md) / [Go to parent page (17.1.2.2 Saṅkhyāvāra)](../17.1.2.2.md) / [Go to next page (17.1.3 Paccayānulomapaccanīya)](../../17.1.3.md)
 

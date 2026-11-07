@@ -17,10 +17,9 @@
 
 (56.)
 
-1120\. Āsavasampayuttaṃ dhammaṃ paṭicca āsavavippayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+1120\. Āsavasampayuttaṁ dhammaṁ paṭicca āsavavippayutto dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-1121\. Āsavavippayuttaṃ dhammaṃ paṭicca āsavavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ āsavavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+1121\. Āsavavippayuttaṁ dhammaṁ paṭicca āsavavippayutto dhammo uppajjati nahetupaccayā— ahetukaṁ āsavavippayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-[Go to previous page (3.3.1.2.1 Vibhaṅgavāra)](../3.3.1.2.1.md) / [Go to parent page (3.3.1.2.1 Vibhaṅgavāra)](../3.3.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (3.3.1.2.1 Vibhaṅgavāra)](../3.3.1.2.1.md) / [Go to parent page (3.3.1.2.1 Vibhaṅgavāra)](../3.3.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

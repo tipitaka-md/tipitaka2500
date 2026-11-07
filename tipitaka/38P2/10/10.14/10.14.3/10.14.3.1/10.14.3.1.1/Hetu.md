@@ -17,16 +17,15 @@
 
 (434.)
 
-3413\. Upādinnaṃ dhammaṃ paccayā upādinno dhammo uppajjati hetupaccayā—  upādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe upādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paccayā kaṭattārūpaṃ upādārūpaṃ, vatthuṃ paccayā upādinnā khandhā. (1)
+3413\. Upādinnaṁ dhammaṁ paccayā upādinno dhammo uppajjati hetupaccayā— upādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe upādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe…pe… khandhe paccayā vatthu, vatthuṁ paccayā khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paccayā kaṭattārūpaṁ upādārūpaṁ, vatthuṁ paccayā upādinnā khandhā. (1)
 
-3414\. Upādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati hetupaccayā—  upādinne khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā anupādinnā khandhā. (2)
+3414\. Upādinnaṁ dhammaṁ paccayā anupādinno dhammo uppajjati hetupaccayā— upādinne khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā anupādinnā khandhā. (2)
 
-3415\. Upādinnaṃ dhammaṃ paccayā upādinno ca anupādinno ca dhammā uppajjanti hetupaccayā—  upādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+3415\. Upādinnaṁ dhammaṁ paccayā upādinno ca anupādinno ca dhammā uppajjanti hetupaccayā— upādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-3416\. Anupādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati hetupaccayā—  anupādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+3416\. Anupādinnaṁ dhammaṁ paccayā anupādinno dhammo uppajjati hetupaccayā— anupādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ekaṁ mahābhūtaṁ…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (1)
 
-3417\. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati hetupaccayā—  upādinne khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+3417\. Upādinnañca anupādinnañca dhammaṁ paccayā anupādinno dhammo uppajjati hetupaccayā— upādinne khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, anupādinnaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-[Go to previous page (10.14.3.1.1 Vibhaṅgavāra)](../10.14.3.1.1.md) / [Go to parent page (10.14.3.1.1 Vibhaṅgavāra)](../10.14.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.14.3.1.1 Vibhaṅgavāra)](../10.14.3.1.1.md) / [Go to parent page (10.14.3.1.1 Vibhaṅgavāra)](../10.14.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

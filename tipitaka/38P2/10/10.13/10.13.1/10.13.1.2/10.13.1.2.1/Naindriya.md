@@ -17,12 +17,11 @@
 
 (380.)
 
-3272\. Noupādā dhammaṃ paṭicca noupādā dhammo uppajjati naindriyapaccayā—  bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
+3272\. Noupādā dhammaṁ paṭicca noupādā dhammo uppajjati naindriyapaccayā— bāhiraṁ āhārasamuṭṭhānaṁ utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ…pe… . (1)
 
-3273\. Noupādā dhammaṃ paṭicca upādā dhammo uppajjati naindriyapaccayā—  bāhire āhārasamuṭṭhāne utusamuṭṭhāne mahābhūte paṭicca upādārūpaṃ, asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ.
+3273\. Noupādā dhammaṁ paṭicca upādā dhammo uppajjati naindriyapaccayā— bāhire āhārasamuṭṭhāne utusamuṭṭhāne mahābhūte paṭicca upādārūpaṁ, asaññasattānaṁ mahābhūte paṭicca rūpajīvitindriyaṁ.
 
-3274\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti naindriyapaccayā—  bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe… . (3)
+3274\. Noupādā dhammaṁ paṭicca upādā ca noupādā ca dhammā uppajjanti naindriyapaccayā— bāhiraṁ āhārasamuṭṭhānaṁ utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ…pe… . (3)
 
-[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
-
+[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Najhānādi)](Najhanadi.md)
 

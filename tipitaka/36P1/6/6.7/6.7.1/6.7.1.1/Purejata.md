@@ -15,12 +15,11 @@
 
 (17.)
 
-2862\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ aniccato dukkhato anattato vipassati; sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ aniccato dukkhato anattato vipassati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. Vatthu asaṃkiliṭṭhasaṃkilesikānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+2862\. Asaṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ aniccato dukkhato anattato vipassati; sotaṁ… ghānaṁ… jivhaṁ… kāyaṁ… rūpe… sadde… gandhe… rase… phoṭṭhabbe… vatthuṁ aniccato dukkhato anattato vipassati, dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthu asaṁkiliṭṭhasaṁkilesikānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-2863\. Asaṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  phoṭṭhabbe…  vatthuṃ assādeti abhinandati; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saṃkiliṭṭhasaṃkilesikānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+2863\. Asaṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ assādeti abhinandati; taṁ ārabbha rāgo uppajjati…pe… domanassaṁ uppajjati. Sotaṁ…pe… phoṭṭhabbe… vatthuṁ assādeti abhinandati; taṁ ārabbha rāgo uppajjati…pe… domanassaṁ uppajjati. Vatthupurejātaṁ— vatthu saṁkiliṭṭhasaṁkilesikānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-2864\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa purejātapaccayena paccayo—  vatthu asaṃkiliṭṭhaasaṃkilesikānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
+2864\. Asaṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhaasaṁkilesikassa dhammassa purejātapaccayena paccayo— vatthu asaṁkiliṭṭhaasaṁkilesikānaṁ khandhānaṁ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
-
+[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 

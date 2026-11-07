@@ -17,8 +17,7 @@
 
 (14.)
 
-1003\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi…pe…  navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Evaṃ sabbe gaṇanā gaṇetabbā.)
+1003\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava…pe… nakamme tīṇi…pe… navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Evaṁ sabbe gaṇanā gaṇetabbā.)
 
-[Go to previous page (3.1.3.2.2 Saṅkhyāvāra)](../3.1.3.2.2.md) / [Go to parent page (3.1.3.2.2 Saṅkhyāvāra)](../3.1.3.2.2.md) / [Go to next page (3.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../3.1.3.3--4.md)
-
+[Go to previous page (3.1.3.2.2 Saṅkhyāvāra)](../3.1.3.2.2.md) / [Go to parent page (3.1.3.2.2 Saṅkhyāvāra)](../3.1.3.2.2.md) / [Go to next page (3.1.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../3.1.3.3--4.md)
 

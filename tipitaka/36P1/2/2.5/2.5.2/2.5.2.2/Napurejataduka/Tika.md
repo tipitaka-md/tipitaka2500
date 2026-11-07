@@ -15,8 +15,7 @@
 
 * Tika
 
-738\. Napurejātapaccayā nahetupaccayā naadhipatiyā dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, namagge ekaṃ, navippayutte dve. (Saṃkhittaṃ.)
+738\. Napurejātapaccayā nahetupaccayā naadhipatiyā dve, napacchājāte dve, naāsevane dve, nakamme ekaṁ, navipāke dve, namagge ekaṁ, navippayutte dve. (Saṁkhittaṁ.)
 
 [Go to previous page (Napurejātaduka)](../Napurejataduka.md) / [Go to parent page (Napurejātaduka)](../Napurejataduka.md) / [Go to next page (Napacchājāta-naāsevanaduka)](../Napacchajata-naasevanaduka.md)
-
 

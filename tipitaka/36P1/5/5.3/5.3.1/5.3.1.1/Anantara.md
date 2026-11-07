@@ -15,14 +15,9 @@
 
 (34.)
 
-2547\. Upādinnupādāniyaṃ dhammaṃ paccayā upādinnupādāniyo dhammo uppajjati anantarapaccayā.
-
----
+2547\. Upādinnupādāniyaṁ dhammaṁ paccayā upādinnupādāniyo dhammo uppajjati anantarapaccayā.
 
 2548\. (Catuvīsatipaccayā vitthāretabbā, avigatapaccayā.)
 
-
-
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.3.1.1 Vibhaṅgavāra)](../5.3.1.1.md) / [Go to next page (5.3.1.2 Saṅkhyāvāra)](../5.3.1.2.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.3.1.1 Vibhaṅgavāra)](../5.3.1.1.md) / [Go to next page (5.3.1.2 Saṅkhyāvāra)](../5.3.1.2.md)
 

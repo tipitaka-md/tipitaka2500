@@ -15,24 +15,23 @@
 
 (26.)
 
-2711\. Atītārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā atītārammaṇā khandhā pacchimānaṃ pacchimānaṃ atītārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo. (1)
+2711\. Atītārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo— purimā purimā atītārammaṇā khandhā pacchimānaṁ pacchimānaṁ atītārammaṇānaṁ khandhānaṁ anantarapaccayena paccayo. (1)
 
-2712\. Atītārammaṇo dhammo anāgatārammaṇassa dhammassa anantarapaccayena paccayo—  atītārammaṇaṃ bhavaṅgaṃ anāgatārammaṇāya āvajjanāya anantarapaccayena paccayo. (2)
+2712\. Atītārammaṇo dhammo anāgatārammaṇassa dhammassa anantarapaccayena paccayo— atītārammaṇaṁ bhavaṅgaṁ anāgatārammaṇāya āvajjanāya anantarapaccayena paccayo. (2)
 
-2713\. Atītārammaṇo dhammo paccuppannārammaṇassa dhammassa anantarapaccayena paccayo—  atītārammaṇaṃ cuticittaṃ paccuppannārammaṇassa paṭisandhicittassa anantarapaccayena paccayo. Atītārammaṇaṃ bhavaṅgaṃ paccuppannārammaṇāya āvajjanāya anantarapaccayena paccayo. (3)
+2713\. Atītārammaṇo dhammo paccuppannārammaṇassa dhammassa anantarapaccayena paccayo— atītārammaṇaṁ cuticittaṁ paccuppannārammaṇassa paṭisandhicittassa anantarapaccayena paccayo. Atītārammaṇaṁ bhavaṅgaṁ paccuppannārammaṇāya āvajjanāya anantarapaccayena paccayo. (3)
 
 (27.)
 
-2714\. Anāgatārammaṇo dhammo anāgatārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā anāgatārammaṇā khandhā pacchimānaṃ pacchimānaṃ anāgatārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo. (1)
+2714\. Anāgatārammaṇo dhammo anāgatārammaṇassa dhammassa anantarapaccayena paccayo— purimā purimā anāgatārammaṇā khandhā pacchimānaṁ pacchimānaṁ anāgatārammaṇānaṁ khandhānaṁ anantarapaccayena paccayo. (1)
 
-2715\. Anāgatārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo—  anāgatārammaṇaṃ iddhividhañāṇaṃ atītārammaṇassa vuṭṭhānassa…pe…  cetopariyañāṇaṃ atītārammaṇassa vuṭṭhānassa…pe…  anāgataṃsañāṇaṃ atītārammaṇassa vuṭṭhānassa…pe…  anāgatārammaṇā khandhā atītārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
+2715\. Anāgatārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo— anāgatārammaṇaṁ iddhividhañāṇaṁ atītārammaṇassa vuṭṭhānassa…pe… cetopariyañāṇaṁ atītārammaṇassa vuṭṭhānassa…pe… anāgataṁsañāṇaṁ atītārammaṇassa vuṭṭhānassa…pe… anāgatārammaṇā khandhā atītārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
 (28.)
 
-2716\. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā paccuppannārammaṇā khandhā pacchimānaṃ pacchimānaṃ paccuppannārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo. Paccuppannārammaṇaṃ paṭisandhicittaṃ paccuppannārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇaṃ bhavaṅgaṃ paccuppannārammaṇassa bhavaṅgassa anantarapaccayena paccayo. (1)
+2716\. Paccuppannārammaṇo dhammo paccuppannārammaṇassa dhammassa anantarapaccayena paccayo— purimā purimā paccuppannārammaṇā khandhā pacchimānaṁ pacchimānaṁ paccuppannārammaṇānaṁ khandhānaṁ anantarapaccayena paccayo. Paccuppannārammaṇaṁ paṭisandhicittaṁ paccuppannārammaṇassa bhavaṅgassa…pe… paccuppannārammaṇaṁ bhavaṅgaṁ paccuppannārammaṇassa bhavaṅgassa anantarapaccayena paccayo. (1)
 
-2717\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo—  paccuppannārammaṇaṃ paṭisandhicittaṃ atītārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇaṃ bhavaṅgaṃ atītārammaṇassa bhavaṅgassa…pe…  paccuppannārammaṇā khandhā atītārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
+2717\. Paccuppannārammaṇo dhammo atītārammaṇassa dhammassa anantarapaccayena paccayo— paccuppannārammaṇaṁ paṭisandhicittaṁ atītārammaṇassa bhavaṅgassa…pe… paccuppannārammaṇaṁ bhavaṅgaṁ atītārammaṇassa bhavaṅgassa…pe… paccuppannārammaṇā khandhā atītārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (20.7.1.1 Vibhaṅgavāra)](../20.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 

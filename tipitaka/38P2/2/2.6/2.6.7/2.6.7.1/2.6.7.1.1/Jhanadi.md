@@ -17,10 +17,9 @@
 
 (165.)
 
-922\. Lokiyo dhammo lokiyassa dhammassa jhānapaccayena paccayo…  ekaṃ, lokuttaro dhammo…pe…  tīṇi…  maggapaccayena paccayo, lokiye ekaṃ, lokuttare tīṇi.
+922\. Lokiyo dhammo lokiyassa dhammassa jhānapaccayena paccayo… ekaṁ, lokuttaro dhammo…pe… tīṇi… maggapaccayena paccayo, lokiye ekaṁ, lokuttare tīṇi.
 
-923\. Lokiyo dhammo lokiyassa dhammassa sampayuttapaccayena paccayo…  ekaṃ, lokuttaro dhammo…pe…  ekaṃ.
+923\. Lokiyo dhammo lokiyassa dhammassa sampayuttapaccayena paccayo… ekaṁ, lokuttaro dhammo…pe… ekaṁ.
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

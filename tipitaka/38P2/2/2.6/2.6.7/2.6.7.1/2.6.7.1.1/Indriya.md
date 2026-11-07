@@ -17,10 +17,9 @@
 
 (164.)
 
-920\. Lokiyo dhammo lokiyassa dhammassa indriyapaccayena paccayo (paṭisandhi kātabbā); cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo. **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
+920\. Lokiyo dhammo lokiyassa dhammassa indriyapaccayena paccayo (paṭisandhi kātabbā); cakkhundriyaṁ cakkhuviññāṇassa…pe… kāyindriyaṁ kāyaviññāṇassa indriyapaccayena paccayo. Rūpajīvitindriyaṁ— kaṭattārūpānaṁ indriyapaccayena paccayo. (1)
 
-921\. Lokuttaro dhammo lokuttarassa dhammassa indriyapaccayena paccayo…  tīṇi.
+921\. Lokuttaro dhammo lokuttarassa dhammassa indriyapaccayena paccayo… tīṇi.
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.6.7.1.1 Vibhaṅgavāra)](../2.6.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
 

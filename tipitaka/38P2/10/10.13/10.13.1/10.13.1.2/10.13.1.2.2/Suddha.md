@@ -19,6 +19,5 @@
 
 3282\. Nahetuyā pañca, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge pañca, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (10.13.1.2.2 Saṅkhyāvāra)](../10.13.1.2.2.md) / [Go to parent page (10.13.1.2.2 Saṅkhyāvāra)](../10.13.1.2.2.md) / [Go to next page (10.13.1.3 Paccayānulomapaccanīya)](../../10.13.1.3.md)
-
+[Go to previous page (10.13.1.2.2 Saṅkhyāvāra)](../10.13.1.2.2.md) / [Go to parent page (10.13.1.2.2 Saṅkhyāvāra)](../10.13.1.2.2.md) / [Go to next page (10.13.1.3 Paccayānulomapaccanīya)](../../10.13.1.3.md)
 

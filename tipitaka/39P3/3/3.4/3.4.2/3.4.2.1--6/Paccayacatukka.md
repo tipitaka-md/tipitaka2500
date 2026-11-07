@@ -6,6 +6,5 @@
 * [Hetu](Paccayacatukka/Hetu.md)
 * [Nahetu](Paccayacatukka/Nahetu.md)
 
-[Go to previous page (3.4.2.1--6 Paṭiccādivāra)](../3.4.2.1--6.md) / [Go to parent page (3.4.2.1--6 Paṭiccādivāra)](../3.4.2.1--6.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
-
+[Go to previous page (3.4.2.1--6 Paṭiccādivāra)](../3.4.2.1--6.md) / [Go to parent page (3.4.2.1--6 Paṭiccādivāra)](../3.4.2.1--6.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
 

@@ -15,8 +15,7 @@
 
 (34.)
 
-154\. Savitakkasavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā. (Naārammaṇasadisaṃ.)
+154\. Savitakkasavicāraṁ dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā. (Naārammaṇasadisaṁ.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 

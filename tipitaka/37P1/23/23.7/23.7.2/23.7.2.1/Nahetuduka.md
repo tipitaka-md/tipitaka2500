@@ -13,8 +13,7 @@
 
 * Nahetuduka
 
-3092\. Nahetupaccayā naārammaṇe bāvīsa (paṭhamagamanasadisaṃ), noavigate nava.
+3092\. Nahetupaccayā naārammaṇe bāvīsa (paṭhamagamanasadisaṁ), noavigate nava.
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (23.7.2.1 Saṅkhyāvāra)](../23.7.2.1.md) / [Go to next page (Nahetutika)](Nahetutika.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (23.7.2.1 Saṅkhyāvāra)](../23.7.2.1.md) / [Go to next page (Nahetutika)](Nahetutika.md)
 

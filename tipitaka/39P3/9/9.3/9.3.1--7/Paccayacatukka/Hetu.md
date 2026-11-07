@@ -15,46 +15,45 @@
 
 (15.)
 
-1984\. Parāmāsavippayuttaṃ kusalaṃ dhammaṃ paṭicca parāmāsavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1984\. Parāmāsavippayuttaṁ kusalaṁ dhammaṁ paṭicca parāmāsavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (16.)
 
-1985\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1985\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1986\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1986\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (17.)
 
-1987\. Parāmāsasampayuttaṃ akusalaṃ dhammaṃ paṭicca parāmāsasampayutto akusalo dhammo uppajjati hetupaccayā. (1)
+1987\. Parāmāsasampayuttaṁ akusalaṁ dhammaṁ paṭicca parāmāsasampayutto akusalo dhammo uppajjati hetupaccayā. (1)
 
-1988\. Parāmāsavippayuttaṃ akusalaṃ dhammaṃ paṭicca parāmāsavippayutto akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1988\. Parāmāsavippayuttaṁ akusalaṁ dhammaṁ paṭicca parāmāsavippayutto akusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (18.)
 
-1989\. Hetuyā dve, ārammaṇe dve (sabbattha dve)…pe…  avigate dve. (Saṃkhittaṃ.)
+1989\. Hetuyā dve, ārammaṇe dve (sabbattha dve)…pe… avigate dve. (Saṁkhittaṁ.)
 
-1990\. Nahetuyā ekaṃ, naadhipatiyā dve (sabbattha dve)…pe…  navippayutte dve. (Saṃkhittaṃ.) (Sahajātavāropi…pe…  sampayuttavāropi vitthāretabbā.)
+1990\. Nahetuyā ekaṁ, naadhipatiyā dve (sabbattha dve)…pe… navippayutte dve. (Saṁkhittaṁ.) (Sahajātavāropi…pe… sampayuttavāropi vitthāretabbā.)
 
 (19.)
 
 1991\. Parāmāsasampayutto akusalo dhammo parāmāsasampayuttassa akusalassa dhammassa hetupaccayena paccayo. (1)
 
-1992\. Parāmāsavippayutto akusalo dhammo parāmāsavippayuttassa akusalassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+1992\. Parāmāsavippayutto akusalo dhammo parāmāsavippayuttassa akusalassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (20.)
 
-1993\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā cattāri (majjhime ca ante ca ārammaṇādhipati), anantare dve…pe…  sahajāte dve…pe…  upanissaye cattāri, āsevane dve, kamme dve, āhāre dve…pe…  magge dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1993\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā cattāri (majjhime ca ante ca ārammaṇādhipati), anantare dve…pe… sahajāte dve…pe… upanissaye cattāri, āsevane dve, kamme dve, āhāre dve…pe… magge dve…pe… avigate dve. (Saṁkhittaṁ.)
 
 (21.)
 
-1994\. Parāmāsavippayuttaṃ abyākataṃ dhammaṃ paṭicca parāmāsavippayutto abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1994\. Parāmāsavippayuttaṁ abyākataṁ dhammaṁ paṭicca parāmāsavippayutto abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (22.)
 
-1995\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1995\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1996\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1996\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (9.4 Parāmāsaparāmaṭṭhaduka, Kusalattika)](../../../9.4.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (9.4 Parāmāsaparāmaṭṭhaduka, Kusalattika)](../../../9.4.md)
 

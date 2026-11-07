@@ -17,14 +17,13 @@
 
 (310.)
 
-4731\. Niyyānikaṃ dhammaṃ paccayā aniyyāniko dhammo uppajjati naārammaṇapaccayā…  tīṇi.
+4731\. Niyyānikaṁ dhammaṁ paccayā aniyyāniko dhammo uppajjati naārammaṇapaccayā… tīṇi.
 
-4732\. Niyyānikaṃ dhammaṃ paccayā niyyāniko dhammo uppajjati naadhipatipaccayā—  niyyānike khandhe paccayā niyyānikādhipati. (1)
+4732\. Niyyānikaṁ dhammaṁ paccayā niyyāniko dhammo uppajjati naadhipatipaccayā— niyyānike khandhe paccayā niyyānikādhipati. (1)
 
-4733\. Aniyyānikaṃ dhammaṃ paccayā aniyyāniko dhammo uppajjati naadhipatipaccayā—  aniyyānikaṃ ekaṃ khandhaṃ paccayā…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā aniyyānikā khandhā. Aniyyānikaṃ dhammaṃ paccayā niyyāniko dhammo uppajjati naadhipatipaccayā—  vatthuṃ paccayā niyyānikādhipati. (2)
+4733\. Aniyyānikaṁ dhammaṁ paccayā aniyyāniko dhammo uppajjati naadhipatipaccayā— aniyyānikaṁ ekaṁ khandhaṁ paccayā…pe… (yāva asaññasattā) cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā aniyyānikā khandhā. Aniyyānikaṁ dhammaṁ paccayā niyyāniko dhammo uppajjati naadhipatipaccayā— vatthuṁ paccayā niyyānikādhipati. (2)
 
-4734\. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko dhammo uppajjati naadhipatipaccayā—  niyyānike khandhe ca vatthuñca paccayā niyyānikādhipati. (1)
+4734\. Niyyānikañca aniyyānikañca dhammaṁ paccayā niyyāniko dhammo uppajjati naadhipatipaccayā— niyyānike khandhe ca vatthuñca paccayā niyyānikādhipati. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.15.3.2.1 Vibhaṅgavāra)](../13.15.3.2.1.md) / [Go to next page (13.15.3.2.2 Saṅkhyāvāra)](../13.15.3.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.15.3.2.1 Vibhaṅgavāra)](../13.15.3.2.1.md) / [Go to next page (13.15.3.2.2 Saṅkhyāvāra)](../13.15.3.2.2.md)
 

@@ -21,12 +21,11 @@
 
 47\. Vipākadhammadhammo navipākadhammadhammassa ārammaṇapaccayena paccayo. Vipākadhammadhammo navipākassa dhammassa ārammaṇapaccayena paccayo. Vipākadhammadhammo nanevavipākanavipākadhammadhammassa ārammaṇapaccayena paccayo. Vipākadhammadhammo navipākassa ca nanevavipākanavipākadhammadhammassa ca dhammassa ārammaṇapaccayena paccayo. Vipākadhammadhammo navipākadhammadhammassa ca nanevavipākanavipākadhammadhammassa ca dhammassa ārammaṇapaccayena paccayo. Vipākadhammadhammo navipākassa ca navipākadhammadhammassa ca dhammassa ārammaṇapaccayena paccayo. (6)
 
-48\. Nevavipākanavipākadhammadhammo nanevavipākanavipākadhammadhammassa ārammaṇapaccayena paccayo…pe…  cha. (Saṃkhittaṃ.)
+48\. Nevavipākanavipākadhammadhammo nanevavipākanavipākadhammadhammassa ārammaṇapaccayena paccayo…pe… cha. (Saṁkhittaṁ.)
 
 (25.)
 
-49\. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare soḷasa…pe…  sahajāte tevīsa, aññamaññe terasa, nissaye chabbīsa, upanissaye aṭṭhārasa, purejāte cha, pacchājāte nava, āsevane cha, kamme cuddasa, vipāke pañca, āhāre terasa, indriye aṭṭhārasa, jhāne magge terasa, sampayutte nava…pe…  vippayutte dvādasa…pe…  avigate chabbīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
+49\. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare soḷasa…pe… sahajāte tevīsa, aññamaññe terasa, nissaye chabbīsa, upanissaye aṭṭhārasa, purejāte cha, pacchājāte nava, āsevane cha, kamme cuddasa, vipāke pañca, āhāre terasa, indriye aṭṭhārasa, jhāne magge terasa, sampayutte nava…pe… vippayutte dvādasa…pe… avigate chabbīsa. (Pañhāvāraṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4 Upādinnattika)](../../../4.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4 Upādinnattika)](../../../4.md)
 

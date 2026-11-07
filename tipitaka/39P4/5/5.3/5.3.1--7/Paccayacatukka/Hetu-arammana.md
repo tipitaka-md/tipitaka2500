@@ -21,38 +21,37 @@
 
 1368\. Abyākato cetasiko dhammo abyākatassa cetasikassa dhammassa hetupaccayena paccayo. (1)
 
-1369\. Kusalo cetasiko dhammo kusalassa cetasikassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+1369\. Kusalo cetasiko dhammo kusalassa cetasikassa dhammassa ārammaṇapaccayena paccayo… tīṇi.
 
-1370\. Akusalo cetasiko dhammo akusalassa cetasikassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+1370\. Akusalo cetasiko dhammo akusalassa cetasikassa dhammassa ārammaṇapaccayena paccayo… tīṇi.
 
-1371\. Abyākato cetasiko dhammo abyākatassa cetasikassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+1371\. Abyākato cetasiko dhammo abyākatassa cetasikassa dhammassa ārammaṇapaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (14.)
 
-1372\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta…pe…  sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1372\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta…pe… sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṁ, āhāre…pe… sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-1373\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1373\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
 (15.)
 
-1374\. Kusalaṃ acetasikaṃ dhammaṃ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
+1374\. Kusalaṁ acetasikaṁ dhammaṁ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
 
-1375\. Akusalaṃ acetasikaṃ dhammaṃ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
+1375\. Akusalaṁ acetasikaṁ dhammaṁ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
 
-1376\. Abyākataṃ acetasikaṃ dhammaṃ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
+1376\. Abyākataṁ acetasikaṁ dhammaṁ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
 
-1377\. Kusalaṃ acetasikañca abyākataṃ acetasikañca dhammaṃ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
+1377\. Kusalaṁ acetasikañca abyākataṁ acetasikañca dhammaṁ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1)
 
-1378\. Akusalaṃ acetasikañca abyākataṃ acetasikañca dhammaṃ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1378\. Akusalaṁ acetasikañca abyākataṁ acetasikañca dhammaṁ paṭicca abyākato acetasiko dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (16.)
 
-1379\. Hetuyā pañca, ārammaṇe ekaṃ…pe…  avigate pañca.
+1379\. Hetuyā pañca, ārammaṇe ekaṁ…pe… avigate pañca.
 
-1380\. Nahetuyā ekaṃ, naārammaṇe pañca, novigate pañca.
+1380\. Nahetuyā ekaṁ, naārammaṇe pañca, novigate pañca.
 
-1381\. (Sahajātavārampi…pe…  pañhāvārampi evaṃ vitthāretabbaṃ.)
+1381\. (Sahajātavārampi…pe… pañhāvārampi evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.4 Kusalattika, Cittasampayuttadukādi)](../../../5.4.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.4 Kusalattika, Cittasampayuttadukādi)](../../../5.4.md)
 

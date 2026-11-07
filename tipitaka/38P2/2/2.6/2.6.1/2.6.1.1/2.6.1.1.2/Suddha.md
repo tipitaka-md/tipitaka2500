@@ -19,12 +19,7 @@
 
 857\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca, anantare dve, samanantare dve, sahajāte pañca, aññamaññe dve, nissaye pañca, upanissaye dve, purejāte dve, āsevane dve, kamme pañca, vipāke pañca, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, sampayutte dve, vippayutte pañca, atthiyā pañca, natthiyā dve, vigate dve, avigate pañca.
 
----
+858\. Anulomaṁ.
 
-858\. Anulomaṃ.
-
-
-
-[Go to previous page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md) / [Go to parent page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md) / [Go to next page (2.6.1.2 Paccayapaccanīya)](../../2.6.1.2.md)
-
+[Go to previous page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md) / [Go to parent page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md) / [Go to next page (2.6.1.2 Paccayapaccanīya)](../../2.6.1.2.md)
 

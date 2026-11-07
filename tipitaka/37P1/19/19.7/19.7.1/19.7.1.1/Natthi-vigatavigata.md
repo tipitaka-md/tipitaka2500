@@ -15,10 +15,9 @@
 
 (16.)
 
-2650\. Atīto dhammo paccuppannassa dhammassa natthipaccayena paccayo…  vigatapaccayena paccayo.
+2650\. Atīto dhammo paccuppannassa dhammassa natthipaccayena paccayo… vigatapaccayena paccayo.
 
-2651\. Paccuppanno dhammo paccuppannassa dhammassa avigatapaccayena paccayo…pe… .
+2651\. Paccuppanno dhammo paccuppannassa dhammassa avigatapaccayena paccayo…pe… .
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (19.1.1.2 Saṅkhyāvāra)](../19.1.1.2.md)
-
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (19.1.1.2 Saṅkhyāvāra)](../19.1.1.2.md)
 

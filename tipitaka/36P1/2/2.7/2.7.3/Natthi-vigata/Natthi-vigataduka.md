@@ -15,8 +15,7 @@
 
 (493.)
 
-1692\. Natthipaccayā nahetuyā satta…pe…  vigatapaccayā nahetuyā satta…pe… . (Natthipaccayampi vigatapaccayampi anantarapaccayasadisaṃ.)
+1692\. Natthipaccayā nahetuyā satta…pe… vigatapaccayā nahetuyā satta…pe… . (Natthipaccayampi vigatapaccayampi anantarapaccayasadisaṁ.)
 
 [Go to previous page (Natthi-vigata)](../Natthi-vigata.md) / [Go to parent page (Natthi-vigata)](../Natthi-vigata.md) / [Go to next page (Avigata)](../Avigata.md)
-
 

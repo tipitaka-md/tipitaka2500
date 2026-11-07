@@ -17,8 +17,7 @@
 
 (66.)
 
-2471\. Nahetuyā pañca, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne pañca, namagge pañca, nasampayutte tīṇi, navippayutte pañca, nonatthiyā tīṇi, novigate tīṇi.
+2471\. Nahetuyā pañca, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne pañca, namagge pañca, nasampayutte tīṇi, navippayutte pañca, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (10.2.3.2.2 Saṅkhyāvāra)](../10.2.3.2.2.md) / [Go to parent page (10.2.3.2.2 Saṅkhyāvāra)](../10.2.3.2.2.md) / [Go to next page (10.2.3.3 Paccayānulomapaccanīya)](../../10.2.3.3.md)
-
+[Go to previous page (10.2.3.2.2 Saṅkhyāvāra)](../10.2.3.2.2.md) / [Go to parent page (10.2.3.2.2 Saṅkhyāvāra)](../10.2.3.2.2.md) / [Go to next page (10.2.3.3 Paccayānulomapaccanīya)](../../10.2.3.3.md)
 

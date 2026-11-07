@@ -15,8 +15,7 @@
 
 (13.)
 
-817\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati vipākapaccayā—  vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+817\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati vipākapaccayā— vipākaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-[Go to previous page (Nissayādi)](Nissayadi.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Nissayādi)](Nissayadi.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

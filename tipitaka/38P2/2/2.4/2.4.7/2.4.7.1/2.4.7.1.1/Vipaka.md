@@ -17,8 +17,7 @@
 
 (79.)
 
-719\. Appaṭigho dhammo appaṭighassa dhammassa vipākapaccayena paccayo—  vipāko appaṭigho…pe…  tīṇi.
+719\. Appaṭigho dhammo appaṭighassa dhammassa vipākapaccayena paccayo— vipāko appaṭigho…pe… tīṇi.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 

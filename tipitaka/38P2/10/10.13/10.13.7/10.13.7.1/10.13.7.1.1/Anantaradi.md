@@ -17,10 +17,9 @@
 
 (397.)
 
-3327\. Noupādā dhammo noupādā dhammassa anantarapaccayena paccayo—  purimā purimā noupādā khandhā pacchimānaṃ pacchimānaṃ noupādā khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe…  phalasamāpattiyā anantarapaccayena paccayo. (1)
+3327\. Noupādā dhammo noupādā dhammassa anantarapaccayena paccayo— purimā purimā noupādā khandhā pacchimānaṁ pacchimānaṁ noupādā khandhānaṁ anantarapaccayena paccayo; anulomaṁ gotrabhussa…pe… phalasamāpattiyā anantarapaccayena paccayo. (1)
 
-3328\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo (paṭiccasadisaṃ)…  aññamaññapaccayena paccayo (paṭiccasadisaṃ)…  nissayapaccayena paccayo. (Paccayavāre nissayasadisaṃ.)
+3328\. Samanantarapaccayena paccayo… sahajātapaccayena paccayo (paṭiccasadisaṁ)… aññamaññapaccayena paccayo (paṭiccasadisaṁ)… nissayapaccayena paccayo. (Paccayavāre nissayasadisaṁ.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

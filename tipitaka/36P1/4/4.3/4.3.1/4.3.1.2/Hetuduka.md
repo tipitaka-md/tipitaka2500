@@ -15,20 +15,11 @@
 
 (74.)
 
-2224\. Hetupaccayā ārammaṇe satta, adhipatiyā sattarasa…pe…  avigate sattarasa.
+2224\. Hetupaccayā ārammaṇe satta, adhipatiyā sattarasa…pe… avigate sattarasa.
 
----
+2225\. (Yathā kusalattike gaṇanā, evaṁ gaṇetabbaṁ.)
 
-2225\. (Yathā kusalattike gaṇanā, evaṃ gaṇetabbaṃ.)
+2226\. Anulomaṁ.
 
-
-
----
-
-2226\. Anulomaṃ.
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.3.1.2 Saṅkhyāvāra)](../4.3.1.2.md) / [Go to next page (4.3.2 Paccayapaccanīya)](../../4.3.2.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.3.1.2 Saṅkhyāvāra)](../4.3.1.2.md) / [Go to next page (4.3.2 Paccayapaccanīya)](../../4.3.2.md)
 

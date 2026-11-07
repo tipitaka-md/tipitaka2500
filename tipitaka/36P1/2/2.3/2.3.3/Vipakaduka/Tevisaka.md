@@ -13,8 +13,7 @@
 
 * Tevīsaka
 
-608\. Vipākapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
+608\. Vipākapaccayā hetupaccayā…pe… purejātapaccayā kammapaccayā āhārapaccayā…pe… avigatapaccayā napacchājāte ekaṁ, naāsevane ekaṁ.
 
 [Go to previous page (Dvādasaka)](Dvadasaka.md) / [Go to parent page (Vipākaduka)](../Vipakaduka.md) / [Go to next page (Āhāraduka)](../Aharaduka.md)
-
 

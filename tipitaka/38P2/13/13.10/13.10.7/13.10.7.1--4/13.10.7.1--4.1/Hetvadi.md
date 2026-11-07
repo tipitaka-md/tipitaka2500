@@ -17,10 +17,9 @@
 
 (186.)
 
-4492\. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa hetupaccayena paccayo—  upekkhāsahagatā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Evaṃ cattāri pañhā yathā savitakkadukassa.)
+4492\. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa hetupaccayena paccayo— upekkhāsahagatā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Evaṁ cattāri pañhā yathā savitakkadukassa.)
 
-4493\. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo…  adhipatipaccayena paccayo. (Yathā sappītikadukaṃ evaṃ ārammaṇampi adhipatipi vitthāretabbā, “upekkhā”ti nānaṃ.)
+4493\. Upekkhāsahagato dhammo upekkhāsahagatassa dhammassa ārammaṇapaccayena paccayo… adhipatipaccayena paccayo. (Yathā sappītikadukaṁ evaṁ ārammaṇampi adhipatipi vitthāretabbā, “upekkhā”ti nānaṁ.)
 
-[Go to previous page (13.10.7.1--4.1 Vibhaṅgavāra)](../13.10.7.1--4.1.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](../13.10.7.1--4.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (13.10.7.1--4.1 Vibhaṅgavāra)](../13.10.7.1--4.1.md) / [Go to parent page (13.10.7.1--4.1 Vibhaṅgavāra)](../13.10.7.1--4.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

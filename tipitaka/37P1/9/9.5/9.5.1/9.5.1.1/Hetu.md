@@ -15,12 +15,11 @@
 
 (60.)
 
-923\. Dassanena pahātabbaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbo dhammo uppajjati hetupaccayā—  dassanena pahātabbaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. (1)
+923\. Dassanena pahātabbaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbo dhammo uppajjati hetupaccayā— dassanena pahātabbaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā. (1)
 
-924\. Bhāvanāya pahātabbaṃ dhammaṃ saṃsaṭṭho bhāvanāya pahātabbo dhammo uppajjati hetupaccayā—  bhāvanāya pahātabbaṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe… . (1)
+924\. Bhāvanāya pahātabbaṁ dhammaṁ saṁsaṭṭho bhāvanāya pahātabbo dhammo uppajjati hetupaccayā— bhāvanāya pahātabbaṁ ekaṁ khandhaṁ saṁsaṭṭhā…pe… . (1)
 
-925\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ saṃsaṭṭho nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā—  nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe… . (1)
+925\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ saṁsaṭṭho nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā— nevadassanena nabhāvanāya pahātabbaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbaṁ ekaṁ khandhaṁ saṁsaṭṭhā…pe… . (1)
 
-[Go to previous page (9.5.1.1 Vibhaṅgavāra)](../9.5.1.1.md) / [Go to parent page (9.5.1.1 Vibhaṅgavāra)](../9.5.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (9.5.1.1 Vibhaṅgavāra)](../9.5.1.1.md) / [Go to parent page (9.5.1.1 Vibhaṅgavāra)](../9.5.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

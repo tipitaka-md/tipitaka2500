@@ -13,8 +13,7 @@
 
 * Tika
 
-298\. Aññamaññapaccayā hetupaccayā naārammaṇe ekaṃ, naadhipatiyā tīṇi, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā ekaṃ, novigate ekaṃ.
+298\. Aññamaññapaccayā hetupaccayā naārammaṇe ekaṁ, naadhipatiyā tīṇi, naanantare ekaṁ, nasamanantare ekaṁ, naupanissaye ekaṁ, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, nasampayutte ekaṁ, navippayutte tīṇi, nonatthiyā ekaṁ, novigate ekaṁ.
 
 [Go to previous page (Aññamaññaduka)](../Annamannaduka.md) / [Go to parent page (Aññamaññaduka)](../Annamannaduka.md) / [Go to next page (Catukka)](Catukka.md)
-
 

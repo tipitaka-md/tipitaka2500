@@ -13,8 +13,7 @@
 
 * Tika
 
-2155\. Nahetupaccayā naārammaṇapaccayā sahajāte tīṇi, aññamaññe dve, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi…pe… .
+2155\. Nahetupaccayā naārammaṇapaccayā sahajāte tīṇi, aññamaññe dve, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi…pe… .
 
 [Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Sattaka)](Sattaka.md)
-
 

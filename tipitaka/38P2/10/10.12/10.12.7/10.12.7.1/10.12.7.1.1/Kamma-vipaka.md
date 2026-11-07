@@ -17,12 +17,11 @@
 
 (349.)
 
-3182\. Bāhiro dhammo bāhirassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  bāhirā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  bāhirā cetanā vipākānaṃ bāhirānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+3182\. Bāhiro dhammo bāhirassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— bāhirā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— bāhirā cetanā vipākānaṁ bāhirānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (1)
 
-3183\. Bāhiro dhammo ajjhattikassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  bāhirā cetanā cittassa kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  bāhirā cetanā vipākassa cittassa ajjhattikānañca kaṭattārūpānaṃ kammapaccayena paccayo. (2)
+3183\. Bāhiro dhammo ajjhattikassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— bāhirā cetanā cittassa kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— bāhirā cetanā vipākassa cittassa ajjhattikānañca kaṭattārūpānaṁ kammapaccayena paccayo. (2)
 
-3184\. Bāhiro dhammo ajjhattikassa ca bāhirassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  bāhirā cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  bāhirā cetanā vipākānaṃ khandhānaṃ cittassa ca ajjhattikānañca bāhirānañca kaṭattārūpānaṃ kammapaccayena paccayo. (3) Vipākapaccayena paccayo…  nava.
+3184\. Bāhiro dhammo ajjhattikassa ca bāhirassa ca dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— bāhirā cetanā sampayuttakānaṁ khandhānaṁ cittassa ca cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— bāhirā cetanā vipākānaṁ khandhānaṁ cittassa ca ajjhattikānañca bāhirānañca kaṭattārūpānaṁ kammapaccayena paccayo. (3) Vipākapaccayena paccayo… nava.
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 

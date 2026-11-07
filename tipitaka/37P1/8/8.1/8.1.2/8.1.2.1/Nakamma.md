@@ -15,16 +15,11 @@
 
 (11.)
 
-664\. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati nakammapaccayā—  pītisahagate khandhe paṭicca pītisahagatā cetanā.
+664\. Pītisahagataṁ dhammaṁ paṭicca pītisahagato dhammo uppajjati nakammapaccayā— pītisahagate khandhe paṭicca pītisahagatā cetanā.
 
-665\. Pītisahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati nakammapaccayā—  pītisahagate khandhe paṭicca sukhasahagatā cetanā.
-
----
+665\. Pītisahagataṁ dhammaṁ paṭicca sukhasahagato dhammo uppajjati nakammapaccayā— pītisahagate khandhe paṭicca sukhasahagatā cetanā.
 
 666\. (Iminā kāraṇena dasa pañhā vitthāretabbā.)
 
-
-
-[Go to previous page (Naadhipati-naāsevana)](Naadhipati-naasevana.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Naadhipati-naāsevana)](Naadhipati-naasevana.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

@@ -15,14 +15,9 @@
 
 (24.)
 
-2804\. Nahetuyā dve, naārammaṇe dve…pe…  novigate dve.
+2804\. Nahetuyā dve, naārammaṇe dve…pe… novigate dve.
 
----
+2805\. Paccanīyaṁ.
 
-2805\. Paccanīyaṃ.
-
-
-
-[Go to previous page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md) / [Go to parent page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md) / [Go to next page (21.3.3 Paccayānulomapaccanīya)](../../21.3.3.md)
-
+[Go to previous page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md) / [Go to parent page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md) / [Go to next page (21.3.3 Paccayānulomapaccanīya)](../../21.3.3.md)
 

@@ -13,14 +13,9 @@
 
 (27.)
 
-2996\. Hetupaccayā naārammaṇe ekavīsa, naadhipatiyā ekavīsa…pe…  nakamme ekaṃ, navipāke ekavīsa, nasampayutte ekavīsa, navippayutte ekaṃ, nonatthiyā ekavīsa, novigate ekavīsa. (Evaṃ gaṇetabbaṃ.)
+2996\. Hetupaccayā naārammaṇe ekavīsa, naadhipatiyā ekavīsa…pe… nakamme ekaṁ, navipāke ekavīsa, nasampayutte ekavīsa, navippayutte ekaṁ, nonatthiyā ekavīsa, novigate ekavīsa. (Evaṁ gaṇetabbaṁ.)
 
----
+2997\. Anulomapaccanīyaṁ.
 
-2997\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (23.1.3 Paccayānulomapaccanīya)](../23.1.3.md) / [Go to parent page (23.1.3 Paccayānulomapaccanīya)](../23.1.3.md) / [Go to next page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md)
-
+[Go to previous page (23.1.3 Paccayānulomapaccanīya)](../23.1.3.md) / [Go to parent page (23.1.3 Paccayānulomapaccanīya)](../23.1.3.md) / [Go to next page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md)
 

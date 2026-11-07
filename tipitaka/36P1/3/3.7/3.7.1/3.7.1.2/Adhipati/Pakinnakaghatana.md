@@ -19,4 +19,3 @@
 
 [Go to previous page (Adhipatisabhāga)](Adhipatisabhaga.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
 
-

@@ -15,20 +15,19 @@
 
 (4.)
 
-1100\. Akusalaṃ sappaccayaṃ dhammaṃ paṭicca akusalo sappaccayo dhammo uppajjati nahetupaccayā. (1)
+1100\. Akusalaṁ sappaccayaṁ dhammaṁ paṭicca akusalo sappaccayo dhammo uppajjati nahetupaccayā. (1)
 
-1101\. Abyākataṃ sappaccayaṃ dhammaṃ paṭicca abyākato sappaccayo dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+1101\. Abyākataṁ sappaccayaṁ dhammaṁ paṭicca abyākato sappaccayo dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
 (5.)
 
-1102\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, napurejāte satta, napacchājāte naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre…pe…  namagge ekaṃ…pe…  navippayutte tīṇi…pe…  novigate pañca. (Saṃkhittaṃ.)
+1102\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, napurejāte satta, napacchājāte naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre…pe… namagge ekaṁ…pe… navippayutte tīṇi…pe… novigate pañca. (Saṁkhittaṁ.)
 
-1103\. Hetupaccayā naārammaṇe pañca. (Saṃkhittaṃ.)
+1103\. Hetupaccayā naārammaṇe pañca. (Saṁkhittaṁ.)
 
-1104\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+1104\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-1105\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1105\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

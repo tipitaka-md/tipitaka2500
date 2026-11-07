@@ -17,22 +17,21 @@
 
 (110.)
 
-4304\. Savitakkaṃ dhammaṃ paccayā savitakko dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccavārasadisā.)
+4304\. Savitakkaṁ dhammaṁ paccayā savitakko dhammo uppajjati hetupaccayā… tīṇi. (Paṭiccavārasadisā.)
 
-4305\. Avitakkaṃ dhammaṃ paccayā avitakko dhammo uppajjati hetupaccayā—  avitakkaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  vitakkaṃ paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe avitakkaṃ ekaṃ khandhaṃ paccayā tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe vitakkaṃ paccayā kaṭattārūpaṃ, khandhe paccayā vatthu, vatthuṃ paccayā khandhā, vitakkaṃ paccayā vatthu, vatthuṃ paccayā vitakko, ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  vatthuṃ paccayā avitakkā khandhā, vatthuṃ paccayā vitakko. (1)
+4305\. Avitakkaṁ dhammaṁ paccayā avitakko dhammo uppajjati hetupaccayā— avitakkaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… vitakkaṁ paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe avitakkaṁ ekaṁ khandhaṁ paccayā tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe vitakkaṁ paccayā kaṭattārūpaṁ, khandhe paccayā vatthu, vatthuṁ paccayā khandhā, vitakkaṁ paccayā vatthu, vatthuṁ paccayā vitakko, ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… vatthuṁ paccayā avitakkā khandhā, vatthuṁ paccayā vitakko. (1)
 
-4306\. Avitakkaṃ dhammaṃ paccayā savitakko dhammo uppajjati hetupaccayā—  vitakkaṃ paccayā sampayuttakā khandhā, vatthuṃ paccayā savitakkā khandhā. (Paṭisandhiyāpi dve.) (2)
+4306\. Avitakkaṁ dhammaṁ paccayā savitakko dhammo uppajjati hetupaccayā— vitakkaṁ paccayā sampayuttakā khandhā, vatthuṁ paccayā savitakkā khandhā. (Paṭisandhiyāpi dve.) (2)
 
-4307\. Avitakkaṃ dhammaṃ paccayā savitakko ca avitakko ca dhammā uppajjanti hetupaccayā—  vitakkaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ, vitakkaṃ paccayā sampayuttakā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā savitakkā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā vitakko sampayuttakā ca khandhā; paṭisandhikkhaṇe…pe… . (Paṭisandhiyāpi pavattisadisāyeva.) (3)
+4307\. Avitakkaṁ dhammaṁ paccayā savitakko ca avitakko ca dhammā uppajjanti hetupaccayā— vitakkaṁ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ, vitakkaṁ paccayā sampayuttakā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā savitakkā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā vitakko sampayuttakā ca khandhā; paṭisandhikkhaṇe…pe… . (Paṭisandhiyāpi pavattisadisāyeva.) (3)
 
 (111.)
 
-4308\. Savitakkañca avitakkañca dhammaṃ paccayā savitakko dhammo uppajjati hetupaccayā—  savitakkaṃ ekaṃ khandhañca vitakkañca paccayā tayo khandhā…pe…  dve khandhe…pe…  savitakkaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (Paṭisandhikkhaṇe dve kātabbā.) (1)
+4308\. Savitakkañca avitakkañca dhammaṁ paccayā savitakko dhammo uppajjati hetupaccayā— savitakkaṁ ekaṁ khandhañca vitakkañca paccayā tayo khandhā…pe… dve khandhe…pe… savitakkaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… . (Paṭisandhikkhaṇe dve kātabbā.) (1)
 
-4309\. Savitakkañca avitakkañca dhammaṃ paccayā avitakko dhammo uppajjati hetupaccayā—  savitakke khandhe ca vitakkañca paccayā cittasamuṭṭhānaṃ rūpaṃ, savitakke khandhe ca vitakkañca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, savitakke khandhe ca vatthuñca paccayā vitakko; paṭisandhikkhaṇe…pe… . (Tīṇi, paṭisandhiyāpi.) (2)
+4309\. Savitakkañca avitakkañca dhammaṁ paccayā avitakko dhammo uppajjati hetupaccayā— savitakke khandhe ca vitakkañca paccayā cittasamuṭṭhānaṁ rūpaṁ, savitakke khandhe ca vitakkañca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, savitakke khandhe ca vatthuñca paccayā vitakko; paṭisandhikkhaṇe…pe… . (Tīṇi, paṭisandhiyāpi.) (2)
 
-4310\. Savitakkañca avitakkañca dhammaṃ paccayā savitakko ca avitakko ca dhammā uppajjanti hetupaccayā—  savitakkaṃ ekaṃ khandhañca vitakkañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  savitakkaṃ ekaṃ khandhañca vitakkañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  savitakke khandhe ca vitakkañca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, savitakkaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā vitakko ca…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+4310\. Savitakkañca avitakkañca dhammaṁ paccayā savitakko ca avitakko ca dhammā uppajjanti hetupaccayā— savitakkaṁ ekaṁ khandhañca vitakkañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… savitakkaṁ ekaṁ khandhañca vitakkañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… savitakke khandhe ca vitakkañca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, savitakkaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā vitakko ca…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (13.5.3.1.1 Vibhaṅgavāra)](../13.5.3.1.1.md) / [Go to parent page (13.5.3.1.1 Vibhaṅgavāra)](../13.5.3.1.1.md) / [Go to next page (13.5.3.1.2 Saṅkhyāvāra)](../13.5.3.1.2.md)
-
+[Go to previous page (13.5.3.1.1 Vibhaṅgavāra)](../13.5.3.1.1.md) / [Go to parent page (13.5.3.1.1 Vibhaṅgavāra)](../13.5.3.1.1.md) / [Go to next page (13.5.3.1.2 Saṅkhyāvāra)](../13.5.3.1.2.md)
 

@@ -17,16 +17,15 @@
 
 (338.)
 
-707\. Hetuṃ asekkhaṃ dhammaṃ paṭicca hetu asekkho dhammo uppajjati hetupaccayā…  tīṇi.
+707\. Hetuṁ asekkhaṁ dhammaṁ paṭicca hetu asekkho dhammo uppajjati hetupaccayā… tīṇi.
 
-708\. Nahetuṃ asekkhaṃ dhammaṃ paṭicca nahetu asakkho dhammo uppajjati hetupaccayā…  tīṇi.
+708\. Nahetuṁ asekkhaṁ dhammaṁ paṭicca nahetu asakkho dhammo uppajjati hetupaccayā… tīṇi.
 
-709\. Hetuṃ asekkhañca nahetuṃ asekkhañca dhammaṃ paṭicca hetu asekkho dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+709\. Hetuṁ asekkhañca nahetuṁ asekkhañca dhammaṁ paṭicca hetu asekkho dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (339.)
 
-710\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+710\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, kamme nava, vipāke nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
 

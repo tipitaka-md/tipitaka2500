@@ -15,10 +15,9 @@
 
 (11.)
 
-2777\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati napacchājātapaccayā, naāsevanapaccayā, nakammapaccayā—  ajjhatte khandhe paṭicca ajjhattā cetanā. Āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
+2777\. Ajjhattaṁ dhammaṁ paṭicca ajjhatto dhammo uppajjati napacchājātapaccayā, naāsevanapaccayā, nakammapaccayā— ajjhatte khandhe paṭicca ajjhattā cetanā. Āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… . (1)
 
-2778\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati nakammapaccayā—  bahiddhā khandhe paṭicca bahiddhā cetanā. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ… . (1)
+2778\. Bahiddhā dhammaṁ paṭicca bahiddhā dhammo uppajjati nakammapaccayā— bahiddhā khandhe paṭicca bahiddhā cetanā. Bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… . (1)
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (21.1.2.1 Vibhaṅgavāra)](../21.1.2.1.md) / [Go to next page (Navipākādi)](Navipakadi.md)
-
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (21.1.2.1 Vibhaṅgavāra)](../21.1.2.1.md) / [Go to next page (Navipākādi)](Navipakadi.md)
 

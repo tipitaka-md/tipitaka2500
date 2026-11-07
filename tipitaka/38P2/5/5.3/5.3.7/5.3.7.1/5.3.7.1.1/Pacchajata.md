@@ -17,12 +17,11 @@
 
 (86.)
 
-1803\. Ganthasampayutto dhammo ganthavippayuttassa dhammassa pacchājātapaccayena paccayo…  ekaṃ.
+1803\. Ganthasampayutto dhammo ganthavippayuttassa dhammassa pacchājātapaccayena paccayo… ekaṁ.
 
-1804\. Ganthavippayutto dhammo ganthavippayuttassa dhammassa pacchājātapaccayena paccayo…  ekaṃ.
+1804\. Ganthavippayutto dhammo ganthavippayuttassa dhammassa pacchājātapaccayena paccayo… ekaṁ.
 
-1805\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthavippayuttassa dhammassa pacchājātapaccayena paccayo—  pacchājātā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+1805\. Ganthasampayutto ca ganthavippayutto ca dhammā ganthavippayuttassa dhammassa pacchājātapaccayena paccayo— pacchājātā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca domanassasahagatā khandhā ca paṭighañca purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../5.3.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (5.3.7.1.1 Vibhaṅgavāra)](../5.3.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 

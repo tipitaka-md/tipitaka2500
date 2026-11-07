@@ -15,8 +15,7 @@
 
 * Tevīsaka
 
-2018\. Nahetupaccayā naārammaṇapaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā…pe…  noavigate aṭṭha.
+2018\. Nahetupaccayā naārammaṇapaccayā…pe… naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā…pe… noavigate aṭṭha.
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Nahetumūlaka)](../Nahetumulaka.md)
-
 

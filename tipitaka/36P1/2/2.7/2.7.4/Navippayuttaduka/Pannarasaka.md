@@ -13,8 +13,7 @@
 
 * Pannarasaka
 
-1774\. Navippayuttapaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) nakammapaccayā āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+1774\. Navippayuttapaccayā nahetupaccayā (mūlakaṁ saṁkhittaṁ) nakammapaccayā āhāre ekaṁ, indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (Sattarasaka (sāhāra))](attarasaka _sahara.md)
-
 

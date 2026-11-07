@@ -15,8 +15,7 @@
 
 * Catukka
 
-731\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, namagge ekaṃ, navippayutte dve…pe… .
+731\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte dve, naāsevane dve, nakamme ekaṁ, navipāke dve, namagge ekaṁ, navippayutte dve…pe… .
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Chakka)](Chakka.md)
-
 

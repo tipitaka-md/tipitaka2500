@@ -17,14 +17,9 @@
 
 (37.)
 
-1701\. Hetuyā nava, ārammaṇe nava (sabbattha nava), upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
+1701\. Hetuyā nava, ārammaṇe nava (sabbattha nava), upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke ekaṁ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
 
----
+1702\. Anulomaṁ.
 
-1702\. Anulomaṃ.
-
-
-
-[Go to previous page (5.1.7.1.2 Saṅkhyāvāra)](../5.1.7.1.2.md) / [Go to parent page (5.1.7.1.2 Saṅkhyāvāra)](../5.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (5.1.7.1.2 Saṅkhyāvāra)](../5.1.7.1.2.md) / [Go to parent page (5.1.7.1.2 Saṅkhyāvāra)](../5.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

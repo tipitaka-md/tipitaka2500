@@ -19,14 +19,13 @@
 
 1317\. Adhipati sahajāta aññamañña nissaya āhāra indriya sampayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-1318\. Adhipati sahajāta nissaya āhāra indriya vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. [Avipāka—  3]
+1318\. Adhipati sahajāta nissaya āhāra indriya vippayutta atthi avigatanti nahetuyā tīṇi, naārammaṇe tīṇi, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi. [Avipāka— 3]
 
-1319\. Adhipati sahajāta nissaya vipāka āhāra indriya atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1319\. Adhipati sahajāta nissaya vipāka āhāra indriya atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1320\. Adhipati sahajāta aññamañña nissaya vipāka āhāra indriya sampayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, najhāne ekaṃ, namagge ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1320\. Adhipati sahajāta aññamañña nissaya vipāka āhāra indriya sampayutta atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, najhāne ekaṁ, namagge ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1321\. Adhipati sahajāta nissaya vipāka āhāra indriya vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  3]
+1321\. Adhipati sahajāta nissaya vipāka āhāra indriya vippayutta atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ. [Savipāka— 3]
 
 [Go to previous page (Sahajāta-chandādhipatighaṭanā)](Sahajata-chandadhipatighatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Vīriyādhipatighaṭanā)](Viriyadhipatighatana.md)
-
 

@@ -13,16 +13,11 @@
 
 (80.)
 
-2240\. Hetupaccayā naārammaṇe pañca, naadhipatiyā sattarasa…pe…  novigate pañca.
+2240\. Hetupaccayā naārammaṇe pañca, naadhipatiyā sattarasa…pe… novigate pañca.
 
-2241\. (Yathā kusalattike anulomapaccanīyagaṇanā, evaṃ gaṇetabbaṃ.)
+2241\. (Yathā kusalattike anulomapaccanīyagaṇanā, evaṁ gaṇetabbaṁ.)
 
----
+2242\. Anulomapaccanīyaṁ.
 
-2242\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (4.3.3 Paccayānulomapaccanīya)](../4.3.3.md) / [Go to parent page (4.3.3 Paccayānulomapaccanīya)](../4.3.3.md) / [Go to next page (4.3.4 Paccayapaccanīyānuloma)](../4.3.4.md)
-
+[Go to previous page (4.3.3 Paccayānulomapaccanīya)](../4.3.3.md) / [Go to parent page (4.3.3 Paccayānulomapaccanīya)](../4.3.3.md) / [Go to next page (4.3.4 Paccayapaccanīyānuloma)](../4.3.4.md)
 

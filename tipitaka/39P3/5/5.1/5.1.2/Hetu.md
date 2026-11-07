@@ -13,14 +13,13 @@
 
 (8.)
 
-1717\. Nosaññojanaṃ abyākataṃ dhammaṃ paṭicca nosaññojano abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1717\. Nosaññojanaṁ abyākataṁ dhammaṁ paṭicca nosaññojano abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (9.)
 
-1718\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1718\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1719\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1719\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (5.1.2 Abyākatapada)](../5.1.2.md) / [Go to parent page (5.1.2 Abyākatapada)](../5.1.2.md) / [Go to next page (5.2 Saññojaniyaduka, Kusalattika)](../../5.2.md)
-
+[Go to previous page (5.1.2 Abyākatapada)](../5.1.2.md) / [Go to parent page (5.1.2 Abyākatapada)](../5.1.2.md) / [Go to next page (5.2 Saññojaniyaduka, Kusalattika)](../../5.2.md)
 

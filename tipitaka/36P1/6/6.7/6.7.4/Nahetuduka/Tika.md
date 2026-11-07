@@ -13,22 +13,13 @@
 
 * Tika
 
-2935\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta. (Saṃkhittaṃ.)
+2935\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta. (Saṁkhittaṁ.)
 
-2936\. (Yathā kusalattike paccanīyānulomagaṇanā vibhattā, evaṃ vibhajitabbaṃ.)
+2936\. (Yathā kusalattike paccanīyānulomagaṇanā vibhattā, evaṁ vibhajitabbaṁ.)
 
----
+2937\. Paccanīyānulomaṁ.
 
-2937\. Paccanīyānulomaṃ.
-
-
-
----
-
-2938\. Saṃkiliṭṭhattikaṃ niṭṭhitaṃ.
-
-
+2938\. Saṁkiliṭṭhattikaṁ niṭṭhitaṁ.
 
 [Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md)
-
 

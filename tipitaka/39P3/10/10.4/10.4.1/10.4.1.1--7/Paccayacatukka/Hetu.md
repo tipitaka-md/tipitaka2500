@@ -17,22 +17,21 @@
 
 (29.)
 
-2073\. Cittasampayuttaṃ kusalaṃ dhammaṃ paṭicca cittasampayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2073\. Cittasampayuttaṁ kusalaṁ dhammaṁ paṭicca cittasampayutto kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (30.)
 
-2074\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2074\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-2075\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2075\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (31.)
 
-2076\. Cittasampayuttaṃ akusalaṃ dhammaṃ paṭicca cittasampayutto akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2076\. Cittasampayuttaṁ akusalaṁ dhammaṁ paṭicca cittasampayutto akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (32.)
 
-2077\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2077\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.) (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.4.2 Abyākatapada)](../../../10.4.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.4.2 Abyākatapada)](../../../10.4.2.md)
 

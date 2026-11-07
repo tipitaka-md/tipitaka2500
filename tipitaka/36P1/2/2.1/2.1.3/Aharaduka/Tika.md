@@ -17,4 +17,3 @@
 
 [Go to previous page (Āhāraduka)](../Aharaduka.md) / [Go to parent page (Āhāraduka)](../Aharaduka.md) / [Go to next page (Catukka)](Catukka.md)
 
-

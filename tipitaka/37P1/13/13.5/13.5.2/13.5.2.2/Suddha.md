@@ -15,14 +15,9 @@
 
 (52.)
 
-2021\. Nahetuyā ekaṃ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi. (Evaṃ gaṇetabbaṃ.)
+2021\. Nahetuyā ekaṁ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṁ, namagge ekaṁ, navippayutte tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+2022\. Paccanīyaṁ.
 
-2022\. Paccanīyaṃ.
-
-
-
-[Go to previous page (13.5.2.2 Saṅkhyāvāra)](../13.5.2.2.md) / [Go to parent page (13.5.2.2 Saṅkhyāvāra)](../13.5.2.2.md) / [Go to next page (13.5.3 Paccayānulomapaccanīya)](../../13.5.3.md)
-
+[Go to previous page (13.5.2.2 Saṅkhyāvāra)](../13.5.2.2.md) / [Go to parent page (13.5.2.2 Saṅkhyāvāra)](../13.5.2.2.md) / [Go to next page (13.5.3 Paccayānulomapaccanīya)](../../13.5.3.md)
 

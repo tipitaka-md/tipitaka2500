@@ -15,14 +15,9 @@
 
 (143.)
 
-518\. Kusalaṃ dhammaṃ paccayā abyākato dhammo uppajjati naārammaṇapaccayā—  kusale khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ.
+518\. Kusalaṁ dhammaṁ paccayā abyākato dhammo uppajjati naārammaṇapaccayā— kusale khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ.
 
----
+519\. (Yathā paṭiccavāre naārammaṇapaccayā, evaṁ vitthāretabbaṁ.)
 
-519\. (Yathā paṭiccavāre naārammaṇapaccayā, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

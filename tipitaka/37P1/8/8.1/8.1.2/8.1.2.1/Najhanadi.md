@@ -15,12 +15,11 @@
 
 (13.)
 
-668\. Sukhasahagataṃ dhammaṃ paṭicca sukhasahagato dhammo uppajjati najhānapaccayā—  sukhasahagataṃ kāyaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. (1)
+668\. Sukhasahagataṁ dhammaṁ paṭicca sukhasahagato dhammo uppajjati najhānapaccayā— sukhasahagataṁ kāyaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. (1)
 
-669\. Upekkhāsahagataṃ dhammaṃ paṭicca upekkhāsahagato dhammo uppajjati najhānapaccayā—  catuviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. (1)
+669\. Upekkhāsahagataṁ dhammaṁ paṭicca upekkhāsahagato dhammo uppajjati najhānapaccayā— catuviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. (1)
 
-670\. (Namaggapaccayā nahetupaccayasadisaṃ. Moho natthi. Navippayuttapaccayā paripuṇṇaṃ, arūpapañhameva.)
+670\. (Namaggapaccayā nahetupaccayasadisaṁ. Moho natthi. Navippayuttapaccayā paripuṇṇaṁ, arūpapañhameva.)
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (8.1.2.2 Saṅkhyāvāra)](../8.1.2.2.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (8.1.2.2 Saṅkhyāvāra)](../8.1.2.2.md)
 

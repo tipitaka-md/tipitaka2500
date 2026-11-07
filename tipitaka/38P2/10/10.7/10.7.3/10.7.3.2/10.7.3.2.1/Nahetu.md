@@ -17,8 +17,7 @@
 
 (251.)
 
-2939\. Cittasahabhuṃ dhammaṃ paccayā cittasahabhū dhammo uppajjati nahetupaccayā—  ahetukaṃ cittasahabhuṃ ekaṃ khandhaṃ…pe… . (Saṃkhittaṃ. Sabbaṃ kātabbaṃ. Paccayavārassa pañcaviññāṇaṃ channampi mūlā kātabbā. Sabbe mahābhūte tīṇiyeva moho. Saṃkhittaṃ.)
+2939\. Cittasahabhuṁ dhammaṁ paccayā cittasahabhū dhammo uppajjati nahetupaccayā— ahetukaṁ cittasahabhuṁ ekaṁ khandhaṁ…pe… . (Saṁkhittaṁ. Sabbaṁ kātabbaṁ. Paccayavārassa pañcaviññāṇaṁ channampi mūlā kātabbā. Sabbe mahābhūte tīṇiyeva moho. Saṁkhittaṁ.)
 
-[Go to previous page (10.7.3.2.1 Vibhaṅgavāra)](../10.7.3.2.1.md) / [Go to parent page (10.7.3.2.1 Vibhaṅgavāra)](../10.7.3.2.1.md) / [Go to next page (10.7.3.2.2 Saṅkhyāvāra)](../10.7.3.2.2.md)
-
+[Go to previous page (10.7.3.2.1 Vibhaṅgavāra)](../10.7.3.2.1.md) / [Go to parent page (10.7.3.2.1 Vibhaṅgavāra)](../10.7.3.2.1.md) / [Go to next page (10.7.3.2.2 Saṅkhyāvāra)](../10.7.3.2.2.md)
 

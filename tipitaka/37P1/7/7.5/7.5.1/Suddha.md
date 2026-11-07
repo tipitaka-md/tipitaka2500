@@ -15,12 +15,7 @@
 
 261\. Hetuyā ekādasa, ārammaṇe adhipatiyā anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme vipāke āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate sabbattha ekādasa.
 
----
+262\. Anulomaṁ.
 
-262\. Anulomaṃ.
-
-
-
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (7.5.1 Paccayānuloma)](../7.5.1.md) / [Go to next page (7.5.2 Paccayapaccanīya)](../7.5.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (7.5.1 Paccayānuloma)](../7.5.1.md) / [Go to next page (7.5.2 Paccayapaccanīya)](../7.5.2.md)
 

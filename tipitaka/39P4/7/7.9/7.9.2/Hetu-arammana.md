@@ -13,13 +13,13 @@
 
 (32.)
 
-1611\. Kusalaṃ nakāmāvacaraṃ dhammaṃ paṭicca kusalo nakāmāvacaro dhammo uppajjati hetupaccayā. (1)
+1611\. Kusalaṁ nakāmāvacaraṁ dhammaṁ paṭicca kusalo nakāmāvacaro dhammo uppajjati hetupaccayā. (1)
 
-1612\. Abyākataṃ nakāmāvacaraṃ dhammaṃ paṭicca abyākato nakāmāvacaro dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1612\. Abyākataṁ nakāmāvacaraṁ dhammaṁ paṭicca abyākato nakāmāvacaro dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-1613\. Hetuyā dve, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+1613\. Hetuyā dve, ārammaṇe dve…pe… vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
-1614\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1614\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (33.)
 
@@ -33,10 +33,9 @@
 
 (34.)
 
-1619\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā tīṇi, anantare samanantare tīṇi, sahajāte aññamaññe nissaye dve, upanissaye cattāri, āsevane dve, kamme tīṇi, vipāke ekaṃ, āhāre dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1619\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā tīṇi, anantare samanantare tīṇi, sahajāte aññamaññe nissaye dve, upanissaye cattāri, āsevane dve, kamme tīṇi, vipāke ekaṁ, āhāre dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1620\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1620\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (7.9.2 Nakāmāvacarapada)](../7.9.2.md) / [Go to parent page (7.9.2 Nakāmāvacarapada)](../7.9.2.md) / [Go to next page (7.10 Kusalattika, Rūpāvacaraduka)](../../7.10.md)
-
+[Go to previous page (7.9.2 Nakāmāvacarapada)](../7.9.2.md) / [Go to parent page (7.9.2 Nakāmāvacarapada)](../7.9.2.md) / [Go to next page (7.10 Kusalattika, Rūpāvacaraduka)](../../7.10.md)
 

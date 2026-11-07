@@ -15,14 +15,9 @@
 
 (26.)
 
-2923\. Nahetuyā cattāri, naārammaṇe cattāri, naadhipatiyā cattāri, naanantare cattāri (saṃkhittaṃ, sabbattha cattāri), napurejāte napacchājāte naāsevane…pe…  navippayutte cattāri…pe…  noavigate cattāri. (Evaṃ gaṇetabbaṃ.)
+2923\. Nahetuyā cattāri, naārammaṇe cattāri, naadhipatiyā cattāri, naanantare cattāri (saṁkhittaṁ, sabbattha cattāri), napurejāte napacchājāte naāsevane…pe… navippayutte cattāri…pe… noavigate cattāri. (Evaṁ gaṇetabbaṁ.)
 
----
+2924\. Paccanīyaṁ.
 
-2924\. Paccanīyaṃ.
-
-
-
-[Go to previous page (22.7.2.1 Saṅkhyāvāra)](../22.7.2.1.md) / [Go to parent page (22.7.2.1 Saṅkhyāvāra)](../22.7.2.1.md) / [Go to next page (22.7.3 Paccayānulomapaccanīya)](../../22.7.3.md)
-
+[Go to previous page (22.7.2.1 Saṅkhyāvāra)](../22.7.2.1.md) / [Go to parent page (22.7.2.1 Saṅkhyāvāra)](../22.7.2.1.md) / [Go to next page (22.7.3 Paccayānulomapaccanīya)](../../22.7.3.md)
 

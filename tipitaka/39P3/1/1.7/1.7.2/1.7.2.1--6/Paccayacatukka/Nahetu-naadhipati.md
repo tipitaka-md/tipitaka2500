@@ -17,20 +17,19 @@
 
 (244.)
 
-482\. Nahetuṃ sukhasahagataṃ dhammaṃ paṭicca nahetu sukhasahagato dhammo uppajjati nahetupaccayā.
+482\. Nahetuṁ sukhasahagataṁ dhammaṁ paṭicca nahetu sukhasahagato dhammo uppajjati nahetupaccayā.
 
-483\. Hetuṃ sukhasahagataṃ dhammaṃ paṭicca hetu sukhasahagato dhammo uppajjati naadhipatipaccayā…  nava. (Saṃkhittaṃ.)
+483\. Hetuṁ sukhasahagataṁ dhammaṁ paṭicca hetu sukhasahagato dhammo uppajjati naadhipatipaccayā… nava. (Saṁkhittaṁ.)
 
 (245.)
 
-484\. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ, navippayutte nava. (Saṃkhittaṃ.)
+484\. Nahetuyā ekaṁ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṁ, namagge ekaṁ, navippayutte nava. (Saṁkhittaṁ.)
 
-485\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+485\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ.)
 
-486\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+486\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-487\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+487\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7.2.7 Pañhāvāra)](../../1.7.2.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7.2.7 Pañhāvāra)](../../1.7.2.7.md)
 

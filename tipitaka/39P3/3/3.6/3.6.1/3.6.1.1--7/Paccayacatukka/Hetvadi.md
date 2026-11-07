@@ -25,14 +25,13 @@
 
 1561\. Lokuttaro kusalo dhammo lokiyassa kusalassa dhammassa ārammaṇapaccayena paccayo. (1)
 
-1562\. Lokiyo kusalo dhammo lokiyassa kusalassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. (1)
+1562\. Lokiyo kusalo dhammo lokiyassa kusalassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. (1)
 
-1563\. Lokuttaro kusalo dhammo lokuttarassa kusalassa dhammassa adhipatipaccayena paccayo—  sahajātādhipati. Lokuttaro kusalo dhammo lokiyassa kusalassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati. (2) (Saṃkhittaṃ.)
+1563\. Lokuttaro kusalo dhammo lokuttarassa kusalassa dhammassa adhipatipaccayena paccayo— sahajātādhipati. Lokuttaro kusalo dhammo lokiyassa kusalassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati. (2) (Saṁkhittaṁ.)
 
 (47.)
 
-1564\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve…pe…  upanissaye cattāri, āsevane dve, kamme dve, āhāre dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1564\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve…pe… upanissaye cattāri, āsevane dve, kamme dve, āhāre dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.6.2 Akusalapada)](../../../3.6.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.6.2 Akusalapada)](../../../3.6.2.md)
 

@@ -13,14 +13,9 @@
 
 * Nahetutika
 
-3093\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā bāvīsa, naanantare bāvīsa, nasamanantare bāvīsa, nasahajāte nava, naaññamaññe bāvīsa, nanissaye nava, naupanissaye ekavīsa, napurejāte bāvīsa, napacchājāte bāvīsa…pe…  nasampayutte bāvīsa, navippayutte bāvīsa, noatthiyā nava, nonatthiyā bāvīsa, novigate bāvīsa, noavigate nava. (Evaṃ gaṇetabbaṃ.)
+3093\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā bāvīsa, naanantare bāvīsa, nasamanantare bāvīsa, nasahajāte nava, naaññamaññe bāvīsa, nanissaye nava, naupanissaye ekavīsa, napurejāte bāvīsa, napacchājāte bāvīsa…pe… nasampayutte bāvīsa, navippayutte bāvīsa, noatthiyā nava, nonatthiyā bāvīsa, novigate bāvīsa, noavigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+3094\. Paccanīyaṁ.
 
-3094\. Paccanīyaṃ.
-
-
-
-[Go to previous page (Nahetuduka)](Nahetuduka.md) / [Go to parent page (23.7.2.1 Saṅkhyāvāra)](../23.7.2.1.md) / [Go to next page (23.7.3 Paccayānulomapaccanīya)](../../23.7.3.md)
-
+[Go to previous page (Nahetuduka)](Nahetuduka.md) / [Go to parent page (23.7.2.1 Saṅkhyāvāra)](../23.7.2.1.md) / [Go to next page (23.7.3 Paccayānulomapaccanīya)](../../23.7.3.md)
 

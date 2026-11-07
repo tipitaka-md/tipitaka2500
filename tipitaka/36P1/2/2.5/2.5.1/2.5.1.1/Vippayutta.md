@@ -15,12 +15,11 @@
 
 (209.)
 
-705\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati vippayuttapaccayā—  kusalaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā; vatthuṃ vippayuttapaccayā.
+705\. Kusalaṁ dhammaṁ saṁsaṭṭho kusalo dhammo uppajjati vippayuttapaccayā— kusalaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā; vatthuṁ vippayuttapaccayā.
 
-706\. Akusalaṃ dhammaṃ…pe…  vatthuṃ vippayuttapaccayā.
+706\. Akusalaṁ dhammaṁ…pe… vatthuṁ vippayuttapaccayā.
 
-707\. Abyākataṃ dhammaṃ…pe…  vatthuṃ vippayuttapaccayā.
+707\. Abyākataṁ dhammaṁ…pe… vatthuṁ vippayuttapaccayā.
 
-[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
-
+[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 

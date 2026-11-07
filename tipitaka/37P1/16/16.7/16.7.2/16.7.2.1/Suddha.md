@@ -15,14 +15,9 @@
 
 (61.)
 
-2423\. Nahetuyā terasa, naārammaṇe naadhipatiyā naanantare nasamanantare terasa, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye terasa, napurejāte ekādasa, napacchājāte terasa, naāsevane terasa, nakamme navipāke naāhāre terasa…pe…  namagge terasa, nasampayutte nava, navippayutte satta, noatthiyā satta, nonatthiyā terasa, novigate terasa, noavigate satta. (Evaṃ gaṇetabbaṃ.)
+2423\. Nahetuyā terasa, naārammaṇe naadhipatiyā naanantare nasamanantare terasa, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye terasa, napurejāte ekādasa, napacchājāte terasa, naāsevane terasa, nakamme navipāke naāhāre terasa…pe… namagge terasa, nasampayutte nava, navippayutte satta, noatthiyā satta, nonatthiyā terasa, novigate terasa, noavigate satta. (Evaṁ gaṇetabbaṁ.)
 
----
+2424\. Paccanīyaṁ.
 
-2424\. Paccanīyaṃ.
-
-
-
-[Go to previous page (16.7.2.1 Saṅkhyāvāra)](../16.7.2.1.md) / [Go to parent page (16.7.2.1 Saṅkhyāvāra)](../16.7.2.1.md) / [Go to next page (16.7.3 Paccayānulomapaccanīya)](../../16.7.3.md)
-
+[Go to previous page (16.7.2.1 Saṅkhyāvāra)](../16.7.2.1.md) / [Go to parent page (16.7.2.1 Saṅkhyāvāra)](../16.7.2.1.md) / [Go to next page (16.7.3 Paccayānulomapaccanīya)](../../16.7.3.md)
 

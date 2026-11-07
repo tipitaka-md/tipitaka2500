@@ -17,22 +17,21 @@
 
 (51.)
 
-1447\. Saññojanasampayuttaṃ dhammaṃ paccayā saññojanasampayutto dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccasadisaṃ.)
+1447\. Saññojanasampayuttaṁ dhammaṁ paccayā saññojanasampayutto dhammo uppajjati hetupaccayā… tīṇi. (Paṭiccasadisaṁ.)
 
-1448\. Saññojanavippayuttaṃ dhammaṃ paccayā saññojanavippayutto dhammo uppajjati hetupaccayā (yāva paṭisandhi), ekaṃ mahābhūtaṃ…pe…  vatthuṃ paccayā saññojanavippayuttā khandhā, vatthuṃ paccayā uddhaccasahagato moho. (1)
+1448\. Saññojanavippayuttaṁ dhammaṁ paccayā saññojanavippayutto dhammo uppajjati hetupaccayā (yāva paṭisandhi), ekaṁ mahābhūtaṁ…pe… vatthuṁ paccayā saññojanavippayuttā khandhā, vatthuṁ paccayā uddhaccasahagato moho. (1)
 
-1449\. Saññojanavippayuttaṃ dhammaṃ paccayā saññojanasampayutto dhammo uppajjati hetupaccayā—  vatthuṃ paccayā saññojanasampayuttakā khandhā, uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā. (2)
+1449\. Saññojanavippayuttaṁ dhammaṁ paccayā saññojanasampayutto dhammo uppajjati hetupaccayā— vatthuṁ paccayā saññojanasampayuttakā khandhā, uddhaccasahagataṁ mohaṁ paccayā sampayuttakā khandhā. (2)
 
-1450\. Saññojanavippayuttaṃ dhammaṃ paccayā saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā saññojanasampayuttakā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+1450\. Saññojanavippayuttaṁ dhammaṁ paccayā saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā saññojanasampayuttakā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, uddhaccasahagataṁ mohaṁ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
 (52.)
 
-1451\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanasampayutto dhammo uppajjati hetupaccayā—  saññojanasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā…pe…  dve khandhe…pe… . (1)
+1451\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṁ paccayā saññojanasampayutto dhammo uppajjati hetupaccayā— saññojanasampayuttaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… uddhaccasahagataṁ ekaṁ khandhañca mohañca paccayā tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1452\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanavippayutto dhammo uppajjati hetupaccayā—  saññojanasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
+1452\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṁ paccayā saññojanavippayutto dhammo uppajjati hetupaccayā— saññojanasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1453\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṃ paccayā saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti hetupaccayā—  saññojanasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  saññojanasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1453\. Saññojanasampayuttañca saññojanavippayuttañca dhammaṁ paccayā saññojanasampayutto ca saññojanavippayutto ca dhammā uppajjanti hetupaccayā— saññojanasampayuttaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… saññojanasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, uddhaccasahagataṁ ekaṁ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-[Go to previous page (4.3.3.1.1 Vibhaṅgavāra)](../4.3.3.1.1.md) / [Go to parent page (4.3.3.1.1 Vibhaṅgavāra)](../4.3.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (4.3.3.1.1 Vibhaṅgavāra)](../4.3.3.1.1.md) / [Go to parent page (4.3.3.1.1 Vibhaṅgavāra)](../4.3.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

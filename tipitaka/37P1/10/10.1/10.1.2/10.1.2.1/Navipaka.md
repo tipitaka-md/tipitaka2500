@@ -15,8 +15,7 @@
 
 (27.)
 
-1126\. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati navipākapaccayā. (Paṭisandhi natthi.)
+1126\. Dassanena pahātabbahetukaṁ dhammaṁ paṭicca dassanena pahātabbahetuko dhammo uppajjati navipākapaccayā. (Paṭisandhi natthi.)
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](../10.1.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](../10.1.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
 

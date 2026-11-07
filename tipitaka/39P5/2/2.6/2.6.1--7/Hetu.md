@@ -13,34 +13,33 @@
 
 (14.)
 
-345\. Pītisahagataṃ kusalaṃ dhammaṃ paṭicca pītisahagato kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+345\. Pītisahagataṁ kusalaṁ dhammaṁ paṭicca pītisahagato kusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-346\. Sukhasahagataṃ kusalaṃ dhammaṃ paṭicca sukhasahagato kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+346\. Sukhasahagataṁ kusalaṁ dhammaṁ paṭicca sukhasahagato kusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-347\. Upekkhāsahagataṃ kusalaṃ dhammaṃ paṭicca upekkhāsahagato kusalo dhammo uppajjati hetupaccayā. (1)
+347\. Upekkhāsahagataṁ kusalaṁ dhammaṁ paṭicca upekkhāsahagato kusalo dhammo uppajjati hetupaccayā. (1)
 
-348\. Pītisahagataṃ kusalañca sukhasahagataṃ kusalañca dhammaṃ paṭicca pītisahagato kusalo dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
+348\. Pītisahagataṁ kusalañca sukhasahagataṁ kusalañca dhammaṁ paṭicca pītisahagato kusalo dhammo uppajjati hetupaccayā… tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
 
 (15.)
 
-349\. Pītisahagataṃ akusalaṃ dhammaṃ paṭicca pītisahagato akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+349\. Pītisahagataṁ akusalaṁ dhammaṁ paṭicca pītisahagato akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-350\. Sukhasahagataṃ akusalaṃ dhammaṃ paṭicca sukhasahagato akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+350\. Sukhasahagataṁ akusalaṁ dhammaṁ paṭicca sukhasahagato akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-351\. Upekkhāsahagataṃ akusalaṃ dhammaṃ paṭicca upekkhāsahagato akusalo dhammo uppajjati hetupaccayā. (1)
+351\. Upekkhāsahagataṁ akusalaṁ dhammaṁ paṭicca upekkhāsahagato akusalo dhammo uppajjati hetupaccayā. (1)
 
-352\. Pītisahagataṃ akusalañca sukhasahagataṃ akusalañca dhammaṃ paṭicca pītisahagato akusalo dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
+352\. Pītisahagataṁ akusalañca sukhasahagataṁ akusalañca dhammaṁ paṭicca pītisahagato akusalo dhammo uppajjati hetupaccayā… tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
 
 (16.)
 
-353\. Pītisahagataṃ abyākataṃ dhammaṃ paṭicca pītisahagato abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+353\. Pītisahagataṁ abyākataṁ dhammaṁ paṭicca pītisahagato abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-354\. Sukhasahagataṃ abyākataṃ dhammaṃ paṭicca sukhasahagato abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+354\. Sukhasahagataṁ abyākataṁ dhammaṁ paṭicca sukhasahagato abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-355\. Upekkhāsahagataṃ abyākataṃ dhammaṃ paṭicca upekkhāsahagato abyākato dhammo uppajjati hetupaccayā. (1)
+355\. Upekkhāsahagataṁ abyākataṁ dhammaṁ paṭicca upekkhāsahagato abyākato dhammo uppajjati hetupaccayā. (1)
 
-356\. Pītisahagataṃ abyākatañca sukhasahagataṃ abyākatañca dhammaṃ paṭicca pītisahagato abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
+356\. Pītisahagataṁ abyākatañca sukhasahagataṁ abyākatañca dhammaṁ paṭicca pītisahagato abyākato dhammo uppajjati hetupaccayā… tīṇi. (Sabbattha dasa. Sabbattha vitthāro.)
 
-[Go to previous page (2.6.1--7 Paṭiccādivāra)](../2.6.1--7.md) / [Go to parent page (2.6.1--7 Paṭiccādivāra)](../2.6.1--7.md) / [Go to next page (2.7 Dassanattika, Kusalattika)](../../2.7.md)
-
+[Go to previous page (2.6.1--7 Paṭiccādivāra)](../2.6.1--7.md) / [Go to parent page (2.6.1--7 Paṭiccādivāra)](../2.6.1--7.md) / [Go to next page (2.7 Dassanattika, Kusalattika)](../../2.7.md)
 

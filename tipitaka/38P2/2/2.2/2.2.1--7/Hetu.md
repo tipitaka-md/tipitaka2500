@@ -13,16 +13,11 @@
 
 (17.)
 
-576\. Saṅkhataṃ dhammaṃ paṭicca saṅkhato dhammo uppajjati hetupaccayā—  saṅkhataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ.
+576\. Saṅkhataṁ dhammaṁ paṭicca saṅkhato dhammo uppajjati hetupaccayā— saṅkhataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ.
 
-577\. (Imaṃ dukaṃ yathā sappaccayadukaṃ, evaṃ gaṇetabbaṃ, ninnānākaraṇaṃ.)
+577\. (Imaṁ dukaṁ yathā sappaccayadukaṁ, evaṁ gaṇetabbaṁ, ninnānākaraṇaṁ.)
 
----
+578\. Saṅkhatadukaṁ niṭṭhitaṁ.
 
-578\. Saṅkhatadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (2.2.1--7 Paṭiccādivāra)](../2.2.1--7.md) / [Go to parent page (2.2.1--7 Paṭiccādivāra)](../2.2.1--7.md) / [Go to next page (2.3 Sanidassanaduka)](../../2.3.md)
-
+[Go to previous page (2.2.1--7 Paṭiccādivāra)](../2.2.1--7.md) / [Go to parent page (2.2.1--7 Paṭiccādivāra)](../2.2.1--7.md) / [Go to next page (2.3 Sanidassanaduka)](../../2.3.md)
 

@@ -13,14 +13,9 @@
 
 (316.)
 
-3093\. Cittasaṃsaṭṭhasamuṭṭhānasahabhuṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū dhammo uppajjati hetupaccayā—  cittasaṃsaṭṭhasamuṭṭhānasahabhuṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yathā cittasaṃsaṭṭhasamuṭṭhānadukaṃ evaṃ imampi dukaṃ, ninnānākaraṇaṃ.)
+3093\. Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū dhammo uppajjati hetupaccayā— cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe…pe… paṭisandhikkhaṇe…pe… . (Yathā cittasaṁsaṭṭhasamuṭṭhānadukaṁ evaṁ imampi dukaṁ, ninnānākaraṇaṁ.)
 
----
+3094\. Cittasaṁsaṭṭhasamuṭṭhānasahabhūdukaṁ niṭṭhitaṁ.
 
-3094\. Cittasaṃsaṭṭhasamuṭṭhānasahabhūdukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (10.10.1--7 Paṭiccādivāra)](../10.10.1--7.md) / [Go to parent page (10.10.1--7 Paṭiccādivāra)](../10.10.1--7.md) / [Go to next page (10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka)](../../10.11.md)
-
+[Go to previous page (10.10.1--7 Paṭiccādivāra)](../10.10.1--7.md) / [Go to parent page (10.10.1--7 Paṭiccādivāra)](../10.10.1--7.md) / [Go to next page (10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka)](../../10.11.md)
 

@@ -17,8 +17,7 @@
 
 (13.)
 
-2150\. Noparāmāsaṃ dhammaṃ paccayā noparāmāso dhammo uppajjati nahetupaccayā—  ahetukaṃ noparāmāsaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā noparāmāsā khandhā; vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.)
+2150\. Noparāmāsaṁ dhammaṁ paccayā noparāmāso dhammo uppajjati nahetupaccayā— ahetukaṁ noparāmāsaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… (yāva asaññasattā) cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā noparāmāsā khandhā; vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṁkhittaṁ.)
 
-[Go to previous page (9.1.3.2.1 Vibhaṅgavāra)](../9.1.3.2.1.md) / [Go to parent page (9.1.3.2.1 Vibhaṅgavāra)](../9.1.3.2.1.md) / [Go to next page (9.1.3.2.2 Saṅkhyāvāra)](../9.1.3.2.2.md)
-
+[Go to previous page (9.1.3.2.1 Vibhaṅgavāra)](../9.1.3.2.1.md) / [Go to parent page (9.1.3.2.1 Vibhaṅgavāra)](../9.1.3.2.1.md) / [Go to next page (9.1.3.2.2 Saṅkhyāvāra)](../9.1.3.2.2.md)
 

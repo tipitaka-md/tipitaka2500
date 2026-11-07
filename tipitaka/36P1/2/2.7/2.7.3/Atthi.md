@@ -8,6 +8,5 @@
 * [Pakiṇṇakaghaṭanā](Atthi/Pakinnakaghatana.md)
 * [Sahajātaghaṭanā](Atthi/Sahajataghatana.md)
 
-[Go to previous page (Sahajātaghaṭanā)](Vippayutta/Sahajataghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Atthiduka)](Atthi/Atthiduka.md)
-
+[Go to previous page (Sahajātaghaṭanā)](Vippayutta/Sahajataghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Atthiduka)](Atthi/Atthiduka.md)
 

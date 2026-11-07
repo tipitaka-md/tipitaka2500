@@ -17,18 +17,17 @@
 
 (438.)
 
-3426\. Upādinnaṃ dhammaṃ paccayā upādinno dhammo uppajjati nahetupaccayā—  ahetukaṃ upādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paccayā kaṭattārūpaṃ upādārūpaṃ, asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ…pe…  vatthuṃ paccayā ahetukā upādinnā khandhā. (1)
+3426\. Upādinnaṁ dhammaṁ paccayā upādinno dhammo uppajjati nahetupaccayā— ahetukaṁ upādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paccayā vatthu, vatthuṁ paccayā khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paccayā kaṭattārūpaṁ upādārūpaṁ, asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ…pe… vatthuṁ paccayā ahetukā upādinnā khandhā. (1)
 
-3427\. Upādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati nahetupaccayā—  ahetuke upādinne khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā ahetukā anupādinnā khandhā, vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
+3427\. Upādinnaṁ dhammaṁ paccayā anupādinno dhammo uppajjati nahetupaccayā— ahetuke upādinne khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā ahetukā anupādinnā khandhā, vatthuṁ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
-3428\. Upādinnaṃ dhammaṃ paccayā upādinno ca anupādinno ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ upādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+3428\. Upādinnaṁ dhammaṁ paccayā upādinno ca anupādinno ca dhammā uppajjanti nahetupaccayā— ahetukaṁ upādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (439.)
 
-3429\. Anupādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati nahetupaccayā—  ahetukaṃ anupādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe…  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+3429\. Anupādinnaṁ dhammaṁ paccayā anupādinno dhammo uppajjati nahetupaccayā— ahetukaṁ anupādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-3430\. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati nahetupaccayā—  ahetuke upādinne khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, ahetukaṃ anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1) (Saṃkhittaṃ.)
+3430\. Upādinnañca anupādinnañca dhammaṁ paccayā anupādinno dhammo uppajjati nahetupaccayā— ahetuke upādinne khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, ahetukaṁ anupādinnaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1) (Saṁkhittaṁ.)
 
-[Go to previous page (10.14.3.2.1 Vibhaṅgavāra)](../10.14.3.2.1.md) / [Go to parent page (10.14.3.2.1 Vibhaṅgavāra)](../10.14.3.2.1.md) / [Go to next page (10.14.3.2.2 Saṅkhyāvāra)](../10.14.3.2.2.md)
-
+[Go to previous page (10.14.3.2.1 Vibhaṅgavāra)](../10.14.3.2.1.md) / [Go to parent page (10.14.3.2.1 Vibhaṅgavāra)](../10.14.3.2.1.md) / [Go to next page (10.14.3.2.2 Saṅkhyāvāra)](../10.14.3.2.2.md)
 

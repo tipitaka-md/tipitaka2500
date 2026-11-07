@@ -17,14 +17,9 @@
 
 (384.)
 
-1147\. Natthi anantara samanantara upanissaya vigatanti satta. Natthi anantara samanantara upanissaya āsevana vigatanti tīṇi. Natthi anantara samanantara upanissaya kamma vigatanti ekaṃ.
+1147\. Natthi anantara samanantara upanissaya vigatanti satta. Natthi anantara samanantara upanissaya āsevana vigatanti tīṇi. Natthi anantara samanantara upanissaya kamma vigatanti ekaṁ.
 
----
-
-1148\. Natthimūlakaṃ.
-
-
+1148\. Natthimūlakaṁ.
 
 [Go to previous page (Natthisabhāga)](Natthisabhaga.md) / [Go to parent page (Natthi)](../Natthi.md) / [Go to next page (Vigata)](../Vigata.md)
-
 

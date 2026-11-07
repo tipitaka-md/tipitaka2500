@@ -15,8 +15,7 @@
 
 (22.)
 
-99\. Hetuyā sattatiṃsa, ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare ekavīsa, samanantare ekavīsa, sahajāte sattatiṃsa, aññamaññe aṭṭhavīsa, nissaye sattatiṃsa, upanissaye ekavīsa, purejāte ekādasa, āsevane ekādasa, kamme sattatiṃsa, vipāke sattatiṃsa, āhāre indriye jhāne magge sattatiṃsa, sampayutte ekavīsa, vippayutte sattatiṃsa, atthiyā sattatiṃsa, natthiyā ekavīsa, vigate ekavīsa, avigate sattatiṃsa.
+99\. Hetuyā sattatiṁsa, ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare ekavīsa, samanantare ekavīsa, sahajāte sattatiṁsa, aññamaññe aṭṭhavīsa, nissaye sattatiṁsa, upanissaye ekavīsa, purejāte ekādasa, āsevane ekādasa, kamme sattatiṁsa, vipāke sattatiṁsa, āhāre indriye jhāne magge sattatiṁsa, sampayutte ekavīsa, vippayutte sattatiṁsa, atthiyā sattatiṁsa, natthiyā ekavīsa, vigate ekavīsa, avigate sattatiṁsa.
 
-[Go to previous page (7.1.1.2 Saṅkhyāvāra)](../7.1.1.2.md) / [Go to parent page (7.1.1.2 Saṅkhyāvāra)](../7.1.1.2.md) / [Go to next page (Duka)](Duka.md)
-
+[Go to previous page (7.1.1.2 Saṅkhyāvāra)](../7.1.1.2.md) / [Go to parent page (7.1.1.2 Saṅkhyāvāra)](../7.1.1.2.md) / [Go to next page (Duka)](Duka.md)
 

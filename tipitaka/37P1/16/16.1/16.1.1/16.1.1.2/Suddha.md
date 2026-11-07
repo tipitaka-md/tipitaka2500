@@ -15,14 +15,9 @@
 
 (6.)
 
-2273\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Evaṃ gaṇetabbaṃ.)
+2273\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṁ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+2274\. Anulomaṁ.
 
-2274\. Anulomaṃ.
-
-
-
-[Go to previous page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md) / [Go to parent page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md) / [Go to next page (16.1.2 Paccayapaccanīya)](../../16.1.2.md)
-
+[Go to previous page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md) / [Go to parent page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md) / [Go to next page (16.1.2 Paccayapaccanīya)](../../16.1.2.md)
 

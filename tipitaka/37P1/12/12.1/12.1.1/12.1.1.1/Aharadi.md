@@ -15,8 +15,7 @@
 
 (5.)
 
-1670\. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccaya…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+1670\. Sekkhaṁ dhammaṁ paṭicca sekkho dhammo uppajjati āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccaya… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā.
 
-[Go to previous page (Ārammaṇādi)](Arammanadi.md) / [Go to parent page (12.1.1.1 Vibhaṅgavāra)](../12.1.1.1.md) / [Go to next page (12.1.1.2 Saṅkhyāvāra)](../12.1.1.2.md)
-
+[Go to previous page (Ārammaṇādi)](Arammanadi.md) / [Go to parent page (12.1.1.1 Vibhaṅgavāra)](../12.1.1.1.md) / [Go to next page (12.1.1.2 Saṅkhyāvāra)](../12.1.1.2.md)
 

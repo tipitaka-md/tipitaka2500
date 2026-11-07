@@ -17,28 +17,27 @@
 
 (1.)
 
-3527\. Upādānaṃ dhammaṃ paṭicca upādāno dhammo uppajjati hetupaccayā—  diṭṭhupādānaṃ paṭicca kāmupādānaṃ, kāmupādānaṃ paṭicca diṭṭhupādānaṃ, sīlabbatupādānaṃ paṭicca kāmupādānaṃ, kāmupādānaṃ paṭicca sīlabbatupādānaṃ, attavādupādānaṃ paṭicca kāmupādānaṃ, kāmupādānaṃ paṭicca attavādupādānaṃ. (1)
+3527\. Upādānaṁ dhammaṁ paṭicca upādāno dhammo uppajjati hetupaccayā— diṭṭhupādānaṁ paṭicca kāmupādānaṁ, kāmupādānaṁ paṭicca diṭṭhupādānaṁ, sīlabbatupādānaṁ paṭicca kāmupādānaṁ, kāmupādānaṁ paṭicca sīlabbatupādānaṁ, attavādupādānaṁ paṭicca kāmupādānaṁ, kāmupādānaṁ paṭicca attavādupādānaṁ. (1)
 
-3528\. Upādānaṃ dhammaṃ paṭicca noupādāno dhammo uppajjati hetupaccayā—  upādāne paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (2)
+3528\. Upādānaṁ dhammaṁ paṭicca noupādāno dhammo uppajjati hetupaccayā— upādāne paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ. (2)
 
-3529\. Upādānaṃ dhammaṃ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā—  diṭṭhupādānaṃ paṭicca kāmupādānaṃ sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṃ, kāmupādānaṃ…pe… . (Sabbaṃ cakkaṃ kātabbaṃ.) (3)
+3529\. Upādānaṁ dhammaṁ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā— diṭṭhupādānaṁ paṭicca kāmupādānaṁ sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṁ, kāmupādānaṁ…pe… . (Sabbaṁ cakkaṁ kātabbaṁ.) (3)
 
 (2.)
 
-3530\. Noupādānaṃ dhammaṃ paṭicca noupādāno dhammo uppajjati hetupaccayā—  noupādānaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe noupādānaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+3530\. Noupādānaṁ dhammaṁ paṭicca noupādāno dhammo uppajjati hetupaccayā— noupādānaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe noupādānaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-3531\. Noupādānaṃ dhammaṃ paṭicca upādāno dhammo uppajjati hetupaccayā—  noupādāne khandhe paṭicca upādānā. (2)
+3531\. Noupādānaṁ dhammaṁ paṭicca upādāno dhammo uppajjati hetupaccayā— noupādāne khandhe paṭicca upādānā. (2)
 
-3532\. Noupādānaṃ dhammaṃ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā—  noupādānaṃ ekaṃ khandhaṃ paṭicca tayo khandhā upādānā ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā upādānā ca cittasamuṭṭhānañca rūpaṃ. (3)
+3532\. Noupādānaṁ dhammaṁ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā— noupādānaṁ ekaṁ khandhaṁ paṭicca tayo khandhā upādānā ca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā upādānā ca cittasamuṭṭhānañca rūpaṁ. (3)
 
 (3.)
 
-3533\. Upādānañca noupādānañca dhammaṃ paṭicca upādāno dhammo uppajjati hetupaccayā—  diṭṭhupādānañca sampayuttake ca khandhe paṭicca kāmupādānaṃ. (Sabbe cakkā kātabbā.) (1)
+3533\. Upādānañca noupādānañca dhammaṁ paṭicca upādāno dhammo uppajjati hetupaccayā— diṭṭhupādānañca sampayuttake ca khandhe paṭicca kāmupādānaṁ. (Sabbe cakkā kātabbā.) (1)
 
-3534\. Upādānañca noupādānañca dhammaṃ paṭicca noupādāno dhammo uppajjati hetupaccayā—  noupādānaṃ ekaṃ khandhañca upādānañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  upādānañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+3534\. Upādānañca noupādānañca dhammaṁ paṭicca noupādāno dhammo uppajjati hetupaccayā— noupādānaṁ ekaṁ khandhañca upādānañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe ca…pe… upādānañca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-3535\. Upādānañca noupādānañca dhammaṃ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā—  noupādānaṃ ekaṃ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānaṃ rūpaṃ, dve khandhe ca…pe… . (Cakkaṃ kātabbaṃ.) (3)
+3535\. Upādānañca noupādānañca dhammaṁ paṭicca upādāno ca noupādāno ca dhammā uppajjanti hetupaccayā— noupādānaṁ ekaṁ khandhañca diṭṭhupādānañca paṭicca tayo khandhā kāmupādānañca cittasamuṭṭhānaṁ rūpaṁ, dve khandhe ca…pe… . (Cakkaṁ kātabbaṁ.) (3)
 
-[Go to previous page (11.1.1.1.1 Vibhaṅgavāra)](../11.1.1.1.1.md) / [Go to parent page (11.1.1.1.1 Vibhaṅgavāra)](../11.1.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (11.1.1.1.1 Vibhaṅgavāra)](../11.1.1.1.1.md) / [Go to parent page (11.1.1.1.1 Vibhaṅgavāra)](../11.1.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

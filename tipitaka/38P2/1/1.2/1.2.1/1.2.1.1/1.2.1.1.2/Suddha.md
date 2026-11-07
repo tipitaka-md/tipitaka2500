@@ -17,14 +17,9 @@
 
 (61.)
 
-163\. Hetuyā nava, ārammaṇe cha, adhipatiyā pañca, anantare cha, samanantare cha, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cha, purejāte cha, āsevane cha, kamme nava, vipāke nava, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte cha, vippayutte nava, atthiyā nava, natthiyā cha, vigate cha, avigate nava. (Evaṃ gaṇetabbaṃ.)
+163\. Hetuyā nava, ārammaṇe cha, adhipatiyā pañca, anantare cha, samanantare cha, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cha, purejāte cha, āsevane cha, kamme nava, vipāke nava, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte cha, vippayutte nava, atthiyā nava, natthiyā cha, vigate cha, avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+164\. Anulomaṁ.
 
-164\. Anulomaṃ.
-
-
-
-[Go to previous page (1.2.1.1.2 Saṅkhyāvāra)](../1.2.1.1.2.md) / [Go to parent page (1.2.1.1.2 Saṅkhyāvāra)](../1.2.1.1.2.md) / [Go to next page (1.2.1.2 Paccayapaccanīya)](../../1.2.1.2.md)
-
+[Go to previous page (1.2.1.1.2 Saṅkhyāvāra)](../1.2.1.1.2.md) / [Go to parent page (1.2.1.1.2 Saṅkhyāvāra)](../1.2.1.1.2.md) / [Go to next page (1.2.1.2 Paccayapaccanīya)](../../1.2.1.2.md)
 

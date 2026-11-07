@@ -17,8 +17,7 @@
 
 (60.)
 
-3973\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. (Saṃkhittaṃ.) Asaṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. (Saṃkhittaṃ.) (2)
+3973\. Asaṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. (Saṁkhittaṁ.) Asaṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. (Saṁkhittaṁ.) (2)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
 

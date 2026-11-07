@@ -15,14 +15,13 @@
 
 (38.)
 
-168\. Savitakkasavicāraṃ dhammaṃ paṭicca savitakkasavicāro dhammo uppajjati napacchājātapaccayā…pe…  naāsevanapaccayā…  satta.
+168\. Savitakkasavicāraṁ dhammaṁ paṭicca savitakkasavicāro dhammo uppajjati napacchājātapaccayā…pe… naāsevanapaccayā… satta.
 
-169\. Avitakkavicāramattaṃ dhammaṃ paṭicca avitakkavicāramatto dhammo uppajjati naāsevanapaccayā—  vipākaṃ avitakkavicāramattaṃ ekaṃ khandhaṃ paṭicca…  (Saṃkhittaṃ.) (5)
+169\. Avitakkavicāramattaṁ dhammaṁ paṭicca avitakkavicāramatto dhammo uppajjati naāsevanapaccayā— vipākaṁ avitakkavicāramattaṁ ekaṁ khandhaṁ paṭicca… (Saṁkhittaṁ.) (5)
 
-170\. Avitakkaavicāraṃ dhammaṃ paṭicca avitakkaavicāro dhammo uppajjati naāsevanapaccayā—  vipākaṃ avitakkaavicāraṃ ekaṃ khandhaṃ paṭicca…  (Saṃkhittaṃ.)
+170\. Avitakkaavicāraṁ dhammaṁ paṭicca avitakkaavicāro dhammo uppajjati naāsevanapaccayā— vipākaṁ avitakkaavicāraṁ ekaṁ khandhaṁ paṭicca… (Saṁkhittaṁ.)
 
-171\. (Naāsevanamūlake avitakkavicāramattaṃ vipākena saha gacchantena napurejātasadisaṃ kātabbaṃ, avitakkavicāramattañca avitakkavicāramattagacchantena vipāko dassetabbo.)
+171\. (Naāsevanamūlake avitakkavicāramattaṁ vipākena saha gacchantena napurejātasadisaṁ kātabbaṁ, avitakkavicāramattañca avitakkavicāramattagacchantena vipāko dassetabbo.)
 
-[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (7.1.2.1 Vibhaṅgavāra)](../7.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

@@ -17,10 +17,9 @@
 
 (185.)
 
-504\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa āsevanapaccayena paccayo—  purimā purimā nahetū sahetukā khandhā pacchimānaṃ pacchimānaṃ nahetusahetukānaṃ khandhānaṃ āsevanapaccayena paccayo…  anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+504\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa āsevanapaccayena paccayo— purimā purimā nahetū sahetukā khandhā pacchimānaṁ pacchimānaṁ nahetusahetukānaṁ khandhānaṁ āsevanapaccayena paccayo… anulomaṁ gotrabhussa… anulomaṁ vodānassa… gotrabhu maggassa… vodānaṁ maggassa āsevanapaccayena paccayo. (1)
 
-505\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa āsevanapaccayena paccayo—  purimā purimā nahetū ahetukā khandhā pacchimānaṃ pacchimānaṃ nahetuahetukānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+505\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa āsevanapaccayena paccayo— purimā purimā nahetū ahetukā khandhā pacchimānaṁ pacchimānaṁ nahetuahetukānaṁ khandhānaṁ āsevanapaccayena paccayo. (1)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

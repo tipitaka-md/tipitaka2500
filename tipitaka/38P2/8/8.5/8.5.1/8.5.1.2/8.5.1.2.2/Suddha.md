@@ -19,6 +19,5 @@
 
 2103\. Nahetuyā tīṇi, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava.
 
-[Go to previous page (8.5.1.2.2 Saṅkhyāvāra)](../8.5.1.2.2.md) / [Go to parent page (8.5.1.2.2 Saṅkhyāvāra)](../8.5.1.2.2.md) / [Go to next page (8.5.1.3 Paccayānulomapaccanīya)](../../8.5.1.3.md)
-
+[Go to previous page (8.5.1.2.2 Saṅkhyāvāra)](../8.5.1.2.2.md) / [Go to parent page (8.5.1.2.2 Saṅkhyāvāra)](../8.5.1.2.2.md) / [Go to next page (8.5.1.3 Paccayānulomapaccanīya)](../../8.5.1.3.md)
 

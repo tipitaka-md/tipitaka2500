@@ -15,20 +15,15 @@
 
 (118.)
 
-437\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati adhipatipaccayā—  kusalaṃ ekaṃ khandhaṃ paccayā…  tīṇi.
+437\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati adhipatipaccayā— kusalaṁ ekaṁ khandhaṁ paccayā… tīṇi.
 
-438\. Akusalaṃ dhammaṃ paccayā akusalo dhammo uppajjati adhipatipaccayā—  akusalaṃ ekaṃ khandhaṃ paccayā…  tīṇi.
+438\. Akusalaṁ dhammaṁ paccayā akusalo dhammo uppajjati adhipatipaccayā— akusalaṁ ekaṁ khandhaṁ paccayā… tīṇi.
 
-439\. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati adhipatipaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ, vatthuṃ paccayā vipākābyākatā kiriyābyākatā khandhā.
+439\. Abyākataṁ dhammaṁ paccayā abyākato dhammo uppajjati adhipatipaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ, vatthuṁ paccayā vipākābyākatā kiriyābyākatā khandhā.
 
-440\. Abyākataṃ dhammaṃ paccayā kusalo dhammo uppajjati adhipatipaccayā—  vatthuṃ paccayā kusalā khandhā.
+440\. Abyākataṁ dhammaṁ paccayā kusalo dhammo uppajjati adhipatipaccayā— vatthuṁ paccayā kusalā khandhā.
 
----
+441\. (Yathā hetupaccayaṁ, evaṁ vitthāretabbaṁ.)
 
-441\. (Yathā hetupaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 

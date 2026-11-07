@@ -15,8 +15,7 @@
 
 (223.)
 
-728\. Nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, na āsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
+728\. Nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, na āsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṁ, namagge ekaṁ, navippayutte tīṇi.
 
-[Go to previous page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Nahetuduka)](Nahetuduka.md)
-
+[Go to previous page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Nahetuduka)](Nahetuduka.md)
 

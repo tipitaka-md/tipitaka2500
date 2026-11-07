@@ -15,8 +15,7 @@
 
 (220.)
 
-723\. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. (1)
+723\. Abyākataṁ dhammaṁ saṁsaṭṭho abyākato dhammo uppajjati najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā. (1)
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](../2.5.2.1.md) / [Go to next page (Namagga)](Namagga.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](../2.5.2.1.md) / [Go to next page (Namagga)](Namagga.md)
 

@@ -15,12 +15,11 @@
 
 (48.)
 
-2009\. Parittaṃ dhammaṃ saṃsaṭṭho paritto dhammo uppajjati napacchājātapaccayā…  naāsevanapaccayā—  parittaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (1)
+2009\. Parittaṁ dhammaṁ saṁsaṭṭho paritto dhammo uppajjati napacchājātapaccayā… naāsevanapaccayā— parittaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2010\. Mahaggataṃ dhammaṃ saṃsaṭṭho mahaggato dhammo uppajjati naāsevanapaccayā—  vipākaṃ mahaggataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (1)
+2010\. Mahaggataṁ dhammaṁ saṁsaṭṭho mahaggato dhammo uppajjati naāsevanapaccayā— vipākaṁ mahaggataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2011\. Appamāṇaṃ dhammaṃ saṃsaṭṭho appamāṇo dhammo uppajjati naāsevanapaccayā—  vipākaṃ appamāṇaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe… . (1)
+2011\. Appamāṇaṁ dhammaṁ saṁsaṭṭho appamāṇo dhammo uppajjati naāsevanapaccayā— vipākaṁ appamāṇaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… . (1)
 
-[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (13.5.2.1 Vibhaṅgavāra)](../13.5.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (13.5.2.1 Vibhaṅgavāra)](../13.5.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

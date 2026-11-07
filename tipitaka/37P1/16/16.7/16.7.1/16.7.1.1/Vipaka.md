@@ -15,8 +15,7 @@
 
 (53.)
 
-2391\. Aniyato dhammo aniyatassa dhammassa vipākapaccayena paccayo—  vipāko aniyato eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa…pe… .
+2391\. Aniyato dhammo aniyatassa dhammassa vipākapaccayena paccayo— vipāko aniyato eko khandho tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa…pe… .
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

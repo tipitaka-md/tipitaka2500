@@ -13,26 +13,13 @@
 
 (147.)
 
-636\. Nahetupaccayā ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare pañcavīsa, samanantare pañcavīsa, sahajāte tiṃsa, aññamaññe aṭṭhavīsa, nissaye tiṃsa, upanissaye pañcavīsa, purejāte pañca, pacchājāte pañca, āsevane ekavīsa, kamme ekādasa, vipāke ekavīsa, āhāre ekādasa, indriye ekādasa, jhāne ekavīsa, magge soḷasa, sampayutte ekādasa, vippayutte nava, atthiyā tiṃsa, natthiyā pañcavīsa, vigate pañcavīsa, avigate tiṃsa.
+636\. Nahetupaccayā ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare pañcavīsa, samanantare pañcavīsa, sahajāte tiṁsa, aññamaññe aṭṭhavīsa, nissaye tiṁsa, upanissaye pañcavīsa, purejāte pañca, pacchājāte pañca, āsevane ekavīsa, kamme ekādasa, vipāke ekavīsa, āhāre ekādasa, indriye ekādasa, jhāne ekavīsa, magge soḷasa, sampayutte ekādasa, vippayutte nava, atthiyā tiṁsa, natthiyā pañcavīsa, vigate pañcavīsa, avigate tiṁsa.
 
----
+637\. (Paccanīyānulomaṁ iminā kāraṇena vibhajitabbaṁ.)
 
-637\. (Paccanīyānulomaṃ iminā kāraṇena vibhajitabbaṃ.)
+638\. Paccanīyānulomaṁ.
 
+639\. Vitakkattikaṁ niṭṭhitaṁ.
 
-
----
-
-638\. Paccanīyānulomaṃ.
-
-
-
----
-
-639\. Vitakkattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (7.7.4 Paccayapaccanīyānuloma)](../7.7.4.md) / [Go to parent page (7.7.4 Paccayapaccanīyānuloma)](../7.7.4.md) / [Go to next page (8 Pītittika)](../../../8.md)
-
+[Go to previous page (7.7.4 Paccayapaccanīyānuloma)](../7.7.4.md) / [Go to parent page (7.7.4 Paccayapaccanīyānuloma)](../7.7.4.md) / [Go to next page (8 Pītittika)](../../../8.md)
 

@@ -17,8 +17,7 @@
 
 (31.)
 
-47\. Nahetuṃ akusalaṃ dhammaṃ paṭicca hetu akusalo dhammo uppajjati nahetupaccayā. (1)
+47\. Nahetuṁ akusalaṁ dhammaṁ paṭicca hetu akusalo dhammo uppajjati nahetupaccayā. (1)
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
 

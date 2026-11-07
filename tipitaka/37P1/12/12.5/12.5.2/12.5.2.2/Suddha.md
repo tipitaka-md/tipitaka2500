@@ -15,14 +15,9 @@
 
 (39.)
 
-1764\. Nahetuyā ekaṃ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi. (Evaṃ gaṇetabbaṃ.)
+1764\. Nahetuyā ekaṁ, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne ekaṁ, namagge ekaṁ, navippayutte tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+1765\. Paccanīyaṁ.
 
-1765\. Paccanīyaṃ.
-
-
-
-[Go to previous page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md) / [Go to parent page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md) / [Go to next page (12.5.3 Paccayānulomapaccanīya)](../../12.5.3.md)
-
+[Go to previous page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md) / [Go to parent page (12.5.2.2 Saṅkhyāvāra)](../12.5.2.2.md) / [Go to next page (12.5.3 Paccayānulomapaccanīya)](../../12.5.3.md)
 

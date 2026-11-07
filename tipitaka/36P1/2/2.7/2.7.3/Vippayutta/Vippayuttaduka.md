@@ -19,4 +19,3 @@
 
 [Go to previous page (Vippayutta)](../Vippayutta.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Vippayuttamissakaghaṭanā)](Vippayuttamissakaghatana.md)
 
-

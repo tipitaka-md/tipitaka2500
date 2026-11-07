@@ -13,20 +13,9 @@
 
 (34.)
 
-855\. Nahetupaccayā ārammaṇe tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge dve, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi.
+855\. Nahetupaccayā ārammaṇe tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme tīṇi, vipāke ekaṁ, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge dve, sampayutte tīṇi, vippayutte tīṇi, atthiyā tīṇi, natthiyā tīṇi, vigate tīṇi, avigate tīṇi.
 
----
+856\. (Evaṁ anumajjantena gaṇetabbaṁ.) Paccanīyānulomaṁ. Paṭiccavāro.
 
-856\. (Evaṃ anumajjantena gaṇetabbaṃ.)
-
-  
-Paccanīyānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md) / [Go to parent page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md) / [Go to next page (9.2 Sahajātavāra)](../../9.2.md)
-
+[Go to previous page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md) / [Go to parent page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md) / [Go to next page (9.2 Sahajātavāra)](../../9.2.md)
 

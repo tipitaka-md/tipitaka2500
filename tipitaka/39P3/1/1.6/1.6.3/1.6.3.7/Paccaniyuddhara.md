@@ -15,24 +15,19 @@
 
 (232.)
 
-450\. Hetu avitakkaavicāro dhammo hetussa avitakkaavicārassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+450\. Hetu avitakkaavicāro dhammo hetussa avitakkaavicārassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (233.)
 
-451\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava. (Saṃkhittaṃ.)
+451\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava. (Saṁkhittaṁ.)
 
-452\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+452\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-453\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+453\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-454\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+454\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
----
+455\. Hetudukavitakkattikaṁ niṭṭhitaṁ.
 
-455\. Hetudukavitakkattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.6.3.7 Pañhāvāra)](../1.6.3.7.md) / [Go to next page (1.7 Hetuduka, Pītittika)](../../../1.7.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.6.3.7 Pañhāvāra)](../1.6.3.7.md) / [Go to next page (1.7 Hetuduka, Pītittika)](../../../1.7.md)
 

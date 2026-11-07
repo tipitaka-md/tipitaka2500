@@ -15,8 +15,7 @@
 
 * Tika
 
-730\. Nahetupaccayā naadhipatipaccayā napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, najhāne ekaṃ, namagge ekaṃ, navippayutte dve.
+730\. Nahetupaccayā naadhipatipaccayā napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṁ, navipāke dve, najhāne ekaṁ, namagge ekaṁ, navippayutte dve.
 
 [Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Catukka)](Catukka.md)
-
 

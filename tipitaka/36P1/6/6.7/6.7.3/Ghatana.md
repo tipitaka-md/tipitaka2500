@@ -11,16 +11,11 @@
 
 * Ghaṭanā
 
-2931\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe…  naaññamaññe tīṇi…pe…  nasampayutte tīṇi, navippayutte tīṇi…pe…  novigate satta. (Saṃkhittaṃ.)
+2931\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe… naaññamaññe tīṇi…pe… nasampayutte tīṇi, navippayutte tīṇi…pe… novigate satta. (Saṁkhittaṁ.)
 
-2932\. (Yathā kusalattike anulomapaccanīyagaṇanā vibhattā, evaṃ vibhajitabbaṃ.)
+2932\. (Yathā kusalattike anulomapaccanīyagaṇanā vibhattā, evaṁ vibhajitabbaṁ.)
 
----
+2933\. Anulomapaccanīyaṁ.
 
-2933\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Hetuduka)](Hetuduka.md) / [Go to parent page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md) / [Go to next page (6.7.4 Paccayapaccanīyānuloma)](../6.7.4.md)
-
+[Go to previous page (Hetuduka)](Hetuduka.md) / [Go to parent page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md) / [Go to next page (6.7.4 Paccayapaccanīyānuloma)](../6.7.4.md)
 

@@ -15,8 +15,7 @@
 
 (71.)
 
-1260\. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho…pe…  naadhipatipaccayā (sahajātasadisaṃ)…  napurejātapaccayā…  napacchājātapaccayā, naāsevanapaccayā…  nakammapaccayā…  satta, navipākapaccayā…  najhānapaccayā…  namaggapaccayā…  navippayuttapaccayā… .
+1260\. Dassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho…pe… naadhipatipaccayā (sahajātasadisaṁ)… napurejātapaccayā… napacchājātapaccayā, naāsevanapaccayā… nakammapaccayā… satta, navipākapaccayā… najhānapaccayā… namaggapaccayā… navippayuttapaccayā… .
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.5.2.1 Vibhaṅgavāra)](../10.5.2.1.md) / [Go to next page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.5.2.1 Vibhaṅgavāra)](../10.5.2.1.md) / [Go to next page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md)
 

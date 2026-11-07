@@ -13,20 +13,15 @@
 
 (7.)
 
-1600\. Noāsavaṃ abyākataṃ dhammaṃ paṭicca noāsavo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1600\. Noāsavaṁ abyākataṁ dhammaṁ paṭicca noāsavo abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (8.)
 
-1601\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1601\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1602\. (Sahajātavārepi paccayavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1602\. (Sahajātavārepi paccayavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
----
+1603\. Āsavadukakusalattikaṁ niṭṭhitaṁ.
 
-1603\. Āsavadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (4.1.3 Abyākatapada)](../4.1.3.md) / [Go to parent page (4.1.3 Abyākatapada)](../4.1.3.md) / [Go to next page (4.2 Sāsavaduka, Kusalattika)](../../4.2.md)
-
+[Go to previous page (4.1.3 Abyākatapada)](../4.1.3.md) / [Go to parent page (4.1.3 Abyākatapada)](../4.1.3.md) / [Go to next page (4.2 Sāsavaduka, Kusalattika)](../../4.2.md)
 

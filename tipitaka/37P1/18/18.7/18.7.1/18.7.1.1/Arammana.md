@@ -15,16 +15,15 @@
 
 (2.)
 
-2596\. Uppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—  uppannaṃ cakkhuṃ aniccato dukkhato anattato vipassati, assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā…pe…  uddhaccaṃ…pe…  domanassaṃ uppajjati. Uppannaṃ sotaṃ…  ghānaṃ…  jivhaṃ…  kāyaṃ…  rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  uppanne khandhe aniccato dukkhato anattato vipassati…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe…  uppannā khandhā iddhividhañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2596\. Uppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo— uppannaṁ cakkhuṁ aniccato dukkhato anattato vipassati, assādeti abhinandati, taṁ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā…pe… uddhaccaṁ…pe… domanassaṁ uppajjati. Uppannaṁ sotaṁ… ghānaṁ… jivhaṁ… kāyaṁ… rūpe… sadde… gandhe… rase… phoṭṭhabbe… vatthuṁ… uppanne khandhe aniccato dukkhato anattato vipassati…pe… domanassaṁ uppajjati. Dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… uppannā khandhā iddhividhañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 (3.)
 
-2597\. Anuppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—  anuppanne rūpe…  sadde…  gandhe…  rase…  phoṭṭhabbe…  anuppanne khandhe aniccato dukkhato anattato vipassati…pe…  domanassaṃ uppajjati. Anuppannā khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2597\. Anuppanno dhammo uppannassa dhammassa ārammaṇapaccayena paccayo— anuppanne rūpe… sadde… gandhe… rase… phoṭṭhabbe… anuppanne khandhe aniccato dukkhato anattato vipassati…pe… domanassaṁ uppajjati. Anuppannā khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 (4.)
 
-2598\. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo—  uppādiṃ cakkhuṃ…pe…  kāyaṃ…  rūpe…  gandhe…  rase…  phoṭṭhabbe…  vatthuṃ…  uppādī khandhe aniccato dukkhato anattato…pe…  domanassaṃ uppajjati. Uppādī khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2598\. Uppādī dhammo uppannassa dhammassa ārammaṇapaccayena paccayo— uppādiṁ cakkhuṁ…pe… kāyaṁ… rūpe… gandhe… rase… phoṭṭhabbe… vatthuṁ… uppādī khandhe aniccato dukkhato anattato…pe… domanassaṁ uppajjati. Uppādī khandhā iddhividhañāṇassa, cetopariyañāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

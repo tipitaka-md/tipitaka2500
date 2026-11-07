@@ -13,8 +13,7 @@
 
 (29.)
 
-1867\. Napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā…  navipākapaccayā hetuyā tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1867\. Napacchājātapaccayā… naāsevanapaccayā… nakammapaccayā… navipākapaccayā hetuyā tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-[Go to previous page (Napurejātaduka)](Napurejataduka.md) / [Go to parent page (3.1.4 Paccayapaccanīyānuloma)](../3.1.4.md) / [Go to next page (Najhānaduka)](Najhanaduka.md)
-
+[Go to previous page (Napurejātaduka)](Napurejataduka.md) / [Go to parent page (3.1.4 Paccayapaccanīyānuloma)](../3.1.4.md) / [Go to next page (Najhānaduka)](Najhanaduka.md)
 

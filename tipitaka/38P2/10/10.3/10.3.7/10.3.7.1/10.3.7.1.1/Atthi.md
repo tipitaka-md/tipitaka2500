@@ -17,28 +17,27 @@
 
 (134.)
 
-2646\. Cetasiko dhammo cetasikassa dhammassa atthipaccayena paccayo…  ekaṃ. (Paṭiccavārasadisaṃ.)
+2646\. Cetasiko dhammo cetasikassa dhammassa atthipaccayena paccayo… ekaṁ. (Paṭiccavārasadisaṁ.)
 
-2647\. Cetasiko dhammo acetasikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (2)
+2647\. Cetasiko dhammo acetasikassa dhammassa atthipaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (2)
 
-2648\. Cetasiko dhammo cetasikassa ca acetasikassa ca dhammassa atthipaccayena paccayo…  ekaṃ. (Paṭiccavārasadisaṃ.) (3)
+2648\. Cetasiko dhammo cetasikassa ca acetasikassa ca dhammassa atthipaccayena paccayo… ekaṁ. (Paṭiccavārasadisaṁ.) (3)
 
 (135.)
 
-2649\. Acetasiko dhammo acetasikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (Saṃkhittaṃ.) (1)
+2649\. Acetasiko dhammo acetasikassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. (Saṁkhittaṁ.) (1)
 
-2650\. Acetasiko dhammo cetasikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  cittaṃ cetasikānaṃ khandhānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe cittaṃ…pe…  paṭisandhikkhaṇe vatthu cetasikānaṃ khandhānaṃ atthipaccayena paccayo. **Purejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe… . (Purejātasadisaṃ ninnānākaraṇaṃ.) (2)
+2650\. Acetasiko dhammo cetasikassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajātaṁ— cittaṁ cetasikānaṁ khandhānaṁ atthipaccayena paccayo; paṭisandhikkhaṇe cittaṁ…pe… paṭisandhikkhaṇe vatthu cetasikānaṁ khandhānaṁ atthipaccayena paccayo. Purejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… . (Purejātasadisaṁ ninnānākaraṇaṁ.) (2)
 
-2651\. Acetasiko dhammo cetasikassa ca acetasikassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  cittaṃ sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo; paṭisandhikkhaṇe cittaṃ…pe…  paṭisandhikkhaṇe vatthu cetasikānaṃ khandhānaṃ cittassa ca atthipaccayena paccayo. **Purejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe… . (Purejātasadisaṃ ninnānaṃ.) (3)
+2651\. Acetasiko dhammo cetasikassa ca acetasikassa ca dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajātaṁ— cittaṁ sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ atthipaccayena paccayo; paṭisandhikkhaṇe cittaṁ…pe… paṭisandhikkhaṇe vatthu cetasikānaṁ khandhānaṁ cittassa ca atthipaccayena paccayo. Purejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… . (Purejātasadisaṁ ninnānaṁ.) (3)
 
 (136.)
 
-2652\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca dvinnaṃ khandhānaṃ…pe…  kāyaviññāṇasahagato…pe…  cetasiko eko khandho ca vatthu ca dvinnaṃ khandhānaṃ atthipaccayena paccayo; dve khandhā ca…pe… . **Sahajāto**—  cetasiko eko khandho ca cittañca dvinnaṃ khandhānaṃ atthipaccayena paccayo; dve khandhā ca…pe…  (paṭisandhikkhaṇe dvepi kātabbā.) (1)
+2652\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajāto— cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca dvinnaṁ khandhānaṁ…pe… kāyaviññāṇasahagato…pe… cetasiko eko khandho ca vatthu ca dvinnaṁ khandhānaṁ atthipaccayena paccayo; dve khandhā ca…pe… . Sahajāto— cetasiko eko khandho ca cittañca dvinnaṁ khandhānaṁ atthipaccayena paccayo; dve khandhā ca…pe… (paṭisandhikkhaṇe dvepi kātabbā.) (1)
 
-2653\. Cetasiko ca acetasiko ca dhammā acetasikassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  cakkhuviññāṇasahagatā khandhā ca cakkhāyatanañca cakkhuviññāṇassa…pe…  kāyaviññāṇassa…pe…  cetasikā khandhā ca cittañca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo; cetasikā khandhā ca cittañca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Sahajātā**—  cetasikā khandhā ca vatthu ca cittassa atthipaccayena paccayo (paṭisandhikkhaṇe tīṇipi kātabbā). **Pacchājātā**—  cetasikā khandhā ca cittañca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  cetasikā khandhā ca cittañca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  cetasikā khandhā ca cittañca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
+2653\. Cetasiko ca acetasiko ca dhammā acetasikassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. Sahajātā— cakkhuviññāṇasahagatā khandhā ca cakkhāyatanañca cakkhuviññāṇassa…pe… kāyaviññāṇassa…pe… cetasikā khandhā ca cittañca cittasamuṭṭhānānaṁ rūpānaṁ atthipaccayena paccayo; cetasikā khandhā ca cittañca mahābhūtā ca cittasamuṭṭhānānaṁ rūpānaṁ atthipaccayena paccayo. Sahajātā— cetasikā khandhā ca vatthu ca cittassa atthipaccayena paccayo (paṭisandhikkhaṇe tīṇipi kātabbā). Pacchājātā— cetasikā khandhā ca cittañca purejātassa imassa kāyassa atthipaccayena paccayo. Pacchājātā— cetasikā khandhā ca cittañca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. Pacchājātā— cetasikā khandhā ca cittañca rūpajīvitindriyañca kaṭattārūpānaṁ atthipaccayena paccayo. (2)
 
-2654\. Cetasiko ca acetasiko ca dhammā cetasikassa ca acetasikassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca dvinnaṃ khandhānaṃ cakkhuviññāṇassa ca atthipaccayena paccayo…pe…  kāyaviññāṇasahagato eko khandho ca kāyāyatanañca dvinnaṃ khandhānaṃ kāyaviññāṇassa ca atthipaccayena paccayo; dve khandhā ca…pe… . **Sahajāto**—  cetasiko eko khandho ca vatthu ca dvinnaṃ khandhānaṃ cittassa ca atthipaccayena paccayo; dve khandhā ca…pe… . (Paṭisandhiyā dve kātabbā.) (3)
+2654\. Cetasiko ca acetasiko ca dhammā cetasikassa ca acetasikassa ca dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajāto— cakkhuviññāṇasahagato eko khandho ca cakkhāyatanañca dvinnaṁ khandhānaṁ cakkhuviññāṇassa ca atthipaccayena paccayo…pe… kāyaviññāṇasahagato eko khandho ca kāyāyatanañca dvinnaṁ khandhānaṁ kāyaviññāṇassa ca atthipaccayena paccayo; dve khandhā ca…pe… . Sahajāto— cetasiko eko khandho ca vatthu ca dvinnaṁ khandhānaṁ cittassa ca atthipaccayena paccayo; dve khandhā ca…pe… . (Paṭisandhiyā dve kātabbā.) (3)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (10.3.7.1.2 Saṅkhyāvāra)](../10.3.7.1.2.md)
-
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (10.3.7.1.2 Saṅkhyāvāra)](../10.3.7.1.2.md)
 

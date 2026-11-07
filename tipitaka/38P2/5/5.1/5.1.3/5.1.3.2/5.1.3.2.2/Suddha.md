@@ -17,8 +17,7 @@
 
 (15.)
 
-1645\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava. (Evaṃ gaṇetabbaṃ.)
+1645\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā nava. (Evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (5.1.3.2.2 Saṅkhyāvāra)](../5.1.3.2.2.md) / [Go to parent page (5.1.3.2.2 Saṅkhyāvāra)](../5.1.3.2.2.md) / [Go to next page (5.1.3.3 Paccayānulomapaccanīya)](../../5.1.3.3.md)
-
+[Go to previous page (5.1.3.2.2 Saṅkhyāvāra)](../5.1.3.2.2.md) / [Go to parent page (5.1.3.2.2 Saṅkhyāvāra)](../5.1.3.2.2.md) / [Go to next page (5.1.3.3 Paccayānulomapaccanīya)](../../5.1.3.3.md)
 

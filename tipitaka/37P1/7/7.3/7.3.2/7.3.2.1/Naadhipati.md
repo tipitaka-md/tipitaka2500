@@ -17,34 +17,33 @@
 
 220\. Savitakkasavicāramūlakā satta pañhā naadhipatiyā kātabbā.
 
-221\. Avitakkavicāramattaṃ dhammaṃ paccayā avitakkavicāramatto dhammo uppajjati naadhipatipaccayā—  avitakkavicāramatte khandhe paccayā avitakkavicāramattā adhipati, vipākaṃ avitakkavicāramattaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (1)
+221\. Avitakkavicāramattaṁ dhammaṁ paccayā avitakkavicāramatto dhammo uppajjati naadhipatipaccayā— avitakkavicāramatte khandhe paccayā avitakkavicāramattā adhipati, vipākaṁ avitakkavicāramattaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… paṭisandhikkhaṇe…pe… . (1)
 
-222\. Avitakkavicāramattaṃ dhammaṃ paccayā. (Yathā paṭiccanaye tathā pañca pañhā kātabbā.)
+222\. Avitakkavicāramattaṁ dhammaṁ paccayā. (Yathā paṭiccanaye tathā pañca pañhā kātabbā.)
 
 (51.)
 
-223\. Avitakkaavicāraṃ dhammaṃ paccayā avitakkaavicāro dhammo uppajjati…pe…  avitakkaavicāre khandhe paccayā avitakkaavicārā adhipati, vipākaṃ avitakkaavicāraṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  vipākaṃ vicāraṃ paccayā cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe…pe…  vatthuṃ paccayā avitakkaavicārā adhipati, vatthuṃ paccayā vipākā avitakkaavicārā khandhā ca vicāro ca…pe… . (1)
+223\. Avitakkaavicāraṁ dhammaṁ paccayā avitakkaavicāro dhammo uppajjati…pe… avitakkaavicāre khandhe paccayā avitakkaavicārā adhipati, vipākaṁ avitakkaavicāraṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… vipākaṁ vicāraṁ paccayā cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe…pe… vatthuṁ paccayā avitakkaavicārā adhipati, vatthuṁ paccayā vipākā avitakkaavicārā khandhā ca vicāro ca…pe… . (1)
 
-224\. Avitakkaavicāraṃ dhammaṃ paccayā savitakkasavicāro dhammo…pe…  vatthuṃ paccayā savitakkasavicārā khandhā. Paṭisandhikkhaṇe…pe… . (2)
+224\. Avitakkaavicāraṁ dhammaṁ paccayā savitakkasavicāro dhammo…pe… vatthuṁ paccayā savitakkasavicārā khandhā. Paṭisandhikkhaṇe…pe… . (2)
 
-225\. Avitakkaavicāraṃ dhammaṃ paccayā avitakkavicāramatto dhammo…pe…  vicāraṃ paccayā avitakkavicāramattā adhipati, vatthuṃ paccayā avitakkavicāramattā adhipati, vipākaṃ vicāraṃ paccayā avitakkavicāramattā khandhā, vatthuṃ paccayā vipākā avitakkavicāramattā khandhā. Paṭisandhikkhaṇe…pe… . (3)
+225\. Avitakkaavicāraṁ dhammaṁ paccayā avitakkavicāramatto dhammo…pe… vicāraṁ paccayā avitakkavicāramattā adhipati, vatthuṁ paccayā avitakkavicāramattā adhipati, vipākaṁ vicāraṁ paccayā avitakkavicāramattā khandhā, vatthuṁ paccayā vipākā avitakkavicāramattā khandhā. Paṭisandhikkhaṇe…pe… . (3)
 
-226\. Avitakkaavicāraṃ dhammaṃ paccayā savitakkasavicāro ca avitakkaavicāro ca dhammā…pe…  vatthuṃ paccayā savitakkasavicārā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe…pe… . (4)
+226\. Avitakkaavicāraṁ dhammaṁ paccayā savitakkasavicāro ca avitakkaavicāro ca dhammā…pe… vatthuṁ paccayā savitakkasavicārā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe…pe… . (4)
 
-227\. Avitakkaavicāraṃ dhammaṃ paccayā avitakkavicāramatto ca avitakkaavicāro ca dhammā…pe…  vipākaṃ vicāraṃ paccayā avitakkavicāramattā khandhā cittasamuṭṭhānañca rūpaṃ, vatthuṃ paccayā vipākā avitakkavicāramattā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā vitakko, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā vipākā avitakkavicāramattā khandhā ca vicāro ca. Paṭisandhikkhaṇe…pe… . (5)
+227\. Avitakkaavicāraṁ dhammaṁ paccayā avitakkavicāramatto ca avitakkaavicāro ca dhammā…pe… vipākaṁ vicāraṁ paccayā avitakkavicāramattā khandhā cittasamuṭṭhānañca rūpaṁ, vatthuṁ paccayā vipākā avitakkavicāramattā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā vitakko, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā vipākā avitakkavicāramattā khandhā ca vicāro ca. Paṭisandhikkhaṇe…pe… . (5)
 
-228\. Avitakkaavicāraṃ dhammaṃ paccayā savitakkasavicāro ca avitakkavicāramatto ca dhammā…pe…  vatthuṃ paccayā savitakkasavicārā khandhā ca vitakko ca. Paṭisandhikkhaṇe…pe… . (6)
+228\. Avitakkaavicāraṁ dhammaṁ paccayā savitakkasavicāro ca avitakkavicāramatto ca dhammā…pe… vatthuṁ paccayā savitakkasavicārā khandhā ca vitakko ca. Paṭisandhikkhaṇe…pe… . (6)
 
-229\. (Paṭhamaghaṭanāyaṃ sampuṇṇā satta pañhā kātabbā.)
+229\. (Paṭhamaghaṭanāyaṁ sampuṇṇā satta pañhā kātabbā.)
 
 (52.)
 
-230\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paccayā savitakkasavicāro dhammo uppajjati…pe…  vitakkañca vatthuñca paccayā savitakkasavicārā khandhā. Paṭisandhikkhaṇe…pe… .
+230\. Avitakkavicāramattañca avitakkaavicārañca dhammaṁ paccayā savitakkasavicāro dhammo uppajjati…pe… vitakkañca vatthuñca paccayā savitakkasavicārā khandhā. Paṭisandhikkhaṇe…pe… .
 
-231\. Avitakkavicāramattañca avitakkaavicārañca dhammaṃ paccayā avitakkavicāramatto dhammo uppajjati…pe…  avitakkavicāramatte khandhe ca vicārañca paccayā avitakkavicāramattā adhipati, avitakkavicāramatte khandhe ca vatthuñca paccayā avitakkavicāramattā adhipati, vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vicārañca paccayā…pe…  vipākaṃ avitakkavicāramattaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe… .
+231\. Avitakkavicāramattañca avitakkaavicārañca dhammaṁ paccayā avitakkavicāramatto dhammo uppajjati…pe… avitakkavicāramatte khandhe ca vicārañca paccayā avitakkavicāramattā adhipati, avitakkavicāramatte khandhe ca vatthuñca paccayā avitakkavicāramattā adhipati, vipākaṁ avitakkavicāramattaṁ ekaṁ khandhañca vicārañca paccayā…pe… vipākaṁ avitakkavicāramattaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… .
 
-232\. (Paṭisandhikkhaṇe pañca pañhā kātabbā. Yattha avitakkavicāramattaṃ āgacchati tattha vipākaṃ kātabbaṃ. Naadhipatimūlake sattatiṃsa pañhā kātabbā.)
+232\. (Paṭisandhikkhaṇe pañca pañhā kātabbā. Yattha avitakkavicāramattaṁ āgacchati tattha vipākaṁ kātabbaṁ. Naadhipatimūlake sattatiṁsa pañhā kātabbā.)
 
-[Go to previous page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
-
+[Go to previous page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to parent page (7.3.2.1 Vibhaṅgavāra)](../7.3.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
 

@@ -17,8 +17,7 @@
 
 (469.)
 
-3522\. Nahetuyā nava, naārammaṇe nava (sabbattha nava), naāhāre aṭṭha…pe…  nasampayutte nava, navippayutte nava, noatthiyā cattāri, nonatthiyā nava, novigate nava, noavigate cattāri.
+3522\. Nahetuyā nava, naārammaṇe nava (sabbattha nava), naāhāre aṭṭha…pe… nasampayutte nava, navippayutte nava, noatthiyā cattāri, nonatthiyā nava, novigate nava, noavigate cattāri.
 
-[Go to previous page (10.14.7.2.1 Saṅkhyāvāra)](../10.14.7.2.1.md) / [Go to parent page (10.14.7.2.1 Saṅkhyāvāra)](../10.14.7.2.1.md) / [Go to next page (10.14.7.3 Paccayānulomapaccanīya)](../../10.14.7.3.md)
-
+[Go to previous page (10.14.7.2.1 Saṅkhyāvāra)](../10.14.7.2.1.md) / [Go to parent page (10.14.7.2.1 Saṅkhyāvāra)](../10.14.7.2.1.md) / [Go to next page (10.14.7.3 Paccayānulomapaccanīya)](../../10.14.7.3.md)
 

@@ -15,8 +15,7 @@
 
 (23.)
 
-2803\. Naārammaṇapaccayā…  naadhipatipaccayā (sahajātasadisaṃ)…  naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā (paṭiccavārasadisaṃ)…  napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā…pe…  navippayuttapaccayā (paṭiccavārapaccanīye vippayuttasadisaṃ)…  nonatthipaccayā…  novigatapaccayā… .
+2803\. Naārammaṇapaccayā… naadhipatipaccayā (sahajātasadisaṁ)… naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā (paṭiccavārasadisaṁ)… napacchājātapaccayā… naāsevanapaccayā… nakammapaccayā…pe… navippayuttapaccayā (paṭiccavārapaccanīye vippayuttasadisaṁ)… nonatthipaccayā… novigatapaccayā… .
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to next page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to next page (21.3.2.2 Saṅkhyāvāra)](../21.3.2.2.md)
 

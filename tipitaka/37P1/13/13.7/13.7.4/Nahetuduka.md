@@ -13,20 +13,11 @@
 
 (92.)
 
-2154\. Nahetupaccayā ārammaṇe satta, adhipatiyā satta, anantare nava, samanantare nava, sahajāte ekādasa, aññamaññe satta, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane cattāri, kamme satta…pe…  magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā nava, vigate nava, avigate terasa.
+2154\. Nahetupaccayā ārammaṇe satta, adhipatiyā satta, anantare nava, samanantare nava, sahajāte ekādasa, aññamaññe satta, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane cattāri, kamme satta…pe… magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā nava, vigate nava, avigate terasa.
 
----
+2155\. Paccanīyānulomaṁ.
 
-2155\. Paccanīyānulomaṃ.
+2156\. Parittattikaṁ niṭṭhitaṁ.
 
-
-
----
-
-2156\. Parittattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (13.7.4 Paccayapaccanīyānuloma)](../13.7.4.md) / [Go to parent page (13.7.4 Paccayapaccanīyānuloma)](../13.7.4.md) / [Go to next page (14 Parittārammaṇattika)](../../../14.md)
-
+[Go to previous page (13.7.4 Paccayapaccanīyānuloma)](../13.7.4.md) / [Go to parent page (13.7.4 Paccayapaccanīyānuloma)](../13.7.4.md) / [Go to next page (14 Parittārammaṇattika)](../../../14.md)
 

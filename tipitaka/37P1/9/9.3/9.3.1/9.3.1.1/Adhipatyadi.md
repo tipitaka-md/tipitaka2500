@@ -15,8 +15,7 @@
 
 (42.)
 
-879\. Dassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati adhipatipaccayā…  (paripuṇṇaṃ, paṭisandhi natthi) anantarapaccayā…  samanantarapaccayā. (Ārammaṇasadisaṃ.)
+879\. Dassanena pahātabbaṁ dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati adhipatipaccayā… (paripuṇṇaṁ, paṭisandhi natthi) anantarapaccayā… samanantarapaccayā. (Ārammaṇasadisaṁ.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

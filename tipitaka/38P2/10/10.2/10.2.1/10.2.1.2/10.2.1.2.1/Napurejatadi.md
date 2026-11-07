@@ -17,22 +17,17 @@
 
 (56.)
 
-2442\. Cittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati napurejātapaccayā—  arūpe cittaṃ paṭicca sampayuttakā khandhā, cittaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cittaṃ paṭicca sampayuttakā khandhā kaṭattā ca rūpaṃ. (1)
+2442\. Cittaṁ dhammaṁ paṭicca nocitto dhammo uppajjati napurejātapaccayā— arūpe cittaṁ paṭicca sampayuttakā khandhā, cittaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe cittaṁ paṭicca sampayuttakā khandhā kaṭattā ca rūpaṁ. (1)
 
-2443\. Nocittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati napurejātapaccayā—  arūpe nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe…pe…  nocitte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+2443\. Nocittaṁ dhammaṁ paṭicca nocitto dhammo uppajjati napurejātapaccayā— arūpe nocittaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe…pe… nocitte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-2444\. Nocittaṃ dhammaṃ paṭicca citto dhammo uppajjati napurejātapaccayā—  arūpe nocitte khandhe paṭicca cittaṃ; paṭisandhikkhaṇe…  vatthuṃ paṭicca cittaṃ. (2)
+2444\. Nocittaṁ dhammaṁ paṭicca citto dhammo uppajjati napurejātapaccayā— arūpe nocitte khandhe paṭicca cittaṁ; paṭisandhikkhaṇe… vatthuṁ paṭicca cittaṁ. (2)
 
-2445\. Nocittaṃ dhammaṃ paṭicca citto ca nocitto ca dhammā uppajjanti napurejātapaccayā—  arūpe nocittaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca, dve khandhe…pe…  paṭisandhikkhaṇe vatthuṃ paṭicca cittañca sampayuttakā ca khandhā. (3)
+2445\. Nocittaṁ dhammaṁ paṭicca citto ca nocitto ca dhammā uppajjanti napurejātapaccayā— arūpe nocittaṁ ekaṁ khandhaṁ paṭicca dve khandhā cittañca, dve khandhe…pe… paṭisandhikkhaṇe vatthuṁ paṭicca cittañca sampayuttakā ca khandhā. (3)
 
-2446\. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati napurejātapaccayā—  arūpe nocittaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe…  nocitte khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cittañca vatthuñca paṭicca nocittā khandhā; paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca kaṭattārūpaṃ, cittañca mahābhūte ca paṭicca kaṭattārūpaṃ. (1)
+2446\. Cittañca nocittañca dhammaṁ paṭicca nocitto dhammo uppajjati napurejātapaccayā— arūpe nocittaṁ ekaṁ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe… nocitte khandhe ca cittañca paṭicca cittasamuṭṭhānaṁ rūpaṁ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe cittañca vatthuñca paṭicca nocittā khandhā; paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca kaṭattārūpaṁ, cittañca mahābhūte ca paṭicca kaṭattārūpaṁ. (1)
 
----
+2447\. Napacchājātapaccayā… naāsevanapaccayā… .
 
-2447\. Napacchājātapaccayā…  naāsevanapaccayā… .
-
-
-
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

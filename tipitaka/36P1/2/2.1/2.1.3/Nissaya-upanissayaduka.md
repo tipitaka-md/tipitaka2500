@@ -15,12 +15,7 @@
 
 301\. Nissayapaccayā nahetuyā dve, naārammaṇe pañca.
 
----
+302\. (Nissayapaccayā yathā sahajātamūlakaṁ. Upanissayapaccayā yathā ārammaṇamūlakaṁ.)
 
-302\. (Nissayapaccayā yathā sahajātamūlakaṃ. Upanissayapaccayā yathā ārammaṇamūlakaṃ.)
-
-
-
-[Go to previous page (Catukka)](Annamannaduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Purejātaduka)](Purejataduka.md)
-
+[Go to previous page (Catukka)](Annamannaduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Purejātaduka)](Purejataduka.md)
 

@@ -18,6 +18,5 @@
 * [Tika](Nakammaduka/Tika.md)
 * [Pañcaka](Nakammaduka/Pancaka.md)
 
-[Go to previous page (Napurejātaduka)](Napurejataduka.md) / [Go to parent page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md) / [Go to next page (Tika)](Nakammaduka/Tika.md)
-
+[Go to previous page (Napurejātaduka)](Napurejataduka.md) / [Go to parent page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md) / [Go to next page (Tika)](Nakammaduka/Tika.md)
 

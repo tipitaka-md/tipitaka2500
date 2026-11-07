@@ -17,8 +17,7 @@
 
 (38.)
 
-623\. Anidassano dhammo anidassanassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  tīṇi…  aññamaññapaccayena paccayo…  ekaṃ…  nissayapaccayena paccayo…  tīṇi.
+623\. Anidassano dhammo anidassanassa dhammassa samanantarapaccayena paccayo… sahajātapaccayena paccayo… tīṇi… aññamaññapaccayena paccayo… ekaṁ… nissayapaccayena paccayo… tīṇi.
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

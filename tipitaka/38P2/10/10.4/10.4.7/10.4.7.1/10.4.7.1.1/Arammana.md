@@ -17,12 +17,11 @@
 
 (164.)
 
-2719\. Cittasampayutto dhammo cittasampayuttassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati; pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti. Pahīne kilese…pe…  vikkhambhite kilese paccavekkhanti. Pubbe samudāciṇṇe kilese jānanti. Cittasampayutte khandhe aniccato…pe…  domanassaṃ uppajjati. Cetopariyañāṇena cittasampayuttasamaṅgissa cittaṃ jānanti. Ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe…  ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  cittasampayuttā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2719\. Cittasampayutto dhammo cittasampayuttassa dhammassa ārammaṇapaccayena paccayo— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ katvā taṁ paccavekkhati assādeti abhinandati, taṁ ārabbha rāgo uppajjati…pe… domanassaṁ uppajjati; pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṁ…pe… ariyā maggā vuṭṭhahitvā maggaṁ paccavekkhanti, phalaṁ paccavekkhanti. Pahīne kilese…pe… vikkhambhite kilese paccavekkhanti. Pubbe samudāciṇṇe kilese jānanti. Cittasampayutte khandhe aniccato…pe… domanassaṁ uppajjati. Cetopariyañāṇena cittasampayuttasamaṅgissa cittaṁ jānanti. Ākāsānañcāyatanaṁ viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṁ nevasaññānāsaññāyatanassa…pe… cittasampayuttā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 (165.)
 
-2720\. Cittavippayutto dhammo cittasampayuttassa dhammassa ārammaṇapaccayena paccayo—  ariyā nibbānaṃ paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe…  vatthuṃ cittavippayutte khandhe aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ…pe…  phoṭṭhabbāyatanaṃ…pe…  cittavippayuttā khandhā iddhividhañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2720\. Cittavippayutto dhammo cittasampayuttassa dhammassa ārammaṇapaccayena paccayo— ariyā nibbānaṁ paccavekkhanti. Nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; cakkhuṁ…pe… vatthuṁ cittavippayutte khandhe aniccato…pe… domanassaṁ uppajjati; dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Rūpāyatanaṁ cakkhuviññāṇasahagatānaṁ khandhānaṁ…pe… phoṭṭhabbāyatanaṁ…pe… cittavippayuttā khandhā iddhividhañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

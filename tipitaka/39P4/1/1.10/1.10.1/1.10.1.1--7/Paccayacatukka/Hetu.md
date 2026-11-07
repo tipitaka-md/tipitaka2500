@@ -17,24 +17,23 @@
 
 (132.)
 
-462\. Ācayagāmiṃ hetuṃ dhammaṃ paṭicca ācayagāmī hetu dhammo uppajjati hetupaccayā. (1)
+462\. Ācayagāmiṁ hetuṁ dhammaṁ paṭicca ācayagāmī hetu dhammo uppajjati hetupaccayā. (1)
 
-463\. Apacayagāmiṃ hetuṃ dhammaṃ paṭicca apacayagāmī hetu dhammo uppajjati hetupaccayā. (1)
+463\. Apacayagāmiṁ hetuṁ dhammaṁ paṭicca apacayagāmī hetu dhammo uppajjati hetupaccayā. (1)
 
-464\. Nevācayagāmināpacayagāmiṃ hetuṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+464\. Nevācayagāmināpacayagāmiṁ hetuṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī hetu dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (133.)
 
 465\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi. (Sabbattha tīṇi.)
 
-466\. Naadhipatiyā tīṇi, naāsevane dve, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.)
+466\. Naadhipatiyā tīṇi, naāsevane dve, navipāke tīṇi, navippayutte tīṇi. (Saṁkhittaṁ.)
 
-467\. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+467\. Hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-468\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
+468\. Naadhipatipaccayā hetuyā tīṇi. (Saṁkhittaṁ.)
 
-469\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+469\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
-
 

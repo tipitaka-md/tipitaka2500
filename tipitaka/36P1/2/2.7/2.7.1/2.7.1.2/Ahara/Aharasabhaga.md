@@ -17,8 +17,7 @@
 
 (342.)
 
-1071\. Āhārapaccayā adhipatiyā satta, sahajāte satta, aññamaññe tīṇi, nissaye satta, kamme satta, vipāke ekaṃ, indriye satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (11)
+1071\. Āhārapaccayā adhipatiyā satta, sahajāte satta, aññamaññe tīṇi, nissaye satta, kamme satta, vipāke ekaṁ, indriye satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (11)
 
 [Go to previous page (Āhāra)](../Ahara.md) / [Go to parent page (Āhāra)](../Ahara.md) / [Go to next page (Āhāramissakaghaṭanā)](Aharamissakaghatana.md)
-
 

@@ -17,92 +17,91 @@
 
 (85.)
 
-278\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṃ).
+278\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṁ).
 
-279\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (dve).
+279\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (dve).
 
-280\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
+280\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
 
-281\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
+281\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
 
-282\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
+282\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
 
-283\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti hetupaccayā (cha).
+283\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti hetupaccayā (cha).
 
-284\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (satta).
+284\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (satta).
 
 (86.)
 
-285\. Avitakkavicāramattaṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (ekaṃ).
+285\. Avitakkavicāramattaṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (ekaṁ).
 
-286\. Avitakkavicāramattaṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (dve).
+286\. Avitakkavicāramattaṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (dve).
 
-287\. Avitakkavicāramattaṃ nahetuṃ dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
+287\. Avitakkavicāramattaṁ nahetuṁ dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
 
-288\. Avitakkavicāramattaṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
+288\. Avitakkavicāramattaṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
 
-289\. Avitakkavicāramattaṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
+289\. Avitakkavicāramattaṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
 
 (87.)
 
-290\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (ekaṃ).
+290\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (ekaṁ).
 
-291\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (dve).
+291\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (dve).
 
-292\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (tīṇi).
+292\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (tīṇi).
 
-293\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
+293\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
 
-294\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
+294\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
 
-295\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti hetupaccayā (cha).
+295\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti hetupaccayā (cha).
 
-296\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (satta).
+296\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (satta).
 
 (88.)
 
-297\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṃ).
+297\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṁ).
 
-298\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (dve).
+298\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (dve).
 
-299\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
+299\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
 
-300\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
+300\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
 
-301\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
+301\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
 
-302\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti hetupaccayā (cha).
+302\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti hetupaccayā (cha).
 
-303\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (satta).
+303\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (satta).
 
 (89.)
 
-304\. Avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṃ).
+304\. Avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṁ).
 
-305\. Avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (dve).
+305\. Avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkavicāramatto nahetu dhammo uppajjati hetupaccayā (dve).
 
-306\. Avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
+306\. Avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (tīṇi).
 
-307\. Avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
+307\. Avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (cattāri).
 
-308\. Avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
+308\. Avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (pañca).
 
 (90.)
 
-309\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṃ).
+309\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṁ).
 
-310\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (dve).
+310\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (dve).
 
-311\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (tīṇi).
+311\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (tīṇi).
 
 (91.)
 
-312\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṃ).
+312\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati hetupaccayā (ekaṁ).
 
-313\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (dve).
+313\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati hetupaccayā (dve).
 
-314\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (tīṇi).
+314\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkaavicāro nahetu ca dhammā uppajjanti hetupaccayā (tīṇi).
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
 

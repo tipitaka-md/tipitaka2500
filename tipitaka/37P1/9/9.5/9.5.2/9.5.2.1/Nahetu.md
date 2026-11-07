@@ -15,12 +15,11 @@
 
 (63.)
 
-929\. Dassanena pahātabbaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe saṃsaṭṭho vicikicchāsahagato moho. (1)
+929\. Dassanena pahātabbaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbo dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe saṁsaṭṭho vicikicchāsahagato moho. (1)
 
-930\. Bhāvanāya pahātabbaṃ dhammaṃ saṃsaṭṭho bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā—  uddhaccasahagate khandhe saṃsaṭṭho uddhaccasahagato moho. (1)
+930\. Bhāvanāya pahātabbaṁ dhammaṁ saṁsaṭṭho bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā— uddhaccasahagate khandhe saṁsaṭṭho uddhaccasahagato moho. (1)
 
-931\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ saṃsaṭṭho nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nahetupaccayā—  ahetukaṃ nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  ahetukapaṭisandhikkhaṇe…pe… . (1)
+931\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ saṁsaṭṭho nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nahetupaccayā— ahetukaṁ nevadassanena nabhāvanāya pahātabbaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… ahetukapaṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (9.5.2.1 Vibhaṅgavāra)](../9.5.2.1.md) / [Go to parent page (9.5.2.1 Vibhaṅgavāra)](../9.5.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (9.5.2.1 Vibhaṅgavāra)](../9.5.2.1.md) / [Go to parent page (9.5.2.1 Vibhaṅgavāra)](../9.5.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

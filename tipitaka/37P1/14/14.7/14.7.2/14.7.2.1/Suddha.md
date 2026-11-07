@@ -15,14 +15,9 @@
 
 (38.)
 
-2247\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye satta, napurejāte nava, napacchājāte nava, naāsevane nava…pe…  namagge nava, nasampayutte nava, navippayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava. (Evaṃ gaṇetabbaṃ.)
+2247\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye satta, napurejāte nava, napacchājāte nava, naāsevane nava…pe… namagge nava, nasampayutte nava, navippayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+2248\. Paccanīyaṁ.
 
-2248\. Paccanīyaṃ.
-
-
-
-[Go to previous page (14.7.2.1 Saṅkhyāvāra)](../14.7.2.1.md) / [Go to parent page (14.7.2.1 Saṅkhyāvāra)](../14.7.2.1.md) / [Go to next page (14.7.3 Paccayānulomapaccanīya)](../../14.7.3.md)
-
+[Go to previous page (14.7.2.1 Saṅkhyāvāra)](../14.7.2.1.md) / [Go to parent page (14.7.2.1 Saṅkhyāvāra)](../14.7.2.1.md) / [Go to next page (14.7.3 Paccayānulomapaccanīya)](../../14.7.3.md)
 

@@ -11,20 +11,19 @@
 
 (8.)
 
-16\. Nakusalaṃ naadukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  pañca.
+16\. Nakusalaṁ naadukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… pañca.
 
-17\. Naakusalaṃ naadukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca naakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  pañca.
+17\. Naakusalaṁ naadukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca naakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… pañca.
 
-18\. Naabyākataṃ naadukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca naabyākato naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  cha.
+18\. Naabyākataṁ naadukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca naabyākato naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… cha.
 
-19\. Nakusalaṃ naadukkhamasukhāya vedanāya sampayuttañca naabyākataṃ naadukkhamasukhāya vedanāya sampayuttañca dhammaṃ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  pañca.
+19\. Nakusalaṁ naadukkhamasukhāya vedanāya sampayuttañca naabyākataṁ naadukkhamasukhāya vedanāya sampayuttañca dhammaṁ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… pañca.
 
-20\. Naakusalaṃ naadukkhamasukhāya vedanāya sampayuttañca naabyākataṃ naadukkhamasukhāya vedanāya sampayuttañca dhammaṃ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  pañca.
+20\. Naakusalaṁ naadukkhamasukhāya vedanāya sampayuttañca naabyākataṁ naadukkhamasukhāya vedanāya sampayuttañca dhammaṁ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… pañca.
 
-21\. Nakusalaṃ naadukkhamasukhāya vedanāya sampayuttañca naakusalaṃ naadukkhamasukhāya vedanāya sampayuttañca dhammaṃ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+21\. Nakusalaṁ naadukkhamasukhāya vedanāya sampayuttañca naakusalaṁ naadukkhamasukhāya vedanāya sampayuttañca dhammaṁ paṭicca nakusalo naadukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
-22\. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa. (Sabbattha vitthāro.)
+22\. Hetuyā ekūnatiṁsa, ārammaṇe catuvīsa…pe… vipāke nava…pe… avigate ekūnatiṁsa. (Sabbattha vitthāro.)
 
-[Go to previous page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md) / [Go to parent page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md) / [Go to next page (2 Kusalattika, Vipākattika)](../../2.md)
-
+[Go to previous page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md) / [Go to parent page (1.3 Adukkhamasukhavedanāyasampayuttapada)](../1.3.md) / [Go to next page (2 Kusalattika, Vipākattika)](../../2.md)
 

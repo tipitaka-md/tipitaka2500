@@ -13,8 +13,7 @@
 
 * Tika
 
-761\. Ārammaṇapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+761\. Ārammaṇapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to parent page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to next page (Adhipatiduka)](../Adhipatiduka.md)
-
 

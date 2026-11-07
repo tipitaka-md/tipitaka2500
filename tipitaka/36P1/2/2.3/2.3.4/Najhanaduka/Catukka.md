@@ -13,8 +13,7 @@
 
 * Catukka
 
-658\. Najhānapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+658\. Najhānapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, kamme ekaṁ, āhāre ekaṁ, indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Najhānaduka)](../Najhanaduka.md) / [Go to parent page (Najhānaduka)](../Najhanaduka.md) / [Go to next page (Namaggaduka)](../Namaggaduka.md)
-
 

@@ -17,30 +17,29 @@
 
 (128.)
 
-226\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa hetupaccayena paccayo…  tīṇi.
+226\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa hetupaccayena paccayo… tīṇi.
 
 (129.)
 
-227\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa ārammaṇapaccayena paccayo…  nava.
+227\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa ārammaṇapaccayena paccayo… nava.
 
 (130.)
 
-228\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  nava.
+228\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati… nava.
 
 (131.)
 
-229\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa anantarapaccayena paccayo…pe…  upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…  nava…  āsevanapaccayena paccayo…  nava.
+229\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa anantarapaccayena paccayo…pe… upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo… nava… āsevanapaccayena paccayo… nava.
 
 (132.)
 
-230\. Nahetu vipākadhammadhammo nahetussa vipākadhammadhammassa kammapaccayena paccayo…  tīṇi.
+230\. Nahetu vipākadhammadhammo nahetussa vipākadhammadhammassa kammapaccayena paccayo… tīṇi.
 
-231\. Nahetu vipākadhammadhammo nahetussa vipākadhammadhammassa āhārapaccayena paccayo. (Saṃkhittaṃ.)
+231\. Nahetu vipākadhammadhammo nahetussa vipākadhammadhammassa āhārapaccayena paccayo. (Saṁkhittaṁ.)
 
 (133.)
 
-232\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṃkhittaṃ, anulomaṃ.)
+232\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṁkhittaṁ, anulomaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

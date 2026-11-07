@@ -15,14 +15,9 @@
 
 (72.)
 
-1261\. Nahetuyā tīṇi, naadhipatiyā ekādasa, napurejāte ekādasa, napacchājāte ekādasa, naāsevane ekādasa, nakamme satta, navipāke ekādasa, najhāne ekaṃ, namagge ekaṃ, navippayutte ekādasa. (Evaṃ gaṇetabbaṃ.)
+1261\. Nahetuyā tīṇi, naadhipatiyā ekādasa, napurejāte ekādasa, napacchājāte ekādasa, naāsevane ekādasa, nakamme satta, navipāke ekādasa, najhāne ekaṁ, namagge ekaṁ, navippayutte ekādasa. (Evaṁ gaṇetabbaṁ.)
 
----
+1262\. Paccanīyaṁ.
 
-1262\. Paccanīyaṃ.
-
-
-
-[Go to previous page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md) / [Go to parent page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md) / [Go to next page (10.5.3 Paccayānulomapaccanīya)](../../10.5.3.md)
-
+[Go to previous page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md) / [Go to parent page (10.5.2.2 Saṅkhyāvāra)](../10.5.2.2.md) / [Go to next page (10.5.3 Paccayānulomapaccanīya)](../../10.5.3.md)
 

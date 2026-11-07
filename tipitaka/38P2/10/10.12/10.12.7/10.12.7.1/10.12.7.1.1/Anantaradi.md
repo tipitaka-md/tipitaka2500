@@ -17,12 +17,11 @@
 
 (343.)
 
-3166\. Ajjhattiko dhammo ajjhattikassa dhammassa anantarapaccayena paccayo—  purimaṃ purimaṃ cittaṃ pacchimassa pacchimassa cittassa anantarapaccayena paccayo…  tīṇi.
+3166\. Ajjhattiko dhammo ajjhattikassa dhammassa anantarapaccayena paccayo— purimaṁ purimaṁ cittaṁ pacchimassa pacchimassa cittassa anantarapaccayena paccayo… tīṇi.
 
-3167\. Bāhiro dhammo bāhirassa dhammassa anantarapaccayena paccayo—  purimā purimā bāhirā khandhā pacchimānaṃ pacchimānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe…  tīṇi. (Tiṇṇampi ekasadisā.)
+3167\. Bāhiro dhammo bāhirassa dhammassa anantarapaccayena paccayo— purimā purimā bāhirā khandhā pacchimānaṁ pacchimānaṁ khandhānaṁ anantarapaccayena paccayo; anulomaṁ gotrabhussa…pe… tīṇi. (Tiṇṇampi ekasadisā.)
 
-3168\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa dhammassa anantarapaccayena paccayo…  tīṇi, samanantarapaccayena paccayo…  nava, sahajātapaccayena paccayo…  nava (paṭiccasadisā), aññamaññapaccayena paccayo…  pañca (paṭiccasadisā), nissayapaccayena paccayo…  nava. (Paccayavārasadisā.)
+3168\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa dhammassa anantarapaccayena paccayo… tīṇi, samanantarapaccayena paccayo… nava, sahajātapaccayena paccayo… nava (paṭiccasadisā), aññamaññapaccayena paccayo… pañca (paṭiccasadisā), nissayapaccayena paccayo… nava. (Paccayavārasadisā.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

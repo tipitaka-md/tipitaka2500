@@ -17,12 +17,11 @@
 
 (533.)
 
-1198\. Hetuṃ bahiddhārammaṇaṃ dhammaṃ paṭicca hetu bahiddhārammaṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1198\. Hetuṁ bahiddhārammaṇaṁ dhammaṁ paṭicca hetu bahiddhārammaṇo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (534.)
 
-1199\. Hetuyā nava, ārammaṇe nava…pe…  avigata nava. (Saṃkhittaṃ.)
+1199\. Hetuyā nava, ārammaṇe nava…pe… avigata nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu)](Nahetu.md)
-
 

@@ -19,30 +19,29 @@
 
 181\. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa anantarapaccayena paccayo. (1)
 
-182\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa anantarapaccayena paccayo…  tīṇi.
+182\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa anantarapaccayena paccayo… tīṇi.
 
-183\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa anantarapaccayena paccayo. Anupādinnaanupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa anantarapaccayena paccayo…pe… . (2)
+183\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa anantarapaccayena paccayo. Anupādinnaanupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa anantarapaccayena paccayo…pe… . (2)
 
 (57.)
 
 184\. Upādinnupādāniyo hetu dhammo upādinnupādāniyassa hetussa dhammassa upanissayapaccayena paccayo. Upādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa upanissayapaccayena paccayo. Upādinnupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa upanissayapaccayena paccayo. (3)
 
-185\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa upanissayapaccayena paccayo…  tīṇi.
+185\. Anupādinnupādāniyo hetu dhammo anupādinnupādāniyassa hetussa dhammassa upanissayapaccayena paccayo… tīṇi.
 
-186\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa upanissayapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+186\. Anupādinnaanupādāniyo hetu dhammo anupādinnaanupādāniyassa hetussa dhammassa upanissayapaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (58.)
 
-187\. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā cattāri, anantare cha, samanantare cha, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane dve, vipāke dve…pe…  indriye magge sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+187\. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā cattāri, anantare cha, samanantare cha, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane dve, vipāke dve…pe… indriye magge sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-188\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+188\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-189\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+189\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-190\. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
+190\. Nahetupaccayā ārammaṇe pañca. (Saṁkhittaṁ.)
 
-191\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+191\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4.2 Nahetupada)](../../../1.4.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4.2 Nahetupada)](../../../1.4.2.md)
 

@@ -17,12 +17,11 @@
 
 (436.)
 
-3422\. Upādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati adhipatipaccayā—  vatthuṃ paccayā anupādinnā khandhā. (1)
+3422\. Upādinnaṁ dhammaṁ paccayā anupādinno dhammo uppajjati adhipatipaccayā— vatthuṁ paccayā anupādinnā khandhā. (1)
 
-3423\. Anupādinnaṃ dhammaṃ paccayā anupādinno dhammo uppajjati adhipatipaccayā—  anupādinnaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+3423\. Anupādinnaṁ dhammaṁ paccayā anupādinno dhammo uppajjati adhipatipaccayā— anupādinnaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ekaṁ mahābhūtaṁ…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (1)
 
-3424\. Upādinnañca anupādinnañca dhammaṃ paccayā anupādinno dhammo uppajjati adhipatipaccayā—  anupādinnaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1) (Saṃkhittaṃ.)
+3424\. Upādinnañca anupādinnañca dhammaṁ paccayā anupādinno dhammo uppajjati adhipatipaccayā— anupādinnaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… . (1) (Saṁkhittaṁ.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.14.3.1.1 Vibhaṅgavāra)](../10.14.3.1.1.md) / [Go to next page (10.14.3.1.2 Saṅkhyāvāra)](../10.14.3.1.2.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.14.3.1.1 Vibhaṅgavāra)](../10.14.3.1.1.md) / [Go to next page (10.14.3.1.2 Saṅkhyāvāra)](../10.14.3.1.2.md)
 

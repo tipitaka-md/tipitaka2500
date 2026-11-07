@@ -11,12 +11,11 @@
 
 (90.)
 
-193\. Nasaraṇaṃ naanuttaraṃ dhammaṃ paccayā araṇo anuttaro dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.) Hetuyā ekaṃ…pe…  avigate ekaṃ.
+193\. Nasaraṇaṁ naanuttaraṁ dhammaṁ paccayā araṇo anuttaro dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.) Hetuyā ekaṁ…pe… avigate ekaṁ.
 
 (91.)
 
-194\. Nasaraṇo naanuttaro dhammo araṇassa anuttarassa dhammassa anantarapaccayena paccayo. (Saṃkhittaṃ.) Anantare ekaṃ, samanantare ekaṃ, nissaye ekaṃ, upanissaye dve, purejāte ekaṃ, āsevane ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ.
+194\. Nasaraṇo naanuttaro dhammo araṇassa anuttarassa dhammassa anantarapaccayena paccayo. (Saṁkhittaṁ.) Anantare ekaṁ, samanantare ekaṁ, nissaye ekaṁ, upanissaye dve, purejāte ekaṁ, āsevane ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, natthiyā ekaṁ, vigate ekaṁ, avigate ekaṁ.
 
-[Go to previous page (22.2 Anuttarapada)](../22.2.md) / [Go to parent page (22.2 Anuttarapada)](../22.2.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
-
+[Go to previous page (22.2 Anuttarapada)](../22.2.md) / [Go to parent page (22.2 Anuttarapada)](../22.2.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
 

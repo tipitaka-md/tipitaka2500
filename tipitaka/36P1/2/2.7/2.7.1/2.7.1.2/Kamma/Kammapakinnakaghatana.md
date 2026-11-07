@@ -17,8 +17,7 @@
 
 (338.)
 
-1064\. Kamma upanissayanti dve. Kamma anantara samanantara upanissaya natthi vigatanti ekaṃ.
+1064\. Kamma upanissayanti dve. Kamma anantara samanantara upanissaya natthi vigatanti ekaṁ.
 
 [Go to previous page (Kammasabhāga)](Kammasabhaga.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
-
 

@@ -13,11 +13,11 @@
 
 (45.)
 
-1650\. Kusalaṃ apariyāpannaṃ dhammaṃ paṭicca kusalo apariyāpanno dhammo uppajjati hetupaccayā. (1)
+1650\. Kusalaṁ apariyāpannaṁ dhammaṁ paṭicca kusalo apariyāpanno dhammo uppajjati hetupaccayā. (1)
 
-1651\. Abyākataṃ apariyāpannaṃ dhammaṃ paṭicca abyākato apariyāpanno dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1651\. Abyākataṁ apariyāpannaṁ dhammaṁ paṭicca abyākato apariyāpanno dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-1652\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1652\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ.) (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (46.)
 
@@ -29,10 +29,9 @@
 
 (47.)
 
-1656\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe…  upanissaye cattāri…pe…  avigate dve. (Saṃkhittaṃ.)
+1656\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe… upanissaye cattāri…pe… avigate dve. (Saṁkhittaṁ.)
 
-1657\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1657\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (7.12.2 Apariyāpannapada)](../7.12.2.md) / [Go to parent page (7.12.2 Apariyāpannapada)](../7.12.2.md) / [Go to next page (7.13 Kusalattika, Niyyānikaduka)](../../7.13.md)
-
+[Go to previous page (7.12.2 Apariyāpannapada)](../7.12.2.md) / [Go to parent page (7.12.2 Apariyāpannapada)](../7.12.2.md) / [Go to next page (7.13 Kusalattika, Niyyānikaduka)](../../7.13.md)
 

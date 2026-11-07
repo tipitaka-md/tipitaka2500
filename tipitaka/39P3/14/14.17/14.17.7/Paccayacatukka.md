@@ -17,12 +17,11 @@
 
 2725\. Araṇo uppanno dhammo araṇassa uppannassa dhammassa hetupaccayena paccayo. (1)
 
-2726\. Araṇo uppanno dhammo araṇassa uppannassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+2726\. Araṇo uppanno dhammo araṇassa uppannassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
 (59.)
 
-2727\. Hetuyā cattāri, ārammaṇe dve, adhipatiyā sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte dve, kamme cattāri, vipāke ekaṃ, āhāre indriye jhāne magge cattāri, sampayutte dve, vippayutte tīṇi…pe…  avigate satta. (Saṃkhittaṃ.) (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+2727\. Hetuyā cattāri, ārammaṇe dve, adhipatiyā sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte dve, kamme cattāri, vipāke ekaṁ, āhāre indriye jhāne magge cattāri, sampayutte dve, vippayutte tīṇi…pe… avigate satta. (Saṁkhittaṁ.) (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (14.17.7 Pañhāvāra)](../14.17.7.md) / [Go to parent page (14.17.7 Pañhāvāra)](../14.17.7.md) / [Go to next page (14.18 Saraṇaduka, Atītattika)](../../14.18.md)
-
+[Go to previous page (14.17.7 Pañhāvāra)](../14.17.7.md) / [Go to parent page (14.17.7 Pañhāvāra)](../14.17.7.md) / [Go to next page (14.18 Saraṇaduka, Atītattika)](../../14.18.md)
 

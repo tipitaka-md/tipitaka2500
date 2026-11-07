@@ -17,14 +17,9 @@
 
 (61.)
 
-2014\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri…pe…  vipāke ekaṃ…pe…  avigate nava.
+2014\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri…pe… vipāke ekaṁ…pe… avigate nava.
 
----
+2015\. Anulomaṁ.
 
-2015\. Anulomaṃ.
-
-
-
-[Go to previous page (8.3.3.1.2 Saṅkhyāvāra)](../8.3.3.1.2.md) / [Go to parent page (8.3.3.1.2 Saṅkhyāvāra)](../8.3.3.1.2.md) / [Go to next page (8.3.3.2 Paccayapaccanīya)](../../8.3.3.2.md)
-
+[Go to previous page (8.3.3.1.2 Saṅkhyāvāra)](../8.3.3.1.2.md) / [Go to parent page (8.3.3.1.2 Saṅkhyāvāra)](../8.3.3.1.2.md) / [Go to next page (8.3.3.2 Paccayapaccanīya)](../../8.3.3.2.md)
 

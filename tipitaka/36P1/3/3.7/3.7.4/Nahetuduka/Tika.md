@@ -13,8 +13,7 @@
 
 * Tika
 
-2027\. Nahetupaccayā naārammaṇapaccayā adhipatiyā tīṇi, anantare satta…pe…  avigate tīṇi…pe… .
+2027\. Nahetupaccayā naārammaṇapaccayā adhipatiyā tīṇi, anantare satta…pe… avigate tīṇi…pe… .
 
 [Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Chakka)](Chakka.md)
-
 

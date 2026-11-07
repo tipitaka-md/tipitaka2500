@@ -15,8 +15,7 @@
 
 (123.)
 
-456\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati upanissayapaccayā—  kusalaṃ ekaṃ khandhaṃ paccayā. (Ārammaṇapaccayasadisaṃ.)
+456\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati upanissayapaccayā— kusalaṁ ekaṁ khandhaṁ paccayā. (Ārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Nissaya)](Nissaya.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

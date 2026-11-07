@@ -15,20 +15,19 @@
 
 (61.)
 
-2182\. Vipākaṃ dhammaṃ paccayā vipāko dhammo uppajjati ārammaṇapaccayā—  vipākaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe paccayā dve khandhā; paṭisandhikkhaṇe…pe… . (1)
+2182\. Vipākaṁ dhammaṁ paccayā vipāko dhammo uppajjati ārammaṇapaccayā— vipākaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe paccayā dve khandhā; paṭisandhikkhaṇe…pe… . (1)
 
-2183\. Vipākadhammadhammaṃ paccayā vipākadhammadhammo uppajjati ārammaṇapaccayā—  vipākadhammadhammaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe paccayā dve khandhā. (1)
+2183\. Vipākadhammadhammaṁ paccayā vipākadhammadhammo uppajjati ārammaṇapaccayā— vipākadhammadhammaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe paccayā dve khandhā. (1)
 
-2184\. Nevavipākanavipākadhammadhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati ārammaṇapaccayā—  nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe paccayā dve khandhā, vatthuṃ paccayā nevavipākanavipākadhammadhammā khandhā. (1)
+2184\. Nevavipākanavipākadhammadhammaṁ paccayā nevavipākanavipākadhammadhammo uppajjati ārammaṇapaccayā— nevavipākanavipākadhammadhammaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe paccayā dve khandhā, vatthuṁ paccayā nevavipākanavipākadhammadhammā khandhā. (1)
 
-2185\. Nevavipākanavipākadhammadhammaṃ paccayā vipāko dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ, sotāyatanaṃ paccayā sotaviññāṇaṃ, ghānāyatanaṃ paccayā ghānaviññāṇaṃ, jivhāyatanaṃ paccayā jivhāviññāṇaṃ, kāyāyatanaṃ paccayā kāyaviññāṇaṃ; vatthuṃ paccayā vipākā khandhā, paṭisandhikkhaṇe vatthuṃ paccayā vipākā khandhā. (2)
+2185\. Nevavipākanavipākadhammadhammaṁ paccayā vipāko dhammo uppajjati ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ, sotāyatanaṁ paccayā sotaviññāṇaṁ, ghānāyatanaṁ paccayā ghānaviññāṇaṁ, jivhāyatanaṁ paccayā jivhāviññāṇaṁ, kāyāyatanaṁ paccayā kāyaviññāṇaṁ; vatthuṁ paccayā vipākā khandhā, paṭisandhikkhaṇe vatthuṁ paccayā vipākā khandhā. (2)
 
-2186\. Nevavipākanavipākadhammadhammaṃ paccayā vipākadhammadhammo uppajjati ārammaṇapaccayā—  vatthuṃ paccayā vipākadhammadhammā khandhā. (3)
+2186\. Nevavipākanavipākadhammadhammaṁ paccayā vipākadhammadhammo uppajjati ārammaṇapaccayā— vatthuṁ paccayā vipākadhammadhammā khandhā. (3)
 
-2187\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipāko dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca cakkhāyatanañca paccayā dve khandhā, sota…  ghāna…  jivhā…  kāya…  vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā; paṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+2187\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā vipāko dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe… dve khandhe ca cakkhāyatanañca paccayā dve khandhā, sota… ghāna… jivhā… kāya… vipākaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca vatthuñca paccayā dve khandhā; paṭisandhikkhaṇe vipākaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
-2188\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paccayā vipākadhammadhammo uppajjati ārammaṇapaccayā—  vipākadhammadhammaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca vatthuñca paccayā dve khandhā. (1)
+2188\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṁ paccayā vipākadhammadhammo uppajjati ārammaṇapaccayā— vipākadhammadhammaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca vatthuñca paccayā dve khandhā. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

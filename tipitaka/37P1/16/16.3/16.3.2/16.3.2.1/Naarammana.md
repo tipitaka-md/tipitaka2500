@@ -15,8 +15,7 @@
 
 (20.)
 
-2303\. Micchattaniyataṃ dhammaṃ paccayā aniyato dhammo uppajjati naārammaṇapaccayā—  micchattaniyate khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ. (Kusalattikasadisaṃ, pañca kātabbā.)
+2303\. Micchattaniyataṁ dhammaṁ paccayā aniyato dhammo uppajjati naārammaṇapaccayā— micchattaniyate khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ. (Kusalattikasadisaṁ, pañca kātabbā.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (16.3.2.1 Vibhaṅgavāra)](../16.3.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (16.3.2.1 Vibhaṅgavāra)](../16.3.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

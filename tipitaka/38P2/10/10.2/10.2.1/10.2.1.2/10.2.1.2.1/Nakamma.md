@@ -17,12 +17,11 @@
 
 (57.)
 
-2448\. Cittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati nakammapaccayā—  cittaṃ paṭicca sampayuttakā cetanā. (1)
+2448\. Cittaṁ dhammaṁ paṭicca nocitto dhammo uppajjati nakammapaccayā— cittaṁ paṭicca sampayuttakā cetanā. (1)
 
-2449\. Nocittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati nakammapaccayā—  nocitte khandhe paṭicca sampayuttakā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
+2449\. Nocittaṁ dhammaṁ paṭicca nocitto dhammo uppajjati nakammapaccayā— nocitte khandhe paṭicca sampayuttakā cetanā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… . (1)
 
-2450\. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati nakammapaccayā—  nocitte khandhe ca cittañca paṭicca sampayuttakā cetanā. (Saṃkhittaṃ.) (1)
+2450\. Cittañca nocittañca dhammaṁ paṭicca nocitto dhammo uppajjati nakammapaccayā— nocitte khandhe ca cittañca paṭicca sampayuttakā cetanā. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (10.2.1.2.2 Saṅkhyāvāra)](../10.2.1.2.2.md)
-
+[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (10.2.1.2.2 Saṅkhyāvāra)](../10.2.1.2.2.md)
 

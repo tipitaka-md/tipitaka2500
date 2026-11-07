@@ -17,24 +17,23 @@
 
 (1.)
 
-922\. Kusalaṃ sahetukaṃ dhammaṃ paṭicca kusalo sahetuko dhammo uppajjati hetupaccayā. (1)
+922\. Kusalaṁ sahetukaṁ dhammaṁ paṭicca kusalo sahetuko dhammo uppajjati hetupaccayā. (1)
 
-923\. Akusalaṃ sahetukaṃ dhammaṃ paṭicca akusalo sahetuko dhammo uppajjati hetupaccayā. (1)
+923\. Akusalaṁ sahetukaṁ dhammaṁ paṭicca akusalo sahetuko dhammo uppajjati hetupaccayā. (1)
 
-924\. Abyākataṃ sahetukaṃ dhammaṃ paṭicca abyākato sahetuko dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+924\. Abyākataṁ sahetukaṁ dhammaṁ paṭicca abyākato sahetuko dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (2.)
 
-925\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+925\. Hetuyā tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
 926\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
-927\. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+927\. Hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-928\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
+928\. Naadhipatipaccayā hetuyā tīṇi. (Saṁkhittaṁ.)
 
-929\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+929\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

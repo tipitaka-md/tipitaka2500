@@ -17,16 +17,11 @@
 
 (328.)
 
-1048\. Nissaya sahajāta atthi avigatanti nava. Nissaya sahajāta aññamañña atthi avigatanti tīṇi. Nissaya sahajāta aññamañña sampayutta atthi avigatanti tīṇi. Nissaya sahajāta vippayutta atthi avigatanti tīṇi. Nissaya sahajāta aññamañña vippayutta atthi avigatanti ekaṃ. [Avipāka—  5]
+1048\. Nissaya sahajāta atthi avigatanti nava. Nissaya sahajāta aññamañña atthi avigatanti tīṇi. Nissaya sahajāta aññamañña sampayutta atthi avigatanti tīṇi. Nissaya sahajāta vippayutta atthi avigatanti tīṇi. Nissaya sahajāta aññamañña vippayutta atthi avigatanti ekaṁ. [Avipāka— 5]
 
-1049\. Nissaya sahajāta vipāka atthi avigatanti ekaṃ. Nissaya sahajāta aññamañña vipāka atthi avigatanti ekaṃ. Nissaya sahajāta aññamañña vipāka sampayutta atthi avigatanti ekaṃ. Nissaya sahajāta vipāka vippayutta atthi avigatanti ekaṃ. Nissaya sahajāta aññamañña vipāka vippayutta atthi avigatanti ekaṃ. [Savipāka—  5]
+1049\. Nissaya sahajāta vipāka atthi avigatanti ekaṁ. Nissaya sahajāta aññamañña vipāka atthi avigatanti ekaṁ. Nissaya sahajāta aññamañña vipāka sampayutta atthi avigatanti ekaṁ. Nissaya sahajāta vipāka vippayutta atthi avigatanti ekaṁ. Nissaya sahajāta aññamañña vipāka vippayutta atthi avigatanti ekaṁ. [Savipāka— 5]
 
----
-
-1050\. Nissayamūlakaṃ.
-
-
+1050\. Nissayamūlakaṁ.
 
 [Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Nissaya)](../Nissaya.md) / [Go to next page (Upanissaya)](../Upanissaya.md)
-
 

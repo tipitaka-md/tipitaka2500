@@ -17,12 +17,7 @@
 
 504\. Ārammaṇapaccayā hetuyā satta, adhipatiyā satta…pe…
 
----
+505\. (Ārammaṇamūlakaṁ yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-505\. (Ārammaṇamūlakaṃ yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Bāvīsaka (savipāka))](Hetuduka/avisaka_savipaka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (Adhipatiduka)](Adhipatiduka.md)
-
+[Go to previous page (Bāvīsaka (savipāka))](Hetuduka/avisaka_savipaka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (Adhipatiduka)](Adhipatiduka.md)
 

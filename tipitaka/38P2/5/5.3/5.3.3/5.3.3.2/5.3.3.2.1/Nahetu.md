@@ -17,8 +17,7 @@
 
 (58.)
 
-1750\. Ganthavippayuttaṃ dhammaṃ paccayā ganthavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ ganthavippayuttaṃ…pe…  ahetukapaṭisandhikkhaṇe (yāva asaññasattā), cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā ganthavippayuttā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.)
+1750\. Ganthavippayuttaṁ dhammaṁ paccayā ganthavippayutto dhammo uppajjati nahetupaccayā— ahetukaṁ ganthavippayuttaṁ…pe… ahetukapaṭisandhikkhaṇe (yāva asaññasattā), cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā ganthavippayuttā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṁkhittaṁ.)
 
-[Go to previous page (5.3.3.2.1 Vibhaṅgavāra)](../5.3.3.2.1.md) / [Go to parent page (5.3.3.2.1 Vibhaṅgavāra)](../5.3.3.2.1.md) / [Go to next page (5.3.3.2.2 Saṅkhyāvāra)](../5.3.3.2.2.md)
-
+[Go to previous page (5.3.3.2.1 Vibhaṅgavāra)](../5.3.3.2.1.md) / [Go to parent page (5.3.3.2.1 Vibhaṅgavāra)](../5.3.3.2.1.md) / [Go to next page (5.3.3.2.2 Saṅkhyāvāra)](../5.3.3.2.2.md)
 

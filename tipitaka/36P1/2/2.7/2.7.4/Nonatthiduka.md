@@ -13,20 +13,11 @@
 
 (515.)
 
-1786\. Nonatthipaccayā hetuyā satta…pe…  avigate terasa.
+1786\. Nonatthipaccayā hetuyā satta…pe… avigate terasa.
 
----
+1787\. (Yathā nahetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-1787\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+1788\. Nonatthimūlakaṁ.
 
-
-
----
-
-1788\. Nonatthimūlakaṃ.
-
-
-
-[Go to previous page (Catuvīsaka (sakamma))](Noatthiduka/atuvisaka_sakamma.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Novigataduka)](Novigataduka.md)
-
+[Go to previous page (Catuvīsaka (sakamma))](Noatthiduka/atuvisaka_sakamma.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Novigataduka)](Novigataduka.md)
 

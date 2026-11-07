@@ -19,4 +19,3 @@
 
 [Go to previous page (Upanissayasabhāga)](Upanissayasabhaga.md) / [Go to parent page (Upanissaya)](../Upanissaya.md) / [Go to next page (Āsevana)](../Asevana.md)
 
-

@@ -19,6 +19,5 @@
 
 1585\. Nahetuyā tīṇi, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava.
 
-[Go to previous page (4.5.1.2.2 Saṅkhyāvāra)](../4.5.1.2.2.md) / [Go to parent page (4.5.1.2.2 Saṅkhyāvāra)](../4.5.1.2.2.md) / [Go to next page (4.5.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../4.5.1.3--4.md)
-
+[Go to previous page (4.5.1.2.2 Saṅkhyāvāra)](../4.5.1.2.2.md) / [Go to parent page (4.5.1.2.2 Saṅkhyāvāra)](../4.5.1.2.2.md) / [Go to next page (4.5.1.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../4.5.1.3--4.md)
 

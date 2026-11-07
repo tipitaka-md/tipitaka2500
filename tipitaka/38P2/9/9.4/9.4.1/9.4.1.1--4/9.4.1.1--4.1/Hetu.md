@@ -17,16 +17,15 @@
 
 (86.)
 
-2297\. Parāmāsañceva parāmaṭṭhañca dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso dhammo uppajjati hetupaccayā—  parāmāsaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (1)
+2297\. Parāmāsañceva parāmaṭṭhañca dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso dhammo uppajjati hetupaccayā— parāmāsaṁ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ. (1)
 
-2298\. Parāmaṭṭhañceva no ca parāmāsaṃ dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso dhammo uppajjati hetupaccayā—  parāmaṭṭhañceva no ca parāmāsaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva ajjhattikā mahābhūtā.) (1)
+2298\. Parāmaṭṭhañceva no ca parāmāsaṁ dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso dhammo uppajjati hetupaccayā— parāmaṭṭhañceva no ca parāmāsaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (Yāva ajjhattikā mahābhūtā.) (1)
 
-2299\. Parāmaṭṭhañceva no ca parāmāsaṃ dhammaṃ paṭicca parāmāso ceva parāmaṭṭho ca dhammo uppajjati hetupaccayā—  parāmaṭṭhe ceva no ca parāmāse khandhe paṭicca parāmāso. (2)
+2299\. Parāmaṭṭhañceva no ca parāmāsaṁ dhammaṁ paṭicca parāmāso ceva parāmaṭṭho ca dhammo uppajjati hetupaccayā— parāmaṭṭhe ceva no ca parāmāse khandhe paṭicca parāmāso. (2)
 
-2300\. Parāmaṭṭhañceva no ca parāmāsaṃ dhammaṃ paṭicca parāmāso ceva parāmaṭṭho ca parāmaṭṭho ceva no ca parāmāso ca dhammā uppajjanti hetupaccayā—  parāmaṭṭhañceva no ca parāmāsaṃ ekaṃ khandhaṃ paṭicca tayo khandhā parāmāso ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+2300\. Parāmaṭṭhañceva no ca parāmāsaṁ dhammaṁ paṭicca parāmāso ceva parāmaṭṭho ca parāmaṭṭho ceva no ca parāmāso ca dhammā uppajjanti hetupaccayā— parāmaṭṭhañceva no ca parāmāsaṁ ekaṁ khandhaṁ paṭicca tayo khandhā parāmāso ca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-2301\. Parāmāsañceva parāmaṭṭhañca parāmaṭṭhañceva no ca parāmāsañca dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso dhammo uppajjati hetupaccayā—  parāmaṭṭhañceva no ca parāmāsaṃ ekaṃ khandhañca parāmāsañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  (Saṃkhittaṃ.)
+2301\. Parāmāsañceva parāmaṭṭhañca parāmaṭṭhañceva no ca parāmāsañca dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso dhammo uppajjati hetupaccayā— parāmaṭṭhañceva no ca parāmāsaṁ ekaṁ khandhañca parāmāsañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe ca…pe… (Saṁkhittaṁ.)
 
-[Go to previous page (9.4.1.1--4.1 Vibhaṅgavāra)](../9.4.1.1--4.1.md) / [Go to parent page (9.4.1.1--4.1 Vibhaṅgavāra)](../9.4.1.1--4.1.md) / [Go to next page (9.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../../9.4.2--6.md)
-
+[Go to previous page (9.4.1.1--4.1 Vibhaṅgavāra)](../9.4.1.1--4.1.md) / [Go to parent page (9.4.1.1--4.1 Vibhaṅgavāra)](../9.4.1.1--4.1.md) / [Go to next page (9.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../../9.4.2--6.md)
 

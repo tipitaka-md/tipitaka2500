@@ -17,4 +17,3 @@
 
 [Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Noatthiduka)](../Noatthiduka.md) / [Go to next page (Catuvīsaka (sakamma))](atuvisaka_sakamma.md)
 
-

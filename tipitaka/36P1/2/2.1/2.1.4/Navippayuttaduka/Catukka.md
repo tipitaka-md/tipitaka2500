@@ -13,8 +13,7 @@
 
 * Catukka
 
-394\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+394\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, kamme ekaṁ, āhāre ekaṁ, indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md)
-
 

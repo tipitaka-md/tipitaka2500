@@ -17,8 +17,7 @@
 
 (70.)
 
-2260\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
+2260\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa sahajātapaccayena paccayo… pañca… aññamaññapaccayena paccayo… dve… nissayapaccayena paccayo… satta.
 
-[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

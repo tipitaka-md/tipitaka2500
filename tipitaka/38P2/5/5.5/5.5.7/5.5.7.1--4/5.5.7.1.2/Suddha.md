@@ -19,14 +19,9 @@
 
 1880\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge nava, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
 
-1881\. (Arūpaṃyeva paccayaṃ, ekekassa tīṇi tīṇi kātabbā. Ārammaṇañca sahajātañca upanissayañca navasupi parivattetabbaṃ. Evaṃ pañhāvārepi sabbaṃ kātabbaṃ.)
+1881\. (Arūpaṁyeva paccayaṁ, ekekassa tīṇi tīṇi kātabbā. Ārammaṇañca sahajātañca upanissayañca navasupi parivattetabbaṁ. Evaṁ pañhāvārepi sabbaṁ kātabbaṁ.)
 
----
+1882\. Ganthaganthasampayuttadukaṁ niṭṭhitaṁ.
 
-1882\. Ganthaganthasampayuttadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (5.5.7.1.2 Saṅkhyāvāra)](../5.5.7.1.2.md) / [Go to parent page (5.5.7.1.2 Saṅkhyāvāra)](../5.5.7.1.2.md) / [Go to next page (5.6 Ganthavippayuttaganthaniyaduka)](../../../../5.6.md)
-
+[Go to previous page (5.5.7.1.2 Saṅkhyāvāra)](../5.5.7.1.2.md) / [Go to parent page (5.5.7.1.2 Saṅkhyāvāra)](../5.5.7.1.2.md) / [Go to next page (5.6 Ganthavippayuttaganthaniyaduka)](../../../../5.6.md)
 

@@ -15,8 +15,7 @@
 
 (44.)
 
-2367\. Micchattaniyato dhammo aniyatassa dhammassa samanantarapaccayena paccayo (anantarasadisaṃ)…  sahajātapaccayena paccayo (paṭiccavārasadisaṃ, nava pañhā)…  aññamaññapaccayena paccayo (paṭiccavārasadisaṃ, tisso pañhā)…  nissayapaccayena paccayo. (Kusalattikasadisā, terasa pañhā.)
+2367\. Micchattaniyato dhammo aniyatassa dhammassa samanantarapaccayena paccayo (anantarasadisaṁ)… sahajātapaccayena paccayo (paṭiccavārasadisaṁ, nava pañhā)… aññamaññapaccayena paccayo (paṭiccavārasadisaṁ, tisso pañhā)… nissayapaccayena paccayo. (Kusalattikasadisā, terasa pañhā.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

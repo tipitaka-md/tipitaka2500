@@ -13,14 +13,9 @@
 
 * Bāvīsaka
 
-1752\. Naāhārapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā…pe…  nakammapaccayā navipākapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+1752\. Naāhārapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā…pe… nakammapaccayā navipākapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
----
-
-1753\. Naāhāramūlakaṃ.
-
-
+1753\. Naāhāramūlakaṁ.
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Naāhāraduka)](../Naaharaduka.md) / [Go to next page (Naindriyaduka)](../Naindriyaduka.md)
-
 

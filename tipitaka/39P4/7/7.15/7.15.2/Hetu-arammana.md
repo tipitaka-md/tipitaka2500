@@ -13,13 +13,13 @@
 
 (57.)
 
-1683\. Kusalaṃ anuttaraṃ dhammaṃ paṭicca kusalo anuttaro dhammo uppajjati hetupaccayā. (1)
+1683\. Kusalaṁ anuttaraṁ dhammaṁ paṭicca kusalo anuttaro dhammo uppajjati hetupaccayā. (1)
 
-1684\. Abyākataṃ anuttaraṃ dhammaṃ paṭicca abyākato anuttaro dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1684\. Abyākataṁ anuttaraṁ dhammaṁ paṭicca abyākato anuttaro dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-1685\. Hetuyā dve, ārammaṇe dve…pe…  vipāke ekaṃ, avigate dve. (Saṃkhittaṃ.)
+1685\. Hetuyā dve, ārammaṇe dve…pe… vipāke ekaṁ, avigate dve. (Saṁkhittaṁ.)
 
-1686\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1686\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (58.)
 
@@ -29,14 +29,13 @@
 
 1689\. Abyākato anuttaro dhammo abyākatassa anuttarassa dhammassa ārammaṇapaccayena paccayo. (1)
 
-1690\. Abyākato anuttaro dhammo kusalassa anuttarassa dhammassa ārammaṇapaccayena paccayo. (1) (Saṃkhittaṃ.)
+1690\. Abyākato anuttaro dhammo kusalassa anuttarassa dhammassa ārammaṇapaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (59.)
 
-1691\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1691\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1692\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1692\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (7.15.2 Anuttarapada)](../7.15.2.md) / [Go to parent page (7.15.2 Anuttarapada)](../7.15.2.md) / [Go to next page (7.16 Kusalattika, Saraṇaduka)](../../7.16.md)
-
+[Go to previous page (7.15.2 Anuttarapada)](../7.15.2.md) / [Go to parent page (7.15.2 Anuttarapada)](../7.15.2.md) / [Go to next page (7.16 Kusalattika, Saraṇaduka)](../../7.16.md)
 

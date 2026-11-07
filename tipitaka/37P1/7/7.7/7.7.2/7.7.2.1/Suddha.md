@@ -15,16 +15,11 @@
 
 (145.)
 
-630\. Nahetuyā pañcatiṃsa, naārammaṇe pañcatiṃsa, naadhipatiyā pañcatiṃsa, naanantare pañcatiṃsa, nasamanantare pañcatiṃsa, nasahajāte ekūnatiṃsa, naaññamaññe ekūnatiṃsa, nanissaye ekūnatiṃsa, naupanissaye catuttiṃsa, napurejāte pañcatiṃsa, napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge pañcatiṃsa, nasampayutte ekūnatiṃsa, navippayutte sattavīsa, noatthiyā sattavīsa, nonatthiyā pañcatiṃsa, novigate pañcatiṃsa, noavigate sattavīsa.
+630\. Nahetuyā pañcatiṁsa, naārammaṇe pañcatiṁsa, naadhipatiyā pañcatiṁsa, naanantare pañcatiṁsa, nasamanantare pañcatiṁsa, nasahajāte ekūnatiṁsa, naaññamaññe ekūnatiṁsa, nanissaye ekūnatiṁsa, naupanissaye catuttiṁsa, napurejāte pañcatiṁsa, napacchājāte naāsevane nakamme navipāke naāhāre naindriye najhāne namagge pañcatiṁsa, nasampayutte ekūnatiṁsa, navippayutte sattavīsa, noatthiyā sattavīsa, nonatthiyā pañcatiṁsa, novigate pañcatiṁsa, noavigate sattavīsa.
 
-631\. (Paccanīyaṃ gaṇentena imāni padāni anumajjantena gaṇetabbāni.)
+631\. (Paccanīyaṁ gaṇentena imāni padāni anumajjantena gaṇetabbāni.)
 
----
+632\. Paccanīyaṁ.
 
-632\. Paccanīyaṃ.
-
-
-
-[Go to previous page (7.7.2.1 Saṅkhyāvāra)](../7.7.2.1.md) / [Go to parent page (7.7.2.1 Saṅkhyāvāra)](../7.7.2.1.md) / [Go to next page (7.7.3 Paccayānulomapaccanīya)](../../7.7.3.md)
-
+[Go to previous page (7.7.2.1 Saṅkhyāvāra)](../7.7.2.1.md) / [Go to parent page (7.7.2.1 Saṅkhyāvāra)](../7.7.2.1.md) / [Go to next page (7.7.3 Paccayānulomapaccanīya)](../../7.7.3.md)
 

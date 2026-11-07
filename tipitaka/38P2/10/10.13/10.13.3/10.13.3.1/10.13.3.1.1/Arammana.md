@@ -17,12 +17,11 @@
 
 (387.)
 
-3289\. Upādā dhammaṃ paccayā noupādā dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā noupādā khandhā; paṭisandhikkhaṇe…pe… . (1)
+3289\. Upādā dhammaṁ paccayā noupādā dhammo uppajjati ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā noupādā khandhā; paṭisandhikkhaṇe…pe… . (1)
 
-3290\. Noupādā dhammaṃ paccayā noupādā dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Paṭiccasadisaṃ.) (1)
+3290\. Noupādā dhammaṁ paccayā noupādā dhammo uppajjati ārammaṇapaccayā… ekaṁ. (Paṭiccasadisaṁ.) (1)
 
-3291\. Upādā dhammañca noupādā dhammañca dhammaṃ paccayā noupādā dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  kāyaviññāṇasahagataṃ…pe…  noupādā ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.) (1)
+3291\. Upādā dhammañca noupādā dhammañca dhammaṁ paccayā noupādā dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe… dve khandhe ca…pe… kāyaviññāṇasahagataṁ…pe… noupādā ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… paṭisandhikkhaṇe…pe… (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.13.3.1.1 Vibhaṅgavāra)](../10.13.3.1.1.md) / [Go to next page (10.13.3.1.2 Saṅkhyāvāra)](../10.13.3.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.13.3.1.1 Vibhaṅgavāra)](../10.13.3.1.1.md) / [Go to next page (10.13.3.1.2 Saṅkhyāvāra)](../10.13.3.1.2.md)
 

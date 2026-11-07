@@ -15,48 +15,47 @@
 
 (1.)
 
-1959\. Noparāmāsaṃ kusalaṃ dhammaṃ paṭicca noparāmāso kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1959\. Noparāmāsaṁ kusalaṁ dhammaṁ paṭicca noparāmāso kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (2.)
 
-1960\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1960\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1961\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1961\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (3.)
 
-1962\. Parāmāsaṃ akusalaṃ dhammaṃ paṭicca noparāmāso akusalo dhammo uppajjati hetupaccayā. (1)
+1962\. Parāmāsaṁ akusalaṁ dhammaṁ paṭicca noparāmāso akusalo dhammo uppajjati hetupaccayā. (1)
 
-1963\. Noparāmāsaṃ akusalaṃ dhammaṃ paṭicca noparāmāso akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+1963\. Noparāmāsaṁ akusalaṁ dhammaṁ paṭicca noparāmāso akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-1964\. Parāmāsaṃ akusalañca noparāmāsaṃ akusalañca dhammaṃ paṭicca noparāmāso akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1964\. Parāmāsaṁ akusalañca noparāmāsaṁ akusalañca dhammaṁ paṭicca noparāmāso akusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (4.)
 
-1965\. Hetuyā pañca, ārammaṇe pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+1965\. Hetuyā pañca, ārammaṇe pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-1966\. Nahetuyā ekaṃ, naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca…pe…  nakamme tīṇi…pe…  navippayutte pañca. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+1966\. Nahetuyā ekaṁ, naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca…pe… nakamme tīṇi…pe… navippayutte pañca. (Saṁkhittaṁ.) (Sahajātavārampi…pe… sampayuttavārampi vitthāretabbaṁ.)
 
 (5.)
 
-1967\. Noparāmāso akusalo dhammo noparāmāsassa akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1967\. Noparāmāso akusalo dhammo noparāmāsassa akusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (6.)
 
-1968\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  sahajāte aññamaññe nissaye pañca, upanissaye āsevane nava, kamme āhāre indriye jhāne tīṇi, magge sampayutte pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+1968\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe… sahajāte aññamaññe nissaye pañca, upanissaye āsevane nava, kamme āhāre indriye jhāne tīṇi, magge sampayutte pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-1969\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1969\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
 (7.)
 
-1970\. Noparāmāsaṃ abyākataṃ dhammaṃ paṭicca noparāmāso abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1970\. Noparāmāsaṁ abyākataṁ dhammaṁ paṭicca noparāmāso abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (8.)
 
-1971\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1971\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1972\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1972\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (9.2 Parāmaṭṭhaduka, Kusalattika)](../../../9.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (9.2 Parāmaṭṭhaduka, Kusalattika)](../../../9.2.md)
 

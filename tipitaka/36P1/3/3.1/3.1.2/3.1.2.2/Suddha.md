@@ -17,6 +17,5 @@
 
 1834\. Nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte dve.
 
-[Go to previous page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Nahetuduka)](Nahetuduka.md)
-
+[Go to previous page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Nahetuduka)](Nahetuduka.md)
 

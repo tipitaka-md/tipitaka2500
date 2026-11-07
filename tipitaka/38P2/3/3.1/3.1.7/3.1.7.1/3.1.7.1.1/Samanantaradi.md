@@ -17,8 +17,7 @@
 
 (25.)
 
-1037\. Āsavo dhammo āsavassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava…  nissayapaccayena paccayo…  nava. (Vatthu ca dassetabbaṃ.)
+1037\. Āsavo dhammo āsavassa dhammassa samanantarapaccayena paccayo… sahajātapaccayena paccayo… nava… aññamaññapaccayena paccayo… nava… nissayapaccayena paccayo… nava. (Vatthu ca dassetabbaṁ.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../3.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../3.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

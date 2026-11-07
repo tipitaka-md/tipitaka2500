@@ -8,6 +8,5 @@
 * [Anantarādi](Paccayacatukka/Anantaradi.md)
 * [Āhārādi](Paccayacatukka/Aharadi.md)
 
-[Go to previous page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to parent page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
-
+[Go to previous page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to parent page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
 

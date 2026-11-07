@@ -17,12 +17,11 @@
 
 (29.)
 
-3597\. Upādāno dhammo noupādānassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+3597\. Upādāno dhammo noupādānassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) (1)
 
-3598\. Noupādāno dhammo noupādānassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+3598\. Noupādāno dhammo noupādānassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) (1)
 
-3599\. Upādāno ca noupādāno ca dhammā noupādānassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1) …  Āsevanapaccayena paccayo.
+3599\. Upādāno ca noupādāno ca dhammā noupādānassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) (1) … Āsevanapaccayena paccayo.
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

@@ -13,17 +13,9 @@
 
 * Ekavīsaka
 
-400\. Novigatapaccayā nahetupaccayā…pe…  nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā sahajāte ekaṃ, nissaye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+400\. Novigatapaccayā nahetupaccayā…pe… nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā sahajāte ekaṁ, nissaye ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
----
+401\. Paccanīyānulomaṁ. Paṭiccavāro.
 
-401\. Paccanīyānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (Pannarasaka)](Pannarasaka.md) / [Go to parent page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to next page (2.2 Sahajātavāra)](../../../2.2.md)
-
+[Go to previous page (Pannarasaka)](Pannarasaka.md) / [Go to parent page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to next page (2.2 Sahajātavāra)](../../../2.2.md)
 

@@ -17,20 +17,19 @@
 
 (196.)
 
-2796\. Cittasamuṭṭhānaṃ dhammaṃ paṭicca cittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittasamuṭṭhāne khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittasamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ, upādārūpaṃ. (1)
+2796\. Cittasamuṭṭhānaṁ dhammaṁ paṭicca cittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— cittasamuṭṭhāne khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ, cittasamuṭṭhānaṁ ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ, upādārūpaṁ. (1)
 
-2797\. Cittasamuṭṭhānaṃ dhammaṃ paṭicca nocittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  paṭisandhikkhaṇe cittasamuṭṭhāne khandhe paṭicca kaṭattārūpaṃ. (2)
+2797\. Cittasamuṭṭhānaṁ dhammaṁ paṭicca nocittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— paṭisandhikkhaṇe cittasamuṭṭhāne khandhe paṭicca kaṭattārūpaṁ. (2)
 
 (197.)
 
-2798\. Nocittasamuṭṭhānaṃ dhammaṃ paṭicca nocittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  paṭisandhikkhaṇe cittaṃ paṭicca kaṭattārūpaṃ, cittaṃ paṭicca vatthu, ekaṃ mahābhūtaṃ…pe… . (Yāva asaññasattā.) (1)
+2798\. Nocittasamuṭṭhānaṁ dhammaṁ paṭicca nocittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— paṭisandhikkhaṇe cittaṁ paṭicca kaṭattārūpaṁ, cittaṁ paṭicca vatthu, ekaṁ mahābhūtaṁ…pe… . (Yāva asaññasattā.) (1)
 
-2799\. Nocittasamuṭṭhānaṃ dhammaṃ paṭicca cittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2799\. Nocittasamuṭṭhānaṁ dhammaṁ paṭicca cittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— cittaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2800\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca cittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2800\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṁ paṭicca cittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— cittasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṁ rūpaṁ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-2801\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṃ paṭicca nocittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  paṭisandhikkhaṇe cittasamuṭṭhāne khandhe ca cittañca paṭicca kaṭattārūpaṃ; paṭisandhikkhaṇe cittasamuṭṭhāne khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (Saṃkhittaṃ.) (2)
+2801\. Cittasamuṭṭhānañca nocittasamuṭṭhānañca dhammaṁ paṭicca nocittasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— paṭisandhikkhaṇe cittasamuṭṭhāne khandhe ca cittañca paṭicca kaṭattārūpaṁ; paṭisandhikkhaṇe cittasamuṭṭhāne khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (Saṁkhittaṁ.) (2)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.6.1.2.1 Vibhaṅgavāra)](../10.6.1.2.1.md) / [Go to next page (10.6.1.2.2 Saṅkhyāvāra)](../10.6.1.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.6.1.2.1 Vibhaṅgavāra)](../10.6.1.2.1.md) / [Go to next page (10.6.1.2.2 Saṅkhyāvāra)](../10.6.1.2.2.md)
 

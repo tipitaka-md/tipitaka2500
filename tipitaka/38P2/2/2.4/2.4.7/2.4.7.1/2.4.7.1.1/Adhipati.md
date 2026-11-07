@@ -17,14 +17,13 @@
 
 (70.)
 
-702\. Sappaṭigho dhammo appaṭighassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  cakkhuṃ…pe…  phoṭṭhabbe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
+702\. Sappaṭigho dhammo appaṭighassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— cakkhuṁ…pe… phoṭṭhabbe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
 
-703\. Appaṭigho dhammo appaṭighassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; vatthuṃ…pe…  itthindriyaṃ…  purisindriyaṃ…  jīvitindriyaṃ…  āpodhātuṃ, kabaḷīkāraṃ āhāraṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  appaṭighādhipati sampayuttakānaṃ khandhānaṃ appaṭighānañca cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (1)
+703\. Appaṭigho dhammo appaṭighassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni garuṁ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti, phalaṁ garuṁ katvā paccavekkhanti, nibbānaṁ garuṁ katvā paccavekkhanti; nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; vatthuṁ…pe… itthindriyaṁ… purisindriyaṁ… jīvitindriyaṁ… āpodhātuṁ, kabaḷīkāraṁ āhāraṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— appaṭighādhipati sampayuttakānaṁ khandhānaṁ appaṭighānañca cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (1)
 
-704\. Appaṭigho dhammo sappaṭighassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appaṭighādhipati sappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+704\. Appaṭigho dhammo sappaṭighassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— appaṭighādhipati sappaṭighānaṁ cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-705\. Appaṭigho dhammo sappaṭighassa ca appaṭighassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  appaṭighādhipati sampayuttakānaṃ khandhānaṃ sappaṭighānañca appaṭighānañca cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
+705\. Appaṭigho dhammo sappaṭighassa ca appaṭighassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— appaṭighādhipati sampayuttakānaṁ khandhānaṁ sappaṭighānañca appaṭighānañca cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

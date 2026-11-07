@@ -15,8 +15,7 @@
 
 583\. Ārammaṇapaccayā hetupaccayā naadhipatiyā satta, napurejāte tīṇi, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, navippayutte tīṇi.
 
-584\. (Yathā hetumūlakaṃ, evaṃ gaṇetabbaṃ.)
+584\. (Yathā hetumūlakaṁ, evaṁ gaṇetabbaṁ.)
 
 [Go to previous page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to parent page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to next page (Adhipatiduka)](../Adhipatiduka.md)
-
 

@@ -15,8 +15,7 @@
 
 (11.)
 
-2644\. Atīto dhammo paccuppannassa dhammassa āsevanapaccayena paccayo—  purimā purimā atītā khandhā pacchimānaṃ pacchimānaṃ paccuppannānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+2644\. Atīto dhammo paccuppannassa dhammassa āsevanapaccayena paccayo— purimā purimā atītā khandhā pacchimānaṁ pacchimānaṁ paccuppannānaṁ khandhānaṁ āsevanapaccayena paccayo. Anulomaṁ gotrabhussa… anulomaṁ vodānassa… gotrabhu maggassa… vodānaṁ maggassa āsevanapaccayena paccayo. (1)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

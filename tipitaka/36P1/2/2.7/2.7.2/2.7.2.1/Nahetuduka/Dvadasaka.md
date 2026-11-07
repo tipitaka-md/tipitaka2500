@@ -15,8 +15,7 @@
 
 * Dvādasaka
 
-1183\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā…pe…  napurejātapaccayā napacchājātapaccayā naāsevane tīṇi, nakamme ekaṃ, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve…pe… .
+1183\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā…pe… napurejātapaccayā napacchājātapaccayā naāsevane tīṇi, nakamme ekaṁ, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve…pe… .
 
 [Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Cuddasaka)](Cuddasaka.md)
-
 

@@ -15,12 +15,11 @@
 
 (59.)
 
-1604\. Ācayagāmī dhammo ācayagāmissa dhammassa āsevanapaccayena paccayo—  purimā purimā ācayagāmī khandhā pacchimānaṃ pacchimānaṃ ācayagāmīnaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa āsevanapaccayena paccayo. (1)
+1604\. Ācayagāmī dhammo ācayagāmissa dhammassa āsevanapaccayena paccayo— purimā purimā ācayagāmī khandhā pacchimānaṁ pacchimānaṁ ācayagāmīnaṁ khandhānaṁ āsevanapaccayena paccayo. Anulomaṁ gotrabhussa… anulomaṁ vodānassa āsevanapaccayena paccayo. (1)
 
-1605\. Ācayagāmī dhammo apacayagāmissa dhammassa āsevanapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (2)
+1605\. Ācayagāmī dhammo apacayagāmissa dhammassa āsevanapaccayena paccayo— gotrabhu maggassa… vodānaṁ maggassa āsevanapaccayena paccayo. (2)
 
-1606\. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa āsevanapaccayena paccayo—  purimā purimā nevācayagāmināpacayagāmī khandhā pacchimānaṃ pacchimānaṃ nevācayagāmināpacayagāmīnaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+1606\. Nevācayagāmināpacayagāmī dhammo nevācayagāmināpacayagāmissa dhammassa āsevanapaccayena paccayo— purimā purimā nevācayagāmināpacayagāmī khandhā pacchimānaṁ pacchimānaṁ nevācayagāmināpacayagāmīnaṁ khandhānaṁ āsevanapaccayena paccayo. (1)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../11.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (11.7.1.1 Vibhaṅgavāra)](../11.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

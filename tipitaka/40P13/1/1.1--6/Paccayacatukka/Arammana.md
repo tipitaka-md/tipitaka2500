@@ -13,14 +13,13 @@
 
 (5.)
 
-7\. Kusalaṃ dhammaṃ paṭicca naakusalo dhammo uppajjati ārammaṇapaccayā. Kusalaṃ dhammaṃ paṭicca naabyākato dhammo uppajjati ārammaṇapaccayā. Kusalaṃ dhammaṃ paṭicca naakusalo ca naabyākato ca dhammā uppajjanti ārammaṇapaccayā. (3)
+7\. Kusalaṁ dhammaṁ paṭicca naakusalo dhammo uppajjati ārammaṇapaccayā. Kusalaṁ dhammaṁ paṭicca naabyākato dhammo uppajjati ārammaṇapaccayā. Kusalaṁ dhammaṁ paṭicca naakusalo ca naabyākato ca dhammā uppajjanti ārammaṇapaccayā. (3)
 
-8\. Akusalaṃ dhammaṃ paṭicca nakusalo dhammo uppajjati ārammaṇapaccayā. Akusalaṃ dhammaṃ paṭicca naabyākato dhammo uppajjati ārammaṇapaccayā. Akusalaṃ dhammaṃ paṭicca nakusalo ca naabyākato ca dhammā uppajjanti ārammaṇapaccayā. (3)
+8\. Akusalaṁ dhammaṁ paṭicca nakusalo dhammo uppajjati ārammaṇapaccayā. Akusalaṁ dhammaṁ paṭicca naabyākato dhammo uppajjati ārammaṇapaccayā. Akusalaṁ dhammaṁ paṭicca nakusalo ca naabyākato ca dhammā uppajjanti ārammaṇapaccayā. (3)
 
-9\. Abyākataṃ dhammaṃ paṭicca nakusalo dhammo uppajjati ārammaṇapaccayā. Abyākataṃ dhammaṃ paṭicca naakusalo dhammo uppajjati ārammaṇapaccayā. Abyākataṃ dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti ārammaṇapaccayā. (3) (Saṃkhittaṃ.)
+9\. Abyākataṁ dhammaṁ paṭicca nakusalo dhammo uppajjati ārammaṇapaccayā. Abyākataṁ dhammaṁ paṭicca naakusalo dhammo uppajjati ārammaṇapaccayā. Abyākataṁ dhammaṁ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti ārammaṇapaccayā. (3) (Saṁkhittaṁ.)
 
-10\. Hetuyā ekūnavīsa, ārammaṇe nava, adhipatiyā ekūnavīsa, anantare nava, samanantare nava, sahajāte ekūnavīsa…pe…  vipāke tīṇi…pe…  avigate ekūnavīsa.
+10\. Hetuyā ekūnavīsa, ārammaṇe nava, adhipatiyā ekūnavīsa, anantare nava, samanantare nava, sahajāte ekūnavīsa…pe… vipāke tīṇi…pe… avigate ekūnavīsa.
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
-
 

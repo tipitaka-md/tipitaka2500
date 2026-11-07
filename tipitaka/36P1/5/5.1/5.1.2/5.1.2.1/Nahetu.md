@@ -15,16 +15,15 @@
 
 (13.)
 
-2475\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetukaṃ upādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, dve khandhe paṭicca dve khandhā, ahetukapaṭisandhikkhaṇe upādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṃ; khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ; asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+2475\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati nahetupaccayā— ahetukaṁ upādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, dve khandhe paṭicca dve khandhā, ahetukapaṭisandhikkhaṇe upādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṁ; khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ; asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-2476\. Upādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetuke upādinnupādāniye khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2476\. Upādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā— ahetuke upādinnupādāniye khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2477\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo ca anupādinnupādāniyo ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ upādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+2477\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo ca anupādinnupādāniyo ca dhammā uppajjanti nahetupaccayā— ahetukaṁ upādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
-2478\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetukaṃ anupādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. Anupādinnupādāniyaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca upādārūpaṃ. Vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2478\. Anupādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā— ahetukaṁ anupādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. Anupādinnupādāniyaṁ ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. Bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca upādārūpaṁ. Vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-2479\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetuke upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2479\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati nahetupaccayā— ahetuke upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

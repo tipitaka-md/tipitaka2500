@@ -27,20 +27,19 @@
 
 621\. Mahaggatārammaṇo hetu dhammo mahaggatārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. Mahaggatārammaṇo hetu dhammo parittārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. (2)
 
-622\. Appamāṇārammaṇo hetu dhammo appamāṇārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. Appamāṇārammaṇo hetu dhammo parittārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. Appamāṇārammaṇo hetu dhammo mahaggatārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. (3) (Saṃkhittaṃ.)
+622\. Appamāṇārammaṇo hetu dhammo appamāṇārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. Appamāṇārammaṇo hetu dhammo parittārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. Appamāṇārammaṇo hetu dhammo mahaggatārammaṇassa hetussa dhammassa ārammaṇapaccayena paccayo. (3) (Saṁkhittaṁ.)
 
 (169.)
 
-623\. Hetuyā tīṇi, ārammaṇe satta, adhipatiyā satta, anantare nava, samanantare nava, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane pañca, vipāke tīṇi, indriye magge sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+623\. Hetuyā tīṇi, ārammaṇe satta, adhipatiyā satta, anantare nava, samanantare nava, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane pañca, vipāke tīṇi, indriye magge sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-624\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+624\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-625\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+625\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-626\. Nahetupaccayā ārammaṇe satta. (Saṃkhittaṃ.)
+626\. Nahetupaccayā ārammaṇe satta. (Saṁkhittaṁ.)
 
-627\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+627\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.13.2 Nahetupada)](../../../1.13.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.13.2 Nahetupada)](../../../1.13.2.md)
 

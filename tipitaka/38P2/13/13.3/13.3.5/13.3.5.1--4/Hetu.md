@@ -15,14 +15,13 @@
 
 (64.)
 
-4207\. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
+4207\. Dassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā— dassanena pahātabbahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… . (1)
 
-4208\. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nadassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  nadassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+4208\. Nadassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho nadassanena pahātabbahetuko dhammo uppajjati hetupaccayā— nadassanena pahātabbahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-4209\. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ mohaṃ saṃsaṭṭhā sampayuttakā khandhā. (2)
+4209\. Nadassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā— vicikicchāsahagataṁ mohaṁ saṁsaṭṭhā sampayuttakā khandhā. (2)
 
-4210\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+4210\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā— vicikicchāsahagataṁ ekaṁ khandhañca mohañca saṁsaṭṭhā tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-[Go to previous page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

@@ -17,10 +17,9 @@
 
 (75.)
 
-2048\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato dukkhato anattato vipassati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu nīvaraṇavippayuttānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+2048\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato dukkhato anattato vipassati. Dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… . Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu nīvaraṇavippayuttānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-2049\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo…  doso…  moho… . **Vatthupurejātaṃ**—  vatthu nīvaraṇasampayuttānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+2049\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ assādeti abhinandati, taṁ ārabbha rāgo… doso… moho… . Vatthupurejātaṁ— vatthu nīvaraṇasampayuttānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
 

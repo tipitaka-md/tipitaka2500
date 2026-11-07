@@ -15,14 +15,9 @@
 
 (6.)
 
-1671\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane dve, kamme nava, vipāke āhāre indriye jhāne magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Evaṃ gaṇetabbaṃ.)
+1671\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane dve, kamme nava, vipāke āhāre indriye jhāne magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+1672\. Anulomaṁ.
 
-1672\. Anulomaṃ.
-
-
-
-[Go to previous page (12.1.1.2 Saṅkhyāvāra)](../12.1.1.2.md) / [Go to parent page (12.1.1.2 Saṅkhyāvāra)](../12.1.1.2.md) / [Go to next page (12.1.2 Paccayapaccanīya)](../../12.1.2.md)
-
+[Go to previous page (12.1.1.2 Saṅkhyāvāra)](../12.1.1.2.md) / [Go to parent page (12.1.1.2 Saṅkhyāvāra)](../12.1.1.2.md) / [Go to next page (12.1.2 Paccayapaccanīya)](../../12.1.2.md)
 

@@ -17,24 +17,23 @@
 
 (146.)
 
-517\. Sekkhaṃ hetuṃ dhammaṃ paṭicca sekkho hetu dhammo uppajjati hetupaccayā. (1)
+517\. Sekkhaṁ hetuṁ dhammaṁ paṭicca sekkho hetu dhammo uppajjati hetupaccayā. (1)
 
-518\. Asekkhaṃ hetuṃ dhammaṃ paṭicca asekkho hetu dhammo uppajjati hetupaccayā. (1)
+518\. Asekkhaṁ hetuṁ dhammaṁ paṭicca asekkho hetu dhammo uppajjati hetupaccayā. (1)
 
-519\. Nevasekkhanāsekkhaṃ hetuṃ dhammaṃ paṭicca nevasekkhanāsekkho hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+519\. Nevasekkhanāsekkhaṁ hetuṁ dhammaṁ paṭicca nevasekkhanāsekkho hetu dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (147.)
 
-520\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  āsevane dve…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+520\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi…pe… āsevane dve…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-521\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke dve, navippayutte tīṇi. (Saṃkhittaṃ.)
+521\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke dve, navippayutte tīṇi. (Saṁkhittaṁ.)
 
-522\. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+522\. Hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-523\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
+523\. Naadhipatipaccayā hetuyā tīṇi. (Saṁkhittaṁ.)
 
-524\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+524\. (Sahajātavārampi…pe… sampayuttavārampi vitthāretabbaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
-
 

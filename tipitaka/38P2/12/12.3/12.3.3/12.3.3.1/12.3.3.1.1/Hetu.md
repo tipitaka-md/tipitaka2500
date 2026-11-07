@@ -17,22 +17,21 @@
 
 (44.)
 
-3928\. Saṃkiliṭṭhaṃ dhammaṃ paccayā saṃkiliṭṭho dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccasadisaṃ.)
+3928\. Saṁkiliṭṭhaṁ dhammaṁ paccayā saṁkiliṭṭho dhammo uppajjati hetupaccayā… tīṇi. (Paṭiccasadisaṁ.)
 
-3929\. Asaṃkiliṭṭhaṃ dhammaṃ paccayā asaṃkiliṭṭho dhammo uppajjati hetupaccayā—  asaṃkiliṭṭhaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  (yāva ajjhattikā mahābhūtā) vatthuṃ paccayā asaṃkiliṭṭhā khandhā. (1)
+3929\. Asaṁkiliṭṭhaṁ dhammaṁ paccayā asaṁkiliṭṭho dhammo uppajjati hetupaccayā— asaṁkiliṭṭhaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… (yāva ajjhattikā mahābhūtā) vatthuṁ paccayā asaṁkiliṭṭhā khandhā. (1)
 
-3930\. Asaṃkiliṭṭhaṃ dhammaṃ paccayā saṃkiliṭṭho dhammo uppajjati hetupaccayā—  vatthuṃ paccayā saṃkiliṭṭhā khandhā. (2)
+3930\. Asaṁkiliṭṭhaṁ dhammaṁ paccayā saṁkiliṭṭho dhammo uppajjati hetupaccayā— vatthuṁ paccayā saṁkiliṭṭhā khandhā. (2)
 
-3931\. Asaṃkiliṭṭhaṃ dhammaṃ paccayā saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā saṃkiliṭṭhā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
+3931\. Asaṁkiliṭṭhaṁ dhammaṁ paccayā saṁkiliṭṭho ca asaṁkiliṭṭho ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā saṁkiliṭṭhā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ. (3)
 
 (45.)
 
-3932\. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā saṃkiliṭṭho dhammo uppajjati hetupaccayā—  saṃkiliṭṭhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+3932\. Saṁkiliṭṭhañca asaṁkiliṭṭhañca dhammaṁ paccayā saṁkiliṭṭho dhammo uppajjati hetupaccayā— saṁkiliṭṭhaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-3933\. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā asaṃkiliṭṭho dhammo uppajjati hetupaccayā—  saṃkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
+3933\. Saṁkiliṭṭhañca asaṁkiliṭṭhañca dhammaṁ paccayā asaṁkiliṭṭho dhammo uppajjati hetupaccayā— saṁkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-3934\. Saṃkiliṭṭhañca asaṃkiliṭṭhañca dhammaṃ paccayā saṃkiliṭṭho ca asaṃkiliṭṭho ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  saṃkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
+3934\. Saṁkiliṭṭhañca asaṁkiliṭṭhañca dhammaṁ paccayā saṁkiliṭṭho ca asaṁkiliṭṭho ca dhammā uppajjanti hetupaccayā— saṁkiliṭṭhaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… saṁkiliṭṭhe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.) (3)
 
-[Go to previous page (12.3.3.1.1 Vibhaṅgavāra)](../12.3.3.1.1.md) / [Go to parent page (12.3.3.1.1 Vibhaṅgavāra)](../12.3.3.1.1.md) / [Go to next page (12.3.3.1.2 Saṅkhyāvāra)](../12.3.3.1.2.md)
-
+[Go to previous page (12.3.3.1.1 Vibhaṅgavāra)](../12.3.3.1.1.md) / [Go to parent page (12.3.3.1.1 Vibhaṅgavāra)](../12.3.3.1.1.md) / [Go to next page (12.3.3.1.2 Saṅkhyāvāra)](../12.3.3.1.2.md)
 

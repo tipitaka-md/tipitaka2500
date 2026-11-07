@@ -13,34 +13,33 @@
 
 (25.)
 
-68\. Akusalaṃ saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca akusalo saṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+68\. Akusalaṁ saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca akusalo saṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-69\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+69\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-70\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+70\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (26.)
 
-71\. Kusalaṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca kusalo asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā…  tīṇi.
+71\. Kusalaṁ asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca kusalo asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā… tīṇi.
 
-72\. Abyākataṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca abyākato asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. (1)
+72\. Abyākataṁ asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca abyākato asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. (1)
 
-73\. Kusalaṃ asaṃkiliṭṭhasaṃkilesikañca abyākataṃ asaṃkiliṭṭhasaṃkilesikañca dhammaṃ paṭicca abyākato asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. (1)
+73\. Kusalaṁ asaṁkiliṭṭhasaṁkilesikañca abyākataṁ asaṁkiliṭṭhasaṁkilesikañca dhammaṁ paṭicca abyākato asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. (1)
 
 (27.)
 
-74\. Hetuyā pañca, ārammaṇe dve…pe…  vipāke ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+74\. Hetuyā pañca, ārammaṇe dve…pe… vipāke ekaṁ…pe… avigate pañca. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
 (28.)
 
-75\. Kusalaṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca kusalo asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā. (1)
+75\. Kusalaṁ asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca kusalo asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati hetupaccayā. (1)
 
-76\. Abyākataṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca abyākato asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+76\. Abyākataṁ asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca abyākato asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-77\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+77\. Hetuyā dve…pe… āsevane ekaṁ…pe… vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
-78\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
+78\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāretabbaṁ.)
 
-[Go to previous page (1.4.1--7 Paṭiccādivāra)](../1.4.1--7.md) / [Go to parent page (1.4.1--7 Paṭiccādivāra)](../1.4.1--7.md) / [Go to next page (1.5 Kusalattika, Vitakkattika)](../../1.5.md)
-
+[Go to previous page (1.4.1--7 Paṭiccādivāra)](../1.4.1--7.md) / [Go to parent page (1.4.1--7 Paṭiccādivāra)](../1.4.1--7.md) / [Go to next page (1.5 Kusalattika, Vitakkattika)](../../1.5.md)
 

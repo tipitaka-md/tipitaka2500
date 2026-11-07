@@ -13,8 +13,7 @@
 
 * Catukka
 
-1734\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā adhipatiyā satta, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye nava, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā nava, natthiyā satta, vigate satta, avigate nava…pe… .
+1734\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā adhipatiyā satta, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye nava, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṁ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā nava, natthiyā satta, vigate satta, avigate nava…pe… .
 
 [Go to previous page (Napurejātaduka)](../Napurejataduka.md) / [Go to parent page (Napurejātaduka)](../Napurejataduka.md) / [Go to next page (Navaka)](Navaka.md)
-
 

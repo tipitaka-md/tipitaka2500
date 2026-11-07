@@ -15,30 +15,29 @@
 
 (74.)
 
-955\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dassanena pahātabbaṃ rāgaṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati; diṭṭhiṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  dassanena pahātabbādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+955\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dassanena pahātabbaṁ rāgaṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati; diṭṭhiṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— dassanena pahātabbādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-956\. Dassanena pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  dassanena pahātabbādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+956\. Dassanena pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— dassanena pahātabbādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-957\. Dassanena pahātabbo dhammo dassanena pahātabbassa ca nevadassanena nabhāvanāya pahātabbassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  dassanena pahātabbādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+957\. Dassanena pahātabbo dhammo dassanena pahātabbassa ca nevadassanena nabhāvanāya pahātabbassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— dassanena pahātabbādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (75.)
 
-958\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  bhāvanāya pahātabbaṃ rāgaṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbo rāgo uppajjati. **Sahajātādhipati**—  bhāvanāya pahātabbādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+958\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— bhāvanāya pahātabbaṁ rāgaṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā bhāvanāya pahātabbo rāgo uppajjati. Sahajātādhipati— bhāvanāya pahātabbādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-959\. Bhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  bhāvanāya pahātabbaṃ rāgaṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. (2)
+959\. Bhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— bhāvanāya pahātabbaṁ rāgaṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-960\. Bhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  bhāvanāya pahātabbādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
+960\. Bhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— bhāvanāya pahātabbādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (3)
 
-961\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa ca nevadassanena nabhāvanāya pahātabbassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  bhāvanāya pahātabbādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (4)
+961\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa ca nevadassanena nabhāvanāya pahātabbassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— bhāvanāya pahātabbādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (4)
 
 (76.)
 
-962\. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  nevadassanena nabhāvanāya pahātabbādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+962\. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti, phalaṁ garuṁ katvā paccavekkhanti, nibbānaṁ garuṁ katvā paccavekkhanti; nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. Sahajātādhipati— nevadassanena nabhāvanāya pahātabbādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-963\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. Pubbe suciṇṇāni garuṃ katvā…pe…  jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā…pe…  cakkhuṃ…pe…  vatthuṃ…  nevadassanena nabhāvanāya pahātabbe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. (2)
+963\. Nevadassanena nabhāvanāya pahātabbo dhammo dassanena pahātabbassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā taṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. Pubbe suciṇṇāni garuṁ katvā…pe… jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā…pe… cakkhuṁ…pe… vatthuṁ… nevadassanena nabhāvanāya pahātabbe khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā dassanena pahātabbo rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-964\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbo rāgo uppajjati. Pubbe…pe…  nevadassanena nabhāvanāya pahātabbe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā bhāvanāya pahātabbo rāgo uppajjati. (3)
+964\. Nevadassanena nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā taṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā bhāvanāya pahātabbo rāgo uppajjati. Pubbe…pe… nevadassanena nabhāvanāya pahātabbe khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā bhāvanāya pahātabbo rāgo uppajjati. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

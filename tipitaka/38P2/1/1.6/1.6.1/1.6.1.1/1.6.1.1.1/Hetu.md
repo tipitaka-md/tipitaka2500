@@ -17,28 +17,27 @@
 
 (159.)
 
-440\. Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā—  nahetuṃ sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+440\. Nahetuṁ sahetukaṁ dhammaṁ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā— nahetuṁ sahetukaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-441\. Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā—  nahetū sahetuke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
+441\. Nahetuṁ sahetukaṁ dhammaṁ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā— nahetū sahetuke khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-442\. Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā—  nahetuṃ sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+442\. Nahetuṁ sahetukaṁ dhammaṁ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā— nahetuṁ sahetukaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
 (160.)
 
-443\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+443\. Nahetuṁ ahetukaṁ dhammaṁ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā…pe… ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-444\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca nahetū sahetukā khandhā. (2)
+444\. Nahetuṁ ahetukaṁ dhammaṁ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca nahetū sahetukā khandhā. (2)
 
-445\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca nahetū sahetukā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)
+445\. Nahetuṁ ahetukaṁ dhammaṁ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca nahetū sahetukā khandhā, mahābhūte paṭicca kaṭattārūpaṁ. (3)
 
 (161.)
 
-446\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+446\. Nahetuṁ sahetukañca nahetuṁ ahetukañca dhammaṁ paṭicca nahetu sahetuko dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe nahetuṁ sahetukaṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-447\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā—  nahetū sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
+447\. Nahetuṁ sahetukañca nahetuṁ ahetukañca dhammaṁ paṭicca nahetu ahetuko dhammo uppajjati hetupaccayā— nahetū sahetuke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-448\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nahetū sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+448\. Nahetuṁ sahetukañca nahetuṁ ahetukañca dhammaṁ paṭicca nahetu sahetuko ca nahetu ahetuko ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe nahetuṁ sahetukaṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… nahetū sahetuke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (3)
 
-[Go to previous page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to parent page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to parent page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

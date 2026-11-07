@@ -13,30 +13,29 @@
 
 (44.)
 
-1830\. Parittaṃ saraṇaṃ dhammaṃ paṭicca paritto saraṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1830\. Parittaṁ saraṇaṁ dhammaṁ paṭicca paritto saraṇo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1831\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1831\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1832\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1832\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (45.)
 
-1833\. Parittaṃ araṇaṃ dhammaṃ paṭicca paritto araṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1833\. Parittaṁ araṇaṁ dhammaṁ paṭicca paritto araṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1834\. Mahaggataṃ araṇaṃ dhammaṃ paṭicca mahaggato araṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1834\. Mahaggataṁ araṇaṁ dhammaṁ paṭicca mahaggato araṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1835\. Appamāṇaṃ araṇaṃ dhammaṃ paṭicca appamāṇo araṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1835\. Appamāṇaṁ araṇaṁ dhammaṁ paṭicca appamāṇo araṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1836\. Parittaṃ araṇañca mahaggataṃ araṇañca dhammaṃ paṭicca paritto araṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1836\. Parittaṁ araṇañca mahaggataṁ araṇañca dhammaṁ paṭicca paritto araṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1837\. Parittaṃ araṇañca appamāṇaṃ araṇañca dhammaṃ paṭicca paritto araṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1837\. Parittaṁ araṇañca appamāṇaṁ araṇañca dhammaṁ paṭicca paritto araṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (46.)
 
-1838\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe…  aññamaññe satta…pe…  purejāte āsevane tīṇi…pe…  avigate terasa. (Saṃkhittaṃ.)
+1838\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe… aññamaññe satta…pe… purejāte āsevane tīṇi…pe… avigate terasa. (Saṁkhittaṁ.)
 
-1839\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+1839\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
-[Go to previous page (8.12.1--7 Paṭiccādivāra)](../8.12.1--7.md) / [Go to parent page (8.12.1--7 Paṭiccādivāra)](../8.12.1--7.md) / [Go to next page (8.13 Parittārammaṇattika, Saraṇaduka)](../../8.13.md)
-
+[Go to previous page (8.12.1--7 Paṭiccādivāra)](../8.12.1--7.md) / [Go to parent page (8.12.1--7 Paṭiccādivāra)](../8.12.1--7.md) / [Go to next page (8.13 Parittārammaṇattika, Saraṇaduka)](../../8.13.md)
 

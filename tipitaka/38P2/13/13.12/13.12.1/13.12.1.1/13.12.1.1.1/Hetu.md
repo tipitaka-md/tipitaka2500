@@ -17,16 +17,15 @@
 
 (226.)
 
-4582\. Rūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro dhammo uppajjati hetupaccayā—  rūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . Rūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati hetupaccayā—  rūpāvacare khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . Rūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti hetupaccayā—  rūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+4582\. Rūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro dhammo uppajjati hetupaccayā— rūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . Rūpāvacaraṁ dhammaṁ paṭicca narūpāvacaro dhammo uppajjati hetupaccayā— rūpāvacare khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . Rūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti hetupaccayā— rūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
 (227.)
 
-4583\. Narūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati hetupaccayā—  narūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe… . Narūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca rūpāvacarā khandhā. Narūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca rūpāvacarā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)
+4583\. Narūpāvacaraṁ dhammaṁ paṭicca narūpāvacaro dhammo uppajjati hetupaccayā— narūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ…pe… . Narūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca rūpāvacarā khandhā. Narūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca rūpāvacarā khandhā, mahābhūte paṭicca kaṭattārūpaṁ. (3)
 
 (228.)
 
-4584\. Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca narūpāvacaro dhammo uppajjati hetupaccayā—  rūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (Saṃkhittaṃ.) (3)
+4584\. Rūpāvacarañca narūpāvacarañca dhammaṁ paṭicca rūpāvacaro dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe rūpāvacaraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… . Rūpāvacarañca narūpāvacarañca dhammaṁ paṭicca narūpāvacaro dhammo uppajjati hetupaccayā— rūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. Rūpāvacarañca narūpāvacarañca dhammaṁ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe rūpāvacaraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (Saṁkhittaṁ.) (3)
 
-[Go to previous page (13.12.1.1.1 Vibhaṅgavāra)](../13.12.1.1.1.md) / [Go to parent page (13.12.1.1.1 Vibhaṅgavāra)](../13.12.1.1.1.md) / [Go to next page (13.12.1.1.2 Saṅkhyāvāra)](../13.12.1.1.2.md)
-
+[Go to previous page (13.12.1.1.1 Vibhaṅgavāra)](../13.12.1.1.1.md) / [Go to parent page (13.12.1.1.1 Vibhaṅgavāra)](../13.12.1.1.1.md) / [Go to next page (13.12.1.1.2 Saṅkhyāvāra)](../13.12.1.1.2.md)
 

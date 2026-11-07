@@ -19,12 +19,11 @@
 
 1251\. Sahetuko kusalo dhammo sahetukassa kusalassa dhammassa hetupaccayena paccayo. (1)
 
-1252\. Sahetuko kusalo dhammo sahetukassa kusalassa dhammassa ārammaṇapaccayena paccayo. (1) (Saṃkhittaṃ.)
+1252\. Sahetuko kusalo dhammo sahetukassa kusalassa dhammassa ārammaṇapaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (6.)
 
-1253\. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, āsevane ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, magge ekaṃ, sampayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+1253\. Hetuyā ekaṁ, ārammaṇe ekaṁ, adhipatiyā ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye ekaṁ, āsevane ekaṁ, kamme ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, magge ekaṁ, sampayutte ekaṁ, atthiyā ekaṁ, natthiyā ekaṁ, vigate ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

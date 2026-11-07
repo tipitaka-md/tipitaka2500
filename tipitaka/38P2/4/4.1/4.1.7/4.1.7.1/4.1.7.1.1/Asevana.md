@@ -17,8 +17,7 @@
 
 (26.)
 
-1385\. Saññojano dhammo saññojanassa dhammassa āsevanapaccayena paccayo…  nava.
+1385\. Saññojano dhammo saññojanassa dhammassa āsevanapaccayena paccayo… nava.
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](../4.1.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](../4.1.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 

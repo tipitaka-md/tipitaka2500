@@ -17,8 +17,7 @@
 
 (110.)
 
-1599\. Saññojanasampayutto ceva no ca saññojano dhammo saññojanasampayuttassa ceva no ca saññojanassa dhammassa kammapaccayena paccayo…  tīṇi…  āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava…  atthipaccayena paccayo…  nava…  natthipaccayena paccayo…  nava…  vigatapaccayena paccayo…  nava…  avigatapaccayena paccayo…  nava.
+1599\. Saññojanasampayutto ceva no ca saññojano dhammo saññojanasampayuttassa ceva no ca saññojanassa dhammassa kammapaccayena paccayo… tīṇi… āhārapaccayena paccayo… tīṇi… indriyapaccayena paccayo… tīṇi… jhānapaccayena paccayo… tīṇi… maggapaccayena paccayo… nava… sampayuttapaccayena paccayo… nava… atthipaccayena paccayo… nava… natthipaccayena paccayo… nava… vigatapaccayena paccayo… nava… avigatapaccayena paccayo… nava.
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (4.5.7.1.1 Vibhaṅgavāra)](../4.5.7.1.1.md) / [Go to next page (4.5.7.1.2 Saṅkhyāvāra)](../4.5.7.1.2.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (4.5.7.1.1 Vibhaṅgavāra)](../4.5.7.1.1.md) / [Go to next page (4.5.7.1.2 Saṅkhyāvāra)](../4.5.7.1.2.md)
 

@@ -17,16 +17,15 @@
 
 (115.)
 
-2599\. Cetasikaṃ dhammaṃ saṃsaṭṭho cetasiko dhammo uppajjati hetupaccayā—  cetasikaṃ ekaṃ khandhaṃ saṃsaṭṭhā dve khandhā, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+2599\. Cetasikaṁ dhammaṁ saṁsaṭṭho cetasiko dhammo uppajjati hetupaccayā— cetasikaṁ ekaṁ khandhaṁ saṁsaṭṭhā dve khandhā, dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2600\. Cetasikaṃ dhammaṃ saṃsaṭṭho acetasiko dhammo uppajjati hetupaccayā—  cetasiko khandhe saṃsaṭṭhaṃ cittaṃ; paṭisandhikkhaṇe…pe… . (2)
+2600\. Cetasikaṁ dhammaṁ saṁsaṭṭho acetasiko dhammo uppajjati hetupaccayā— cetasiko khandhe saṁsaṭṭhaṁ cittaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-2601\. Cetasikaṃ dhammaṃ saṃsaṭṭho cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā—  cetasikaṃ ekaṃ khandhaṃ saṃsaṭṭhā dve khandhā cittañca, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+2601\. Cetasikaṁ dhammaṁ saṁsaṭṭho cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā— cetasikaṁ ekaṁ khandhaṁ saṁsaṭṭhā dve khandhā cittañca, dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
-2602\. Acetasikaṃ dhammaṃ saṃsaṭṭho cetasiko dhammo uppajjati hetupaccayā—  cittaṃ saṃsaṭṭhā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
+2602\. Acetasikaṁ dhammaṁ saṁsaṭṭho cetasiko dhammo uppajjati hetupaccayā— cittaṁ saṁsaṭṭhā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
 
-2603\. Cetasikañca acetasikañca dhammaṃ saṃsaṭṭho cetasiko dhammo uppajjati hetupaccayā—  cetasikaṃ ekaṃ khandhañca cittañca saṃsaṭṭhā dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe…pe… . (1) (Saṃkhittaṃ.)
+2603\. Cetasikañca acetasikañca dhammaṁ saṁsaṭṭho cetasiko dhammo uppajjati hetupaccayā— cetasikaṁ ekaṁ khandhañca cittañca saṁsaṭṭhā dve khandhā, dve khandhe ca…pe… paṭisandhikkhaṇe…pe… . (1) (Saṁkhittaṁ.)
 
-[Go to previous page (10.3.5.1.1 Vibhaṅgavāra)](../10.3.5.1.1.md) / [Go to parent page (10.3.5.1.1 Vibhaṅgavāra)](../10.3.5.1.1.md) / [Go to next page (10.3.5.1.2 Saṅkhyāvāra)](../10.3.5.1.2.md)
-
+[Go to previous page (10.3.5.1.1 Vibhaṅgavāra)](../10.3.5.1.1.md) / [Go to parent page (10.3.5.1.1 Vibhaṅgavāra)](../10.3.5.1.1.md) / [Go to next page (10.3.5.1.2 Saṅkhyāvāra)](../10.3.5.1.2.md)
 

@@ -19,12 +19,7 @@
 
 1082\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava (sabbattha nava), noavigate nava.
 
----
+1083\. Paccanīyaṁ.
 
-1083\. Paccanīyaṃ.
-
-
-
-[Go to previous page (3.1.7.2.1 Saṅkhyāvāra)](../3.1.7.2.1.md) / [Go to parent page (3.1.7.2.1 Saṅkhyāvāra)](../3.1.7.2.1.md) / [Go to next page (3.1.7.3 Paccayānulomapaccanīya)](../../3.1.7.3.md)
-
+[Go to previous page (3.1.7.2.1 Saṅkhyāvāra)](../3.1.7.2.1.md) / [Go to parent page (3.1.7.2.1 Saṅkhyāvāra)](../3.1.7.2.1.md) / [Go to next page (3.1.7.3 Paccayānulomapaccanīya)](../../3.1.7.3.md)
 

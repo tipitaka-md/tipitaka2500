@@ -17,8 +17,7 @@
 
 (75.)
 
-3711\. Upādānasampayutto dhammo upādānasampayuttassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  (paṭiccasadisaṃ) nava…  aññamaññapaccayena paccayo…  (paṭiccasadisaṃ) cha…  nissayapaccayena paccayo…  (paccayavārasadisaṃ) nava.
+3711\. Upādānasampayutto dhammo upādānasampayuttassa dhammassa samanantarapaccayena paccayo… sahajātapaccayena paccayo… (paṭiccasadisaṁ) nava… aññamaññapaccayena paccayo… (paṭiccasadisaṁ) cha… nissayapaccayena paccayo… (paccayavārasadisaṁ) nava.
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

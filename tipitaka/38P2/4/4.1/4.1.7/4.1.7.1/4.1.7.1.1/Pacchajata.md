@@ -17,12 +17,11 @@
 
 (25.)
 
-1382\. Saññojano dhammo nosaññojanassa dhammassa pacchājātapaccayena paccayo…  ekaṃ.
+1382\. Saññojano dhammo nosaññojanassa dhammassa pacchājātapaccayena paccayo… ekaṁ.
 
-1383\. Nosaññojano dhammo nosaññojanassa dhammassa pacchājātapaccayena paccayo…pe… . (1)
+1383\. Nosaññojano dhammo nosaññojanassa dhammassa pacchājātapaccayena paccayo…pe… . (1)
 
-1384\. Saññojano ca nosaññojano ca dhammā nosaññojanassa dhammassa pacchājātapaccayena paccayo…pe… . (1)
+1384\. Saññojano ca nosaññojano ca dhammā nosaññojanassa dhammassa pacchājātapaccayena paccayo…pe… . (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](../4.1.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](../4.1.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 

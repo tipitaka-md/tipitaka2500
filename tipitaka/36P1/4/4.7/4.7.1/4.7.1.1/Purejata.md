@@ -15,20 +15,19 @@
 
 (105.)
 
-2347\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ.
+2347\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ.
 
-2348\. **Ārammaṇapurejātaṃ**—  arahā cakkhuṃ aniccato…pe…  kāyaṃ…  rūpe…  phoṭṭhabbe…  vatthuṃ aniccato…pe…  dibbena cakkhunā rūpaṃ…pe…  dibbāya sotadhātuyā saddaṃ…pe… . **Vatthupurejātaṃ**—  vatthu nevavipākanavipākadhammadhammānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+2348\. Ārammaṇapurejātaṁ— arahā cakkhuṁ aniccato…pe… kāyaṁ… rūpe… phoṭṭhabbe… vatthuṁ aniccato…pe… dibbena cakkhunā rūpaṁ…pe… dibbāya sotadhātuyā saddaṁ…pe… . Vatthupurejātaṁ— vatthu nevavipākanavipākadhammadhammānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-2349\. Nevavipākanavipākadhammadhammo vipākassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ.
+2349\. Nevavipākanavipākadhammadhammo vipākassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ.
 
-2350\. **Ārammaṇapurejātaṃ**—  sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. Kusalākusale niruddhe vipāko tadārammaṇatā uppajjati. Sotaṃ…pe…  vatthuṃ aniccato…pe…  tadārammaṇatā uppajjati. Rūpāyatanaṃ cakkhuviññāṇassa purejāta…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu vipākānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+2350\. Ārammaṇapurejātaṁ— sekkhā vā puthujjanā vā cakkhuṁ aniccato dukkhato anattato vipassanti, assādenti abhinandanti; taṁ ārabbha rāgo uppajjati…pe… domanassaṁ uppajjati. Kusalākusale niruddhe vipāko tadārammaṇatā uppajjati. Sotaṁ…pe… vatthuṁ aniccato…pe… tadārammaṇatā uppajjati. Rūpāyatanaṁ cakkhuviññāṇassa purejāta…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… . Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu vipākānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-2351\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ.
+2351\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ.
 
-2352\. **Ārammaṇapurejātaṃ**—  sekkhā vā puthujjanā vā cakkhuṃ…pe…  ārabbha rāgo…pe…  domanassaṃ uppajjati. Sotaṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ…pe…  dibbena cakkhunā rūpaṃ…pe…  dibbāya sotadhātuyā saddaṃ…pe… .
+2352\. Ārammaṇapurejātaṁ— sekkhā vā puthujjanā vā cakkhuṁ…pe… ārabbha rāgo…pe… domanassaṁ uppajjati. Sotaṁ…pe… vatthuṁ aniccato…pe… domanassaṁ…pe… dibbena cakkhunā rūpaṁ…pe… dibbāya sotadhātuyā saddaṁ…pe… .
 
-2353\. **Vatthupurejātaṃ**—  vatthu vipākadhammadhammānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
+2353\. Vatthupurejātaṁ— vatthu vipākadhammadhammānaṁ khandhānaṁ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 

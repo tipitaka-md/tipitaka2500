@@ -17,14 +17,13 @@
 
 (75.)
 
-2270\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa kammapaccayena paccayo—  parāmāsasampayuttā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+2270\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa kammapaccayena paccayo— parāmāsasampayuttā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-2271\. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  parāmāsasampayuttā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  parāmāsasampayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Parāmāsasampayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+2271\. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— parāmāsasampayuttā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. Nānākkhaṇikā— parāmāsasampayuttā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Parāmāsasampayuttā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-2272\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  parāmāsavippayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  parāmāsavippayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+2272\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— parāmāsavippayuttā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— parāmāsavippayuttā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (1)
 
-2273\. Vipākapaccayena paccayo…  ekaṃ, āhārapaccayena paccayo…  cattāri, indriyapaccayena paccayo…  cattāri, jhānapaccayena paccayo…  cattāri, maggapaccayena paccayo…  cattāri, sampayuttapaccayena paccayo…  dve.
+2273\. Vipākapaccayena paccayo… ekaṁ, āhārapaccayena paccayo… cattāri, indriyapaccayena paccayo… cattāri, jhānapaccayena paccayo… cattāri, maggapaccayena paccayo… cattāri, sampayuttapaccayena paccayo… dve.
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

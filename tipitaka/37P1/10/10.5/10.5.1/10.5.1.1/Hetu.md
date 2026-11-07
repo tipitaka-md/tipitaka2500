@@ -15,22 +15,21 @@
 
 (63.)
 
-1235\. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  dassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. (1)
+1235\. Dassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā— dassanena pahātabbahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā. (1)
 
-1236\. Bhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā—  bhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. (1)
+1236\. Bhāvanāya pahātabbahetukaṁ dhammaṁ saṁsaṭṭho bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā— bhāvanāya pahātabbahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā. (1)
 
-1237\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā—  nevadassanena nabhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (1)
+1237\. Nevadassanena nabhāvanāya pahātabbahetukaṁ dhammaṁ saṁsaṭṭho nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā— nevadassanena nabhāvanāya pahātabbahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… paṭisandhikkhaṇe…pe… . (1)
 
-1238\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ mohaṃ saṃsaṭṭhā sampayuttakā khandhā. (2)
+1238\. Nevadassanena nabhāvanāya pahātabbahetukaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā— vicikicchāsahagataṁ mohaṁ saṁsaṭṭhā sampayuttakā khandhā. (2)
 
-1239\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ saṃsaṭṭho bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā—  uddhaccasahagataṃ mohaṃ saṃsaṭṭhā sampayuttakā khandhā. (3)
+1239\. Nevadassanena nabhāvanāya pahātabbahetukaṁ dhammaṁ saṁsaṭṭho bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā— uddhaccasahagataṁ mohaṁ saṁsaṭṭhā sampayuttakā khandhā. (3)
 
 (64.)
 
-1240\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
+1240\. Dassanena pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati hetupaccayā— vicikicchāsahagataṁ ekaṁ khandhañca mohañca saṁsaṭṭhā tayo khandhā…pe… dve khandhā. (1)
 
-1241\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṃ bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā—  uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhā. (1)
+1241\. Bhāvanāya pahātabbahetukañca nevadassanena nabhāvanāya pahātabbahetukañca dhammaṁ bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā— uddhaccasahagataṁ ekaṁ khandhañca mohañca saṁsaṭṭhā tayo khandhā…pe… dve khandhā. (1)
 
-[Go to previous page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to parent page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to parent page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

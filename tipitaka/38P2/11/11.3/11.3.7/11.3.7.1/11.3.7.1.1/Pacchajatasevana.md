@@ -17,12 +17,11 @@
 
 (80.)
 
-3720\. Upādānasampayutto dhammo upādānavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+3720\. Upādānasampayutto dhammo upādānavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) (1)
 
-3721\. Upādānavippayutto dhammo upādānavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1)
+3721\. Upādānavippayutto dhammo upādānavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) (1)
 
-3722\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) (1) …  Āsevanapaccayena paccayo.
+3722\. Upādānasampayutto ca upādānavippayutto ca dhammā upādānavippayuttassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) (1) … Āsevanapaccayena paccayo.
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Kamma-vipāka)](Kamma-vipaka.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Kamma-vipāka)](Kamma-vipaka.md)
 

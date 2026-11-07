@@ -9,32 +9,31 @@
 
 (444.)
 
-769\. Evaṃ me sutaṃ—  ekaṃ samayaṃ āyasmā ānando sāvatthiyaṃ viharati jetavane anāthapiṇḍikassa ārāme aciraparinibbute bhagavati. Tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṃ paṭivasati kenacideva karaṇīyena.
+769\. Evaṁ me sutaṁ— ekaṁ samayaṁ āyasmā ānando sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme aciraparinibbute bhagavati. Tena kho pana samayena subho māṇavo todeyyaputto sāvatthiyaṁ paṭivasati kenacideva karaṇīyena.
 
 (445.)
 
-770\. Atha kho subho māṇavo todeyyaputto aññataraṃ māṇavakaṃ āmantesi—  “ehi tvaṃ, māṇavaka, yena samaṇo ānando tenupasaṅkama; upasaṅkamitvā mama vacanena samaṇaṃ ānandaṃ appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ puccha—  ‘subho māṇavo todeyyaputto bhavantaṃ ānandaṃ appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchatī’ti. Evañca vadehi—  ‘sādhu kira bhavaṃ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā’”ti.
+770\. Atha kho subho māṇavo todeyyaputto aññataraṁ māṇavakaṁ āmantesi— “ehi tvaṁ, māṇavaka, yena samaṇo ānando tenupasaṅkama; upasaṅkamitvā mama vacanena samaṇaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha— ‘subho māṇavo todeyyaputto bhavantaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti. Evañca vadehi— ‘sādhu kira bhavaṁ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
 
 (446.)
 
-771\. “Evaṃ, bho”ti kho so māṇavako subhassa māṇavassa todeyyaputtassa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho so māṇavako āyasmantaṃ ānandaṃ etadavoca—  “subho māṇavo todeyyaputto bhavantaṃ ānandaṃ appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchati; evañca vadeti—  ‘sādhu kira bhavaṃ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā’”ti.
+771\. “Evaṁ, bho”ti kho so māṇavako subhassa māṇavassa todeyyaputtassa paṭissutvā yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho so māṇavako āyasmantaṁ ānandaṁ etadavoca— “subho māṇavo todeyyaputto bhavantaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati; evañca vadeti— ‘sādhu kira bhavaṁ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā’”ti.
 
 (447.)
 
-772\. Evaṃ vutte, āyasmā ānando taṃ māṇavakaṃ etadavoca—  “akālo kho, māṇavaka. Atthi me ajja bhesajjamattā pītā. Appevanāma svepi upasaṅkameyyāma kālañca samayañca upādāyā”ti.
+772\. Evaṁ vutte, āyasmā ānando taṁ māṇavakaṁ etadavoca— “akālo kho, māṇavaka. Atthi me ajja bhesajjamattā pītā. Appevanāma svepi upasaṅkameyyāma kālañca samayañca upādāyā”ti.
 
-773\. “Evaṃ, bho”ti kho so māṇavako āyasmato ānandassa paṭissutvā uṭṭhāyāsanā yena subho māṇavo todeyyaputto tenupasaṅkami; upasaṅkamitvā subhaṃ māṇavaṃ todeyyaputtaṃ etadavoca—  “avocumhā kho mayaṃ bhoto vacanena taṃ bhavantaṃ ānandaṃ—  ‘subho māṇavo todeyyaputto bhavantaṃ ānandaṃ appābādhaṃ appātaṅkaṃ lahuṭṭhānaṃ balaṃ phāsuvihāraṃ pucchati, evañca vadeti—  “sādhu kira bhavaṃ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṃ tenupasaṅkamatu anukampaṃ upādāyā”’ti. Evaṃ vutte, bho, samaṇo ānando maṃ etadavoca—  ‘akālo kho, māṇavaka. Atthi me ajja bhesajjamattā pītā. Appevanāma svepi upasaṅkameyyāma kālañca samayañca upādāyā’ti. Ettāvatāpi kho, bho, katameva etaṃ, yato kho so bhavaṃ ānando okāsamakāsi svātanāyapi upasaṅkamanāyā”ti.
+773\. “Evaṁ, bho”ti kho so māṇavako āyasmato ānandassa paṭissutvā uṭṭhāyāsanā yena subho māṇavo todeyyaputto tenupasaṅkami; upasaṅkamitvā subhaṁ māṇavaṁ todeyyaputtaṁ etadavoca— “avocumhā kho mayaṁ bhoto vacanena taṁ bhavantaṁ ānandaṁ— ‘subho māṇavo todeyyaputto bhavantaṁ ānandaṁ appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati, evañca vadeti— “sādhu kira bhavaṁ ānando yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkamatu anukampaṁ upādāyā”’ti. Evaṁ vutte, bho, samaṇo ānando maṁ etadavoca— ‘akālo kho, māṇavaka. Atthi me ajja bhesajjamattā pītā. Appevanāma svepi upasaṅkameyyāma kālañca samayañca upādāyā’ti. Ettāvatāpi kho, bho, katameva etaṁ, yato kho so bhavaṁ ānando okāsamakāsi svātanāyapi upasaṅkamanāyā”ti.
 
 (448.)
 
-774\. Atha kho āyasmā ānando tassā rattiyā accayena pubbaṇhasamayaṃ nivāsetvā pattacīvaramādāya cetakena bhikkhunā pacchāsamaṇena yena subhassa māṇavassa todeyyaputtassa nivesanaṃ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.
+774\. Atha kho āyasmā ānando tassā rattiyā accayena pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya cetakena bhikkhunā pacchāsamaṇena yena subhassa māṇavassa todeyyaputtassa nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.
 
-775\. Atha kho subho māṇavo todeyyaputto yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṃ sammodi. Sammodanīyaṃ kathaṃ sāraṇīyaṃ vītisāretvā ekamantaṃ nisīdi. Ekamantaṃ nisinno kho subho māṇavo todeyyaputto āyasmantaṃ ānandaṃ etadavoca—  “bhavañhi ānando tassa bhoto gotamassa dīgharattaṃ upaṭṭhāko santikāvacaro samīpacārī. Bhavametaṃ ānando jāneyya, yesaṃ so bhavaṃ gotamo dhammānaṃ vaṇṇavādī ahosi, yattha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesi. Katamesānaṃ kho, bho ānanda, dhammānaṃ so bhavaṃ gotamo vaṇṇavādī ahosi; kattha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī”ti?
+775\. Atha kho subho māṇavo todeyyaputto yenāyasmā ānando tenupasaṅkami; upasaṅkamitvā āyasmatā ānandena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho subho māṇavo todeyyaputto āyasmantaṁ ānandaṁ etadavoca— “bhavañhi ānando tassa bhoto gotamassa dīgharattaṁ upaṭṭhāko santikāvacaro samīpacārī. Bhavametaṁ ānando jāneyya, yesaṁ so bhavaṁ gotamo dhammānaṁ vaṇṇavādī ahosi, yattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesi. Katamesānaṁ kho, bho ānanda, dhammānaṁ so bhavaṁ gotamo vaṇṇavādī ahosi; kattha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesī”ti?
 
 (449.)
 
-776\. “Tiṇṇaṃ kho, māṇava, khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesi. Katamesaṃ tiṇṇaṃ? Ariyassa sīlakkhandhassa, ariyassa samādhikkhandhassa, ariyassa paññākkhandhassa. Imesaṃ kho, māṇava, tiṇṇaṃ khandhānaṃ so bhagavā vaṇṇavādī ahosi; ettha ca imaṃ janataṃ samādapesi nivesesi patiṭṭhāpesī”ti.
+776\. “Tiṇṇaṁ kho, māṇava, khandhānaṁ so bhagavā vaṇṇavādī ahosi; ettha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesi. Katamesaṁ tiṇṇaṁ? Ariyassa sīlakkhandhassa, ariyassa samādhikkhandhassa, ariyassa paññākkhandhassa. Imesaṁ kho, māṇava, tiṇṇaṁ khandhānaṁ so bhagavā vaṇṇavādī ahosi; ettha ca imaṁ janataṁ samādapesi nivesesi patiṭṭhāpesī”ti.
 
-[Go to previous page (10 Subhasutta)](../10.md) / [Go to parent page (10 Subhasutta)](../10.md) / [Go to next page (10.1 Sīlakkhandha)](10.1.md)
-
+[Go to previous page (10 Subhasutta)](../10.md) / [Go to parent page (10 Subhasutta)](../10.md) / [Go to next page (10.1 Sīlakkhandha)](10.1.md)
 

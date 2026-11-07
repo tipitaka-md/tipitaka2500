@@ -15,7 +15,7 @@
 
 (407.)
 
-1232\. Naāhārapaccayā nahetuyā pannarasa, naārammaṇe pannarasa, naadhipatiyā pannarasa, naanantare pannarasa, nasamanantare pannarasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye pannarasa, napurejāte terasa…pe…  noavigate nava…pe… .
+1232\. Naāhārapaccayā nahetuyā pannarasa, naārammaṇe pannarasa, naadhipatiyā pannarasa, naanantare pannarasa, nasamanantare pannarasa, nasahajāte ekādasa, naaññamaññe ekādasa, nanissaye ekādasa, naupanissaye pannarasa, napurejāte terasa…pe… noavigate nava…pe… .
 
 * [Catukka](Naaharaduka/Catukka.md)
 * [Aṭṭhaka](Naaharaduka/Atthaka.md)
@@ -25,6 +25,5 @@
 * [Pannarasaka](Naaharaduka/Pannarasaka.md)
 * [Aṭṭhārasaka](Naaharaduka/Attharasaka.md)
 
-[Go to previous page (Terasaka)](Nakammaduka/Terasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Naaharaduka/Catukka.md)
-
+[Go to previous page (Terasaka)](Nakammaduka/Terasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Naaharaduka/Catukka.md)
 

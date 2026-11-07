@@ -17,12 +17,11 @@
 
 (81.)
 
-721\. Sappaṭigho dhammo appaṭighassa dhammassa indriyapaccayena paccayo—  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo. (1)
+721\. Sappaṭigho dhammo appaṭighassa dhammassa indriyapaccayena paccayo— cakkhundriyaṁ cakkhuviññāṇassa…pe… kāyindriyaṁ kāyaviññāṇassa indriyapaccayena paccayo. (1)
 
-722\. Appaṭigho dhammo appaṭighassa dhammassa indriyapaccayena paccayo…  tīṇi (tīsupi jīvitindriyaṃ agge kātabbaṃ). (3)
+722\. Appaṭigho dhammo appaṭighassa dhammassa indriyapaccayena paccayo… tīṇi (tīsupi jīvitindriyaṁ agge kātabbaṁ). (3)
 
-723\. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  ekaṃ.
+723\. Sappaṭigho ca appaṭigho ca dhammā appaṭighassa dhammassa indriyapaccayena paccayo— cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṁ khandhānaṁ indriyapaccayena paccayo…pe… kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṁ khandhānaṁ indriyapaccayena paccayo… jhānapaccayena paccayo… tīṇi… maggapaccayena paccayo… tīṇi… sampayuttapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

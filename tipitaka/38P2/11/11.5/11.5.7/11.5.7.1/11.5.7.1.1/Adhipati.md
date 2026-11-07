@@ -17,10 +17,9 @@
 
 (106.)
 
-3786\. Upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa adhipatipaccayena paccayo…  tīṇi. (3)
+3786\. Upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa adhipatipaccayena paccayo… tīṇi. (3)
 
-3787\. Upādānasampayutto ceva no ca upādāno dhammo upādānasampayuttassa ceva no ca upādānassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. (Tīṇipi, tīsupi dvepi adhipati kātabbā, ghaṭanādhipatipi tīṇi.)
+3787\. Upādānasampayutto ceva no ca upādāno dhammo upādānasampayuttassa ceva no ca upādānassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. (Tīṇipi, tīsupi dvepi adhipati kātabbā, ghaṭanādhipatipi tīṇi.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](../11.5.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](../11.5.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

@@ -15,22 +15,17 @@
 
 (24.)
 
-2989\. Anidassanasappaṭighaṃ dhammaṃ paṭicca anidassanasappaṭigho dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  anidassanasappaṭighaṃ ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ (saṃkhittaṃ, sabbe pañhā vibhajitabbā)…  najhānapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ. (Saṃkhittaṃ, sattapi pañhā vibhajitabbā.)
+2989\. Anidassanasappaṭighaṁ dhammaṁ paṭicca anidassanasappaṭigho dhammo uppajjati naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… anidassanasappaṭighaṁ ekaṁ mahābhūtaṁ…pe… asaññasattānaṁ mahābhūte paṭicca rūpajīvitindriyaṁ (saṁkhittaṁ, sabbe pañhā vibhajitabbā)… najhānapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ. (Saṁkhittaṁ, sattapi pañhā vibhajitabbā.)
 
-2990\. Anidassanaappaṭighaṃ dhammaṃ paṭicca anidassanaappaṭigho dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ āpodhātuṃ paṭicca anidassanaappaṭighaṃ kaṭattārūpaṃ upādārūpaṃ.
+2990\. Anidassanaappaṭighaṁ dhammaṁ paṭicca anidassanaappaṭigho dhammo uppajjati najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ āpodhātuṁ paṭicca anidassanaappaṭighaṁ kaṭattārūpaṁ upādārūpaṁ.
 
----
-
-2991\. (Evaṃ sattapi pañhā vibhajitabbā.)
-
-
+2991\. (Evaṁ sattapi pañhā vibhajitabbā.)
 
 (25.)
 
-2992\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca sanidassanasappaṭigho dhammo uppajjati najhānapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ… , asaññasattānaṃ…pe…  anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighaṃ kaṭattārūpaṃ upādārūpaṃ.
+2992\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṁ paṭicca sanidassanasappaṭigho dhammo uppajjati najhānapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… , asaññasattānaṁ…pe… anidassanasappaṭighe mahābhūte ca āpodhātuñca paṭicca sanidassanasappaṭighaṁ kaṭattārūpaṁ upādārūpaṁ.
 
-2993\. (Evaṃ sattapi pañhā vibhajitabbā), namaggapaccayā…  (nahetusadisaṃ kātabbaṃ. Paripuṇṇaṃ. Moho natthi). Nasampayuttapaccayā…  navippayuttapaccayā (paripuṇṇaṃ)…  nonatthipaccayā…  novigatapaccayā.
+2993\. (Evaṁ sattapi pañhā vibhajitabbā), namaggapaccayā… (nahetusadisaṁ kātabbaṁ. Paripuṇṇaṁ. Moho natthi). Nasampayuttapaccayā… navippayuttapaccayā (paripuṇṇaṁ)… nonatthipaccayā… novigatapaccayā.
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (23.1.2.1 Vibhaṅgavāra)](../23.1.2.1.md) / [Go to next page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md)
-
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (23.1.2.1 Vibhaṅgavāra)](../23.1.2.1.md) / [Go to next page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md)
 

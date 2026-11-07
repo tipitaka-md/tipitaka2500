@@ -15,8 +15,7 @@
 
 (46.)
 
-241\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā; tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+241\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā; tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
-
+[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
 

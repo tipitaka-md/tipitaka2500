@@ -17,14 +17,13 @@
 
 (274.)
 
-554\. Hetuṃ nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca hetu nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā…  tīṇi.
+554\. Hetuṁ nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paṭicca hetu nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā… tīṇi.
 
-555\. Nahetuṃ nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nahetu nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā (Saṃkhittaṃ.)
+555\. Nahetuṁ nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paṭicca nahetu nevadassanena nabhāvanāya pahātabbo dhammo uppajjati hetupaccayā (Saṁkhittaṁ.)
 
 (275.)
 
-556\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+556\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… kamme nava, vipāke nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetvādi)](Nahetvadi.md)
-
 

@@ -17,8 +17,7 @@
 
 (365.)
 
-1114\. Maggapaccayā hetuyā cattāri, adhipatiyā satta, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke ekaṃ, indriye satta, jhāne satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (12)
+1114\. Maggapaccayā hetuyā cattāri, adhipatiyā satta, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke ekaṁ, indriye satta, jhāne satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (12)
 
 [Go to previous page (Magga)](../Magga.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Maggasāmaññaghaṭanā)](Maggasamannaghatana.md)
-
 

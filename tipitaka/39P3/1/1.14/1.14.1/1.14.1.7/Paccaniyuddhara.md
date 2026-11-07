@@ -15,18 +15,17 @@
 
 (411.)
 
-892\. Hetu hīno dhammo hetussa hīnassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+892\. Hetu hīno dhammo hetussa hīnassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (412.)
 
-893\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+893\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-894\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+894\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-895\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+895\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-896\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+896\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.14.1.7 Pañhāvāra)](../1.14.1.7.md) / [Go to next page (1.14.2 Majjhimapada)](../../1.14.2.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.14.1.7 Pañhāvāra)](../1.14.1.7.md) / [Go to next page (1.14.2 Majjhimapada)](../../1.14.2.md)
 

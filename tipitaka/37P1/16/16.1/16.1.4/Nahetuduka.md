@@ -13,17 +13,9 @@
 
 (13.)
 
-2285\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ…pe…  vigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+2285\. Nahetupaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ…pe… vigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+2286\. Paccanīyānulomaṁ. Paṭiccavāro.
 
-2286\. Paccanīyānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (16.1.4 Paccayapaccanīyānuloma)](../16.1.4.md) / [Go to parent page (16.1.4 Paccayapaccanīyānuloma)](../16.1.4.md) / [Go to next page (16.2 Sahajātavāra)](../../16.2.md)
-
+[Go to previous page (16.1.4 Paccayapaccanīyānuloma)](../16.1.4.md) / [Go to parent page (16.1.4 Paccayapaccanīyānuloma)](../16.1.4.md) / [Go to next page (16.2 Sahajātavāra)](../../16.2.md)
 

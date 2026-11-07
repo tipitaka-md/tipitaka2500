@@ -13,14 +13,9 @@
 
 (81.)
 
-349\. Natthipaccayā…pe…  vigatapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
+349\. Natthipaccayā…pe… vigatapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṁ, namagge ekaṁ, navippayutte tīṇi.
 
----
+350\. (Yathā ārammaṇamūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-350\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Catukka)](Atthiduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Avigataduka)](Avigataduka.md)
-
+[Go to previous page (Catukka)](Atthiduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Avigataduka)](Avigataduka.md)
 

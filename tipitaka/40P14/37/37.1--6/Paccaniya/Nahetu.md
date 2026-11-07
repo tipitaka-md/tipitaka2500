@@ -13,14 +13,13 @@
 
 (53.)
 
-173\. Saraṇaṃ dhammaṃ paṭicca naaraṇo dhammo uppajjati nahetupaccayā. (1)
+173\. Saraṇaṁ dhammaṁ paṭicca naaraṇo dhammo uppajjati nahetupaccayā. (1)
 
-174\. Araṇaṃ dhammaṃ paṭicca nanaaraṇo dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+174\. Araṇaṁ dhammaṁ paṭicca nanaaraṇo dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
-175\. Nahetuyā dve, na ārammaṇe tīṇi, naadhipatiyā pañca…pe…  napurejāte cattāri…pe…  nakamme dve…pe…  naāhāre naindriye najhāne namagge ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi.
+175\. Nahetuyā dve, na ārammaṇe tīṇi, naadhipatiyā pañca…pe… napurejāte cattāri…pe… nakamme dve…pe… naāhāre naindriye najhāne namagge ekaṁ…pe… navippayutte dve…pe… novigate tīṇi.
 
-176\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+176\. (Sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (37.7 Pañhāvāra)](../../37.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (37.7 Pañhāvāra)](../../37.7.md)
 

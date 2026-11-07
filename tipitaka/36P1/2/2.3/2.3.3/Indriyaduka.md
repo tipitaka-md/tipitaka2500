@@ -13,8 +13,7 @@
 
 (174.)
 
-611\. Indriyapaccayā nahetuyā cattāri, naārammaṇe pañca…pe…  navipāke sattarasa, naāhāre ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca, indriyapaccayā hetupaccayā. (Saṃkhittaṃ.)
+611\. Indriyapaccayā nahetuyā cattāri, naārammaṇe pañca…pe… navipāke sattarasa, naāhāre ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca, indriyapaccayā hetupaccayā. (Saṁkhittaṁ.)
 
-[Go to previous page (Tika)](Aharaduka/Tika.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Jhānaduka)](Jhanaduka.md)
-
+[Go to previous page (Tika)](Aharaduka/Tika.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Jhānaduka)](Jhanaduka.md)
 

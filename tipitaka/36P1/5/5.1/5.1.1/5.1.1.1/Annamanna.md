@@ -15,12 +15,11 @@
 
 (5.)
 
-2458\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati aññamaññapaccayā—  upādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca…pe…  paṭisandhikkhaṇe upādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā vatthu ca…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca…pe…  dve mahābhūte paṭicca dve mahābhūtā; asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
+2458\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati aññamaññapaccayā— upādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca…pe… paṭisandhikkhaṇe upādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā vatthu ca…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ paṭicca…pe… dve mahābhūte paṭicca dve mahābhūtā; asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… . (1)
 
-2459\. Anupādinnupādāniyaṃ dhammaṃ paṭicca…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… . (1)
+2459\. Anupādinnupādāniyaṁ dhammaṁ paṭicca…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… . (1)
 
-2460\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca…pe… . (1)
+2460\. Anupādinnaanupādāniyaṁ dhammaṁ paṭicca…pe… . (1)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Nissaya-upanissaya)](Nissaya-upanissaya.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Nissaya-upanissaya)](Nissaya-upanissaya.md)
 

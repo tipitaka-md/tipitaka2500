@@ -17,12 +17,11 @@
 
 (28.)
 
-2378\. Sārammaṇo dhammo sārammaṇassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ paccavekkhati assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati; pubbe suciṇṇāni…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti, phalaṃ paccavekkhanti, pahīne kilese…pe…  vikkhambhite kilese…pe…  pubbe samudāciṇṇe kilese jānanti, sārammaṇe khandhe aniccato…pe…  domanassaṃ uppajjati; cetopariyañāṇena sārammaṇacittasamaṅgissa cittaṃ jānāti, ākāsānañcāyatanaṃ viññāṇañcāyatanassa…pe…  ākiñcaññāyatanaṃ nevasaññānāsaññāyatanassa…pe…  sārammaṇā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2378\. Sārammaṇo dhammo sārammaṇassa dhammassa ārammaṇapaccayena paccayo— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ katvā taṁ paccavekkhati assādeti abhinandati, taṁ ārabbha rāgo uppajjati…pe… domanassaṁ uppajjati; pubbe suciṇṇāni…pe… jhānā…pe… ariyā maggā vuṭṭhahitvā maggaṁ paccavekkhanti, phalaṁ paccavekkhanti, pahīne kilese…pe… vikkhambhite kilese…pe… pubbe samudāciṇṇe kilese jānanti, sārammaṇe khandhe aniccato…pe… domanassaṁ uppajjati; cetopariyañāṇena sārammaṇacittasamaṅgissa cittaṁ jānāti, ākāsānañcāyatanaṁ viññāṇañcāyatanassa…pe… ākiñcaññāyatanaṁ nevasaññānāsaññāyatanassa…pe… sārammaṇā khandhā iddhividhañāṇassa, cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
 (29.)
 
-2379\. Anārammaṇo dhammo sārammaṇassa dhammassa ārammaṇapaccayena paccayo—  ariyā nibbānaṃ paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe…  anārammaṇā khandhā iddhividhañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+2379\. Anārammaṇo dhammo sārammaṇassa dhammassa ārammaṇapaccayena paccayo— ariyā nibbānaṁ paccavekkhanti, nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa, āvajjanāya ārammaṇapaccayena paccayo; cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati; dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… anārammaṇā khandhā iddhividhañāṇassa, pubbenivāsānussatiñāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

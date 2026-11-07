@@ -15,12 +15,11 @@
 
 (4.)
 
-1803\. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā—  sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vatthuṃ vippayuttapaccayā; paṭisandhikkhaṇe sukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ vippayuttapaccayā.
+1803\. Sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca sukhāya vedanāya sampayutto dhammo uppajjati āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā— sukhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vatthuṁ vippayuttapaccayā; paṭisandhikkhaṇe sukhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṁ vippayuttapaccayā.
 
-1804\. Dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā—  dukkhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ vippayuttapaccayā.
+1804\. Dukkhāya vedanāya sampayuttaṁ dhammaṁ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā— dukkhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṁ vippayuttapaccayā.
 
-1805\. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā—  adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vatthuṃ vippayuttapaccayā; paṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṃ vippayuttapaccayā. (Saṃkhittaṃ.)
+1805\. Adukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati vippayuttapaccayā— adukkhamasukhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; vatthuṁ vippayuttapaccayā; paṭisandhikkhaṇe adukkhamasukhāya vedanāya sampayuttaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho. Vatthuṁ vippayuttapaccayā. (Saṁkhittaṁ.)
 
-[Go to previous page (Āsevanādi)](Asevanadi.md) / [Go to parent page (3.1.1.1 Vibhaṅgavāra)](../3.1.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
-
+[Go to previous page (Āsevanādi)](Asevanadi.md) / [Go to parent page (3.1.1.1 Vibhaṅgavāra)](../3.1.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 

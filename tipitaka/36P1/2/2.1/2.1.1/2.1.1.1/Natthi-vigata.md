@@ -15,8 +15,7 @@
 
 (19.)
 
-171\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati natthipaccayā…  vigatapaccayā. (Natthipaccayampi vigatapaccayampi ārammaṇapaccayasadisaṃ.)
+171\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati natthipaccayā… vigatapaccayā. (Natthipaccayampi vigatapaccayampi ārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Avigata)](Avigata.md)
-
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Avigata)](Avigata.md)
 

@@ -17,8 +17,7 @@
 
 (381.)
 
-1142\. Atthi pacchājāta vippayutta avigatanti tīṇi. Atthi purejāta avigatanti tīṇi. Atthi nissaya purejāta vippayutta avigatanti tīṇi. Atthi ārammaṇa purejāta avigatanti tīṇi. Atthi ārammaṇa nissaya purejāta vippayuttaṃ avigatanti tīṇi. Atthi ārammaṇādhipati upanissaya purejāta avigatanti ekaṃ. Atthi ārammaṇādhipati nissaya upanissaya purejāta vippayutta avigatanti ekaṃ. Atthi nissaya purejāta indriya vippayutta avigatanti ekaṃ.
+1142\. Atthi pacchājāta vippayutta avigatanti tīṇi. Atthi purejāta avigatanti tīṇi. Atthi nissaya purejāta vippayutta avigatanti tīṇi. Atthi ārammaṇa purejāta avigatanti tīṇi. Atthi ārammaṇa nissaya purejāta vippayuttaṁ avigatanti tīṇi. Atthi ārammaṇādhipati upanissaya purejāta avigatanti ekaṁ. Atthi ārammaṇādhipati nissaya upanissaya purejāta vippayutta avigatanti ekaṁ. Atthi nissaya purejāta indriya vippayutta avigatanti ekaṁ.
 
 [Go to previous page (Atthimissakaghaṭanā)](Atthimissakaghatana.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
-
 

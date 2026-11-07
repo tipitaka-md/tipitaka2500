@@ -17,18 +17,17 @@
 
 808\. Anāgato nahetu dhammo paccuppannassa nahetussa dhammassa ārammaṇapaccayena paccayo. (1)
 
-809\. Paccuppanno nahetu dhammo paccuppannassa nahetussa dhammassa ārammaṇapaccayena paccayo. (1) (Saṃkhittaṃ.)
+809\. Paccuppanno nahetu dhammo paccuppannassa nahetussa dhammassa ārammaṇapaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (213.)
 
-810\. Ārammaṇe tīṇi, adhipatiyā tīṇi, anantare ekaṃ…pe…  sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye tīṇi…pe…  āsevane ekaṃ, kamme dve, vipāke ekaṃ…pe…  indriye ekaṃ, magge ekaṃ, sampayutte ekaṃ, atthiyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+810\. Ārammaṇe tīṇi, adhipatiyā tīṇi, anantare ekaṁ…pe… sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye tīṇi…pe… āsevane ekaṁ, kamme dve, vipāke ekaṁ…pe… indriye ekaṁ, magge ekaṁ, sampayutte ekaṁ, atthiyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-811\. Nahetuyā tīṇi, naārammaṇe tīṇi. (Saṃkhittaṃ.)
+811\. Nahetuyā tīṇi, naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-812\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṃkhittaṃ.)
+812\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṁkhittaṁ.)
 
-813\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+813\. Nahetupaccayā ārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-[Go to previous page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to parent page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to next page (1.19 Atītārammaṇattika, Hetuduka)](../../1.19.md)
-
+[Go to previous page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to parent page (1.18.2 Nahetupada)](../1.18.2.md) / [Go to next page (1.19 Atītārammaṇattika, Hetuduka)](../../1.19.md)
 

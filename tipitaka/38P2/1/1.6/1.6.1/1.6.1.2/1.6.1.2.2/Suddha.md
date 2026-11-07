@@ -17,14 +17,9 @@
 
 (166.)
 
-459\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+459\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme dve, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+460\. Paccanīyaṁ.
 
-460\. Paccanīyaṃ.
-
-
-
-[Go to previous page (1.6.1.2.2 Saṅkhyāvāra)](../1.6.1.2.2.md) / [Go to parent page (1.6.1.2.2 Saṅkhyāvāra)](../1.6.1.2.2.md) / [Go to next page (1.6.1.3 Paccayānulomapaccanīya)](../../1.6.1.3.md)
-
+[Go to previous page (1.6.1.2.2 Saṅkhyāvāra)](../1.6.1.2.2.md) / [Go to parent page (1.6.1.2.2 Saṅkhyāvāra)](../1.6.1.2.2.md) / [Go to next page (1.6.1.3 Paccayānulomapaccanīya)](../../1.6.1.3.md)
 

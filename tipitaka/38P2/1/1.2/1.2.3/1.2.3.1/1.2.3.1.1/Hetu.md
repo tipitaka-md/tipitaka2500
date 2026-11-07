@@ -17,22 +17,21 @@
 
 (72.)
 
-197\. Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati hetupaccayā. (Sahetukamūlakaṃ paṭiccavārasadisaṃ.)
+197\. Sahetukaṁ dhammaṁ paccayā sahetuko dhammo uppajjati hetupaccayā. (Sahetukamūlakaṁ paṭiccavārasadisaṁ.)
 
-198\. Ahetukaṃ dhammaṃ paccayā ahetuko dhammo…pe… . (Paṭiccavārasadisaṃyeva.) (1)
+198\. Ahetukaṁ dhammaṁ paccayā ahetuko dhammo…pe… . (Paṭiccavārasadisaṁyeva.) (1)
 
-199\. Ahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati hetupaccayā—  vatthuṃ paccayā sahetukā khandhā, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṃ paccayā sahetukā khandhā. (2)
+199\. Ahetukaṁ dhammaṁ paccayā sahetuko dhammo uppajjati hetupaccayā— vatthuṁ paccayā sahetukā khandhā, vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe vatthuṁ paccayā sahetukā khandhā. (2)
 
-200\. Ahetukaṃ dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā sahetukā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe vatthuṃ…pe… . (3)
+200\. Ahetukaṁ dhammaṁ paccayā sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā sahetukā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe vatthuṁ…pe… . (3)
 
 (73.)
 
-201\. Sahetukañca ahetukañca dhammaṃ paccayā sahetuko dhammo uppajjati hetupaccayā—  sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+201\. Sahetukañca ahetukañca dhammaṁ paccayā sahetuko dhammo uppajjati hetupaccayā— sahetukaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca mohañca paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-202\. Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati hetupaccayā—  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
+202\. Sahetukañca ahetukañca dhammaṁ paccayā ahetuko dhammo uppajjati hetupaccayā— sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-203\. Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā—  sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  sahetuke khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ. (3)
+203\. Sahetukañca ahetukañca dhammaṁ paccayā sahetuko ca ahetuko ca dhammā uppajjanti hetupaccayā— sahetukaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca mohañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe sahetukaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… sahetuke khandhe ca mahābhūte ca paccayā kaṭattārūpaṁ. (3)
 
-[Go to previous page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

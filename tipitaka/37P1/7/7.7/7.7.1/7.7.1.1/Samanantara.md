@@ -17,6 +17,5 @@
 
 351\. Savitakkasavicāro dhammo savitakkasavicārassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayopi samanantarapaccayopi sadiso.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (7.7.1.1 Vibhaṅgavāra)](../7.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

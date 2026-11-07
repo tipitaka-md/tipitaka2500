@@ -6,6 +6,5 @@
 * [Samanantaraduka](Samanantara/Samanantaraduka.md)
 * [Samanantaraghaṭanā](Samanantara/Samanantaraghatana.md)
 
-[Go to previous page (Anantaraghaṭanā)](Anantara/Anantaraghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Samanantaraduka)](Samanantara/Samanantaraduka.md)
-
+[Go to previous page (Anantaraghaṭanā)](Anantara/Anantaraghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Samanantaraduka)](Samanantara/Samanantaraduka.md)
 

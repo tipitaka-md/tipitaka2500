@@ -17,14 +17,9 @@
 
 (14.)
 
-570\. Nahetuyā dve, naārammaṇe ekaṃ, naadhipatiyā dve, naanantare dve, nasamanantare dve…pe…  naupanissaye dve, napurejāte dve…pe…  novigate dve, noavigate dve. (Evaṃ gaṇetabbaṃ.)
+570\. Nahetuyā dve, naārammaṇe ekaṁ, naadhipatiyā dve, naanantare dve, nasamanantare dve…pe… naupanissaye dve, napurejāte dve…pe… novigate dve, noavigate dve. (Evaṁ gaṇetabbaṁ.)
 
----
+571\. Paccanīyaṁ.
 
-571\. Paccanīyaṃ.
-
-
-
-[Go to previous page (2.1.7.2.1 Saṅkhyāvāra)](../2.1.7.2.1.md) / [Go to parent page (2.1.7.2.1 Saṅkhyāvāra)](../2.1.7.2.1.md) / [Go to next page (2.1.7.3 Paccayānulomapaccanīya)](../../2.1.7.3.md)
-
+[Go to previous page (2.1.7.2.1 Saṅkhyāvāra)](../2.1.7.2.1.md) / [Go to parent page (2.1.7.2.1 Saṅkhyāvāra)](../2.1.7.2.1.md) / [Go to next page (2.1.7.3 Paccayānulomapaccanīya)](../../2.1.7.3.md)
 

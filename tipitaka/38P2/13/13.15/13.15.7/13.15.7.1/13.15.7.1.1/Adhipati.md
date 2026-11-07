@@ -17,12 +17,11 @@
 
 (315.)
 
-4747\. Niyyāniko dhammo niyyānikassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  niyyānikādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. Niyyāniko dhammo aniyyānikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti. **Sahajātādhipati**—  niyyānikādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (Mūlaṃ kātabbaṃ.) Niyyānikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+4747\. Niyyāniko dhammo niyyānikassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— niyyānikādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. Niyyāniko dhammo aniyyānikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti. Sahajātādhipati— niyyānikādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (Mūlaṁ kātabbaṁ.) Niyyānikādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (316.)
 
-4748\. Aniyyāniko dhammo aniyyānikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā…pe…  ariyā phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ aniyyānike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  aniyyānikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. Aniyyāniko dhammo niyyānikassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ maggassa adhipatipaccayena paccayo. (2)
+4748\. Aniyyāniko dhammo aniyyānikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā…pe… ariyā phalaṁ garuṁ katvā paccavekkhanti, nibbānaṁ garuṁ katvā paccavekkhanti, nibbānaṁ gotrabhussa, vodānassa, phalassa adhipatipaccayena paccayo; cakkhuṁ…pe… vatthuṁ aniyyānike khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— aniyyānikādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. Aniyyāniko dhammo niyyānikassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— nibbānaṁ maggassa adhipatipaccayena paccayo. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.15.7.1.1 Vibhaṅgavāra)](../13.15.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

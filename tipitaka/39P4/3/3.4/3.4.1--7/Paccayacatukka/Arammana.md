@@ -15,16 +15,15 @@
 
 (19.)
 
-1146\. Kusalaṃ appaṭighaṃ dhammaṃ paṭicca kusalo appaṭigho dhammo uppajjati ārammaṇapaccayā. (1)
+1146\. Kusalaṁ appaṭighaṁ dhammaṁ paṭicca kusalo appaṭigho dhammo uppajjati ārammaṇapaccayā. (1)
 
-1147\. Akusalaṃ appaṭighaṃ dhammaṃ paṭicca akusalo appaṭigho dhammo uppajjati ārammaṇapaccayā. (1)
+1147\. Akusalaṁ appaṭighaṁ dhammaṁ paṭicca akusalo appaṭigho dhammo uppajjati ārammaṇapaccayā. (1)
 
-1148\. Abyākataṃ appaṭighaṃ dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+1148\. Abyākataṁ appaṭighaṁ dhammaṁ paṭicca abyākato appaṭigho dhammo uppajjati ārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (20.)
 
-1149\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+1149\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
-
 

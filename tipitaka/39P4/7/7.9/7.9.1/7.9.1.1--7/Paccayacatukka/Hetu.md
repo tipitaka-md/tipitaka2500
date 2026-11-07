@@ -17,36 +17,35 @@
 
 (28.)
 
-1599\. Kusalaṃ kāmāvacaraṃ dhammaṃ paṭicca kusalo kāmāvacaro dhammo uppajjati hetupaccayā. Kusalaṃ kāmāvacaraṃ dhammaṃ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. Kusalaṃ kāmāvacaraṃ dhammaṃ paṭicca kusalo kāmāvacaro ca abyākato kāmāvacaro ca dhammā uppajjanti hetupaccayā. (3)
+1599\. Kusalaṁ kāmāvacaraṁ dhammaṁ paṭicca kusalo kāmāvacaro dhammo uppajjati hetupaccayā. Kusalaṁ kāmāvacaraṁ dhammaṁ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. Kusalaṁ kāmāvacaraṁ dhammaṁ paṭicca kusalo kāmāvacaro ca abyākato kāmāvacaro ca dhammā uppajjanti hetupaccayā. (3)
 
-1600\. Akusalaṃ kāmāvacaraṃ dhammaṃ paṭicca akusalo kāmāvacaro dhammo uppajjati hetupaccayā…  tīṇi.
+1600\. Akusalaṁ kāmāvacaraṁ dhammaṁ paṭicca akusalo kāmāvacaro dhammo uppajjati hetupaccayā… tīṇi.
 
-1601\. Abyākataṃ kāmāvacaraṃ dhammaṃ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. (1)
+1601\. Abyākataṁ kāmāvacaraṁ dhammaṁ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. (1)
 
-1602\. Kusalaṃ kāmāvacarañca abyākataṃ kāmāvacarañca dhammaṃ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. (1)
+1602\. Kusalaṁ kāmāvacarañca abyākataṁ kāmāvacarañca dhammaṁ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. (1)
 
-1603\. Akusalaṃ kāmāvacarañca abyākataṃ kāmāvacarañca dhammaṃ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1603\. Akusalaṁ kāmāvacarañca abyākataṁ kāmāvacarañca dhammaṁ paṭicca abyākato kāmāvacaro dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (29.)
 
-1604\. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+1604\. Hetuyā nava, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
-1605\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1605\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (30.)
 
-1606\. Kusalo kāmāvacaro dhammo kusalassa kāmāvacarassa dhammassa hetupaccayena paccayo…  tīṇi.
+1606\. Kusalo kāmāvacaro dhammo kusalassa kāmāvacarassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1607\. Akusalo kāmāvacaro dhammo kusalassa kāmāvacarassa dhammassa hetupaccayena paccayo…  tīṇi.
+1607\. Akusalo kāmāvacaro dhammo kusalassa kāmāvacarassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1608\. Abyākato kāmāvacaro dhammo abyākatassa kāmāvacarassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+1608\. Abyākato kāmāvacaro dhammo abyākatassa kāmāvacarassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (31.)
 
-1609\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ.)
+1609\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe… avigate terasa. (Saṁkhittaṁ.)
 
-1610\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1610\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (7.9.2 Nakāmāvacarapada)](../../../7.9.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (7.9.2 Nakāmāvacarapada)](../../../7.9.2.md)
 

@@ -15,8 +15,7 @@
 
 * Dasaka
 
-1254\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissaye tīṇi, napurejāte nava…pe…  noavigate nava.
+1254\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissaye tīṇi, napurejāte nava…pe… noavigate nava.
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (Ekādasaka)](Ekadasaka.md)
-
 

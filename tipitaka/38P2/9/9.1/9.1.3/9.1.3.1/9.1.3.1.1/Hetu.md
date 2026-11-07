@@ -17,18 +17,17 @@
 
 (10.)
 
-2144\. Parāmāsaṃ dhammaṃ paccayā noparāmāso dhammo uppajjati hetupaccayā—  parāmāsaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (1)
+2144\. Parāmāsaṁ dhammaṁ paccayā noparāmāso dhammo uppajjati hetupaccayā— parāmāsaṁ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ. (1)
 
-2145\. Noparāmāsaṃ dhammaṃ paccayā noparāmāso dhammo uppajjati hetupaccayā—  noparāmāsaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  (yāva ajjhattikā mahābhūtā), vatthuṃ paccayā noparāmāsā khandhā. (1)
+2145\. Noparāmāsaṁ dhammaṁ paccayā noparāmāso dhammo uppajjati hetupaccayā— noparāmāsaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… (yāva ajjhattikā mahābhūtā), vatthuṁ paccayā noparāmāsā khandhā. (1)
 
-2146\. Noparāmāsaṃ dhammaṃ paccayā parāmāso dhammo uppajjati hetupaccayā—  noparāmāse khandhe paccayā parāmāso, vatthuṃ paccayā parāmāso. (2)
+2146\. Noparāmāsaṁ dhammaṁ paccayā parāmāso dhammo uppajjati hetupaccayā— noparāmāse khandhe paccayā parāmāso, vatthuṁ paccayā parāmāso. (2)
 
-2147\. Noparāmāsaṃ dhammaṃ paccayā parāmāso ca noparāmāso ca dhammā uppajjanti hetupaccayā—  noparāmāsaṃ ekaṃ khandhaṃ paccayā tayo khandhā parāmāso ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  vatthuṃ paccayā parāmāso, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā parāmāso ca sampayuttakā ca khandhā. (3)
+2147\. Noparāmāsaṁ dhammaṁ paccayā parāmāso ca noparāmāso ca dhammā uppajjanti hetupaccayā— noparāmāsaṁ ekaṁ khandhaṁ paccayā tayo khandhā parāmāso ca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… vatthuṁ paccayā parāmāso, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā parāmāso ca sampayuttakā ca khandhā. (3)
 
 (11.)
 
-2148\. Parāmāsañca noparāmāsañca dhammaṃ paccayā noparāmāso dhammo uppajjati hetupaccayā—  noparāmāsaṃ ekaṃ khandhañca parāmāsañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe…  parāmāsañca sampayuttake ca khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ, parāmāsañca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, parāmāsañca vatthuñca paccayā noparāmāsā khandhā. (Saṃkhittaṃ.) (1)
+2148\. Parāmāsañca noparāmāsañca dhammaṁ paccayā noparāmāso dhammo uppajjati hetupaccayā— noparāmāsaṁ ekaṁ khandhañca parāmāsañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe ca…pe… parāmāsañca sampayuttake ca khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ, parāmāsañca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, parāmāsañca vatthuñca paccayā noparāmāsā khandhā. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (9.1.3.1.1 Vibhaṅgavāra)](../9.1.3.1.1.md) / [Go to parent page (9.1.3.1.1 Vibhaṅgavāra)](../9.1.3.1.1.md) / [Go to next page (9.1.3.1.2 Saṅkhyāvāra)](../9.1.3.1.2.md)
-
+[Go to previous page (9.1.3.1.1 Vibhaṅgavāra)](../9.1.3.1.1.md) / [Go to parent page (9.1.3.1.1 Vibhaṅgavāra)](../9.1.3.1.1.md) / [Go to next page (9.1.3.1.2 Saṅkhyāvāra)](../9.1.3.1.2.md)
 

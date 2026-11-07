@@ -15,12 +15,11 @@
 
 (22.)
 
-2882\. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa āhārapaccayena paccayo…  tīṇi.
+2882\. Saṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa dhammassa āhārapaccayena paccayo… tīṇi.
 
-2883\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa āhārapaccayena paccayo—  asaṃkiliṭṭhasaṃkilesikā āhārā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe…  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo.
+2883\. Asaṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa āhārapaccayena paccayo— asaṁkiliṭṭhasaṁkilesikā āhārā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ āhārapaccayena paccayo. Paṭisandhikkhaṇe…pe… kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo.
 
-2884\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa āhārapaccayena paccayo…  tīṇi.
+2884\. Asaṁkiliṭṭhaasaṁkilesiko dhammo asaṁkiliṭṭhaasaṁkilesikassa dhammassa āhārapaccayena paccayo… tīṇi.
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 

@@ -15,14 +15,9 @@
 
 (100.)
 
-771\. Nahetupaccayā ārammaṇe tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye tīṇi, purejāte ekaṃ, āsevane ekaṃ, kamme nava, vipāke nava, āhāre nava, indriye nava, jhāne nava, magge ekaṃ, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
+771\. Nahetupaccayā ārammaṇe tīṇi, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye tīṇi, purejāte ekaṁ, āsevane ekaṁ, kamme nava, vipāke nava, āhāre nava, indriye nava, jhāne nava, magge ekaṁ, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
 
----
+772\. Paccanīyānulomaṁ.
 
-772\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (2.5.1.4 Paccayapaccanīyānuloma)](../2.5.1.4.md) / [Go to parent page (2.5.1.4 Paccayapaccanīyānuloma)](../2.5.1.4.md) / [Go to next page (2.5.2 Sahajātavāra)](../../2.5.2.md)
-
+[Go to previous page (2.5.1.4 Paccayapaccanīyānuloma)](../2.5.1.4.md) / [Go to parent page (2.5.1.4 Paccayapaccanīyānuloma)](../2.5.1.4.md) / [Go to next page (2.5.2 Sahajātavāra)](../../2.5.2.md)
 

@@ -19,6 +19,5 @@
 
 3631\. Nahetuyā nava, naārammaṇe nava (sabbattha nava), noavigate nava.
 
-[Go to previous page (11.1.7.2.1 Saṅkhyāvāra)](../11.1.7.2.1.md) / [Go to parent page (11.1.7.2.1 Saṅkhyāvāra)](../11.1.7.2.1.md) / [Go to next page (11.1.7.3 Paccayānulomapaccanīya)](../../11.1.7.3.md)
-
+[Go to previous page (11.1.7.2.1 Saṅkhyāvāra)](../11.1.7.2.1.md) / [Go to parent page (11.1.7.2.1 Saṅkhyāvāra)](../11.1.7.2.1.md) / [Go to next page (11.1.7.3 Paccayānulomapaccanīya)](../../11.1.7.3.md)
 

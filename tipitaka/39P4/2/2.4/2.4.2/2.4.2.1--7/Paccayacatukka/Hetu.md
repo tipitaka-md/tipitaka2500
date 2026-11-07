@@ -17,20 +17,19 @@
 
 (24.)
 
-1024\. Kusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca kusalo sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (1)
+1024\. Kusalaṁ sahetukañceva na ca hetuṁ dhammaṁ paṭicca kusalo sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (1)
 
-1025\. Akusalaṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca akusalo sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (1)
+1025\. Akusalaṁ sahetukañceva na ca hetuṁ dhammaṁ paṭicca akusalo sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (1)
 
-1026\. Abyākataṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca abyākato sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1026\. Abyākataṁ sahetukañceva na ca hetuṁ dhammaṁ paṭicca abyākato sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (25.)
 
-1027\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1027\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-1028\. Naadhipatiyā tīṇi…pe…  navippayutte tīṇi. (Saṃkhittaṃ.)
+1028\. Naadhipatiyā tīṇi…pe… navippayutte tīṇi. (Saṁkhittaṁ.)
 
-1029\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1029\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
 

@@ -17,4 +17,3 @@
 
 [Go to previous page (Āsevanaduka)](../Asevanaduka.md) / [Go to parent page (Āsevanaduka)](../Asevanaduka.md) / [Go to next page (Catukka)](Catukka.md)
 
-

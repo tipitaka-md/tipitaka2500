@@ -15,8 +15,7 @@
 
 (49.)
 
-2855\. Ajjhatto dhammo ajjhattassa dhammassa natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+2855\. Ajjhatto dhammo ajjhattassa dhammassa natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo.
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (21.7.1.2 Saṅkhyāvāra)](../21.7.1.2.md)
-
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (21.7.1.2 Saṅkhyāvāra)](../21.7.1.2.md)
 

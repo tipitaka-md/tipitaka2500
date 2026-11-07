@@ -15,8 +15,7 @@
 
 * Sattarasaka (sāhāra)
 
-1185\. Nahetupaccayā naārammaṇapaccayā…pe…  nakammapaccayā navipākapaccayā naāhārapaccayā najhānapaccayā namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+1185\. Nahetupaccayā naārammaṇapaccayā…pe… nakammapaccayā navipākapaccayā naāhārapaccayā najhānapaccayā namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ…pe… .
 
 [Go to previous page (Cuddasaka)](Cuddasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Ekavīsaka (sāhāra))](kavīsaka_sahara.md)
-
 

@@ -17,14 +17,9 @@
 
 (123.)
 
-343\. Nahetuyā nava…pe…  (sabbattha nava) noavigate nava. (Evaṃ gaṇetabbaṃ.)
+343\. Nahetuyā nava…pe… (sabbattha nava) noavigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+344\. Paccanīyaṁ.
 
-344\. Paccanīyaṃ.
-
-
-
-[Go to previous page (1.2.7.2.1 Saṅkhyāvāra)](../1.2.7.2.1.md) / [Go to parent page (1.2.7.2.1 Saṅkhyāvāra)](../1.2.7.2.1.md) / [Go to next page (1.2.7.3 Paccayānulomapaccanīya)](../../1.2.7.3.md)
-
+[Go to previous page (1.2.7.2.1 Saṅkhyāvāra)](../1.2.7.2.1.md) / [Go to parent page (1.2.7.2.1 Saṅkhyāvāra)](../1.2.7.2.1.md) / [Go to next page (1.2.7.3 Paccayānulomapaccanīya)](../../1.2.7.3.md)
 

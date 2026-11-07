@@ -15,16 +15,15 @@
 
 (12.)
 
-1455\. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati naāsevanapaccayā…  tīṇi.
+1455\. Ācayagāmiṁ dhammaṁ paṭicca ācayagāmī dhammo uppajjati naāsevanapaccayā… tīṇi.
 
-1456\. Apacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  apacayagāmī khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1456\. Apacayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā— apacayagāmī khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1457\. Nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā. (Ekā pañhā sabbe mahābhūtā kātabbā.)
+1457\. Nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā. (Ekā pañhā sabbe mahābhūtā kātabbā.)
 
-1458\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1458\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā— ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1459\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1459\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā— apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

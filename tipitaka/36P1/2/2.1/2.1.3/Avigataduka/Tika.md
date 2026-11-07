@@ -15,15 +15,7 @@
 
 352\. Avigatapaccayā hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
----
+353\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.) Anulomapaccanīyagaṇanā.
 
-353\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-  
-Anulomapaccanīyagaṇanā.
-
-
-
-[Go to previous page (Avigataduka)](../Avigataduka.md) / [Go to parent page (Avigataduka)](../Avigataduka.md) / [Go to next page (2.1.4 Paccayapaccanīyānuloma)](../../2.1.4.md)
-
+[Go to previous page (Avigataduka)](../Avigataduka.md) / [Go to parent page (Avigataduka)](../Avigataduka.md) / [Go to next page (2.1.4 Paccayapaccanīyānuloma)](../../2.1.4.md)
 

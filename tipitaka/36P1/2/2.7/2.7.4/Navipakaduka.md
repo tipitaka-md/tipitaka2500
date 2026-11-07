@@ -13,20 +13,11 @@
 
 (507.)
 
-1747\. Navipākapaccayā hetuyā satta…pe…  avigate terasa.
+1747\. Navipākapaccayā hetuyā satta…pe… avigate terasa.
 
----
+1748\. (Yathā nahetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-1748\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+1749\. Navipākamūlakaṁ.
 
-
-
----
-
-1749\. Navipākamūlakaṃ.
-
-
-
-[Go to previous page (Navaka)](Nakammaduka/Navaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Naāhāraduka)](Naaharaduka.md)
-
+[Go to previous page (Navaka)](Nakammaduka/Navaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Naāhāraduka)](Naaharaduka.md)
 

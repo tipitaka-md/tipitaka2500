@@ -27,22 +27,21 @@
 
 793\. Uppādī nahetu dhammo uppannassa nahetussa dhammassa adhipatipaccayena paccayo. (1)
 
-794\. Uppanno nahetu dhammo uppannassa nahetussa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo…  upanissayapaccayena paccayo.
+794\. Uppanno nahetu dhammo uppannassa nahetussa dhammassa sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… upanissayapaccayena paccayo.
 
 795\. Anuppanno nahetu dhammo uppannassa nahetussa dhammassa upanissayapaccayena paccayo.
 
-796\. Uppādī nahetu dhammo uppannassa nahetussa dhammassa upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+796\. Uppādī nahetu dhammo uppannassa nahetussa dhammassa upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (209.)
 
-797\. Ārammaṇe tīṇi, adhipatiyā tīṇi, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye tīṇi…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+797\. Ārammaṇe tīṇi, adhipatiyā tīṇi, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye tīṇi…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-798\. Nahetuyā tīṇi, naārammaṇe tīṇi. (Saṃkhittaṃ.)
+798\. Nahetuyā tīṇi, naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-799\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṃkhittaṃ.)
+799\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṁkhittaṁ.)
 
-800\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+800\. Nahetupaccayā ārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-[Go to previous page (1.17.2 Nahetupada)](../1.17.2.md) / [Go to parent page (1.17.2 Nahetupada)](../1.17.2.md) / [Go to next page (1.18 Atītattika, Hetuduka)](../../1.18.md)
-
+[Go to previous page (1.17.2 Nahetupada)](../1.17.2.md) / [Go to parent page (1.17.2 Nahetupada)](../1.17.2.md) / [Go to next page (1.18 Atītattika, Hetuduka)](../../1.18.md)
 

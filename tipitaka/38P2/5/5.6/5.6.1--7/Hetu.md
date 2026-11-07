@@ -13,20 +13,11 @@
 
 (117.)
 
-1883\. Ganthavippayuttaganthaniyaṃ dhammaṃ paṭicca ganthavippayuttaganthaniyo dhammo uppajjati hetupaccayā—  ganthavippayuttaṃ ganthaniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe… . (Yathā cūḷantaraduke lokiyadukaṃ, evaṃ vitthāretabbaṃ ninnānākaraṇaṃ.)
+1883\. Ganthavippayuttaganthaniyaṁ dhammaṁ paṭicca ganthavippayuttaganthaniyo dhammo uppajjati hetupaccayā— ganthavippayuttaṁ ganthaniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ…pe… . (Yathā cūḷantaraduke lokiyadukaṁ, evaṁ vitthāretabbaṁ ninnānākaraṇaṁ.)
 
----
+1884\. Ganthavippayuttaganthaniyadukaṁ niṭṭhitaṁ.
 
-1884\. Ganthavippayuttaganthaniyadukaṃ niṭṭhitaṃ.
+1885\. Ganthagocchakaṁ niṭṭhitaṁ.
 
-
-
----
-
-1885\. Ganthagocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (5.6.1--7 Paṭiccādivāra)](../5.6.1--7.md) / [Go to parent page (5.6.1--7 Paṭiccādivāra)](../5.6.1--7.md) / [Go to next page (6--7 Oghayogagocchaka)](../../../6--7.md)
-
+[Go to previous page (5.6.1--7 Paṭiccādivāra)](../5.6.1--7.md) / [Go to parent page (5.6.1--7 Paṭiccādivāra)](../5.6.1--7.md) / [Go to next page (6--7 Oghayogagocchaka)](../../../6--7.md)
 

@@ -17,26 +17,25 @@
 
 (511.)
 
-1142\. Nahetuṃ ajjhattaṃ dhammaṃ paṭicca nahetu ajjhatto dhammo uppajjati nahetupaccayā. Nahetuṃ ajjhattaṃ dhammaṃ paṭicca hetu ajjhatto dhammo uppajjati nahetupaccayā. (2)
+1142\. Nahetuṁ ajjhattaṁ dhammaṁ paṭicca nahetu ajjhatto dhammo uppajjati nahetupaccayā. Nahetuṁ ajjhattaṁ dhammaṁ paṭicca hetu ajjhatto dhammo uppajjati nahetupaccayā. (2)
 
-1143\. Hetuṃ ajjhattaṃ dhammaṃ paṭicca nahetu ajjhatto dhammo uppajjati naārammaṇapaccayā. (1)
+1143\. Hetuṁ ajjhattaṁ dhammaṁ paṭicca nahetu ajjhatto dhammo uppajjati naārammaṇapaccayā. (1)
 
-1144\. Nahetuṃ ajjhattaṃ dhammaṃ paṭicca nahetu ajjhatto dhammo uppajjati naārammaṇapaccayā. (1)
+1144\. Nahetuṁ ajjhattaṁ dhammaṁ paṭicca nahetu ajjhatto dhammo uppajjati naārammaṇapaccayā. (1)
 
-1145\. Hetuṃ ajjhattañca nahetuṃ ajjhattañca dhammaṃ paṭicca nahetu ajjhatto dhammo uppajjati naārammaṇapaccayā. (1)
+1145\. Hetuṁ ajjhattañca nahetuṁ ajjhattañca dhammaṁ paṭicca nahetu ajjhatto dhammo uppajjati naārammaṇapaccayā. (1)
 
-1146\. Hetuṃ ajjhattaṃ dhammaṃ paṭicca hetu ajjhatto dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+1146\. Hetuṁ ajjhattaṁ dhammaṁ paṭicca hetu ajjhatto dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (512.)
 
-1147\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
+1147\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ.)
 
-1148\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1148\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1149\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+1149\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-1150\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1150\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.20.1.7 Pañhāvāra)](../../1.20.1.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.20.1.7 Pañhāvāra)](../../1.20.1.7.md)
 

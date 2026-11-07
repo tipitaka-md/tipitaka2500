@@ -17,12 +17,11 @@
 
 (62.)
 
-3975\. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  saṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+3975\. Saṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa kammapaccayena paccayo— saṁkiliṭṭhā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-3976\. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  saṃkiliṭṭhā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  saṃkiliṭṭhā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Saṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+3976\. Saṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— saṁkiliṭṭhā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. Nānākkhaṇikā— saṁkiliṭṭhā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Saṁkiliṭṭhā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-3977\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  asaṃkiliṭṭhā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  asaṃkiliṭṭhā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+3977\. Asaṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— asaṁkiliṭṭhā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— asaṁkiliṭṭhā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (1)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 

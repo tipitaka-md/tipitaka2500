@@ -17,24 +17,23 @@
 
 (252.)
 
-501\. Nahetuṃ upekkhāsahagataṃ dhammaṃ paṭicca nahetu upekkhāsahagato dhammo uppajjati nahetupaccayā…  dve.
+501\. Nahetuṁ upekkhāsahagataṁ dhammaṁ paṭicca nahetu upekkhāsahagato dhammo uppajjati nahetupaccayā… dve.
 
-502\. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati naadhipatipaccayā…  nava.
+502\. Hetuṁ upekkhāsahagataṁ dhammaṁ paṭicca hetu upekkhāsahagato dhammo uppajjati naadhipatipaccayā… nava.
 
-503\. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati napurejātapaccayā…  nava.
+503\. Hetuṁ upekkhāsahagataṁ dhammaṁ paṭicca hetu upekkhāsahagato dhammo uppajjati napurejātapaccayā… nava.
 
-504\. Hetuṃ upekkhāsahagataṃ dhammaṃ paṭicca hetu upekkhāsahagato dhammo uppajjati napacchājātapaccayā…  nava. (Saṃkhittaṃ.)
+504\. Hetuṁ upekkhāsahagataṁ dhammaṁ paṭicca hetu upekkhāsahagato dhammo uppajjati napacchājātapaccayā… nava. (Saṁkhittaṁ.)
 
 (253.)
 
-505\. Nahetuyā dve, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ, navippayutte nava. (Saṃkhittaṃ.)
+505\. Nahetuyā dve, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṁ, namagge ekaṁ, navippayutte nava. (Saṁkhittaṁ.)
 
-506\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+506\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ.)
 
-507\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+507\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-508\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+508\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7.3.7 Pañhāvāra)](../../1.7.3.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7.3.7 Pañhāvāra)](../../1.7.3.7.md)
 

@@ -15,14 +15,9 @@
 
 (35.)
 
-1757\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte tīṇi, āsevane dve, kamme tīṇi…pe…  avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+1757\. Hetuyā tīṇi, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte tīṇi, āsevane dve, kamme tīṇi…pe… avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+1758\. Anulomaṁ.
 
-1758\. Anulomaṃ.
-
-
-
-[Go to previous page (12.5.1.2 Saṅkhyāvāra)](../12.5.1.2.md) / [Go to parent page (12.5.1.2 Saṅkhyāvāra)](../12.5.1.2.md) / [Go to next page (12.5.2 Paccayapaccanīya)](../../12.5.2.md)
-
+[Go to previous page (12.5.1.2 Saṅkhyāvāra)](../12.5.1.2.md) / [Go to parent page (12.5.1.2 Saṅkhyāvāra)](../12.5.1.2.md) / [Go to next page (12.5.2 Paccayapaccanīya)](../../12.5.2.md)
 

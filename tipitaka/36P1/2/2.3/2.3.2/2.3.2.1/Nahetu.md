@@ -15,14 +15,13 @@
 
 (142.)
 
-514\. Akusalaṃ dhammaṃ paccayā akusalo dhammo uppajjati na hetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+514\. Akusalaṁ dhammaṁ paccayā akusalo dhammo uppajjati na hetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-515\. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati nahetupaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paccayā dve khandhā cittasamuṭṭhānañca rūpaṃ; ahetukapaṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ paccayā tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe paccayā dve khandhā kaṭattā ca rūpaṃ; khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā kaṭattārūpaṃ upādārūpaṃ. Cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ; vatthuṃ paccayā ahetukā vipākābyākatā kiriyābyākatā khandhā. (1)
+515\. Abyākataṁ dhammaṁ paccayā abyākato dhammo uppajjati nahetupaccayā— ahetukaṁ vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paccayā dve khandhā cittasamuṭṭhānañca rūpaṁ; ahetukapaṭisandhikkhaṇe vipākābyākataṁ ekaṁ khandhaṁ paccayā tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe paccayā dve khandhā kaṭattā ca rūpaṁ; khandhe paccayā vatthu, vatthuṁ paccayā khandhā; ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… mahābhūte paccayā kaṭattārūpaṁ upādārūpaṁ. Cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ; vatthuṁ paccayā ahetukā vipākābyākatā kiriyābyākatā khandhā. (1)
 
-516\. Abyākataṃ dhammaṃ paccayā akusalo dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
+516\. Abyākataṁ dhammaṁ paccayā akusalo dhammo uppajjati nahetupaccayā— vatthuṁ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
-517\. Akusalañca abyākatañca dhammaṃ paccayā akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+517\. Akusalañca abyākatañca dhammaṁ paccayā akusalo dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

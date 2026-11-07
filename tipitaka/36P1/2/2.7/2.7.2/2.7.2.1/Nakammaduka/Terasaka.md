@@ -15,14 +15,9 @@
 
 * Terasaka
 
-1230\. Nakammapaccayā nahetupaccayā…pe…  napurejātapaccayā napacchājātapaccayā naāsevane ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. (Saṃkhittaṃ.)
+1230\. Nakammapaccayā nahetupaccayā…pe… napurejātapaccayā napacchājātapaccayā naāsevane ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ. (Saṁkhittaṁ.)
 
----
-
-1231\. Navipākapaccayā… . (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+1231\. Navipākapaccayā… . (Yathā nahetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Nakammaduka)](../Nakammaduka.md) / [Go to next page (Naāhāraduka)](../Naaharaduka.md)
-
 

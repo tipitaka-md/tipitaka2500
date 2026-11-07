@@ -15,24 +15,19 @@
 
 (12.)
 
-1491\. Sappaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo.
+1491\. Sappaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo.
 
-1492\. Appaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa ārammaṇapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1492\. Appaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa ārammaṇapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (13.)
 
-1493\. Nahetuyā dve, naārammaṇe ekaṃ. (Saṃkhittaṃ.)
+1493\. Nahetuyā dve, naārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-1494\. Hetupaccayā naārammaṇe ekaṃ. (Saṃkhittaṃ.)
+1494\. Hetupaccayā naārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-1495\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+1495\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
----
+1496\. Sappaccayadukakusalattikaṁ niṭṭhitaṁ.
 
-1496\. Sappaccayadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (3.1.2.1--7 Paṭiccādivāra)](../3.1.2.1--7.md) / [Go to next page (3.2 Saṅkhataduka, Kusalattika)](../../../3.2.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (3.1.2.1--7 Paṭiccādivāra)](../3.1.2.1--7.md) / [Go to next page (3.2 Saṅkhataduka, Kusalattika)](../../../3.2.md)
 

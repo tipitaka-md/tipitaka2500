@@ -13,14 +13,13 @@
 
 (38.)
 
-416\. Paccuppanno kusalo dhammo paccuppannassa kusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṃ.)
+416\. Paccuppanno kusalo dhammo paccuppannassa kusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṁ.)
 
-417\. Paccuppanno akusalo dhammo paccuppannassa akusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṃ. Sabbattha vitthāro.)
+417\. Paccuppanno akusalo dhammo paccuppannassa akusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṁ. Sabbattha vitthāro.)
 
 418\. Paccuppanno abyākato dhammo paccuppannassa abyākatassa dhammassa hetupaccayena paccayo.
 
-419\. Hetuyā ekaṃ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  upanissaye tīṇi…pe…  avigate ekaṃ. (Sabbattha vitthāro.)
+419\. Hetuyā ekaṁ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe… upanissaye tīṇi…pe… avigate ekaṁ. (Sabbattha vitthāro.)
 
-[Go to previous page (2.17.7 Pañhāvāra)](../2.17.7.md) / [Go to parent page (2.17.7 Pañhāvāra)](../2.17.7.md) / [Go to next page (2.18 Atītārammaṇattika, Kusalattika)](../../2.18.md)
-
+[Go to previous page (2.17.7 Pañhāvāra)](../2.17.7.md) / [Go to parent page (2.17.7 Pañhāvāra)](../2.17.7.md) / [Go to next page (2.18 Atītārammaṇattika, Kusalattika)](../../2.18.md)
 

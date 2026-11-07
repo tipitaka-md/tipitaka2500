@@ -17,8 +17,7 @@
 
 (65.)
 
-1763\. Ganthavippayuttaṃ dhammaṃ saṃsaṭṭho ganthavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ ganthavippayuttaṃ…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.)
+1763\. Ganthavippayuttaṁ dhammaṁ saṁsaṭṭho ganthavippayutto dhammo uppajjati nahetupaccayā— ahetukaṁ ganthavippayuttaṁ…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe saṁsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (Saṁkhittaṁ.)
 
-[Go to previous page (5.3.5.2.1 Vibhaṅgavāra)](../5.3.5.2.1.md) / [Go to parent page (5.3.5.2.1 Vibhaṅgavāra)](../5.3.5.2.1.md) / [Go to next page (5.3.5.2.2 Saṅkhyāvāra)](../5.3.5.2.2.md)
-
+[Go to previous page (5.3.5.2.1 Vibhaṅgavāra)](../5.3.5.2.1.md) / [Go to parent page (5.3.5.2.1 Vibhaṅgavāra)](../5.3.5.2.1.md) / [Go to next page (5.3.5.2.2 Saṅkhyāvāra)](../5.3.5.2.2.md)
 

@@ -13,8 +13,7 @@
 
 * Tika
 
-314\. Vipākapaccayā hetupaccayā naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+314\. Vipākapaccayā hetupaccayā naārammaṇe ekaṁ, naadhipatiyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
 [Go to previous page (Vipākaduka)](../Vipakaduka.md) / [Go to parent page (Vipākaduka)](../Vipakaduka.md) / [Go to next page (Catukka)](Catukka.md)
-
 

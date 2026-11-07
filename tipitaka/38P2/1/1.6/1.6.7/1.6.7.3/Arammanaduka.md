@@ -15,14 +15,9 @@
 
 (200.)
 
-540\. Ārammaṇapaccayā nahetuyā cattāri, naadhipatiyā cattāri, naanantare cattāri (sabbattha cattāri), nonatthiyā cattāri, novigate cattāri, noavigate cattāri. (Evaṃ gaṇetabbaṃ.)
+540\. Ārammaṇapaccayā nahetuyā cattāri, naadhipatiyā cattāri, naanantare cattāri (sabbattha cattāri), nonatthiyā cattāri, novigate cattāri, noavigate cattāri. (Evaṁ gaṇetabbaṁ.)
 
----
+541\. Anulomapaccanīyaṁ.
 
-541\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (1.6.7.3 Paccayānulomapaccanīya)](../1.6.7.3.md) / [Go to parent page (1.6.7.3 Paccayānulomapaccanīya)](../1.6.7.3.md) / [Go to next page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md)
-
+[Go to previous page (1.6.7.3 Paccayānulomapaccanīya)](../1.6.7.3.md) / [Go to parent page (1.6.7.3 Paccayānulomapaccanīya)](../1.6.7.3.md) / [Go to next page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md)
 

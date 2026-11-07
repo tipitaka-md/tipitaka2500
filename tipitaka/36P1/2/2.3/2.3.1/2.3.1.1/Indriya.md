@@ -15,14 +15,9 @@
 
 (129.)
 
-482\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati indriyapaccayā…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ paccayā…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā vipākābyākatā kiriyābyākatā khandhā.
+482\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati indriyapaccayā…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ paccayā…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā vipākābyākatā kiriyābyākatā khandhā.
 
----
+483\. (Indriyapaccayā yathā kammapaccayā, evaṁ vitthāretabbaṁ.)
 
-483\. (Indriyapaccayā yathā kammapaccayā, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Jhāna-magga)](Jhana-magga.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Jhāna-magga)](Jhana-magga.md)
 

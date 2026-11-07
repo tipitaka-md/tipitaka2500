@@ -15,6 +15,5 @@
 
 595\. Nissayapaccayā nahetuyā cattāri. (Nissayapaccayā yathā sahajātapaccayā.)
 
-[Go to previous page (Catukka)](Annamannaduka/Catukka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Upanissayaduka)](Upanissayaduka.md)
-
+[Go to previous page (Catukka)](Annamannaduka/Catukka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Upanissayaduka)](Upanissayaduka.md)
 

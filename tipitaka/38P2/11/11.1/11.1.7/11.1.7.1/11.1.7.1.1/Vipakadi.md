@@ -17,12 +17,11 @@
 
 (31.)
 
-3603\. Noupādāno dhammo noupādānassa dhammassa vipākapaccayena paccayo—  vipāko noupādāno eko khandho…pe…  ekaṃ.
+3603\. Noupādāno dhammo noupādānassa dhammassa vipākapaccayena paccayo— vipāko noupādāno eko khandho…pe… ekaṁ.
 
-3604\. Noupādāno dhammo noupādānassa dhammassa āhārapaccayena paccayo…  tīṇi (ekoyeva kabaḷīkāro āhāro)…  indriyapaccayena paccayo…  tīṇi (rūpajīvitindriyaṃ ekaṃyeva)…  jhānapaccayena paccayo…  tīṇi.
+3604\. Noupādāno dhammo noupādānassa dhammassa āhārapaccayena paccayo… tīṇi (ekoyeva kabaḷīkāro āhāro)… indriyapaccayena paccayo… tīṇi (rūpajīvitindriyaṁ ekaṁyeva)… jhānapaccayena paccayo… tīṇi.
 
-3605\. Upādāno dhammo upādānassa dhammassa maggapaccayena paccayo—  upādānāni maggaṅgāni sampayuttakānaṃ upādānānaṃ maggapaccayena paccayo (iminā kāraṇena nava pañhā kātabbā)…  sampayuttapaccayena paccayo…  nava.
+3605\. Upādāno dhammo upādānassa dhammassa maggapaccayena paccayo— upādānāni maggaṅgāni sampayuttakānaṁ upādānānaṁ maggapaccayena paccayo (iminā kāraṇena nava pañhā kātabbā)… sampayuttapaccayena paccayo… nava.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

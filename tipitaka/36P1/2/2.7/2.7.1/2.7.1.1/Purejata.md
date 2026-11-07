@@ -15,22 +15,21 @@
 
 (288.)
 
-928\. Abyākato dhammo abyākatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ.
+928\. Abyākato dhammo abyākatassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ.
 
-929\. **Ārammaṇapurejātaṃ**—  arahā cakkhuṃ aniccato dukkhato anattato vipassati. Sotaṃ…pe…  ghānaṃ…pe…  jivhaṃ…pe…  kāyaṃ…pe…  rūpe…pe…  sadde…pe…  gandhe…pe…  rase…pe…  phoṭṭhabbe…pe…  vatthuṃ aniccato dukkhato anattato vipassati, dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. Rūpāyatanaṃ cakkhuviññāṇassa purejātapaccayena paccayo. Saddāyatanaṃ sotaviññāṇassa…pe…  gandhāyatanaṃ ghānaviññāṇassa…pe…  rasāyatanaṃ jivhāviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo.
+929\. Ārammaṇapurejātaṁ— arahā cakkhuṁ aniccato dukkhato anattato vipassati. Sotaṁ…pe… ghānaṁ…pe… jivhaṁ…pe… kāyaṁ…pe… rūpe…pe… sadde…pe… gandhe…pe… rase…pe… phoṭṭhabbe…pe… vatthuṁ aniccato dukkhato anattato vipassati, dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Rūpāyatanaṁ cakkhuviññāṇassa purejātapaccayena paccayo. Saddāyatanaṁ sotaviññāṇassa…pe… gandhāyatanaṁ ghānaviññāṇassa…pe… rasāyatanaṁ jivhāviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo.
 
-930\. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa purejātapaccayena paccayo. Sotāyatanaṃ sotaviññāṇassa…pe…  ghānāyatanaṃ ghānaviññāṇassa…pe…  jivhāyatanaṃ jivhāviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. Vatthu vipākābyākatānaṃ kiriyābyākatānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+930\. Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa purejātapaccayena paccayo. Sotāyatanaṁ sotaviññāṇassa…pe… ghānāyatanaṁ ghānaviññāṇassa…pe… jivhāyatanaṁ jivhāviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthu vipākābyākatānaṁ kiriyābyākatānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-931\. Abyākato dhammo kusalassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ.
+931\. Abyākato dhammo kusalassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ.
 
-932\. **Ārammaṇapurejātaṃ**—  sekkhā vā puthujjanā vā cakkhuṃ aniccato dukkhato anattato vipassanti. Sotaṃ…pe…  ghānaṃ…pe…  jivhaṃ…pe…  kāyaṃ…pe…  rūpe…pe…  sadde…pe…  gandhe…pe…  rase…pe…  phoṭṭhabbe…pe…  vatthuṃ aniccato dukkhato anattato vipassanti. Dibbena cakkhunā rūpaṃ passanti. Dibbāya sotadhātuyā saddaṃ suṇanti.
+932\. Ārammaṇapurejātaṁ— sekkhā vā puthujjanā vā cakkhuṁ aniccato dukkhato anattato vipassanti. Sotaṁ…pe… ghānaṁ…pe… jivhaṁ…pe… kāyaṁ…pe… rūpe…pe… sadde…pe… gandhe…pe… rase…pe… phoṭṭhabbe…pe… vatthuṁ aniccato dukkhato anattato vipassanti. Dibbena cakkhunā rūpaṁ passanti. Dibbāya sotadhātuyā saddaṁ suṇanti.
 
-933\. **Vatthupurejātaṃ**—  vatthu kusalānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+933\. Vatthupurejātaṁ— vatthu kusalānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-934\. Abyākato dhammo akusalassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṃ uppajjati, domanassaṃ uppajjati. Sotaṃ…pe…  ghānaṃ…pe…  jivhaṃ…pe…  kāyaṃ…pe…  rūpe…pe…  sadde…pe…  gandhe…pe…  rase…pe…  phoṭṭhabbe…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati.
+934\. Abyākato dhammo akusalassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ assādeti abhinandati, taṁ ārabbha rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati, uddhaccaṁ uppajjati, domanassaṁ uppajjati. Sotaṁ…pe… ghānaṁ…pe… jivhaṁ…pe… kāyaṁ…pe… rūpe…pe… sadde…pe… gandhe…pe… rase…pe… phoṭṭhabbe…pe… vatthuṁ assādeti abhinandati, taṁ ārabbha rāgo uppajjati…pe… domanassaṁ uppajjati.
 
-935\. **Vatthupurejātaṃ**—  vatthu akusalānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
+935\. Vatthupurejātaṁ— vatthu akusalānaṁ khandhānaṁ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 

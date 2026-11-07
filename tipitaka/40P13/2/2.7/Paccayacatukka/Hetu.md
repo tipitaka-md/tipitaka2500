@@ -13,10 +13,9 @@
 
 (16.)
 
-31\. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nadukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo naadukkhamasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa ca naadukkhamasukhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nadukkhāya vedanāya sampayuttassa ca naadukkhamasukhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa ca nadukkhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa ca nadukkhāya vedanāya sampayuttassa ca naadukkhamasukhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. (7) (Saṃkhittaṃ.)
+31\. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nadukkhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo naadukkhamasukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa ca naadukkhamasukhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nadukkhāya vedanāya sampayuttassa ca naadukkhamasukhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa ca nadukkhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. Sukhāya vedanāya sampayutto dhammo nasukhāya vedanāya sampayuttassa ca nadukkhāya vedanāya sampayuttassa ca naadukkhamasukhāya vedanāya sampayuttassa ca dhammassa hetupaccayena paccayo. (7) (Saṁkhittaṁ.)
 
-32\. Hetuyā ekavīsa, ārammaṇe ekavīsa…pe…  avigate ekavīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
+32\. Hetuyā ekavīsa, ārammaṇe ekavīsa…pe… avigate ekavīsa. (Pañhāvāraṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3 Vipākattika)](../../../3.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3 Vipākattika)](../../../3.md)
 

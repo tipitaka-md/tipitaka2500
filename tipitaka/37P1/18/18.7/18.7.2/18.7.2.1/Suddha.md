@@ -15,14 +15,9 @@
 
 (21.)
 
-2622\. Nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe…  navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve. (Evaṃ gaṇetabbaṃ.)
+2622\. Nahetuyā tīṇi, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe… navippayutte tīṇi, noatthiyā dve, nonatthiyā tīṇi, novigate tīṇi, noavigate dve. (Evaṁ gaṇetabbaṁ.)
 
----
+2623\. Paccanīyaṁ.
 
-2623\. Paccanīyaṃ.
-
-
-
-[Go to previous page (18.7.2.1 Saṅkhyāvāra)](../18.7.2.1.md) / [Go to parent page (18.7.2.1 Saṅkhyāvāra)](../18.7.2.1.md) / [Go to next page (18.7.3 Paccayānulomapaccanīya)](../../18.7.3.md)
-
+[Go to previous page (18.7.2.1 Saṅkhyāvāra)](../18.7.2.1.md) / [Go to parent page (18.7.2.1 Saṅkhyāvāra)](../18.7.2.1.md) / [Go to next page (18.7.3 Paccayānulomapaccanīya)](../../18.7.3.md)
 

@@ -17,8 +17,7 @@
 
 (39.)
 
-2400\. Sārammaṇo dhammo sārammaṇassa dhammassa jhānapaccayena paccayo…  tīṇi, maggapaccayena paccayo…  tīṇi, sampayuttapaccayena paccayo…  ekaṃ.
+2400\. Sārammaṇo dhammo sārammaṇassa dhammassa jhānapaccayena paccayo… tīṇi, maggapaccayena paccayo… tīṇi, sampayuttapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

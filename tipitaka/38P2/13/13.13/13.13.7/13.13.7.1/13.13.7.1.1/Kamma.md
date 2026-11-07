@@ -17,10 +17,9 @@
 
 (288.)
 
-4693\. Arūpāvacaro dhammo arūpāvacarassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā…pe… . Arūpāvacaro dhammo naarūpāvacarassa dhammassa kammapaccayena paccayo—  arūpāvacarā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Arūpāvacarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+4693\. Arūpāvacaro dhammo arūpāvacarassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā…pe… . Arūpāvacaro dhammo naarūpāvacarassa dhammassa kammapaccayena paccayo— arūpāvacarā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Arūpāvacarā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-4694\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  naarūpāvacarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (Saṃkhittaṃ.) (1)
+4694\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— naarūpāvacarā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 

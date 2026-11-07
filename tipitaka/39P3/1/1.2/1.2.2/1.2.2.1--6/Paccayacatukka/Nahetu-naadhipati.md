@@ -17,22 +17,21 @@
 
 (85.)
 
-144\. Nahetuṃ dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nahetu dukkhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā (1)
+144\. Nahetuṁ dukkhāya vedanāya sampayuttaṁ dhammaṁ paṭicca nahetu dukkhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā (1)
 
 (86.)
 
-145\. Hetuṃ dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu dukkhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+145\. Hetuṁ dukkhāya vedanāya sampayuttaṁ dhammaṁ paṭicca hetu dukkhāya vedanāya sampayutto dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (87.)
 
-146\. Nahetuyā ekaṃ, naadhipatiyā nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṃ, namagge ekaṃ. (Paccanīyaṃ.)
+146\. Nahetuyā ekaṁ, naadhipatiyā nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, najhāne ekaṁ, namagge ekaṁ. (Paccanīyaṁ.)
 
-147\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ, anulomapaccanīyaṃ.)
+147\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ, anulomapaccanīyaṁ.)
 
-148\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ, paccanīyānulomaṃ.)
+148\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ, paccanīyānulomaṁ.)
 
-149\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+149\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.2.2.7 Pañhāvāra)](../../1.2.2.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.2.2.7 Pañhāvāra)](../../1.2.2.7.md)
 

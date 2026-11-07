@@ -13,8 +13,7 @@
 
 * Sattaka
 
-630\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+630\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte ekaṁ, nissaye ekaṁ, kamme ekaṁ, vipāke ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
-
 

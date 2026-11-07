@@ -15,14 +15,9 @@
 
 (102.)
 
-1840\. Nahetupaccayā ārammaṇe nava, adhipatiyā nava (anulomamātikā vitthāretabbā)…pe…  avigate nava.
+1840\. Nahetupaccayā ārammaṇe nava, adhipatiyā nava (anulomamātikā vitthāretabbā)…pe… avigate nava.
 
----
+1841\. Ganthasampayuttadukaṁ niṭṭhitaṁ.
 
-1841\. Ganthasampayuttadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md) / [Go to parent page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md) / [Go to next page (5.4 Ganthaganthaniyaduka)](../../../5.4.md)
-
+[Go to previous page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md) / [Go to parent page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md) / [Go to next page (5.4 Ganthaganthaniyaduka)](../../../5.4.md)
 

@@ -31,20 +31,15 @@
 
 1324\. Kusalo āsavavippayutto anāsavo dhammo abyākatassa āsavavippayuttassa anāsavassa dhammassa anantarapaccayena paccayo. (1)
 
-1325\. Abyākato āsavavippayutto anāsavo dhammo abyākatassa āsavavippayuttassa anāsavassa dhammassa anantarapaccayena paccayo. (1) (Saṃkhittaṃ.)
+1325\. Abyākato āsavavippayutto anāsavo dhammo abyākatassa āsavavippayuttassa anāsavassa dhammassa anantarapaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (33.)
 
-1326\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe…  kamme tīṇi, vipāke ekaṃ, āhāre…pe…  sampayutte dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1326\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe… kamme tīṇi, vipāke ekaṁ, āhāre…pe… sampayutte dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1327\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1327\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
----
+1328\. Kusalattikaāsavagocchakaṁ niṭṭhitaṁ.
 
-1328\. Kusalattikaāsavagocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.7 Kusalattika, Saññojanadukādi)](../../../4.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (4.7 Kusalattika, Saññojanadukādi)](../../../4.7.md)
 

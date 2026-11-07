@@ -17,16 +17,15 @@
 
 (375.)
 
-3256\. Upādā dhammaṃ paṭicca noupādā dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca noupādā khandhā. (1)
+3256\. Upādā dhammaṁ paṭicca noupādā dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca noupādā khandhā. (1)
 
-3257\. Noupādā dhammaṃ paṭicca noupādā dhammo uppajjati nahetupaccayā—  ahetukaṃ noupādā ekaṃ khandhaṃ paṭicca tayo khandhā noupādā ca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte paṭicca dve mahābhūtā, vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+3257\. Noupādā dhammaṁ paṭicca noupādā dhammo uppajjati nahetupaccayā— ahetukaṁ noupādā ekaṁ khandhaṁ paṭicca tayo khandhā noupādā ca cittasamuṭṭhānaṁ rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā, vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-3258\. Noupādā dhammaṃ paṭicca upādā dhammo uppajjati nahetupaccayā—  ahetuke noupādā khandhe paṭicca upādā cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe…pe…  mahābhūte paṭicca upādā cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ…pe… . (Yāva asaññasattā.) (2)
+3258\. Noupādā dhammaṁ paṭicca upādā dhammo uppajjati nahetupaccayā— ahetuke noupādā khandhe paṭicca upādā cittasamuṭṭhānaṁ rūpaṁ; ahetukapaṭisandhikkhaṇe…pe… mahābhūte paṭicca upādā cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ…pe… . (Yāva asaññasattā.) (2)
 
-3259\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ noupādā ekaṃ khandhaṃ paṭicca tayo khandhā upādā ca noupādā ca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (3)
+3259\. Noupādā dhammaṁ paṭicca upādā ca noupādā ca dhammā uppajjanti nahetupaccayā— ahetukaṁ noupādā ekaṁ khandhaṁ paṭicca tayo khandhā upādā ca noupādā ca cittasamuṭṭhānaṁ rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… . (3)
 
-3260\. Upādā ca noupādā ca dhammaṃ paṭicca noupādā dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe noupādā ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+3260\. Upādā ca noupādā ca dhammaṁ paṭicca noupādā dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe noupādā ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-[Go to previous page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
-
+[Go to previous page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
 

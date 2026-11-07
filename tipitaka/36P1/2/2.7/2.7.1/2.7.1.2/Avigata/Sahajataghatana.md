@@ -17,19 +17,11 @@
 
 (390.)
 
-1155\. Avigata sahajāta nissaya atthīti nava. Avigata sahajāta aññamañña nissaya atthīti tīṇi. Avigata sahajāta aññamañña nissaya sampayutta atthīti tīṇi. Avigata sahajāta nissaya vippayutta atthīti tīṇi. Avigata sahajāta aññamañña nissaya vippayutta atthīti ekaṃ. [Avipāka—  5]
+1155\. Avigata sahajāta nissaya atthīti nava. Avigata sahajāta aññamañña nissaya atthīti tīṇi. Avigata sahajāta aññamañña nissaya sampayutta atthīti tīṇi. Avigata sahajāta nissaya vippayutta atthīti tīṇi. Avigata sahajāta aññamañña nissaya vippayutta atthīti ekaṁ. [Avipāka— 5]
 
-1156\. Avigata sahajāta nissaya vipāka atthīti ekaṃ. Avigata sahajāta aññamañña nissaya vipāka atthīti ekaṃ. Avigata sahajāta aññamañña nissaya vipāka sampayutta atthīti ekaṃ. Avigata sahajāta nissaya vipāka vippayutta atthīti ekaṃ. Avigata sahajāta aññamañña nissaya vipāka vippayutta atthīti ekaṃ. [Savipāka—  5]
+1156\. Avigata sahajāta nissaya vipāka atthīti ekaṁ. Avigata sahajāta aññamañña nissaya vipāka atthīti ekaṁ. Avigata sahajāta aññamañña nissaya vipāka sampayutta atthīti ekaṁ. Avigata sahajāta nissaya vipāka vippayutta atthīti ekaṁ. Avigata sahajāta aññamañña nissaya vipāka vippayutta atthīti ekaṁ. [Savipāka— 5]
 
----
-
-1157\. Avigatamūlakaṃ.
-
-  
-Pañhāvārassa anulomagaṇanā.
-
-
+1157\. Avigatamūlakaṁ. Pañhāvārassa anulomagaṇanā.
 
 [Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Avigata)](../Avigata.md) / [Go to next page (Paccanīyuddhāra)](../../../Paccaniyuddhara.md)
-
 

@@ -13,8 +13,7 @@
 
 * Pañcaka
 
-1727\. Nanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā anantare satta, samanantare satta, upanissaye nava, pacchājāte tīṇi, āsevane tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā pañca, natthiyā satta, vigate satta, avigate pañca…pe… .
+1727\. Nanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā anantare satta, samanantare satta, upanissaye nava, pacchājāte tīṇi, āsevane tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte tīṇi, atthiyā pañca, natthiyā satta, vigate satta, avigate pañca…pe… .
 
 [Go to previous page (Nanissayaduka)](../Nanissayaduka.md) / [Go to parent page (Nanissayaduka)](../Nanissayaduka.md) / [Go to next page (Navaka)](Navaka.md)
-
 

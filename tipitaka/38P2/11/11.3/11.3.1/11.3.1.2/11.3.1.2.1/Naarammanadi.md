@@ -17,14 +17,13 @@
 
 (52.)
 
-3654\. Upādānasampayuttaṃ dhammaṃ paṭicca upādānavippayutto dhammo uppajjati naārammaṇapaccayā—  upādānasampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+3654\. Upādānasampayuttaṁ dhammaṁ paṭicca upādānavippayutto dhammo uppajjati naārammaṇapaccayā— upādānasampayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-3655\. Upādānavippayuttaṃ dhammaṃ paṭicca upādānavippayutto dhammo uppajjati naārammaṇapaccayā—  upādānavippayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttaṃ lobhaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+3655\. Upādānavippayuttaṁ dhammaṁ paṭicca upādānavippayutto dhammo uppajjati naārammaṇapaccayā— upādānavippayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ, diṭṭhigatavippayuttaṁ lobhaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-3656\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paṭicca upādānavippayutto dhammo uppajjati naārammaṇapaccayā—  upādānasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+3656\. Upādānasampayuttañca upādānavippayuttañca dhammaṁ paṭicca upādānavippayutto dhammo uppajjati naārammaṇapaccayā— upādānasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-3657\. Naadhipatipaccayā…  naanantarapaccayā…  nasamanantarapaccayā…  naupanissayapaccayā.
+3657\. Naadhipatipaccayā… naanantarapaccayā… nasamanantarapaccayā… naupanissayapaccayā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.3.1.2.1 Vibhaṅgavāra)](../11.3.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.3.1.2.1 Vibhaṅgavāra)](../11.3.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
 

@@ -13,11 +13,10 @@
 
 (77.)
 
-330\. Maggapaccayā nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+330\. Maggapaccayā nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 * [Tika](Maggaduka/Tika.md)
 * [Catukka](Maggaduka/Catukka.md)
 
-[Go to previous page (Catukka)](Jhanaduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Tika)](Maggaduka/Tika.md)
-
+[Go to previous page (Catukka)](Jhanaduka/Catukka.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Tika)](Maggaduka/Tika.md)
 

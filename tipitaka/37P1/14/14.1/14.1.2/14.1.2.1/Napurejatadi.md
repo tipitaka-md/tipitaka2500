@@ -15,12 +15,11 @@
 
 (6.)
 
-2169\. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe parittārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (1)
+2169\. Parittārammaṇaṁ dhammaṁ paṭicca parittārammaṇo dhammo uppajjati napurejātapaccayā— arūpe parittārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2170\. Mahaggatārammaṇaṃ dhammaṃ paṭicca mahaggatārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe mahaggatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (Mahaggatārammaṇe paṭisandhi natthi.) (1)
+2170\. Mahaggatārammaṇaṁ dhammaṁ paṭicca mahaggatārammaṇo dhammo uppajjati napurejātapaccayā— arūpe mahaggatārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. (Mahaggatārammaṇe paṭisandhi natthi.) (1)
 
-2171\. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe appamāṇārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (Napacchājātapaccayañca naāsevanapaccayañca naadhipatisadisaṃ.)
+2171\. Appamāṇārammaṇaṁ dhammaṁ paṭicca appamāṇārammaṇo dhammo uppajjati napurejātapaccayā— arūpe appamāṇārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. (Napacchājātapaccayañca naāsevanapaccayañca naadhipatisadisaṁ.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (14.1.2.1 Vibhaṅgavāra)](../14.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (14.1.2.1 Vibhaṅgavāra)](../14.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

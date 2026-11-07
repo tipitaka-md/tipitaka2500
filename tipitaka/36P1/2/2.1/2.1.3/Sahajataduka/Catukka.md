@@ -15,12 +15,7 @@
 
 295\. Sahajātapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-296\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+296\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Sahajātaduka)](../Sahajataduka.md) / [Go to next page (Aññamaññaduka)](../Annamannaduka.md)
-
 

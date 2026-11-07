@@ -19,20 +19,15 @@
 
 1539\. Indriya hetādhipati sahajāta aññamañña nissaya magga sampayutta atthi avigatanti naārammaṇe dve, naanantare dve, nasamanantare dve, naupanissaye dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, naāhāre dve, najhāne dve, navippayutte dve, nonatthiyā dve, novigate dve.
 
-1540\. Indriya hetādhipati sahajāta nissaya magga vippayutta atthi avigatanti naārammaṇe dve, naanantare dve, nasamanantare dve, naaññamaññe dve, naupanissaye dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, naāhāre dve, najhāne dve, nasampayutte dve, nonatthiyā dve, novigate dve. [Avipāka—  3]
+1540\. Indriya hetādhipati sahajāta nissaya magga vippayutta atthi avigatanti naārammaṇe dve, naanantare dve, nasamanantare dve, naaññamaññe dve, naupanissaye dve, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme dve, navipāke dve, naāhāre dve, najhāne dve, nasampayutte dve, nonatthiyā dve, novigate dve. [Avipāka— 3]
 
-1541\. Indriya hetādhipati sahajāta nissaya vipāka magga atthi avigatanti naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1541\. Indriya hetādhipati sahajāta nissaya vipāka magga atthi avigatanti naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, naāhāre ekaṁ, najhāne ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1542\. Indriya hetādhipati sahajāta aññamañña nissaya vipāka magga sampayutta atthi avigatanti naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1542\. Indriya hetādhipati sahajāta aññamañña nissaya vipāka magga sampayutta atthi avigatanti naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, naāhāre ekaṁ, najhāne ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1543\. Indriya hetādhipati sahajāta nissaya vipāka magga vippayutta atthi avigatanti naārammaṇe ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ. [Savipāka—  3]
+1543\. Indriya hetādhipati sahajāta nissaya vipāka magga vippayutta atthi avigatanti naārammaṇe ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, naāhāre ekaṁ, najhāne ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ. [Savipāka— 3]
 
----
-
-1544\. Indriyamūlakaṃ.
-
-
+1544\. Indriyamūlakaṁ.
 
 [Go to previous page (Sahetu-maggaghaṭanā)](Sahetu-maggaghatana.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Jhāna)](../Jhana.md)
-
 

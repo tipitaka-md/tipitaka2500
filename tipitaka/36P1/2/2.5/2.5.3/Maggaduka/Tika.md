@@ -13,8 +13,7 @@
 
 * Tika
 
-781\. Maggapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+781\. Maggapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Maggaduka)](../Maggaduka.md) / [Go to parent page (Maggaduka)](../Maggaduka.md) / [Go to next page (Sampayuttaduka)](../Sampayuttaduka.md)
-
 

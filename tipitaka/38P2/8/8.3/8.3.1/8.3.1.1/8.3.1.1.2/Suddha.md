@@ -17,14 +17,9 @@
 
 (54.)
 
-1999\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe…  natthiyā dve…pe…  avigate pañca.
+1999\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe… natthiyā dve…pe… avigate pañca.
 
----
+2000\. Anulomaṁ.
 
-2000\. Anulomaṃ.
-
-
-
-[Go to previous page (8.3.1.1.2 Saṅkhyāvāra)](../8.3.1.1.2.md) / [Go to parent page (8.3.1.1.2 Saṅkhyāvāra)](../8.3.1.1.2.md) / [Go to next page (8.3.1.2 Paccayapaccanīya)](../../8.3.1.2.md)
-
+[Go to previous page (8.3.1.1.2 Saṅkhyāvāra)](../8.3.1.1.2.md) / [Go to parent page (8.3.1.1.2 Saṅkhyāvāra)](../8.3.1.1.2.md) / [Go to next page (8.3.1.2 Paccayapaccanīya)](../../8.3.1.2.md)
 

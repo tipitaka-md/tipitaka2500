@@ -17,8 +17,7 @@
 
 (337.)
 
-3145\. Ajjhattikaṃ dhammaṃ paccayā ajjhattiko dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe cittaṃ paccayā ajjhattikaṃ kaṭattārūpaṃ, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ. (Saṃkhittaṃ. Evaṃ navapi pañhā kātabbā. Pañcaviññāṇampi pavesetvā tīṇiyeva moho.)
+3145\. Ajjhattikaṁ dhammaṁ paccayā ajjhattiko dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe cittaṁ paccayā ajjhattikaṁ kaṭattārūpaṁ, cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ. (Saṁkhittaṁ. Evaṁ navapi pañhā kātabbā. Pañcaviññāṇampi pavesetvā tīṇiyeva moho.)
 
-[Go to previous page (10.12.3.2.1 Vibhaṅgavāra)](../10.12.3.2.1.md) / [Go to parent page (10.12.3.2.1 Vibhaṅgavāra)](../10.12.3.2.1.md) / [Go to next page (10.12.3.2.2 Saṅkhyāvāra)](../10.12.3.2.2.md)
-
+[Go to previous page (10.12.3.2.1 Vibhaṅgavāra)](../10.12.3.2.1.md) / [Go to parent page (10.12.3.2.1 Vibhaṅgavāra)](../10.12.3.2.1.md) / [Go to next page (10.12.3.2.2 Saṅkhyāvāra)](../10.12.3.2.2.md)
 

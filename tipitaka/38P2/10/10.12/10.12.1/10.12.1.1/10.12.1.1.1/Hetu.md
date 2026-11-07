@@ -17,28 +17,27 @@
 
 (318.)
 
-3097\. Ajjhattikaṃ dhammaṃ paṭicca ajjhattiko dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe cittaṃ paṭicca ajjhattikaṃ kaṭattārūpaṃ. (1)
+3097\. Ajjhattikaṁ dhammaṁ paṭicca ajjhattiko dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe cittaṁ paṭicca ajjhattikaṁ kaṭattārūpaṁ. (1)
 
-3098\. Ajjhattikaṃ dhammaṃ paṭicca bāhiro dhammo uppajjati hetupaccayā—  cittaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe cittaṃ paṭicca sampayuttakā khandhā bāhiraṃ kaṭattā ca rūpaṃ. (2)
+3098\. Ajjhattikaṁ dhammaṁ paṭicca bāhiro dhammo uppajjati hetupaccayā— cittaṁ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe cittaṁ paṭicca sampayuttakā khandhā bāhiraṁ kaṭattā ca rūpaṁ. (2)
 
-3099\. Ajjhattikaṃ dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe cittaṃ paṭicca sampayuttakā khandhā ajjhattikañca bāhirañca kaṭattārūpaṃ. (3)
+3099\. Ajjhattikaṁ dhammaṁ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe cittaṁ paṭicca sampayuttakā khandhā ajjhattikañca bāhirañca kaṭattārūpaṁ. (3)
 
 (319.)
 
-3100\. Bāhiraṃ dhammaṃ paṭicca bāhiro dhammo uppajjati hetupaccayā—  bāhiraṃ ekaṃ khandhaṃ paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhaṃ paṭicca dve khandhā bāhiraṃ kaṭattā ca rūpaṃ, dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+3100\. Bāhiraṁ dhammaṁ paṭicca bāhiro dhammo uppajjati hetupaccayā— bāhiraṁ ekaṁ khandhaṁ paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ, dve khandhe…pe… paṭisandhikkhaṇe bāhiraṁ ekaṁ khandhaṁ paṭicca dve khandhā bāhiraṁ kaṭattā ca rūpaṁ, dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-3101\. Bāhiraṃ dhammaṃ paṭicca ajjhattiko dhammo uppajjati hetupaccayā—  bāhire khandhe paṭicca cittaṃ; paṭisandhikkhaṇe bāhire khandhe paṭicca cittaṃ ajjhattikaṃ kaṭattā ca rūpaṃ, paṭisandhikkhaṇe bāhiraṃ vatthuṃ paṭicca cittaṃ. (2)
+3101\. Bāhiraṁ dhammaṁ paṭicca ajjhattiko dhammo uppajjati hetupaccayā— bāhire khandhe paṭicca cittaṁ; paṭisandhikkhaṇe bāhire khandhe paṭicca cittaṁ ajjhattikaṁ kaṭattā ca rūpaṁ, paṭisandhikkhaṇe bāhiraṁ vatthuṁ paṭicca cittaṁ. (2)
 
-3102\. Bāhiraṃ dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā—  bāhiraṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca ajjhattikañca bāhirañca kaṭattārūpaṃ, dve khandhe…pe…  paṭisandhikkhaṇe vatthuṃ paṭicca cittaṃ sampayuttakā ca khandhā. (3)
+3102\. Bāhiraṁ dhammaṁ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā— bāhiraṁ ekaṁ khandhaṁ paṭicca dve khandhā cittañca cittasamuṭṭhānañca rūpaṁ, dve khandhe…pe… paṭisandhikkhaṇe bāhiraṁ ekaṁ khandhaṁ paṭicca dve khandhā cittañca ajjhattikañca bāhirañca kaṭattārūpaṁ, dve khandhe…pe… paṭisandhikkhaṇe vatthuṁ paṭicca cittaṁ sampayuttakā ca khandhā. (3)
 
 (320.)
 
-3103\. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca ajjhattikaṃ kaṭattārūpaṃ. (1)
+3103\. Ajjhattikañca bāhirañca dhammaṁ paṭicca ajjhattiko dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca ajjhattikaṁ kaṭattārūpaṁ. (1)
 
-3104\. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati hetupaccayā—  bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā bāhiraṃ kaṭattā ca rūpaṃ, dve khandhe ca…pe…  cittañca mahābhūte ca paṭicca bāhiraṃ kaṭattārūpaṃ, paṭisandhikkhaṇe cittañca vatthuñca paṭicca bāhirā khandhā. (2)
+3104\. Ajjhattikañca bāhirañca dhammaṁ paṭicca bāhiro dhammo uppajjati hetupaccayā— bāhiraṁ ekaṁ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ, dve khandhe ca…pe… cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe bāhiraṁ ekaṁ khandhañca cittañca paṭicca dve khandhā bāhiraṁ kaṭattā ca rūpaṁ, dve khandhe ca…pe… cittañca mahābhūte ca paṭicca bāhiraṁ kaṭattārūpaṁ, paṭisandhikkhaṇe cittañca vatthuñca paṭicca bāhirā khandhā. (2)
 
-3105\. Ajjhattikañca bāhirañca dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe bāhiraṃ ekaṃ khandhañca cittañca paṭicca dve khandhā ajjhattikañca bāhirañca kaṭattārūpaṃ, dve khandhe ca…pe… . (3)
+3105\. Ajjhattikañca bāhirañca dhammaṁ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe bāhiraṁ ekaṁ khandhañca cittañca paṭicca dve khandhā ajjhattikañca bāhirañca kaṭattārūpaṁ, dve khandhe ca…pe… . (3)
 
-[Go to previous page (10.12.1.1.1 Vibhaṅgavāra)](../10.12.1.1.1.md) / [Go to parent page (10.12.1.1.1 Vibhaṅgavāra)](../10.12.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.12.1.1.1 Vibhaṅgavāra)](../10.12.1.1.1.md) / [Go to parent page (10.12.1.1.1 Vibhaṅgavāra)](../10.12.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

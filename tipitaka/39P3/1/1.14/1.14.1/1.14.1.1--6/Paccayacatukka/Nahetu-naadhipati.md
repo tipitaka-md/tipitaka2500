@@ -17,24 +17,23 @@
 
 (407.)
 
-881\. Nahetuṃ hīnaṃ dhammaṃ paṭicca hetu hīno dhammo uppajjati nahetupaccayā. (1)
+881\. Nahetuṁ hīnaṁ dhammaṁ paṭicca hetu hīno dhammo uppajjati nahetupaccayā. (1)
 
-882\. Hetuṃ hīnaṃ dhammaṃ paṭicca hetu hīno dhammo uppajjati naadhipatipaccayā…  tīṇi.
+882\. Hetuṁ hīnaṁ dhammaṁ paṭicca hetu hīno dhammo uppajjati naadhipatipaccayā… tīṇi.
 
-883\. Nahetuṃ hīnaṃ dhammaṃ paṭicca nahetu hīno dhammo uppajjati naadhipatipaccayā…  tīṇi.
+883\. Nahetuṁ hīnaṁ dhammaṁ paṭicca nahetu hīno dhammo uppajjati naadhipatipaccayā… tīṇi.
 
-884\. Hetuṃ hīnañca nahetuṃ hīnañca dhammaṃ paṭicca hetu hīno dhammo uppajjati naadhipatipaccayā…  tīṇi. (Saṃkhittaṃ.)
+884\. Hetuṁ hīnañca nahetuṁ hīnañca dhammaṁ paṭicca hetu hīno dhammo uppajjati naadhipatipaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (408.)
 
-885\. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+885\. Nahetuyā ekaṁ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṁkhittaṁ.)
 
-886\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+886\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ.)
 
-887\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+887\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-888\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+888\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.14.1.7 Pañhāvāra)](../../1.14.1.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.14.1.7 Pañhāvāra)](../../1.14.1.7.md)
 

@@ -17,12 +17,11 @@
 
 (101.)
 
-774\. Rūpiṃ dhammaṃ paccayā rūpī dhammo uppajjati hetupaccayā—  ekaṃ mahābhūtaṃ…pe… . (Paṭiccasadisaṃ.) (1)
+774\. Rūpiṁ dhammaṁ paccayā rūpī dhammo uppajjati hetupaccayā— ekaṁ mahābhūtaṁ…pe… . (Paṭiccasadisaṁ.) (1)
 
-775\. Rūpiṃ dhammaṃ paccayā arūpī dhammo uppajjati hetupaccayā—  vatthuṃ paccayā arūpino khandhā; paṭisandhikkhaṇe…pe… . (2)
+775\. Rūpiṁ dhammaṁ paccayā arūpī dhammo uppajjati hetupaccayā— vatthuṁ paccayā arūpino khandhā; paṭisandhikkhaṇe…pe… . (2)
 
-776\. Rūpiṃ dhammaṃ paccayā rūpī ca arūpī ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā arūpino khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Evaṃ avasesā pañhā, pavattipaṭisandhi vibhajitabbā.) (3)
+776\. Rūpiṁ dhammaṁ paccayā rūpī ca arūpī ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā arūpino khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (Evaṁ avasesā pañhā, pavattipaṭisandhi vibhajitabbā.) (3)
 
-[Go to previous page (2.5.3.1.1 Vibhaṅgavāra)](../2.5.3.1.1.md) / [Go to parent page (2.5.3.1.1 Vibhaṅgavāra)](../2.5.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (2.5.3.1.1 Vibhaṅgavāra)](../2.5.3.1.1.md) / [Go to parent page (2.5.3.1.1 Vibhaṅgavāra)](../2.5.3.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

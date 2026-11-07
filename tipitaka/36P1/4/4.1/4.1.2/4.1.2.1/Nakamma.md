@@ -15,10 +15,9 @@
 
 (39.)
 
-2121\. Vipākadhammadhammaṃ paṭicca vipākadhammadhammo uppajjati nakammapaccayā—  vipākadhammadhamme khandhe paṭicca vipākadhammadhammā cetanā.
+2121\. Vipākadhammadhammaṁ paṭicca vipākadhammadhammo uppajjati nakammapaccayā— vipākadhammadhamme khandhe paṭicca vipākadhammadhammā cetanā.
 
-2122\. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati nakammapaccayā—  nevavipākanavipākadhammadhamme khandhe paṭicca nevavipākanavipākadhammadhammā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca upādārūpaṃ.
+2122\. Nevavipākanavipākadhammadhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati nakammapaccayā— nevavipākanavipākadhammadhamme khandhe paṭicca nevavipākanavipākadhammadhammā cetanā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca upādārūpaṁ.
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

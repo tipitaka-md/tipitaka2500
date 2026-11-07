@@ -15,14 +15,9 @@
 
 (203.)
 
-4530\. Kāmāvacaraṃ dhammaṃ paccayā kāmāvacaro dhammo uppajjati nahetupaccayā—  ahetukaṃ kāmāvacaraṃ ekaṃ khandhaṃ paccayā…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā kāmāvacarā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+4530\. Kāmāvacaraṁ dhammaṁ paccayā kāmāvacaro dhammo uppajjati nahetupaccayā— ahetukaṁ kāmāvacaraṁ ekaṁ khandhaṁ paccayā…pe… ahetukapaṭisandhikkhaṇe…pe… (yāva asaññasattā) cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā kāmāvacarā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
----
+4531\. Naārammaṇapaccayā… tīṇi.
 
-4531\. Naārammaṇapaccayā…  tīṇi.
-
-
-
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.11.3.1--4 Paccayānulomādi)](../13.11.3.1--4.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.11.3.1--4 Paccayānulomādi)](../13.11.3.1--4.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

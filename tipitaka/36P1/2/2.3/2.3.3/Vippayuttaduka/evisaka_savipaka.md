@@ -13,20 +13,15 @@
 
 * Tevīsaka (savipāka)
 
-623\. Vippayuttapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā. (Saṃkhittaṃ) Avigatapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
+623\. Vippayuttapaccayā hetupaccayā…pe… purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā. (Saṁkhittaṁ) Avigatapaccayā napacchājāte ekaṁ, naāsevane ekaṁ.
 
-624\. Atthipaccayā… . (Sahajātapaccayasadisaṃ.)
+624\. Atthipaccayā… . (Sahajātapaccayasadisaṁ.)
 
-625\. Natthipaccayā vigatapaccayā… . (Ārammaṇapaccayasadisaṃ.)
+625\. Natthipaccayā vigatapaccayā… . (Ārammaṇapaccayasadisaṁ.)
 
-626\. Avigatapaccayā… . (Sahajātapaccayasadisaṃ.)
+626\. Avigatapaccayā… . (Sahajātapaccayasadisaṁ.)
 
----
+627\. Paccayavāre anulomapaccanīyaṁ.
 
-627\. Paccayavāre anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Cuddasaka (savipāka))](uddasaka_savipaka.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (2.3.4 Paccayapaccanīyānuloma)](../../2.3.4.md)
-
+[Go to previous page (Cuddasaka (savipāka))](uddasaka_savipaka.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (2.3.4 Paccayapaccanīyānuloma)](../../2.3.4.md)
 

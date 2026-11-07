@@ -15,16 +15,11 @@
 
 (44.)
 
-192\. Nahetuyā tettiṃsa, naārammaṇe satta, naadhipatiyā sattatiṃsa, naanantare satta, nasamanantare satta, naaññamaññe satta, naupanissaye satta, napurejāte sattatiṃsa, napacchājāte sattatiṃsa, naāsevane sattatiṃsa, nakamme satta, navipāke tevīsa, naāhāre ekaṃ naindriye ekaṃ, najhāne ekaṃ, namagge tettiṃsa, nasampayutte satta, navippayutte ekādasa, nonatthiyā satta, novigate satta. (Saṃkhittaṃ.)
+192\. Nahetuyā tettiṁsa, naārammaṇe satta, naadhipatiyā sattatiṁsa, naanantare satta, nasamanantare satta, naaññamaññe satta, naupanissaye satta, napurejāte sattatiṁsa, napacchājāte sattatiṁsa, naāsevane sattatiṁsa, nakamme satta, navipāke tevīsa, naāhāre ekaṁ naindriye ekaṁ, najhāne ekaṁ, namagge tettiṁsa, nasampayutte satta, navippayutte ekādasa, nonatthiyā satta, novigate satta. (Saṁkhittaṁ.)
 
-193\. (Yathā kusalattike paccanīyagaṇanā, evaṃ gaṇetabbaṃ.)
+193\. (Yathā kusalattike paccanīyagaṇanā, evaṁ gaṇetabbaṁ.)
 
----
+194\. Paccanīyaṁ.
 
-194\. Paccanīyaṃ.
-
-
-
-[Go to previous page (7.1.2.2 Saṅkhyāvāra)](../7.1.2.2.md) / [Go to parent page (7.1.2.2 Saṅkhyāvāra)](../7.1.2.2.md) / [Go to next page (7.1.3 Paccayānulomapaccanīya)](../../7.1.3.md)
-
+[Go to previous page (7.1.2.2 Saṅkhyāvāra)](../7.1.2.2.md) / [Go to parent page (7.1.2.2 Saṅkhyāvāra)](../7.1.2.2.md) / [Go to next page (7.1.3 Paccayānulomapaccanīya)](../../7.1.3.md)
 

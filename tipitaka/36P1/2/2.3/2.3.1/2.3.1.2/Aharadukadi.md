@@ -15,16 +15,11 @@
 
 (141.)
 
-511\. Āhārapaccayā…pe…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā natthipaccayā…  vigatapaccayā…pe… .
+511\. Āhārapaccayā…pe… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā natthipaccayā… vigatapaccayā…pe… .
 
-512\. Avigatapaccayā hetuyā sattarasa, ārammaṇe satta…pe…  vigate satta.
+512\. Avigatapaccayā hetuyā sattarasa, ārammaṇe satta…pe… vigate satta.
 
----
+513\. Paccayavāre anulomaṁ.
 
-513\. Paccayavāre anulomaṃ.
-
-
-
-[Go to previous page (Kamma-vipākaduka)](Kamma-vipakaduka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (2.3.2 Paccayapaccanīya)](../../2.3.2.md)
-
+[Go to previous page (Kamma-vipākaduka)](Kamma-vipakaduka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (2.3.2 Paccayapaccanīya)](../../2.3.2.md)
 

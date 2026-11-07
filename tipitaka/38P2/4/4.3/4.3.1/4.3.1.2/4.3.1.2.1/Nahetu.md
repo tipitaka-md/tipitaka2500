@@ -17,12 +17,11 @@
 
 (47.)
 
-1439\. Saññojanasampayuttaṃ dhammaṃ paṭicca saññojanasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe paṭicca vicikicchāsahagato moho. (1)
+1439\. Saññojanasampayuttaṁ dhammaṁ paṭicca saññojanasampayutto dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe paṭicca vicikicchāsahagato moho. (1)
 
-1440\. Saññojanasampayuttaṃ dhammaṃ paṭicca saññojanavippayutto dhammo uppajjati nahetupaccayā—  uddhaccasahagate khandhe paṭicca uddhaccasahagato moho. (2)
+1440\. Saññojanasampayuttaṁ dhammaṁ paṭicca saññojanavippayutto dhammo uppajjati nahetupaccayā— uddhaccasahagate khandhe paṭicca uddhaccasahagato moho. (2)
 
-1441\. Saññojanavippayuttaṃ dhammaṃ paṭicca saññojanavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ saññojanavippayuttaṃ ekaṃ khandhaṃ…pe… . (Yāva asaññasattā, saṃkhittaṃ.) (1)
+1441\. Saññojanavippayuttaṁ dhammaṁ paṭicca saññojanavippayutto dhammo uppajjati nahetupaccayā— ahetukaṁ saññojanavippayuttaṁ ekaṁ khandhaṁ…pe… . (Yāva asaññasattā, saṁkhittaṁ.) (1)
 
-[Go to previous page (4.3.1.2.1 Vibhaṅgavāra)](../4.3.1.2.1.md) / [Go to parent page (4.3.1.2.1 Vibhaṅgavāra)](../4.3.1.2.1.md) / [Go to next page (4.3.1.2.2 Saṅkhyāvāra)](../4.3.1.2.2.md)
-
+[Go to previous page (4.3.1.2.1 Vibhaṅgavāra)](../4.3.1.2.1.md) / [Go to parent page (4.3.1.2.1 Vibhaṅgavāra)](../4.3.1.2.1.md) / [Go to next page (4.3.1.2.2 Saṅkhyāvāra)](../4.3.1.2.2.md)
 

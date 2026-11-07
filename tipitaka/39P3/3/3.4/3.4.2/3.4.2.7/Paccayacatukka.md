@@ -5,6 +5,5 @@
 
 * [Hetu](Paccayacatukka/Hetu.md)
 
-[Go to previous page (3.4.2.7 Pañhāvāra)](../3.4.2.7.md) / [Go to parent page (3.4.2.7 Pañhāvāra)](../3.4.2.7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
-
+[Go to previous page (3.4.2.7 Pañhāvāra)](../3.4.2.7.md) / [Go to parent page (3.4.2.7 Pañhāvāra)](../3.4.2.7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
 

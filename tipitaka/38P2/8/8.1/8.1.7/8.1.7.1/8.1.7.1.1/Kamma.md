@@ -17,8 +17,7 @@
 
 (38.)
 
-1964\. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nonīvaraṇā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nonīvaraṇā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Nonīvaraṇā cetanā sampayuttakānaṃ nīvaraṇānaṃ kammapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Nonīvaraṇā cetanā sampayuttakānaṃ khandhānaṃ nīvaraṇānañca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+1964\. Nonīvaraṇo dhammo nonīvaraṇassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— nonīvaraṇā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— nonīvaraṇā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Nonīvaraṇā cetanā sampayuttakānaṁ nīvaraṇānaṁ kammapaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Nonīvaraṇā cetanā sampayuttakānaṁ khandhānaṁ nīvaraṇānañca cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 

@@ -15,8 +15,7 @@
 
 (19.)
 
-2083\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati āhārapaccayā (saṃkhittaṃ)…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+2083\. Vipākaṁ dhammaṁ paṭicca vipāko dhammo uppajjati āhārapaccayā (saṁkhittaṁ)… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā.
 
-[Go to previous page (Kamma-vipāka)](Kamma-vipaka.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](../4.1.1.1.md) / [Go to next page (4.1.1.2 Saṅkhyāvāra)](../4.1.1.2.md)
-
+[Go to previous page (Kamma-vipāka)](Kamma-vipaka.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](../4.1.1.1.md) / [Go to next page (4.1.1.2 Saṅkhyāvāra)](../4.1.1.2.md)
 

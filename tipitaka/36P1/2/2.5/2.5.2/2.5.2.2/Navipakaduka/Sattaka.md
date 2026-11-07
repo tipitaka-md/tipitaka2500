@@ -15,8 +15,7 @@
 
 * Sattaka
 
-744\. Navipākapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakamme ekaṃ, namagge ekaṃ, navippayutte dve. (Saṃkhittaṃ.)
+744\. Navipākapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakamme ekaṁ, namagge ekaṁ, navippayutte dve. (Saṁkhittaṁ.)
 
 [Go to previous page (Navipākaduka)](../Navipakaduka.md) / [Go to parent page (Navipākaduka)](../Navipakaduka.md) / [Go to next page (Najhānaduka)](../Najhanaduka.md)
-
 

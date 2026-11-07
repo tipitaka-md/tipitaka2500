@@ -17,14 +17,13 @@
 
 (234.)
 
-456\. Hetuṃ pītisahagataṃ dhammaṃ paṭicca hetu pītisahagato dhammo uppajjati hetupaccayā…  tīṇi.
+456\. Hetuṁ pītisahagataṁ dhammaṁ paṭicca hetu pītisahagato dhammo uppajjati hetupaccayā… tīṇi.
 
-457\. Nahetuṃ pītisahagataṃ dhammaṃ paṭicca nahetu pītisahagato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+457\. Nahetuṁ pītisahagataṁ dhammaṁ paṭicca nahetu pītisahagato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (235.)
 
-458\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
+458\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… kamme nava, vipāke nava, āhāre nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naadhipati)](Nahetu-naadhipati.md)
-
 

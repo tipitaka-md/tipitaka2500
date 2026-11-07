@@ -17,24 +17,19 @@
 
 (243.)
 
-915\. Sanidassanasappaṭigho nahetu dhammo anidassanaappaṭighassa nahetussa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+915\. Sanidassanasappaṭigho nahetu dhammo anidassanaappaṭighassa nahetussa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
-916\. Ārammaṇe tīṇi, adhipatiyā nava, anantare ekaṃ, samanantare ekaṃ, sahajāte ekavīsa, aññamaññe cha, nissaye ekavīsa, upanissaye tīṇi, purejāte cha, pacchājāte satta, āsevane ekaṃ, kamme vipāke āhāre satta, indriye nava, jhāne magge satta, sampayutte ekaṃ, vippayutte aṭṭha…pe…  avigate pañcavīsa. (Saṃkhittaṃ.)
+916\. Ārammaṇe tīṇi, adhipatiyā nava, anantare ekaṁ, samanantare ekaṁ, sahajāte ekavīsa, aññamaññe cha, nissaye ekavīsa, upanissaye tīṇi, purejāte cha, pacchājāte satta, āsevane ekaṁ, kamme vipāke āhāre satta, indriye nava, jhāne magge satta, sampayutte ekaṁ, vippayutte aṭṭha…pe… avigate pañcavīsa. (Saṁkhittaṁ.)
 
-917\. Nahetuyā pañcavīsa, naārammaṇe ekavīsa. (Saṃkhittaṃ.)
+917\. Nahetuyā pañcavīsa, naārammaṇe ekavīsa. (Saṁkhittaṁ.)
 
-918\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṃkhittaṃ.)
+918\. Ārammaṇapaccayā nahetuyā tīṇi. (Saṁkhittaṁ.)
 
-919\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+919\. Nahetupaccayā ārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-920\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+920\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
----
+921\. Sanidassanasappaṭighattikahetudukaṁ niṭṭhitaṁ.
 
-921\. Sanidassanasappaṭighattikahetudukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2 Kusalattika, Hetugocchaka)](../../../../../2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2 Kusalattika, Hetugocchaka)](../../../../../2.md)
 

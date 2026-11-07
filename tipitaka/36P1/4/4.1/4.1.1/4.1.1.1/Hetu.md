@@ -15,40 +15,39 @@
 
 (1.)
 
-2041\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati hetupaccayā—  vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā; paṭisandhikkhaṇe vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+2041\. Vipākaṁ dhammaṁ paṭicca vipāko dhammo uppajjati hetupaccayā— vipākaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā; paṭisandhikkhaṇe vipākaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. (1)
 
-2042\. Vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā—  vipāke khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe vipāke khandhe paṭicca kaṭattārūpaṃ, khandhe paṭicca vatthu. (2)
+2042\. Vipākaṁ dhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā— vipāke khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe vipāke khandhe paṭicca kaṭattārūpaṁ, khandhe paṭicca vatthu. (2)
 
-2043\. Vipākaṃ dhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā—  vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṃ. (3)
+2043\. Vipākaṁ dhammaṁ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā— vipākaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe vipākaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṁ. (3)
 
 (2.)
 
-2044\. Vipākadhammadhammaṃ paṭicca vipākadhammadhammo uppajjati hetupaccayā—  vipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+2044\. Vipākadhammadhammaṁ paṭicca vipākadhammadhammo uppajjati hetupaccayā— vipākadhammadhammaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. (1)
 
-2045\. Vipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā—  vipākadhammadhamme khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2045\. Vipākadhammadhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā— vipākadhammadhamme khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2046\. Vipākadhammadhammaṃ paṭicca vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā—  vipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+2046\. Vipākadhammadhammaṁ paṭicca vipākadhammadhammo ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā— vipākadhammadhammaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
 (3.)
 
-2047\. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā—  nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+2047\. Nevavipākanavipākadhammadhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā— nevavipākanavipākadhammadhammaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ, ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-2048\. Nevavipākanavipākadhammadhammaṃ paṭicca vipāko dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca vipākā khandhā. (2)
+2048\. Nevavipākanavipākadhammadhammaṁ paṭicca vipāko dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca vipākā khandhā. (2)
 
-2049\. Nevavipākanavipākadhammadhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca vipākā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)
+2049\. Nevavipākanavipākadhammadhammaṁ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca vipākā khandhā, mahābhūte paṭicca kaṭattārūpaṁ. (3)
 
 (4.)
 
-2050\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko dhammo uppajjati hetupaccayā—  paṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā. (1)
+2050\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paṭicca vipāko dhammo uppajjati hetupaccayā— paṭisandhikkhaṇe vipākaṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca vatthuñca paṭicca dve khandhā. (1)
 
-2051\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā—  vipāke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (2)
+2051\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā— vipāke khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (2)
 
-2052\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā—  paṭisandhikkhaṇe vipākaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca vatthuñca paṭicca dve khandhā, vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+2052\. Vipākañca nevavipākanavipākadhammadhammañca dhammaṁ paṭicca vipāko ca nevavipākanavipākadhammadhammo ca dhammā uppajjanti hetupaccayā— paṭisandhikkhaṇe vipākaṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca vatthuñca paṭicca dve khandhā, vipāke khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (3)
 
 (5.)
 
-2053\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā—  vipākadhammadhamme khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2053\. Vipākadhammadhammañca nevavipākanavipākadhammadhammañca dhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati hetupaccayā— vipākadhammadhamme khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (4.1.1.1 Vibhaṅgavāra)](../4.1.1.1.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](../4.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (4.1.1.1 Vibhaṅgavāra)](../4.1.1.1.md) / [Go to parent page (4.1.1.1 Vibhaṅgavāra)](../4.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

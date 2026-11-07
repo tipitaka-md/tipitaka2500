@@ -17,32 +17,31 @@
 
 (92.)
 
-315\. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu dhammo uppajjati ārammaṇapaccayā. Savitakkasavicāraṃ nahetuṃ dhammaṃ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti ārammaṇapaccayā…  tīṇi.
+315\. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu dhammo uppajjati ārammaṇapaccayā. Savitakkasavicāraṁ nahetuṁ dhammaṁ paṭicca savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā uppajjanti ārammaṇapaccayā… tīṇi.
 
-316\. Avitakkavicāramattaṃ nahetuṃ dhammaṃ paṭicca avitakkavicāramatto nahetu dhammo uppajjati ārammaṇapaccayā…  cattāri.
+316\. Avitakkavicāramattaṁ nahetuṁ dhammaṁ paṭicca avitakkavicāramatto nahetu dhammo uppajjati ārammaṇapaccayā… cattāri.
 
-317\. Avitakkaavicāraṃ nahetuṃ dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati ārammaṇapaccayā…  pañca.
+317\. Avitakkaavicāraṁ nahetuṁ dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati ārammaṇapaccayā… pañca.
 
-318\. Savitakkasavicāraṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca avitakkaavicāro nahetu dhammo uppajjati ārammaṇapaccayā…  tīṇi.
+318\. Savitakkasavicāraṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca avitakkaavicāro nahetu dhammo uppajjati ārammaṇapaccayā… tīṇi.
 
-319\. Avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā…  cattāri.
+319\. Avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā… cattāri.
 
-320\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā…  ekaṃ.
+320\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā… ekaṁ.
 
-321\. Savitakkasavicāraṃ nahetuñca avitakkavicāramattaṃ nahetuñca avitakkaavicāraṃ nahetuñca dhammaṃ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā…  ekaṃ. (Saṃkhittaṃ.)
+321\. Savitakkasavicāraṁ nahetuñca avitakkavicāramattaṁ nahetuñca avitakkaavicāraṁ nahetuñca dhammaṁ paṭicca savitakkasavicāro nahetu dhammo uppajjati ārammaṇapaccayā… ekaṁ. (Saṁkhittaṁ.)
 
 (93.)
 
-322\. Hetuyā sattatiṃsa, ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare ekavīsa, sahajāte sattatiṃsa, aññamaññe aṭṭhavīsa, nissaye sattatiṃsa, upanissaye ekavīsa, purejāte ekādasa, āsevane ekādasa, kamme sattatiṃsa, vipāke āhāre indriye jhāne magge sattatiṃsa, sampayutte ekavīsa, vippayutte sattatiṃsa…pe…  avigate sattatiṃsa, (Saṃkhittaṃ.)
+322\. Hetuyā sattatiṁsa, ārammaṇe ekavīsa, adhipatiyā tevīsa, anantare ekavīsa, sahajāte sattatiṁsa, aññamaññe aṭṭhavīsa, nissaye sattatiṁsa, upanissaye ekavīsa, purejāte ekādasa, āsevane ekādasa, kamme sattatiṁsa, vipāke āhāre indriye jhāne magge sattatiṁsa, sampayutte ekavīsa, vippayutte sattatiṁsa…pe… avigate sattatiṁsa, (Saṁkhittaṁ.)
 
-323\. Nahetuyā tettiṃsa, naārammaṇe satta, naadhipatiyā sattatiṃsa…pe…  napurejāte napacchājāte naāsevane sattatiṃsa, nakamme satta, navipāke vīsa, naāhāre naindriye najhāne ekaṃ, namagge tettiṃsa…pe…  navippayutte ekādasa…pe…  novigate satta. (Saṃkhittaṃ.)
+323\. Nahetuyā tettiṁsa, naārammaṇe satta, naadhipatiyā sattatiṁsa…pe… napurejāte napacchājāte naāsevane sattatiṁsa, nakamme satta, navipāke vīsa, naāhāre naindriye najhāne ekaṁ, namagge tettiṁsa…pe… navippayutte ekādasa…pe… novigate satta. (Saṁkhittaṁ.)
 
-324\. Hetupaccayā naārammaṇe satta. (Saṃkhittaṃ.)
+324\. Hetupaccayā naārammaṇe satta. (Saṁkhittaṁ.)
 
-325\. Nahetupaccayā ārammaṇe cuddasa. (Saṃkhittaṃ.)
+325\. Nahetupaccayā ārammaṇe cuddasa. (Saṁkhittaṁ.)
 
-326\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+326\. (Sahajātavārampi…pe… sampayuttavārampi vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.6.2.7 Pañhāvāra)](../../1.6.2.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.6.2.7 Pañhāvāra)](../../1.6.2.7.md)
 

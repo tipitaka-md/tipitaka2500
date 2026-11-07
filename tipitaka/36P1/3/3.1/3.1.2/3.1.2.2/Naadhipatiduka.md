@@ -15,8 +15,7 @@
 
 (18.)
 
-1838\. Naadhipatipaccayā nahetuyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte dve. (Saṃkhittaṃ.)
+1838\. Naadhipatipaccayā nahetuyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne tīṇi, namagge tīṇi, navippayutte dve. (Saṁkhittaṁ.)
 
-[Go to previous page (Navaka)](Nahetuduka/Navaka.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Napurejātaduka)](Napurejataduka.md)
-
+[Go to previous page (Navaka)](Nahetuduka/Navaka.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Napurejātaduka)](Napurejataduka.md)
 

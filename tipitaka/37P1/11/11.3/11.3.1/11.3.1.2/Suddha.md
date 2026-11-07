@@ -15,14 +15,9 @@
 
 (25.)
 
-1500\. Hetuyā sattarasa, ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa, aññamaññe satta, nissaye sattarasa, upanissaye satta, purejāte satta, āsevane satta, kamme sattarasa, vipāke ekaṃ, āhāre sattarasa, indriye jhāne magge sattarasa, sampayutte satta, vippayutte sattarasa, atthiyā sattarasa, natthiyā satta, vigate satta, avigate sattarasa. (Evaṃ gaṇetabbaṃ.)
+1500\. Hetuyā sattarasa, ārammaṇe satta, adhipatiyā sattarasa, anantare satta, samanantare satta, sahajāte sattarasa, aññamaññe satta, nissaye sattarasa, upanissaye satta, purejāte satta, āsevane satta, kamme sattarasa, vipāke ekaṁ, āhāre sattarasa, indriye jhāne magge sattarasa, sampayutte satta, vippayutte sattarasa, atthiyā sattarasa, natthiyā satta, vigate satta, avigate sattarasa. (Evaṁ gaṇetabbaṁ.)
 
----
+1501\. Anulomaṁ.
 
-1501\. Anulomaṃ.
-
-
-
-[Go to previous page (11.3.1.2 Saṅkhyāvāra)](../11.3.1.2.md) / [Go to parent page (11.3.1.2 Saṅkhyāvāra)](../11.3.1.2.md) / [Go to next page (11.3.2 Paccayapaccanīya)](../../11.3.2.md)
-
+[Go to previous page (11.3.1.2 Saṅkhyāvāra)](../11.3.1.2.md) / [Go to parent page (11.3.1.2 Saṅkhyāvāra)](../11.3.1.2.md) / [Go to next page (11.3.2 Paccayapaccanīya)](../../11.3.2.md)
 

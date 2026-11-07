@@ -13,8 +13,7 @@
 
 (94.)
 
-387\. Najhānapaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+387\. Najhānapaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye ekaṁ, purejāte ekaṁ, kamme ekaṁ, vipāke ekaṁ, āhāre ekaṁ, indriye ekaṁ, sampayutte ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, natthiyā ekaṁ, vigate ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
-[Go to previous page (Naindriyaduka)](Naindriyaduka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Namaggatika)](Namaggatika.md)
-
+[Go to previous page (Naindriyaduka)](Naindriyaduka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Namaggatika)](Namaggatika.md)
 

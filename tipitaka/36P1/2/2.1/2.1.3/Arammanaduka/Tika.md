@@ -15,15 +15,7 @@
 
 288\. Ārammaṇapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-289\. Ārammaṇamūlakaṃ.
-
-  
-(Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+289\. Ārammaṇamūlakaṁ. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to parent page (Ārammaṇaduka)](../Arammanaduka.md) / [Go to next page (Adhipatiduka)](../Adhipatiduka.md)
-
 

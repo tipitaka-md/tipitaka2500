@@ -15,10 +15,9 @@
 
 (4.)
 
-2766\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati anantarapaccayā, samanantarapaccayā, sahajātapaccayā—  ajjhattaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe ajjhattaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. Ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+2766\. Ajjhattaṁ dhammaṁ paṭicca ajjhatto dhammo uppajjati anantarapaccayā, samanantarapaccayā, sahajātapaccayā— ajjhattaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe ajjhattaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā. Ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. Āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-2767\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati sahajātapaccayā—  bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe bahiddhā ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. Ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+2767\. Bahiddhā dhammaṁ paṭicca bahiddhā dhammo uppajjati sahajātapaccayā— bahiddhā ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe bahiddhā ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā. Ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. Bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](../21.1.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (21.1.1.1 Vibhaṅgavāra)](../21.1.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
 

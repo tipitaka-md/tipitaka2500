@@ -17,16 +17,15 @@
 
 (94.)
 
-161\. Hetuṃ adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca hetu adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  tīṇi.
+161\. Hetuṁ adukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca hetu adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… tīṇi.
 
-162\. Nahetuṃ adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nahetu adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  tīṇi.
+162\. Nahetuṁ adukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca nahetu adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… tīṇi.
 
-163\. Hetuṃ adukkhamasukhāya vedanāya sampayuttañca nahetuṃ adukkhamasukhāya vedanāya sampayuttañca dhammaṃ paṭicca hetu adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+163\. Hetuṁ adukkhamasukhāya vedanāya sampayuttañca nahetuṁ adukkhamasukhāya vedanāya sampayuttañca dhammaṁ paṭicca hetu adukkhamasukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (95.)
 
-164\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava, vipāke nava, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte nava, vippayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Anulomaṃ.)
+164\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte nava, āsevane nava, kamme nava, vipāke nava, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte nava, vippayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Anulomaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naadhipati)](Nahetu-naadhipati.md)
-
 

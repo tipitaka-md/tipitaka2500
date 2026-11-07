@@ -15,22 +15,13 @@
 
 * Tika
 
-2144\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi…pe…  nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge tīṇi, nasampayutte tīṇi, navippayutte ekaṃ, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
+2144\. Nahetupaccayā naārammaṇapaccayā naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi…pe… nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge tīṇi, nasampayutte tīṇi, navippayutte ekaṁ, nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ.)
 
----
+2145\. Nahetumūlakaṁ.
 
-2145\. Nahetumūlakaṃ.
+2146\. (Yathā kusalattike sajjhāyamaggena gaṇitaṁ, evaṁ idhāpi gaṇetabbaṁ.)
 
+2147\. Paccanīyaṁ.
 
-
-2146\. (Yathā kusalattike sajjhāyamaggena gaṇitaṃ, evaṃ idhāpi gaṇetabbaṃ.)
-
----
-
-2147\. Paccanīyaṃ.
-
-
-
-[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (4.1.3 Paccayānulomapaccanīya)](../../../4.1.3.md)
-
+[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (4.1.3 Paccayānulomapaccanīya)](../../../4.1.3.md)
 

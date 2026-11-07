@@ -15,28 +15,27 @@
 
 (1.)
 
-1423\. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati hetupaccayā—  ācayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+1423\. Ācayagāmiṁ dhammaṁ paṭicca ācayagāmī dhammo uppajjati hetupaccayā— ācayagāmiṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. (1)
 
-1424\. Ācayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  ācayagāmī khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1424\. Ācayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā— ācayagāmī khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1425\. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti hetupaccayā—  ācayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+1425\. Ācayagāmiṁ dhammaṁ paṭicca ācayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti hetupaccayā— ācayagāmiṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
 (2.)
 
-1426\. Apacayagāmiṃ dhammaṃ paṭicca apacayagāmī dhammo uppajjati hetupaccayā—  apacayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+1426\. Apacayagāmiṁ dhammaṁ paṭicca apacayagāmī dhammo uppajjati hetupaccayā— apacayagāmiṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. (1)
 
-1427\. Apacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  apacayagāmī khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1427\. Apacayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā— apacayagāmī khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1428\. Apacayagāmiṃ dhammaṃ paṭicca apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti hetupaccayā—  apacayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+1428\. Apacayagāmiṁ dhammaṁ paṭicca apacayagāmī ca nevācayagāmināpacayagāmī ca dhammā uppajjanti hetupaccayā— apacayagāmiṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
 (3.)
 
-1429\. Nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte paṭicca dve mahābhūtā; mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+1429\. Nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā— nevācayagāmināpacayagāmiṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe nevācayagāmināpacayagāmiṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā; mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-1430\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1430\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā— ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1431\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1431\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā— apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

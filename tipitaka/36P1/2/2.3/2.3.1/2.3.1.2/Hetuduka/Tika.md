@@ -15,8 +15,7 @@
 
 * Tika
 
-499\. Hetupaccayā ārammaṇapaccayā adhipatiyā satta (sabbattha satta) vipāke ekaṃ, avigate satta…pe… .
+499\. Hetupaccayā ārammaṇapaccayā adhipatiyā satta (sabbattha satta) vipāke ekaṁ, avigate satta…pe… .
 
 [Go to previous page (Hetuduka)](../Hetuduka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Dvādasaka (sāsevana))](vadasaka_sasevana.md)
-
 

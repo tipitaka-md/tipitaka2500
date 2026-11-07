@@ -17,12 +17,11 @@
 
 (9.)
 
-2339\. Sārammaṇaṃ dhammaṃ paṭicca anārammaṇo dhammo uppajjati naārammaṇapaccayā—  sārammaṇe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (1)
+2339\. Sārammaṇaṁ dhammaṁ paṭicca anārammaṇo dhammo uppajjati naārammaṇapaccayā— sārammaṇe khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (1)
 
-2340\. Anārammaṇaṃ dhammaṃ paṭicca anārammaṇo dhammo uppajjati naārammaṇapaccayā. (Yāva asaññasattā.) (1)
+2340\. Anārammaṇaṁ dhammaṁ paṭicca anārammaṇo dhammo uppajjati naārammaṇapaccayā. (Yāva asaññasattā.) (1)
 
-2341\. Sārammaṇañca anārammaṇañca dhammaṃ paṭicca anārammaṇo dhammo uppajjati naārammaṇapaccayā—  sārammaṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.) (1)
+2341\. Sārammaṇañca anārammaṇañca dhammaṁ paṭicca anārammaṇo dhammo uppajjati naārammaṇapaccayā— sārammaṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.1.1.2.1 Vibhaṅgavāra)](../10.1.1.2.1.md) / [Go to next page (10.1.1.2.2 Saṅkhyāvāra)](../10.1.1.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.1.1.2.1 Vibhaṅgavāra)](../10.1.1.2.1.md) / [Go to next page (10.1.1.2.2 Saṅkhyāvāra)](../10.1.1.2.2.md)
 

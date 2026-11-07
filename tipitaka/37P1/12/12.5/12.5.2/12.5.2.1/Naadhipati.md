@@ -15,12 +15,11 @@
 
 (37.)
 
-1760\. Sekkhaṃ dhammaṃ saṃsaṭṭho sekkho dhammo uppajjati naadhipatipaccayā—  sekkhe khandhe saṃsaṭṭho sekkho adhipati. (1)
+1760\. Sekkhaṁ dhammaṁ saṁsaṭṭho sekkho dhammo uppajjati naadhipatipaccayā— sekkhe khandhe saṁsaṭṭho sekkho adhipati. (1)
 
-1761\. Asekkhaṃ dhammaṃ saṃsaṭṭho asekkho dhammo uppajjati naadhipatipaccayā—  asekkhe khandhe saṃsaṭṭho asekkho adhipati. (1)
+1761\. Asekkhaṁ dhammaṁ saṁsaṭṭho asekkho dhammo uppajjati naadhipatipaccayā— asekkhe khandhe saṁsaṭṭho asekkho adhipati. (1)
 
-1762\. Nevasekkhanāsekkhaṃ dhammaṃ saṃsaṭṭho nevasekkhanāsekkho dhammo uppajjati naadhipatipaccayā. (Paripuṇṇaṃ, ekaṃ.)
+1762\. Nevasekkhanāsekkhaṁ dhammaṁ saṁsaṭṭho nevasekkhanāsekkho dhammo uppajjati naadhipatipaccayā. (Paripuṇṇaṁ, ekaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (12.5.2.1 Vibhaṅgavāra)](../12.5.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (12.5.2.1 Vibhaṅgavāra)](../12.5.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
 

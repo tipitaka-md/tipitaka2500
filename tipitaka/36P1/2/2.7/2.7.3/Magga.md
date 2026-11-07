@@ -12,6 +12,5 @@
 * [Sahetu-indriyaghaṭanā](Magga/Sahetu-indriyaghatana.md)
 * [Sahetādhipati-indriyaghaṭanā](Magga/Sahetadhipati-indriyaghatana.md)
 
-[Go to previous page (Saindriya-maggaghaṭanā)](Jhana/Saindriya-maggaghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Maggaduka)](Magga/Maggaduka.md)
-
+[Go to previous page (Saindriya-maggaghaṭanā)](Jhana/Saindriya-maggaghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Maggaduka)](Magga/Maggaduka.md)
 

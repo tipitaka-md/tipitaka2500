@@ -19,14 +19,9 @@
 
 4508\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cha, vipāke nava, āhāre cattāri, indriye nava, jhāne nava, magge cattāri, sampayutte cha, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
 
-4509\. (Evaṃ paccanīyavibhaṅgopi itare tīṇi gaṇanāpi sappītikadukasadisā kātabbā.)
+4509\. (Evaṁ paccanīyavibhaṅgopi itare tīṇi gaṇanāpi sappītikadukasadisā kātabbā.)
 
----
+4510\. Upekkhāsahagatadukaṁ niṭṭhitaṁ.
 
-4510\. Upekkhāsahagatadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (13.10.7.1.2 Saṅkhyāvāra)](../13.10.7.1.2.md) / [Go to parent page (13.10.7.1.2 Saṅkhyāvāra)](../13.10.7.1.2.md) / [Go to next page (13.11 Kāmāvacaraduka)](../../../../13.11.md)
-
+[Go to previous page (13.10.7.1.2 Saṅkhyāvāra)](../13.10.7.1.2.md) / [Go to parent page (13.10.7.1.2 Saṅkhyāvāra)](../13.10.7.1.2.md) / [Go to next page (13.11 Kāmāvacaraduka)](../../../../13.11.md)
 

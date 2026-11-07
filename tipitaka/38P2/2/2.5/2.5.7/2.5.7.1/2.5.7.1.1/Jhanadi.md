@@ -17,8 +17,7 @@
 
 (123.)
 
-826\. Arūpī dhammo arūpissa dhammassa jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  ekaṃ.
+826\. Arūpī dhammo arūpissa dhammassa jhānapaccayena paccayo… tīṇi… maggapaccayena paccayo… tīṇi… sampayuttapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

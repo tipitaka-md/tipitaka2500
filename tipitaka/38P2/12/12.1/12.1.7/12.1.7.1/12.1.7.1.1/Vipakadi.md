@@ -17,8 +17,7 @@
 
 (28.)
 
-3886\. Nokileso dhammo nokilesassa dhammassa vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava.
+3886\. Nokileso dhammo nokilesassa dhammassa vipākapaccayena paccayo… ekaṁ… āhārapaccayena paccayo… tīṇi… indriyapaccayena paccayo… tīṇi… jhānapaccayena paccayo… tīṇi… maggapaccayena paccayo… nava… sampayuttapaccayena paccayo… nava.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

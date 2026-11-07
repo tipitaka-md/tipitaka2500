@@ -13,16 +13,15 @@
 
 * Sahajāta
 
-880\. Dassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati sahajātapaccayā—  dassanena pahātabbaṃ ekaṃ khandhaṃ…  tīṇi.
+880\. Dassanena pahātabbaṁ dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati sahajātapaccayā— dassanena pahātabbaṁ ekaṁ khandhaṁ… tīṇi.
 
-881\. Bhāvanāya pahātabbaṃ dhammaṃ paccayā…  tīṇi.
+881\. Bhāvanāya pahātabbaṁ dhammaṁ paccayā… tīṇi.
 
 (43.)
 
-882\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati sahajātapaccayā—  nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paccayā dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā nevadassanena nabhāvanāya pahātabbā khandhā.
+882\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati sahajātapaccayā— nevadassanena nabhāvanāya pahātabbaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paccayā dve khandhā…pe… paṭisandhikkhaṇe…pe… khandhe paccayā vatthu, vatthuṁ paccayā khandhā; ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… mahābhūte paccayā…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā nevadassanena nabhāvanāya pahātabbā khandhā.
 
-883\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati sahajātapaccayā. (Avasesā hetupaccayasadisā.)
+883\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati sahajātapaccayā. (Avasesā hetupaccayasadisā.)
 
-[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
-
+[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (9.3.1.1 Vibhaṅgavāra)](../9.3.1.1.md) / [Go to next page (Aññamaññādi)](Annamannadi.md)
 

@@ -13,12 +13,11 @@
 
 (15.)
 
-28\. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca nasukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+28\. Sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca nasukhāya vedanāya sampayutto dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
-29\. Nahetuyā ekavīsa, naārammaṇe ekavīsa…pe…  nakamme nava…pe…  navippayutte cuddasa…pe…  novigate ekavīsa.
+29\. Nahetuyā ekavīsa, naārammaṇe ekavīsa…pe… nakamme nava…pe… navippayutte cuddasa…pe… novigate ekavīsa.
 
-30\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṃ.)
+30\. (Sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (2.7 Pañhāvāra)](../../2.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (2.7 Pañhāvāra)](../../2.7.md)
 

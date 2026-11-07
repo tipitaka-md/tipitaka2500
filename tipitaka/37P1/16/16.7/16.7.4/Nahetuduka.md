@@ -13,20 +13,11 @@
 
 (63.)
 
-2427\. Nahetupaccayā ārammaṇe pañca, adhipatiyā aṭṭha, anantare pañca, samanantare pañca, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye satta, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā pañca, vigate pañca, avigate terasa. (Evaṃ gaṇetabbaṃ.)
+2427\. Nahetupaccayā ārammaṇe pañca, adhipatiyā aṭṭha, anantare pañca, samanantare pañca, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye satta, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṁ, āhāre satta, indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā pañca, vigate pañca, avigate terasa. (Evaṁ gaṇetabbaṁ.)
 
----
+2428\. Paccanīyānulomaṁ.
 
-2428\. Paccanīyānulomaṃ.
+2429\. Micchattaniyatattikaṁ niṭṭhitaṁ.
 
-
-
----
-
-2429\. Micchattaniyatattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (16.7.4 Paccayapaccanīyānuloma)](../16.7.4.md) / [Go to parent page (16.7.4 Paccayapaccanīyānuloma)](../16.7.4.md) / [Go to next page (17 Maggārammaṇattika)](../../../17.md)
-
+[Go to previous page (16.7.4 Paccayapaccanīyānuloma)](../16.7.4.md) / [Go to parent page (16.7.4 Paccayapaccanīyānuloma)](../16.7.4.md) / [Go to next page (17 Maggārammaṇattika)](../../../17.md)
 

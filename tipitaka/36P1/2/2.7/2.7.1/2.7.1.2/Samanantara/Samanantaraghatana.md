@@ -17,14 +17,9 @@
 
 (320.)
 
-1035\. Samanantara anantara upanissaya natthi vigatanti satta. Samanantara anantara upanissaya āsevana natthi vigatanti tīṇi. Samanantara anantara upanissaya kamma natthi vigatanti ekaṃ.
+1035\. Samanantara anantara upanissaya natthi vigatanti satta. Samanantara anantara upanissaya āsevana natthi vigatanti tīṇi. Samanantara anantara upanissaya kamma natthi vigatanti ekaṁ.
 
----
-
-1036\. Samanantaramūlakaṃ.
-
-
+1036\. Samanantaramūlakaṁ.
 
 [Go to previous page (Samanantarasabhāga)](Samanantarasabhaga.md) / [Go to parent page (Samanantara)](../Samanantara.md) / [Go to next page (Sahajāta)](../Sahajata.md)
-
 

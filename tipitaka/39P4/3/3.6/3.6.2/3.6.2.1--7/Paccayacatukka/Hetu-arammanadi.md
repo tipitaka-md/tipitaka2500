@@ -29,14 +29,13 @@
 
 1201\. Kusalo lokuttaro dhammo abyākatassa lokuttarassa dhammassa anantarapaccayena paccayo. (1)
 
-1202\. Abyākato lokuttaro dhammo abyākatassa lokuttarassa dhammassa anantarapaccayena paccayo. (1) (Saṃkhittaṃ.)
+1202\. Abyākato lokuttaro dhammo abyākatassa lokuttarassa dhammassa anantarapaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (40.)
 
-1203\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe…  kamme tīṇi, vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+1203\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe… kamme tīṇi, vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
-1204\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1204\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.7 Kusalattika, Kenaciviññeyyaduka)](../../../../3.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.7 Kusalattika, Kenaciviññeyyaduka)](../../../../3.7.md)
 

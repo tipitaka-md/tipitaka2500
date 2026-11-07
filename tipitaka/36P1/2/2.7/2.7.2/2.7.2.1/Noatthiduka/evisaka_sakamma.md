@@ -15,8 +15,7 @@
 
 * Tevīsaka (sakamma)
 
-1264\. Noatthipaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) nanissayapaccayā napurejātapaccayā (mūlakaṃ saṃkhittaṃ) nakammapaccayā…pe…  novigatapaccayā noavigate nava.
+1264\. Noatthipaccayā nahetupaccayā (mūlakaṁ saṁkhittaṁ) nanissayapaccayā napurejātapaccayā (mūlakaṁ saṁkhittaṁ) nakammapaccayā…pe… novigatapaccayā noavigate nava.
 
 [Go to previous page (Tevīsaka (saupanissaya))](evisaka_saupanissaya.md) / [Go to parent page (Noatthiduka)](../Noatthiduka.md) / [Go to next page (Nonatthiduka)](../Nonatthiduka.md)
-
 

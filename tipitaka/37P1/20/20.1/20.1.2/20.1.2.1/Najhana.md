@@ -15,8 +15,7 @@
 
 (13.)
 
-2681\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2681\. Paccuppannārammaṇaṁ dhammaṁ paṭicca paccuppannārammaṇo dhammo uppajjati najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
 

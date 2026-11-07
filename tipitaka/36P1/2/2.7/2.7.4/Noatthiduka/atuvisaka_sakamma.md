@@ -15,12 +15,7 @@
 
 1784\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā upanissaye nava.
 
----
-
-1785\. Noatthimūlakaṃ.
-
-
+1785\. Noatthimūlakaṁ.
 
 [Go to previous page (Catuvīsaka (saupanissaya))](atuvisaka_saupanissaya.md) / [Go to parent page (Noatthiduka)](../Noatthiduka.md) / [Go to next page (Nonatthiduka)](../Nonatthiduka.md)
-
 

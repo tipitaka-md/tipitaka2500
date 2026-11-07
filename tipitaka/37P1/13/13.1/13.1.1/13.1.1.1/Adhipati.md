@@ -15,26 +15,25 @@
 
 (6.)
 
-1884\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  parittaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+1884\. Parittaṁ dhammaṁ paṭicca paritto dhammo uppajjati adhipatipaccayā— parittaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ, dve khandhe…pe… ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (1)
 
-1885\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati adhipatipaccayā—  mahaggataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1885\. Mahaggataṁ dhammaṁ paṭicca mahaggato dhammo uppajjati adhipatipaccayā— mahaggataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1886\. Mahaggataṃ dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  mahaggate khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1886\. Mahaggataṁ dhammaṁ paṭicca paritto dhammo uppajjati adhipatipaccayā— mahaggate khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1887\. Mahaggataṃ dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti adhipatipaccayā—  mahaggataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1887\. Mahaggataṁ dhammaṁ paṭicca paritto ca mahaggato ca dhammā uppajjanti adhipatipaccayā— mahaggataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-1888\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati adhipatipaccayā—  appamāṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1888\. Appamāṇaṁ dhammaṁ paṭicca appamāṇo dhammo uppajjati adhipatipaccayā— appamāṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1889\. Appamāṇaṃ dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  appamāṇe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1889\. Appamāṇaṁ dhammaṁ paṭicca paritto dhammo uppajjati adhipatipaccayā— appamāṇe khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1890\. Appamāṇaṃ dhammaṃ paṭicca paritto ca appamāṇo ca dhammā uppajjanti adhipatipaccayā—  appamāṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1890\. Appamāṇaṁ dhammaṁ paṭicca paritto ca appamāṇo ca dhammā uppajjanti adhipatipaccayā— appamāṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (7.)
 
-1891\. Parittañca appamāṇañca dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1891\. Parittañca appamāṇañca dhammaṁ paṭicca paritto dhammo uppajjati adhipatipaccayā— appamāṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1892\. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati adhipatipaccayā—  mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1892\. Parittañca mahaggatañca dhammaṁ paṭicca paritto dhammo uppajjati adhipatipaccayā— mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

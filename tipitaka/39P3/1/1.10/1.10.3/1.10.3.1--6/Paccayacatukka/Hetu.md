@@ -17,16 +17,15 @@
 
 (322.)
 
-662\. Hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
+662\. Hetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā… tīṇi.
 
-663\. Nahetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā…  tīṇi.
+663\. Nahetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā… tīṇi.
 
-664\. Hetuṃ nevācayagāmināpacayagāmiñca nahetuṃ nevācayagāmināpacayagāmiñca dhammaṃ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+664\. Hetuṁ nevācayagāmināpacayagāmiñca nahetuṁ nevācayagāmināpacayagāmiñca dhammaṁ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (323.)
 
-665\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  upanissaye nava, purejāte nava, āsevane nava, kamme nava, vipāke nava, āhāre nava, indriye nava…pe…  avigate nava. (Saṃkhittaṃ.)
+665\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… upanissaye nava, purejāte nava, āsevane nava, kamme nava, vipāke nava, āhāre nava, indriye nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetvādi)](Nahetvadi.md)
-
 

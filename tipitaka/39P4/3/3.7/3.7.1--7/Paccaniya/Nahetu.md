@@ -15,14 +15,13 @@
 
 (44.)
 
-1214\. Akusalaṃ kenaci viññeyyaṃ dhammaṃ paṭicca akusalo kenaci viññeyyo dhammo uppajjati nahetupaccayā. (1)
+1214\. Akusalaṁ kenaci viññeyyaṁ dhammaṁ paṭicca akusalo kenaci viññeyyo dhammo uppajjati nahetupaccayā. (1)
 
-1215\. Abyākataṃ kenaci viññeyyaṃ dhammaṃ paṭicca abyākato kenaci viññeyyo dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+1215\. Abyākataṁ kenaci viññeyyaṁ dhammaṁ paṭicca abyākato kenaci viññeyyo dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
 (45.)
 
-1216\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1216\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe… novigate pañca. (Saṁkhittaṁ. Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu)](Hetu.md)
-
 

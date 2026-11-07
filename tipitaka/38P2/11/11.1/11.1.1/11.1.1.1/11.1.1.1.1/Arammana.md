@@ -17,8 +17,7 @@
 
 (4.)
 
-3536\. Upādānaṃ dhammaṃ paṭicca upādāno dhammo uppajjati ārammaṇapaccayā. (Navapi pañhā kātabbā, rūpaṃ chaḍḍetabbaṃ.)
+3536\. Upādānaṁ dhammaṁ paṭicca upādāno dhammo uppajjati ārammaṇapaccayā. (Navapi pañhā kātabbā, rūpaṁ chaḍḍetabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (11.1.1.1.1 Vibhaṅgavāra)](../11.1.1.1.1.md) / [Go to next page (11.1.1.1.2 Saṅkhyāvāra)](../11.1.1.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (11.1.1.1.1 Vibhaṅgavāra)](../11.1.1.1.1.md) / [Go to next page (11.1.1.1.2 Saṅkhyāvāra)](../11.1.1.1.2.md)
 

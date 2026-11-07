@@ -15,8 +15,7 @@
 
 * Navaka
 
-1837\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā namaggapaccayā navippayutte ekaṃ. (Saṃkhittaṃ.)
+1837\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā namaggapaccayā navippayutte ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naadhipatiduka)](../Naadhipatiduka.md)
-
 

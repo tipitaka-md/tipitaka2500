@@ -13,16 +13,15 @@
 
 (56.)
 
-1878\. Uppanno saraṇo dhammo uppannassa saraṇassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1878\. Uppanno saraṇo dhammo uppannassa saraṇassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
-1879\. Hetuyā ekaṃ, ārammaṇe dve, adhipatiyā dve, sahajāte aññamaññe nissaye ekaṃ, upanissaye dve, kamme…pe…  sampayutte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1879\. Hetuyā ekaṁ, ārammaṇe dve, adhipatiyā dve, sahajāte aññamaññe nissaye ekaṁ, upanissaye dve, kamme…pe… sampayutte ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
 (57.)
 
-1880\. Uppanno araṇo dhammo uppannassa araṇassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1880\. Uppanno araṇo dhammo uppannassa araṇassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
-1881\. Hetuyā ekaṃ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe…  upanissaye tīṇi…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1881\. Hetuyā ekaṁ, ārammaṇe tīṇi, adhipatiyā tīṇi…pe… upanissaye tīṇi…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-[Go to previous page (8.17.7 Pañhāvāra)](../8.17.7.md) / [Go to parent page (8.17.7 Pañhāvāra)](../8.17.7.md) / [Go to next page (8.18 Atītattika, Saraṇaduka)](../../8.18.md)
-
+[Go to previous page (8.17.7 Pañhāvāra)](../8.17.7.md) / [Go to parent page (8.17.7 Pañhāvāra)](../8.17.7.md) / [Go to next page (8.18 Atītattika, Saraṇaduka)](../../8.18.md)
 

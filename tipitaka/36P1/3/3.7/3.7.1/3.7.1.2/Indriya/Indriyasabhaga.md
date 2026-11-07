@@ -21,4 +21,3 @@
 
 [Go to previous page (Indriya)](../Indriya.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
 
-

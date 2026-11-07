@@ -17,14 +17,9 @@
 
 (48.)
 
-646\. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṃ, samanantare ekaṃ, sahajāte tīṇi, aññamaññe ekaṃ, nissaye tīṇi, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte ekaṃ, vippayutte tīṇi, atthiyā pañca, natthiyā ekaṃ, vigate ekaṃ, avigate pañca. (Evaṃ gaṇetabbaṃ.)
+646\. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṁ, samanantare ekaṁ, sahajāte tīṇi, aññamaññe ekaṁ, nissaye tīṇi, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṁ, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte ekaṁ, vippayutte tīṇi, atthiyā pañca, natthiyā ekaṁ, vigate ekaṁ, avigate pañca. (Evaṁ gaṇetabbaṁ.)
 
----
+647\. Anulomaṁ.
 
-647\. Anulomaṃ.
-
-
-
-[Go to previous page (2.3.7.1.2 Saṅkhyāvāra)](../2.3.7.1.2.md) / [Go to parent page (2.3.7.1.2 Saṅkhyāvāra)](../2.3.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (2.3.7.1.2 Saṅkhyāvāra)](../2.3.7.1.2.md) / [Go to parent page (2.3.7.1.2 Saṅkhyāvāra)](../2.3.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

@@ -17,8 +17,7 @@
 
 (5.)
 
-2136\. Noparāmāsaṃ dhammaṃ paṭicca noparāmāso dhammo uppajjati nahetupaccayā—  ahetukaṃ noparāmāsaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2136\. Noparāmāsaṁ dhammaṁ paṭicca noparāmāso dhammo uppajjati nahetupaccayā— ahetukaṁ noparāmāsaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (9.1.1.2.1 Vibhaṅgavāra)](../9.1.1.2.1.md) / [Go to parent page (9.1.1.2.1 Vibhaṅgavāra)](../9.1.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (9.1.1.2.1 Vibhaṅgavāra)](../9.1.1.2.1.md) / [Go to parent page (9.1.1.2.1 Vibhaṅgavāra)](../9.1.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

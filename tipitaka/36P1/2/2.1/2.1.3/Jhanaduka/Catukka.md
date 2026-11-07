@@ -15,12 +15,7 @@
 
 328\. Jhānapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-329\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+329\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Jhānaduka)](../Jhanaduka.md) / [Go to next page (Maggaduka)](../Maggaduka.md)
-
 

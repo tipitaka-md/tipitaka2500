@@ -17,14 +17,13 @@
 
 (162.)
 
-449\. Nahetuṃ sahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā—  nahetuṃ sahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+449\. Nahetuṁ sahetukaṁ dhammaṁ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā— nahetuṁ sahetukaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-450\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu ahetuko dhammo uppajjati ārammaṇapaccayā—  nahetuṃ ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (2)
+450\. Nahetuṁ ahetukaṁ dhammaṁ paṭicca nahetu ahetuko dhammo uppajjati ārammaṇapaccayā— nahetuṁ ahetukaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… paṭisandhikkhaṇe…pe… . (2)
 
-451\. Nahetuṃ ahetukaṃ dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca nahetū sahetukā khandhā. (3)
+451\. Nahetuṁ ahetukaṁ dhammaṁ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca nahetū sahetukā khandhā. (3)
 
-452\. Nahetuṃ sahetukañca nahetuṃ ahetukañca dhammaṃ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe nahetuṃ sahetukaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (Saṃkhittaṃ. Evaṃ vibhajitabbaṃ.)
+452\. Nahetuṁ sahetukañca nahetuṁ ahetukañca dhammaṁ paṭicca nahetu sahetuko dhammo uppajjati ārammaṇapaccayā— paṭisandhikkhaṇe nahetuṁ sahetukaṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… . (Saṁkhittaṁ. Evaṁ vibhajitabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to next page (1.6.1.1.2 Saṅkhyāvāra)](../1.6.1.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.6.1.1.1 Vibhaṅgavāra)](../1.6.1.1.1.md) / [Go to next page (1.6.1.1.2 Saṅkhyāvāra)](../1.6.1.1.2.md)
 

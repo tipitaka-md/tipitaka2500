@@ -15,8 +15,7 @@
 
 * Chakka
 
-732\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakamme ekaṃ, navipāke dve, namagge ekaṃ, navippayutte dve.
+732\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakamme ekaṁ, navipāke dve, namagge ekaṁ, navippayutte dve.
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Sattaka)](Sattaka.md)
-
 

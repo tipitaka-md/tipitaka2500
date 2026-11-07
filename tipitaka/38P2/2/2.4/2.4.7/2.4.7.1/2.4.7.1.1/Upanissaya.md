@@ -17,10 +17,9 @@
 
 (74.)
 
-709\. Sappaṭigho dhammo appaṭighassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  utuṃ, senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; utu, senāsanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+709\. Sappaṭigho dhammo appaṭighassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— utuṁ, senāsanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati; utu, senāsanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-710\. Appaṭigho dhammo appaṭighassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  kāyikaṃ sukhaṃ, kāyikaṃ dukkhaṃ, bhojanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  bhojanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+710\. Appaṭigho dhammo appaṭighassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— saddhaṁ upanissāya dānaṁ deti…pe… diṭṭhiṁ gaṇhāti; sīlaṁ…pe… kāyikaṁ sukhaṁ, kāyikaṁ dukkhaṁ, bhojanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati; saddhā…pe… bhojanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

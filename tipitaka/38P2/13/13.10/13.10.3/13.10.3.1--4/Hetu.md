@@ -15,28 +15,19 @@
 
 (183.)
 
-4478\. Upekkhāsahagataṃ dhammaṃ paccayā upekkhāsahagato dhammo uppajjati hetupaccayā—  upekkhāsahagataṃ ekaṃ khandhaṃ paccayā dve khandhā, dve khandhe…pe…  paṭisandhikkhaṇe…pe…  (yathā savitakkadukasadisaṃ paccayavāre nānākaraṇaṃ. “Upekkhan”ti navapi pañhā kātabbā, paṭisandhipavattipi vatthupi.)
+4478\. Upekkhāsahagataṁ dhammaṁ paccayā upekkhāsahagato dhammo uppajjati hetupaccayā— upekkhāsahagataṁ ekaṁ khandhaṁ paccayā dve khandhā, dve khandhe…pe… paṭisandhikkhaṇe…pe… (yathā savitakkadukasadisaṁ paccayavāre nānākaraṇaṁ. “Upekkhan”ti navapi pañhā kātabbā, paṭisandhipavattipi vatthupi.)
 
-4479\. Hetuyā nava, ārammaṇe nava…pe…  purejāte nava, āsevane nava (sabbattha nava), avigate nava.
+4479\. Hetuyā nava, ārammaṇe nava…pe… purejāte nava, āsevane nava (sabbattha nava), avigate nava.
 
----
-
-4480\. Anulomaṃ.
-
-
+4480\. Anulomaṁ.
 
 (184.)
 
-4481\. Upekkhāsahagataṃ dhammaṃ paccayā upekkhāsahagato dhammo uppajjati nahetupaccayā—  ahetukaṃ upekkhāsahagataṃ ekaṃ khandhaṃ paccayā dve khandhā, dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (Evaṃ navapi pañhā pavattipaṭisandhiyo yathā savitakkadukassa evaṃ kātabbā. Tīṇiyeva moho, pavatte vatthupi kātabbā.)
+4481\. Upekkhāsahagataṁ dhammaṁ paccayā upekkhāsahagato dhammo uppajjati nahetupaccayā— ahetukaṁ upekkhāsahagataṁ ekaṁ khandhaṁ paccayā dve khandhā, dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (Evaṁ navapi pañhā pavattipaṭisandhiyo yathā savitakkadukassa evaṁ kātabbā. Tīṇiyeva moho, pavatte vatthupi kātabbā.)
 
-4482\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi.
+4482\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā tīṇi, novigate tīṇi.
 
----
+4483\. Paccanīyaṁ.
 
-4483\. Paccanīyaṃ.
-
-
-
-[Go to previous page (13.10.3.1--4 Paccayānulomādi)](../13.10.3.1--4.md) / [Go to parent page (13.10.3.1--4 Paccayānulomādi)](../13.10.3.1--4.md) / [Go to next page (13.10.4 Nissayavāra)](../../13.10.4.md)
-
+[Go to previous page (13.10.3.1--4 Paccayānulomādi)](../13.10.3.1--4.md) / [Go to parent page (13.10.3.1--4 Paccayānulomādi)](../13.10.3.1--4.md) / [Go to next page (13.10.4 Nissayavāra)](../../13.10.4.md)
 

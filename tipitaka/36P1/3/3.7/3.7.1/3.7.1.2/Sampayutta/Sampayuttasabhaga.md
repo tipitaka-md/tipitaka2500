@@ -21,4 +21,3 @@
 
 [Go to previous page (Sampayutta)](../Sampayutta.md) / [Go to parent page (Sampayutta)](../Sampayutta.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
 
-

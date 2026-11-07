@@ -13,16 +13,11 @@
 
 * Ekādasaka
 
-2151\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā (mūlakaṃ saṃkhittaṃ) purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve. (Saṃkhittaṃ.)
+2151\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā anantarapaccayā (mūlakaṁ saṁkhittaṁ) purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve. (Saṁkhittaṁ.)
 
-2152\. (Yathā kusalattike anulomapaccanīyagaṇanā gaṇitā, evaṃ gaṇetabbaṃ.)
+2152\. (Yathā kusalattike anulomapaccanīyagaṇanā gaṇitā, evaṁ gaṇetabbaṁ.)
 
----
+2153\. Anulomapaccanīyaṁ.
 
-2153\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (4.1.4 Paccayapaccanīyānuloma)](../../4.1.4.md)
-
+[Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (4.1.4 Paccayapaccanīyānuloma)](../../4.1.4.md)
 

@@ -13,8 +13,7 @@
 
 (168.)
 
-596\. Upanissayapaccayā nahetuyā cattāri. (Upanissayapaccayā ārammaṇapaccayasadisaṃ.)
+596\. Upanissayapaccayā nahetuyā cattāri. (Upanissayapaccayā ārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Nissayaduka)](Nissayaduka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Purejātaduka)](Purejataduka.md)
-
+[Go to previous page (Nissayaduka)](Nissayaduka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Purejātaduka)](Purejataduka.md)
 

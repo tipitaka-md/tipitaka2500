@@ -13,20 +13,11 @@
 
 (516.)
 
-1789\. Novigatapaccayā hetuyā satta…pe…  avigate terasa.
+1789\. Novigatapaccayā hetuyā satta…pe… avigate terasa.
 
----
+1790\. (Yathā nahetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-1790\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+1791\. Novigatamūlakaṁ.
 
-
-
----
-
-1791\. Novigatamūlakaṃ.
-
-
-
-[Go to previous page (Nonatthiduka)](Nonatthiduka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Noavigataduka)](Noavigataduka.md)
-
+[Go to previous page (Nonatthiduka)](Nonatthiduka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Noavigataduka)](Noavigataduka.md)
 

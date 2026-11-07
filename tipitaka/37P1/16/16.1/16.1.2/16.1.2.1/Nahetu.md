@@ -15,8 +15,7 @@
 
 (7.)
 
-2275\. Aniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati nahetupaccayā—  ahetukaṃ aniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2275\. Aniyataṁ dhammaṁ paṭicca aniyato dhammo uppajjati nahetupaccayā— ahetukaṁ aniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ paṭicca…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (16.1.2.1 Vibhaṅgavāra)](../16.1.2.1.md) / [Go to parent page (16.1.2.1 Vibhaṅgavāra)](../16.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (16.1.2.1 Vibhaṅgavāra)](../16.1.2.1.md) / [Go to parent page (16.1.2.1 Vibhaṅgavāra)](../16.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

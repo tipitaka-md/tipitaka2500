@@ -17,4 +17,3 @@
 
 [Go to previous page (Kammaduka)](../Kammaduka.md) / [Go to parent page (Kammaduka)](../Kammaduka.md) / [Go to next page (Catukka)](Catukka.md)
 
-

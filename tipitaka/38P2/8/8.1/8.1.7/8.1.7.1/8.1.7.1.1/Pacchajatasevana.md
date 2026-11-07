@@ -17,8 +17,7 @@
 
 (37.)
 
-1963\. Nīvaraṇo dhammo nonīvaraṇassa dhammassa pacchājātapaccayena paccayo…  tīṇi…  āsevanapaccayena paccayo…  nava.
+1963\. Nīvaraṇo dhammo nonīvaraṇassa dhammassa pacchājātapaccayena paccayo… tīṇi… āsevanapaccayena paccayo… nava.
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (8.1.7.1.1 Vibhaṅgavāra)](../8.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

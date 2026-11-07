@@ -15,8 +15,7 @@
 
 (9.)
 
-2465\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati kammapaccayā. (Hetupaccayasadisā nava.)
+2465\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati kammapaccayā. (Hetupaccayasadisā nava.)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
-
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 

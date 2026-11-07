@@ -13,24 +13,23 @@
 
 (51.)
 
-1856\. Micchattaniyataṃ saraṇaṃ dhammaṃ paṭicca micchattaniyato saraṇo dhammo uppajjati hetupaccayā. (1)
+1856\. Micchattaniyataṁ saraṇaṁ dhammaṁ paṭicca micchattaniyato saraṇo dhammo uppajjati hetupaccayā. (1)
 
-1857\. Aniyataṃ saraṇaṃ dhammaṃ paṭicca aniyato saraṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1857\. Aniyataṁ saraṇaṁ dhammaṁ paṭicca aniyato saraṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-1858\. Hetuyā dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1858\. Hetuyā dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1859\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+1859\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
 (52.)
 
-1860\. Sammattaniyataṃ araṇaṃ dhammaṃ paṭicca sammattaniyato araṇo dhammo uppajjati hetupaccayā. Sammattaniyataṃ araṇaṃ dhammaṃ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. Sammattaniyataṃ araṇaṃ dhammaṃ paṭicca sammattaniyato araṇo ca aniyato araṇo ca dhammā uppajjanti hetupaccayā. (3)
+1860\. Sammattaniyataṁ araṇaṁ dhammaṁ paṭicca sammattaniyato araṇo dhammo uppajjati hetupaccayā. Sammattaniyataṁ araṇaṁ dhammaṁ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. Sammattaniyataṁ araṇaṁ dhammaṁ paṭicca sammattaniyato araṇo ca aniyato araṇo ca dhammā uppajjanti hetupaccayā. (3)
 
-1861\. Aniyataṃ araṇaṃ dhammaṃ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. (1)
+1861\. Aniyataṁ araṇaṁ dhammaṁ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. (1)
 
-1862\. Sammattaniyataṃ araṇañca aniyataṃ araṇañca dhammaṃ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1862\. Sammattaniyataṁ araṇañca aniyataṁ araṇañca dhammaṁ paṭicca aniyato araṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-1863\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+1863\. Hetuyā pañca, ārammaṇe dve…pe… avigate pañca. (Saṁkhittaṁ.) (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
-[Go to previous page (8.15.1--7 Paṭiccādivāra)](../8.15.1--7.md) / [Go to parent page (8.15.1--7 Paṭiccādivāra)](../8.15.1--7.md) / [Go to next page (8.16 Maggārammaṇattika, Saraṇaduka)](../../8.16.md)
-
+[Go to previous page (8.15.1--7 Paṭiccādivāra)](../8.15.1--7.md) / [Go to parent page (8.15.1--7 Paṭiccādivāra)](../8.15.1--7.md) / [Go to next page (8.16 Maggārammaṇattika, Saraṇaduka)](../../8.16.md)
 

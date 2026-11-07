@@ -13,24 +13,23 @@
 
 (25.)
 
-375\. Parittaṃ kusalaṃ dhammaṃ paṭicca paritto kusalo dhammo uppajjati hetupaccayā. (1)
+375\. Parittaṁ kusalaṁ dhammaṁ paṭicca paritto kusalo dhammo uppajjati hetupaccayā. (1)
 
-376\. Mahaggataṃ kusalaṃ dhammaṃ paṭicca mahaggato kusalo dhammo uppajjati hetupaccayā. (1)
+376\. Mahaggataṁ kusalaṁ dhammaṁ paṭicca mahaggato kusalo dhammo uppajjati hetupaccayā. (1)
 
-377\. Appamāṇaṃ kusalaṃ dhammaṃ paṭicca appamāṇo kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha tīṇi. Sabbattha vitthāro.)
+377\. Appamāṇaṁ kusalaṁ dhammaṁ paṭicca appamāṇo kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha tīṇi. Sabbattha vitthāro.)
 
 (26.)
 
-378\. Parittaṃ akusalaṃ dhammaṃ paṭicca paritto akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+378\. Parittaṁ akusalaṁ dhammaṁ paṭicca paritto akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-379\. Parittaṃ abyākataṃ dhammaṃ paṭicca paritto abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+379\. Parittaṁ abyākataṁ dhammaṁ paṭicca paritto abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-380\. Mahaggataṃ abyākataṃ dhammaṃ paṭicca mahaggato abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+380\. Mahaggataṁ abyākataṁ dhammaṁ paṭicca mahaggato abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-381\. Appamāṇaṃ abyākataṃ dhammaṃ paṭicca appamāṇo abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+381\. Appamāṇaṁ abyākataṁ dhammaṁ paṭicca appamāṇo abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-382\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe…  aññamaññe satta…pe…  purejāte tīṇi, āsevane dve, kamme terasa…pe…  avigate terasa. (Saṃkhittaṃ.)
+382\. Hetuyā terasa, ārammaṇe pañca, adhipatiyā nava…pe… aññamaññe satta…pe… purejāte tīṇi, āsevane dve, kamme terasa…pe… avigate terasa. (Saṁkhittaṁ.)
 
-[Go to previous page (2.11.1--7 Paṭiccādivāra)](../2.11.1--7.md) / [Go to parent page (2.11.1--7 Paṭiccādivāra)](../2.11.1--7.md) / [Go to next page (2.12 Parittārammaṇattika, Kusalattika)](../../2.12.md)
-
+[Go to previous page (2.11.1--7 Paṭiccādivāra)](../2.11.1--7.md) / [Go to parent page (2.11.1--7 Paṭiccādivāra)](../2.11.1--7.md) / [Go to next page (2.12 Parittārammaṇattika, Kusalattika)](../../2.12.md)
 

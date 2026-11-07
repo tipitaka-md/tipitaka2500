@@ -17,22 +17,21 @@
 
 (38.)
 
-1538\. Rūpiṃ abyākataṃ dhammaṃ paṭicca rūpī abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+1538\. Rūpiṁ abyākataṁ dhammaṁ paṭicca rūpī abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-1539\. Arūpiṃ abyākataṃ dhammaṃ paṭicca arūpī abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+1539\. Arūpiṁ abyākataṁ dhammaṁ paṭicca arūpī abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-1540\. Rūpiṃ abyākatañca arūpiṃ abyākatañca dhammaṃ paṭicca rūpī abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+1540\. Rūpiṁ abyākatañca arūpiṁ abyākatañca dhammaṁ paṭicca rūpī abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-1541\. Rūpiṃ abyākataṃ dhammaṃ paṭicca arūpī abyākato dhammo uppajjati ārammaṇapaccayā. (Saṃkhittaṃ.)
+1541\. Rūpiṁ abyākataṁ dhammaṁ paṭicca arūpī abyākato dhammo uppajjati ārammaṇapaccayā. (Saṁkhittaṁ.)
 
 (39.)
 
-1542\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca, anantare tīṇi, samanantare tīṇi…pe…  aññamaññe cha…pe…  purejāte ekaṃ, āsevane ekaṃ, kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1542\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca, anantare tīṇi, samanantare tīṇi…pe… aññamaññe cha…pe… purejāte ekaṁ, āsevane ekaṁ, kamme nava, vipāke nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 (40.)
 
-1543\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe…  napurejāte nava…pe…  nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ, paccanīyaṃ.)
+1543\. Nahetuyā nava, naārammaṇe tīṇi, naadhipatiyā nava…pe… napurejāte nava…pe… nakamme dve, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ, paccanīyaṁ.)
 
 [Go to previous page (Paccayacatukka)](../accayacatukka.md) / [Go to parent page (Paccayacatukka)](../accayacatukka.md) / [Go to next page (Paccayacatukka)](../Paccayacatukka.md)
-
 

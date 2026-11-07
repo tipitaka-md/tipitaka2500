@@ -17,10 +17,9 @@
 
 (10.)
 
-563\. Sappaccayo dhammo sappaccayassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā…pe…  cakkhuṃ…pe…  vatthuṃ…  sappaccaye khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  sappaccayādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+563\. Sappaccayo dhammo sappaccayassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe…pe… jhānā…pe… ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti, phalaṁ garuṁ katvā…pe… cakkhuṁ…pe… vatthuṁ… sappaccaye khandhe garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— sappaccayādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-564\. Appaccayo dhammo sappaccayassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. (1)
+564\. Appaccayo dhammo sappaccayassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— ariyā nibbānaṁ garuṁ katvā paccavekkhanti; nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.1.7.1.1 Vibhaṅgavāra)](../2.1.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.1.7.1.1 Vibhaṅgavāra)](../2.1.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

@@ -17,10 +17,9 @@
 
 (39.)
 
-624\. Sanidassano dhammo anidassanassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  vaṇṇasampadaṃ patthayamāno dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ karoti, vaṇṇasampadā saddhāya…pe…  patthanāya…  kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
+624\. Sanidassano dhammo anidassanassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— vaṇṇasampadaṁ patthayamāno dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ karoti, vaṇṇasampadā saddhāya…pe… patthanāya… kāyikassa sukhassa, kāyikassa dukkhassa, maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-625\. Anidassano dhammo anidassanassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+625\. Anidassano dhammo anidassanassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— saddhaṁ upanissāya dānaṁ deti…pe… samāpattiṁ uppādeti, mānaṁ jappeti, diṭṭhiṁ gaṇhāti; sīlaṁ…pe… senāsanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati; saddhā…pe… senāsanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Samanantarādi)](Samanantaradi.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

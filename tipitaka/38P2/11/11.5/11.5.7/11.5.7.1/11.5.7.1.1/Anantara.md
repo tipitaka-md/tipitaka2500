@@ -17,8 +17,7 @@
 
 (107.)
 
-3788\. Upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa anantarapaccayena paccayo—  purimā purimā upādānā ceva upādānasampayuttā ca khandhā pacchimānaṃ pacchimānaṃ upādānānaṃ anantarapaccayena paccayo. (Evaṃ navapi pañhā kātabbā, āvajjanāpi vuṭṭhānampi natthi.)
+3788\. Upādāno ceva upādānasampayutto ca dhammo upādānassa ceva upādānasampayuttassa ca dhammassa anantarapaccayena paccayo— purimā purimā upādānā ceva upādānasampayuttā ca khandhā pacchimānaṁ pacchimānaṁ upādānānaṁ anantarapaccayena paccayo. (Evaṁ navapi pañhā kātabbā, āvajjanāpi vuṭṭhānampi natthi.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](../11.5.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.5.7.1.1 Vibhaṅgavāra)](../11.5.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 

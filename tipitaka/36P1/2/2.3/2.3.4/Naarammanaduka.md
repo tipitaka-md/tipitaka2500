@@ -13,10 +13,9 @@
 
 (179.)
 
-634\. Naārammaṇapaccayā hetuyā pañca, adhipatiyā pañca, sahajāte pañca, aññamaññe ekaṃ, nissaye pañca, kamme pañca, vipāke ekaṃ, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, vippayutte pañca, atthiyā pañca, avigate pañca.
+634\. Naārammaṇapaccayā hetuyā pañca, adhipatiyā pañca, sahajāte pañca, aññamaññe ekaṁ, nissaye pañca, kamme pañca, vipāke ekaṁ, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, vippayutte pañca, atthiyā pañca, avigate pañca.
 
 * [Tika](Naarammanaduka/Tika.md)
 
-[Go to previous page (Ekavīsaka)](Nahetuduka/Ekavisaka.md) / [Go to parent page (2.3.4 Paccayapaccanīyānuloma)](../2.3.4.md) / [Go to next page (Tika)](Naarammanaduka/Tika.md)
-
+[Go to previous page (Ekavīsaka)](Nahetuduka/Ekavisaka.md) / [Go to parent page (2.3.4 Paccayapaccanīyānuloma)](../2.3.4.md) / [Go to next page (Tika)](Naarammanaduka/Tika.md)
 

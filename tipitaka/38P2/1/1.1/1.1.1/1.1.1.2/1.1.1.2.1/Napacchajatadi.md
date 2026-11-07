@@ -17,8 +17,7 @@
 
 (11.)
 
-28\. Hetuṃ dhammaṃ paṭicca hetu dhammo uppajjati napacchājātapaccayā…  naāsevanapaccayā.
+28\. Hetuṁ dhammaṁ paṭicca hetu dhammo uppajjati napacchājātapaccayā… naāsevanapaccayā.
 
-[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (Nakammādi)](Nakammadi.md)
-
+[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (Nakammādi)](Nakammadi.md)
 

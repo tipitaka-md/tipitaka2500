@@ -15,12 +15,11 @@
 
 (44.)
 
-3031\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa vipākapaccayena paccayo—  vipāko anidassanaappaṭigho eko khandho tiṇṇannaṃ khandhānaṃ anidassanaappaṭighānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe anidassanaappaṭigho eko khandho tiṇṇannaṃ khandhānaṃ anidassanaappaṭighānañca kaṭattārūpānaṃ vipākapaccayena paccayo…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
+3031\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa vipākapaccayena paccayo— vipāko anidassanaappaṭigho eko khandho tiṇṇannaṁ khandhānaṁ anidassanaappaṭighānaṁ cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe anidassanaappaṭigho eko khandho tiṇṇannaṁ khandhānaṁ anidassanaappaṭighānañca kaṭattārūpānaṁ vipākapaccayena paccayo…pe… khandhā vatthussa vipākapaccayena paccayo. (1)
 
-3032\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa vipākapaccayena paccayo—  vipākā anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ cittasamuṭṭhānānaṃ rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā sanidassanasappaṭighānaṃ kaṭattārūpānaṃ vipākapaccayena paccayo. (2)
+3032\. Anidassanaappaṭigho dhammo sanidassanasappaṭighassa dhammassa vipākapaccayena paccayo— vipākā anidassanaappaṭighā khandhā sanidassanasappaṭighānaṁ cittasamuṭṭhānānaṁ rūpānaṁ vipākapaccayena paccayo. Paṭisandhikkhaṇe anidassanaappaṭighā khandhā sanidassanasappaṭighānaṁ kaṭattārūpānaṁ vipākapaccayena paccayo. (2)
 
-3033\. (Evaṃ satta pañhā vitthāretabbā, pavattipaṭisandhi.) (7)
+3033\. (Evaṁ satta pañhā vitthāretabbā, pavattipaṭisandhi.) (7)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 

@@ -15,20 +15,19 @@
 
 (37.)
 
-122\. Vipākaṃ hetuṃ dhammaṃ paṭicca vipāko hetu dhammo uppajjati hetupaccayā. (1)
+122\. Vipākaṁ hetuṁ dhammaṁ paṭicca vipāko hetu dhammo uppajjati hetupaccayā. (1)
 
-123\. Vipākadhammadhammaṃ hetuṃ dhammaṃ paṭicca vipākadhammadhammo hetu dhammo uppajjati hetupaccayā. (1)
+123\. Vipākadhammadhammaṁ hetuṁ dhammaṁ paṭicca vipākadhammadhammo hetu dhammo uppajjati hetupaccayā. (1)
 
-124\. Nevavipākanavipākadhammadhammaṃ hetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+124\. Nevavipākanavipākadhammadhammaṁ hetuṁ dhammaṁ paṭicca nevavipākanavipākadhammadhammo hetu dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (38.)
 
-125\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  āsevane dve, kamme tīṇi, vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+125\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… āsevane dve, kamme tīṇi, vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-126\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke dve, navippayutte tīṇi. (Saṃkhittaṃ.)
+126\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke dve, navippayutte tīṇi. (Saṁkhittaṁ.)
 
-127\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+127\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.3.1.1--6 Paṭiccādivāra)](../1.3.1.1--6.md) / [Go to parent page (1.3.1.1--6 Paṭiccādivāra)](../1.3.1.1--6.md) / [Go to next page (1.3.1.7 Pañhāvāra)](../1.3.1.7.md)
-
+[Go to previous page (1.3.1.1--6 Paṭiccādivāra)](../1.3.1.1--6.md) / [Go to parent page (1.3.1.1--6 Paṭiccādivāra)](../1.3.1.1--6.md) / [Go to next page (1.3.1.7 Pañhāvāra)](../1.3.1.7.md)
 

@@ -13,8 +13,7 @@
 
 * Tika
 
-783\. Sampayuttapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+783\. Sampayuttapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Sampayuttaduka)](../Sampayuttaduka.md) / [Go to parent page (Sampayuttaduka)](../Sampayuttaduka.md) / [Go to next page (Vippayuttaduka)](../Vippayuttaduka.md)
-
 

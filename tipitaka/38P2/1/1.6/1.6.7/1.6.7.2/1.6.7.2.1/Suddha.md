@@ -17,14 +17,9 @@
 
 (199.)
 
-538\. Nahetuyā satta, naārammaṇe satta (Saṃkhittaṃ. Sabbattha satta), nasahajāte cha, naaññamaññe cha, nanissaye cha (sabbattha satta), nasampayutte cha, navippayutte pañca, noatthiyā pañca, nonatthiyā satta, novigate satta, noavigate pañca. (Evaṃ gaṇetabbaṃ.)
+538\. Nahetuyā satta, naārammaṇe satta (Saṁkhittaṁ. Sabbattha satta), nasahajāte cha, naaññamaññe cha, nanissaye cha (sabbattha satta), nasampayutte cha, navippayutte pañca, noatthiyā pañca, nonatthiyā satta, novigate satta, noavigate pañca. (Evaṁ gaṇetabbaṁ.)
 
----
+539\. Paccanīyaṁ.
 
-539\. Paccanīyaṃ.
-
-
-
-[Go to previous page (1.6.7.2.1 Saṅkhyāvāra)](../1.6.7.2.1.md) / [Go to parent page (1.6.7.2.1 Saṅkhyāvāra)](../1.6.7.2.1.md) / [Go to next page (1.6.7.3 Paccayānulomapaccanīya)](../../1.6.7.3.md)
-
+[Go to previous page (1.6.7.2.1 Saṅkhyāvāra)](../1.6.7.2.1.md) / [Go to parent page (1.6.7.2.1 Saṅkhyāvāra)](../1.6.7.2.1.md) / [Go to next page (1.6.7.3 Paccayānulomapaccanīya)](../../1.6.7.3.md)
 

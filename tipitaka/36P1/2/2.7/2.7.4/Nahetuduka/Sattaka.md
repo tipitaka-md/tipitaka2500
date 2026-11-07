@@ -13,8 +13,7 @@
 
 * Sattaka
 
-1699\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte pañca, atthiyā satta, avigate satta.
+1699\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte pañca, atthiyā satta, avigate satta.
 
 [Go to previous page (Chakka)](Chakka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Aṭṭhaka)](Atthaka.md)
-
 

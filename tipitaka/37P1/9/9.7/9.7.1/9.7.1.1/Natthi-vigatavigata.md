@@ -15,8 +15,7 @@
 
 (96.)
 
-1031\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+1031\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo.
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (9.7.1.2 Saṅkhyāvāra)](../9.7.1.2.md)
-
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (9.7.1.2 Saṅkhyāvāra)](../9.7.1.2.md)
 

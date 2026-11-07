@@ -13,8 +13,7 @@
 
 * Tika
 
-767\. Purejātapaccayā hetupaccayā naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi. (Saṃkhittaṃ.)
+767\. Purejātapaccayā hetupaccayā naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Purejātaduka)](../Purejataduka.md) / [Go to parent page (Purejātaduka)](../Purejataduka.md) / [Go to next page (Āsevanaduka)](../Asevanaduka.md)
-
 

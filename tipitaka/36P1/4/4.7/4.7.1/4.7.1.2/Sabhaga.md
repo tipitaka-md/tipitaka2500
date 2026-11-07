@@ -15,14 +15,9 @@
 
 2405\. Hetupaccayā adhipatiyā satta, sahajāte satta, aññamaññe pañca, nissaye satta, vipāke tīṇi, indriye satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta.
 
-2406\. (Yathā kusalattike pañhāvārassa anulomagaṇanā gaṇitā, evaṃ vitthāretabbā.)
+2406\. (Yathā kusalattike pañhāvārassa anulomagaṇanā gaṇitā, evaṁ vitthāretabbā.)
 
----
+2407\. Anulomaṁ
 
-2407\. Anulomaṃ
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.7.1.2 Saṅkhyāvāra)](../4.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.7.1.2 Saṅkhyāvāra)](../4.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

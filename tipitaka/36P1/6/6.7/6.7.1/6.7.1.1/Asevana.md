@@ -15,12 +15,11 @@
 
 (19.)
 
-2868\. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa āsevanapaccayena paccayo—  purimā purimā saṃkiliṭṭhasaṃkilesikā khandhā pacchimānaṃ pacchimānaṃ saṃkiliṭṭhasaṃkilesikānaṃ khandhānaṃ āsevanapaccayena paccayo. (1)
+2868\. Saṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa dhammassa āsevanapaccayena paccayo— purimā purimā saṁkiliṭṭhasaṁkilesikā khandhā pacchimānaṁ pacchimānaṁ saṁkiliṭṭhasaṁkilesikānaṁ khandhānaṁ āsevanapaccayena paccayo. (1)
 
-2869\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa āsevanapaccayena paccayo—  purimā purimā…pe…  anulomaṃ gotrabhussa…  anulomaṃ vodānassa āsevanapaccayena paccayo. (1)
+2869\. Asaṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa āsevanapaccayena paccayo— purimā purimā…pe… anulomaṁ gotrabhussa… anulomaṁ vodānassa āsevanapaccayena paccayo. (1)
 
-2870\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa āsevanapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (2)
+2870\. Asaṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhaasaṁkilesikassa dhammassa āsevanapaccayena paccayo— gotrabhu maggassa… vodānaṁ maggassa āsevanapaccayena paccayo. (2)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

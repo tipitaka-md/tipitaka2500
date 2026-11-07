@@ -15,8 +15,7 @@
 
 * Chakka
 
-746\. Najhānapaccayā nahetupaccayā naadhipatipaccayā napacchājātapaccayā naāsevanapaccayā namagge ekaṃ.
+746\. Najhānapaccayā nahetupaccayā naadhipatipaccayā napacchājātapaccayā naāsevanapaccayā namagge ekaṁ.
 
 [Go to previous page (Najhānaduka)](../Najhanaduka.md) / [Go to parent page (Najhānaduka)](../Najhanaduka.md) / [Go to next page (Namaggaduka)](../Namaggaduka.md)
-
 

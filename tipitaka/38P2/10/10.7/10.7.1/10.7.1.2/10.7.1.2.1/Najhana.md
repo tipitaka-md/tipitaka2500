@@ -17,8 +17,7 @@
 
 (245.)
 
-2925\. Cittasahabhuṃ dhammaṃ paṭicca cittasahabhū dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ…pe… .
+2925\. Cittasahabhuṁ dhammaṁ paṭicca cittasahabhū dhammo uppajjati najhānapaccayā— pañcaviññāṇasahagataṁ…pe… .
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.7.1.2.1 Vibhaṅgavāra)](../10.7.1.2.1.md) / [Go to next page (10.7.1.2.2 Saṅkhyāvāra)](../10.7.1.2.2.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.7.1.2.1 Vibhaṅgavāra)](../10.7.1.2.1.md) / [Go to next page (10.7.1.2.2 Saṅkhyāvāra)](../10.7.1.2.2.md)
 

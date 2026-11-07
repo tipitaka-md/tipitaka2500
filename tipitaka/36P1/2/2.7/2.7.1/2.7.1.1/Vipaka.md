@@ -15,8 +15,7 @@
 
 (292.)
 
-949\. Abyākato dhammo abyākatassa dhammassa vipākapaccayena paccayo—  vipākābyākato eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo. Tayo khandhā ekassa khandhassa cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākato eko khandho tiṇṇannaṃ khandhānaṃ kaṭattā ca rūpānaṃ vipākapaccayena paccayo. Tayo khandhā ekassa khandhassa kaṭattā ca rūpānaṃ vipākapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ kaṭattā ca rūpānaṃ vipākapaccayena paccayo. Khandhā vatthussa vipākapaccayena paccayo. (1)
+949\. Abyākato dhammo abyākatassa dhammassa vipākapaccayena paccayo— vipākābyākato eko khandho tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo. Tayo khandhā ekassa khandhassa cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo. Dve khandhā dvinnaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākato eko khandho tiṇṇannaṁ khandhānaṁ kaṭattā ca rūpānaṁ vipākapaccayena paccayo. Tayo khandhā ekassa khandhassa kaṭattā ca rūpānaṁ vipākapaccayena paccayo. Dve khandhā dvinnaṁ khandhānaṁ kaṭattā ca rūpānaṁ vipākapaccayena paccayo. Khandhā vatthussa vipākapaccayena paccayo. (1)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 

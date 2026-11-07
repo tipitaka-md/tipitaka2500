@@ -15,8 +15,7 @@
 
 * Catukka
 
-564\. Navipākapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ (sabbattha ekaṃ) novigate ekaṃ…pe… .
+564\. Navipākapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṁ (sabbattha ekaṁ) novigate ekaṁ…pe… .
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Navipākaduka)](../Navipakaduka.md) / [Go to next page (Naāhāradukādi)](../Naaharadukadi.md)
-
 

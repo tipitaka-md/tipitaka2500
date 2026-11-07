@@ -11,46 +11,45 @@
 
 (1.)
 
-2\. Nakusalaṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuṃ dhammaṃ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuṃ dhammaṃ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Nakusalaṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā…  pañca.
+2\. Nakusalaṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuṁ dhammaṁ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuṁ dhammaṁ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Nakusalaṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā… pañca.
 
 (2.)
 
-3\. Naakusalaṃ nahetuṃ dhammaṃ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṃ nahetuṃ dhammaṃ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Naakusalaṃ nahetuṃ dhammaṃ paṭicca naakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naakusalaṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā…  pañca.
+3\. Naakusalaṁ nahetuṁ dhammaṁ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṁ nahetuṁ dhammaṁ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Naakusalaṁ nahetuṁ dhammaṁ paṭicca naakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naakusalaṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā… pañca.
 
 (3.)
 
-4\. Naabyākataṃ nahetuṃ dhammaṃ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Naabyākataṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Naabyākataṃ nahetuṃ dhammaṃ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Naabyākataṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naabyākataṃ nahetuṃ dhammaṃ paṭicca naakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naabyākataṃ nahetuṃ dhammaṃ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā…  cha.
+4\. Naabyākataṁ nahetuṁ dhammaṁ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Naabyākataṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Naabyākataṁ nahetuṁ dhammaṁ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Naabyākataṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naabyākataṁ nahetuṁ dhammaṁ paṭicca naakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naabyākataṁ nahetuṁ dhammaṁ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā… cha.
 
 (4.)
 
-5\. Nakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca nakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Nakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā…  pañca.
+5\. Nakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca nakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Nakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā… pañca.
 
 (5.)
 
-6\. Naakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Naakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca naakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naakusalaṃ nahetuñca naabyākataṃ nahetuñca dhammaṃ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā…  pañca.
+6\. Naakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Naakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca naabyākato nahetu dhammo uppajjati hetupaccayā. Naakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca naakusalo nahetu ca naabyākato nahetu ca dhammā uppajjanti hetupaccayā. Naakusalaṁ nahetuñca naabyākataṁ nahetuñca dhammaṁ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā… pañca.
 
 (6.)
 
-7\. Nakusalaṃ nahetuñca naakusalaṃ nahetuñca dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuñca naakusalaṃ nahetuñca dhammaṃ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nahetuñca naakusalaṃ nahetuñca dhammaṃ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+7\. Nakusalaṁ nahetuñca naakusalaṁ nahetuñca dhammaṁ paṭicca nakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuñca naakusalaṁ nahetuñca dhammaṁ paṭicca naakusalo nahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nahetuñca naakusalaṁ nahetuñca dhammaṁ paṭicca nakusalo nahetu ca naakusalo nahetu ca dhammā uppajjanti hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
-8\. Hetuyā ekūnatiṃsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate ekūnatiṃsa. (Sabbattha vitthāro.)
+8\. Hetuyā ekūnatiṁsa, ārammaṇe catuvīsa…pe… vipāke nava…pe… avigate ekūnatiṁsa. (Sabbattha vitthāro.)
 
 (7.)
 
-9\. Nakusalaṃ nanahetuṃ dhammaṃ paṭicca nakusalo nanahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nanahetuṃ dhammaṃ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nanahetuṃ dhammaṃ paṭicca naabyākato nanahetu dhammo uppajjati hetupaccayā. Nakusalaṃ nanahetuṃ dhammaṃ paṭicca nakusalo nanahetu ca naabyākato nanahetu ca dhammā uppajjanti hetupaccayā. Nakusalaṃ nanahetuṃ dhammaṃ paṭicca nakusalo nanahetu ca naakusalo nanahetu ca dhammā uppajjanti hetupaccayā. (5)
+9\. Nakusalaṁ nanahetuṁ dhammaṁ paṭicca nakusalo nanahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nanahetuṁ dhammaṁ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nanahetuṁ dhammaṁ paṭicca naabyākato nanahetu dhammo uppajjati hetupaccayā. Nakusalaṁ nanahetuṁ dhammaṁ paṭicca nakusalo nanahetu ca naabyākato nanahetu ca dhammā uppajjanti hetupaccayā. Nakusalaṁ nanahetuṁ dhammaṁ paṭicca nakusalo nanahetu ca naakusalo nanahetu ca dhammā uppajjanti hetupaccayā. (5)
 
-10\. Naakusalaṃ nanahetuṃ dhammaṃ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā…  pañca.
+10\. Naakusalaṁ nanahetuṁ dhammaṁ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā… pañca.
 
-11\. Naabyākataṃ nanahetuṃ dhammaṃ paṭicca naabyākato nanahetu dhammo uppajjati hetupaccayā…  pañca.
+11\. Naabyākataṁ nanahetuṁ dhammaṁ paṭicca naabyākato nanahetu dhammo uppajjati hetupaccayā… pañca.
 
-12\. Nakusalaṃ nanahetuñca naabyākataṃ nanahetuñca dhammaṃ paṭicca nakusalo nanahetu dhammo uppajjati hetupaccayā…  tīṇi.
+12\. Nakusalaṁ nanahetuñca naabyākataṁ nanahetuñca dhammaṁ paṭicca nakusalo nanahetu dhammo uppajjati hetupaccayā… tīṇi.
 
-13\. Naakusalaṃ nanahetuñca naabyākataṃ nanahetuñca dhammaṃ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā…  tīṇi.
+13\. Naakusalaṁ nanahetuñca naabyākataṁ nanahetuñca dhammaṁ paṭicca naakusalo nanahetu dhammo uppajjati hetupaccayā… tīṇi.
 
-14\. Nakusalaṃ nanahetuñca naakusalaṃ nanahetuñca dhammaṃ paṭicca nakusalo nanahetu dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+14\. Nakusalaṁ nanahetuñca naakusalaṁ nanahetuñca dhammaṁ paṭicca nakusalo nanahetu dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
-15\. Hetuyā catuvīsa, ārammaṇe catuvīsa…pe…  vipāke nava…pe…  avigate catuvīsa. (Sabbattha vitthāro.)
+15\. Hetuyā catuvīsa, ārammaṇe catuvīsa…pe… vipāke nava…pe… avigate catuvīsa. (Sabbattha vitthāro.)
 
-[Go to previous page (1.1--7 Paṭiccādivāra)](../1.1--7.md) / [Go to parent page (1.1--7 Paṭiccādivāra)](../1.1--7.md) / [Go to next page (2 Kusalattika, Sahetukaduka)](../../2.md)
-
+[Go to previous page (1.1--7 Paṭiccādivāra)](../1.1--7.md) / [Go to parent page (1.1--7 Paṭiccādivāra)](../1.1--7.md) / [Go to next page (2 Kusalattika, Sahetukaduka)](../../2.md)
 

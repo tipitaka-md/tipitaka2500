@@ -15,8 +15,7 @@
 
 * Tika
 
-742\. Nakammapaccayā nahetupaccayā naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
+742\. Nakammapaccayā nahetupaccayā naadhipatiyā ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, navipāke ekaṁ, namagge ekaṁ, navippayutte ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Nakammaduka)](../Nakammaduka.md) / [Go to parent page (Nakammaduka)](../Nakammaduka.md) / [Go to next page (Navipākaduka)](../Navipakaduka.md)
-
 

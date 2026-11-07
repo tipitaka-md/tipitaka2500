@@ -23,40 +23,39 @@
 
 378\. Upekkhāsahagato nahetu dhammo upekkhāsahagatassa nahetussa dhammassa ārammaṇapaccayena paccayo. Upekkhāsahagato nahetu dhammo pītisahagatassa nahetussa dhammassa ārammaṇapaccayena paccayo. Upekkhāsahagato nahetu dhammo sukhasahagatassa nahetussa dhammassa ārammaṇapaccayena paccayo. Upekkhāsahagato nahetu dhammo pītisahagatassa nahetussa ca sukhasahagatassa nahetussa ca dhammassa ārammaṇapaccayena paccayo. (4)
 
-379\. Pītisahagato nahetu ca sukhasahagato nahetu ca dhammā pītisahagatassa nahetussa dhammassa ārammaṇapaccayena paccayo…  cattāri.
+379\. Pītisahagato nahetu ca sukhasahagato nahetu ca dhammā pītisahagatassa nahetussa dhammassa ārammaṇapaccayena paccayo… cattāri.
 
 (111.)
 
-380\. Pītisahagato nahetu dhammo pītisahagatassa nahetussa dhammassa adhipatipaccayena paccayo…  cattāri.
+380\. Pītisahagato nahetu dhammo pītisahagatassa nahetussa dhammassa adhipatipaccayena paccayo… cattāri.
 
-381\. Sukhasahagato nahetu dhammo sukhasahagatassa nahetussa dhammassa adhipatipaccayena paccayo…  cattāri.
+381\. Sukhasahagato nahetu dhammo sukhasahagatassa nahetussa dhammassa adhipatipaccayena paccayo… cattāri.
 
-382\. Upekkhāsahagato nahetu dhammo upekkhāsahagatassa nahetussa dhammassa adhipatipaccayena paccayo…  cattāri.
+382\. Upekkhāsahagato nahetu dhammo upekkhāsahagatassa nahetussa dhammassa adhipatipaccayena paccayo… cattāri.
 
-383\. Pītisahagato nahetu ca sukhasahagato nahetu ca dhammā pītisahagatassa nahetussa dhammassa adhipatipaccayena paccayo…  cattāri.
+383\. Pītisahagato nahetu ca sukhasahagato nahetu ca dhammā pītisahagatassa nahetussa dhammassa adhipatipaccayena paccayo… cattāri.
 
 (112.)
 
-384\. Pītisahagato nahetu dhammo pītisahagatassa nahetussa dhammassa anantarapaccayena paccayo…pe…  upanissayapaccayena paccayo…  cattāri.
+384\. Pītisahagato nahetu dhammo pītisahagatassa nahetussa dhammassa anantarapaccayena paccayo…pe… upanissayapaccayena paccayo… cattāri.
 
-385\. Sukhasahagato nahetu dhammo sukhasahagatassa nahetussa dhammassa upanissayapaccayena paccayo…  cattāri.
+385\. Sukhasahagato nahetu dhammo sukhasahagatassa nahetussa dhammassa upanissayapaccayena paccayo… cattāri.
 
-386\. Upekkhāsahagato nahetu dhammo upekkhāsahagatassa nahetussa dhammassa upanissayapaccayena paccayo…  cattāri.
+386\. Upekkhāsahagato nahetu dhammo upekkhāsahagatassa nahetussa dhammassa upanissayapaccayena paccayo… cattāri.
 
-387\. Pītisahagato nahetu ca sukhasahagato nahetu ca dhammā pītisahagatassa nahetussa dhammassa upanissayapaccayena paccayo…  cattāri. (Saṃkhittaṃ.)
+387\. Pītisahagato nahetu ca sukhasahagato nahetu ca dhammā pītisahagatassa nahetussa dhammassa upanissayapaccayena paccayo… cattāri. (Saṁkhittaṁ.)
 
 (113.)
 
-388\. Ārammaṇe soḷasa, adhipatiyā soḷasa, anantare samanantare soḷasa, sahajāte dasa, aññamaññe dasa, nissaye dasa, upanissaye soḷasa, āsevane dasa, kamme soḷasa, āhāre dasa…pe…  avigate dasa. (Saṃkhittaṃ.)
+388\. Ārammaṇe soḷasa, adhipatiyā soḷasa, anantare samanantare soḷasa, sahajāte dasa, aññamaññe dasa, nissaye dasa, upanissaye soḷasa, āsevane dasa, kamme soḷasa, āhāre dasa…pe… avigate dasa. (Saṁkhittaṁ.)
 
-389\. Nahetuyā soḷasa, naārammaṇe soḷasa, naadhipatiyā soḷasa. (Saṃkhittaṃ.)
+389\. Nahetuyā soḷasa, naārammaṇe soḷasa, naadhipatiyā soḷasa. (Saṁkhittaṁ.)
 
-390\. Ārammaṇapaccayā nahetuyā soḷasa. (Saṃkhittaṃ.)
+390\. Ārammaṇapaccayā nahetuyā soḷasa. (Saṁkhittaṁ.)
 
-391\. Nahetupaccayā ārammaṇe soḷasa. (Saṃkhittaṃ.)
+391\. Nahetupaccayā ārammaṇe soḷasa. (Saṁkhittaṁ.)
 
-392\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+392\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.8 Dassanenapahātabbattika, Hetuduka)](../../../../1.8.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.8 Dassanenapahātabbattika, Hetuduka)](../../../../1.8.md)
 

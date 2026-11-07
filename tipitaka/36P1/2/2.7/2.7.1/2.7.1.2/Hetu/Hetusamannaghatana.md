@@ -17,10 +17,9 @@
 
 (305.)
 
-1009\. Hetu sahajāta nissaya atthi avigatanti satta. Hetu sahajāta aññamañña nissaya atthi avigatanti tīṇi. Hetu sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Hetu sahajāta nissaya vippayutta atthi avigatanti tīṇi. [Avipāka—  4]
+1009\. Hetu sahajāta nissaya atthi avigatanti satta. Hetu sahajāta aññamañña nissaya atthi avigatanti tīṇi. Hetu sahajāta aññamañña nissaya sampayutta atthi avigatanti tīṇi. Hetu sahajāta nissaya vippayutta atthi avigatanti tīṇi. [Avipāka— 4]
 
-1010\. Hetu sahajāta nissaya vipāka atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti ekaṃ. Hetu sahajāta nissaya vipāka vippayutta atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti ekaṃ. [Savipāka—  5]
+1010\. Hetu sahajāta nissaya vipāka atthi avigatanti ekaṁ. Hetu sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṁ. Hetu sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti ekaṁ. Hetu sahajāta nissaya vipāka vippayutta atthi avigatanti ekaṁ. Hetu sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti ekaṁ. [Savipāka— 5]
 
 [Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Saindriyamaggaghaṭanā)](Saindriyamaggaghatana.md)
-
 

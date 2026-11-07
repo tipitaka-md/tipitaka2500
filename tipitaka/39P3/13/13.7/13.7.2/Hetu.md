@@ -13,16 +13,15 @@
 
 (49.)
 
-2488\. Sappītikaṃ akusalaṃ dhammaṃ paṭicca sappītiko akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+2488\. Sappītikaṁ akusalaṁ dhammaṁ paṭicca sappītiko akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-2489\. Appītikaṃ akusalaṃ dhammaṃ paṭicca appītiko akusalo dhammo uppajjati hetupaccayā…  dve.
+2489\. Appītikaṁ akusalaṁ dhammaṁ paṭicca appītiko akusalo dhammo uppajjati hetupaccayā… dve.
 
-2490\. Sappītikaṃ akusalañca appītikaṃ akusalañca dhammaṃ paṭicca sappītiko akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2490\. Sappītikaṁ akusalañca appītikaṁ akusalañca dhammaṁ paṭicca sappītiko akusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (50.)
 
-2491\. Hetuyā cha, ārammaṇe cha…pe…  avigate cha. (Saṃkhittaṃ. Kusalasadisaṃ. Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
+2491\. Hetuyā cha, ārammaṇe cha…pe… avigate cha. (Saṁkhittaṁ. Kusalasadisaṁ. Sahajātavāropi…pe… pañhāvāropi vitthāretabbā.)
 
-[Go to previous page (13.7.2 Akusalapada)](../13.7.2.md) / [Go to parent page (13.7.2 Akusalapada)](../13.7.2.md) / [Go to next page (13.7.3 Abyākatapada)](../13.7.3.md)
-
+[Go to previous page (13.7.2 Akusalapada)](../13.7.2.md) / [Go to parent page (13.7.2 Akusalapada)](../13.7.2.md) / [Go to next page (13.7.3 Abyākatapada)](../13.7.3.md)
 

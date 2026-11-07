@@ -15,18 +15,17 @@
 
 (3.)
 
-1232\. Kusalaṃ noāsavaṃ dhammaṃ paṭicca kusalo noāsavo dhammo uppajjati ārammaṇapaccayā. (1)
+1232\. Kusalaṁ noāsavaṁ dhammaṁ paṭicca kusalo noāsavo dhammo uppajjati ārammaṇapaccayā. (1)
 
-1233\. Akusalaṃ noāsavaṃ dhammaṃ paṭicca akusalo noāsavo dhammo uppajjati ārammaṇapaccayā. (1)
+1233\. Akusalaṁ noāsavaṁ dhammaṁ paṭicca akusalo noāsavo dhammo uppajjati ārammaṇapaccayā. (1)
 
-1234\. Abyākataṃ noāsavaṃ dhammaṃ paṭicca abyākato noāsavo dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+1234\. Abyākataṁ noāsavaṁ dhammaṁ paṭicca abyākato noāsavo dhammo uppajjati ārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (4.)
 
-1235\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+1235\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
-1236\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1236\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā nava…pe… novigate pañca. (Saṁkhittaṁ. Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

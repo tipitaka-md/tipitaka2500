@@ -17,12 +17,11 @@
 
 (136.)
 
-376\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa hetupaccayena paccayo—  alobho adosassa amohassa hetupaccayena paccayo. (Yathā paṭiccavārasadisaṃ.) (1)
+376\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa hetupaccayena paccayo— alobho adosassa amohassa hetupaccayena paccayo. (Yathā paṭiccavārasadisaṁ.) (1)
 
-377\. Hetu ceva sahetuko ca dhammo sahetukassa ceva na ca hetussa dhammassa hetupaccayena paccayo—  hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
+377\. Hetu ceva sahetuko ca dhammo sahetukassa ceva na ca hetussa dhammassa hetupaccayena paccayo— hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
 
-378\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa hetupaccayena paccayo—  alobho adosassa amohassa sampayuttakānañca khandhānaṃ hetupaccayena paccayo. (Vitthāretabbaṃ.) (3)
+378\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca sahetukassa ceva na ca hetussa ca dhammassa hetupaccayena paccayo— alobho adosassa amohassa sampayuttakānañca khandhānaṁ hetupaccayena paccayo. (Vitthāretabbaṁ.) (3)
 
-[Go to previous page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to parent page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to parent page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

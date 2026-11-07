@@ -15,12 +15,11 @@
 
 (42.)
 
-231\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati nakammapaccayā—  kusale khandhe paṭicca kusalā cetanā. (1)
+231\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati nakammapaccayā— kusale khandhe paṭicca kusalā cetanā. (1)
 
-232\. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati nakammapaccayā—  akusale khandhe paṭicca akusalā cetanā. (1)
+232\. Akusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati nakammapaccayā— akusale khandhe paṭicca akusalā cetanā. (1)
 
-233\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati nakammapaccayā—  kiriyābyākate khandhe paṭicca kiriyābyākatā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca upādārūpaṃ. (1)
+233\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati nakammapaccayā— kiriyābyākate khandhe paṭicca kiriyābyākatā cetanā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca upādārūpaṁ. (1)
 
-[Go to previous page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

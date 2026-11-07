@@ -15,34 +15,33 @@
 
 (9.)
 
-2318\. Saṃkilesikaṃ kusalaṃ dhammaṃ paṭicca saṃkilesiko kusalo dhammo uppajjati hetupaccayā. (1)
+2318\. Saṁkilesikaṁ kusalaṁ dhammaṁ paṭicca saṁkilesiko kusalo dhammo uppajjati hetupaccayā. (1)
 
-2319\. Asaṃkilesikaṃ kusalaṃ dhammaṃ paṭicca asaṃkilesiko kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2319\. Asaṁkilesikaṁ kusalaṁ dhammaṁ paṭicca asaṁkilesiko kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (10.)
 
-2320\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ. Lokiyadukakusalasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2320\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ. Lokiyadukakusalasadisaṁ. Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (11.)
 
-2321\. Saṃkilesikaṃ akusalaṃ dhammaṃ paṭicca saṃkilesiko akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2321\. Saṁkilesikaṁ akusalaṁ dhammaṁ paṭicca saṁkilesiko akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2322\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2322\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-2323\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2323\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (12.)
 
-2324\. Saṃkilesikaṃ abyākataṃ dhammaṃ paṭicca saṃkilesiko abyākato dhammo uppajjati hetupaccayā. (1)
+2324\. Saṁkilesikaṁ abyākataṁ dhammaṁ paṭicca saṁkilesiko abyākato dhammo uppajjati hetupaccayā. (1)
 
-2325\. Asaṃkilesikaṃ abyākataṃ dhammaṃ paṭicca asaṃkilesiko abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+2325\. Asaṁkilesikaṁ abyākataṁ dhammaṁ paṭicca asaṁkilesiko abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-2326\. Saṃkilesikaṃ abyākatañca asaṃkilesikaṃ abyākatañca dhammaṃ paṭicca saṃkilesiko abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2326\. Saṁkilesikaṁ abyākatañca asaṁkilesikaṁ abyākatañca dhammaṁ paṭicca saṁkilesiko abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (13.)
 
-2327\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ. Lokiyadukaabyākatasadisaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
+2327\. Hetuyā pañca, ārammaṇe dve…pe… avigate pañca. (Saṁkhittaṁ. Lokiyadukaabyākatasadisaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (12.3 Saṃkiliṭṭhaduka, Kusalattika)](../../../12.3.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (12.3 Saṃkiliṭṭhaduka, Kusalattika)](../../../12.3.md)
 

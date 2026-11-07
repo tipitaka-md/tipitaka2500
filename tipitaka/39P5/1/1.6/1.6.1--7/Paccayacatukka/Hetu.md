@@ -15,15 +15,15 @@
 
 (34.)
 
-97\. Kusalaṃ pītisahagataṃ dhammaṃ paṭicca kusalo pītisahagato dhammo uppajjati hetupaccayā. (1)
+97\. Kusalaṁ pītisahagataṁ dhammaṁ paṭicca kusalo pītisahagato dhammo uppajjati hetupaccayā. (1)
 
-98\. Akusalaṃ pītisahagataṃ dhammaṃ paṭicca akusalo pītisahagato dhammo uppajjati hetupaccayā. (1)
+98\. Akusalaṁ pītisahagataṁ dhammaṁ paṭicca akusalo pītisahagato dhammo uppajjati hetupaccayā. (1)
 
-99\. Abyākataṃ pītisahagataṃ dhammaṃ paṭicca abyākato pītisahagato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+99\. Abyākataṁ pītisahagataṁ dhammaṁ paṭicca abyākato pītisahagato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-100\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+100\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-101\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+101\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (35.)
 
@@ -31,36 +31,35 @@
 
 103\. Akusalo pītisahagato dhammo akusalassa pītisahagatassa dhammassa hetupaccayena paccayo. (1)
 
-104\. Abyākato pītisahagato dhammo abyākatassa pītisahagatassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+104\. Abyākato pītisahagato dhammo abyākatassa pītisahagatassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
-105\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare pañca…pe…  sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+105\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare pañca…pe… sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṁ, āhāre…pe… sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-106\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+106\. (Yathā kusalattike pañhāvāraṁ evaṁ vitthāretabbaṁ.)
 
 (36.)
 
-107\. Kusalaṃ sukhasahagataṃ dhammaṃ paṭicca kusalo sukhasahagato dhammo uppajjati hetupaccayā. (1)
+107\. Kusalaṁ sukhasahagataṁ dhammaṁ paṭicca kusalo sukhasahagato dhammo uppajjati hetupaccayā. (1)
 
-108\. Akusalaṃ sukhasahagataṃ dhammaṃ paṭicca akusalo sukhasahagato dhammo uppajjati hetupaccayā. (1)
+108\. Akusalaṁ sukhasahagataṁ dhammaṁ paṭicca akusalo sukhasahagato dhammo uppajjati hetupaccayā. (1)
 
-109\. Abyākataṃ sukhasahagataṃ dhammaṃ paṭicca abyākato sukhasahagato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+109\. Abyākataṁ sukhasahagataṁ dhammaṁ paṭicca abyākato sukhasahagato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-110\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+110\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-111\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+111\. (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (37.)
 
-112\. Kusalaṃ upekkhāsahagataṃ dhammaṃ paṭicca kusalo upekkhāsahagato dhammo uppajjati hetupaccayā. (1)
+112\. Kusalaṁ upekkhāsahagataṁ dhammaṁ paṭicca kusalo upekkhāsahagato dhammo uppajjati hetupaccayā. (1)
 
-113\. Akusalaṃ upekkhāsahagataṃ dhammaṃ paṭicca akusalo upekkhāsahagato dhammo uppajjati hetupaccayā. (1)
+113\. Akusalaṁ upekkhāsahagataṁ dhammaṁ paṭicca akusalo upekkhāsahagato dhammo uppajjati hetupaccayā. (1)
 
-114\. Abyākataṃ upekkhāsahagataṃ dhammaṃ paṭicca abyākato upekkhāsahagato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+114\. Abyākataṁ upekkhāsahagataṁ dhammaṁ paṭicca abyākato upekkhāsahagato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-115\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+115\. Hetuyā tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-116\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+116\. (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7 Kusalattika, Dassanattika)](../../../1.7.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7 Kusalattika, Dassanattika)](../../../1.7.md)
 

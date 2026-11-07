@@ -13,18 +13,17 @@
 
 (1.)
 
-2\. Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā—  nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe…  (yāva mahābhūtā.) Nahetuṃ dhammaṃ paṭicca na nahetu dhammo uppajjati hetupaccayā—  nahetū khandhe paṭicca hetū; paṭisandhikkhaṇe…pe…  nahetuṃ dhammaṃ paṭicca nahetu ca na nahetu ca dhammā uppajjanti hetupaccayā. (3)
+2\. Nahetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati hetupaccayā— nahetuṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe…pe… (yāva mahābhūtā.) Nahetuṁ dhammaṁ paṭicca na nahetu dhammo uppajjati hetupaccayā— nahetū khandhe paṭicca hetū; paṭisandhikkhaṇe…pe… nahetuṁ dhammaṁ paṭicca nahetu ca na nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-3\. Na nahetuṃ dhammaṃ paṭicca na nahetu dhammo uppajjati hetupaccayā. Na nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā. Na nahetuṃ dhammaṃ paṭicca nahetu ca na nahetu ca dhammā uppajjanti hetupaccayā. (3)
+3\. Na nahetuṁ dhammaṁ paṭicca na nahetu dhammo uppajjati hetupaccayā. Na nahetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati hetupaccayā. Na nahetuṁ dhammaṁ paṭicca nahetu ca na nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-4\. Nahetuñca na nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā. Nahetuñca na nahetuñca dhammaṃ paṭicca na nahetu dhammo uppajjati hetupaccayā. Nahetuñca na nahetuñca dhammaṃ paṭicca nahetu ca na nahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
+4\. Nahetuñca na nahetuñca dhammaṁ paṭicca nahetu dhammo uppajjati hetupaccayā. Nahetuñca na nahetuñca dhammaṁ paṭicca na nahetu dhammo uppajjati hetupaccayā. Nahetuñca na nahetuñca dhammaṁ paṭicca nahetu ca na nahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṁkhittaṁ.)
 
 (2.)
 
-5\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava.
+5\. Hetuyā nava, ārammaṇe nava…pe… avigate nava.
 
-6\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ evaṃ vitthāretabbaṃ.)
+6\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

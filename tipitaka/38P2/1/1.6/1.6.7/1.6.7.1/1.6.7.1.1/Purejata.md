@@ -17,10 +17,9 @@
 
 (183.)
 
-500\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; kusalākusale niruddhe nahetu ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṃ cakkhuviññāṇassa purejātapaccayena paccayo…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…  vatthu nahetuahetukānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+500\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati; kusalākusale niruddhe nahetu ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṁ cakkhuviññāṇassa purejātapaccayena paccayo…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa… vatthu nahetuahetukānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-501\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati, kusalākusale niruddhe nahetu sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. **Vatthupurejātaṃ**—  vatthu nahetusahetukānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+501\. Nahetu ahetuko dhammo nahetusahetukassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati, kusalākusale niruddhe nahetu sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Vatthupurejātaṁ— vatthu nahetusahetukānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 

@@ -6,6 +6,5 @@
 * [Hetvādi](Paccayacatukka/Hetvadi.md)
 * [Purejātādi](Paccayacatukka/Purejatadi.md)
 
-[Go to previous page (1.3.3.7 Pañhāvāra)](../1.3.3.7.md) / [Go to parent page (1.3.3.7 Pañhāvāra)](../1.3.3.7.md) / [Go to next page (Hetvādi)](Paccayacatukka/Hetvadi.md)
-
+[Go to previous page (1.3.3.7 Pañhāvāra)](../1.3.3.7.md) / [Go to parent page (1.3.3.7 Pañhāvāra)](../1.3.3.7.md) / [Go to next page (Hetvādi)](Paccayacatukka/Hetvadi.md)
 

@@ -13,8 +13,7 @@
 
 * Tika
 
-775\. Āhārapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+775\. Āhārapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Āhāraduka)](../Aharaduka.md) / [Go to parent page (Āhāraduka)](../Aharaduka.md) / [Go to next page (Indriyaduka)](../Indriyaduka.md)
-
 

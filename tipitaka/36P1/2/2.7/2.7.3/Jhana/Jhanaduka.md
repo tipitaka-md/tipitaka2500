@@ -19,4 +19,3 @@
 
 [Go to previous page (Jhāna)](../Jhana.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Jhānasāmaññaghaṭanā)](Jhanasamannaghatana.md)
 
-

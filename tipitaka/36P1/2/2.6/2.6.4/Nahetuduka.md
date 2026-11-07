@@ -13,19 +13,11 @@
 
 (264.)
 
-829\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, āsevane dve, kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve. (Saṃkhittaṃ.)
+829\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, āsevane dve, kamme dve, vipāke ekaṁ, āhāre dve, indriye dve, jhāne dve, magge ekaṁ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve. (Saṁkhittaṁ.)
 
----
+830\. Paccanīyānulomaṁ. Sampayuttavāro.
 
-830\. Paccanīyānulomaṃ.
+831\. (Saṁsaṭṭhattaṁ nāma sampayuttattaṁ, sampayuttattaṁ nāma saṁsaṭṭhattaṁ.)
 
-  
-Sampayuttavāro.
-
-
-
-831\. (Saṃsaṭṭhattaṃ nāma sampayuttattaṃ, sampayuttattaṃ nāma saṃsaṭṭhattaṃ.)
-
-[Go to previous page (2.6.4 Paccayapaccanīyānuloma)](../2.6.4.md) / [Go to parent page (2.6.4 Paccayapaccanīyānuloma)](../2.6.4.md) / [Go to next page (2.7 Pañhāvāra)](../../2.7.md)
-
+[Go to previous page (2.6.4 Paccayapaccanīyānuloma)](../2.6.4.md) / [Go to parent page (2.6.4 Paccayapaccanīyānuloma)](../2.6.4.md) / [Go to next page (2.7 Pañhāvāra)](../../2.7.md)
 

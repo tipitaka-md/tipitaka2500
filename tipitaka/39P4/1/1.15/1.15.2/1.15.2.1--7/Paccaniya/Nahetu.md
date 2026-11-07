@@ -17,16 +17,15 @@
 
 (188.)
 
-699\. Aniyataṃ nahetuṃ dhammaṃ paṭicca aniyato nahetu dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+699\. Aniyataṁ nahetuṁ dhammaṁ paṭicca aniyato nahetu dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
-700\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā tīṇi…pe…  napurejāte cha, napacchājāte nava, naāsevane pañca, nakamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṃ…pe…  navippayutte dve…pe…  novigate pañca. (Saṃkhittaṃ.)
+700\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā tīṇi…pe… napurejāte cha, napacchājāte nava, naāsevane pañca, nakamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṁ…pe… navippayutte dve…pe… novigate pañca. (Saṁkhittaṁ.)
 
-701\. Hetupaccayā naārammaṇe pañca. (Saṃkhittaṃ.)
+701\. Hetupaccayā naārammaṇe pañca. (Saṁkhittaṁ.)
 
-702\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+702\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-703\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+703\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Ārammaṇa-adhipati-anantara)](Arammana-adhipati-anantara.md)
-
 

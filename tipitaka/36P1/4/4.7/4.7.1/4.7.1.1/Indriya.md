@@ -15,14 +15,13 @@
 
 (111.)
 
-2374\. Vipāko dhammo vipākassa dhammassa indriyapaccayena paccayo…  tīṇi (paṭisandhi kātabbā.) Vipākadhammadhammo vipākadhammadhammassa indriyapaccayena paccayo…  tīṇi.
+2374\. Vipāko dhammo vipākassa dhammassa indriyapaccayena paccayo… tīṇi (paṭisandhi kātabbā.) Vipākadhammadhammo vipākadhammadhammassa indriyapaccayena paccayo… tīṇi.
 
-2375\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa indriyapaccayena paccayo—  nevavipākanavipākadhammadhammā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
+2375\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa indriyapaccayena paccayo— nevavipākanavipākadhammadhammā indriyā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ indriyapaccayena paccayo. Rūpajīvitindriyaṁ— kaṭattārūpānaṁ indriyapaccayena paccayo. (1)
 
-2376\. Nevavipākanavipākadhammadhammo vipākassa dhammassa indriyapaccayena paccayo—  cakkhundriyaṃ cakkhuviññāṇassa indriyapaccayena paccayo; kāyindriyaṃ…pe… . (2)
+2376\. Nevavipākanavipākadhammadhammo vipākassa dhammassa indriyapaccayena paccayo— cakkhundriyaṁ cakkhuviññāṇassa indriyapaccayena paccayo; kāyindriyaṁ…pe… . (2)
 
-2377\. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā vipākassa dhammassa indriyapaccayena paccayo—  cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo…pe…  kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṃ khandhānaṃ indriyapaccayena paccayo. (1)
+2377\. Vipāko ca nevavipākanavipākadhammadhammo ca dhammā vipākassa dhammassa indriyapaccayena paccayo— cakkhundriyañca cakkhuviññāṇañca cakkhuviññāṇasahagatānaṁ khandhānaṁ indriyapaccayena paccayo…pe… kāyindriyañca kāyaviññāṇañca kāyaviññāṇasahagatānaṁ khandhānaṁ indriyapaccayena paccayo. (1)
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Jhāna)](Jhana.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Jhāna)](Jhana.md)
 

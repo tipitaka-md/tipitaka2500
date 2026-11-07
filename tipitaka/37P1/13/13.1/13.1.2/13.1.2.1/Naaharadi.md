@@ -15,12 +15,11 @@
 
 (24.)
 
-1948\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ (vitthāretabbaṃ)…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  mahābhūte paṭicca rūpajīvitindriyaṃ, najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ…pe…  bāhiraṃ…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  (sabbe mahābhūtā kātabbā), namaggapaccayā—  ahetukaṃ parittaṃ ekaṃ khandhaṃ…pe…  ahetukapaṭisandhikkhaṇe ekaṃ…pe…  (sabbe mahābhūtā kātabbā) nasampayuttapaccayā…  navippayuttapaccayā—  arūpe parittaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… .
+1948\. Parittaṁ dhammaṁ paṭicca paritto dhammo uppajjati naāhārapaccayā— bāhiraṁ… utusamuṭṭhānaṁ… asaññasattānaṁ (vitthāretabbaṁ)… naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… mahābhūte paṭicca rūpajīvitindriyaṁ, najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ…pe… bāhiraṁ…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… (sabbe mahābhūtā kātabbā), namaggapaccayā— ahetukaṁ parittaṁ ekaṁ khandhaṁ…pe… ahetukapaṭisandhikkhaṇe ekaṁ…pe… (sabbe mahābhūtā kātabbā) nasampayuttapaccayā… navippayuttapaccayā— arūpe parittaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… .
 
-1949\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati navippayuttapaccayā—  arūpe mahaggataṃ ekaṃ khandhaṃ…pe… . (1)
+1949\. Mahaggataṁ dhammaṁ paṭicca mahaggato dhammo uppajjati navippayuttapaccayā— arūpe mahaggataṁ ekaṁ khandhaṁ…pe… . (1)
 
-1950\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati navippayuttapaccayā—  arūpe appamāṇaṃ ekaṃ khandhaṃ…pe…  nonatthipaccayā…  novigatapaccayā.
+1950\. Appamāṇaṁ dhammaṁ paṭicca appamāṇo dhammo uppajjati navippayuttapaccayā— arūpe appamāṇaṁ ekaṁ khandhaṁ…pe… nonatthipaccayā… novigatapaccayā.
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (13.1.2.2 Saṅkhyāvāra)](../13.1.2.2.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (13.1.2.2 Saṅkhyāvāra)](../13.1.2.2.md)
 

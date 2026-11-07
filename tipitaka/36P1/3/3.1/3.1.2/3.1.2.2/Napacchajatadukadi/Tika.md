@@ -15,8 +15,7 @@
 
 * Tika
 
-1842\. Nakammapaccayā nahetupaccayā naadhipatiyā dve, napurejāte ekaṃ, napacchājāte dve, naāsevane dve, navipāke dve, namagge dve, navippayutte ekaṃ…pe… .
+1842\. Nakammapaccayā nahetupaccayā naadhipatiyā dve, napurejāte ekaṁ, napacchājāte dve, naāsevane dve, navipāke dve, namagge dve, navippayutte ekaṁ…pe… .
 
 [Go to previous page (Napacchājātadukādi)](../Napacchajatadukadi.md) / [Go to parent page (Napacchājātadukādi)](../Napacchajatadukadi.md) / [Go to next page (Pañcaka)](Pancaka.md)
-
 

@@ -6,6 +6,5 @@
 * [Anantarasabhāga](Anantara/Anantarasabhaga.md)
 * [Ghaṭanā](Anantara/Ghatana.md)
 
-[Go to previous page (Sahajātaghaṭanā)](Adhipati/Sahajataghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Anantarasabhāga)](Anantara/Anantarasabhaga.md)
-
+[Go to previous page (Sahajātaghaṭanā)](Adhipati/Sahajataghatana.md) / [Go to parent page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md) / [Go to next page (Anantarasabhāga)](Anantara/Anantarasabhaga.md)
 

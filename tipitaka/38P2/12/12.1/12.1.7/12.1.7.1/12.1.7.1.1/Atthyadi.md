@@ -17,28 +17,27 @@
 
 (30.)
 
-3892\. Kileso dhammo kilesassa dhammassa atthipaccayena paccayo…  ekaṃ. (Paṭiccasadisaṃ.) (1)
+3892\. Kileso dhammo kilesassa dhammassa atthipaccayena paccayo… ekaṁ. (Paṭiccasadisaṁ.) (1)
 
-3893\. Kileso dhammo nokilesassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (2)
+3893\. Kileso dhammo nokilesassa dhammassa atthipaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (2)
 
-3894\. Kileso dhammo kilesassa ca nokilesassa ca dhammassa atthipaccayena paccayo. (Paṭiccasadisaṃ.) (3)
+3894\. Kileso dhammo kilesassa ca nokilesassa ca dhammassa atthipaccayena paccayo. (Paṭiccasadisaṁ.) (3)
 
-3895\. Nokileso dhammo nokilesassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (Saṃkhittaṃ.) (1)
+3895\. Nokileso dhammo nokilesassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. (Saṁkhittaṁ.) (1)
 
-3896\. Nokileso dhammo kilesassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. (Saṃkhittaṃ. Sahajātaṃ sahajātasadisaṃ, purejātaṃ purejātasadisaṃ.) (2)
+3896\. Nokileso dhammo kilesassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. (Saṁkhittaṁ. Sahajātaṁ sahajātasadisaṁ, purejātaṁ purejātasadisaṁ.) (2)
 
-3897\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ (sahajātaṃ sahajātasadisaṃ, purejātaṃ purejātasadisaṃ.) (3)
+3897\. Nokileso dhammo kilesassa ca nokilesassa ca dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ (sahajātaṁ sahajātasadisaṁ, purejātaṁ purejātasadisaṁ.) (3)
 
 (31.)
 
-3898\. Kileso ca nokileso ca dhammā kilesassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  lobho ca sampayuttakā ca khandhā mohassa, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa atthipaccayena paccayo (cakkaṃ). **Sahajāto**—  lobho ca vatthu ca mohassa, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa atthipaccayena paccayo. (Cakkaṃ.) (1)
+3898\. Kileso ca nokileso ca dhammā kilesassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajāto— lobho ca sampayuttakā ca khandhā mohassa, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa atthipaccayena paccayo (cakkaṁ). Sahajāto— lobho ca vatthu ca mohassa, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa atthipaccayena paccayo. (Cakkaṁ.) (1)
 
-3899\. Kileso ca nokileso ca dhammā nokilesassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  nokileso eko khandho ca kileso ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajātā**—  kilesā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Sahajātā**—  kilesā ca vatthu ca nokilesānaṃ khandhānaṃ atthipaccayena paccayo. **Pacchājātā**—  kilesā ca sampayuttakā khandhā ca purejātassa imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  kilesā ca sampayuttakā ca khandhā kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  kilesā ca sampayuttakā ca khandhā rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
+3899\. Kileso ca nokileso ca dhammā nokilesassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. Sahajāto— nokileso eko khandho ca kileso ca tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ atthipaccayena paccayo…pe… dve khandhā ca…pe… . Sahajātā— kilesā ca mahābhūtā ca cittasamuṭṭhānānaṁ rūpānaṁ atthipaccayena paccayo. Sahajātā— kilesā ca vatthu ca nokilesānaṁ khandhānaṁ atthipaccayena paccayo. Pacchājātā— kilesā ca sampayuttakā khandhā ca purejātassa imassa kāyassa atthipaccayena paccayo. Pacchājātā— kilesā ca sampayuttakā ca khandhā kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. Pacchājātā— kilesā ca sampayuttakā ca khandhā rūpajīvitindriyañca kaṭattārūpānaṁ atthipaccayena paccayo. (2)
 
-3900\. Kileso ca nokileso ca dhammā kilesassa ca nokilesassa ca dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  nokileso eko khandho ca lobho ca tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ mohassa ca, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa atthipaccayena paccayo…pe…  dve khandhā ca…pe… . **Sahajāto**—  lobho ca vatthu ca mohassa, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa sampayuttakānañca khandhānaṃ atthipaccayena paccayo. (Cakkaṃ.) (3)
+3900\. Kileso ca nokileso ca dhammā kilesassa ca nokilesassa ca dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajāto— nokileso eko khandho ca lobho ca tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ mohassa ca, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa atthipaccayena paccayo…pe… dve khandhā ca…pe… . Sahajāto— lobho ca vatthu ca mohassa, diṭṭhiyā, thinassa, uddhaccassa, ahirikassa, anottappassa sampayuttakānañca khandhānaṁ atthipaccayena paccayo. (Cakkaṁ.) (3)
 
-3901\. Natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo.
+3901\. Natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo.
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (12.1.7.1.2 Saṅkhyāvāra)](../12.1.7.1.2.md)
-
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (12.1.7.1.1 Vibhaṅgavāra)](../12.1.7.1.1.md) / [Go to next page (12.1.7.1.2 Saṅkhyāvāra)](../12.1.7.1.2.md)
 

@@ -15,14 +15,9 @@
 
 (145.)
 
-525\. Kusalaṃ dhammaṃ paccayā abyākato dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā.
+525\. Kusalaṁ dhammaṁ paccayā abyākato dhammo uppajjati naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā.
 
----
+526\. (Yathā paṭiccavāre, evaṁ vitthāretabbaṁ.)
 
-526\. (Yathā paṭiccavāre, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 

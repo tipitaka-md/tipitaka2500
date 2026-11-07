@@ -17,10 +17,9 @@
 
 (78.)
 
-4011\. Kileso ceva saṃkilesiko ca dhammo kilesassa ceva saṃkilesikassa ca dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  tīṇi.
+4011\. Kileso ceva saṁkilesiko ca dhammo kilesassa ceva saṁkilesikassa ca dhammassa adhipatipaccayena paccayo— ārammaṇādhipati… tīṇi.
 
-4012\. Saṃkilesiko ceva no ca kileso dhammo saṃkilesikassa ceva no ca kilesassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, sekkhā gotrabhuṃ garuṃ katvā paccavekkhanti, vodānaṃ garuṃ katvā paccavekkhanti; cakkhuṃ…pe…  vatthuṃ saṃkilesike ceva no ca kilese khandhe garuṃ katvā saṃkilesikā ceva no ca kilesā khandhā uppajjanti. **Sahajātādhipati**—  saṃkilesikā ceva no ca kilesādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (Itare dvepi kilesadukasadisā. Ghaṭanādhipatipi.)
+4012\. Saṁkilesiko ceva no ca kileso dhammo saṁkilesikassa ceva no ca kilesassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ…pe… pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā paccavekkhati, sekkhā gotrabhuṁ garuṁ katvā paccavekkhanti, vodānaṁ garuṁ katvā paccavekkhanti; cakkhuṁ…pe… vatthuṁ saṁkilesike ceva no ca kilese khandhe garuṁ katvā saṁkilesikā ceva no ca kilesā khandhā uppajjanti. Sahajātādhipati— saṁkilesikā ceva no ca kilesādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (Itare dvepi kilesadukasadisā. Ghaṭanādhipatipi.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (12.5.7.1--4.1 Vibhaṅgavāra)](../12.5.7.1--4.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (12.5.7.1--4.1 Vibhaṅgavāra)](../12.5.7.1--4.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

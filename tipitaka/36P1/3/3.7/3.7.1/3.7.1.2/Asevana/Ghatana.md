@@ -19,4 +19,3 @@
 
 [Go to previous page (Āsevanasabhāga)](Asevanasabhaga.md) / [Go to parent page (Āsevana)](../Asevana.md) / [Go to next page (Kamma)](../Kamma.md)
 
-

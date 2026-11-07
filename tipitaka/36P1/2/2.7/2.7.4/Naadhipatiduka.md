@@ -13,20 +13,11 @@
 
 (497.)
 
-1712\. Naadhipatipaccayā hetuyā satta, ārammaṇe nava… .
+1712\. Naadhipatipaccayā hetuyā satta, ārammaṇe nava… .
 
----
+1713\. (Yathā nahetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-1713\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+1714\. Naadhipatimūlakaṁ.
 
-
-
----
-
-1714\. Naadhipatimūlakaṃ.
-
-
-
-[Go to previous page (Aṭṭhaka)](Naarammanaduka/Atthaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Naanantara-nasamanantaraduka)](Naanantara-nasamanantaraduka.md)
-
+[Go to previous page (Aṭṭhaka)](Naarammanaduka/Atthaka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Naanantara-nasamanantaraduka)](Naanantara-nasamanantaraduka.md)
 

@@ -15,8 +15,7 @@
 
 (36.)
 
-1759\. Nevasekkhanāsekkhaṃ dhammaṃ saṃsaṭṭho nevasekkhanāsekkho dhammo uppajjati nahetupaccayā—  ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
+1759\. Nevasekkhanāsekkhaṁ dhammaṁ saṁsaṭṭho nevasekkhanāsekkho dhammo uppajjati nahetupaccayā— ahetukaṁ nevasekkhanāsekkhaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe saṁsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (12.5.2.1 Vibhaṅgavāra)](../12.5.2.1.md) / [Go to parent page (12.5.2.1 Vibhaṅgavāra)](../12.5.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (12.5.2.1 Vibhaṅgavāra)](../12.5.2.1.md) / [Go to parent page (12.5.2.1 Vibhaṅgavāra)](../12.5.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

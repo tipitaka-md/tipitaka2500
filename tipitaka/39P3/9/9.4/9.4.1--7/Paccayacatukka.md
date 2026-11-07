@@ -13,46 +13,45 @@
 
 (23.)
 
-1997\. Parāmaṭṭhañceva no ca parāmāsaṃ kusalaṃ dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1997\. Parāmaṭṭhañceva no ca parāmāsaṁ kusalaṁ dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (24.)
 
-1998\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1998\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1999\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1999\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (25.)
 
-2000\. Parāmāsañceva parāmaṭṭhañca akusalaṃ dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso akusalo dhammo uppajjati hetupaccayā…  ekaṃ.
+2000\. Parāmāsañceva parāmaṭṭhañca akusalaṁ dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso akusalo dhammo uppajjati hetupaccayā… ekaṁ.
 
-2001\. Parāmaṭṭhañceva no ca parāmāsaṃ akusalaṃ dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+2001\. Parāmaṭṭhañceva no ca parāmāsaṁ akusalaṁ dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-2002\. Parāmāsañceva parāmaṭṭhaṃ akusalañca parāmaṭṭhañceva no ca parāmāsaṃ akusalañca dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso akusalo dhammo uppajjati hetupaccayā…  ekaṃ. (Saṃkhittaṃ.)
+2002\. Parāmāsañceva parāmaṭṭhaṁ akusalañca parāmaṭṭhañceva no ca parāmāsaṁ akusalañca dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso akusalo dhammo uppajjati hetupaccayā… ekaṁ. (Saṁkhittaṁ.)
 
 (26.)
 
-2003\. Hetuyā pañca, ārammaṇe pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+2003\. Hetuyā pañca, ārammaṇe pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-2004\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+2004\. (Sahajātavārampi…pe… sampayuttavārampi vitthāretabbaṁ.)
 
 (27.)
 
-2005\. Parāmaṭṭho ceva no ca parāmāso akusalo dhammo parāmaṭṭhassa ceva no ca parāmāsassa akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+2005\. Parāmaṭṭho ceva no ca parāmāso akusalo dhammo parāmaṭṭhassa ceva no ca parāmāsassa akusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (28.)
 
-2006\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  avigate pañca. (Saṃkhittaṃ.)
+2006\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe… avigate pañca. (Saṁkhittaṁ.)
 
-2007\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+2007\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
 (29.)
 
-2008\. Parāmaṭṭhañceva no ca parāmāsaṃ abyākataṃ dhammaṃ paṭicca parāmaṭṭho ceva no ca parāmāso abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2008\. Parāmaṭṭhañceva no ca parāmāsaṁ abyākataṁ dhammaṁ paṭicca parāmaṭṭho ceva no ca parāmāso abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (30.)
 
-2009\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2009\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.) (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (9.4.1--7 Paṭiccādivāra)](../9.4.1--7.md) / [Go to parent page (9.4.1--7 Paṭiccādivāra)](../9.4.1--7.md) / [Go to next page (9.5 Parāmāsavippayuttaparāmaṭṭhaduka, Kusalattika)](../../9.5.md)
-
+[Go to previous page (9.4.1--7 Paṭiccādivāra)](../9.4.1--7.md) / [Go to parent page (9.4.1--7 Paṭiccādivāra)](../9.4.1--7.md) / [Go to next page (9.5 Parāmāsavippayuttaparāmaṭṭhaduka, Kusalattika)](../../9.5.md)
 

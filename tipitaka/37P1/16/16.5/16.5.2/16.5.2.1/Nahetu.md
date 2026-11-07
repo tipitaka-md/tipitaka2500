@@ -15,8 +15,7 @@
 
 (29.)
 
-2325\. Aniyataṃ dhammaṃ saṃsaṭṭho aniyato dhammo uppajjati nahetupaccayā—  ahetukaṃ aniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (1)
+2325\. Aniyataṁ dhammaṁ saṁsaṭṭho aniyato dhammo uppajjati nahetupaccayā— ahetukaṁ aniyataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (16.5.2.1 Vibhaṅgavāra)](../16.5.2.1.md) / [Go to parent page (16.5.2.1 Vibhaṅgavāra)](../16.5.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (16.5.2.1 Vibhaṅgavāra)](../16.5.2.1.md) / [Go to parent page (16.5.2.1 Vibhaṅgavāra)](../16.5.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

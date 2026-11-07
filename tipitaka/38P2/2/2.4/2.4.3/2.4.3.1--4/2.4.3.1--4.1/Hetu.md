@@ -17,16 +17,11 @@
 
 (65.)
 
-688\. Sappaṭighaṃ dhammaṃ paccayā sappaṭigho dhammo uppajjati hetupaccayā…  tīṇi.
+688\. Sappaṭighaṁ dhammaṁ paccayā sappaṭigho dhammo uppajjati hetupaccayā… tīṇi.
 
-689\. Appaṭighaṃ dhammaṃ paccayā appaṭigho dhammo uppajjati hetupaccayā—  appaṭighaṃ ekaṃ khandhaṃ paccayā tayo khandhā appaṭighaṃ cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  āpodhātuṃ paccayā appaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ, āpodhātuṃ paccayā itthindriyaṃ…pe…  kabaḷīkāro āhāro, vatthuṃ paccayā appaṭighā khandhā. (1)
-
----
+689\. Appaṭighaṁ dhammaṁ paccayā appaṭigho dhammo uppajjati hetupaccayā— appaṭighaṁ ekaṁ khandhaṁ paccayā tayo khandhā appaṭighaṁ cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… āpodhātuṁ paccayā appaṭighaṁ cittasamuṭṭhānaṁ rūpaṁ, kaṭattārūpaṁ, upādārūpaṁ, āpodhātuṁ paccayā itthindriyaṁ…pe… kabaḷīkāro āhāro, vatthuṁ paccayā appaṭighā khandhā. (1)
 
 690\. (Avasesā pañca pañhā paṭiccavārasadisā.)
 
-
-
-[Go to previous page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to parent page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
-
+[Go to previous page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to parent page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 

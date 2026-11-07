@@ -17,10 +17,9 @@
 
 (245.)
 
-4617\. Rūpāvacaro dhammo rūpāvacarassa dhammassa hetupaccayena paccayo—  rūpāvacarā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Rūpāvacarā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Rūpāvacarā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
+4617\. Rūpāvacaro dhammo rūpāvacarassa dhammassa hetupaccayena paccayo— rūpāvacarā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṁ kātabbaṁ.) Rūpāvacarā hetū cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṁ kātabbaṁ.) Rūpāvacarā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
 
-4618\. Narūpāvacaro dhammo narūpāvacarassa dhammassa hetupaccayena paccayo—  narūpāvacarā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+4618\. Narūpāvacaro dhammo narūpāvacarassa dhammassa hetupaccayena paccayo— narūpāvacarā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

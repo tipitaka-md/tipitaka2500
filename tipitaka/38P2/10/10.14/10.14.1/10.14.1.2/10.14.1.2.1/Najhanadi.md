@@ -17,12 +17,11 @@
 
 (429.)
 
-3404\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  asaññasattānaṃ…pe… .
+3404\. Upādinnaṁ dhammaṁ paṭicca upādinno dhammo uppajjati najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… asaññasattānaṁ…pe… .
 
-3405\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati najhānapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe… .
+3405\. Anupādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati najhānapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… .
 
-3406\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati namaggapaccayā (nahetusadisaṃ, moho natthi)…  nasampayuttapaccayā.
+3406\. Upādinnaṁ dhammaṁ paṭicca upādinno dhammo uppajjati namaggapaccayā (nahetusadisaṁ, moho natthi)… nasampayuttapaccayā.
 
-[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
-
+[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
 

@@ -15,14 +15,9 @@
 
 (7.)
 
-2448\. Hetuyā sattarasa, ārammaṇe adhipatiyā anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate sattarasa. (Evaṃ gaṇetabbaṃ.)
+2448\. Hetuyā sattarasa, ārammaṇe adhipatiyā anantare samanantare sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme āhāre indriye jhāne magge sampayutte vippayutte atthiyā natthiyā vigate avigate sattarasa. (Evaṁ gaṇetabbaṁ.)
 
----
+2449\. Anulomaṁ.
 
-2449\. Anulomaṃ.
-
-
-
-[Go to previous page (17.1.1.2 Saṅkhyāvāra)](../17.1.1.2.md) / [Go to parent page (17.1.1.2 Saṅkhyāvāra)](../17.1.1.2.md) / [Go to next page (17.1.2 Paccayapaccanīya)](../../17.1.2.md)
-
+[Go to previous page (17.1.1.2 Saṅkhyāvāra)](../17.1.1.2.md) / [Go to parent page (17.1.1.2 Saṅkhyāvāra)](../17.1.1.2.md) / [Go to next page (17.1.2 Paccayapaccanīya)](../../17.1.2.md)
 

@@ -17,9 +17,9 @@
 
 1388\. Upanissaya ārammaṇa adhipatīti nahetuyā satta, naanantare satta, nasamanantare satta, nasahajāte satta, naaññamaññe satta, nanissaye satta, napurejāte satta, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte satta, noatthiyā satta, nonatthiyā satta, novigate satta, noavigate satta.
 
-1389\. Upanissaya ārammaṇa adhipati purejāta atthi avigatanti nahetuyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, nanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1389\. Upanissaya ārammaṇa adhipati purejāta atthi avigatanti nahetuyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, nanissaye ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1390\. Upanissaya ārammaṇa adhipati nissaya purejāta vippayutta atthi avigatanti nahetuyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1390\. Upanissaya ārammaṇa adhipati nissaya purejāta vippayutta atthi avigatanti nahetuyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
 1391\. Upanissaya anantara samanantara natthi vigatanti nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, nasahajāte satta, naaññamaññe satta, nanissaye satta, napurejāte satta, napacchājāte satta, naāsevane pañca, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte satta, navippayutte satta, noatthiyā satta, noavigate satta.
 
@@ -27,14 +27,9 @@
 
 1393\. Upanissaya kammanti nahetuyā dve, naārammaṇe dve, naadhipatiyā dve, naanantare dve, nasamanantare dve, nasahajāte dve, naaññamaññe dve, nanissaye dve, napurejāte dve, napacchājāte dve, naāsevane dve, navipāke dve, naāhāre dve, naindriye dve, najhāne dve, namagge dve, nasampayutte dve, navippayutte dve, noatthiyā dve, nonatthiyā dve, novigate dve, noavigate dve.
 
-1394\. Upanissaya anantara samanantara kamma natthi vigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, nanissaye ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, noatthiyā ekaṃ, noavigate ekaṃ.
+1394\. Upanissaya anantara samanantara kamma natthi vigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naadhipatiyā ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, nanissaye ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, noatthiyā ekaṁ, noavigate ekaṁ.
 
----
-
-1395\. Upanissayamūlakaṃ.
-
-
+1395\. Upanissayamūlakaṁ.
 
 [Go to previous page (Upanissayaduka)](Upanissayaduka.md) / [Go to parent page (Upanissaya)](../Upanissaya.md) / [Go to next page (Purejāta)](../Purejata.md)
-
 

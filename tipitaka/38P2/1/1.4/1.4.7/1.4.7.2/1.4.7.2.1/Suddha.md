@@ -17,14 +17,9 @@
 
 (155.)
 
-432\. Nahetuyā nava. (Saṃkhittaṃ. Sabbattha nava, evaṃ gaṇetabbaṃ.)
+432\. Nahetuyā nava. (Saṁkhittaṁ. Sabbattha nava, evaṁ gaṇetabbaṁ.)
 
----
+433\. Paccanīyaṁ.
 
-433\. Paccanīyaṃ.
-
-
-
-[Go to previous page (1.4.7.2.1 Saṅkhyāvāra)](../1.4.7.2.1.md) / [Go to parent page (1.4.7.2.1 Saṅkhyāvāra)](../1.4.7.2.1.md) / [Go to next page (1.4.7.3 Paccayānulomapaccanīya)](../../1.4.7.3.md)
-
+[Go to previous page (1.4.7.2.1 Saṅkhyāvāra)](../1.4.7.2.1.md) / [Go to parent page (1.4.7.2.1 Saṅkhyāvāra)](../1.4.7.2.1.md) / [Go to next page (1.4.7.3 Paccayānulomapaccanīya)](../../1.4.7.3.md)
 

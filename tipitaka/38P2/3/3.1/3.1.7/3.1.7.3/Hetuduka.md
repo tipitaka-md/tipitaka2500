@@ -17,12 +17,7 @@
 
 1084\. Hetupaccayā naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, naaññamaññe tīṇi, naupanissaye satta (sabbattha satta), namagge satta, nasampayutte tīṇi, navippayutte satta, nonatthiyā satta, novigate satta.
 
----
+1085\. Anulomapaccanīyaṁ.
 
-1085\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (3.1.7.3 Paccayānulomapaccanīya)](../3.1.7.3.md) / [Go to parent page (3.1.7.3 Paccayānulomapaccanīya)](../3.1.7.3.md) / [Go to next page (3.1.7.4 Paccayapaccanīyānuloma)](../3.1.7.4.md)
-
+[Go to previous page (3.1.7.3 Paccayānulomapaccanīya)](../3.1.7.3.md) / [Go to parent page (3.1.7.3 Paccayānulomapaccanīya)](../3.1.7.3.md) / [Go to next page (3.1.7.4 Paccayapaccanīyānuloma)](../3.1.7.4.md)
 

@@ -17,28 +17,27 @@
 
 (80.)
 
-4017\. Kilesañceva saṃkiliṭṭhañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca dhammo uppajjati hetupaccayā—  lobhaṃ paṭicca moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ. (Cakkaṃ.) (1)
+4017\. Kilesañceva saṁkiliṭṭhañca dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca dhammo uppajjati hetupaccayā— lobhaṁ paṭicca moho diṭṭhi thinaṁ uddhaccaṁ ahirikaṁ anottappaṁ. (Cakkaṁ.) (1)
 
-4018\. Kilesañceva saṃkiliṭṭhañca dhammaṃ paṭicca saṃkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā—  kilese paṭicca sampayuttakā khandhā. (2)
+4018\. Kilesañceva saṁkiliṭṭhañca dhammaṁ paṭicca saṁkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā— kilese paṭicca sampayuttakā khandhā. (2)
 
-4019\. Kilesañceva saṃkiliṭṭhañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca saṃkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā—  lobhaṃ paṭicca moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ sampayuttakā ca khandhā. (Cakkaṃ.) (3)
+4019\. Kilesañceva saṁkiliṭṭhañca dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca saṁkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā— lobhaṁ paṭicca moho diṭṭhi thinaṁ uddhaccaṁ ahirikaṁ anottappaṁ sampayuttakā ca khandhā. (Cakkaṁ.) (3)
 
 (81.)
 
-4020\. Saṃkiliṭṭhañceva no ca kilesaṃ dhammaṃ paṭicca saṃkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+4020\. Saṁkiliṭṭhañceva no ca kilesaṁ dhammaṁ paṭicca saṁkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā— saṁkiliṭṭhañceva no ca kilesaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-4021\. Saṃkiliṭṭhañceva no ca kilesaṃ dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca dhammo uppajjati hetupaccayā—  saṃkiliṭṭhe ceva no ca kilese khandhe paṭicca kilesā. (2)
+4021\. Saṁkiliṭṭhañceva no ca kilesaṁ dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca dhammo uppajjati hetupaccayā— saṁkiliṭṭhe ceva no ca kilese khandhe paṭicca kilesā. (2)
 
-4022\. Saṃkiliṭṭhañceva no ca kilesaṃ dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca saṃkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kilesā ca…pe…  dve khandhe…pe… . (3)
+4022\. Saṁkiliṭṭhañceva no ca kilesaṁ dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca saṁkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā— saṁkiliṭṭhañceva no ca kilesaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kilesā ca…pe… dve khandhe…pe… . (3)
 
 (82.)
 
-4023\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca dhammo uppajjati hetupaccayā—  lobhañca sampayuttake ca khandhe paṭicca moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ. (Cakkaṃ.) (1)
+4023\. Kilesañceva saṁkiliṭṭhañca saṁkiliṭṭhañceva no ca kilesañca dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca dhammo uppajjati hetupaccayā— lobhañca sampayuttake ca khandhe paṭicca moho diṭṭhi thinaṁ uddhaccaṁ ahirikaṁ anottappaṁ. (Cakkaṁ.) (1)
 
-4024\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca saṃkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhañca kilese ca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (2)
+4024\. Kilesañceva saṁkiliṭṭhañca saṁkiliṭṭhañceva no ca kilesañca dhammaṁ paṭicca saṁkiliṭṭho ceva no ca kileso dhammo uppajjati hetupaccayā— saṁkiliṭṭhañceva no ca kilesaṁ ekaṁ khandhañca kilese ca paṭicca tayo khandhā…pe… dve khandhe ca…pe… . (2)
 
-4025\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca saṃkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhañceva no ca kilesaṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ.) (3)
+4025\. Kilesañceva saṁkiliṭṭhañca saṁkiliṭṭhañceva no ca kilesañca dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca saṁkiliṭṭho ceva no ca kileso ca dhammā uppajjanti hetupaccayā— saṁkiliṭṭhañceva no ca kilesaṁ ekaṁ khandhañca lobhañca paṭicca tayo khandhā moho diṭṭhi thinaṁ uddhaccaṁ ahirikaṁ anottappaṁ…pe… dve khandhe ca…pe… . (Cakkaṁ.) (3)
 
-[Go to previous page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to parent page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to next page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md)
-
+[Go to previous page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to parent page (12.6.1.1.1 Vibhaṅgavāra)](../12.6.1.1.1.md) / [Go to next page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md)
 

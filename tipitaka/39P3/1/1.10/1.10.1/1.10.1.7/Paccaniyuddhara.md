@@ -15,18 +15,17 @@
 
 (312.)
 
-639\. Hetu ācayagāmī dhammo hetussa ācayagāmissa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+639\. Hetu ācayagāmī dhammo hetussa ācayagāmissa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (313.)
 
-640\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+640\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-641\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+641\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-642\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+642\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-643\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+643\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.10.1.7 Pañhāvāra)](../1.10.1.7.md) / [Go to next page (1.10.2 Apacayagāmipada)](../../1.10.2.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.10.1.7 Pañhāvāra)](../1.10.1.7.md) / [Go to next page (1.10.2 Apacayagāmipada)](../../1.10.2.md)
 

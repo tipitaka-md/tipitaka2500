@@ -13,8 +13,7 @@
 
 * Terasaka (savipāka)
 
-284\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā napacchājāte ekaṃ, naāsevane ekaṃ…pe… .
+284\. Hetupaccayā ārammaṇapaccayā…pe… purejātapaccayā kammapaccayā vipākapaccayā napacchājāte ekaṁ, naāsevane ekaṁ…pe… .
 
 [Go to previous page (Tevīsaka (sāsevana))](evisaka_sasevana.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Tevīsaka (savipāka))](evisaka_savipaka.md)
-
 

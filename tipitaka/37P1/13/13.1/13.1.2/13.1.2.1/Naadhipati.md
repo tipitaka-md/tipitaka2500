@@ -15,30 +15,29 @@
 
 (12.)
 
-1902\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati naadhipatipaccayā—  parittaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ…pe… . (1)
+1902\. Parittaṁ dhammaṁ paṭicca paritto dhammo uppajjati naadhipatipaccayā— parittaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ…pe… asaññasattānaṁ…pe… . (1)
 
-1903\. Parittaṃ dhammaṃ paṭicca mahaggato dhammo uppajjati naadhipatipaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca mahaggatā khandhā. (2)
+1903\. Parittaṁ dhammaṁ paṭicca mahaggato dhammo uppajjati naadhipatipaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca mahaggatā khandhā. (2)
 
-1904\. Parittaṃ dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca mahaggatā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)
+1904\. Parittaṁ dhammaṁ paṭicca paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca mahaggatā khandhā, mahābhūte paṭicca kaṭattārūpaṁ. (3)
 
 (13.)
 
-1905\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati naadhipatipaccayā—  mahaggate khandhe paṭicca mahaggatādhipati, vipākaṃ mahaggataṃ ekaṃ khandhaṃ paṭicca…pe…  paṭisandhikkhaṇe…pe… . (1)
+1905\. Mahaggataṁ dhammaṁ paṭicca mahaggato dhammo uppajjati naadhipatipaccayā— mahaggate khandhe paṭicca mahaggatādhipati, vipākaṁ mahaggataṁ ekaṁ khandhaṁ paṭicca…pe… paṭisandhikkhaṇe…pe… . (1)
 
-1906\. Mahaggataṃ dhammaṃ paṭicca paritto dhammo uppajjati naadhipatipaccayā—  vipāke mahaggate khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe mahaggate khandhe paṭicca kaṭattārūpaṃ. (2)
+1906\. Mahaggataṁ dhammaṁ paṭicca paritto dhammo uppajjati naadhipatipaccayā— vipāke mahaggate khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe mahaggate khandhe paṭicca kaṭattārūpaṁ. (2)
 
-1907\. Mahaggataṃ dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā—  vipākaṃ mahaggataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+1907\. Mahaggataṁ dhammaṁ paṭicca paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā— vipākaṁ mahaggataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
 (14.)
 
-1908\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati naadhipatipaccayā—  appamāṇe khandhe paṭicca appamāṇādhipati. (1)
+1908\. Appamāṇaṁ dhammaṁ paṭicca appamāṇo dhammo uppajjati naadhipatipaccayā— appamāṇe khandhe paṭicca appamāṇādhipati. (1)
 
-1909\. Parittañca mahaggatañca dhammaṃ paṭicca paritto dhammo uppajjati naadhipatipaccayā—  vipāke mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (1)
+1909\. Parittañca mahaggatañca dhammaṁ paṭicca paritto dhammo uppajjati naadhipatipaccayā— vipāke mahaggate khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (1)
 
-1910\. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati naadhipatipaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (2)
+1910\. Parittañca mahaggatañca dhammaṁ paṭicca mahaggato dhammo uppajjati naadhipatipaccayā— paṭisandhikkhaṇe mahaggataṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… . (2)
 
-1911\. Parittañca mahaggatañca dhammaṃ paṭicca paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+1911\. Parittañca mahaggatañca dhammaṁ paṭicca paritto ca mahaggato ca dhammā uppajjanti naadhipatipaccayā— paṭisandhikkhaṇe mahaggataṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… mahaggate khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (3)
 
-[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
-
+[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
 

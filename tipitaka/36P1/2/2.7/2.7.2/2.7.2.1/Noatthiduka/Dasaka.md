@@ -15,8 +15,7 @@
 
 * Dasaka
 
-1259\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissaye dve, napurejāte nava…pe…  noavigate nava.
+1259\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissaye dve, napurejāte nava…pe… noavigate nava.
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Noatthiduka)](../Noatthiduka.md) / [Go to next page (Ekādasaka)](Ekadasaka.md)
-
 

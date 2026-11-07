@@ -15,8 +15,7 @@
 
 (42.)
 
-2582\. Upādinnupādāniyaṃ dhammaṃ paccayā upādinnupādāniyo dhammo uppajjati naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā…  nasampayuttapaccayā…  navippayuttapaccayā…  nonatthipaccayā…  novigatapaccayā. (Saṃkhittaṃ.)
+2582\. Upādinnupādāniyaṁ dhammaṁ paccayā upādinnupādāniyo dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā… nasampayuttapaccayā… navippayuttapaccayā… nonatthipaccayā… novigatapaccayā. (Saṁkhittaṁ.)
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (5.3.2.1 Vibhaṅgavāra)](../5.3.2.1.md) / [Go to next page (5.3.2.2 Saṅkhyāvāra)](../5.3.2.2.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (5.3.2.1 Vibhaṅgavāra)](../5.3.2.1.md) / [Go to next page (5.3.2.2 Saṅkhyāvāra)](../5.3.2.2.md)
 

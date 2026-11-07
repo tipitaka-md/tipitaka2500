@@ -15,18 +15,17 @@
 
 (361.)
 
-767\. Hetu paritto dhammo hetussa parittassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+767\. Hetu paritto dhammo hetussa parittassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (362.)
 
-768\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+768\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-769\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+769\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-770\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+770\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-771\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+771\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.12.1.7 Pañhāvāra)](../1.12.1.7.md) / [Go to next page (1.12.2 Mahaggatapada)](../../1.12.2.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (1.12.1.7 Pañhāvāra)](../1.12.1.7.md) / [Go to next page (1.12.2 Mahaggatapada)](../../1.12.2.md)
 

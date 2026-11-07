@@ -15,8 +15,7 @@
 
 * Catukka
 
-254\. Naārammaṇapaccayā nahetupaccayā naadhipatipaccayā naanantare ekaṃ…pe…  nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+254\. Naārammaṇapaccayā nahetupaccayā naadhipatipaccayā naanantare ekaṁ…pe… nonatthiyā ekaṁ, novigate ekaṁ…pe… .
 
 [Go to previous page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to parent page (Naārammaṇaduka)](../Naarammanaduka.md) / [Go to next page (Naadhipatiduka)](../Naadhipatiduka.md)
-
 

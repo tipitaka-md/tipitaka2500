@@ -13,28 +13,23 @@
 
 (40.)
 
-1083\. Abyākataṃ nahetuṃ ahetukaṃ dhammaṃ paṭicca abyākato nahetu ahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1083\. Abyākataṁ nahetuṁ ahetukaṁ dhammaṁ paṭicca abyākato nahetu ahetuko dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1084\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1084\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1085\. Nahetuyā ekaṃ…pe…  novigate ekaṃ. (Saṃkhittaṃ.)
+1085\. Nahetuyā ekaṁ…pe… novigate ekaṁ. (Saṁkhittaṁ.)
 
-1086\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1086\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (41.)
 
-1087\. Abyākato nahetu ahetuko dhammo abyākatassa nahetussa ahetukassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+1087\. Abyākato nahetu ahetuko dhammo abyākatassa nahetussa ahetukassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
-1088\. Ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1088\. Ārammaṇe ekaṁ, adhipatiyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1089\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1089\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
----
+1090\. Hetugocchakaṁ niṭṭhitaṁ.
 
-1090\. Hetugocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (2.6.2 Nahetuahetukapada)](../2.6.2.md) / [Go to parent page (2.6.2 Nahetuahetukapada)](../2.6.2.md) / [Go to next page (3 Kusalattika, Cūḷantaraduka)](../../../3.md)
-
+[Go to previous page (2.6.2 Nahetuahetukapada)](../2.6.2.md) / [Go to parent page (2.6.2 Nahetuahetukapada)](../2.6.2.md) / [Go to next page (3 Kusalattika, Cūḷantaraduka)](../../../3.md)
 

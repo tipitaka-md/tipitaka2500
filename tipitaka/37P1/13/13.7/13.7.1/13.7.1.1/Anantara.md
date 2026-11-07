@@ -15,34 +15,29 @@
 
 (61.)
 
-2045\. Paritto dhammo parittassa dhammassa anantarapaccayena paccayo—  purimā purimā parittā khandhā pacchimānaṃ pacchimānaṃ parittānaṃ khandhānaṃ anantarapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  āvajjanā parittānaṃ khandhānaṃ anantarapaccayena paccayo. (1)
+2045\. Paritto dhammo parittassa dhammassa anantarapaccayena paccayo— purimā purimā parittā khandhā pacchimānaṁ pacchimānaṁ parittānaṁ khandhānaṁ anantarapaccayena paccayo. Anulomaṁ gotrabhussa… anulomaṁ vodānassa… āvajjanā parittānaṁ khandhānaṁ anantarapaccayena paccayo. (1)
 
-2046\. Paritto dhammo mahaggatassa dhammassa anantarapaccayena paccayo—  parittaṃ cuticittaṃ mahaggatassa upapatticittassa anantarapaccayena paccayo. Parittā khandhā mahaggatassa vuṭṭhānassa anantarapaccayena paccayo. Paṭhamassa jhānassa parikammaṃ…pe…  nevasaññānāsaññāyatanassa parikammaṃ…pe…  dibbassa cakkhussa parikammaṃ…pe…  anāgataṃsañāṇassa parikammaṃ anāgataṃsañāṇassa anantarapaccayena paccayo. (2)
+2046\. Paritto dhammo mahaggatassa dhammassa anantarapaccayena paccayo— parittaṁ cuticittaṁ mahaggatassa upapatticittassa anantarapaccayena paccayo. Parittā khandhā mahaggatassa vuṭṭhānassa anantarapaccayena paccayo. Paṭhamassa jhānassa parikammaṁ…pe… nevasaññānāsaññāyatanassa parikammaṁ…pe… dibbassa cakkhussa parikammaṁ…pe… anāgataṁsañāṇassa parikammaṁ anāgataṁsañāṇassa anantarapaccayena paccayo. (2)
 
-2047\. Paritto dhammo appamāṇassa dhammassa anantarapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa…  anulomaṃ phalasamāpattiyā anantarapaccayena paccayo. (3)
+2047\. Paritto dhammo appamāṇassa dhammassa anantarapaccayena paccayo— gotrabhu maggassa… vodānaṁ maggassa… anulomaṁ phalasamāpattiyā anantarapaccayena paccayo. (3)
 
 (62.)
 
-2048\. Mahaggato dhammo mahaggatassa dhammassa anantarapaccayena paccayo—  purimā purimā mahaggatā khandhā pacchimānaṃ pacchimānaṃ mahaggatānaṃ khandhānaṃ anantarapaccayena paccayo. (1)
+2048\. Mahaggato dhammo mahaggatassa dhammassa anantarapaccayena paccayo— purimā purimā mahaggatā khandhā pacchimānaṁ pacchimānaṁ mahaggatānaṁ khandhānaṁ anantarapaccayena paccayo. (1)
 
-2049\. Mahaggato dhammo parittassa dhammassa anantarapaccayena paccayo—  mahaggataṃ cuticittaṃ parittassa upapatticittassa anantarapaccayena paccayo. Mahaggataṃ bhavaṅgaṃ āvajjanāya anantarapaccayena paccayo. Mahaggatā khandhā parittassa vuṭṭhānassa anantarapaccayena paccayo. (2)
+2049\. Mahaggato dhammo parittassa dhammassa anantarapaccayena paccayo— mahaggataṁ cuticittaṁ parittassa upapatticittassa anantarapaccayena paccayo. Mahaggataṁ bhavaṅgaṁ āvajjanāya anantarapaccayena paccayo. Mahaggatā khandhā parittassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
-2050\. Mahaggato dhammo appamāṇassa dhammassa anantarapaccayena paccayo—  nevasaññānāsaññāyatanaṃ nirodhā vuṭṭhahantassa phalasamāpattiyā anantarapaccayena paccayo. (3)
+2050\. Mahaggato dhammo appamāṇassa dhammassa anantarapaccayena paccayo— nevasaññānāsaññāyatanaṁ nirodhā vuṭṭhahantassa phalasamāpattiyā anantarapaccayena paccayo. (3)
 
 (63.)
 
-2051\. Appamāṇo dhammo appamāṇassa dhammassa anantarapaccayena paccayo—  purimā purimā appamāṇā khandhā pacchimānaṃ pacchimānaṃ appamāṇānaṃ khandhānaṃ anantarapaccayena paccayo. Maggo phalassa…  phalaṃ phalassa anantarapaccayena paccayo. (1)
+2051\. Appamāṇo dhammo appamāṇassa dhammassa anantarapaccayena paccayo— purimā purimā appamāṇā khandhā pacchimānaṁ pacchimānaṁ appamāṇānaṁ khandhānaṁ anantarapaccayena paccayo. Maggo phalassa… phalaṁ phalassa anantarapaccayena paccayo. (1)
 
-2052\. Appamāṇo dhammo parittassa dhammassa anantarapaccayena paccayo—  phalaṃ parittassa vuṭṭhānassa anantarapaccayena paccayo. (2)
+2052\. Appamāṇo dhammo parittassa dhammassa anantarapaccayena paccayo— phalaṁ parittassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
-2053\. Appamāṇo dhammo mahaggatassa dhammassa anantarapaccayena paccayo—  phalaṃ mahaggatassa vuṭṭhānassa anantarapaccayena paccayo. (3)
+2053\. Appamāṇo dhammo mahaggatassa dhammassa anantarapaccayena paccayo— phalaṁ mahaggatassa vuṭṭhānassa anantarapaccayena paccayo. (3)
 
----
+2054\. (Samanantarapaccayaṁ anantarapaccayasadisaṁ.)
 
-2054\. (Samanantarapaccayaṃ anantarapaccayasadisaṃ.)
-
-
-
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (13.7.1.1 Vibhaṅgavāra)](../13.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

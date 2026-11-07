@@ -15,8 +15,7 @@
 
 * Catukka
 
-552\. Naadhipatipaccayā nahetupaccayā naārammaṇapaccayā naanantare ekaṃ (sabbattha ekaṃ)…pe… .
+552\. Naadhipatipaccayā nahetupaccayā naārammaṇapaccayā naanantare ekaṁ (sabbattha ekaṁ)…pe… .
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Naadhipatiduka)](../Naadhipatiduka.md) / [Go to next page (Naanantaradukādi)](../Naanantaradukadi.md)
-
 

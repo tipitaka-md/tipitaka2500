@@ -13,17 +13,9 @@
 
 (25.)
 
-2316\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ (saṃkhittaṃ), avigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+2316\. Nahetupaccayā ārammaṇe ekaṁ, anantare ekaṁ (saṁkhittaṁ), avigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+2317\. Paccanīyānulomaṁ. Paccayavāro.
 
-2317\. Paccanīyānulomaṃ.
-
-  
-Paccayavāro.
-
-
-
-[Go to previous page (16.3.4 Paccayapaccanīyānuloma)](../16.3.4.md) / [Go to parent page (16.3.4 Paccayapaccanīyānuloma)](../16.3.4.md) / [Go to next page (16.4 Nissayavāra)](../../16.4.md)
-
+[Go to previous page (16.3.4 Paccayapaccanīyānuloma)](../16.3.4.md) / [Go to parent page (16.3.4 Paccayapaccanīyānuloma)](../16.3.4.md) / [Go to next page (16.4 Nissayavāra)](../../16.4.md)
 

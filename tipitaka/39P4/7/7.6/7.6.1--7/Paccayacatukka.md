@@ -13,8 +13,7 @@
 
 (19.)
 
-1578\. Kusalaṃ savicāraṃ dhammaṃ paṭicca kusalo savicāro dhammo uppajjati hetupaccayā. (Kusalasavitakkasadisaṃ.)
+1578\. Kusalaṁ savicāraṁ dhammaṁ paṭicca kusalo savicāro dhammo uppajjati hetupaccayā. (Kusalasavitakkasadisaṁ.)
 
-[Go to previous page (7.6.1--7 Paṭiccādivāra)](../7.6.1--7.md) / [Go to parent page (7.6.1--7 Paṭiccādivāra)](../7.6.1--7.md) / [Go to next page (7.7 Kusalattika, Sappītikaduka)](../../7.7.md)
-
+[Go to previous page (7.6.1--7 Paṭiccādivāra)](../7.6.1--7.md) / [Go to parent page (7.6.1--7 Paṭiccādivāra)](../7.6.1--7.md) / [Go to next page (7.7 Kusalattika, Sappītikaduka)](../../7.7.md)
 

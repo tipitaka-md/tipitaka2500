@@ -15,40 +15,39 @@
 
 (73.)
 
-2163\. Cittasaṃsaṭṭhasamuṭṭhānasahabhuṃ kusalaṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+2163\. Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-2164\. Nocittasaṃsaṭṭhasamuṭṭhānasahabhuṃ kusalaṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā. (1)
+2164\. Nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā. (1)
 
-2165\. Cittasaṃsaṭṭhasamuṭṭhānasahabhuṃ kusalañca nocittasaṃsaṭṭhasamuṭṭhānasahabhuṃ kusalañca dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2165\. Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalañca nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ kusalañca dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (74.)
 
-2166\. Hetuyā pañca, ārammaṇe pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+2166\. Hetuyā pañca, ārammaṇe pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-2167\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2167\. (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (75.)
 
-2168\. Cittasaṃsaṭṭhasamuṭṭhānasahabhuṃ akusalaṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+2168\. Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-2169\. Nocittasaṃsaṭṭhasamuṭṭhānasahabhuṃ akusalaṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā. (1)
+2169\. Nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā. (1)
 
-2170\. Cittasaṃsaṭṭhasamuṭṭhānasahabhuṃ akusalañca nocittasaṃsaṭṭhasamuṭṭhānasahabhuṃ akusalañca dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2170\. Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalañca nocittasaṁsaṭṭhasamuṭṭhānasahabhuṁ akusalañca dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū akusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (76.)
 
-2171\. Hetuyā pañca, ārammaṇe pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+2171\. Hetuyā pañca, ārammaṇe pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-2172\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2172\. (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (77.)
 
-2173\. Cittasaṃsaṭṭhasamuṭṭhānasahabhuṃ abyākataṃ dhammaṃ paṭicca cittasaṃsaṭṭhasamuṭṭhānasahabhū abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2173\. Cittasaṁsaṭṭhasamuṭṭhānasahabhuṁ abyākataṁ dhammaṁ paṭicca cittasaṁsaṭṭhasamuṭṭhānasahabhū abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (78.)
 
-2174\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ. Cittasaṃsaṭṭhasamuṭṭhānadukaabyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2174\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ. Cittasaṁsaṭṭhasamuṭṭhānadukaabyākatasadisaṁ. Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka, Kusalattika)](../../../10.11.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.11 Cittasaṃsaṭṭhasamuṭṭhānānuparivattiduka, Kusalattika)](../../../10.11.md)
 

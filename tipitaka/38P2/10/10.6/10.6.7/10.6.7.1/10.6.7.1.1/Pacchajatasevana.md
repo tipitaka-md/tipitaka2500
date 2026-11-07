@@ -17,8 +17,7 @@
 
 (220.)
 
-2864\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa pacchājātapaccayena paccayo—  pacchājātā cittasamuṭṭhānā khandhā purejātassa imassa cittasamuṭṭhānassa kāyassa pacchājātapaccayena paccayo (iminākāreneva pacchājāto vitthāretabbo)…  āsevanapaccayena paccayo…  nava.
+2864\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa pacchājātapaccayena paccayo— pacchājātā cittasamuṭṭhānā khandhā purejātassa imassa cittasamuṭṭhānassa kāyassa pacchājātapaccayena paccayo (iminākāreneva pacchājāto vitthāretabbo)… āsevanapaccayena paccayo… nava.
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Kamma-vipāka)](Kamma-vipaka.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Kamma-vipāka)](Kamma-vipaka.md)
 

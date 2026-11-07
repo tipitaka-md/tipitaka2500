@@ -15,6 +15,5 @@
 
 2930\. Hetupaccayā naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, naaññamaññe tīṇi, naupanissaye satta, napurejāte satta, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, naāhāre satta, naindriye satta, najhāne satta, namagge satta, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta.
 
-[Go to previous page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md) / [Go to parent page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
-
+[Go to previous page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md) / [Go to parent page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
 

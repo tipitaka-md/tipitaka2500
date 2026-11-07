@@ -13,11 +13,11 @@
 
 (76.)
 
-252\. Kusalaṃ paccuppannārammaṇaṃ dhammaṃ paṭicca kusalo paccuppannārammaṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+252\. Kusalaṁ paccuppannārammaṇaṁ dhammaṁ paṭicca kusalo paccuppannārammaṇo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-253\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+253\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-254\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+254\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (77.)
 
@@ -25,12 +25,11 @@
 
 256\. Akusalo paccuppannārammaṇo dhammo akusalassa paccuppannārammaṇassa dhammassa hetupaccayena paccayo. (1)
 
-257\. Abyākato paccuppannārammaṇo dhammo abyākatassa paccuppannārammaṇassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+257\. Abyākato paccuppannārammaṇo dhammo abyākatassa paccuppannārammaṇassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
-258\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā tīṇi, anantare satta…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+258\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā tīṇi, anantare satta…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-259\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+259\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md) / [Go to parent page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md) / [Go to next page (1.19 Kusalattika, Ajjhattattika)](../../1.19.md)
-
+[Go to previous page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md) / [Go to parent page (1.18.3 Paccuppannārammaṇapada)](../1.18.3.md) / [Go to next page (1.19 Kusalattika, Ajjhattattika)](../../1.19.md)
 

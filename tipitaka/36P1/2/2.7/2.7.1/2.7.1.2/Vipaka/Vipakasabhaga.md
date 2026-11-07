@@ -17,8 +17,7 @@
 
 (340.)
 
-1068\. Vipākapaccayā hetuyā ekaṃ, adhipatiyā ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, magge ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (14)
+1068\. Vipākapaccayā hetuyā ekaṁ, adhipatiyā ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, kamme ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, magge ekaṁ, sampayutte ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (14)
 
 [Go to previous page (Vipāka)](../Vipaka.md) / [Go to parent page (Vipāka)](../Vipaka.md) / [Go to next page (Vipākaghaṭanā)](Vipakaghatana.md)
-
 

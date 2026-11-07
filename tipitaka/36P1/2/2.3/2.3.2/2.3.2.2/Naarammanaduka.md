@@ -15,10 +15,9 @@
 
 (153.)
 
-548\. Naārammaṇapaccayā nahetuyā ekaṃ, naadhipatiyā pañca, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme ekaṃ, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte ekaṃ, nonatthiyā pañca, novigate pañca.
+548\. Naārammaṇapaccayā nahetuyā ekaṁ, naadhipatiyā pañca, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme ekaṁ, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte pañca, navippayutte ekaṁ, nonatthiyā pañca, novigate pañca.
 
 * [Tika](Naarammanaduka/Tika.md)
 
-[Go to previous page (Tika)](Nahetuduka/Tika.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Tika)](Naarammanaduka/Tika.md)
-
+[Go to previous page (Tika)](Nahetuduka/Tika.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Tika)](Naarammanaduka/Tika.md)
 

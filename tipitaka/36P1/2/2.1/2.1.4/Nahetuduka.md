@@ -13,7 +13,7 @@
 
 (83.)
 
-354\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, āsevane dve, kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
+354\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, āsevane dve, kamme dve, vipāke ekaṁ, āhāre dve, indriye dve, jhāne dve, magge ekaṁ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
 
 * [Tika](Nahetuduka/Tika.md)
 * [Sattaka](Nahetuduka/Sattaka.md)
@@ -22,6 +22,5 @@
 * [Cuddasaka](Nahetuduka/Cuddasaka.md)
 * [Ekavīsaka](Nahetuduka/Ekavisaka.md)
 
-[Go to previous page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
-
+[Go to previous page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 

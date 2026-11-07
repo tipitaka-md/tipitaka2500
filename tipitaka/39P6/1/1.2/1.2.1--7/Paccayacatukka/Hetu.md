@@ -15,44 +15,43 @@
 
 (12.)
 
-27\. Hetuṃ hetusampayuttaṃ dhammaṃ paṭicca hetu hetusampayutto dhammo uppajjati hetupaccayā. Hetuṃ hetusampayuttaṃ dhammaṃ paṭicca nahetu hetusampayutto dhammo uppajjati hetupaccayā. Hetuṃ hetusampayuttaṃ dhammaṃ paṭicca hetu hetusampayutto ca nahetu hetusampayutto ca dhammā uppajjanti hetupaccayā. (3)
+27\. Hetuṁ hetusampayuttaṁ dhammaṁ paṭicca hetu hetusampayutto dhammo uppajjati hetupaccayā. Hetuṁ hetusampayuttaṁ dhammaṁ paṭicca nahetu hetusampayutto dhammo uppajjati hetupaccayā. Hetuṁ hetusampayuttaṁ dhammaṁ paṭicca hetu hetusampayutto ca nahetu hetusampayutto ca dhammā uppajjanti hetupaccayā. (3)
 
-28\. Nahetuṃ hetusampayuttaṃ dhammaṃ paṭicca nahetu hetusampayutto dhammo uppajjati hetupaccayā…  tīṇi.
+28\. Nahetuṁ hetusampayuttaṁ dhammaṁ paṭicca nahetu hetusampayutto dhammo uppajjati hetupaccayā… tīṇi.
 
-29\. Hetuṃ hetusampayuttañca nahetuṃ hetusampayuttañca dhammaṃ paṭicca hetu hetusampayutto dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+29\. Hetuṁ hetusampayuttañca nahetuṁ hetusampayuttañca dhammaṁ paṭicca hetu hetusampayutto dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (13.)
 
-30\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+30\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 (14.)
 
-31\. Hetu hetusampayutto dhammo hetussa hetusampayuttassa dhammassa hetupaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+31\. Hetu hetusampayutto dhammo hetussa hetusampayuttassa dhammassa hetupaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
-32\. Hetuyā tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
+32\. Hetuyā tīṇi…pe… avigate nava. (Saṁkhittaṁ.)
 
-33\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+33\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
 (15.)
 
-34\. Hetuṃ hetuvippayuttaṃ dhammaṃ paṭicca nahetu hetuvippayutto dhammo uppajjati hetupaccayā. (1)
+34\. Hetuṁ hetuvippayuttaṁ dhammaṁ paṭicca nahetu hetuvippayutto dhammo uppajjati hetupaccayā. (1)
 
-35\. Nahetuṃ hetuvippayuttaṃ dhammaṃ paṭicca nahetu hetuvippayutto dhammo uppajjati hetupaccayā. (1)
+35\. Nahetuṁ hetuvippayuttaṁ dhammaṁ paṭicca nahetu hetuvippayutto dhammo uppajjati hetupaccayā. (1)
 
-36\. Hetuṃ hetuvippayuttañca nahetuṃ hetuvippayuttañca dhammaṃ paṭicca nahetu hetuvippayutto dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+36\. Hetuṁ hetuvippayuttañca nahetuṁ hetuvippayuttañca dhammaṁ paṭicca nahetu hetuvippayutto dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-37\. Hetuyā tīṇi, ārammaṇe ekaṃ…pe…  vipāke ekaṃ…pe…  avigate tīṇi.
+37\. Hetuyā tīṇi, ārammaṇe ekaṁ…pe… vipāke ekaṁ…pe… avigate tīṇi.
 
-38\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+38\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
 (16.)
 
-39\. Hetu hetuvippayutto dhammo nahetussa hetuvippayuttassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+39\. Hetu hetuvippayutto dhammo nahetussa hetuvippayuttassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
-40\. Hetuyā ekaṃ, ārammaṇe cattāri…pe…  avigate cattāri. (Saṃkhittaṃ.)
+40\. Hetuyā ekaṁ, ārammaṇe cattāri…pe… avigate cattāri. (Saṁkhittaṁ.)
 
-41\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+41\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.3 Hetuduka, Hetusahetukaduka)](../../../1.3.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.3 Hetuduka, Hetusahetukaduka)](../../../1.3.md)
 

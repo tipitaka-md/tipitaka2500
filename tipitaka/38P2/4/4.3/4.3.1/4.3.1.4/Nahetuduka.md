@@ -15,8 +15,7 @@
 
 (50.)
 
-1445\. Nahetupaccayā ārammaṇe tīṇi…pe…  vipāke ekaṃ, āhāre tīṇi…pe…  magge dve…pe…  avigate tīṇi.
+1445\. Nahetupaccayā ārammaṇe tīṇi…pe… vipāke ekaṁ, āhāre tīṇi…pe… magge dve…pe… avigate tīṇi.
 
-[Go to previous page (4.3.1.4 Paccayapaccanīyānuloma)](../4.3.1.4.md) / [Go to parent page (4.3.1.4 Paccayapaccanīyānuloma)](../4.3.1.4.md) / [Go to next page (4.3.2 Sahajātavāra)](../../4.3.2.md)
-
+[Go to previous page (4.3.1.4 Paccayapaccanīyānuloma)](../4.3.1.4.md) / [Go to parent page (4.3.1.4 Paccayapaccanīyānuloma)](../4.3.1.4.md) / [Go to next page (4.3.2 Sahajātavāra)](../../4.3.2.md)
 

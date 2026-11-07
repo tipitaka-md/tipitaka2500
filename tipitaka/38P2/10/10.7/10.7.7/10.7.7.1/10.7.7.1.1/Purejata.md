@@ -17,8 +17,7 @@
 
 (261.)
 
-2960\. Nocittasahabhū dhammo nocittasahabhussa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ…  tīṇi. (Nocittasahabhū mūlaṃyeva labbhati, cittasamuṭṭhānadukasadisā. Tīṇipi ninnānākaraṇaṃ.)
+2960\. Nocittasahabhū dhammo nocittasahabhussa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ… tīṇi. (Nocittasahabhū mūlaṁyeva labbhati, cittasamuṭṭhānadukasadisā. Tīṇipi ninnānākaraṇaṁ.)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Pacchājātāsevana)](Pacchajatasevana.md)
 

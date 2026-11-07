@@ -17,8 +17,7 @@
 
 (418.)
 
-3381\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati adhipatipaccayā—  anupādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (Saṃkhittaṃ.)
+3381\. Anupādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati adhipatipaccayā— anupādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (Saṁkhittaṁ.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to next page (10.14.1.1.2 Saṅkhyāvāra)](../10.14.1.1.2.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to next page (10.14.1.1.2 Saṅkhyāvāra)](../10.14.1.1.2.md)
 

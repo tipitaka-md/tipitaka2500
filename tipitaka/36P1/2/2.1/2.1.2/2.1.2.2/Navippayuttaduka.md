@@ -15,11 +15,10 @@
 
 (62.)
 
-272\. Navippayuttapaccayā nahetuyā dve, na ārammaṇe ekaṃ, naadhipatiyā tīṇi, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre ekaṃ, na indriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+272\. Navippayuttapaccayā nahetuyā dve, na ārammaṇe ekaṁ, naadhipatiyā tīṇi, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre ekaṁ, na indriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
 * [Tika](Navippayuttaduka/Tika.md)
 * [Catukka](Navippayuttaduka/Catukka.md)
 
-[Go to previous page (Nasampayuttaduka)](Nasampayuttaduka.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md) / [Go to next page (Tika)](Navippayuttaduka/Tika.md)
-
+[Go to previous page (Nasampayuttaduka)](Nasampayuttaduka.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md) / [Go to next page (Tika)](Navippayuttaduka/Tika.md)
 

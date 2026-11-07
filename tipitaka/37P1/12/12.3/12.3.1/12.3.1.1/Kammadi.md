@@ -15,8 +15,7 @@
 
 (23.)
 
-1726\. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati kammapaccayā…  vipākapaccayā—  vipākaṃ sekkhaṃ ekaṃ khandhaṃ…pe…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+1726\. Sekkhaṁ dhammaṁ paccayā sekkho dhammo uppajjati kammapaccayā… vipākapaccayā— vipākaṁ sekkhaṁ ekaṁ khandhaṁ…pe… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā.
 
-[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (12.3.1.1 Vibhaṅgavāra)](../12.3.1.1.md) / [Go to next page (12.3.1.2 Saṅkhyāvāra)](../12.3.1.2.md)
-
+[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (12.3.1.1 Vibhaṅgavāra)](../12.3.1.1.md) / [Go to next page (12.3.1.2 Saṅkhyāvāra)](../12.3.1.2.md)
 

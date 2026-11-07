@@ -15,8 +15,7 @@
 
 (138.)
 
-507\. Anantarapaccayā samanantarapaccayā hetuyā satta…pe… .
+507\. Anantarapaccayā samanantarapaccayā hetuyā satta…pe… .
 
-[Go to previous page (Adhipatiduka)](Adhipatiduka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (Sahajātadukādi)](Sahajatadukadi.md)
-
+[Go to previous page (Adhipatiduka)](Adhipatiduka.md) / [Go to parent page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md) / [Go to next page (Sahajātadukādi)](Sahajatadukadi.md)
 

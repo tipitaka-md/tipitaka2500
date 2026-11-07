@@ -17,18 +17,17 @@
 
 (133.)
 
-852\. Lokiyaṃ dhammaṃ paṭicca lokiyo dhammo uppajjati hetupaccayā—  lokiyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ. (1)
+852\. Lokiyaṁ dhammaṁ paṭicca lokiyo dhammo uppajjati hetupaccayā— lokiyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ, kaṭattārūpaṁ, upādārūpaṁ. (1)
 
 (134.)
 
-853\. Lokuttaraṃ dhammaṃ paṭicca lokuttaro dhammo uppajjati hetupaccayā—  lokuttaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+853\. Lokuttaraṁ dhammaṁ paṭicca lokuttaro dhammo uppajjati hetupaccayā— lokuttaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-854\. Lokuttaraṃ dhammaṃ paṭicca lokiyo dhammo uppajjati hetupaccayā—  lokuttare khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+854\. Lokuttaraṁ dhammaṁ paṭicca lokiyo dhammo uppajjati hetupaccayā— lokuttare khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-855\. Lokuttaraṃ dhammaṃ paṭicca lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā—  lokuttaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+855\. Lokuttaraṁ dhammaṁ paṭicca lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā— lokuttaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-856\. Lokiyañca lokuttarañca dhammaṃ paṭicca lokiyo dhammo uppajjati hetupaccayā—  lokuttare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
+856\. Lokiyañca lokuttarañca dhammaṁ paṭicca lokiyo dhammo uppajjati hetupaccayā— lokuttare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (2.6.1.1.1 Vibhaṅgavāra)](../2.6.1.1.1.md) / [Go to parent page (2.6.1.1.1 Vibhaṅgavāra)](../2.6.1.1.1.md) / [Go to next page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md)
-
+[Go to previous page (2.6.1.1.1 Vibhaṅgavāra)](../2.6.1.1.1.md) / [Go to parent page (2.6.1.1.1 Vibhaṅgavāra)](../2.6.1.1.1.md) / [Go to next page (2.6.1.1.2 Saṅkhyāvāra)](../2.6.1.1.2.md)
 

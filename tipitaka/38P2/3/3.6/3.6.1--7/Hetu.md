@@ -13,24 +13,15 @@
 
 (131.)
 
-1317\. Āsavavippayuttaṃ sāsavaṃ dhammaṃ paṭicca āsavavippayutto sāsavo dhammo uppajjati hetupaccayā—  āsavavippayuttaṃ sāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… . (1)
+1317\. Āsavavippayuttaṁ sāsavaṁ dhammaṁ paṭicca āsavavippayutto sāsavo dhammo uppajjati hetupaccayā— āsavavippayuttaṁ sāsavaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… . (1)
 
-1318\. Āsavavippayuttaṃ anāsavaṃ dhammaṃ paṭicca āsavavippayutto anāsavo dhammo uppajjati hetupaccayā…  tīṇi.
+1318\. Āsavavippayuttaṁ anāsavaṁ dhammaṁ paṭicca āsavavippayutto anāsavo dhammo uppajjati hetupaccayā… tīṇi.
 
-1319\. (Yathā cūḷantaraduke lokiyadukaṃ, evaṃ vitthāretabbaṃ ninnānākaraṇaṃ, saṃkhittaṃ.)
+1319\. (Yathā cūḷantaraduke lokiyadukaṁ, evaṁ vitthāretabbaṁ ninnānākaraṇaṁ, saṁkhittaṁ.)
 
----
+1320\. Āsavavippayuttasāsavadukaṁ niṭṭhitaṁ.
 
-1320\. Āsavavippayuttasāsavadukaṃ niṭṭhitaṃ.
+1321\. Āsavagocchakaṁ niṭṭhitaṁ.
 
-
-
----
-
-1321\. Āsavagocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (3.6.1--7 Paṭiccādivāra)](../3.6.1--7.md) / [Go to parent page (3.6.1--7 Paṭiccādivāra)](../3.6.1--7.md) / [Go to next page (4 Saññojanagocchaka)](../../../4.md)
-
+[Go to previous page (3.6.1--7 Paṭiccādivāra)](../3.6.1--7.md) / [Go to parent page (3.6.1--7 Paṭiccādivāra)](../3.6.1--7.md) / [Go to next page (4 Saññojanagocchaka)](../../../4.md)
 

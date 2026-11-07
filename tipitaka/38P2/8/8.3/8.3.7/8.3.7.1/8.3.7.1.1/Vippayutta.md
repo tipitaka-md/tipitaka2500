@@ -17,12 +17,11 @@
 
 (79.)
 
-2054\. Nīvaraṇasampayutto dhammo nīvaraṇavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2054\. Nīvaraṇasampayutto dhammo nīvaraṇavippayuttassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-2055\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2055\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-2056\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu nīvaraṇasampayuttakānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
+2056\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa vippayuttapaccayena paccayo. Purejātaṁ— vatthu nīvaraṇasampayuttakānaṁ khandhānaṁ vippayuttapaccayena paccayo. (2)
 
-[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Āhārādi)](Aharadi.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

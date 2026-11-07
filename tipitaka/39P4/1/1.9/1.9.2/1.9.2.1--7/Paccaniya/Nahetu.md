@@ -17,18 +17,17 @@
 
 (128.)
 
-449\. Nevadassanena nabhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+449\. Nevadassanena nabhāvanāya pahātabbahetukaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
 (129.)
 
-450\. Nahetuyā ekaṃ, naārammaṇe pañca, nadhipatiyā nava…pe…  napurejāte satta…pe…  nakamme tīṇi, naāhāre naindriye najhāne namagge ekaṃ, navippayutte tīṇi…pe…  novigate pañca. (Saṃkhittaṃ.)
+450\. Nahetuyā ekaṁ, naārammaṇe pañca, nadhipatiyā nava…pe… napurejāte satta…pe… nakamme tīṇi, naāhāre naindriye najhāne namagge ekaṁ, navippayutte tīṇi…pe… novigate pañca. (Saṁkhittaṁ.)
 
-451\. Hetupaccayā naārammaṇe pañca. (Saṃkhittaṃ.)
+451\. Hetupaccayā naārammaṇe pañca. (Saṁkhittaṁ.)
 
-452\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+452\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-453\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+453\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
 

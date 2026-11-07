@@ -17,8 +17,7 @@
 
 (76.)
 
-2050\. Nīvaraṇasampayutto dhammo nīvaraṇavippayuttassa dhammassa pacchājātapaccayena paccayo…  dve, āsevanapaccayena paccayo…  dve.
+2050\. Nīvaraṇasampayutto dhammo nīvaraṇavippayuttassa dhammassa pacchājātapaccayena paccayo… dve, āsevanapaccayena paccayo… dve.
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 

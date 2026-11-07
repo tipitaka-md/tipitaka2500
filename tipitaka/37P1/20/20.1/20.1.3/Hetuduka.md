@@ -13,14 +13,9 @@
 
 (17.)
 
-2687\. Hetupaccayā naadhipatiyā tīṇi, napurejāte napacchājāte naāsevane nakamme navipāke tīṇi, navippayutte dve. (Evaṃ gaṇetabbaṃ.)
+2687\. Hetupaccayā naadhipatiyā tīṇi, napurejāte napacchājāte naāsevane nakamme navipāke tīṇi, navippayutte dve. (Evaṁ gaṇetabbaṁ.)
 
----
+2688\. Anulomapaccanīyaṁ.
 
-2688\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (20.1.3 Paccayānulomapaccanīya)](../20.1.3.md) / [Go to parent page (20.1.3 Paccayānulomapaccanīya)](../20.1.3.md) / [Go to next page (20.1.4 Paccayapaccanīyānuloma)](../20.1.4.md)
-
+[Go to previous page (20.1.3 Paccayānulomapaccanīya)](../20.1.3.md) / [Go to parent page (20.1.3 Paccayānulomapaccanīya)](../20.1.3.md) / [Go to next page (20.1.4 Paccayapaccanīyānuloma)](../20.1.4.md)
 

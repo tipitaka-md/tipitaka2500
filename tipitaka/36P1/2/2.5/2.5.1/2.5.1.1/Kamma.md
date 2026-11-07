@@ -15,8 +15,7 @@
 
 (206.)
 
-702\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati kammapaccayā…pe…  akusalaṃ dhammaṃ saṃsaṭṭho…pe…  abyākataṃ dhammaṃ saṃsaṭṭho…pe… .
+702\. Kusalaṁ dhammaṁ saṁsaṭṭho kusalo dhammo uppajjati kammapaccayā…pe… akusalaṁ dhammaṁ saṁsaṭṭho…pe… abyākataṁ dhammaṁ saṁsaṭṭho…pe… .
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
-
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 

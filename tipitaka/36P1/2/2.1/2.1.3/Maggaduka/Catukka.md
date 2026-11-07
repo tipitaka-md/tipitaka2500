@@ -15,12 +15,7 @@
 
 332\. Maggapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-333\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+333\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Maggaduka)](../Maggaduka.md) / [Go to next page (Sampayuttaduka)](../Sampayuttaduka.md)
-
 

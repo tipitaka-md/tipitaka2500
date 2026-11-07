@@ -21,20 +21,19 @@
 
 73\. Akusalo nahetu dhammo akusalassa nahetussa dhammassa upanissayapaccayena paccayo. Akusalo nahetu dhammo kusalassa nahetussa dhammassa upanissayapaccayena paccayo. Akusalo nahetu dhammo abyākatassa nahetussa dhammassa upanissayapaccayena paccayo. (3)
 
-74\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa upanissayapaccayena paccayo. Abyākato nahetu dhammo kusalassa nahetussa dhammassa upanissayapaccayena paccayo. Abyākato nahetu dhammo akusalassa nahetussa dhammassa upanissayapaccayena paccayo. (3) (Saṃkhittaṃ.)
+74\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa upanissayapaccayena paccayo. Abyākato nahetu dhammo kusalassa nahetussa dhammassa upanissayapaccayena paccayo. Abyākato nahetu dhammo akusalassa nahetussa dhammassa upanissayapaccayena paccayo. (3) (Saṁkhittaṁ.)
 
 (24.)
 
-75\. Ārammaṇe nava, adhipatiyā dasa, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā satta, vigate satta, avigate terasa. (Saṃkhittaṃ.)
+75\. Ārammaṇe nava, adhipatiyā dasa, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṁ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā satta, vigate satta, avigate terasa. (Saṁkhittaṁ.)
 
-76\. Nahetuyā pannarasa, naārammaṇe pannarasa. (Saṃkhittaṃ.)
+76\. Nahetuyā pannarasa, naārammaṇe pannarasa. (Saṁkhittaṁ.)
 
-77\. Ārammaṇapaccayā nahetuyā nava. (Saṃkhittaṃ.)
+77\. Ārammaṇapaccayā nahetuyā nava. (Saṁkhittaṁ.)
 
-78\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+78\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-79\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+79\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Ārammaṇādi)](Arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.2 Vedanāttika, Hetuduka)](../../../../1.2.md)
-
+[Go to previous page (Ārammaṇādi)](Arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.2 Vedanāttika, Hetuduka)](../../../../1.2.md)
 

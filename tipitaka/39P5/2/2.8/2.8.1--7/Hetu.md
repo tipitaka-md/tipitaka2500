@@ -13,20 +13,19 @@
 
 (20.)
 
-361\. Nevadassanena nabhāvanāya pahātabbahetukaṃ kusalaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko kusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ. Sabbattha vitthāro.)
+361\. Nevadassanena nabhāvanāya pahātabbahetukaṁ kusalaṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbahetuko kusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ. Sabbattha vitthāro.)
 
 (21.)
 
-362\. Dassanena pahātabbahetukaṃ akusalaṃ dhammaṃ paṭicca dassanena pahātabbahetuko akusalo dhammo uppajjati hetupaccayā.
+362\. Dassanena pahātabbahetukaṁ akusalaṁ dhammaṁ paṭicca dassanena pahātabbahetuko akusalo dhammo uppajjati hetupaccayā.
 
-363\. Bhāvanāya pahātabbahetukaṃ akusalaṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+363\. Bhāvanāya pahātabbahetukaṁ akusalaṁ dhammaṁ paṭicca bhāvanāya pahātabbahetuko akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-364\. Hetuyā cha, ārammaṇe dasa, adhipatiyā dve…pe…  avigate dasa. (Sabbattha vitthāro.)
+364\. Hetuyā cha, ārammaṇe dasa, adhipatiyā dve…pe… avigate dasa. (Sabbattha vitthāro.)
 
 (22.)
 
-365\. Nevadassanena nabhāvanāya pahātabbahetukaṃ abyākataṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+365\. Nevadassanena nabhāvanāya pahātabbahetukaṁ abyākataṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbahetuko abyākato dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-[Go to previous page (2.8.1--7 Paṭiccādivāra)](../2.8.1--7.md) / [Go to parent page (2.8.1--7 Paṭiccādivāra)](../2.8.1--7.md) / [Go to next page (2.9 Ācayagāmittika, Kusalattika)](../../2.9.md)
-
+[Go to previous page (2.8.1--7 Paṭiccādivāra)](../2.8.1--7.md) / [Go to parent page (2.8.1--7 Paṭiccādivāra)](../2.8.1--7.md) / [Go to next page (2.9 Ācayagāmittika, Kusalattika)](../../2.9.md)
 

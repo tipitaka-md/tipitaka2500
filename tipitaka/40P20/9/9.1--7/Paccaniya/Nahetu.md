@@ -13,12 +13,11 @@
 
 (56.)
 
-157\. Nasaraṇaṃ dhammaṃ paṭicca araṇo dhammo uppajjati nahetupaccayā. Naaraṇaṃ dhammaṃ paṭicca saraṇo dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+157\. Nasaraṇaṁ dhammaṁ paṭicca araṇo dhammo uppajjati nahetupaccayā. Naaraṇaṁ dhammaṁ paṭicca saraṇo dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
-158\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā pañca…pe…  napurejāte cattāri…pe…  nakamme dve…pe…  naāhāre naindriye najhāne namagge ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi.
+158\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā pañca…pe… napurejāte cattāri…pe… nakamme dve…pe… naāhāre naindriye najhāne namagge ekaṁ…pe… navippayutte dve…pe… novigate tīṇi.
 
-159\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+159\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

@@ -15,10 +15,9 @@
 
 (40.)
 
-1549\. Ācayagāmiṃ dhammaṃ saṃsaṭṭho ācayagāmī dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
+1549\. Ācayagāmiṁ dhammaṁ saṁsaṭṭho ācayagāmī dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe saṁsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
 
-1550\. Nevācayagāmināpacayagāmiṃ dhammaṃ saṃsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati nahetupaccayā—  ahetukaṃ nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (1)
+1550\. Nevācayagāmināpacayagāmiṁ dhammaṁ saṁsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati nahetupaccayā— ahetukaṁ nevācayagāmināpacayagāmiṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (11.5.2.1 Vibhaṅgavāra)](../11.5.2.1.md) / [Go to parent page (11.5.2.1 Vibhaṅgavāra)](../11.5.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (11.5.2.1 Vibhaṅgavāra)](../11.5.2.1.md) / [Go to parent page (11.5.2.1 Vibhaṅgavāra)](../11.5.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

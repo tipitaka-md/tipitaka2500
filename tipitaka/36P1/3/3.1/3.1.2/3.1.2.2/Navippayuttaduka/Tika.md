@@ -15,8 +15,7 @@
 
 * Tika
 
-1852\. Navippayuttapaccayā nahetupaccayā naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, namagge ekaṃ…pe… .
+1852\. Navippayuttapaccayā nahetupaccayā naadhipatiyā ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, namagge ekaṁ…pe… .
 
 [Go to previous page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (Navaka)](Navaka.md)
-
 

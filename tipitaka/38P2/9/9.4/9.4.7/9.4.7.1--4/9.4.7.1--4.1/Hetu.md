@@ -17,12 +17,11 @@
 
 (87.)
 
-2303\. Parāmaṭṭho ceva no ca parāmāso dhammo parāmaṭṭhassa ceva no ca parāmāsassa dhammassa hetupaccayena paccayo—  parāmaṭṭhā ceva no ca parāmāsā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+2303\. Parāmaṭṭho ceva no ca parāmāso dhammo parāmaṭṭhassa ceva no ca parāmāsassa dhammassa hetupaccayena paccayo— parāmaṭṭhā ceva no ca parāmāsā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-2304\. Parāmaṭṭho ceva no ca parāmāso dhammo parāmāsassa ceva parāmaṭṭhassa ca dhammassa hetupaccayena paccayo—  parāmaṭṭhā ceva no ca parāmāsā hetū parāmāsassa hetupaccayena paccayo. (2)
+2304\. Parāmaṭṭho ceva no ca parāmāso dhammo parāmāsassa ceva parāmaṭṭhassa ca dhammassa hetupaccayena paccayo— parāmaṭṭhā ceva no ca parāmāsā hetū parāmāsassa hetupaccayena paccayo. (2)
 
-2305\. Parāmaṭṭho ceva no ca parāmāso dhammo parāmāsassa ceva parāmaṭṭhassa ca parāmaṭṭhassa ceva no ca parāmāsassa ca dhammassa hetupaccayena paccayo—  parāmaṭṭhā ceva no ca parāmāsā hetū sampayuttakānaṃ khandhānaṃ parāmāsassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+2305\. Parāmaṭṭho ceva no ca parāmāso dhammo parāmāsassa ceva parāmaṭṭhassa ca parāmaṭṭhassa ceva no ca parāmāsassa ca dhammassa hetupaccayena paccayo— parāmaṭṭhā ceva no ca parāmāsā hetū sampayuttakānaṁ khandhānaṁ parāmāsassa ca cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
-[Go to previous page (9.4.7.1--4.1 Vibhaṅgavāra)](../9.4.7.1--4.1.md) / [Go to parent page (9.4.7.1--4.1 Vibhaṅgavāra)](../9.4.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (9.4.7.1--4.1 Vibhaṅgavāra)](../9.4.7.1--4.1.md) / [Go to parent page (9.4.7.1--4.1 Vibhaṅgavāra)](../9.4.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

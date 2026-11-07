@@ -17,4 +17,3 @@
 
 [Go to previous page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Catukka)](Catukka.md)
 
-

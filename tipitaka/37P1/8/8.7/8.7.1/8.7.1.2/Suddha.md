@@ -17,18 +17,9 @@
 
 761\. Hetuyā dasa, ārammaṇe soḷasa, adhipatiyā soḷasa, anantare soḷasa, samanantare soḷasa, sahajāte dasa, aññamaññe dasa, nissaye dasa, upanissaye soḷasa, āsevane dasa, kamme soḷasa, vipāke dasa, āhāre indriye jhāne magge sampayutte atthiyā dasa, natthiyā soḷasa, vigate soḷasa, avigate dasa.
 
----
+762\. (Kusalattikaṁ anulomaṁ anumajjantena gaṇetabbaṁ.)
 
-762\. (Kusalattikaṃ anulomaṃ anumajjantena gaṇetabbaṃ.)
+763\. Anulomaṁ.
 
-
-
----
-
-763\. Anulomaṃ.
-
-
-
-[Go to previous page (8.7.1.2 Saṅkhyāvāra)](../8.7.1.2.md) / [Go to parent page (8.7.1.2 Saṅkhyāvāra)](../8.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (8.7.1.2 Saṅkhyāvāra)](../8.7.1.2.md) / [Go to parent page (8.7.1.2 Saṅkhyāvāra)](../8.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

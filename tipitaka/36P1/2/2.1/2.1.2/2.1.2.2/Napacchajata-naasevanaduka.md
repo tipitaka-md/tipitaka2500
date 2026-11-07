@@ -15,11 +15,10 @@
 
 (57.)
 
-262\. Napacchājātapaccayā naāsevanapaccayā nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
+262\. Napacchājātapaccayā naāsevanapaccayā nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
 * [Tika](Napacchajata-naasevanaduka/Tika.md)
 * [Catukka](Napacchajata-naasevanaduka/Catukka.md)
 
-[Go to previous page (Catukka)](Napurejataduka/Catukka.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md) / [Go to next page (Tika)](Napacchajata-naasevanaduka/Tika.md)
-
+[Go to previous page (Catukka)](Napurejataduka/Catukka.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md) / [Go to next page (Tika)](Napacchajata-naasevanaduka/Tika.md)
 

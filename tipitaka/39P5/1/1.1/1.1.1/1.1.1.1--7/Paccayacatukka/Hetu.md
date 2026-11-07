@@ -17,15 +17,15 @@
 
 (1.)
 
-2\. Kusalaṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca kusalo sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (1)
+2\. Kusalaṁ sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca kusalo sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (1)
 
-3\. Akusalaṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca akusalo sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (1)
+3\. Akusalaṁ sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca akusalo sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (1)
 
-4\. Abyākataṃ sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca abyākato sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+4\. Abyākataṁ sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca abyākato sukhāya vedanāya sampayutto dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (2.)
 
-5\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ…pe…  sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+5\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ…pe… sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (3.)
 
@@ -35,14 +35,13 @@
 
 8\. Abyākato sukhāya vedanāya sampayutto dhammo abyākatassa sukhāya vedanāya sampayuttassa dhammassa hetupaccayena paccayo. (1)
 
-9\. Kusalo sukhāya vedanāya sampayutto dhammo kusalassa sukhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+9\. Kusalo sukhāya vedanāya sampayutto dhammo kusalassa sukhāya vedanāya sampayuttassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
 (4.)
 
-10\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare samanantare pañca, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+10\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare samanantare pañca, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṁ, āhāre…pe… sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-11\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+11\. (Yathā kusalattike pañhāvāraṁ evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.2 Dukkhāyavedanāyasampayuttapada)](../../../1.1.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.2 Dukkhāyavedanāyasampayuttapada)](../../../1.1.2.md)
 

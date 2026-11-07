@@ -17,8 +17,7 @@
 
 (80.)
 
-720\. Appaṭigho dhammo appaṭighassa dhammassa āhārapaccayena paccayo—  appaṭighā āhārā sampayuttakānaṃ khandhānaṃ appaṭighānañca cittasamuṭṭhānānaṃ rūpānaṃ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Kabaḷīkāro āhāro**—  imassa appaṭighassa kāyassa āhārapaccayena paccayo. (Avasesā dvepi pañhā kātabbā, paṭisandhi kabaḷīkāro āhāro dvīsupi kātabbo agge.) (3)
+720\. Appaṭigho dhammo appaṭighassa dhammassa āhārapaccayena paccayo— appaṭighā āhārā sampayuttakānaṁ khandhānaṁ appaṭighānañca cittasamuṭṭhānānaṁ rūpānaṁ āhārapaccayena paccayo; paṭisandhikkhaṇe…pe… . Kabaḷīkāro āhāro— imassa appaṭighassa kāyassa āhārapaccayena paccayo. (Avasesā dvepi pañhā kātabbā, paṭisandhi kabaḷīkāro āhāro dvīsupi kātabbo agge.) (3)
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Indriyādi)](Indriyadi.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Indriyādi)](Indriyadi.md)
 

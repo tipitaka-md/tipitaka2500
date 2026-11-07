@@ -13,52 +13,51 @@
 
 (77.)
 
-2540\. Arūpāvacaraṃ kusalaṃ dhammaṃ paṭicca arūpāvacaro kusalo dhammo uppajjati hetupaccayā. (1)
+2540\. Arūpāvacaraṁ kusalaṁ dhammaṁ paṭicca arūpāvacaro kusalo dhammo uppajjati hetupaccayā. (1)
 
-2541\. Naarūpāvacaraṃ kusalaṃ dhammaṃ paṭicca naarūpāvacaro kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2541\. Naarūpāvacaraṁ kusalaṁ dhammaṁ paṭicca naarūpāvacaro kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (78.)
 
-2542\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+2542\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-2543\. Naadhipatiyā dve…pe…  naāsevane ekaṃ…pe…  navippayutte dve. (Saṃkhittaṃ. Sahajātavārādi vitthāretabbo.)
+2543\. Naadhipatiyā dve…pe… naāsevane ekaṁ…pe… navippayutte dve. (Saṁkhittaṁ. Sahajātavārādi vitthāretabbo.)
 
 (79.)
 
 2544\. Arūpāvacaro kusalo dhammo arūpāvacarassa kusalassa dhammassa hetupaccayena paccayo. (1)
 
-2545\. Naarūpāvacaro kusalo dhammo naarūpāvacarassa kusalassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+2545\. Naarūpāvacaro kusalo dhammo naarūpāvacarassa kusalassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (80.)
 
-2546\. Hetuyā dve, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi…pe…  sahajāte dve…pe…  upanissaye cattāri, āsevane tīṇi, kamme dve…pe…  atthiyā dve, natthiyā tīṇi…pe…  avigate dve. (Saṃkhittaṃ.)
+2546\. Hetuyā dve, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare tīṇi…pe… sahajāte dve…pe… upanissaye cattāri, āsevane tīṇi, kamme dve…pe… atthiyā dve, natthiyā tīṇi…pe… avigate dve. (Saṁkhittaṁ.)
 
 (81.)
 
-2547\. Naarūpāvacaraṃ akusalaṃ dhammaṃ paṭicca naarūpāvacaro akusalo dhammo uppajjati hetupaccayā…  ekaṃ. (Sabbattha ekaṃ, saṃkhittaṃ.)
+2547\. Naarūpāvacaraṁ akusalaṁ dhammaṁ paṭicca naarūpāvacaro akusalo dhammo uppajjati hetupaccayā… ekaṁ. (Sabbattha ekaṁ, saṁkhittaṁ.)
 
-2548\. Arūpāvacaraṃ abyākataṃ dhammaṃ paṭicca arūpāvacaro abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+2548\. Arūpāvacaraṁ abyākataṁ dhammaṁ paṭicca arūpāvacaro abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-2549\. Naarūpāvacaraṃ abyākataṃ dhammaṃ paṭicca naarūpāvacaro abyākato dhammo uppajjati hetupaccayā. (1)
+2549\. Naarūpāvacaraṁ abyākataṁ dhammaṁ paṭicca naarūpāvacaro abyākato dhammo uppajjati hetupaccayā. (1)
 
-2550\. Arūpāvacaraṃ abyākatañca naarūpāvacaraṃ abyākatañca dhammaṃ paṭicca naarūpāvacaro abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2550\. Arūpāvacaraṁ abyākatañca naarūpāvacaraṁ abyākatañca dhammaṁ paṭicca naarūpāvacaro abyākato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (82.)
 
-2551\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+2551\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-2552\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā dve…pe…  napurejāte cattāri, napacchājāte naāsevane pañca, nakamme dve, navipāke pañca, naāhāre ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi. (Saṃkhittaṃ. Sahajātavārādi vitthāretabbo.)
+2552\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā dve…pe… napurejāte cattāri, napacchājāte naāsevane pañca, nakamme dve, navipāke pañca, naāhāre ekaṁ…pe… navippayutte dve…pe… novigate tīṇi. (Saṁkhittaṁ. Sahajātavārādi vitthāretabbo.)
 
 (83.)
 
-2553\. Arūpāvacaro abyākato dhammo arūpāvacarassa abyākatassa dhammassa hetupaccayena paccayo…  tīṇi.
+2553\. Arūpāvacaro abyākato dhammo arūpāvacarassa abyākatassa dhammassa hetupaccayena paccayo… tīṇi.
 
-2554\. Naarūpāvacaro abyākato dhammo naarūpāvacarassa abyākatassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+2554\. Naarūpāvacaro abyākato dhammo naarūpāvacarassa abyākatassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (84.)
 
-2555\. Hetuyā cattāri, ārammaṇe tīṇi (arūpāvacaramūle dve, naarūpāvacare ekaṃ), adhipatiyā cattāri (arūpāvacaramūle tīṇi, naarūpe ekaṃ), anantare cattāri…pe…  sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane tīṇi, kamme cattāri, vipāke dve…pe…  sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri…pe…  avigate satta. (Saṃkhittaṃ.)
+2555\. Hetuyā cattāri, ārammaṇe tīṇi (arūpāvacaramūle dve, naarūpāvacare ekaṁ), adhipatiyā cattāri (arūpāvacaramūle tīṇi, naarūpe ekaṁ), anantare cattāri…pe… sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane tīṇi, kamme cattāri, vipāke dve…pe… sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri…pe… avigate satta. (Saṁkhittaṁ.)
 
-[Go to previous page (13.12.1--7 Paṭiccādivāra)](../13.12.1--7.md) / [Go to parent page (13.12.1--7 Paṭiccādivāra)](../13.12.1--7.md) / [Go to next page (13.13 Pariyāpannaduka, Kusalattika)](../../13.13.md)
-
+[Go to previous page (13.12.1--7 Paṭiccādivāra)](../13.12.1--7.md) / [Go to parent page (13.12.1--7 Paṭiccādivāra)](../13.12.1--7.md) / [Go to next page (13.13 Pariyāpannaduka, Kusalattika)](../../13.13.md)
 

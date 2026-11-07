@@ -29,20 +29,19 @@
 
 686\. Sammattaniyato hetu dhammo sammattaniyatassa hetussa dhammassa upanissayapaccayena paccayo. Sammattaniyato hetu dhammo aniyatassa hetussa dhammassa upanissayapaccayena paccayo. (2)
 
-687\. Aniyato hetu dhammo aniyatassa hetussa dhammassa upanissayapaccayena paccayo. Aniyato hetu dhammo micchattaniyatassa hetussa dhammassa upanissayapaccayena paccayo. Aniyato hetu dhammo sammattaniyatassa hetussa dhammassa upanissayapaccayena paccayo. (3) (Saṃkhittaṃ.)
+687\. Aniyato hetu dhammo aniyatassa hetussa dhammassa upanissayapaccayena paccayo. Aniyato hetu dhammo micchattaniyatassa hetussa dhammassa upanissayapaccayena paccayo. Aniyato hetu dhammo sammattaniyatassa hetussa dhammassa upanissayapaccayena paccayo. (3) (Saṁkhittaṁ.)
 
 (185.)
 
-688\. Hetuyā tīṇi, ārammaṇe cattāri, adhipatiyā tīṇi, anantare pañca, samanantare pañca, sahajāte tīṇi…pe…  upanissaye satta, āsevane tīṇi, vipāke ekaṃ, indriye magge dve, sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+688\. Hetuyā tīṇi, ārammaṇe cattāri, adhipatiyā tīṇi, anantare pañca, samanantare pañca, sahajāte tīṇi…pe… upanissaye satta, āsevane tīṇi, vipāke ekaṁ, indriye magge dve, sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-689\. Nahetuyā satta, naārammaṇe satta. (Saṃkhittaṃ.)
+689\. Nahetuyā satta, naārammaṇe satta. (Saṁkhittaṁ.)
 
-690\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+690\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-691\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
+691\. Nahetupaccayā ārammaṇe cattāri. (Saṁkhittaṁ.)
 
-692\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+692\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu-ārammaṇādi)](Hetu-arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.15.2 Nahetupada)](../../../1.15.2.md)
-
+[Go to previous page (Hetu-ārammaṇādi)](Hetu-arammanadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.15.2 Nahetupada)](../../../1.15.2.md)
 

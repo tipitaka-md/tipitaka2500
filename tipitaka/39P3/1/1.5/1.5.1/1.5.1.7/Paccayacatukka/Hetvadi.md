@@ -17,16 +17,15 @@
 
 (190.)
 
-349\. Hetu saṃkiliṭṭhasaṃkilesiko dhammo hetussa saṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo…  tīṇi.
+349\. Hetu saṁkiliṭṭhasaṁkilesiko dhammo hetussa saṁkiliṭṭhasaṁkilesikassa dhammassa hetupaccayena paccayo… tīṇi.
 
-350\. Hetu saṃkiliṭṭhasaṃkilesiko dhammo hetussa saṃkiliṭṭhasaṃkilesikassa dhammassa ārammaṇapaccayena paccayo…  nava.
+350\. Hetu saṁkiliṭṭhasaṁkilesiko dhammo hetussa saṁkiliṭṭhasaṁkilesikassa dhammassa ārammaṇapaccayena paccayo… nava.
 
-351\. Hetu saṃkiliṭṭhasaṃkilesiko dhammo hetussa saṃkiliṭṭhasaṃkilesikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati…  nava. (Saṃkhittaṃ.)
+351\. Hetu saṁkiliṭṭhasaṁkilesiko dhammo hetussa saṁkiliṭṭhasaṁkilesikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati… nava. (Saṁkhittaṁ.)
 
 (191.)
 
-352\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṃkhittaṃ.)
+352\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

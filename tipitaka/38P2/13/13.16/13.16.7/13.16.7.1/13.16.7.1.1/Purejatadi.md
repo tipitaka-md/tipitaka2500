@@ -17,10 +17,9 @@
 
 (337.)
 
-4778\. Aniyato dhammo aniyatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. (Saṃkhittaṃ.) Aniyato dhammo niyatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  rūpajīvitindriyaṃ mātughātikammassa…  pitughātikammassa…  arahantaghātikammassa…  ruhiruppādakammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu niyatānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+4778\. Aniyato dhammo aniyatassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. (Saṁkhittaṁ.) Aniyato dhammo niyatassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— rūpajīvitindriyaṁ mātughātikammassa… pitughātikammassa… arahantaghātikammassa… ruhiruppādakammassa purejātapaccayena paccayo. Vatthupurejātaṁ— vatthu niyatānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-4779\. Pacchājātapaccayena paccayo…  dve…  āsevanapaccayena paccayo…  dve.
+4779\. Pacchājātapaccayena paccayo… dve… āsevanapaccayena paccayo… dve.
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

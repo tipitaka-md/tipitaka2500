@@ -17,8 +17,7 @@
 
 (89.)
 
-243\. Sahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati adhipatipaccayā—  sahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
+243\. Sahetukaṁ dhammaṁ saṁsaṭṭho sahetuko dhammo uppajjati adhipatipaccayā— sahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… . (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

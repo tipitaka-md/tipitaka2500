@@ -17,16 +17,15 @@
 
 (52.)
 
-3955\. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo—  rāgaṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati, diṭṭhi uppajjati; vicikicchā…pe…  uddhaccaṃ…pe…  domanassaṃ uppajjati; diṭṭhiṃ assādeti…pe…  (kusalattikasadisaṃ); vicikicchaṃ ārabbha…pe…  uddhaccaṃ ārabbha…pe…  domanassaṃ uppajjati; diṭṭhi…pe…  vicikicchā…pe…  uddhaccaṃ uppajjati. (1)
+3955\. Saṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo— rāgaṁ assādeti abhinandati, taṁ ārabbha rāgo uppajjati, diṭṭhi uppajjati; vicikicchā…pe… uddhaccaṁ…pe… domanassaṁ uppajjati; diṭṭhiṁ assādeti…pe… (kusalattikasadisaṁ); vicikicchaṁ ārabbha…pe… uddhaccaṁ ārabbha…pe… domanassaṁ uppajjati; diṭṭhi…pe… vicikicchā…pe… uddhaccaṁ uppajjati. (1)
 
-3956\. Saṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo—  ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese…pe…  pubbe samudāciṇṇe…pe…  saṃkiliṭṭhe khandhe aniccato…pe…  vipassati, cetopariyañāṇena saṃkiliṭṭhacittasamaṅgissa cittaṃ jānāti; saṃkiliṭṭhā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
+3956\. Saṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo— ariyā pahīne kilese paccavekkhanti, vikkhambhite kilese…pe… pubbe samudāciṇṇe…pe… saṁkiliṭṭhe khandhe aniccato…pe… vipassati, cetopariyañāṇena saṁkiliṭṭhacittasamaṅgissa cittaṁ jānāti; saṁkiliṭṭhā khandhā cetopariyañāṇassa, pubbenivāsānussatiñāṇassa, yathākammūpagañāṇassa, anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (2)
 
 (53.)
 
-3957\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe…pe…  jhānā vuṭṭhahitvā jhānaṃ paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṃ paccavekkhanti…pe…  āvajjanāya ārammaṇapaccayena paccayo; cakkhuṃ…pe…  vatthuṃ asaṃkiliṭṭhe khandhe aniccato…pe…  vipassati, dibbena cakkhunā rūpaṃ passati…pe…  anāgataṃsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
+3957\. Asaṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ…pe… pubbe…pe… jhānā vuṭṭhahitvā jhānaṁ paccavekkhati, ariyā maggā vuṭṭhahitvā maggaṁ paccavekkhanti…pe… āvajjanāya ārammaṇapaccayena paccayo; cakkhuṁ…pe… vatthuṁ asaṁkiliṭṭhe khandhe aniccato…pe… vipassati, dibbena cakkhunā rūpaṁ passati…pe… anāgataṁsañāṇassa, āvajjanāya ārammaṇapaccayena paccayo. (1)
 
-3958\. Asaṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  jhānā vuṭṭhahitvā…pe…  cakkhuṃ…pe…  vatthuṃ asaṃkiliṭṭhe khandhe assādeti abhinandati, taṃ ārabbha rāgo…pe…  domanassaṃ uppajjati. (2)
+3958\. Asaṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa ārammaṇapaccayena paccayo— dānaṁ…pe… sīlaṁ…pe… jhānā vuṭṭhahitvā…pe… cakkhuṁ…pe… vatthuṁ asaṁkiliṭṭhe khandhe assādeti abhinandati, taṁ ārabbha rāgo…pe… domanassaṁ uppajjati. (2)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

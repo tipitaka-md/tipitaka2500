@@ -13,22 +13,21 @@
 
 (1.)
 
-2\. Kusalaṃ dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā—  kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Kusalaṃ dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  kusalaṃ dhammaṃ paṭicca naabyākato dhammo uppajjati hetupaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  kusalaṃ dhammaṃ paṭicca naakusalo ca naabyākato ca dhammā uppajjanti hetupaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  kusalaṃ dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā—  kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (5)
+2\. Kusalaṁ dhammaṁ paṭicca nakusalo dhammo uppajjati hetupaccayā— kusale khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Kusalaṁ dhammaṁ paṭicca naakusalo dhammo uppajjati hetupaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… kusalaṁ dhammaṁ paṭicca naabyākato dhammo uppajjati hetupaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… kusalaṁ dhammaṁ paṭicca naakusalo ca naabyākato ca dhammā uppajjanti hetupaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… kusalaṁ dhammaṁ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā— kusale khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (5)
 
 (2.)
 
-3\. Akusalaṃ dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā—  akusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Akusalaṃ dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā—  akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  akusalaṃ dhammaṃ paṭicca naabyākato dhammo uppajjati hetupaccayā. Akusalaṃ dhammaṃ paṭicca nakusalo ca naabyākato ca dhammā uppajjanti hetupaccayā. Akusalaṃ dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (5)
+3\. Akusalaṁ dhammaṁ paṭicca naakusalo dhammo uppajjati hetupaccayā— akusale khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Akusalaṁ dhammaṁ paṭicca nakusalo dhammo uppajjati hetupaccayā— akusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… akusalaṁ dhammaṁ paṭicca naabyākato dhammo uppajjati hetupaccayā. Akusalaṁ dhammaṁ paṭicca nakusalo ca naabyākato ca dhammā uppajjanti hetupaccayā. Akusalaṁ dhammaṁ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (5)
 
 (3.)
 
-4\. Abyākataṃ dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ. Abyākataṃ dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā—  vipākābyākataṃ…pe…  paṭisandhikkhaṇe…pe…  mahābhūtaṃ…pe…  abyākataṃ dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā—  vipākābyākataṃ kiriyābyākataṃ…pe… . (3) (Saṃkhittaṃ.)
+4\. Abyākataṁ dhammaṁ paṭicca nakusalo dhammo uppajjati hetupaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ. Abyākataṁ dhammaṁ paṭicca naakusalo dhammo uppajjati hetupaccayā— vipākābyākataṁ…pe… paṭisandhikkhaṇe…pe… mahābhūtaṁ…pe… abyākataṁ dhammaṁ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā— vipākābyākataṁ kiriyābyākataṁ…pe… . (3) (Saṁkhittaṁ.)
 
 (4.)
 
-5\. Kusalañca abyākatañca dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. Kusalañca abyākatañca dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā. Kusalañca abyākatañca dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3)
+5\. Kusalañca abyākatañca dhammaṁ paṭicca nakusalo dhammo uppajjati hetupaccayā— kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. Kusalañca abyākatañca dhammaṁ paṭicca naakusalo dhammo uppajjati hetupaccayā. Kusalañca abyākatañca dhammaṁ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3)
 
-6\. Akusalañca abyākatañca dhammaṃ paṭicca nakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṃ paṭicca naakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṃ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3) (Cittasamuṭṭhānarūpameva ettha vattati, ekūnavīsati pañhā kātabbā.)
+6\. Akusalañca abyākatañca dhammaṁ paṭicca nakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṁ paṭicca naakusalo dhammo uppajjati hetupaccayā. Akusalañca abyākatañca dhammaṁ paṭicca nakusalo ca naakusalo ca dhammā uppajjanti hetupaccayā. (3) (Cittasamuṭṭhānarūpameva ettha vattati, ekūnavīsati pañhā kātabbā.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
 

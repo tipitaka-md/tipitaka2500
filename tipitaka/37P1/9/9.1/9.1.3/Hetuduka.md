@@ -15,15 +15,7 @@
 
 853\. Hetupaccayā naārammaṇe pañca, naadhipatiyā nava, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte satta, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca.
 
----
+854\. (Evaṁ anumajjantena gaṇetabbaṁ.) Anulomapaccanīyaṁ.
 
-854\. (Evaṃ anumajjantena gaṇetabbaṃ.)
-
-  
-Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (9.1.3 Paccayānulomapaccanīya)](../9.1.3.md) / [Go to parent page (9.1.3 Paccayānulomapaccanīya)](../9.1.3.md) / [Go to next page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md)
-
+[Go to previous page (9.1.3 Paccayānulomapaccanīya)](../9.1.3.md) / [Go to parent page (9.1.3 Paccayānulomapaccanīya)](../9.1.3.md) / [Go to next page (9.1.4 Paccayapaccanīyānuloma)](../9.1.4.md)
 

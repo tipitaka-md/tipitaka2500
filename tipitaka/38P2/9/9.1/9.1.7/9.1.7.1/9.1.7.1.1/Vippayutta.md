@@ -17,16 +17,15 @@
 
 (34.)
 
-2185\. Parāmāso dhammo noparāmāsassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2185\. Parāmāso dhammo noparāmāsassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-2186\. Noparāmāso dhammo noparāmāsassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2186\. Noparāmāso dhammo noparāmāsassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-2187\. Noparāmāso dhammo parāmāsassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu parāmāsassa vippayuttapaccayena paccayo. (2)
+2187\. Noparāmāso dhammo parāmāsassa dhammassa vippayuttapaccayena paccayo. Purejātaṁ— vatthu parāmāsassa vippayuttapaccayena paccayo. (2)
 
-2188\. Noparāmāso dhammo parāmāsassa ca noparāmāsassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu parāmāsassa ca sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
+2188\. Noparāmāso dhammo parāmāsassa ca noparāmāsassa ca dhammassa vippayuttapaccayena paccayo. Purejātaṁ— vatthu parāmāsassa ca sampayuttakānañca khandhānaṁ vippayuttapaccayena paccayo. (3)
 
-2189\. Parāmāso ca noparāmāso ca dhammā noparāmāsassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2189\. Parāmāso ca noparāmāso ca dhammā noparāmāsassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Vipākādi)](Vipakadi.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Vipākādi)](Vipakadi.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

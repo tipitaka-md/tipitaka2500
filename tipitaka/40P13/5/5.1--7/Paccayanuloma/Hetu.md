@@ -13,22 +13,21 @@
 
 (31.)
 
-62\. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā. (5)
+62\. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca naasaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca naasaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati hetupaccayā. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko ca naasaṁkiliṭṭhaasaṁkilesiko ca dhammā uppajjanti hetupaccayā. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca naasaṁkiliṭṭhasaṁkilesiko ca naasaṁkiliṭṭhaasaṁkilesiko ca dhammā uppajjanti hetupaccayā. (5)
 
-63\. Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā. Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā. (3)
+63\. Asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. Asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca naasaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati hetupaccayā. Asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko ca naasaṁkiliṭṭhaasaṁkilesiko ca dhammā uppajjanti hetupaccayā. (3)
 
-64\. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca naasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko ca naasaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā. (5)
+64\. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca naasaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati hetupaccayā. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca naasaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko ca naasaṁkiliṭṭhaasaṁkilesiko ca dhammā uppajjanti hetupaccayā. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko ca naasaṁkiliṭṭhasaṁkilesiko ca dhammā uppajjanti hetupaccayā. (5)
 
-65\. Asaṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhaasaṃkilesikañca dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā…  tīṇi.
+65\. Asaṁkiliṭṭhasaṁkilesikañca asaṁkiliṭṭhaasaṁkilesikañca dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā… tīṇi.
 
-66\. Saṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhasaṃkilesikañca dhammaṃ paṭicca nasaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā…pe…  tīṇi. (Saṃkhittaṃ.)
+66\. Saṁkiliṭṭhasaṁkilesikañca asaṁkiliṭṭhasaṁkilesikañca dhammaṁ paṭicca nasaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā…pe… tīṇi. (Saṁkhittaṁ.)
 
-67\. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  vipāke ekādasa…pe…  avigate ekūnavīsa. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ. Pañhāvāre na sadisaṃ.)
+67\. Hetuyā ekūnavīsa, ārammaṇe nava…pe… vipāke ekādasa…pe… avigate ekūnavīsa. (Sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi vitthāretabbaṁ. Pañhāvāre na sadisaṁ.)
 
 (32.)
 
-68\. Hetuyā terasa, ārammaṇe pannarasa, adhipatiyā pannarasa, anantare soḷasa…pe…  sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye sattarasa, purejāte cha, pacchājāte nava, āsevane aṭṭha, kamme terasa, vipāke aṭṭha, āhāre terasa…pe…  magge terasa, sampayutte nava, vippayutte dvādasa…pe…  avigate chabbīsa.
+68\. Hetuyā terasa, ārammaṇe pannarasa, adhipatiyā pannarasa, anantare soḷasa…pe… sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye sattarasa, purejāte cha, pacchājāte nava, āsevane aṭṭha, kamme terasa, vipāke aṭṭha, āhāre terasa…pe… magge terasa, sampayutte nava, vippayutte dvādasa…pe… avigate chabbīsa.
 
-[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (6 Vitakkattika)](../../../6.md)
-
+[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (6 Vitakkattika)](../../../6.md)
 

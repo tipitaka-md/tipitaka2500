@@ -19,12 +19,7 @@
 
 1058\. Pacchājāta vippayutta atthi avigatanti tīṇi.
 
----
-
-1059\. Pacchājātamūlakaṃ.
-
-
+1059\. Pacchājātamūlakaṁ.
 
 [Go to previous page (Pacchājātasabhāga)](Pacchajatasabhaga.md) / [Go to parent page (Pacchājāta)](../Pacchajata.md) / [Go to next page (Āsevana)](../Asevana.md)
-
 

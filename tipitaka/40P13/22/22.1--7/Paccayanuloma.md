@@ -6,6 +6,5 @@
 * [Hetu](Paccayanuloma/Hetu.md)
 * [Hetu-ārammaṇa](Paccayanuloma/Hetu-arammana.md)
 
-[Go to previous page (22.1--7 Paṭiccādivāra)](../22.1--7.md) / [Go to parent page (22.1--7 Paṭiccādivāra)](../22.1--7.md) / [Go to next page (Hetu)](Paccayanuloma/Hetu.md)
-
+[Go to previous page (22.1--7 Paṭiccādivāra)](../22.1--7.md) / [Go to parent page (22.1--7 Paṭiccādivāra)](../22.1--7.md) / [Go to next page (Hetu)](Paccayanuloma/Hetu.md)
 

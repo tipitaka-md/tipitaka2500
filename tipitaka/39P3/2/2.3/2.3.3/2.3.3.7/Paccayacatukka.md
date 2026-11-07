@@ -5,6 +5,5 @@
 
 * [Hetu-ārammaṇa](Paccayacatukka/Hetu-arammana.md)
 
-[Go to previous page (2.3.3.7 Pañhāvāra)](../2.3.3.7.md) / [Go to parent page (2.3.3.7 Pañhāvāra)](../2.3.3.7.md) / [Go to next page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md)
-
+[Go to previous page (2.3.3.7 Pañhāvāra)](../2.3.3.7.md) / [Go to parent page (2.3.3.7 Pañhāvāra)](../2.3.3.7.md) / [Go to next page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md)
 

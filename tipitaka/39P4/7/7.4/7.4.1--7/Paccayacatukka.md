@@ -13,20 +13,19 @@
 
 (10.)
 
-1552\. Akusalaṃ bhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca akusalo bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1552\. Akusalaṁ bhāvanāya pahātabbahetukaṁ dhammaṁ paṭicca akusalo bhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1553\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1553\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1554\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1554\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (11.)
 
-1555\. Kusalaṃ nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca kusalo nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā.
+1555\. Kusalaṁ nabhāvanāya pahātabbahetukaṁ dhammaṁ paṭicca kusalo nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā.
 
-1556\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
+1556\. Hetuyā nava, ārammaṇe tīṇi…pe… avigate nava. (Saṁkhittaṁ.)
 
-1557\. (Sahajātavārepi…pe…  pañhāvārepi vitthāretabbaṃ.)
+1557\. (Sahajātavārepi…pe… pañhāvārepi vitthāretabbaṁ.)
 
-[Go to previous page (7.4.1--7 Paṭiccādivāra)](../7.4.1--7.md) / [Go to parent page (7.4.1--7 Paṭiccādivāra)](../7.4.1--7.md) / [Go to next page (7.5 Kusalattika, Savitakkaduka)](../../7.5.md)
-
+[Go to previous page (7.4.1--7 Paṭiccādivāra)](../7.4.1--7.md) / [Go to parent page (7.4.1--7 Paṭiccādivāra)](../7.4.1--7.md) / [Go to next page (7.5 Kusalattika, Savitakkaduka)](../../7.5.md)
 

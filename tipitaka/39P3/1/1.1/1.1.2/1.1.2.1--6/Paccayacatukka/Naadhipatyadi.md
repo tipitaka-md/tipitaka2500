@@ -17,24 +17,23 @@
 
 (32.)
 
-48\. Hetuṃ akusalaṃ dhammaṃ paṭicca hetu akusalo dhammo uppajjati naadhipatipaccayā…  nava…pe… .
+48\. Hetuṁ akusalaṁ dhammaṁ paṭicca hetu akusalo dhammo uppajjati naadhipatipaccayā… nava…pe… .
 
-49\. Hetuṃ akusalaṃ dhammaṃ paṭicca nahetu akusalo dhammo uppajjati nakammapaccayā. (1)
+49\. Hetuṁ akusalaṁ dhammaṁ paṭicca nahetu akusalo dhammo uppajjati nakammapaccayā. (1)
 
-50\. Nahetuṃ akusalaṃ dhammaṃ paṭicca nahetu akusalo dhammo uppajjati nakammapaccayā. (1)
+50\. Nahetuṁ akusalaṁ dhammaṁ paṭicca nahetu akusalo dhammo uppajjati nakammapaccayā. (1)
 
-51\. Hetuṃ akusalañca nahetuṃ akusalañca dhammaṃ paṭicca nahetu akusalo dhammo uppajjati nakammapaccayā. (1) (Saṃkhittaṃ.)
+51\. Hetuṁ akusalañca nahetuṁ akusalañca dhammaṁ paṭicca nahetu akusalo dhammo uppajjati nakammapaccayā. (1) (Saṁkhittaṁ.)
 
 (33.)
 
-52\. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Paccanīyaṃ.)
+52\. Nahetuyā ekaṁ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Paccanīyaṁ.)
 
-53\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ, anulomapaccanīyaṃ.)
+53\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ, anulomapaccanīyaṁ.)
 
-54\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ, paccanīyānulomaṃ.)
+54\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ, paccanīyānulomaṁ.)
 
-55\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
+55\. (Sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.2.7 Pañhāvāra)](../../1.1.2.7.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.2.7 Pañhāvāra)](../../1.1.2.7.md)
 

@@ -17,10 +17,9 @@
 
 (400.)
 
-3334\. Noupādā dhammo noupādā dhammassa pacchājātapaccayena paccayo—  pacchājātā noupādā khandhā purejātassa imassa noupādā kāyassa pacchājātapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Pacchājātā noupādā khandhā purejātassa imassa upādā kāyassa pacchājātapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Pacchājātā noupādā khandhā purejātassa imassa upādā kāyassa ca noupādā kāyassa ca pacchājātapaccayena paccayo. (3)
+3334\. Noupādā dhammo noupādā dhammassa pacchājātapaccayena paccayo— pacchājātā noupādā khandhā purejātassa imassa noupādā kāyassa pacchājātapaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Pacchājātā noupādā khandhā purejātassa imassa upādā kāyassa pacchājātapaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Pacchājātā noupādā khandhā purejātassa imassa upādā kāyassa ca noupādā kāyassa ca pacchājātapaccayena paccayo. (3)
 
-3335\. Āsevanapaccayena paccayo…  ekaṃ.
+3335\. Āsevanapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

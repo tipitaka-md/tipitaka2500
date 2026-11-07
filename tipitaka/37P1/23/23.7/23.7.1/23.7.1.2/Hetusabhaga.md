@@ -15,8 +15,7 @@
 
 (57.)
 
-3062\. Hetupaccayā adhipatiyā satta, sahajāte satta, aññamaññe ekaṃ, nissaye satta, vipāke satta, indriye satta, magge satta, sampayutte ekaṃ, vippayutte satta, atthiyā satta, avigate satta.
+3062\. Hetupaccayā adhipatiyā satta, sahajāte satta, aññamaññe ekaṁ, nissaye satta, vipāke satta, indriye satta, magge satta, sampayutte ekaṁ, vippayutte satta, atthiyā satta, avigate satta.
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (23.7.1.2 Saṅkhyāvāra)](../23.7.1.2.md) / [Go to next page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (23.7.1.2 Saṅkhyāvāra)](../23.7.1.2.md) / [Go to next page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md)
 

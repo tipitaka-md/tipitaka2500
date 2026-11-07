@@ -15,8 +15,7 @@
 
 (28.)
 
-1127\. Nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ, asaññasattānaṃ…pe…  mahābhūte paṭicca rūpajīvitindriyaṃ…  najhānapaccayā—  pañcaviññāṇaṃ…pe…  (mahābhūtā kātabbā) namaggapaccayā—  ahetukaṃ nevadassanena nabhāvanāya pahātabbahetukaṃ ekaṃ khandhaṃ…pe…  asaññasattānaṃ…pe…  nasampayuttapaccayā.
+1127\. Nevadassanena nabhāvanāya pahātabbahetukaṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati naāhārapaccayā— bāhiraṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ, asaññasattānaṁ…pe… mahābhūte paṭicca rūpajīvitindriyaṁ… najhānapaccayā— pañcaviññāṇaṁ…pe… (mahābhūtā kātabbā) namaggapaccayā— ahetukaṁ nevadassanena nabhāvanāya pahātabbahetukaṁ ekaṁ khandhaṁ…pe… asaññasattānaṁ…pe… nasampayuttapaccayā.
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](../10.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](../10.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
 

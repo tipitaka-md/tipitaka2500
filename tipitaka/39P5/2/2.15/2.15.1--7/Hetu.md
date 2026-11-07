@@ -13,26 +13,25 @@
 
 (35.)
 
-403\. Maggārammaṇaṃ kusalaṃ dhammaṃ paṭicca maggārammaṇo kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+403\. Maggārammaṇaṁ kusalaṁ dhammaṁ paṭicca maggārammaṇo kusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-404\. Maggahetukaṃ kusalaṃ dhammaṃ paṭicca maggahetuko kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+404\. Maggahetukaṁ kusalaṁ dhammaṁ paṭicca maggahetuko kusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-405\. Maggādhipatiṃ kusalaṃ dhammaṃ paṭicca maggādhipati kusalo dhammo uppajjati hetupaccayā…  pañca.
+405\. Maggādhipatiṁ kusalaṁ dhammaṁ paṭicca maggādhipati kusalo dhammo uppajjati hetupaccayā… pañca.
 
-406\. Maggārammaṇaṃ kusalañca maggādhipatiṃ kusalañca dhammaṃ paṭicca maggārammaṇo kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+406\. Maggārammaṇaṁ kusalañca maggādhipatiṁ kusalañca dhammaṁ paṭicca maggārammaṇo kusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-407\. Maggahetukaṃ kusalañca maggādhipatiṃ kusalañca dhammaṃ paṭicca maggahetuko kusalo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+407\. Maggahetukaṁ kusalañca maggādhipatiṁ kusalañca dhammaṁ paṭicca maggahetuko kusalo dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
-408\. Hetuyā sattarasa…pe…  avigate sattarasa. (Saṃkhittaṃ.)
+408\. Hetuyā sattarasa…pe… avigate sattarasa. (Saṁkhittaṁ.)
 
 (36.)
 
-409\. Maggārammaṇaṃ abyākataṃ dhammaṃ paṭicca maggārammaṇo abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+409\. Maggārammaṇaṁ abyākataṁ dhammaṁ paṭicca maggārammaṇo abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-410\. Maggādhipatiṃ abyākataṃ dhammaṃ paṭicca maggādhipati abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+410\. Maggādhipatiṁ abyākataṁ dhammaṁ paṭicca maggādhipati abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-411\. Maggārammaṇaṃ abyākatañca maggādhipatiṃ abyākatañca dhammaṃ paṭicca maggārammaṇo abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Sabbattha nava. Sabbattha vitthāro.)
+411\. Maggārammaṇaṁ abyākatañca maggādhipatiṁ abyākatañca dhammaṁ paṭicca maggārammaṇo abyākato dhammo uppajjati hetupaccayā… tīṇi. (Sabbattha nava. Sabbattha vitthāro.)
 
-[Go to previous page (2.15.1--7 Paṭiccādivāra)](../2.15.1--7.md) / [Go to parent page (2.15.1--7 Paṭiccādivāra)](../2.15.1--7.md) / [Go to next page (2.16 Uppannattika, Kusalattika)](../../2.16.md)
-
+[Go to previous page (2.15.1--7 Paṭiccādivāra)](../2.15.1--7.md) / [Go to parent page (2.15.1--7 Paṭiccādivāra)](../2.15.1--7.md) / [Go to next page (2.16 Uppannattika, Kusalattika)](../../2.16.md)
 

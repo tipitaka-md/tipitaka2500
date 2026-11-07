@@ -13,8 +13,7 @@
 
 * Ekādasaka
 
-1773\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissayapaccayā kamme dve, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+1773\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā naupanissayapaccayā kamme dve, āhāre ekaṁ, indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
 [Go to previous page (Navaka)](Navaka.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (Pannarasaka)](Pannarasaka.md)
-
 

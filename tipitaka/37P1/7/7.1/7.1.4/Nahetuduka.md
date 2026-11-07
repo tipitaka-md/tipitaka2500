@@ -13,16 +13,11 @@
 
 (46.)
 
-197\. Nahetupaccayā ārammaṇe cuddasa, anantare samanantare cuddasa, sahajāte tettiṃsa, aññamaññe bāvīsa, nissaye tettiṃsa, upanissaye cuddasa, purejāte cha, āsevane pañca, kamme tettiṃsa…pe…  jhāne tettiṃsa, magge tīṇi, sampayutte cuddasa, vippayutte tettiṃsa…pe…  avigate tettiṃsa. (Saṃkhittaṃ.)
+197\. Nahetupaccayā ārammaṇe cuddasa, anantare samanantare cuddasa, sahajāte tettiṁsa, aññamaññe bāvīsa, nissaye tettiṁsa, upanissaye cuddasa, purejāte cha, āsevane pañca, kamme tettiṁsa…pe… jhāne tettiṁsa, magge tīṇi, sampayutte cuddasa, vippayutte tettiṁsa…pe… avigate tettiṁsa. (Saṁkhittaṁ.)
 
-198\. (Yathā kusalattike paccanīyānulomagaṇanā, evaṃ gaṇetabbaṃ.)
-
----
+198\. (Yathā kusalattike paccanīyānulomagaṇanā, evaṁ gaṇetabbaṁ.)
 
 199\. Paṭiccavāro.
 
-
-
-[Go to previous page (7.1.4 Paccayapaccanīyānuloma)](../7.1.4.md) / [Go to parent page (7.1.4 Paccayapaccanīyānuloma)](../7.1.4.md) / [Go to next page (7.2 Sahajātavāra)](../../7.2.md)
-
+[Go to previous page (7.1.4 Paccayapaccanīyānuloma)](../7.1.4.md) / [Go to parent page (7.1.4 Paccayapaccanīyānuloma)](../7.1.4.md) / [Go to next page (7.2 Sahajātavāra)](../../7.2.md)
 

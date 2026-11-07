@@ -17,8 +17,7 @@
 
 (105.)
 
-2118\. Nīvaraṇasampayutto ceva no ca nīvaraṇo dhammo nīvaraṇasampayuttassa ceva no ca nīvaraṇassa dhammassa āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  nava…  atthipaccayena paccayo…  nava…  natthipaccayena paccayo…  nava…  vigatapaccayena paccayo…  nava…  avigatapaccayena paccayo…  nava.
+2118\. Nīvaraṇasampayutto ceva no ca nīvaraṇo dhammo nīvaraṇasampayuttassa ceva no ca nīvaraṇassa dhammassa āhārapaccayena paccayo… tīṇi… indriyapaccayena paccayo… tīṇi… jhānapaccayena paccayo… tīṇi… maggapaccayena paccayo… tīṇi… sampayuttapaccayena paccayo… nava… atthipaccayena paccayo… nava… natthipaccayena paccayo… nava… vigatapaccayena paccayo… nava… avigatapaccayena paccayo… nava.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (8.5.7.1.2 Saṅkhyāvāra)](../8.5.7.1.2.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (8.5.7.1.2 Saṅkhyāvāra)](../8.5.7.1.2.md)
 

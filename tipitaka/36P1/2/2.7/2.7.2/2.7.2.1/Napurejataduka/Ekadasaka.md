@@ -15,14 +15,9 @@
 
 * Ekādasaka
 
-1218\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā…pe…  nanissayapaccayā naupanissayapaccayā napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre pañca, naindriye pañca, najhāne pañca, namagge pañca, nasampayutte pañca, navippayutte tīṇi, noatthiyā dve, nonatthiyā pañca, novigate pañca, noavigate dve. (Saṃkhittaṃ.)
+1218\. Napurejātapaccayā nahetupaccayā naārammaṇapaccayā…pe… nanissayapaccayā naupanissayapaccayā napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre pañca, naindriye pañca, najhāne pañca, namagge pañca, nasampayutte pañca, navippayutte tīṇi, noatthiyā dve, nonatthiyā pañca, novigate pañca, noavigate dve. (Saṁkhittaṁ.)
 
----
-
-1219\. Napurejātamūlakaṃ.
-
-
+1219\. Napurejātamūlakaṁ.
 
 [Go to previous page (Dasaka)](Dasaka.md) / [Go to parent page (Napurejātaduka)](../Napurejataduka.md) / [Go to next page (Napacchājātaduka)](../Napacchajataduka.md)
-
 

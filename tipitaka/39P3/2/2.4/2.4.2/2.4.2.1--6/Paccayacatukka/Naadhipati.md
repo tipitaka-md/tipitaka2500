@@ -17,18 +17,17 @@
 
 (57.)
 
-1380\. Hetuñceva sahetukañca akusalaṃ dhammaṃ paṭicca hetu ceva sahetuko ca akusalo dhammo uppajjati naadhipatipaccayā…  nava. (Saṃkhittaṃ.)
+1380\. Hetuñceva sahetukañca akusalaṁ dhammaṁ paṭicca hetu ceva sahetuko ca akusalo dhammo uppajjati naadhipatipaccayā… nava. (Saṁkhittaṁ.)
 
 (58.)
 
-1381\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+1381\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṁkhittaṁ.)
 
-1382\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+1382\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ.)
 
-1383\. Naadhipatipaccayā hetuyā nava. (Saṃkhittaṃ.)
+1383\. Naadhipatipaccayā hetuyā nava. (Saṁkhittaṁ.)
 
-1384\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1384\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.4.2.7 Pañhāvāra)](../../2.4.2.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.4.2.7 Pañhāvāra)](../../2.4.2.7.md)
 

@@ -17,20 +17,19 @@
 
 (23.)
 
-1516\. Appaṭighaṃ kusalaṃ dhammaṃ paṭicca appaṭigho kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1516\. Appaṭighaṁ kusalaṁ dhammaṁ paṭicca appaṭigho kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (24.)
 
-1517\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  vippayutte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1517\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… vippayutte ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1518\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1518\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (25.)
 
-1519\. Appaṭighaṃ akusalaṃ dhammaṃ paṭicca appaṭigho akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1519\. Appaṭighaṁ akusalaṁ dhammaṁ paṭicca appaṭigho akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1520\. Hetuyā ekaṃ…pe…  avigate ekaṃ (pañhāvārepi sabbattha ekaṃ.)
+1520\. Hetuyā ekaṁ…pe… avigate ekaṁ (pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.4.2 Abyākatapada)](../../../3.4.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.4.2 Abyākatapada)](../../../3.4.2.md)
 

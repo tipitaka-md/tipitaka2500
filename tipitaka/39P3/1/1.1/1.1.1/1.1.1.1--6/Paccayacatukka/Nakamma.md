@@ -17,12 +17,11 @@
 
 (9.)
 
-11\. Hetuṃ kusalaṃ dhammaṃ paṭicca nahetu kusalo dhammo uppajjati nakammapaccayā. (1)
+11\. Hetuṁ kusalaṁ dhammaṁ paṭicca nahetu kusalo dhammo uppajjati nakammapaccayā. (1)
 
-12\. Nahetuṃ kusalaṃ dhammaṃ paṭicca nahetu kusalo dhammo uppajjati nakammapaccayā. (1)
+12\. Nahetuṁ kusalaṁ dhammaṁ paṭicca nahetu kusalo dhammo uppajjati nakammapaccayā. (1)
 
-13\. Hetuṃ kusalañca nahetuṃ kusalañca dhammaṃ paṭicca nahetu kusalo dhammo uppajjati nakammapaccayā. (1)
+13\. Hetuṁ kusalañca nahetuṁ kusalañca dhammaṁ paṭicca nahetu kusalo dhammo uppajjati nakammapaccayā. (1)
 
 [Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Navipākādi)](Navipakadi.md)
-
 

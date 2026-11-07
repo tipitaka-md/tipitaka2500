@@ -17,16 +17,15 @@
 
 (493.)
 
-1095\. Hetuṃ anāgatārammaṇaṃ dhammaṃ paṭicca hetu anāgatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1095\. Hetuṁ anāgatārammaṇaṁ dhammaṁ paṭicca hetu anāgatārammaṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1096\. Nahetuṃ anāgatārammaṇaṃ dhammaṃ paṭicca nahetu anāgatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1096\. Nahetuṁ anāgatārammaṇaṁ dhammaṁ paṭicca nahetu anāgatārammaṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1097\. Hetuṃ anāgatārammaṇañca nahetuṃ anāgatārammaṇañca dhammaṃ paṭicca hetu anāgatārammaṇo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+1097\. Hetuṁ anāgatārammaṇañca nahetuṁ anāgatārammaṇañca dhammaṁ paṭicca hetu anāgatārammaṇo dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (494.)
 
-1098\. Hetuyā nava, ārammaṇe nava…pe…  kamme nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1098\. Hetuyā nava, ārammaṇe nava…pe… kamme nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naadhipati)](Nahetu-naadhipati.md)
-
 

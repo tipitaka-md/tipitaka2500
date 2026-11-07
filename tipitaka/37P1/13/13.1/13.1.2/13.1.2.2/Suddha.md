@@ -15,14 +15,9 @@
 
 (25.)
 
-1951\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā dasa, naanantare pañca, nasamanantare pañca, naaññamaññe naupanissaye pañca, napurejāte dvādasa, napacchājāte terasa, naāsevane terasa, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye najhāne namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Evaṃ gaṇetabbaṃ.)
+1951\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā dasa, naanantare pañca, nasamanantare pañca, naaññamaññe naupanissaye pañca, napurejāte dvādasa, napacchājāte terasa, naāsevane terasa, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye najhāne namagge ekaṁ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Evaṁ gaṇetabbaṁ.)
 
----
+1952\. Paccanīyaṁ.
 
-1952\. Paccanīyaṃ.
-
-
-
-[Go to previous page (13.1.2.2 Saṅkhyāvāra)](../13.1.2.2.md) / [Go to parent page (13.1.2.2 Saṅkhyāvāra)](../13.1.2.2.md) / [Go to next page (13.1.3 Paccayānulomapaccanīya)](../../13.1.3.md)
-
+[Go to previous page (13.1.2.2 Saṅkhyāvāra)](../13.1.2.2.md) / [Go to parent page (13.1.2.2 Saṅkhyāvāra)](../13.1.2.2.md) / [Go to next page (13.1.3 Paccayānulomapaccanīya)](../../13.1.3.md)
 

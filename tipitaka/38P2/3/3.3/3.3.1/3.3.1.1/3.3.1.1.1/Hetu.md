@@ -17,28 +17,27 @@
 
 (48.)
 
-1095\. Āsavasampayuttaṃ dhammaṃ paṭicca āsavasampayutto dhammo uppajjati hetupaccayā—  āsavasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1095\. Āsavasampayuttaṁ dhammaṁ paṭicca āsavasampayutto dhammo uppajjati hetupaccayā— āsavasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1096\. Āsavasampayuttaṃ dhammaṃ paṭicca āsavavippayutto dhammo uppajjati hetupaccayā—  āsavasampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate ( ) khandhe paṭicca moho cittasamuṭṭhānañca rūpaṃ. (2)
+1096\. Āsavasampayuttaṁ dhammaṁ paṭicca āsavavippayutto dhammo uppajjati hetupaccayā— āsavasampayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ, domanassasahagate ( ) khandhe paṭicca moho cittasamuṭṭhānañca rūpaṁ. (2)
 
-1097\. Āsavasampayuttaṃ dhammaṃ paṭicca āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā—  āsavasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ( ) ekaṃ khandhaṃ paṭicca tayo khandhā moho cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1097\. Āsavasampayuttaṁ dhammaṁ paṭicca āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā— āsavasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… domanassasahagataṁ ( ) ekaṁ khandhaṁ paṭicca tayo khandhā moho cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (49.)
 
-1098\. Āsavavippayuttaṃ dhammaṃ paṭicca āsavavippayutto dhammo uppajjati hetupaccayā—  āsavavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+1098\. Āsavavippayuttaṁ dhammaṁ paṭicca āsavavippayutto dhammo uppajjati hetupaccayā— āsavavippayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… domanassasahagataṁ vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-1099\. Āsavavippayuttaṃ dhammaṃ paṭicca āsavasampayutto dhammo uppajjati hetupaccayā—  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
+1099\. Āsavavippayuttaṁ dhammaṁ paṭicca āsavasampayutto dhammo uppajjati hetupaccayā— domanassasahagataṁ vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ paṭicca sampayuttakā khandhā. (2)
 
-1100\. Āsavavippayuttaṃ dhammaṃ paṭicca āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā—  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+1100\. Āsavavippayuttaṁ dhammaṁ paṭicca āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā— domanassasahagataṁ vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
 (50.)
 
-1101\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paṭicca āsavasampayutto dhammo uppajjati hetupaccayā—  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1101\. Āsavasampayuttañca āsavavippayuttañca dhammaṁ paṭicca āsavasampayutto dhammo uppajjati hetupaccayā— domanassasahagataṁ vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca mohañca paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1102\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paṭicca āsavavippayutto dhammo uppajjati hetupaccayā—  āsavasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1102\. Āsavasampayuttañca āsavavippayuttañca dhammaṁ paṭicca āsavavippayutto dhammo uppajjati hetupaccayā— āsavasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ, domanassasahagate vicikicchāsahagate uddhaccasahagate khandhe ca mohañca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1103\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paṭicca āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā—  domanassasahagataṃ vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe… . (3)
+1103\. Āsavasampayuttañca āsavavippayuttañca dhammaṁ paṭicca āsavasampayutto ca āsavavippayutto ca dhammā uppajjanti hetupaccayā— domanassasahagataṁ vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca mohañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ, dve khandhe…pe… . (3)
 
-[Go to previous page (3.3.1.1.1 Vibhaṅgavāra)](../3.3.1.1.1.md) / [Go to parent page (3.3.1.1.1 Vibhaṅgavāra)](../3.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (3.3.1.1.1 Vibhaṅgavāra)](../3.3.1.1.1.md) / [Go to parent page (3.3.1.1.1 Vibhaṅgavāra)](../3.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

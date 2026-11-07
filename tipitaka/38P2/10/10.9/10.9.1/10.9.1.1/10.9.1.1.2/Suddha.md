@@ -19,12 +19,7 @@
 
 3012\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte pañca, āsevane pañca, kamme nava, vipāke nava (sabbattha nava), avigate nava.
 
----
+3013\. Anulomaṁ.
 
-3013\. Anulomaṃ.
-
-
-
-[Go to previous page (10.9.1.1.2 Saṅkhyāvāra)](../10.9.1.1.2.md) / [Go to parent page (10.9.1.1.2 Saṅkhyāvāra)](../10.9.1.1.2.md) / [Go to next page (10.9.1.2 Paccayapaccanīya)](../../10.9.1.2.md)
-
+[Go to previous page (10.9.1.1.2 Saṅkhyāvāra)](../10.9.1.1.2.md) / [Go to parent page (10.9.1.1.2 Saṅkhyāvāra)](../10.9.1.1.2.md) / [Go to next page (10.9.1.2 Paccayapaccanīya)](../../10.9.1.2.md)
 

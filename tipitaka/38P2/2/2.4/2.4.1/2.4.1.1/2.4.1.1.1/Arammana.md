@@ -17,8 +17,7 @@
 
 (56.)
 
-668\. Appaṭighaṃ dhammaṃ paṭicca appaṭigho dhammo uppajjati ārammaṇapaccayā—  appaṭighaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuṃ paṭicca khandhā.
+668\. Appaṭighaṁ dhammaṁ paṭicca appaṭigho dhammo uppajjati ārammaṇapaccayā— appaṭighaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… vatthuṁ paṭicca khandhā.
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.4.1.1.1 Vibhaṅgavāra)](../2.4.1.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.4.1.1.1 Vibhaṅgavāra)](../2.4.1.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
 

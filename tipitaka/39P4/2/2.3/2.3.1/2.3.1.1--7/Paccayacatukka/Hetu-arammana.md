@@ -23,24 +23,23 @@
 
 974\. Abyākato hetusampayutto dhammo abyākatassa hetusampayuttassa dhammassa hetupaccayena paccayo. (1)
 
-975\. Kusalo hetusampayutto dhammo kusalassa hetusampayuttassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+975\. Kusalo hetusampayutto dhammo kusalassa hetusampayuttassa dhammassa ārammaṇapaccayena paccayo… tīṇi.
 
-976\. Akusalo hetusampayutto dhammo akusalassa hetusampayuttassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+976\. Akusalo hetusampayutto dhammo akusalassa hetusampayuttassa dhammassa ārammaṇapaccayena paccayo… tīṇi.
 
-977\. Abyākato hetusampayutto dhammo abyākatassa hetusampayuttassa dhammassa ārammaṇapaccayena paccayo…  tīṇi (Saṃkhittaṃ.)
+977\. Abyākato hetusampayutto dhammo abyākatassa hetusampayuttassa dhammassa ārammaṇapaccayena paccayo… tīṇi (Saṁkhittaṁ.)
 
 (13.)
 
-978\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare pañca, samanantare pañca, sahajāte tīṇi, aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+978\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare pañca, samanantare pañca, sahajāte tīṇi, aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṁ, āhāre…pe… sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-979\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+979\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-980\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+980\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-981\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+981\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-982\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+982\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.3.2 Hetuvippayuttapada)](../../../2.3.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.3.2 Hetuvippayuttapada)](../../../2.3.2.md)
 

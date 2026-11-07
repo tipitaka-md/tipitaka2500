@@ -19,14 +19,13 @@
 
 (58.)
 
-162\. Nasaraṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo. Nasaraṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo…  dve.
+162\. Nasaraṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo. Nasaraṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo… dve.
 
-163\. Naaraṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo. Naaraṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo…  dve. (Saṃkhittaṃ.)
+163\. Naaraṇo dhammo araṇassa dhammassa ārammaṇapaccayena paccayo. Naaraṇo dhammo saraṇassa dhammassa ārammaṇapaccayena paccayo… dve. (Saṁkhittaṁ.)
 
 (59.)
 
-164\. Hetuyā cattāri, ārammaṇe cattāri, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri…pe…  sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme cattāri, vipāke ekaṃ, āhāre indriye jhāne magge cattāri, sampayutte dve, vippayutte tīṇi…pe…  avigate satta.
+164\. Hetuyā cattāri, ārammaṇe cattāri, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri…pe… sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme cattāri, vipāke ekaṁ, āhāre indriye jhāne magge cattāri, sampayutte dve, vippayutte tīṇi…pe… avigate satta.
 
 [Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

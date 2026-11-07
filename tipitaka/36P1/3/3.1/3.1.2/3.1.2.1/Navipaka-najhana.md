@@ -15,12 +15,11 @@
 
 (13.)
 
-1826\. Sukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca sukkhāya vedanāya sampayutto dhammo uppajjati navipākapaccayā…  najhānapaccayā—  sukhasahagataṃ kāyaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
+1826\. Sukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca sukkhāya vedanāya sampayutto dhammo uppajjati navipākapaccayā… najhānapaccayā— sukhasahagataṁ kāyaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
 
-1827\. Dukkhāya vedanāya sampayuttaṃ dhammaṃ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati najhānapaccayā—  dukkhasahagataṃ kāyaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
+1827\. Dukkhāya vedanāya sampayuttaṁ dhammaṁ paṭicca dukkhāya vedanāya sampayutto dhammo uppajjati najhānapaccayā— dukkhasahagataṁ kāyaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
 
-1828\. Adukkhamasukhāya vedanāya sampayuttaṃ dhammaṃ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati najhānapaccayā—  catuviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
+1828\. Adukkhamasukhāya vedanāya sampayuttaṁ dhammaṁ paṭicca adukkhamasukhāya vedanāya sampayutto dhammo uppajjati najhānapaccayā— catuviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho.
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (3.1.2.1 Vibhaṅgavāra)](../3.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
 

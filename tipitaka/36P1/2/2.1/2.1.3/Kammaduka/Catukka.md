@@ -15,12 +15,7 @@
 
 311\. Kammapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-312\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+312\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Kammaduka)](../Kammaduka.md) / [Go to next page (Vipākaduka)](../Vipakaduka.md)
-
 

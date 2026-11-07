@@ -17,12 +17,7 @@
 
 1414\. Nahetupaccayā ārammaṇe nava, adhipatiyā nava (anulomamātikā), avigate nava.
 
----
+1415\. Saññojanadukaṁ niṭṭhitaṁ.
 
-1415\. Saññojanadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (4.1.7.4 Paccayapaccanīyānuloma)](../4.1.7.4.md) / [Go to parent page (4.1.7.4 Paccayapaccanīyānuloma)](../4.1.7.4.md) / [Go to next page (4.2 Saññojaniyaduka)](../../../4.2.md)
-
+[Go to previous page (4.1.7.4 Paccayapaccanīyānuloma)](../4.1.7.4.md) / [Go to parent page (4.1.7.4 Paccayapaccanīyānuloma)](../4.1.7.4.md) / [Go to next page (4.2 Saññojaniyaduka)](../../../4.2.md)
 

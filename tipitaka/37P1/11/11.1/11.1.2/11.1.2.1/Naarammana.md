@@ -15,16 +15,15 @@
 
 (9.)
 
-1445\. Ācayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā—  ācayagāmī khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1445\. Ācayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā— ācayagāmī khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1446\. Apacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā—  apacayagāmī khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1446\. Apacayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā— apacayagāmī khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1447\. Nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā—  nevācayagāmināpacayagāmī khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+1447\. Nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā— nevācayagāmināpacayagāmī khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu…pe… ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… . (1)
 
-1448\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā—  ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1448\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā— ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1449\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1449\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā— apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

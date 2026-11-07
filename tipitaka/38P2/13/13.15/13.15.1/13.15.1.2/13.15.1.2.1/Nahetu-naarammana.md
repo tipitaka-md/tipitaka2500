@@ -17,8 +17,7 @@
 
 (302.)
 
-4717\. Aniyyānikaṃ dhammaṃ paṭicca aniyyāniko dhammo uppajjati nahetupaccayā—  ahetukaṃ aniyyānikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1) Naārammaṇapaccayā…  tīṇi.
+4717\. Aniyyānikaṁ dhammaṁ paṭicca aniyyāniko dhammo uppajjati nahetupaccayā— ahetukaṁ aniyyānikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1) Naārammaṇapaccayā… tīṇi.
 
-[Go to previous page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

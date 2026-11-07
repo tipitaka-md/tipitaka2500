@@ -15,8 +15,7 @@
 
 (35.)
 
-3013\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṃ.)
+3013\. Anidassanaappaṭigho dhammo anidassanaappaṭighassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṁ.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Sahajātādi)](Sahajatadi.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (23.7.1.1 Vibhaṅgavāra)](../23.7.1.1.md) / [Go to next page (Sahajātādi)](Sahajatadi.md)
 

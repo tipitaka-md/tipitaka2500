@@ -15,12 +15,11 @@
 
 (3.)
 
-2449\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati adhipatipaccayā—  anupādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+2449\. Anupādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati adhipatipaccayā— anupādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (1)
 
-2450\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca…  tīṇi.
+2450\. Anupādinnaanupādāniyaṁ dhammaṁ paṭicca… tīṇi.
 
-2451\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati adhipatipaccayā—  anupādinnaanupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2451\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati adhipatipaccayā— anupādinnaanupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

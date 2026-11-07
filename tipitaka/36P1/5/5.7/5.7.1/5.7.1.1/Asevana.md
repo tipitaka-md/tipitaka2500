@@ -15,10 +15,9 @@
 
 (68.)
 
-2678\. Anupādinnupādāniyo dhammo anupādinnupādāniyassa dhammassa āsevanapaccayena paccayo—  purimā purimā anupādinnupādāniyā khandhā pacchimānaṃ pacchimānaṃ anupādinnupādāniyānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa āsevanapaccayena paccayo. (1)
+2678\. Anupādinnupādāniyo dhammo anupādinnupādāniyassa dhammassa āsevanapaccayena paccayo— purimā purimā anupādinnupādāniyā khandhā pacchimānaṁ pacchimānaṁ anupādinnupādāniyānaṁ khandhānaṁ āsevanapaccayena paccayo. Anulomaṁ gotrabhussa… anulomaṁ vodānassa āsevanapaccayena paccayo. (1)
 
-2679\. Anupādinnupādāniyo dhammo anupādinnaanupādāniyassa dhammassa āsevanapaccayena paccayo—  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (2)
+2679\. Anupādinnupādāniyo dhammo anupādinnaanupādāniyassa dhammassa āsevanapaccayena paccayo— gotrabhu maggassa… vodānaṁ maggassa āsevanapaccayena paccayo. (2)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

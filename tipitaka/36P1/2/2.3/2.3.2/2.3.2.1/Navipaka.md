@@ -15,20 +15,15 @@
 
 (148.)
 
-536\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati navipākapaccayā—  kusalaṃ ekaṃ khandhaṃ paccayā…  tīṇi.
+536\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati navipākapaccayā— kusalaṁ ekaṁ khandhaṁ paccayā… tīṇi.
 
-537\. Akusalaṃ dhammaṃ paccayā…  tīṇi.
+537\. Akusalaṁ dhammaṁ paccayā… tīṇi.
 
-538\. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati navipākapaccayā—  kiriyābyākataṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paccayā dve khandhā cittasamuṭṭhānañca rūpaṃ, ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  mahābhūte paccayā kaṭattārūpaṃ upādārūpaṃ, vatthuṃ paccayā kiriyābyākatā khandhā.
+538\. Abyākataṁ dhammaṁ paccayā abyākato dhammo uppajjati navipākapaccayā— kiriyābyākataṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paccayā dve khandhā cittasamuṭṭhānañca rūpaṁ, ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… mahābhūte paccayā kaṭattārūpaṁ upādārūpaṁ, vatthuṁ paccayā kiriyābyākatā khandhā.
 
-539\. Abyākataṃ dhammaṃ paccayā kusalo dhammo uppajjati navipākapaccayā—  vatthuṃ paccayā kusalā khandhā.
+539\. Abyākataṁ dhammaṁ paccayā kusalo dhammo uppajjati navipākapaccayā— vatthuṁ paccayā kusalā khandhā.
 
----
+540\. (Vipākaṁ ṭhapetvā sabbattha vitthāretabbaṁ.)
 
-540\. (Vipākaṃ ṭhapetvā sabbattha vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Naāhārādi)](Naaharadi.md)
 

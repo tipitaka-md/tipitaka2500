@@ -17,10 +17,9 @@
 
 (187.)
 
-510\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa vipākapaccayena paccayo…  tīṇi.
+510\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa vipākapaccayena paccayo… tīṇi.
 
-511\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa vipākapaccayena paccayo…  ekaṃ.
+511\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa vipākapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Āhāra)](Ahara.md)
 

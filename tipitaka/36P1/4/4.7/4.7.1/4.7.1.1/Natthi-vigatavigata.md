@@ -15,8 +15,7 @@
 
 (119.)
 
-2403\. Vipāko dhammo… . (Natthi vigataṃ anantarasadisaṃ, avigataṃ atthisadisaṃ.)
+2403\. Vipāko dhammo… . (Natthi vigataṁ anantarasadisaṁ, avigataṁ atthisadisaṁ.)
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (4.7.1.2 Saṅkhyāvāra)](../4.7.1.2.md)
-
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (4.7.1.2 Saṅkhyāvāra)](../4.7.1.2.md)
 

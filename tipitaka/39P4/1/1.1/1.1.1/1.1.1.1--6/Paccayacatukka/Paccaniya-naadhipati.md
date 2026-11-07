@@ -17,22 +17,21 @@
 
 (4.)
 
-9\. Kusalaṃ hetuṃ dhammaṃ paṭicca kusalo hetu dhammo uppajjati naadhipatipaccayā. (1)
+9\. Kusalaṁ hetuṁ dhammaṁ paṭicca kusalo hetu dhammo uppajjati naadhipatipaccayā. (1)
 
-10\. Akusalaṃ hetuṃ dhammaṃ paṭicca akusalo hetu dhammo uppajjati naadhipatipaccayā. (1)
+10\. Akusalaṁ hetuṁ dhammaṁ paṭicca akusalo hetu dhammo uppajjati naadhipatipaccayā. (1)
 
-11\. Abyākataṃ hetuṃ dhammaṃ paṭicca abyākato hetu dhammo uppajjati naadhipatipaccayā. (1) (Saṃkhittaṃ.)
+11\. Abyākataṁ hetuṁ dhammaṁ paṭicca abyākato hetu dhammo uppajjati naadhipatipaccayā. (1) (Saṁkhittaṁ.)
 
 (5.)
 
-12\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.)
+12\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṁkhittaṁ.)
 
-13\. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+13\. Hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-14\. Naadhipatipaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
+14\. Naadhipatipaccayā hetuyā tīṇi. (Saṁkhittaṁ.)
 
-15\. (Sahajātavārepi paccayavārepi nissayavārepi saṃsaṭṭhavārepi sampayuttavārepi sabbattha tīṇi.)
+15\. (Sahajātavārepi paccayavārepi nissayavārepi saṁsaṭṭhavārepi sampayuttavārepi sabbattha tīṇi.)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.1.7 Pañhāvāra)](../../1.1.1.7.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.1.7 Pañhāvāra)](../../1.1.1.7.md)
 

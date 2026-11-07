@@ -17,14 +17,9 @@
 
 (332.)
 
-1055\. Purejāta atthi avigatanti tīṇi. Purejāta nissaya vippayutta atthi avigatanti tīṇi. Purejāta ārammaṇa atthi avigatanti tīṇi. Purejāta ārammaṇa nissaya vippayutta atthi avigatanti tīṇi. Purejāta ārammaṇādhipati upanissaya atthi avigatanti ekaṃ. Purejāta ārammaṇādhipati nissaya upanissaya vippayutta atthi avigatanti ekaṃ. Purejāta nissaya indriya vippayutta atthi avigatanti ekaṃ.
+1055\. Purejāta atthi avigatanti tīṇi. Purejāta nissaya vippayutta atthi avigatanti tīṇi. Purejāta ārammaṇa atthi avigatanti tīṇi. Purejāta ārammaṇa nissaya vippayutta atthi avigatanti tīṇi. Purejāta ārammaṇādhipati upanissaya atthi avigatanti ekaṁ. Purejāta ārammaṇādhipati nissaya upanissaya vippayutta atthi avigatanti ekaṁ. Purejāta nissaya indriya vippayutta atthi avigatanti ekaṁ.
 
----
-
-1056\. Purejātamūlakaṃ.
-
-
+1056\. Purejātamūlakaṁ.
 
 [Go to previous page (Purejātasabhāga)](Purejatasabhaga.md) / [Go to parent page (Purejāta)](../Purejata.md) / [Go to next page (Pacchājāta)](../Pacchajata.md)
-
 

@@ -13,8 +13,7 @@
 
 * Sattarasaka (saindriya)
 
-1777\. Navippayuttapaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) navipākapaccayā naindriyapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ.
+1777\. Navippayuttapaccayā nahetupaccayā (mūlakaṁ saṁkhittaṁ) navipākapaccayā naindriyapaccayā āhāre ekaṁ, atthiyā ekaṁ, avigate ekaṁ.
 
 [Go to previous page (Bāvīsaka (sāhāra))](avisaka_sahara.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (Bāvīsaka (saindriya))](Bavisaka.md)
-
 

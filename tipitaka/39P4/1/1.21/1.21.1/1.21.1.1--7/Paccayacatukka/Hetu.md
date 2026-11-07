@@ -17,18 +17,17 @@
 
 (231.)
 
-875\. Ajjhattārammaṇaṃ hetuṃ dhammaṃ paṭicca ajjhattārammaṇo hetu dhammo uppajjati hetupaccayā. (1)
+875\. Ajjhattārammaṇaṁ hetuṁ dhammaṁ paṭicca ajjhattārammaṇo hetu dhammo uppajjati hetupaccayā. (1)
 
-876\. Bahiddhārammaṇaṃ hetuṃ dhammaṃ paṭicca bahiddhārammaṇo hetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+876\. Bahiddhārammaṇaṁ hetuṁ dhammaṁ paṭicca bahiddhārammaṇo hetu dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (232.)
 
-877\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+877\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-878\. Naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, navipāke dve, navippayutte dve. (Saṃkhittaṃ.)
+878\. Naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane dve, navipāke dve, navippayutte dve. (Saṁkhittaṁ.)
 
-879\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+879\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

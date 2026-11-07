@@ -15,8 +15,7 @@
 
 * Sattaka
 
-733\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ…pe… .
+733\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṁ, namagge ekaṁ, navippayutte ekaṁ…pe… .
 
 [Go to previous page (Chakka)](Chakka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
-
 

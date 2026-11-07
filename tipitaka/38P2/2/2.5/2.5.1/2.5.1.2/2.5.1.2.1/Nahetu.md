@@ -17,10 +17,9 @@
 
 (97.)
 
-765\. Rūpiṃ dhammaṃ paṭicca rūpī dhammo uppajjati nahetupaccayā…  tīṇi.
+765\. Rūpiṁ dhammaṁ paṭicca rūpī dhammo uppajjati nahetupaccayā… tīṇi.
 
-766\. Arūpiṃ dhammaṃ paṭicca arūpī dhammo uppajjati nahetupaccayā—  ahetukaṃ arūpiṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (Nahetupaccayā nava pañhā, ahetukanti niyāmetabbaṃ.)
+766\. Arūpiṁ dhammaṁ paṭicca arūpī dhammo uppajjati nahetupaccayā— ahetukaṁ arūpiṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (Nahetupaccayā nava pañhā, ahetukanti niyāmetabbaṁ.)
 
-[Go to previous page (2.5.1.2.1 Vibhaṅgavāra)](../2.5.1.2.1.md) / [Go to parent page (2.5.1.2.1 Vibhaṅgavāra)](../2.5.1.2.1.md) / [Go to next page (2.5.1.2.2 Saṅkhyāvāra)](../2.5.1.2.2.md)
-
+[Go to previous page (2.5.1.2.1 Vibhaṅgavāra)](../2.5.1.2.1.md) / [Go to parent page (2.5.1.2.1 Vibhaṅgavāra)](../2.5.1.2.1.md) / [Go to next page (2.5.1.2.2 Saṅkhyāvāra)](../2.5.1.2.2.md)
 

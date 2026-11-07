@@ -15,14 +15,9 @@
 
 (262.)
 
-825\. Nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi. (Saṃkhittaṃ.)
+825\. Nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṁ, namagge ekaṁ, navippayutte tīṇi. (Saṁkhittaṁ.)
 
----
+826\. Paccanīyaṁ.
 
-826\. Paccanīyaṃ.
-
-
-
-[Go to previous page (2.6.2.2 Saṅkhyāvāra)](../2.6.2.2.md) / [Go to parent page (2.6.2.2 Saṅkhyāvāra)](../2.6.2.2.md) / [Go to next page (2.6.3 Paccayānulomapaccanīya)](../../2.6.3.md)
-
+[Go to previous page (2.6.2.2 Saṅkhyāvāra)](../2.6.2.2.md) / [Go to parent page (2.6.2.2 Saṅkhyāvāra)](../2.6.2.2.md) / [Go to next page (2.6.3 Paccayānulomapaccanīya)](../../2.6.3.md)
 

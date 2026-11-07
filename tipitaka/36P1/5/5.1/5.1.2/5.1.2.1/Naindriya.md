@@ -15,10 +15,9 @@
 
 (20.)
 
-2500\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati naindriyapaccayā—  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ. (1)
+2500\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati naindriyapaccayā— asaññasattānaṁ mahābhūte paṭicca rūpajīvitindriyaṁ. (1)
 
-2501\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
+2501\. Anupādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… . (1)
 
-[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
-
+[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
 

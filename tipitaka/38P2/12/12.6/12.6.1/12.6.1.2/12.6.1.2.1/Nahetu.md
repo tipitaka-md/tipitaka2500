@@ -17,12 +17,11 @@
 
 (84.)
 
-4027\. Kilesañceva saṃkiliṭṭhañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca dhammo uppajjati nahetupaccayā—  vicikicchaṃ paṭicca vicikicchāsahagato moho, uddhaccaṃ paṭicca uddhaccasahagato moho. (1)
+4027\. Kilesañceva saṁkiliṭṭhañca dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca dhammo uppajjati nahetupaccayā— vicikicchaṁ paṭicca vicikicchāsahagato moho, uddhaccaṁ paṭicca uddhaccasahagato moho. (1)
 
-4028\. Saṃkiliṭṭhañceva no ca kilesaṃ dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+4028\. Saṁkiliṭṭhañceva no ca kilesaṁ dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-4029\. Kilesañceva saṃkiliṭṭhañca saṃkiliṭṭhañceva no ca kilesañca dhammaṃ paṭicca kileso ceva saṃkiliṭṭho ca dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vicikicchañca uddhaccañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+4029\. Kilesañceva saṁkiliṭṭhañca saṁkiliṭṭhañceva no ca kilesañca dhammaṁ paṭicca kileso ceva saṁkiliṭṭho ca dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe ca vicikicchañca uddhaccañca paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (12.6.1.2.1 Vibhaṅgavāra)](../12.6.1.2.1.md) / [Go to parent page (12.6.1.2.1 Vibhaṅgavāra)](../12.6.1.2.1.md) / [Go to next page (12.6.1.2.2 Saṅkhyāvāra)](../12.6.1.2.2.md)
-
+[Go to previous page (12.6.1.2.1 Vibhaṅgavāra)](../12.6.1.2.1.md) / [Go to parent page (12.6.1.2.1 Vibhaṅgavāra)](../12.6.1.2.1.md) / [Go to next page (12.6.1.2.2 Saṅkhyāvāra)](../12.6.1.2.2.md)
 

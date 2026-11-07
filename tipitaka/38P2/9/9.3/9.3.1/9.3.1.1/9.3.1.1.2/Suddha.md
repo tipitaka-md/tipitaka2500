@@ -17,14 +17,9 @@
 
 (48.)
 
-2218\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca, anantare dve, samanantare dve, sahajāte pañca, aññamaññe dve, nissaye pañca, upanissaye dve, purejāte dve, āsevane dve, kamme pañca, vipāke ekaṃ, āhāre pañca…pe…  magge pañca, sampayutte dve, vippayutte pañca, atthiyā pañca, natthiyā dve, vigate dve, avigate pañca.
+2218\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca, anantare dve, samanantare dve, sahajāte pañca, aññamaññe dve, nissaye pañca, upanissaye dve, purejāte dve, āsevane dve, kamme pañca, vipāke ekaṁ, āhāre pañca…pe… magge pañca, sampayutte dve, vippayutte pañca, atthiyā pañca, natthiyā dve, vigate dve, avigate pañca.
 
----
+2219\. Anulomaṁ.
 
-2219\. Anulomaṃ.
-
-
-
-[Go to previous page (9.3.1.1.2 Saṅkhyāvāra)](../9.3.1.1.2.md) / [Go to parent page (9.3.1.1.2 Saṅkhyāvāra)](../9.3.1.1.2.md) / [Go to next page (9.3.1.2 Paccayapaccanīya)](../../9.3.1.2.md)
-
+[Go to previous page (9.3.1.1.2 Saṅkhyāvāra)](../9.3.1.1.2.md) / [Go to parent page (9.3.1.1.2 Saṅkhyāvāra)](../9.3.1.1.2.md) / [Go to next page (9.3.1.2 Paccayapaccanīya)](../../9.3.1.2.md)
 

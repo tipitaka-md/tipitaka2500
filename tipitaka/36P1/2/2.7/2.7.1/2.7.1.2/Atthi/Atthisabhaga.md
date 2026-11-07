@@ -17,8 +17,7 @@
 
 (379.)
 
-1140\. Atthipaccayā hetuyā satta, ārammaṇe tīṇi, adhipatiyā aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye ekaṃ, purejāte tīṇi, pacchājāte tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, avigate terasa. (18)
+1140\. Atthipaccayā hetuyā satta, ārammaṇe tīṇi, adhipatiyā aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye ekaṁ, purejāte tīṇi, pacchājāte tīṇi, kamme satta, vipāke ekaṁ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, avigate terasa. (18)
 
 [Go to previous page (Atthi)](../Atthi.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Atthimissakaghaṭanā)](Atthimissakaghatana.md)
-
 

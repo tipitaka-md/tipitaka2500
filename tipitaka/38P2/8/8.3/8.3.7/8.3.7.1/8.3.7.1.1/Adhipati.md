@@ -17,16 +17,15 @@
 
 (69.)
 
-2036\. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  rāgaṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; diṭṭhiṃ garuṃ katvā assādeti…pe… . **Sahajātādhipati**—  nīvaraṇasampayuttādhipati nīvaraṇasampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2036\. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— rāgaṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati; diṭṭhiṁ garuṁ katvā assādeti…pe… . Sahajātādhipati— nīvaraṇasampayuttādhipati nīvaraṇasampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2037\. Nīvaraṇasampayutto dhammo nīvaraṇavippayuttassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  nīvaraṇasampayuttādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Nīvaraṇasampayuttādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2037\. Nīvaraṇasampayutto dhammo nīvaraṇavippayuttassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— nīvaraṇasampayuttādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Nīvaraṇasampayuttādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (70.)
 
-2038\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā…pe…  phalaṃ…pe…  nibbānaṃ…pe…  nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  nīvaraṇavippayuttādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+2038\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṁ…pe… ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā…pe… phalaṁ…pe… nibbānaṁ…pe… nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. Sahajātādhipati— nīvaraṇavippayuttādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-2039\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  pubbe…pe…  jhānaṃ…pe…  cakkhuṃ…pe…  vatthuṃ nīvaraṇavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+2039\. Nīvaraṇavippayutto dhammo nīvaraṇasampayuttassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— dānaṁ…pe… sīlaṁ…pe… pubbe…pe… jhānaṁ…pe… cakkhuṁ…pe… vatthuṁ nīvaraṇavippayutte khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

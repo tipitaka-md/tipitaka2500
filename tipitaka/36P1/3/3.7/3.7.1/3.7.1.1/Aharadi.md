@@ -15,8 +15,7 @@
 
 (61.)
 
-1948\. Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa āhārapaccayena paccayo…pe…  indriyapaccayena paccayo…pe…  jhānapaccayena paccayo…pe…  maggapaccayena paccayo…pe…  sampayuttapaccayena paccayo…pe…  atthipaccayena paccayo…pe…  natthipaccayena paccayo…pe…  vigatapaccayena paccayo…pe…  avigatapaccayena paccayo…pe… .
+1948\. Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa āhārapaccayena paccayo…pe… indriyapaccayena paccayo…pe… jhānapaccayena paccayo…pe… maggapaccayena paccayo…pe… sampayuttapaccayena paccayo…pe… atthipaccayena paccayo…pe… natthipaccayena paccayo…pe… vigatapaccayena paccayo…pe… avigatapaccayena paccayo…pe… .
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (3.7.1.2 Saṅkhyāvāra)](../3.7.1.2.md)
 

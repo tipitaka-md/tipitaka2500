@@ -17,10 +17,9 @@
 
 (92.)
 
-248\. Sahetukaṃ dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
+248\. Sahetukaṁ dhammaṁ saṁsaṭṭho ahetuko dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe saṁsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1)
 
-249\. Ahetukaṃ dhammaṃ saṃsaṭṭho ahetuko dhammo uppajjati nahetupaccayā—  ahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.) (1)
+249\. Ahetukaṁ dhammaṁ saṁsaṭṭho ahetuko dhammo uppajjati nahetupaccayā— ahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… (Saṁkhittaṁ.) (1)
 
-[Go to previous page (1.2.5.2.1 Vibhaṅgavāra)](../1.2.5.2.1.md) / [Go to parent page (1.2.5.2.1 Vibhaṅgavāra)](../1.2.5.2.1.md) / [Go to next page (1.2.5.2.2 Saṅkhyāvāra)](../1.2.5.2.2.md)
-
+[Go to previous page (1.2.5.2.1 Vibhaṅgavāra)](../1.2.5.2.1.md) / [Go to parent page (1.2.5.2.1 Vibhaṅgavāra)](../1.2.5.2.1.md) / [Go to next page (1.2.5.2.2 Saṅkhyāvāra)](../1.2.5.2.2.md)
 

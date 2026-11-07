@@ -17,16 +17,15 @@
 
 (174.)
 
-644\. Hīnaṃ hetuṃ dhammaṃ paṭicca hīno hetu dhammo uppajjati hetupaccayā. Majjhimaṃ hetuṃ dhammaṃ paṭicca majjhimo hetu dhammo uppajjati hetupaccayā. Paṇītaṃ hetuṃ dhammaṃ paṭicca paṇīto hetu dhammo uppajjati hetupaccayā. (3) (Saṃkhittaṃ.)
+644\. Hīnaṁ hetuṁ dhammaṁ paṭicca hīno hetu dhammo uppajjati hetupaccayā. Majjhimaṁ hetuṁ dhammaṁ paṭicca majjhimo hetu dhammo uppajjati hetupaccayā. Paṇītaṁ hetuṁ dhammaṁ paṭicca paṇīto hetu dhammo uppajjati hetupaccayā. (3) (Saṁkhittaṁ.)
 
 (175.)
 
-645\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+645\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-646\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.)
+646\. Naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṁkhittaṁ.)
 
-647\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+647\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
-
 

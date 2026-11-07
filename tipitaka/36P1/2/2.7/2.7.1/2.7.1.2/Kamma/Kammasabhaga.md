@@ -17,8 +17,7 @@
 
 (337.)
 
-1063\. Kammapaccayā anantare ekaṃ, samanantare ekaṃ, sahajāte satta, aññamaññe tīṇi, nissaye satta, upanissaye dve, vipāke ekaṃ, āhāre satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, natthiyā ekaṃ, vigate ekaṃ, avigate satta. (14)
+1063\. Kammapaccayā anantare ekaṁ, samanantare ekaṁ, sahajāte satta, aññamaññe tīṇi, nissaye satta, upanissaye dve, vipāke ekaṁ, āhāre satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, natthiyā ekaṁ, vigate ekaṁ, avigate satta. (14)
 
 [Go to previous page (Kamma)](../Kamma.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Kammapakiṇṇakaghaṭanā)](Kammapakinnakaghatana.md)
-
 

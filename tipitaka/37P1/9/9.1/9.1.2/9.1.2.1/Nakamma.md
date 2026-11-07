@@ -15,12 +15,11 @@
 
 (23.)
 
-838\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati nakammapaccayā—  dassanena pahātabbe khandhe paṭicca dassanena pahātabbā cetanā. (1)
+838\. Dassanena pahātabbaṁ dhammaṁ paṭicca dassanena pahātabbo dhammo uppajjati nakammapaccayā— dassanena pahātabbe khandhe paṭicca dassanena pahātabbā cetanā. (1)
 
-839\. Bhāvanāya pahātabbaṃ dhammaṃ paṭicca bhāvanāya pahātabbo dhammo uppajjati nakammapaccayā—  bhāvanāya pahātabbe khandhe paṭicca bhāvanāya pahātabbā cetanā. (1)
+839\. Bhāvanāya pahātabbaṁ dhammaṁ paṭicca bhāvanāya pahātabbo dhammo uppajjati nakammapaccayā— bhāvanāya pahātabbe khandhe paṭicca bhāvanāya pahātabbā cetanā. (1)
 
-840\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nakammapaccayā—  nevadassanena nabhāvanāya pahātabbe khandhe paṭicca nevadassanena nabhāvanāya pahātabbā cetanā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
+840\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nakammapaccayā— nevadassanena nabhāvanāya pahātabbe khandhe paṭicca nevadassanena nabhāvanāya pahātabbā cetanā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… . (1)
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

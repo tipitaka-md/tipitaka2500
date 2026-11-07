@@ -15,8 +15,7 @@
 
 (155.)
 
-553\. Naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā. (Naārammaṇapaccayasadisaṃ.)
+553\. Naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā. (Naārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Catukka)](Naadhipatiduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Napurejātaduka)](Napurejataduka.md)
-
+[Go to previous page (Catukka)](Naadhipatiduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Napurejātaduka)](Napurejataduka.md)
 

@@ -17,12 +17,11 @@
 
 (54.)
 
-2438\. Cittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā—  cittaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (1)
+2438\. Cittaṁ dhammaṁ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā— cittaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (1)
 
-2439\. Nocittaṃ dhammaṃ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā—  nocitte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (2)
+2439\. Nocittaṁ dhammaṁ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā— nocitte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (2)
 
-2440\. Cittañca nocittañca dhammaṃ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā—  cittañca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca kaṭattārūpaṃ, cittañca mahābhūte ca paṭicca kaṭattārūpaṃ. (1)
+2440\. Cittañca nocittañca dhammaṁ paṭicca nocitto dhammo uppajjati naārammaṇapaccayā— cittañca sampayuttake ca khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ, cittañca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe cittañca sampayuttake ca khandhe paṭicca kaṭattārūpaṁ, cittañca mahābhūte ca paṭicca kaṭattārūpaṁ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.2.1.2.1 Vibhaṅgavāra)](../10.2.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

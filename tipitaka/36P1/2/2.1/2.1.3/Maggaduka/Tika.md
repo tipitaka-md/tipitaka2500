@@ -17,4 +17,3 @@
 
 [Go to previous page (Maggaduka)](../Maggaduka.md) / [Go to parent page (Maggaduka)](../Maggaduka.md) / [Go to next page (Catukka)](Catukka.md)
 
-

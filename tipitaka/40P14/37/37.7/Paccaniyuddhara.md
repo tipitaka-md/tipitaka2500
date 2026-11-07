@@ -13,18 +13,17 @@
 
 181\. Saraṇo dhammo nasaraṇassa dhammassa ārammaṇapaccayena paccayo, sahajātapaccayena paccayo, upanissayapaccayena paccayo, pacchājātapaccayena paccayo, kammapaccayena paccayo.
 
-182\. Saraṇo dhammo naaraṇassa dhammassa ārammaṇapaccayena paccayo, sahajātapaccayena paccayo, upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+182\. Saraṇo dhammo naaraṇassa dhammassa ārammaṇapaccayena paccayo, sahajātapaccayena paccayo, upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (57.)
 
-183\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta…pe…  nasahajāte pañca, naaññamaññe nanissaye pañca…pe…  napurejāte cha…pe…  nasampayutte pañca, navippayutte cattāri…pe…  noavigate cattāri.
+183\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta…pe… nasahajāte pañca, naaññamaññe nanissaye pañca…pe… napurejāte cha…pe… nasampayutte pañca, navippayutte cattāri…pe… noavigate cattāri.
 
-184\. Hetupaccayā naārammaṇe cattāri. (Saṃkhittaṃ.)
+184\. Hetupaccayā naārammaṇe cattāri. (Saṁkhittaṁ.)
 
-185\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
+185\. Nahetupaccayā ārammaṇe cattāri. (Saṁkhittaṁ.)
 
-186\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+186\. (Yathā kusalattike pañhāvāraṁ evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (37.7 Pañhāvāra)](../37.7.md) / [Go to parent page (37.7 Pañhāvāra)](../37.7.md)
-
+[Go to previous page (37.7 Pañhāvāra)](../37.7.md) / [Go to parent page (37.7 Pañhāvāra)](../37.7.md)
 

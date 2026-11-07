@@ -19,12 +19,7 @@
 
 4368\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cattāri, vipāke nava, āhāre cattāri, indriye cattāri, jhāne nava, magge nava, sampayutte cha, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
 
----
+4369\. Anulomaṁ.
 
-4369\. Anulomaṃ.
-
-
-
-[Go to previous page (13.5.7.1.2 Saṅkhyāvāra)](../13.5.7.1.2.md) / [Go to parent page (13.5.7.1.2 Saṅkhyāvāra)](../13.5.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (13.5.7.1.2 Saṅkhyāvāra)](../13.5.7.1.2.md) / [Go to parent page (13.5.7.1.2 Saṅkhyāvāra)](../13.5.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

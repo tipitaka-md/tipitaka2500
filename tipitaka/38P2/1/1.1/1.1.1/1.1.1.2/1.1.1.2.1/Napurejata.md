@@ -17,28 +17,27 @@
 
 (8.)
 
-19\. Hetuṃ dhammaṃ paṭicca hetu dhammo uppajjati napurejātapaccayā—  arūpe alobhaṃ paṭicca adoso amoho (cakkaṃ). Lobhaṃ paṭicca moho, mohaṃ paṭicca lobho; paṭisandhikkhaṇe…pe… . (1)
+19\. Hetuṁ dhammaṁ paṭicca hetu dhammo uppajjati napurejātapaccayā— arūpe alobhaṁ paṭicca adoso amoho (cakkaṁ). Lobhaṁ paṭicca moho, mohaṁ paṭicca lobho; paṭisandhikkhaṇe…pe… . (1)
 
-20\. Hetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā—  arūpe hetuṃ paṭicca sampayuttakā khandhā, hetuṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
+20\. Hetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati napurejātapaccayā— arūpe hetuṁ paṭicca sampayuttakā khandhā, hetuṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-21\. Hetuṃ dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā—  arūpe alobhaṃ paṭicca adoso amoho sampayuttakā ca khandhā (cakkaṃ). Lobhaṃ paṭicca moho sampayuttakā ca khandhā (cakkaṃ); paṭisandhikkhaṇe…pe… . (3)
+21\. Hetuṁ dhammaṁ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā— arūpe alobhaṁ paṭicca adoso amoho sampayuttakā ca khandhā (cakkaṁ). Lobhaṁ paṭicca moho sampayuttakā ca khandhā (cakkaṁ); paṭisandhikkhaṇe…pe… . (3)
 
 (9.)
 
-22\. Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  nahetū khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe… . (1)
+22\. Nahetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati napurejātapaccayā— arūpe nahetuṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… nahetū khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ…pe… . (1)
 
-23\. Nahetuṃ dhammaṃ paṭicca hetu dhammo uppajjati napurejātapaccayā—  arūpe nahetū khandhe paṭicca hetū; paṭisandhikkhaṇe…pe… . (2)
+23\. Nahetuṁ dhammaṁ paṭicca hetu dhammo uppajjati napurejātapaccayā— arūpe nahetū khandhe paṭicca hetū; paṭisandhikkhaṇe…pe… . (2)
 
-24\. Nahetuṃ dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhaṃ paṭicca tayo khandhā hetu ca…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+24\. Nahetuṁ dhammaṁ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā— arūpe nahetuṁ ekaṁ khandhaṁ paṭicca tayo khandhā hetu ca…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
 (10.)
 
-25\. Hetuñca nahetuñca dhammaṃ paṭicca hetu dhammo uppajjati napurejātapaccayā—  arūpe alobhañca sampayuttake ca khandhe paṭicca adoso amoho (cakkaṃ). Arūpe lobhañca sampayuttake ca khandhe paṭicca moho (cakkaṃ); paṭisandhikkhaṇe…pe… . (1)
+25\. Hetuñca nahetuñca dhammaṁ paṭicca hetu dhammo uppajjati napurejātapaccayā— arūpe alobhañca sampayuttake ca khandhe paṭicca adoso amoho (cakkaṁ). Arūpe lobhañca sampayuttake ca khandhe paṭicca moho (cakkaṁ); paṭisandhikkhaṇe…pe… . (1)
 
-26\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhañca hetuñca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nahetū khandhe ca hetuñca paṭicca cittasamuṭṭhānaṃ rūpaṃ, hetuñca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
+26\. Hetuñca nahetuñca dhammaṁ paṭicca nahetu dhammo uppajjati napurejātapaccayā— arūpe nahetuṁ ekaṁ khandhañca hetuñca paṭicca tayo khandhā…pe… dve khandhe…pe… nahetū khandhe ca hetuñca paṭicca cittasamuṭṭhānaṁ rūpaṁ, hetuñca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-27\. Hetuñca nahetuñca dhammaṃ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā—  arūpe nahetuṃ ekaṃ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca…pe…  dve khandhe…pe…  (cakkaṃ). Nahetuṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā moho ca (cakkaṃ); paṭisandhikkhaṇe…pe… . (3)
+27\. Hetuñca nahetuñca dhammaṁ paṭicca hetu ca nahetu ca dhammā uppajjanti napurejātapaccayā— arūpe nahetuṁ ekaṁ khandhañca alobhañca paṭicca tayo khandhā adoso amoho ca…pe… dve khandhe…pe… (cakkaṁ). Nahetuṁ ekaṁ khandhañca lobhañca paṭicca tayo khandhā moho ca (cakkaṁ); paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
-
+[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 

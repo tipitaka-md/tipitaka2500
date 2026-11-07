@@ -17,8 +17,7 @@
 
 (541.)
 
-1216\. Nahetuṃ anidassanasappaṭighaṃ dhammaṃ paṭicca nahetu anidassanasappaṭigho dhammo uppajjati hetupaccayā…  adhipatipaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  vippayuttapaccayā…  atthipaccayā…  avigatapaccayā.
+1216\. Nahetuṁ anidassanasappaṭighaṁ dhammaṁ paṭicca nahetu anidassanasappaṭigho dhammo uppajjati hetupaccayā… adhipatipaccayā… sahajātapaccayā… aññamaññapaccayā… nissayapaccayā… kammapaccayā… vipākapaccayā… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… vippayuttapaccayā… atthipaccayā… avigatapaccayā.
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Suddha)](Suddha.md)
-
 

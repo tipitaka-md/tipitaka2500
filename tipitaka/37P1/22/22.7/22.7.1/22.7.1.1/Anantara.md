@@ -15,16 +15,15 @@
 
 (16.)
 
-2900\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā ajjhattārammaṇā khandhā pacchimānaṃ pacchimānaṃ ajjhattārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo. (1)
+2900\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa anantarapaccayena paccayo— purimā purimā ajjhattārammaṇā khandhā pacchimānaṁ pacchimānaṁ ajjhattārammaṇānaṁ khandhānaṁ anantarapaccayena paccayo. (1)
 
-2901\. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa anantarapaccayena paccayo—  ajjhattārammaṇaṃ cuticittaṃ bahiddhārammaṇassa upapatticittassa anantarapaccayena paccayo. Ajjhattārammaṇaṃ bhavaṅgaṃ bahiddhārammaṇāya āvajjanāya anantarapaccayena paccayo. Ajjhattārammaṇā khandhā bahiddhārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. Ajjhattārammaṇaṃ anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  anulomaṃ phalasamāpattiyā…  nirodhā vuṭṭhahantassa…  nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (2)
+2901\. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa anantarapaccayena paccayo— ajjhattārammaṇaṁ cuticittaṁ bahiddhārammaṇassa upapatticittassa anantarapaccayena paccayo. Ajjhattārammaṇaṁ bhavaṅgaṁ bahiddhārammaṇāya āvajjanāya anantarapaccayena paccayo. Ajjhattārammaṇā khandhā bahiddhārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. Ajjhattārammaṇaṁ anulomaṁ gotrabhussa… anulomaṁ vodānassa… anulomaṁ phalasamāpattiyā… nirodhā vuṭṭhahantassa… nevasaññānāsaññāyatanaṁ phalasamāpattiyā anantarapaccayena paccayo. (2)
 
 (17.)
 
-2902\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā bahiddhārammaṇā khandhā pacchimānaṃ pacchimānaṃ bahiddhārammaṇānaṃ khandhānaṃ anantarapaccayena paccayo. Bahiddhārammaṇaṃ anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa…  maggo phalassa…  phalaṃ phalassa…  anulomaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)
+2902\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa anantarapaccayena paccayo— purimā purimā bahiddhārammaṇā khandhā pacchimānaṁ pacchimānaṁ bahiddhārammaṇānaṁ khandhānaṁ anantarapaccayena paccayo. Bahiddhārammaṇaṁ anulomaṁ gotrabhussa… anulomaṁ vodānassa… gotrabhu maggassa… vodānaṁ maggassa… maggo phalassa… phalaṁ phalassa… anulomaṁ phalasamāpattiyā anantarapaccayena paccayo. (1)
 
-2903\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa anantarapaccayena paccayo—  bahiddhārammaṇaṃ cuticittaṃ ajjhattārammaṇassa upapatticittassa anantarapaccayena paccayo. Bahiddhārammaṇaṃ bhavaṅgaṃ ajjhattārammaṇāya āvajjanāya anantarapaccayena paccayo. Bahiddhārammaṇā khandhā ajjhattārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
+2903\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa anantarapaccayena paccayo— bahiddhārammaṇaṁ cuticittaṁ ajjhattārammaṇassa upapatticittassa anantarapaccayena paccayo. Bahiddhārammaṇaṁ bhavaṅgaṁ ajjhattārammaṇāya āvajjanāya anantarapaccayena paccayo. Bahiddhārammaṇā khandhā ajjhattārammaṇassa vuṭṭhānassa anantarapaccayena paccayo. (2)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 

@@ -15,24 +15,19 @@
 
 (483.)
 
-1068\. Hetu paccuppanno dhammo hetussa paccuppannassa dhammassa sahajātapaccayena paccayo. (Saṃkhittaṃ.)
+1068\. Hetu paccuppanno dhammo hetussa paccuppannassa dhammassa sahajātapaccayena paccayo. (Saṁkhittaṁ.)
 
 (484.)
 
-1069\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1069\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1070\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1070\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1071\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+1071\. Nahetupaccayā ārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1072\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ. Imamhi dukatike paṭiccavārampi sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi atītampi anāgatampi natthi.)
+1072\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ. Imamhi dukatike paṭiccavārampi sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi atītampi anāgatampi natthi.)
 
----
+1073\. Hetudukaatītattikaṁ niṭṭhitaṁ.
 
-1073\. Hetudukaatītattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.18.1.7 Pañhāvāra)](../1.18.1.7.md) / [Go to next page (1.19 Hetuduka, Atītārammaṇattika)](../../../1.19.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.18.1.7 Pañhāvāra)](../1.18.1.7.md) / [Go to next page (1.19 Hetuduka, Atītārammaṇattika)](../../../1.19.md)
 

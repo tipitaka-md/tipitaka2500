@@ -17,24 +17,15 @@
 
 (90.)
 
-2312\. Parāmāsavippayuttaṃ parāmaṭṭhaṃ dhammaṃ paṭicca parāmāsavippayutto parāmaṭṭho dhammo uppajjati hetupaccayā—  parāmāsavippayuttaṃ parāmaṭṭhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… .
+2312\. Parāmāsavippayuttaṁ parāmaṭṭhaṁ dhammaṁ paṭicca parāmāsavippayutto parāmaṭṭho dhammo uppajjati hetupaccayā— parāmāsavippayuttaṁ parāmaṭṭhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… .
 
-2313\. Parāmāsavippayuttaṃ aparāmaṭṭhaṃ dhammaṃ paṭicca parāmāsavippayutto aparāmaṭṭho dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2313\. Parāmāsavippayuttaṁ aparāmaṭṭhaṁ dhammaṁ paṭicca parāmāsavippayutto aparāmaṭṭho dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2314\. (Yathā cūḷantaraduke lokiyadukaṃ, evaṃ kātabbaṃ ninnānākaraṇaṃ.)
+2314\. (Yathā cūḷantaraduke lokiyadukaṁ, evaṁ kātabbaṁ ninnānākaraṇaṁ.)
 
----
+2315\. Parāmāsavippayuttaparāmaṭṭhadukaṁ niṭṭhitaṁ.
 
-2315\. Parāmāsavippayuttaparāmaṭṭhadukaṃ niṭṭhitaṃ.
+2316\. Parāmāsagocchakaṁ niṭṭhitaṁ.
 
-
-
----
-
-2316\. Parāmāsagocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (9.5.1--7.1--4.1 Vibhaṅgavāra)](../9.5.1--7.1--4.1.md) / [Go to parent page (9.5.1--7.1--4.1 Vibhaṅgavāra)](../9.5.1--7.1--4.1.md) / [Go to next page (10 Mahantaraduka)](../../../../../10.md)
-
+[Go to previous page (9.5.1--7.1--4.1 Vibhaṅgavāra)](../9.5.1--7.1--4.1.md) / [Go to parent page (9.5.1--7.1--4.1 Vibhaṅgavāra)](../9.5.1--7.1--4.1.md) / [Go to next page (10 Mahantaraduka)](../../../../../10.md)
 

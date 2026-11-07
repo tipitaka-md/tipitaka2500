@@ -17,12 +17,11 @@
 
 (119.)
 
-2608\. Cetasiko dhammo cetasikassa dhammassa hetupaccayena paccayo—  cetasikā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+2608\. Cetasiko dhammo cetasikassa dhammassa hetupaccayena paccayo— cetasikā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-2609\. Cetasiko dhammo acetasikassa dhammassa hetupaccayena paccayo—  cetasikā hetū cittassa cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
+2609\. Cetasiko dhammo acetasikassa dhammassa hetupaccayena paccayo— cetasikā hetū cittassa cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (2)
 
-2610\. Cetasiko dhammo cetasikassa ca acetasikassa ca dhammassa hetupaccayena paccayo—  cetasikā hetū sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
+2610\. Cetasiko dhammo cetasikassa ca acetasikassa ca dhammassa hetupaccayena paccayo— cetasikā hetū sampayuttakānaṁ khandhānaṁ cittassa ca cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

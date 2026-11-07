@@ -17,14 +17,13 @@
 
 (9.)
 
-4074\. Dassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe paccayā vicikicchāsahagato moho. (1)
+4074\. Dassanena pahātabbaṁ dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe paccayā vicikicchāsahagato moho. (1)
 
-4075\. Nadassanena pahātabbaṃ dhammaṃ paccayā nadassanena pahātabbo dhammo uppajjati nahetupaccayā—  ahetukaṃ nadassanena pahātabbaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ; vatthuṃ paccayā ahetukā nadassanena pahātabbā khandhā, uddhaccasahagate khandhe paccayā uddhaccasahagato moho, vatthuṃ paccayā uddhaccasahagato moho. (1)
+4075\. Nadassanena pahātabbaṁ dhammaṁ paccayā nadassanena pahātabbo dhammo uppajjati nahetupaccayā— ahetukaṁ nadassanena pahātabbaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… (yāva asaññasattā) cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ; vatthuṁ paccayā ahetukā nadassanena pahātabbā khandhā, uddhaccasahagate khandhe paccayā uddhaccasahagato moho, vatthuṁ paccayā uddhaccasahagato moho. (1)
 
-4076\. Nadassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato moho. (2)
+4076\. Nadassanena pahātabbaṁ dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā— vatthuṁ paccayā vicikicchāsahagato moho. (2)
 
-4077\. Dassanena pahātabbañca nadassanena pahātabbañca dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe ca vatthuñca paccayā vicikicchāsahagato moho. (1)
+4077\. Dassanena pahātabbañca nadassanena pahātabbañca dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe ca vatthuñca paccayā vicikicchāsahagato moho. (1)
 
-[Go to previous page (13.1.3.2.1 Vibhaṅgavāra)](../13.1.3.2.1.md) / [Go to parent page (13.1.3.2.1 Vibhaṅgavāra)](../13.1.3.2.1.md) / [Go to next page (13.1.3.2.2 Saṅkhyāvāra)](../13.1.3.2.2.md)
-
+[Go to previous page (13.1.3.2.1 Vibhaṅgavāra)](../13.1.3.2.1.md) / [Go to parent page (13.1.3.2.1 Vibhaṅgavāra)](../13.1.3.2.1.md) / [Go to next page (13.1.3.2.2 Saṅkhyāvāra)](../13.1.3.2.2.md)
 

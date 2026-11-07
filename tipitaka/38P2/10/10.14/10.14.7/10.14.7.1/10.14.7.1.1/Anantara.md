@@ -17,16 +17,15 @@
 
 (449.)
 
-3454\. Upādinno dhammo upādinnassa dhammassa anantarapaccayena paccayo—  purimā purimā upādinnā khandhā pacchimānaṃ pacchimānaṃ upādinnānaṃ khandhānaṃ anantarapaccayena paccayo. Pañcaviññāṇaṃ vipākamanodhātuyā anantarapaccayena paccayo. Vipākamanodhātu vipākamanoviññāṇadhātuyā anantarapaccayena paccayo. (1)
+3454\. Upādinno dhammo upādinnassa dhammassa anantarapaccayena paccayo— purimā purimā upādinnā khandhā pacchimānaṁ pacchimānaṁ upādinnānaṁ khandhānaṁ anantarapaccayena paccayo. Pañcaviññāṇaṁ vipākamanodhātuyā anantarapaccayena paccayo. Vipākamanodhātu vipākamanoviññāṇadhātuyā anantarapaccayena paccayo. (1)
 
-3455\. Upādinno dhammo anupādinnassa dhammassa anantarapaccayena paccayo—  bhavaṅgaṃ āvajjanāya, vipākamanoviññāṇadhātu kiriyamanoviññāṇadhātuyā anantarapaccayena paccayo. (2)
+3455\. Upādinno dhammo anupādinnassa dhammassa anantarapaccayena paccayo— bhavaṅgaṁ āvajjanāya, vipākamanoviññāṇadhātu kiriyamanoviññāṇadhātuyā anantarapaccayena paccayo. (2)
 
 (450.)
 
-3456\. Anupādinno dhammo anupādinnassa dhammassa anantarapaccayena paccayo—  purimā purimā anupādinnā khandhā pacchimānaṃ pacchimānaṃ anupādinnānaṃ khandhānaṃ anantarapaccayena paccayo, anulomaṃ gotrabhussa…pe…  phalasamāpattiyā anantarapaccayena paccayo. (1)
+3456\. Anupādinno dhammo anupādinnassa dhammassa anantarapaccayena paccayo— purimā purimā anupādinnā khandhā pacchimānaṁ pacchimānaṁ anupādinnānaṁ khandhānaṁ anantarapaccayena paccayo, anulomaṁ gotrabhussa…pe… phalasamāpattiyā anantarapaccayena paccayo. (1)
 
-3457\. Anupādinno dhammo upādinnassa dhammassa anantarapaccayena paccayo—  āvajjanā pañcannaṃ viññāṇānaṃ…pe…  anupādinnā khandhā vuṭṭhānassa anantarapaccayena paccayo…  samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  pañca (paṭiccasadisā)…  aññamaññapaccayena paccayo…  dve (paṭiccasadisā)…  nissayapaccayena paccayo (paccayavāre nissayasadisā) pañca.
+3457\. Anupādinno dhammo upādinnassa dhammassa anantarapaccayena paccayo— āvajjanā pañcannaṁ viññāṇānaṁ…pe… anupādinnā khandhā vuṭṭhānassa anantarapaccayena paccayo… samanantarapaccayena paccayo… sahajātapaccayena paccayo… pañca (paṭiccasadisā)… aññamaññapaccayena paccayo… dve (paṭiccasadisā)… nissayapaccayena paccayo (paccayavāre nissayasadisā) pañca.
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](../10.14.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](../10.14.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

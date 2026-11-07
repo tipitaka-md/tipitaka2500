@@ -21,24 +21,23 @@
 
 558\. Nevasekkhanāsekkho nahetu dhammo nevasekkhanāsekkhassa nahetussa dhammassa ārammaṇapaccayena paccayo. Nevasekkhanāsekkho nahetu dhammo sekkhassa nahetussa dhammassa ārammaṇapaccayena paccayo. Nevasekkhanāsekkho nahetu dhammo asekkhassa nahetussa dhammassa ārammaṇapaccayena paccayo. (3)
 
-559\. Sekkho nahetu dhammo sekkhassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+559\. Sekkho nahetu dhammo sekkhassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
-560\. Asekkho nahetu dhammo asekkhassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+560\. Asekkho nahetu dhammo asekkhassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
-561\. Nevasekkhanāsekkho nahetu dhammo nevasekkhanāsekkhassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+561\. Nevasekkhanāsekkho nahetu dhammo nevasekkhanāsekkhassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (157.)
 
-562\. Ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha, samanantare aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte pacchājāte tīṇi, āsevane dve, kamme aṭṭha, vipāke satta, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
+562\. Ārammaṇe pañca, adhipatiyā nava, anantare aṭṭha, samanantare aṭṭha, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye aṭṭha, purejāte pacchājāte tīṇi, āsevane dve, kamme aṭṭha, vipāke satta, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe… avigate terasa. (Saṁkhittaṁ.)
 
-563\. Nahetuyā cuddasa, naārammaṇe cuddasa. (Saṃkhittaṃ.)
+563\. Nahetuyā cuddasa, naārammaṇe cuddasa. (Saṁkhittaṁ.)
 
-564\. Ārammaṇapaccayā nahetuyā pañca. (Saṃkhittaṃ.)
+564\. Ārammaṇapaccayā nahetuyā pañca. (Saṁkhittaṁ.)
 
-565\. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
+565\. Nahetupaccayā ārammaṇe pañca. (Saṁkhittaṁ.)
 
-566\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+566\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.11.2.7 Pañhāvāra)](../1.11.2.7.md) / [Go to parent page (1.11.2.7 Pañhāvāra)](../1.11.2.7.md) / [Go to next page (1.12 Parittattika, Hetuduka)](../../../1.12.md)
-
+[Go to previous page (1.11.2.7 Pañhāvāra)](../1.11.2.7.md) / [Go to parent page (1.11.2.7 Pañhāvāra)](../1.11.2.7.md) / [Go to next page (1.12 Parittattika, Hetuduka)](../../../1.12.md)
 

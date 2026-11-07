@@ -17,18 +17,17 @@
 
 (332.)
 
-692\. Hetuṃ sekkhaṃ dhammaṃ paṭicca hetu sekkho dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+692\. Hetuṁ sekkhaṁ dhammaṁ paṭicca hetu sekkho dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (333.)
 
 693\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava.
 
-694\. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
+694\. Hetupaccayā naadhipatiyā cha. (Saṁkhittaṁ.)
 
-695\. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
+695\. Naadhipatipaccayā hetuyā cha. (Saṁkhittaṁ.)
 
-696\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+696\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.11.1.7 Pañhāvāra)](../../1.11.1.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.11.1.7 Pañhāvāra)](../../1.11.1.7.md)
 

@@ -13,16 +13,15 @@
 
 (139.)
 
-353\. Nasaraṇaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca araṇo sanidassanasappaṭigho dhammo uppajjati nahetupaccayā…  ekaṃ.
+353\. Nasaraṇaṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca araṇo sanidassanasappaṭigho dhammo uppajjati nahetupaccayā… ekaṁ.
 
-354\. Nasaraṇaṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca araṇo sanidassanasappaṭigho dhammo uppajjati naārammaṇapaccayā…  tīṇi. (Saṃkhittaṃ.) Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe…  nakamme ekaṃ, naāhāre naindriye najhāne namagge ekaṃ…pe…  novigate tīṇi.
+354\. Nasaraṇaṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca araṇo sanidassanasappaṭigho dhammo uppajjati naārammaṇapaccayā… tīṇi. (Saṁkhittaṁ.) Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe… nakamme ekaṁ, naāhāre naindriye najhāne namagge ekaṁ…pe… novigate tīṇi.
 
-355\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+355\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-356\. Naārammaṇapaccayā hetuyā tīṇi. (Saṃkhittaṃ.)
+356\. Naārammaṇapaccayā hetuyā tīṇi. (Saṁkhittaṁ.)
 
-357\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi vitthāretabbaṃ.)
+357\. (Sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi vitthāretabbaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (55.7 Pañhāvāra)](../../55.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (55.7 Pañhāvāra)](../../55.7.md)
 

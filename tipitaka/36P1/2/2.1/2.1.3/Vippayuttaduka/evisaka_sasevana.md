@@ -13,8 +13,7 @@
 
 * Tevīsaka (sāsevana)
 
-342\. Vippayuttapaccayā hetupaccayā…pe…  purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte tīṇi, navipāke tīṇi.
+342\. Vippayuttapaccayā hetupaccayā…pe… purejātapaccayā āsevanapaccayā kammapaccayā āhārapaccayā…pe… avigatapaccayā napacchājāte tīṇi, navipāke tīṇi.
 
 [Go to previous page (Dvādasaka)](Dvadasaka.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Cuddasaka (savipāka))](uddasaka_savipaka.md)
-
 

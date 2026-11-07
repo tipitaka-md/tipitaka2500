@@ -15,14 +15,9 @@
 
 (28.)
 
-2323\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  kamme tīṇi, vipāke ekaṃ, āhāre tīṇi…pe…  avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+2323\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… kamme tīṇi, vipāke ekaṁ, āhāre tīṇi…pe… avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+2324\. Anulomaṁ.
 
-2324\. Anulomaṃ.
-
-
-
-[Go to previous page (16.5.1.2 Saṅkhyāvāra)](../16.5.1.2.md) / [Go to parent page (16.5.1.2 Saṅkhyāvāra)](../16.5.1.2.md) / [Go to next page (16.5.2 Paccayapaccanīya)](../../16.5.2.md)
-
+[Go to previous page (16.5.1.2 Saṅkhyāvāra)](../16.5.1.2.md) / [Go to parent page (16.5.1.2 Saṅkhyāvāra)](../16.5.1.2.md) / [Go to next page (16.5.2 Paccayapaccanīya)](../../16.5.2.md)
 

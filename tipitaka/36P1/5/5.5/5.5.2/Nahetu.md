@@ -13,18 +13,13 @@
 
 (49.)
 
-2596\. Upādinnupādāniyaṃ dhammaṃ saṃsaṭṭho upādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetukaṃ upādinnupādāniyaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe…pe… . (1)
+2596\. Upādinnupādāniyaṁ dhammaṁ saṁsaṭṭho upādinnupādāniyo dhammo uppajjati nahetupaccayā— ahetukaṁ upādinnupādāniyaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā; ahetukapaṭisandhikkhaṇe…pe… . (1)
 
-2597\. Anupādinnupādāniyaṃ dhammaṃ saṃsaṭṭho anupādinnupādāniyo dhammo uppajjati nahetupaccayā—  ahetukaṃ anupādinnupādāniyaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā; vicikicchāsahagate uddhaccasahagate khandhe saṃsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1) (Saṃkhittaṃ.)
+2597\. Anupādinnupādāniyaṁ dhammaṁ saṁsaṭṭho anupādinnupādāniyo dhammo uppajjati nahetupaccayā— ahetukaṁ anupādinnupādāniyaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā; vicikicchāsahagate uddhaccasahagate khandhe saṁsaṭṭho vicikicchāsahagato uddhaccasahagato moho. (1) (Saṁkhittaṁ.)
 
-2598\. Nahetuyā dve, na adhipatiyā tīṇi…pe…  navippayutte tīṇi. (Saṃkhittaṃ.)
+2598\. Nahetuyā dve, na adhipatiyā tīṇi…pe… navippayutte tīṇi. (Saṁkhittaṁ.)
 
----
+2599\. Paccanīyaṁ
 
-2599\. Paccanīyaṃ
-
-
-
-[Go to previous page (5.5.2 Paccayapaccanīya)](../5.5.2.md) / [Go to parent page (5.5.2 Paccayapaccanīya)](../5.5.2.md) / [Go to next page (5.5.3 Paccayānulomapaccanīya)](../5.5.3.md)
-
+[Go to previous page (5.5.2 Paccayapaccanīya)](../5.5.2.md) / [Go to parent page (5.5.2 Paccayapaccanīya)](../5.5.2.md) / [Go to next page (5.5.3 Paccayānulomapaccanīya)](../5.5.3.md)
 

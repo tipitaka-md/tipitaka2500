@@ -15,14 +15,9 @@
 
 (8.)
 
-2884\. Nahetuyā dve, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane nakamme navipāke najhāne namagge navippayutte dve. (Evaṃ gaṇetabbaṃ.)
+2884\. Nahetuyā dve, naadhipatiyā dve, napurejāte dve, napacchājāte dve, naāsevane nakamme navipāke najhāne namagge navippayutte dve. (Evaṁ gaṇetabbaṁ.)
 
----
+2885\. Paccanīyaṁ.
 
-2885\. Paccanīyaṃ.
-
-
-
-[Go to previous page (22.1.2.2 Saṅkhyāvāra)](../22.1.2.2.md) / [Go to parent page (22.1.2.2 Saṅkhyāvāra)](../22.1.2.2.md) / [Go to next page (22.1.3 Paccayānulomapaccanīya)](../../22.1.3.md)
-
+[Go to previous page (22.1.2.2 Saṅkhyāvāra)](../22.1.2.2.md) / [Go to parent page (22.1.2.2 Saṅkhyāvāra)](../22.1.2.2.md) / [Go to next page (22.1.3 Paccayānulomapaccanīya)](../../22.1.3.md)
 

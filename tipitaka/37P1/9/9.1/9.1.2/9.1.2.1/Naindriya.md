@@ -15,8 +15,7 @@
 
 (26.)
 
-843\. Nevadassanena nabhāvanāya pahātabbaṃ…pe…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ.
+843\. Nevadassanena nabhāvanāya pahātabbaṁ…pe… naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… ekaṁ mahābhūtaṁ…pe… asaññasattānaṁ mahābhūte paṭicca rūpajīvitindriyaṁ.
 
-[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
-
+[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
 

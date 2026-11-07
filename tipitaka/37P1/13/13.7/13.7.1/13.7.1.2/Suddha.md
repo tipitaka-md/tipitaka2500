@@ -15,14 +15,9 @@
 
 (87.)
 
-2133\. Hetuyā satta, ārammaṇe satta, adhipatiyā satta, anantare nava, samanantare nava, sahajāte ekādasa, aññamaññe satta, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane cattāri, kamme satta, vipāke āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā nava, vigate nava, avigate terasa. (Evaṃ gaṇetabbaṃ.)
+2133\. Hetuyā satta, ārammaṇe satta, adhipatiyā satta, anantare nava, samanantare nava, sahajāte ekādasa, aññamaññe satta, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane cattāri, kamme satta, vipāke āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā nava, vigate nava, avigate terasa. (Evaṁ gaṇetabbaṁ.)
 
----
+2134\. Anulomaṁ.
 
-2134\. Anulomaṃ.
-
-
-
-[Go to previous page (13.7.1.2 Saṅkhyāvāra)](../13.7.1.2.md) / [Go to parent page (13.7.1.2 Saṅkhyāvāra)](../13.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (13.7.1.2 Saṅkhyāvāra)](../13.7.1.2.md) / [Go to parent page (13.7.1.2 Saṅkhyāvāra)](../13.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

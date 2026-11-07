@@ -15,8 +15,7 @@
 
 (7.)
 
-2638\. Paccuppanno dhammo paccuppannassa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo. (Saṃkhittaṃ.) (1)
+2638\. Paccuppanno dhammo paccuppannassa dhammassa sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Samanantara)](Samanantara.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Samanantara)](Samanantara.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

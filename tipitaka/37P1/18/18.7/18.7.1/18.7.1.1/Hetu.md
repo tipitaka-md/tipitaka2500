@@ -15,8 +15,7 @@
 
 (1.)
 
-2595\. Uppanno dhammo uppannassa dhammassa hetupaccayena paccayo—  uppannā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe uppannā hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
+2595\. Uppanno dhammo uppannassa dhammassa hetupaccayena paccayo— uppannā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. Paṭisandhikkhaṇe uppannā hetū sampayuttakānaṁ khandhānaṁ kaṭattā ca rūpānaṁ hetupaccayena paccayo. (1)
 
-[Go to previous page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

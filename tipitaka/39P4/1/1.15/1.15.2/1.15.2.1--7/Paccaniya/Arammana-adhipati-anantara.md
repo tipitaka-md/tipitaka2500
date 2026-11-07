@@ -25,7 +25,7 @@
 
 (190.)
 
-707\. Micchattaniyato nahetu dhammo micchattaniyatassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+707\. Micchattaniyato nahetu dhammo micchattaniyatassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
 708\. Sammattaniyato nahetu dhammo sammattaniyatassa nahetussa dhammassa adhipatipaccayena paccayo. Sammattaniyato nahetu dhammo aniyatassa nahetussa dhammassa adhipatipaccayena paccayo. Sammattaniyato nahetu dhammo sammattaniyatassa nahetussa ca aniyatassa nahetussa ca dhammassa adhipatipaccayena paccayo. (3)
 
@@ -35,20 +35,19 @@
 
 711\. Sammattaniyato nahetu dhammo aniyatassa nahetussa dhammassa anantarapaccayena paccayo. (1)
 
-712\. Aniyato nahetu dhammo aniyatassa nahetussa dhammassa anantarapaccayena paccayo. Aniyato nahetu dhammo micchattaniyatassa nahetussa dhammassa anantarapaccayena paccayo. Aniyato nahetu dhammo sammattaniyatassa nahetussa dhammassa anantarapaccayena paccayo. (3) (Saṃkhittaṃ.)
+712\. Aniyato nahetu dhammo aniyatassa nahetussa dhammassa anantarapaccayena paccayo. Aniyato nahetu dhammo micchattaniyatassa nahetussa dhammassa anantarapaccayena paccayo. Aniyato nahetu dhammo sammattaniyatassa nahetussa dhammassa anantarapaccayena paccayo. (3) (Saṁkhittaṁ.)
 
 (191.)
 
-713\. Ārammaṇe pañca, adhipatiyā aṭṭha, anantare pañca, samanantare pañca, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye satta, purejāte pacchājāte āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe…  avigate terasa. (Saṃkhittaṃ.)
+713\. Ārammaṇe pañca, adhipatiyā aṭṭha, anantare pañca, samanantare pañca, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye satta, purejāte pacchājāte āsevane tīṇi, kamme satta, vipāke ekaṁ, āhāre indriye jhāne magge satta, sampayutte tīṇi, vippayutte pañca…pe… avigate terasa. (Saṁkhittaṁ.)
 
-714\. Nahetuyā terasa, naārammaṇe terasa, naadhipatiyā terasa. (Saṃkhittaṃ.)
+714\. Nahetuyā terasa, naārammaṇe terasa, naadhipatiyā terasa. (Saṁkhittaṁ.)
 
-715\. Ārammaṇapaccayā nahetuyā pañca. (Saṃkhittaṃ.)
+715\. Ārammaṇapaccayā nahetuyā pañca. (Saṁkhittaṁ.)
 
-716\. Nahetupaccayā ārammaṇe pañca. (Saṃkhittaṃ.)
+716\. Nahetupaccayā ārammaṇe pañca. (Saṁkhittaṁ.)
 
-717\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+717\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.16 Maggārammaṇattika, Hetuduka)](../../../../1.16.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.16 Maggārammaṇattika, Hetuduka)](../../../../1.16.md)
 

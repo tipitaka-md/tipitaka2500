@@ -17,16 +17,15 @@
 
 (16.)
 
-1925\. Nīvaraṇaṃ dhammaṃ paccayā nīvaraṇo dhammo uppajjati nahetupaccayā—  vicikicchānīvaraṇaṃ paccayā avijjānīvaraṇaṃ, uddhaccanīvaraṇaṃ paccayā avijjānīvaraṇaṃ. (1)
+1925\. Nīvaraṇaṁ dhammaṁ paccayā nīvaraṇo dhammo uppajjati nahetupaccayā— vicikicchānīvaraṇaṁ paccayā avijjānīvaraṇaṁ, uddhaccanīvaraṇaṁ paccayā avijjānīvaraṇaṁ. (1)
 
-1926\. Nonīvaraṇaṃ dhammaṃ paccayā nonīvaraṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ nonīvaraṇaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā nonīvaraṇā khandhā. (1)
+1926\. Nonīvaraṇaṁ dhammaṁ paccayā nonīvaraṇo dhammo uppajjati nahetupaccayā— ahetukaṁ nonīvaraṇaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… (yāva asaññasattā) cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā nonīvaraṇā khandhā. (1)
 
-1927\. Nonīvaraṇaṃ dhammaṃ paccayā nīvaraṇo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paccayā avijjānīvaraṇaṃ, vatthuṃ paccayā avijjānīvaraṇaṃ. (2)
+1927\. Nonīvaraṇaṁ dhammaṁ paccayā nīvaraṇo dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paccayā avijjānīvaraṇaṁ, vatthuṁ paccayā avijjānīvaraṇaṁ. (2)
 
 (17.)
 
-1928\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nīvaraṇo dhammo uppajjati nahetupaccayā—  vicikicchānīvaraṇañca sampayuttake ca khandhe paccayā avijjānīvaraṇaṃ, uddhaccanīvaraṇañca sampayuttake ca khandhe paccayā avijjānīvaraṇaṃ, vicikicchānīvaraṇañca vatthuñca paccayā avijjānīvaraṇaṃ, uddhaccanīvaraṇañca vatthuñca paccayā avijjānīvaraṇaṃ. (Saṃkhittaṃ.) (1)
+1928\. Nīvaraṇañca nonīvaraṇañca dhammaṁ paccayā nīvaraṇo dhammo uppajjati nahetupaccayā— vicikicchānīvaraṇañca sampayuttake ca khandhe paccayā avijjānīvaraṇaṁ, uddhaccanīvaraṇañca sampayuttake ca khandhe paccayā avijjānīvaraṇaṁ, vicikicchānīvaraṇañca vatthuñca paccayā avijjānīvaraṇaṁ, uddhaccanīvaraṇañca vatthuñca paccayā avijjānīvaraṇaṁ. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (8.1.3.2.1 Vibhaṅgavāra)](../8.1.3.2.1.md) / [Go to parent page (8.1.3.2.1 Vibhaṅgavāra)](../8.1.3.2.1.md) / [Go to next page (8.1.3.2.2 Saṅkhyāvāra)](../8.1.3.2.2.md)
-
+[Go to previous page (8.1.3.2.1 Vibhaṅgavāra)](../8.1.3.2.1.md) / [Go to parent page (8.1.3.2.1 Vibhaṅgavāra)](../8.1.3.2.1.md) / [Go to next page (8.1.3.2.2 Saṅkhyāvāra)](../8.1.3.2.2.md)
 

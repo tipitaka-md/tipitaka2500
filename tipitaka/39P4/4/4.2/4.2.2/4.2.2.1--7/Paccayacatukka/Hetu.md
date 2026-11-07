@@ -17,16 +17,15 @@
 
 (10.)
 
-1255\. Kusalaṃ anāsavaṃ dhammaṃ paṭicca kusalo anāsavo dhammo uppajjati hetupaccayā. (1)
+1255\. Kusalaṁ anāsavaṁ dhammaṁ paṭicca kusalo anāsavo dhammo uppajjati hetupaccayā. (1)
 
-1256\. Abyākataṃ anāsavaṃ dhammaṃ paṭicca abyākato anāsavo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1256\. Abyākataṁ anāsavaṁ dhammaṁ paṭicca abyākato anāsavo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (11.)
 
-1257\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+1257\. Hetuyā dve…pe… āsevane ekaṁ…pe… vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
-1258\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1258\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
-
 

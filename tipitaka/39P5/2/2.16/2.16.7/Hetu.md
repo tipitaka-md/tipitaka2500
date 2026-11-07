@@ -13,14 +13,13 @@
 
 (37.)
 
-412\. Uppanno kusalo dhammo uppannassa kusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṃ. Sabbattha vitthāro.)
+412\. Uppanno kusalo dhammo uppannassa kusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṁ. Sabbattha vitthāro.)
 
-413\. Uppanno akusalo dhammo uppannassa akusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṃ. Sabbattha vitthāro.)
+413\. Uppanno akusalo dhammo uppannassa akusalassa dhammassa hetupaccayena paccayo. (Sabbattha ekaṁ. Sabbattha vitthāro.)
 
-414\. Uppanno abyākato dhammo uppannassa abyākatassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+414\. Uppanno abyākato dhammo uppannassa abyākatassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
-415\. Hetuyā ekaṃ, ārammaṇe tīṇi…pe…  upanissaye tīṇi…pe…  avigate ekaṃ. (Sabbattha vitthāro.)
+415\. Hetuyā ekaṁ, ārammaṇe tīṇi…pe… upanissaye tīṇi…pe… avigate ekaṁ. (Sabbattha vitthāro.)
 
-[Go to previous page (2.16.7 Pañhāvāra)](../2.16.7.md) / [Go to parent page (2.16.7 Pañhāvāra)](../2.16.7.md) / [Go to next page (2.17 Atītattika, Kusalattika)](../../2.17.md)
-
+[Go to previous page (2.16.7 Pañhāvāra)](../2.16.7.md) / [Go to parent page (2.16.7 Pañhāvāra)](../2.16.7.md) / [Go to next page (2.17 Atītattika, Kusalattika)](../../2.17.md)
 

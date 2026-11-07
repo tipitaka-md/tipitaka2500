@@ -17,12 +17,11 @@
 
 (102.)
 
-2571\. Cetasikaṃ dhammaṃ paṭicca acetasiko dhammo uppajjati naārammaṇapaccayā—  cetasike khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (1)
+2571\. Cetasikaṁ dhammaṁ paṭicca acetasiko dhammo uppajjati naārammaṇapaccayā— cetasike khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (1)
 
-2572\. Acetasikaṃ dhammaṃ paṭicca acetasiko dhammo uppajjati naārammaṇapaccayā—  cittaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+2572\. Acetasikaṁ dhammaṁ paṭicca acetasiko dhammo uppajjati naārammaṇapaccayā— cittaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-2573\. Cetasikañca acetasikañca dhammaṃ paṭicca acetasiko dhammo uppajjati naārammaṇapaccayā—  cetasike khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cetasike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Paṭisandhikkhaṇe dvepi kātabbā, saṃkhittaṃ.)
+2573\. Cetasikañca acetasikañca dhammaṁ paṭicca acetasiko dhammo uppajjati naārammaṇapaccayā— cetasike khandhe ca cittañca paṭicca cittasamuṭṭhānaṁ rūpaṁ, cetasike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Paṭisandhikkhaṇe dvepi kātabbā, saṁkhittaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.3.1.2.1 Vibhaṅgavāra)](../10.3.1.2.1.md) / [Go to next page (10.3.1.2.2 Saṅkhyāvāra)](../10.3.1.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.3.1.2.1 Vibhaṅgavāra)](../10.3.1.2.1.md) / [Go to next page (10.3.1.2.2 Saṅkhyāvāra)](../10.3.1.2.2.md)
 

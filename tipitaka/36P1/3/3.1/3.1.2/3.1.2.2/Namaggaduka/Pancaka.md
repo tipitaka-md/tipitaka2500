@@ -15,8 +15,7 @@
 
 * Pañcaka
 
-1850\. Namaggapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
+1850\. Namaggapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, navippayutte ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Namaggaduka)](../Namaggaduka.md) / [Go to next page (Navippayuttaduka)](../Navippayuttaduka.md)
-
 

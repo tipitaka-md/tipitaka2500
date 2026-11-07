@@ -17,20 +17,19 @@
 
 (188.)
 
-343\. Nahetuṃ saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca hetu saṃkiliṭṭhasaṃkilesiko dhammo uppajjati nahetupaccayā.
+343\. Nahetuṁ saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca hetu saṁkiliṭṭhasaṁkilesiko dhammo uppajjati nahetupaccayā.
 
-344\. Hetuṃ saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca hetu saṃkiliṭṭhasaṃkilesiko dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+344\. Hetuṁ saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca hetu saṁkiliṭṭhasaṁkilesiko dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (189.)
 
-345\. Nahetuyā ekaṃ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+345\. Nahetuyā ekaṁ, naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṁkhittaṁ.)
 
-346\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ.)
+346\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ.)
 
-347\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+347\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-348\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+348\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.5.1.7 Pañhāvāra)](../../1.5.1.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.5.1.7 Pañhāvāra)](../../1.5.1.7.md)
 

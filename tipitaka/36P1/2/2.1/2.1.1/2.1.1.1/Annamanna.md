@@ -15,12 +15,11 @@
 
 (6.)
 
-138\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati aññamaññapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
+138\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati aññamaññapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
 
-139\. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati aññamaññapaccayā—  akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
+139\. Akusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati aññamaññapaccayā— akusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
 
-140\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati aññamaññapaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā vatthu ca, tayo khandhe paṭicca eko khandho vatthu ca, dve khandhe paṭicca dve khandhā vatthu ca; khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā. (1)
+140\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati aññamaññapaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; paṭisandhikkhaṇe vipākābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā vatthu ca, tayo khandhe paṭicca eko khandho vatthu ca, dve khandhe paṭicca dve khandhā vatthu ca; khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā. (1)
 
-[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
-
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 

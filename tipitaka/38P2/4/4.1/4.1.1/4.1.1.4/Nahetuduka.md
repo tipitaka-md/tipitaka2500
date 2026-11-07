@@ -15,14 +15,9 @@
 
 (8.)
 
-1342\. Nahetupaccayā ārammaṇe cattāri (sabbattha cattāri) vipāke ekaṃ, āhāre cattāri…pe…  magge tīṇi, sampayutte cattāri…pe…  avigate cattāri.
+1342\. Nahetupaccayā ārammaṇe cattāri (sabbattha cattāri) vipāke ekaṁ, āhāre cattāri…pe… magge tīṇi, sampayutte cattāri…pe… avigate cattāri.
 
----
+1343\. Paccanīyānulomaṁ.
 
-1343\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (4.1.1.4 Paccayapaccanīyānuloma)](../4.1.1.4.md) / [Go to parent page (4.1.1.4 Paccayapaccanīyānuloma)](../4.1.1.4.md) / [Go to next page (4.1.2 Sahajātavāra)](../../4.1.2.md)
-
+[Go to previous page (4.1.1.4 Paccayapaccanīyānuloma)](../4.1.1.4.md) / [Go to parent page (4.1.1.4 Paccayapaccanīyānuloma)](../4.1.1.4.md) / [Go to next page (4.1.2 Sahajātavāra)](../../4.1.2.md)
 

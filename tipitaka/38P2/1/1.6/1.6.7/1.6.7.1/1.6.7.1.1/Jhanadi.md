@@ -17,8 +17,7 @@
 
 (190.)
 
-516\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa jhānapaccayena paccayo…pe…  (cattāripi kātabbāni), maggapaccayena paccayo…  tīṇi.
+516\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa jhānapaccayena paccayo…pe… (cattāripi kātabbāni), maggapaccayena paccayo… tīṇi.
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Sampayutta)](Sampayutta.md)
-
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Sampayutta)](Sampayutta.md)
 

@@ -15,8 +15,7 @@
 
 (412.)
 
-1266\. Novigatapaccayā nahetuyā pannarasa. (Saṃkhittaṃ.)
+1266\. Novigatapaccayā nahetuyā pannarasa. (Saṁkhittaṁ.)
 
-[Go to previous page (Nonatthiduka)](Nonatthiduka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Noavigataduka)](Noavigataduka.md)
-
+[Go to previous page (Nonatthiduka)](Nonatthiduka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Noavigataduka)](Noavigataduka.md)
 

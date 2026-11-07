@@ -17,16 +17,11 @@
 
 (378.)
 
-1137\. Vippayutta sahajāta nissaya atthi avigatanti tīṇi. Vippayutta sahajāta aññamañña nissaya atthi avigatanti ekaṃ. [Avipāka—  2]
+1137\. Vippayutta sahajāta nissaya atthi avigatanti tīṇi. Vippayutta sahajāta aññamañña nissaya atthi avigatanti ekaṁ. [Avipāka— 2]
 
-1138\. Vippayutta sahajāta nissaya vipāka atthi avigatanti ekaṃ. Vippayutta sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṃ. [Savipāka—  2]
+1138\. Vippayutta sahajāta nissaya vipāka atthi avigatanti ekaṁ. Vippayutta sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṁ. [Savipāka— 2]
 
----
-
-1139\. Vippayuttamūlakaṃ.
-
-
+1139\. Vippayuttamūlakaṁ.
 
 [Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Atthi)](../Atthi.md)
-
 

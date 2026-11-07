@@ -11,16 +11,11 @@
 
 * Ghaṭanā
 
-2429\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe…  naaññamaññe tīṇi…pe…  navipāke cattāri…pe…  nasampayutte tīṇi, navippayutte tīṇi…pe…  novigate satta.
+2429\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe… naaññamaññe tīṇi…pe… navipāke cattāri…pe… nasampayutte tīṇi, navippayutte tīṇi…pe… novigate satta.
 
-2430\. (Yathā kusalattike anulomapaccanīyagaṇanā vitthāritā, evaṃ vitthāretabbaṃ. Asammohantena eso sajjhāyamaggo.)
+2430\. (Yathā kusalattike anulomapaccanīyagaṇanā vitthāritā, evaṁ vitthāretabbaṁ. Asammohantena eso sajjhāyamaggo.)
 
----
+2431\. Anulomapaccanīyaṁ.
 
-2431\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (4.7.3 Paccayānulomapaccanīya)](../4.7.3.md) / [Go to next page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md)
-
+[Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (4.7.3 Paccayānulomapaccanīya)](../4.7.3.md) / [Go to next page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md)
 

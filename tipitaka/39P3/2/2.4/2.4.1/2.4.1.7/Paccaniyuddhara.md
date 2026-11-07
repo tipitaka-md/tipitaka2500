@@ -15,18 +15,17 @@
 
 (53.)
 
-1373\. Hetu ceva sahetuko ca kusalo dhammo hetussa ceva sahetukassa ca kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1373\. Hetu ceva sahetuko ca kusalo dhammo hetussa ceva sahetukassa ca kusalassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (54.)
 
-1374\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1374\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1375\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1375\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1376\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1376\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-1377\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1377\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.4.1.7 Pañhāvāra)](../2.4.1.7.md) / [Go to next page (2.4.2 Akusalapada)](../../2.4.2.md)
-
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.4.1.7 Pañhāvāra)](../2.4.1.7.md) / [Go to next page (2.4.2 Akusalapada)](../../2.4.2.md)
 

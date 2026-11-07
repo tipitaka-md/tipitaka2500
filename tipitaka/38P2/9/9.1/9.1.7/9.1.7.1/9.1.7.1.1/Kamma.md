@@ -17,8 +17,7 @@
 
 (32.)
 
-2182\. Noparāmāso dhammo noparāmāsassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  noparāmāsā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  noparāmāsā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Noparāmāsā cetanā parāmāsassa kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Noparāmāsā cetanā parāmāsassa ca sampayuttakānañca khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+2182\. Noparāmāso dhammo noparāmāsassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— noparāmāsā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— noparāmāsā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Noparāmāsā cetanā parāmāsassa kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Noparāmāsā cetanā parāmāsassa ca sampayuttakānañca khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 

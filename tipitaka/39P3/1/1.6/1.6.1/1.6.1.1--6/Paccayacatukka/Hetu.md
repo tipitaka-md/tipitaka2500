@@ -17,16 +17,15 @@
 
 (210.)
 
-395\. Hetuṃ savitakkasavicāraṃ dhammaṃ paṭicca hetu savitakkasavicāro dhammo uppajjati hetupaccayā. Hetuṃ savitakkasavicāraṃ dhammaṃ paṭicca nahetu savitakkasavicāro dhammo uppajjati hetupaccayā. Hetuṃ savitakkasavicāraṃ dhammaṃ paṭicca hetu savitakkasavicāro ca nahetu savitakkasavicāro ca dhammā uppajjanti hetupaccayā. (3)
+395\. Hetuṁ savitakkasavicāraṁ dhammaṁ paṭicca hetu savitakkasavicāro dhammo uppajjati hetupaccayā. Hetuṁ savitakkasavicāraṁ dhammaṁ paṭicca nahetu savitakkasavicāro dhammo uppajjati hetupaccayā. Hetuṁ savitakkasavicāraṁ dhammaṁ paṭicca hetu savitakkasavicāro ca nahetu savitakkasavicāro ca dhammā uppajjanti hetupaccayā. (3)
 
-396\. Nahetuṃ savitakkasavicāraṃ dhammaṃ paṭicca nahetu savitakkasavicāro dhammo uppajjati hetupaccayā…  tīṇi.
+396\. Nahetuṁ savitakkasavicāraṁ dhammaṁ paṭicca nahetu savitakkasavicāro dhammo uppajjati hetupaccayā… tīṇi.
 
-397\. Hetuṃ savitakkasavicārañca nahetuṃ savitakkasavicārañca dhammaṃ paṭicca hetu savitakkasavicāro dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+397\. Hetuṁ savitakkasavicārañca nahetuṁ savitakkasavicārañca dhammaṁ paṭicca hetu savitakkasavicāro dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (211.)
 
-398\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe…  kamme nava, vipāke nava…pe…  avigate nava. (Saṃkhittaṃ.)
+398\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe… kamme nava, vipāke nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naadhipati)](Nahetu-naadhipati.md)
-
 

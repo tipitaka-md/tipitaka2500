@@ -15,18 +15,17 @@
 
 (4.)
 
-2452\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā—  upādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ; asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ.
+2452\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati anantarapaccayā… samanantarapaccayā… sahajātapaccayā— upādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ; asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ.
 
-2453\. Upādinnupādāniyaṃ dhammaṃ paṭicca…  tīṇi.
+2453\. Upādinnupādāniyaṁ dhammaṁ paṭicca… tīṇi.
 
-2454\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati sahajātapaccayā—  anupādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… .
+2454\. Anupādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati sahajātapaccayā— anupādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. Bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… .
 
-2455\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca…  tīṇi.
+2455\. Anupādinnaanupādāniyaṁ dhammaṁ paṭicca… tīṇi.
 
-2456\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paṭicca…pe…  anupādinnupādāniyo…pe… . (1)
+2456\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṁ paṭicca…pe… anupādinnupādāniyo…pe… . (1)
 
-2457\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo…pe… . (1)
+2457\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṁ paṭicca anupādinnupādāniyo…pe… . (1)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
 

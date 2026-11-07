@@ -13,8 +13,7 @@
 
 * Aṭṭhaka
 
-1700\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte pañca, atthiyā satta, avigate satta.
+1700\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte pañca, atthiyā satta, avigate satta.
 
 [Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
-
 

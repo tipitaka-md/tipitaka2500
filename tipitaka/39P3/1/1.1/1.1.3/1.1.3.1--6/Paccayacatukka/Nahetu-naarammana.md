@@ -17,16 +17,15 @@
 
 (48.)
 
-78\. Nahetuṃ abyākataṃ dhammaṃ paṭicca nahetu abyākato dhammo uppajjati nahetupaccayā. (1)
+78\. Nahetuṁ abyākataṁ dhammaṁ paṭicca nahetu abyākato dhammo uppajjati nahetupaccayā. (1)
 
 (49.)
 
-79\. Hetuṃ abyākataṃ dhammaṃ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
+79\. Hetuṁ abyākataṁ dhammaṁ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
 
-80\. Nahetuṃ abyākataṃ dhammaṃ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
+80\. Nahetuṁ abyākataṁ dhammaṁ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
 
-81\. Hetuṃ abyākatañca nahetuṃ abyākatañca dhammaṃ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
+81\. Hetuṁ abyākatañca nahetuṁ abyākatañca dhammaṁ paṭicca nahetu abyākato dhammo uppajjati naārammaṇapaccayā. (1)
 
 [Go to previous page (Hetvādi)](Hetvadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
 

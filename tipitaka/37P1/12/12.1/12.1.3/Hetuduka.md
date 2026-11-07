@@ -13,14 +13,9 @@
 
 (16.)
 
-1699\. Hetupaccayā naārammaṇe pañca, naadhipatiyā tīṇi, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke pañca, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Evaṃ gaṇetabbaṃ.)
+1699\. Hetupaccayā naārammaṇe pañca, naadhipatiyā tīṇi, naanantare nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke pañca, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Evaṁ gaṇetabbaṁ.)
 
----
+1700\. Anulomapaccanīyaṁ.
 
-1700\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (12.1.3 Paccayānulomapaccanīya)](../12.1.3.md) / [Go to parent page (12.1.3 Paccayānulomapaccanīya)](../12.1.3.md) / [Go to next page (12.1.4 Paccayapaccanīyānuloma)](../12.1.4.md)
-
+[Go to previous page (12.1.3 Paccayānulomapaccanīya)](../12.1.3.md) / [Go to parent page (12.1.3 Paccayānulomapaccanīya)](../12.1.3.md) / [Go to next page (12.1.4 Paccayapaccanīyānuloma)](../12.1.4.md)
 

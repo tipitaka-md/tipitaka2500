@@ -15,10 +15,9 @@
 
 (34.)
 
-205\. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+205\. Akusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-206\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati nahetupaccayā—  ahetukaṃ vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ, tayo khandhe paṭicca eko khandho cittasamuṭṭhānañca rūpaṃ, dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; ahetukapaṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ, tayo khandhe paṭicca eko khandho kaṭattā ca rūpaṃ, dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṃ; khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+206\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati nahetupaccayā— ahetukaṁ vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ, tayo khandhe paṭicca eko khandho cittasamuṭṭhānañca rūpaṁ, dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ; ahetukapaṭisandhikkhaṇe vipākābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ, tayo khandhe paṭicca eko khandho kaṭattā ca rūpaṁ, dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṁ; khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-[Go to previous page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

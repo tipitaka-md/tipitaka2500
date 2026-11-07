@@ -17,14 +17,13 @@
 
 (359.)
 
-764\. Hetu paritto dhammo hetussa parittassa dhammassa hetupaccayena paccayo…  tīṇi.
+764\. Hetu paritto dhammo hetussa parittassa dhammassa hetupaccayena paccayo… tīṇi.
 
-765\. Hetu paritto dhammo hetussa parittassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+765\. Hetu paritto dhammo hetussa parittassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
 (360.)
 
-766\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe…  upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
+766\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava…pe… upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

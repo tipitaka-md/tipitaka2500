@@ -15,14 +15,13 @@
 
 (22.)
 
-2912\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  ajjhattārammaṇā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  ajjhattārammaṇā cetanā vipākānaṃ ajjhattārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+2912\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— ajjhattārammaṇā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— ajjhattārammaṇā cetanā vipākānaṁ ajjhattārammaṇānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-2913\. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  ajjhattārammaṇā cetanā vipākānaṃ bahiddhārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (2)
+2913\. Ajjhattārammaṇo dhammo bahiddhārammaṇassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā— ajjhattārammaṇā cetanā vipākānaṁ bahiddhārammaṇānaṁ khandhānaṁ kammapaccayena paccayo. (2)
 
-2914\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  bahiddhārammaṇā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  bahiddhārammaṇā cetanā vipākānaṃ bahiddhārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+2914\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— bahiddhārammaṇā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. Paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— bahiddhārammaṇā cetanā vipākānaṁ bahiddhārammaṇānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-2915\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā—  bahiddhārammaṇā cetanā vipākānaṃ ajjhattārammaṇānaṃ khandhānaṃ kammapaccayena paccayo. (2)
+2915\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā— bahiddhārammaṇā cetanā vipākānaṁ ajjhattārammaṇānaṁ khandhānaṁ kammapaccayena paccayo. (2)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
-
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 

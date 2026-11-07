@@ -23,18 +23,13 @@
 
 1400\. Purejāta ārammaṇa nissaya vippayutta atthi avigatanti nahetuyā tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-1401\. Purejāta ārammaṇa adhipati upanissaya atthi avigatanti nahetuyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, nanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1401\. Purejāta ārammaṇa adhipati upanissaya atthi avigatanti nahetuyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, nanissaye ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1402\. Purejāta ārammaṇa adhipati nissaya upanissaya vippayutta atthi avigatanti nahetuyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1402\. Purejāta ārammaṇa adhipati nissaya upanissaya vippayutta atthi avigatanti nahetuyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1403\. Purejāta nissaya indriya vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1403\. Purejāta nissaya indriya vippayutta atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naadhipatiyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
----
-
-1404\. Purejātamūlakaṃ.
-
-
+1404\. Purejātamūlakaṁ.
 
 [Go to previous page (Purejātaduka)](Purejataduka.md) / [Go to parent page (Purejāta)](../Purejata.md) / [Go to next page (Pacchājāta)](../Pacchajata.md)
-
 

@@ -13,8 +13,7 @@
 
 * Tika
 
-604\. Kammapaccayā hetupaccayā naārammaṇe pañca…pe…  navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
+604\. Kammapaccayā hetupaccayā naārammaṇe pañca…pe… navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṁkhittaṁ.)
 
 [Go to previous page (Kammaduka)](../Kammaduka.md) / [Go to parent page (Kammaduka)](../Kammaduka.md) / [Go to next page (Vipākaduka)](../Vipakaduka.md)
-
 

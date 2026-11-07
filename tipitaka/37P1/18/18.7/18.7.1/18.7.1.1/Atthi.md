@@ -15,8 +15,7 @@
 
 (17.)
 
-2615\. Uppanno dhammo uppannassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajāto**—  uppanno eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . **Purejātaṃ**—  cakkhuṃ aniccato…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati, dibbāya sotudhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa atthipaccayena paccayo. Cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu uppannānaṃ khandhānaṃ atthipaccayena paccayo. **Pacchājātā**—  uppannā khandhā purejātassa imassa kāyassa atthipaccayena paccayo. **Kabaḷīkāro āhāro**—  imassa kāyassa atthipaccayena paccayo. **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ atthipaccayena paccayo. (1)
+2615\. Uppanno dhammo uppannassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. Sahajāto— uppanno eko khandho tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ atthipaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… . Purejātaṁ— cakkhuṁ aniccato…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati, dibbena cakkhunā rūpaṁ passati, dibbāya sotudhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa atthipaccayena paccayo. Cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu uppannānaṁ khandhānaṁ atthipaccayena paccayo. Pacchājātā— uppannā khandhā purejātassa imassa kāyassa atthipaccayena paccayo. Kabaḷīkāro āhāro— imassa kāyassa atthipaccayena paccayo. Rūpajīvitindriyaṁ— kaṭattārūpānaṁ atthipaccayena paccayo. (1)
 
-[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Avigata)](Avigata.md)
-
+[Go to previous page (Jhānādi)](Jhanadi.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Avigata)](Avigata.md)
 

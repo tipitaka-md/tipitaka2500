@@ -15,16 +15,15 @@
 
 (13.)
 
-155\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati āhārapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…  tīṇi.
+155\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati āhārapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca… tīṇi.
 
-156\. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati āhārapaccayā—  akusalaṃ ekaṃ khandhaṃ paṭicca…  tīṇi.
+156\. Akusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati āhārapaccayā— akusalaṁ ekaṁ khandhaṁ paṭicca… tīṇi.
 
-157\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati āhārapaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ; āhārasamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca upādārūpaṃ.
+157\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati āhārapaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paṭicca…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ; āhārasamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca upādārūpaṁ.
 
-158\. Kusalañca abyākatañca dhammaṃ paṭicca…pe… .
+158\. Kusalañca abyākatañca dhammaṁ paṭicca…pe… .
 
-159\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati āhārapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ.
+159\. Akusalañca abyākatañca dhammaṁ paṭicca abyākato dhammo uppajjati āhārapaccayā— akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ.
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Indriya)](Indriya.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 

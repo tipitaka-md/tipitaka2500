@@ -15,8 +15,7 @@
 
 (14.)
 
-818\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati āhārapaccayā (paripuṇṇaṃ, ajjhattikā mahābhūtā ca āhārasamuṭṭhānañca)…  indriyapaccayā (kammapaccayasadisaṃ)…  jhānapaccayā…  maggapaccayā (hetupaccayasadisaṃ)…  sampayuttapaccayā (ārammaṇapaccayasadisaṃ)…  vippayuttapaccayā (kusalattike vippayuttapaccayasadisaṃ)…  atthipaccayā (sahajātapaccayasadisaṃ)…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+818\. Dassanena pahātabbaṁ dhammaṁ paṭicca dassanena pahātabbo dhammo uppajjati āhārapaccayā (paripuṇṇaṁ, ajjhattikā mahābhūtā ca āhārasamuṭṭhānañca)… indriyapaccayā (kammapaccayasadisaṁ)… jhānapaccayā… maggapaccayā (hetupaccayasadisaṁ)… sampayuttapaccayā (ārammaṇapaccayasadisaṁ)… vippayuttapaccayā (kusalattike vippayuttapaccayasadisaṁ)… atthipaccayā (sahajātapaccayasadisaṁ)… natthipaccayā… vigatapaccayā… avigatapaccayā.
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (9.1.1.2 Saṅkhyāvāra)](../9.1.1.2.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (9.1.1.2 Saṅkhyāvāra)](../9.1.1.2.md)
 

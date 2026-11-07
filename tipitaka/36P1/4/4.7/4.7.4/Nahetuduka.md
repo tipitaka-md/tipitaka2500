@@ -17,6 +17,5 @@
 
 * [Tika](Nahetuduka/Tika.md)
 
-[Go to previous page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md) / [Go to parent page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
-
+[Go to previous page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md) / [Go to parent page (4.7.4 Paccayapaccanīyānuloma)](../4.7.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 

@@ -13,14 +13,9 @@
 
 (55.)
 
-2866\. Hetupaccayā naārammaṇe dve, naadhipatiyā naanantare nasamanantare naaññamaññe naupanissaye dve (saṃkhittaṃ, sabbattha dve), nasampayutte navippayutte nonatthiyā novigate dve. (Evaṃ gaṇetabbaṃ.)
+2866\. Hetupaccayā naārammaṇe dve, naadhipatiyā naanantare nasamanantare naaññamaññe naupanissaye dve (saṁkhittaṁ, sabbattha dve), nasampayutte navippayutte nonatthiyā novigate dve. (Evaṁ gaṇetabbaṁ.)
 
----
+2867\. Anulomapaccanīyaṁ.
 
-2867\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (21.7.3 Paccayānulomapaccanīya)](../21.7.3.md) / [Go to parent page (21.7.3 Paccayānulomapaccanīya)](../21.7.3.md) / [Go to next page (21.7.4 Paccayapaccanīyānuloma)](../21.7.4.md)
-
+[Go to previous page (21.7.3 Paccayānulomapaccanīya)](../21.7.3.md) / [Go to parent page (21.7.3 Paccayānulomapaccanīya)](../21.7.3.md) / [Go to next page (21.7.4 Paccayapaccanīyānuloma)](../21.7.4.md)
 

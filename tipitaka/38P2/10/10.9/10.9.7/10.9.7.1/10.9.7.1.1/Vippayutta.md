@@ -17,16 +17,15 @@
 
 (306.)
 
-3066\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+3066\. Cittasaṁsaṭṭhasamuṭṭhāno dhammo nocittasaṁsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-3067\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+3067\. Nocittasaṁsaṭṭhasamuṭṭhāno dhammo nocittasaṁsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-3068\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu cittasaṃsaṭṭhasamuṭṭhānānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ vippayuttapaccayena paccayo…pe…  kāyāyatanaṃ…pe…  vatthu cittasaṃsaṭṭhasamuṭṭhānānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
+3068\. Nocittasaṁsaṭṭhasamuṭṭhāno dhammo cittasaṁsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajātaṁ— paṭisandhikkhaṇe vatthu cittasaṁsaṭṭhasamuṭṭhānānaṁ khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ— cakkhāyatanaṁ cakkhuviññāṇasahagatānaṁ khandhānaṁ vippayuttapaccayena paccayo…pe… kāyāyatanaṁ…pe… vatthu cittasaṁsaṭṭhasamuṭṭhānānaṁ khandhānaṁ vippayuttapaccayena paccayo. (2)
 
-3069\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa ca nocittasaṃsaṭṭhasamuṭṭhānassa ca dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu cittassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo…pe…  kāyāyatanaṃ…pe…  vatthu cittassa sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
+3069\. Nocittasaṁsaṭṭhasamuṭṭhāno dhammo cittasaṁsaṭṭhasamuṭṭhānassa ca nocittasaṁsaṭṭhasamuṭṭhānassa ca dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajātaṁ— paṭisandhikkhaṇe vatthu cittassa sampayuttakānañca khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa sampayuttakānañca khandhānaṁ vippayuttapaccayena paccayo…pe… kāyāyatanaṁ…pe… vatthu cittassa sampayuttakānañca khandhānaṁ vippayuttapaccayena paccayo. (3)
 
-3070\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.)
+3070\. Cittasaṁsaṭṭhasamuṭṭhāno ca nocittasaṁsaṭṭhasamuṭṭhāno ca dhammā nocittasaṁsaṭṭhasamuṭṭhānassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.)
 
-[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

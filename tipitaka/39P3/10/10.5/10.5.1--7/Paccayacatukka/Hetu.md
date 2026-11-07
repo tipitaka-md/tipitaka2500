@@ -15,34 +15,33 @@
 
 (37.)
 
-2087\. Cittasaṃsaṭṭhaṃ kusalaṃ dhammaṃ paṭicca cittasaṃsaṭṭho kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2087\. Cittasaṁsaṭṭhaṁ kusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭho kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (38.)
 
-2088\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2088\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.) (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (39.)
 
-2089\. Cittasaṃsaṭṭhaṃ akusalaṃ dhammaṃ paṭicca cittasaṃsaṭṭho akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2089\. Cittasaṁsaṭṭhaṁ akusalaṁ dhammaṁ paṭicca cittasaṁsaṭṭho akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (40.)
 
-2090\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2090\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.) (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (41.)
 
-2091\. Cittasaṃsaṭṭhaṃ abyākataṃ dhammaṃ paṭicca cittasaṃsaṭṭho abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+2091\. Cittasaṁsaṭṭhaṁ abyākataṁ dhammaṁ paṭicca cittasaṁsaṭṭho abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-2092\. Nocittasaṃsaṭṭhaṃ abyākataṃ dhammaṃ paṭicca nocittasaṃsaṭṭho abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+2092\. Nocittasaṁsaṭṭhaṁ abyākataṁ dhammaṁ paṭicca nocittasaṁsaṭṭho abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-2093\. Cittasaṃsaṭṭhaṃ abyākatañca nocittasaṃsaṭṭhaṃ abyākatañca dhammaṃ paṭicca cittasaṃsaṭṭho abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+2093\. Cittasaṁsaṭṭhaṁ abyākatañca nocittasaṁsaṭṭhaṁ abyākatañca dhammaṁ paṭicca cittasaṁsaṭṭho abyākato dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (42.)
 
-2094\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
+2094\. Hetuyā nava, ārammaṇe tīṇi…pe… avigate nava. (Saṁkhittaṁ.)
 
-2095\. (Yathā cittasampayuttadukaṃ abyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2095\. (Yathā cittasampayuttadukaṁ abyākatasadisaṁ. Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.6 Cittasamuṭṭhānaduka, Kusalattika)](../../../10.6.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (10.6 Cittasamuṭṭhānaduka, Kusalattika)](../../../10.6.md)
 

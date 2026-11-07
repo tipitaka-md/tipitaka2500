@@ -17,12 +17,11 @@
 
 (121.)
 
-819\. Arūpī dhammo arūpissa dhammassa vipākapaccayena paccayo…  tīṇi.
+819\. Arūpī dhammo arūpissa dhammassa vipākapaccayena paccayo… tīṇi.
 
-820\. Rūpī dhammo rūpissa dhammassa āhārapaccayena paccayo—  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
+820\. Rūpī dhammo rūpissa dhammassa āhārapaccayena paccayo— kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
 
-821\. Arūpī dhammo arūpissa dhammassa āhārapaccayena paccayo…  tīṇi.
+821\. Arūpī dhammo arūpissa dhammassa āhārapaccayena paccayo… tīṇi.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 

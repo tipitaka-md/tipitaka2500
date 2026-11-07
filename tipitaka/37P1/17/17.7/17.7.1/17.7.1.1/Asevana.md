@@ -15,10 +15,9 @@
 
 (45.)
 
-2561\. Maggārammaṇo dhammo maggārammaṇassa dhammassa āsevanapaccayena paccayo—  purimā purimā maggārammaṇā khandhā pacchimānaṃ pacchimānaṃ maggārammaṇānaṃ khandhānaṃ āsevanapaccayena paccayo.
+2561\. Maggārammaṇo dhammo maggārammaṇassa dhammassa āsevanapaccayena paccayo— purimā purimā maggārammaṇā khandhā pacchimānaṁ pacchimānaṁ maggārammaṇānaṁ khandhānaṁ āsevanapaccayena paccayo.
 
-2562\. Maggārammaṇo dhammo maggādhipatissa dhammassa āsevanapaccayena paccayo. (Anantarasadisaṃ. Nava pañhā kātabbā, āvajjanā na kātabbā.)
+2562\. Maggārammaṇo dhammo maggādhipatissa dhammassa āsevanapaccayena paccayo. (Anantarasadisaṁ. Nava pañhā kātabbā, āvajjanā na kātabbā.)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 

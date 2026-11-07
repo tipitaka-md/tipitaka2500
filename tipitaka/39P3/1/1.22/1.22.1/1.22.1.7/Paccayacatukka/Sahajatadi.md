@@ -17,8 +17,7 @@
 
 (544.)
 
-1219\. Nahetu anidassanasappaṭigho dhammo nahetussa anidassanasappaṭighassa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo…  atthipaccayena paccayo…  avigatapaccayena paccayo. (Sabbattha ekaṃ.)
+1219\. Nahetu anidassanasappaṭigho dhammo nahetussa anidassanasappaṭighassa dhammassa sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… atthipaccayena paccayo… avigatapaccayena paccayo. (Sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.22.2 Anidassanaappaṭighapada)](../../../1.22.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.22.2 Anidassanaappaṭighapada)](../../../1.22.2.md)
 

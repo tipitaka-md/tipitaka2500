@@ -17,14 +17,13 @@
 
 (283.)
 
-4685\. Arūpāvacaro dhammo arūpāvacarassa dhammassa anantarapaccayena paccayo—  purimā purimā arūpāvacarā khandhā pacchimānaṃ pacchimānaṃ arūpāvacarānaṃ khandhānaṃ anantarapaccayena paccayo. Arūpāvacaro dhammo naarūpāvacarassa dhammassa anantarapaccayena paccayo—  arūpāvacaraṃ cuticittaṃ naarūpāvacarassa upapatticittassa, arūpāvacaraṃ bhavaṅgaṃ āvajjanāya, arūpāvacarā khandhā naarūpāvacarassa vuṭṭhānassa, nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (2)
+4685\. Arūpāvacaro dhammo arūpāvacarassa dhammassa anantarapaccayena paccayo— purimā purimā arūpāvacarā khandhā pacchimānaṁ pacchimānaṁ arūpāvacarānaṁ khandhānaṁ anantarapaccayena paccayo. Arūpāvacaro dhammo naarūpāvacarassa dhammassa anantarapaccayena paccayo— arūpāvacaraṁ cuticittaṁ naarūpāvacarassa upapatticittassa, arūpāvacaraṁ bhavaṅgaṁ āvajjanāya, arūpāvacarā khandhā naarūpāvacarassa vuṭṭhānassa, nirodhā vuṭṭhahantassa nevasaññānāsaññāyatanaṁ phalasamāpattiyā anantarapaccayena paccayo. (2)
 
 (284.)
 
-4686\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa anantarapaccayena paccayo—  purimā purimā naarūpāvacarā khandhā pacchimānaṃ pacchimānaṃ naarūpāvacarānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe…  anulomaṃ phalasamāpattiyā anantarapaccayena paccayo. Naarūpāvacaro dhammo arūpāvacarassa dhammassa anantarapaccayena paccayo—  naarūpāvacaraṃ cuticittaṃ arūpāvacarassa upapatticittassa anantarapaccayena paccayo; naarūpāvacarā khandhā arūpāvacarassa vuṭṭhānassa anantarapaccayena paccayo; ākāsānañcāyatanassa parikammaṃ ākāsānañcāyatanassa anantarapaccayena paccayo; viññāṇañcāyatanassa…pe…  ākiñcaññāyatanassa…pe…  nevasaññānāsaññāyatanassa parikammaṃ nevasaññānāsaññāyatanassa anantarapaccayena paccayo. (2)
+4686\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa anantarapaccayena paccayo— purimā purimā naarūpāvacarā khandhā pacchimānaṁ pacchimānaṁ naarūpāvacarānaṁ khandhānaṁ anantarapaccayena paccayo; anulomaṁ gotrabhussa…pe… anulomaṁ phalasamāpattiyā anantarapaccayena paccayo. Naarūpāvacaro dhammo arūpāvacarassa dhammassa anantarapaccayena paccayo— naarūpāvacaraṁ cuticittaṁ arūpāvacarassa upapatticittassa anantarapaccayena paccayo; naarūpāvacarā khandhā arūpāvacarassa vuṭṭhānassa anantarapaccayena paccayo; ākāsānañcāyatanassa parikammaṁ ākāsānañcāyatanassa anantarapaccayena paccayo; viññāṇañcāyatanassa…pe… ākiñcaññāyatanassa…pe… nevasaññānāsaññāyatanassa parikammaṁ nevasaññānāsaññāyatanassa anantarapaccayena paccayo. (2)
 
-4687\. Samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  pañca…  aññamaññapaccayena paccayo…  dve…  nissayapaccayena paccayo…  satta.
+4687\. Samanantarapaccayena paccayo… sahajātapaccayena paccayo… pañca… aññamaññapaccayena paccayo… dve… nissayapaccayena paccayo… satta.
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

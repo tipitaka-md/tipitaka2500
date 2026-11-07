@@ -17,12 +17,11 @@
 
 (74.)
 
-240\. Asaṃkiliṭṭhasaṃkilesikaṃ nahetuṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko nahetu dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+240\. Asaṁkiliṭṭhasaṁkilesikaṁ nahetuṁ dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko nahetu dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
-241\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā cha, napurejāte satta…pe…  nakamme tīṇi…pe…  navippayutte tīṇi…pe…  novigate pañca. (Saṃkhittaṃ.)
+241\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā cha, napurejāte satta…pe… nakamme tīṇi…pe… navippayutte tīṇi…pe… novigate pañca. (Saṁkhittaṁ.)
 
-242\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+242\. (Sahajātavārampi…pe… sampayuttavārampi vitthāretabbaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.5.2.7 Pañhāvāra)](../../1.5.2.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.5.2.7 Pañhāvāra)](../../1.5.2.7.md)
 

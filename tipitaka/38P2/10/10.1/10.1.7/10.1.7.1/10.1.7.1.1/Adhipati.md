@@ -17,16 +17,15 @@
 
 (30.)
 
-2380\. Sārammaṇo dhammo sārammaṇassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ…pe…  phalaṃ garuṃ…pe…  sārammaṇe khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  sārammaṇādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2380\. Sārammaṇo dhammo sārammaṇassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṁ…pe… ariyā maggā vuṭṭhahitvā maggaṁ garuṁ…pe… phalaṁ garuṁ…pe… sārammaṇe khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— sārammaṇādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2381\. Sārammaṇo dhammo anārammaṇassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  sārammaṇādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+2381\. Sārammaṇo dhammo anārammaṇassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— sārammaṇādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-2382\. Sārammaṇo dhammo sārammaṇassa ca anārammaṇassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  sārammaṇādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2382\. Sārammaṇo dhammo sārammaṇassa ca anārammaṇassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— sārammaṇādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (31.)
 
-2383\. Anārammaṇo dhammo sārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  ariyā nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa, adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
+2383\. Anārammaṇo dhammo sārammaṇassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— ariyā nibbānaṁ garuṁ katvā paccavekkhanti; nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa, adhipatipaccayena paccayo; cakkhuṁ…pe… vatthuṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

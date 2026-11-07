@@ -17,14 +17,9 @@
 
 (163.)
 
-453\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cattāri, purejāte dve, āsevane dve, kamme nava, vipāke nava, āhāre nava (Saṃkhittaṃ. Sabbattha nava), sampayutte cattāri, vippayutte nava, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava. (Evaṃ gaṇetabbaṃ.)
+453\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā pañca, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye cattāri, purejāte dve, āsevane dve, kamme nava, vipāke nava, āhāre nava (Saṁkhittaṁ. Sabbattha nava), sampayutte cattāri, vippayutte nava, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+454\. Anulomaṁ.
 
-454\. Anulomaṃ.
-
-
-
-[Go to previous page (1.6.1.1.2 Saṅkhyāvāra)](../1.6.1.1.2.md) / [Go to parent page (1.6.1.1.2 Saṅkhyāvāra)](../1.6.1.1.2.md) / [Go to next page (1.6.1.2 Paccayapaccanīya)](../../1.6.1.2.md)
-
+[Go to previous page (1.6.1.1.2 Saṅkhyāvāra)](../1.6.1.1.2.md) / [Go to parent page (1.6.1.1.2 Saṅkhyāvāra)](../1.6.1.1.2.md) / [Go to next page (1.6.1.2 Paccayapaccanīya)](../../1.6.1.2.md)
 

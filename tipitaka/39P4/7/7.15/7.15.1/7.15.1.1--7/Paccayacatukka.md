@@ -15,32 +15,31 @@
 
 (53.)
 
-1673\. Kusalaṃ sauttaraṃ dhammaṃ paṭicca kusalo sauttaro dhammo uppajjati hetupaccayā…  tīṇi.
+1673\. Kusalaṁ sauttaraṁ dhammaṁ paṭicca kusalo sauttaro dhammo uppajjati hetupaccayā… tīṇi.
 
-1674\. Akusalaṃ sauttaraṃ dhammaṃ paṭicca akusalo sauttaro dhammo uppajjati hetupaccayā…  tīṇi.
+1674\. Akusalaṁ sauttaraṁ dhammaṁ paṭicca akusalo sauttaro dhammo uppajjati hetupaccayā… tīṇi.
 
-1675\. Abyākataṃ sauttaraṃ dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā. (1)
+1675\. Abyākataṁ sauttaraṁ dhammaṁ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā. (1)
 
-1676\. Kusalaṃ sauttarañca abyākataṃ sauttarañca dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā. (1)
+1676\. Kusalaṁ sauttarañca abyākataṁ sauttarañca dhammaṁ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā. (1)
 
-1677\. Akusalaṃ sauttarañca abyākataṃ sauttarañca dhammaṃ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1677\. Akusalaṁ sauttarañca abyākataṁ sauttarañca dhammaṁ paṭicca abyākato sauttaro dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (54.)
 
-1678\. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ. Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1678\. Hetuyā nava, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ. Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (55.)
 
-1679\. Kusalo sauttaro dhammo kusalassa sauttarassa dhammassa hetupaccayena paccayo…  tīṇi.
+1679\. Kusalo sauttaro dhammo kusalassa sauttarassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1680\. Akusalo sauttaro dhammo akusalassa sauttarassa dhammassa hetupaccayena paccayo…  tīṇi.
+1680\. Akusalo sauttaro dhammo akusalassa sauttarassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1681\. Abyākato sauttaro dhammo abyākatassa sauttarassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+1681\. Abyākato sauttaro dhammo abyākatassa sauttarassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (56.)
 
-1682\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ.)
+1682\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe… avigate terasa. (Saṁkhittaṁ.)
 
-[Go to previous page (7.15.1.1--7 Paṭiccādivāra)](../7.15.1.1--7.md) / [Go to parent page (7.15.1.1--7 Paṭiccādivāra)](../7.15.1.1--7.md) / [Go to next page (7.15.2 Anuttarapada)](../../7.15.2.md)
-
+[Go to previous page (7.15.1.1--7 Paṭiccādivāra)](../7.15.1.1--7.md) / [Go to parent page (7.15.1.1--7 Paṭiccādivāra)](../7.15.1.1--7.md) / [Go to next page (7.15.2 Anuttarapada)](../../7.15.2.md)
 

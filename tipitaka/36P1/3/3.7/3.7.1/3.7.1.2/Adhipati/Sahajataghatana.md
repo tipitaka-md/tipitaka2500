@@ -25,4 +25,3 @@
 
 [Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Anantara)](../Anantara.md)
 
-

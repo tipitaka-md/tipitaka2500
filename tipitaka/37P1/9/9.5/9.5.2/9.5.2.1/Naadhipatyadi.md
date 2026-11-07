@@ -15,8 +15,7 @@
 
 (64.)
 
-932\. Dassanena pahātabbaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbo dhammo uppajjati naadhipatipaccayā…  napurejātapaccayā…  napacchājātapaccayā…  naāsevanapaccayā…  nakammapaccayā…  navipākapaccayā… —  nevadassanena nabhāvanāya…pe…  najhānapaccayā—  pañcaviññāṇaṃ…pe…  namaggapaccayā—  ahetukaṃ…pe…  nevadassanena nabhāvanāya pahātabbo…pe…  navippayuttapaccayā…  tīṇi.
+932\. Dassanena pahātabbaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbo dhammo uppajjati naadhipatipaccayā… napurejātapaccayā… napacchājātapaccayā… naāsevanapaccayā… nakammapaccayā… navipākapaccayā… — nevadassanena nabhāvanāya…pe… najhānapaccayā— pañcaviññāṇaṁ…pe… namaggapaccayā— ahetukaṁ…pe… nevadassanena nabhāvanāya pahātabbo…pe… navippayuttapaccayā… tīṇi.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.5.2.1 Vibhaṅgavāra)](../9.5.2.1.md) / [Go to next page (9.5.2.2 Saṅkhyāvāra)](../9.5.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.5.2.1 Vibhaṅgavāra)](../9.5.2.1.md) / [Go to next page (9.5.2.2 Saṅkhyāvāra)](../9.5.2.2.md)
 

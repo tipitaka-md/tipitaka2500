@@ -19,4 +19,3 @@
 
 [Go to previous page (Vipākasabhāga)](Vipakasabhaga.md) / [Go to parent page (Vipāka)](../Vipaka.md) / [Go to next page (Āhāra)](../Ahara.md)
 
-

@@ -15,14 +15,9 @@
 
 (119.)
 
-442\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati anantarapaccayā…  samanantarapaccayā.
+442\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati anantarapaccayā… samanantarapaccayā.
 
----
+443\. (Yathā ārammaṇapaccayaṁ, evaṁ vitthāretabbaṁ.)
 
-443\. (Yathā ārammaṇapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

@@ -15,11 +15,10 @@
 
 (52.)
 
-249\. Nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā dve, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte dve, nonatthiyā ekaṃ, novigate ekaṃ.
+249\. Nahetupaccayā naārammaṇe ekaṁ, naadhipatiyā dve, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte dve, napacchājāte dve, naāsevane dve, nakamme ekaṁ, navipāke dve, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte dve, nonatthiyā ekaṁ, novigate ekaṁ.
 
 * [Tika](Nahetuduka/Tika.md)
 * [Vīsaka](Nahetuduka/Visaka.md)
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 

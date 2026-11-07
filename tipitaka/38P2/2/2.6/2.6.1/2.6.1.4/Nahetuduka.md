@@ -15,14 +15,9 @@
 
 (139.)
 
-864\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ…pe…  avigate ekaṃ.
+864\. Nahetupaccayā ārammaṇe ekaṁ, anantare ekaṁ…pe… avigate ekaṁ.
 
----
+865\. Paccanīyānulomaṁ.
 
-865\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (2.6.1.4 Paccayapaccanīyānuloma)](../2.6.1.4.md) / [Go to parent page (2.6.1.4 Paccayapaccanīyānuloma)](../2.6.1.4.md) / [Go to next page (2.6.2 Sahajātavāra)](../../2.6.2.md)
-
+[Go to previous page (2.6.1.4 Paccayapaccanīyānuloma)](../2.6.1.4.md) / [Go to parent page (2.6.1.4 Paccayapaccanīyānuloma)](../2.6.1.4.md) / [Go to next page (2.6.2 Sahajātavāra)](../../2.6.2.md)
 

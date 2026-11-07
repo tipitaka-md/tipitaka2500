@@ -15,10 +15,9 @@
 
 (22.)
 
-2801\. Ajjhattaṃ dhammaṃ paccayā ajjhatto dhammo uppajjati nahetupaccayā—  ahetukaṃ ajjhattaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā. Ekaṃ mahābhūtaṃ…pe…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  cakkhāyatanaṃ…pe…  kāyāyatanaṃ…pe…  vatthuṃ paccayā ahetukā ajjhattā khandhā. Vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+2801\. Ajjhattaṁ dhammaṁ paccayā ajjhatto dhammo uppajjati nahetupaccayā— ahetukaṁ ajjhattaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paccayā vatthu, vatthuṁ paccayā khandhā. Ekaṁ mahābhūtaṁ…pe… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… cakkhāyatanaṁ…pe… kāyāyatanaṁ…pe… vatthuṁ paccayā ahetukā ajjhattā khandhā. Vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-2802\. Bahiddhā dhammaṃ paccayā bahiddhā dhammo uppajjati nahetupaccayā (pavattipaṭisandhipi mahābhūtāpi kātabbā)—  cakkhāyatanaṃ…pe…  kāyāyatanaṃ…pe…  vatthuṃ paccayā ahetukā bahiddhā khandhā. Vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+2802\. Bahiddhā dhammaṁ paccayā bahiddhā dhammo uppajjati nahetupaccayā (pavattipaṭisandhipi mahābhūtāpi kātabbā)— cakkhāyatanaṁ…pe… kāyāyatanaṁ…pe… vatthuṁ paccayā ahetukā bahiddhā khandhā. Vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to parent page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
-
+[Go to previous page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to parent page (21.3.2.1 Vibhaṅgavāra)](../21.3.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
 

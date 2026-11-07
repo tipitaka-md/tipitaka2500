@@ -15,8 +15,7 @@
 
 * Soḷasaka (saindriya)
 
-1187\. Nahetupaccayā naārammaṇapaccayā…pe…  nakammapaccayā navipākapaccayā naindriyapaccayā najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1187\. Nahetupaccayā naārammaṇapaccayā…pe… nakammapaccayā navipākapaccayā naindriyapaccayā najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
 [Go to previous page (Ekavīsaka (sāhāra))](kavīsaka_sahara.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Ekavīsaka (saindriya))](kavisaka_saindriya.md)
-
 

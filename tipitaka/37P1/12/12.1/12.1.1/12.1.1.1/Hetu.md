@@ -15,28 +15,27 @@
 
 (1.)
 
-1655\. Sekkhaṃ dhammaṃ paṭicca sekkho dhammo uppajjati hetupaccayā—  sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1655\. Sekkhaṁ dhammaṁ paṭicca sekkho dhammo uppajjati hetupaccayā— sekkhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1656\. Sekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā—  sekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1656\. Sekkhaṁ dhammaṁ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā— sekkhe khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1657\. Sekkhaṃ dhammaṃ paṭicca sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā—  sekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1657\. Sekkhaṁ dhammaṁ paṭicca sekkho ca nevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā— sekkhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (2.)
 
-1658\. Asekkhaṃ dhammaṃ paṭicca asekkho dhammo uppajjati hetupaccayā—  asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (1)
+1658\. Asekkhaṁ dhammaṁ paṭicca asekkho dhammo uppajjati hetupaccayā— asekkhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… . (1)
 
-1659\. Asekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā—  asekkhe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1659\. Asekkhaṁ dhammaṁ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā— asekkhe khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1660\. Asekkhaṃ dhammaṃ paṭicca asekkho ca nevasekkhanāsekkho ca dhammā…pe…  asekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1660\. Asekkhaṁ dhammaṁ paṭicca asekkho ca nevasekkhanāsekkho ca dhammā…pe… asekkhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (3.)
 
-1661\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā—  nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+1661\. Nevasekkhanāsekkhaṁ dhammaṁ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā— nevasekkhanāsekkhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-1662\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā—  sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1662\. Sekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā— sekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1663\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā—  asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1663\. Asekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca nevasekkhanāsekkho dhammo uppajjati hetupaccayā— asekkhe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (12.1.1.1 Vibhaṅgavāra)](../12.1.1.1.md) / [Go to parent page (12.1.1.1 Vibhaṅgavāra)](../12.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
-
+[Go to previous page (12.1.1.1 Vibhaṅgavāra)](../12.1.1.1.md) / [Go to parent page (12.1.1.1 Vibhaṅgavāra)](../12.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 

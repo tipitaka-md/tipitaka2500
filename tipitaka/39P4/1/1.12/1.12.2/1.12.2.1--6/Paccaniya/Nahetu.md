@@ -17,16 +17,15 @@
 
 (164.)
 
-597\. Parittaṃ nahetuṃ dhammaṃ paṭicca paritto nahetu dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+597\. Parittaṁ nahetuṁ dhammaṁ paṭicca paritto nahetu dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
-598\. Nahetuyā ekaṃ, naārammaṇe pañca, naadhipatiyā dasa, napurejāte dvādasa, napacchājāte naāsevane terasa, nakamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṃ…pe…  navippayutte tīṇi…pe…  novigate pañca. (Saṃkhittaṃ.)
+598\. Nahetuyā ekaṁ, naārammaṇe pañca, naadhipatiyā dasa, napurejāte dvādasa, napacchājāte naāsevane terasa, nakamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṁ…pe… navippayutte tīṇi…pe… novigate pañca. (Saṁkhittaṁ.)
 
-599\. Hetupaccayā naārammaṇe pañca. (Saṃkhittaṃ.)
+599\. Hetupaccayā naārammaṇe pañca. (Saṁkhittaṁ.)
 
-600\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+600\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-601\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+601\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.12.2.7 Pañhāvāra)](../../1.12.2.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.12.2.7 Pañhāvāra)](../../1.12.2.7.md)
 

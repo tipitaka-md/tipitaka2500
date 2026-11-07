@@ -17,22 +17,21 @@
 
 (62.)
 
-201\. Upādinnupādāniyaṃ nahetuṃ dhammaṃ paṭicca upādinnupādāniyo nahetu dhammo uppajjati nahetupaccayā…  tīṇi.
+201\. Upādinnupādāniyaṁ nahetuṁ dhammaṁ paṭicca upādinnupādāniyo nahetu dhammo uppajjati nahetupaccayā… tīṇi.
 
-202\. Anupādinnupādāniyaṃ nahetuṃ dhammaṃ paṭicca anupādinnupādāniyo nahetu dhammo uppajjati nahetupaccayā. (1)
+202\. Anupādinnupādāniyaṁ nahetuṁ dhammaṁ paṭicca anupādinnupādāniyo nahetu dhammo uppajjati nahetupaccayā. (1)
 
-203\. Upādinnupādāniyaṃ nahetuñca anupādinnupādāniyaṃ nahetuñca dhammaṃ paṭicca anupādinnupādāniyo nahetu dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+203\. Upādinnupādāniyaṁ nahetuñca anupādinnupādāniyaṁ nahetuñca dhammaṁ paṭicca anupādinnupādāniyo nahetu dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
 (63.)
 
-204\. Nahetuyā pañca, naārammaṇe cha…pe…  napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke cha, naāhāre naindriye najhāne dve, namagge pañca, nasampayutte cha, navippayutte tīṇi…pe…  novigate cha. (Saṃkhittaṃ.)
+204\. Nahetuyā pañca, naārammaṇe cha…pe… napurejāte satta, napacchājāte naāsevane nava, nakamme dve, navipāke cha, naāhāre naindriye najhāne dve, namagge pañca, nasampayutte cha, navippayutte tīṇi…pe… novigate cha. (Saṁkhittaṁ.)
 
-205\. Hetupaccayā naārammaṇe cha. (Saṃkhittaṃ.)
+205\. Hetupaccayā naārammaṇe cha. (Saṁkhittaṁ.)
 
-206\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+206\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-207\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+207\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.5 Saṃkiliṭṭhattika, Hetuduka)](../../../../1.5.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.5 Saṃkiliṭṭhattika, Hetuduka)](../../../../1.5.md)
 

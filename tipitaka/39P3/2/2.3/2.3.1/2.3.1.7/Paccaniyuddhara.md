@@ -15,18 +15,17 @@
 
 (29.)
 
-1314\. Hetusampayutto kusalo dhammo hetusampayuttassa kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo.
+1314\. Hetusampayutto kusalo dhammo hetusampayuttassa kusalassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo.
 
 (30.)
 
-1315\. Nahetuyā ekaṃ, naārammaṇe ekaṃ. (Saṃkhittaṃ.)
+1315\. Nahetuyā ekaṁ, naārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-1316\. Hetupaccayā naārammaṇe ekaṃ. (Saṃkhittaṃ.)
+1316\. Hetupaccayā naārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-1317\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+1317\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-1318\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1318\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.3.1.7 Pañhāvāra)](../2.3.1.7.md) / [Go to next page (2.3.2 Akusalapada)](../../2.3.2.md)
-
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.3.1.7 Pañhāvāra)](../2.3.1.7.md) / [Go to next page (2.3.2 Akusalapada)](../../2.3.2.md)
 

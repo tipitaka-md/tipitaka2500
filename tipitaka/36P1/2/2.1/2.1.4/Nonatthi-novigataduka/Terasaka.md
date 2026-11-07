@@ -13,8 +13,7 @@
 
 * Terasaka
 
-398\. Novigatapaccayā nahetupaccayā…pe…  nakammapaccayā sahajāte ekaṃ, nissaye ekaṃ, āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+398\. Novigatapaccayā nahetupaccayā…pe… nakammapaccayā sahajāte ekaṁ, nissaye ekaṁ, āhāre ekaṁ, atthiyā ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Aṭṭhaka)](Atthaka.md) / [Go to parent page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to next page (Pannarasaka)](Pannarasaka.md)
-
 

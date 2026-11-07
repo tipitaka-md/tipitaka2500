@@ -17,8 +17,7 @@
 
 (242.)
 
-2919\. Hetuyā nava, ārammaṇe nava (arūpaṃ sabbaṃ uddharitabbaṃ. Cittasamuṭṭhānadukasadisaṃ.) Adhipatiyā nava (mahābhūtā chasupi pañhesu kātabbā, adhipatiyā tīsu natthi.) Anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte pañca, āsevane pañca, kamme nava (sabbattha nava), avigate nava.
+2919\. Hetuyā nava, ārammaṇe nava (arūpaṁ sabbaṁ uddharitabbaṁ. Cittasamuṭṭhānadukasadisaṁ.) Adhipatiyā nava (mahābhūtā chasupi pañhesu kātabbā, adhipatiyā tīsu natthi.) Anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte pañca, āsevane pañca, kamme nava (sabbattha nava), avigate nava.
 
-[Go to previous page (10.7.1.1.2 Saṅkhyāvāra)](../10.7.1.1.2.md) / [Go to parent page (10.7.1.1.2 Saṅkhyāvāra)](../10.7.1.1.2.md) / [Go to next page (10.7.1.2 Paccayapaccanīya)](../../10.7.1.2.md)
-
+[Go to previous page (10.7.1.1.2 Saṅkhyāvāra)](../10.7.1.1.2.md) / [Go to parent page (10.7.1.1.2 Saṅkhyāvāra)](../10.7.1.1.2.md) / [Go to next page (10.7.1.2 Paccayapaccanīya)](../../10.7.1.2.md)
 

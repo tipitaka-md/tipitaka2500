@@ -17,14 +17,13 @@
 
 (3.)
 
-1475\. Sappaccayaṃ kusalaṃ dhammaṃ paṭicca sappaccayo kusalo dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+1475\. Sappaccayaṁ kusalaṁ dhammaṁ paṭicca sappaccayo kusalo dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (4.)
 
-1476\. Naadhipatiyā ekaṃ, napurejāte ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, navippayutte ekaṃ. (Saṃkhittaṃ.)
+1476\. Naadhipatiyā ekaṁ, napurejāte ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, navippayutte ekaṁ. (Saṁkhittaṁ.)
 
-1477\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1477\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccayacatukka)](../accayacatukka.md)
-
 

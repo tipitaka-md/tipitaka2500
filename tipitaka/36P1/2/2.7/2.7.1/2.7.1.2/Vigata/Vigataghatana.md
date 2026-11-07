@@ -17,14 +17,9 @@
 
 (386.)
 
-1150\. Vigata anantara samanantara upanissaya natthīti satta. Vigata anantara samanantara upanissaya āsevana natthīti tīṇi. Vigata anantara samanantara upanissaya kamma natthīti ekaṃ.
+1150\. Vigata anantara samanantara upanissaya natthīti satta. Vigata anantara samanantara upanissaya āsevana natthīti tīṇi. Vigata anantara samanantara upanissaya kamma natthīti ekaṁ.
 
----
-
-1151\. Vigatamūlakaṃ.
-
-
+1151\. Vigatamūlakaṁ.
 
 [Go to previous page (Vigatasabhāga)](Vigatasabhaga.md) / [Go to parent page (Vigata)](../Vigata.md) / [Go to next page (Avigata)](../Avigata.md)
-
 

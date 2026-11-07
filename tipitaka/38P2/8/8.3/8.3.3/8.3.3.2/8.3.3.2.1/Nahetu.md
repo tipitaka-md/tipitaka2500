@@ -17,14 +17,13 @@
 
 (62.)
 
-2016\. Nīvaraṇasampayuttaṃ dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paccayā avijjānīvaraṇaṃ. (1)
+2016\. Nīvaraṇasampayuttaṁ dhammaṁ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paccayā avijjānīvaraṇaṁ. (1)
 
-2017\. Nīvaraṇavippayuttaṃ dhammaṃ paccayā nīvaraṇavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ nīvaraṇavippayuttaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  (yāva asaññasattā), cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā nīvaraṇavippayuttā khandhā. (1)
+2017\. Nīvaraṇavippayuttaṁ dhammaṁ paccayā nīvaraṇavippayutto dhammo uppajjati nahetupaccayā— ahetukaṁ nīvaraṇavippayuttaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… (yāva asaññasattā), cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā nīvaraṇavippayuttā khandhā. (1)
 
-2018\. Nīvaraṇavippayuttaṃ dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
+2018\. Nīvaraṇavippayuttaṁ dhammaṁ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā— vatthuṁ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
-2019\. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.) (1)
+2019\. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṁ paccayā nīvaraṇasampayutto dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (8.3.3.2.1 Vibhaṅgavāra)](../8.3.3.2.1.md) / [Go to parent page (8.3.3.2.1 Vibhaṅgavāra)](../8.3.3.2.1.md) / [Go to next page (8.3.3.2.2 Saṅkhyāvāra)](../8.3.3.2.2.md)
-
+[Go to previous page (8.3.3.2.1 Vibhaṅgavāra)](../8.3.3.2.1.md) / [Go to parent page (8.3.3.2.1 Vibhaṅgavāra)](../8.3.3.2.1.md) / [Go to next page (8.3.3.2.2 Saṅkhyāvāra)](../8.3.3.2.2.md)
 

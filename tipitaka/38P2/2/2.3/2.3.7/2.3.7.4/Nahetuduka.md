@@ -15,17 +15,9 @@
 
 (52.)
 
-657\. Nahetupaccayā ārammaṇe dve, adhipatiyā cattāri, anantare ekaṃ, samanantare ekaṃ, sahajāte tīṇi, aññamaññe ekaṃ, nissaye tīṇi, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṃ, kamme tīṇi…pe…  magge tīṇi, sampayutte ekaṃ, vippayutte tīṇi, atthiyā pañca, natthiyā ekaṃ, vigate ekaṃ, avigate pañca.
+657\. Nahetupaccayā ārammaṇe dve, adhipatiyā cattāri, anantare ekaṁ, samanantare ekaṁ, sahajāte tīṇi, aññamaññe ekaṁ, nissaye tīṇi, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṁ, kamme tīṇi…pe… magge tīṇi, sampayutte ekaṁ, vippayutte tīṇi, atthiyā pañca, natthiyā ekaṁ, vigate ekaṁ, avigate pañca.
 
----
+658\. Paccanīyānulomaṁ. Sanidassanadukaṁ niṭṭhitaṁ.
 
-658\. Paccanīyānulomaṃ.
-
-  
-Sanidassanadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (2.3.7.4 Paccayapaccanīyānuloma)](../2.3.7.4.md) / [Go to parent page (2.3.7.4 Paccayapaccanīyānuloma)](../2.3.7.4.md) / [Go to next page (2.4 Sappaṭighaduka)](../../../2.4.md)
-
+[Go to previous page (2.3.7.4 Paccayapaccanīyānuloma)](../2.3.7.4.md) / [Go to parent page (2.3.7.4 Paccayapaccanīyānuloma)](../2.3.7.4.md) / [Go to next page (2.4 Sappaṭighaduka)](../../../2.4.md)
 

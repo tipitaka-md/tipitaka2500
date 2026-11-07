@@ -15,18 +15,17 @@
 
 (240.)
 
-473\. Hetu pītisahagato dhammo hetussa pītisahagatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+473\. Hetu pītisahagato dhammo hetussa pītisahagatassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (241.)
 
-474\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+474\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-475\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+475\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-476\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+476\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-477\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+477\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.7.1.7 Pañhāvāra)](../1.7.1.7.md) / [Go to next page (1.7.2 Sukhasahagatapada)](../../1.7.2.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.7.1.7 Pañhāvāra)](../1.7.1.7.md) / [Go to next page (1.7.2 Sukhasahagatapada)](../../1.7.2.md)
 

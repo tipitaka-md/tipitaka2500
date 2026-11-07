@@ -17,8 +17,7 @@
 
 (82.)
 
-1522\. Saññojanasampayutto dhammo saññojanasampayuttassa dhammassa āsevanapaccayena paccayo…  nava. (Āvajjanāpi vuṭṭhānampi natthi.)
+1522\. Saññojanasampayutto dhammo saññojanasampayuttassa dhammassa āsevanapaccayena paccayo… nava. (Āvajjanāpi vuṭṭhānampi natthi.)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

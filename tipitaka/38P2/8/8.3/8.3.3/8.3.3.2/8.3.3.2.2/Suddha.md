@@ -17,8 +17,7 @@
 
 (63.)
 
-2020\. Nahetuyā cattāri, naārammaṇe tīṇi…pe…  napurejāte cattāri, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava…pe…  nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+2020\. Nahetuyā cattāri, naārammaṇe tīṇi…pe… napurejāte cattāri, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava…pe… nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (8.3.3.2.2 Saṅkhyāvāra)](../8.3.3.2.2.md) / [Go to parent page (8.3.3.2.2 Saṅkhyāvāra)](../8.3.3.2.2.md) / [Go to next page (8.3.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../8.3.3.3--4.md)
-
+[Go to previous page (8.3.3.2.2 Saṅkhyāvāra)](../8.3.3.2.2.md) / [Go to parent page (8.3.3.2.2 Saṅkhyāvāra)](../8.3.3.2.2.md) / [Go to next page (8.3.3.3--4 Paccayānulomapaccanīya-paccayapaccanīyānuloma)](../../8.3.3.3--4.md)
 

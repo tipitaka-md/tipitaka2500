@@ -15,16 +15,15 @@
 
 (5.)
 
-1879\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati ārammaṇapaccayā—  parittaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuṃ paṭicca khandhā. (1)
+1879\. Parittaṁ dhammaṁ paṭicca paritto dhammo uppajjati ārammaṇapaccayā— parittaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… vatthuṁ paṭicca khandhā. (1)
 
-1880\. Parittaṃ dhammaṃ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca mahaggatā khandhā. (2)
+1880\. Parittaṁ dhammaṁ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca mahaggatā khandhā. (2)
 
-1881\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā—  mahaggataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+1881\. Mahaggataṁ dhammaṁ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā— mahaggataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-1882\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati ārammaṇapaccayā—  appamāṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1882\. Appamāṇaṁ dhammaṁ paṭicca appamāṇo dhammo uppajjati ārammaṇapaccayā— appamāṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1883\. Parittañca mahaggatañca dhammaṃ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe mahaggataṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1883\. Parittañca mahaggatañca dhammaṁ paṭicca mahaggato dhammo uppajjati ārammaṇapaccayā— paṭisandhikkhaṇe mahaggataṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.1.1.1 Vibhaṅgavāra)](../13.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

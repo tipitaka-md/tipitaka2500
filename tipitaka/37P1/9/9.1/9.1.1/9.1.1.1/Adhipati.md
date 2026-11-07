@@ -15,18 +15,17 @@
 
 (6.)
 
-802\. Dassanena pahātabbaṃ dhammaṃ paṭicca dassanena pahātabbo dhammo uppajjati adhipatipaccayā…  tīṇi.
+802\. Dassanena pahātabbaṁ dhammaṁ paṭicca dassanena pahātabbo dhammo uppajjati adhipatipaccayā… tīṇi.
 
-803\. Bhāvanāya pahātabbaṃ dhammaṃ paṭicca bhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā…  tīṇi.
+803\. Bhāvanāya pahātabbaṁ dhammaṁ paṭicca bhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā… tīṇi.
 
-804\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā—  nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+804\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā— nevadassanena nabhāvanāya pahātabbaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (1)
 
 (7.)
 
-805\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā—  dassanena pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+805\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā— dassanena pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-806\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+806\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo dhammo uppajjati adhipatipaccayā— bhāvanāya pahātabbe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (9.1.1.1 Vibhaṅgavāra)](../9.1.1.1.md) / [Go to next page (Anantara-samanantara)](Anantara-samanantara.md)
 

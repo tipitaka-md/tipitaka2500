@@ -15,19 +15,11 @@
 
 (58.)
 
-3063\. Hetu sahajāta nissaya atthi avigatanti satta. Hetu sahajāta aññamañña nissaya atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya sampayutta atthi avigatanti ekaṃ. Hetu sahajāta nissaya vippayutta atthi avigatanti satta. (Avipāka— 4.)
+3063\. Hetu sahajāta nissaya atthi avigatanti satta. Hetu sahajāta aññamañña nissaya atthi avigatanti ekaṁ. Hetu sahajāta aññamañña nissaya sampayutta atthi avigatanti ekaṁ. Hetu sahajāta nissaya vippayutta atthi avigatanti satta. (Avipāka— 4.)
 
-3064\. Hetu sahajāta nissaya vipāka atthi avigatanti satta. Hetu sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṃ. Hetu sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti ekaṃ. Hetu sahajāta nissaya vipāka vippayutta atthi avigatanti satta. Hetu sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti ekaṃ. (Savipāka— 5.)
+3064\. Hetu sahajāta nissaya vipāka atthi avigatanti satta. Hetu sahajāta aññamañña nissaya vipāka atthi avigatanti ekaṁ. Hetu sahajāta aññamañña nissaya vipāka sampayutta atthi avigatanti ekaṁ. Hetu sahajāta nissaya vipāka vippayutta atthi avigatanti satta. Hetu sahajāta aññamañña nissaya vipāka vippayutta atthi avigatanti ekaṁ. (Savipāka— 5.)
 
----
+3065\. (Evaṁ sabbo gaṇanavāro gaṇetabbo.) Anulomaṁ.
 
-3065\. (Evaṃ sabbo gaṇanavāro gaṇetabbo.)
-
-  
-Anulomaṃ.
-
-
-
-[Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (23.7.1.2 Saṅkhyāvāra)](../23.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (23.7.1.2 Saṅkhyāvāra)](../23.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

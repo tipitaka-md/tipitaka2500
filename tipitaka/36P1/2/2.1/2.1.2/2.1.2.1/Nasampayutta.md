@@ -15,8 +15,7 @@
 
 (48.)
 
-243\. Kusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati nasampayuttapaccayā—  kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Naārammaṇapaccayasadisaṃ.)
+243\. Kusalaṁ dhammaṁ paṭicca abyākato dhammo uppajjati nasampayuttapaccayā— kusale khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Naārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Namagga)](Namagga.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
-
+[Go to previous page (Namagga)](Namagga.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
 

@@ -17,14 +17,13 @@
 
 (127.)
 
-445\. Dassanena pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca dassanena pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+445\. Dassanena pahātabbahetukaṁ nahetuṁ dhammaṁ paṭicca dassanena pahātabbahetuko nahetu dhammo uppajjati hetupaccayā… tīṇi.
 
-446\. Bhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca bhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+446\. Bhāvanāya pahātabbahetukaṁ nahetuṁ dhammaṁ paṭicca bhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā… tīṇi.
 
-447\. Nevadassanena nabhāvanāya pahātabbahetukaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+447\. Nevadassanena nabhāvanāya pahātabbahetukaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbahetuko nahetu dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
-448\. Hetuyā nava, ārammaṇe tīṇi…pe…  avigate nava. (Saṃkhittaṃ.)
+448\. Hetuyā nava, ārammaṇe tīṇi…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
-
 

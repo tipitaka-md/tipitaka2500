@@ -19,4 +19,3 @@
 
 [Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
 
-

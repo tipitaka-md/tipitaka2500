@@ -17,14 +17,13 @@
 
 (231.)
 
-4588\. Rūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro dhammo uppajjati naadhipatipaccayā—  rūpāvacare khandhe paṭicca rūpāvacarādhipati vipākaṃ, rūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . Rūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati naadhipatipaccayā—  vipāke rūpāvacare khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . Rūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti naadhipatipaccayā—  vipākaṃ rūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+4588\. Rūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro dhammo uppajjati naadhipatipaccayā— rūpāvacare khandhe paṭicca rūpāvacarādhipati vipākaṁ, rūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . Rūpāvacaraṁ dhammaṁ paṭicca narūpāvacaro dhammo uppajjati naadhipatipaccayā— vipāke rūpāvacare khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . Rūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti naadhipatipaccayā— vipākaṁ rūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
-4589\. Narūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati naadhipatipaccayā—  narūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  tīṇi. (Nakāmāvacaraṃ paṭiccavārasadisaṃ ninnānaṃ, idha sabbe mahābhūtā kātabbā.) (3)
+4589\. Narūpāvacaraṁ dhammaṁ paṭicca narūpāvacaro dhammo uppajjati naadhipatipaccayā— narūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… tīṇi. (Nakāmāvacaraṁ paṭiccavārasadisaṁ ninnānaṁ, idha sabbe mahābhūtā kātabbā.) (3)
 
 (232.)
 
-4590\. Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro dhammo uppajjati naadhipatipaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca narūpāvacaro dhammo uppajjati naadhipatipaccayā—  vipāke rūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti naadhipatipaccayā—  paṭisandhikkhaṇe rūpāvacaraṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3) Naanantarapaccayā…pe…  naupanissayapaccayā.
+4590\. Rūpāvacarañca narūpāvacarañca dhammaṁ paṭicca rūpāvacaro dhammo uppajjati naadhipatipaccayā— paṭisandhikkhaṇe rūpāvacaraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… . Rūpāvacarañca narūpāvacarañca dhammaṁ paṭicca narūpāvacaro dhammo uppajjati naadhipatipaccayā— vipāke rūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . Rūpāvacarañca narūpāvacarañca dhammaṁ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti naadhipatipaccayā— paṭisandhikkhaṇe rūpāvacaraṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… rūpāvacare khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (3) Naanantarapaccayā…pe… naupanissayapaccayā.
 
-[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (13.12.1.2.1 Vibhaṅgavāra)](../13.12.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
-
+[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (13.12.1.2.1 Vibhaṅgavāra)](../13.12.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
 

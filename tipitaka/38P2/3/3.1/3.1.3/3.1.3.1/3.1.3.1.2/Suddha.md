@@ -17,14 +17,9 @@
 
 (12.)
 
-999\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava.
+999\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… vipāke ekaṁ…pe… avigate nava.
 
----
+1000\. Anulomaṁ.
 
-1000\. Anulomaṃ.
-
-
-
-[Go to previous page (3.1.3.1.2 Saṅkhyāvāra)](../3.1.3.1.2.md) / [Go to parent page (3.1.3.1.2 Saṅkhyāvāra)](../3.1.3.1.2.md) / [Go to next page (3.1.3.2 Paccayapaccanīya)](../../3.1.3.2.md)
-
+[Go to previous page (3.1.3.1.2 Saṅkhyāvāra)](../3.1.3.1.2.md) / [Go to parent page (3.1.3.1.2 Saṅkhyāvāra)](../3.1.3.1.2.md) / [Go to next page (3.1.3.2 Paccayapaccanīya)](../../3.1.3.2.md)
 

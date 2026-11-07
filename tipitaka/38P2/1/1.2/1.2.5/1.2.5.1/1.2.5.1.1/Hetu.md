@@ -17,12 +17,11 @@
 
 (86.)
 
-234\. Sahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati hetupaccayā—  sahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+234\. Sahetukaṁ dhammaṁ saṁsaṭṭho sahetuko dhammo uppajjati hetupaccayā— sahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-235\. Ahetukaṃ dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ saṃsaṭṭhā vicikicchāsahagatā uddhaccasahagatā khandhā. (1)
+235\. Ahetukaṁ dhammaṁ saṁsaṭṭho sahetuko dhammo uppajjati hetupaccayā— vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ saṁsaṭṭhā vicikicchāsahagatā uddhaccasahagatā khandhā. (1)
 
-236\. Sahetukañca ahetukañca dhammaṃ saṃsaṭṭho sahetuko dhammo uppajjati hetupaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
+236\. Sahetukañca ahetukañca dhammaṁ saṁsaṭṭho sahetuko dhammo uppajjati hetupaccayā— vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca mohañca saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… . (1)
 
-[Go to previous page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to parent page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to parent page (1.2.5.1.1 Vibhaṅgavāra)](../1.2.5.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

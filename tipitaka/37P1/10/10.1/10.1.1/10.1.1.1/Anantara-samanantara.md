@@ -15,8 +15,7 @@
 
 (11.)
 
-1086\. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati anantarapaccayā. Samanantarapaccayā. (Ārammaṇasadisaṃ.)
+1086\. Dassanena pahātabbahetukaṁ dhammaṁ paṭicca dassanena pahātabbahetuko dhammo uppajjati anantarapaccayā. Samanantarapaccayā. (Ārammaṇasadisaṁ.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.1.1.1 Vibhaṅgavāra)](../10.1.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.1.1.1 Vibhaṅgavāra)](../10.1.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

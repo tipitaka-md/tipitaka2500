@@ -13,14 +13,9 @@
 
 (7.)
 
-2822\. Nahetupaccayā ārammaṇe dve…pe…  vipāke ekaṃ…pe…  magge ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
-
----
+2822\. Nahetupaccayā ārammaṇe dve…pe… vipāke ekaṁ…pe… magge ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
 2823\. Paṭiccavāro.
 
-
-
-[Go to previous page (6.1.4 Paccayapaccanīyānuloma)](../6.1.4.md) / [Go to parent page (6.1.4 Paccayapaccanīyānuloma)](../6.1.4.md) / [Go to next page (6.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../6.2--6.md)
-
+[Go to previous page (6.1.4 Paccayapaccanīyānuloma)](../6.1.4.md) / [Go to parent page (6.1.4 Paccayapaccanīyānuloma)](../6.1.4.md) / [Go to next page (6.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../6.2--6.md)
 

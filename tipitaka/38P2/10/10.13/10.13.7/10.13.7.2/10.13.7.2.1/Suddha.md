@@ -19,6 +19,5 @@
 
 3370\. Nahetuyā nava, naārammaṇe nava (sabbattha nava), nasampayutte nava, navippayutte cha, noatthiyā cattāri, nonatthiyā nava, novigate nava, noavigate cattāri.
 
-[Go to previous page (10.13.7.2.1 Saṅkhyāvāra)](../10.13.7.2.1.md) / [Go to parent page (10.13.7.2.1 Saṅkhyāvāra)](../10.13.7.2.1.md) / [Go to next page (10.13.7.3 Paccayānulomapaccanīya)](../../10.13.7.3.md)
-
+[Go to previous page (10.13.7.2.1 Saṅkhyāvāra)](../10.13.7.2.1.md) / [Go to parent page (10.13.7.2.1 Saṅkhyāvāra)](../10.13.7.2.1.md) / [Go to next page (10.13.7.3 Paccayānulomapaccanīya)](../../10.13.7.3.md)
 

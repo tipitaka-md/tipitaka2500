@@ -13,14 +13,13 @@
 
 (50.)
 
-134\. Anidassanasappaṭighaṃ dhammaṃ paṭicca naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Anidassanasappaṭighaṃ dhammaṃ paṭicca nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Anidassanasappaṭighaṃ dhammaṃ paṭicca naanidassanaappaṭigho dhammo uppajjati hetupaccayā. Anidassanasappaṭighaṃ dhammaṃ paṭicca nasanidassanasappaṭigho ca naanidassanaappaṭigho ca dhammā uppajjanti hetupaccayā. Anidassanasappaṭighaṃ dhammaṃ paṭicca naanidassanasappaṭigho ca naanidassanaappaṭigho ca dhammā uppajjanti hetupaccayā. Anidassanasappaṭighaṃ dhammaṃ paṭicca nasanidassanasappaṭigho ca naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (6)
+134\. Anidassanasappaṭighaṁ dhammaṁ paṭicca naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Anidassanasappaṭighaṁ dhammaṁ paṭicca nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Anidassanasappaṭighaṁ dhammaṁ paṭicca naanidassanaappaṭigho dhammo uppajjati hetupaccayā. Anidassanasappaṭighaṁ dhammaṁ paṭicca nasanidassanasappaṭigho ca naanidassanaappaṭigho ca dhammā uppajjanti hetupaccayā. Anidassanasappaṭighaṁ dhammaṁ paṭicca naanidassanasappaṭigho ca naanidassanaappaṭigho ca dhammā uppajjanti hetupaccayā. Anidassanasappaṭighaṁ dhammaṁ paṭicca nasanidassanasappaṭigho ca naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (6)
 
-135\. Anidassanaappaṭighaṃ dhammaṃ paṭicca naanidassanaappaṭigho dhammo uppajjati hetupaccayā…  cha.
+135\. Anidassanaappaṭighaṁ dhammaṁ paṭicca naanidassanaappaṭigho dhammo uppajjati hetupaccayā… cha.
 
-136\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṃ paṭicca nasanidassanasappaṭigho dhammo uppajjati hetupaccayā…  cha. (Saṃkhittaṃ.)
+136\. Anidassanasappaṭighañca anidassanaappaṭighañca dhammaṁ paṭicca nasanidassanasappaṭigho dhammo uppajjati hetupaccayā… cha. (Saṁkhittaṁ.)
 
-137\. Hetuyā aṭṭhārasa, ārammaṇe tīṇi…pe…  avigate aṭṭhārasa. (Sabbattha vitthāro. Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+137\. Hetuyā aṭṭhārasa, ārammaṇe tīṇi…pe… avigate aṭṭhārasa. (Sabbattha vitthāro. Sahajātavārampi…pe… sampayuttavārampi vitthāretabbaṁ.)
 
 [Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

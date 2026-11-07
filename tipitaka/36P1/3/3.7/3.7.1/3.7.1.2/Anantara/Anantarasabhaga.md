@@ -21,4 +21,3 @@
 
 [Go to previous page (Anantara)](../Anantara.md) / [Go to parent page (Anantara)](../Anantara.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
 
-

@@ -17,14 +17,13 @@
 
 (1.)
 
-1243\. Sahetukaṃ kusalaṃ dhammaṃ paṭicca sahetuko kusalo dhammo uppajjati hetupaccayā. (1)
+1243\. Sahetukaṁ kusalaṁ dhammaṁ paṭicca sahetuko kusalo dhammo uppajjati hetupaccayā. (1)
 
-1244\. Sahetukaṃ kusalaṃ dhammaṃ paṭicca sahetuko kusalo dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+1244\. Sahetukaṁ kusalaṁ dhammaṁ paṭicca sahetuko kusalo dhammo uppajjati ārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (2.)
 
-1245\. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme ekaṃ, āhāre ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1245\. Hetuyā ekaṁ, ārammaṇe ekaṁ, adhipatiyā ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye ekaṁ, purejāte ekaṁ, āsevane ekaṁ, kamme ekaṁ, āhāre ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
-
 

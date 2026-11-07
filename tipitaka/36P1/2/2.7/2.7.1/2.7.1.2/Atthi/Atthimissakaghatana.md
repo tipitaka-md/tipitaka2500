@@ -21,4 +21,3 @@
 
 [Go to previous page (Atthisabhāga)](Atthisabhaga.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
-

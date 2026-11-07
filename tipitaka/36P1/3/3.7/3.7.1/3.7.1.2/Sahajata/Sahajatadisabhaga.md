@@ -17,8 +17,7 @@
 
 (71.)
 
-1965\. Sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā hetuyā tīṇi, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
+1965\. Sahajātapaccayā… aññamaññapaccayā… nissayapaccayā hetuyā tīṇi, adhipatiyā tīṇi, sahajāte tīṇi, aññamaññe tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (13)
 
 [Go to previous page (Sahajāta)](../Sahajata.md) / [Go to parent page (Sahajāta)](../Sahajata.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
-
 

@@ -15,8 +15,7 @@
 
 (27.)
 
-844\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ…pe…  najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… .
+844\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ…pe… najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… .
 
-[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
-
+[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Namagga)](Namagga.md)
 

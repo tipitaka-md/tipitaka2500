@@ -17,10 +17,9 @@
 
 (8.)
 
-3543\. Upādānaṃ dhammaṃ paṭicca upādāno dhammo uppajjati napurejātapaccayā—  arūpe attavādupādānaṃ paṭicca kāmupādānaṃ, kāmupādānaṃ paṭicca attavādupādānaṃ. (1)
+3543\. Upādānaṁ dhammaṁ paṭicca upādāno dhammo uppajjati napurejātapaccayā— arūpe attavādupādānaṁ paṭicca kāmupādānaṁ, kāmupādānaṁ paṭicca attavādupādānaṁ. (1)
 
-3544\. Upādānaṃ dhammaṃ paṭicca noupādāno dhammo uppajjati napurejātapaccayā—  arūpe upādāne paṭicca sampayuttakā khandhā, upādāne paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ, navapi pañhā arūpe dve upādānā.)
+3544\. Upādānaṁ dhammaṁ paṭicca noupādāno dhammo uppajjati napurejātapaccayā— arūpe upādāne paṭicca sampayuttakā khandhā, upādāne paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ, navapi pañhā arūpe dve upādānā.)
 
-[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (11.1.1.2.1 Vibhaṅgavāra)](../11.1.1.2.1.md) / [Go to next page (11.1.1.2.2 Saṅkhyāvāra)](../11.1.1.2.2.md)
-
+[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (11.1.1.2.1 Vibhaṅgavāra)](../11.1.1.2.1.md) / [Go to next page (11.1.1.2.2 Saṅkhyāvāra)](../11.1.1.2.2.md)
 

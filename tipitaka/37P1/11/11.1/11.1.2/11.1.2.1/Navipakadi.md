@@ -15,8 +15,7 @@
 
 (14.)
 
-1463\. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati navipākapaccayā (paripuṇṇaṃ, paṭisandhi natthi)…  naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā…  nasampayuttapaccayā…  navippayuttapaccayā (tīṇi)…  nonatthipaccayā…  novigatapaccayā.
+1463\. Ācayagāmiṁ dhammaṁ paṭicca ācayagāmī dhammo uppajjati navipākapaccayā (paripuṇṇaṁ, paṭisandhi natthi)… naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā… nasampayuttapaccayā… navippayuttapaccayā (tīṇi)… nonatthipaccayā… novigatapaccayā.
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (11.1.2.2 Saṅkhyāvāra)](../11.1.2.2.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (11.1.2.1 Vibhaṅgavāra)](../11.1.2.1.md) / [Go to next page (11.1.2.2 Saṅkhyāvāra)](../11.1.2.2.md)
 

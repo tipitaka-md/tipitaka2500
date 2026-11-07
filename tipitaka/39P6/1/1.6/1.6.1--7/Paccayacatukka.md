@@ -13,22 +13,21 @@
 
 (20.)
 
-49\. Hetuṃ sappaccayaṃ dhammaṃ paṭicca hetu sappaccayo dhammo uppajjati hetupaccayā…  tīṇi.
+49\. Hetuṁ sappaccayaṁ dhammaṁ paṭicca hetu sappaccayo dhammo uppajjati hetupaccayā… tīṇi.
 
-50\. Nahetuṃ sappaccayaṃ dhammaṃ paṭicca nahetu sappaccayo dhammo uppajjati hetupaccayā…  tīṇi.
+50\. Nahetuṁ sappaccayaṁ dhammaṁ paṭicca nahetu sappaccayo dhammo uppajjati hetupaccayā… tīṇi.
 
-51\. Hetuṃ sappaccayañca nahetuṃ sappaccayañca dhammaṃ paṭicca hetu sappaccayo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+51\. Hetuṁ sappaccayañca nahetuṁ sappaccayañca dhammaṁ paṭicca hetu sappaccayo dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
-52\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+52\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-53\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+53\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (21.)
 
-54\. Hetu sappaccayo dhammo hetussa sappaccayassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+54\. Hetu sappaccayo dhammo hetussa sappaccayassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
-55\. Hetuyā tīṇi, ārammaṇe…pe…  upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava, vippayutte pañca…pe…  avigate nava. (Saṃkhittaṃ. Pañhāvārampi evaṃ vitthāretabbaṃ.)
+55\. Hetuyā tīṇi, ārammaṇe…pe… upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava, vippayutte pañca…pe… avigate nava. (Saṁkhittaṁ. Pañhāvārampi evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.6.1--7 Paṭiccādivāra)](../1.6.1--7.md) / [Go to parent page (1.6.1--7 Paṭiccādivāra)](../1.6.1--7.md) / [Go to next page (1.7 Hetuduka, Saṅkhataduka)](../../1.7.md)
-
+[Go to previous page (1.6.1--7 Paṭiccādivāra)](../1.6.1--7.md) / [Go to parent page (1.6.1--7 Paṭiccādivāra)](../1.6.1--7.md) / [Go to next page (1.7 Hetuduka, Saṅkhataduka)](../../1.7.md)
 

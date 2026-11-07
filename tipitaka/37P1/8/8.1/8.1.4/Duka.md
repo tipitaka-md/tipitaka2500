@@ -13,17 +13,9 @@
 
 (16.)
 
-675\. Nahetupaccayā ārammaṇe dasa, anantare dasa, samanantare dasa, sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme vipāke āhāre indriye jhāne sabbe dasa, magge ekaṃ, sampayutte dasa, vippayutte atthiyā natthiyā vigate avigate sabbe dasa.
+675\. Nahetupaccayā ārammaṇe dasa, anantare dasa, samanantare dasa, sahajāte aññamaññe nissaye upanissaye purejāte āsevane kamme vipāke āhāre indriye jhāne sabbe dasa, magge ekaṁ, sampayutte dasa, vippayutte atthiyā natthiyā vigate avigate sabbe dasa.
 
----
+676\. Paccanīyānulomaṁ. Paṭiccavāro.
 
-676\. Paccanīyānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (8.1.4 Paccayapaccanīyānuloma)](../8.1.4.md) / [Go to parent page (8.1.4 Paccayapaccanīyānuloma)](../8.1.4.md) / [Go to next page (8.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../8.2--6.md)
-
+[Go to previous page (8.1.4 Paccayapaccanīyānuloma)](../8.1.4.md) / [Go to parent page (8.1.4 Paccayapaccanīyānuloma)](../8.1.4.md) / [Go to next page (8.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../8.2--6.md)
 

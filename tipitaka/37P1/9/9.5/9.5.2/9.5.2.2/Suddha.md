@@ -15,14 +15,9 @@
 
 (65.)
 
-933\. Nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṃ, namagge ekaṃ, navippayutte tīṇi.
+933\. Nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, najhāne ekaṁ, namagge ekaṁ, navippayutte tīṇi.
 
----
+934\. Paccanīyaṁ.
 
-934\. Paccanīyaṃ.
-
-
-
-[Go to previous page (9.5.2.2 Saṅkhyāvāra)](../9.5.2.2.md) / [Go to parent page (9.5.2.2 Saṅkhyāvāra)](../9.5.2.2.md) / [Go to next page (9.5.3 Paccayānulomapaccanīya)](../../9.5.3.md)
-
+[Go to previous page (9.5.2.2 Saṅkhyāvāra)](../9.5.2.2.md) / [Go to parent page (9.5.2.2 Saṅkhyāvāra)](../9.5.2.2.md) / [Go to next page (9.5.3 Paccayānulomapaccanīya)](../../9.5.3.md)
 

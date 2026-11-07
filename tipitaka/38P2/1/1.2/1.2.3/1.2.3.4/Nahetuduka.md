@@ -15,14 +15,9 @@
 
 (85.)
 
-231\. Nahetupaccayā ārammaṇe tīṇi, anantare tīṇi…pe…  magge tīṇi, sampayutte tīṇi…pe…  avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+231\. Nahetupaccayā ārammaṇe tīṇi, anantare tīṇi…pe… magge tīṇi, sampayutte tīṇi…pe… avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+232\. Paccanīyānulomaṁ.
 
-232\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (1.2.3.4 Paccayapaccanīyānuloma)](../1.2.3.4.md) / [Go to parent page (1.2.3.4 Paccayapaccanīyānuloma)](../1.2.3.4.md) / [Go to next page (1.2.4 Nissayavāra)](../../1.2.4.md)
-
+[Go to previous page (1.2.3.4 Paccayapaccanīyānuloma)](../1.2.3.4.md) / [Go to parent page (1.2.3.4 Paccayapaccanīyānuloma)](../1.2.3.4.md) / [Go to next page (1.2.4 Nissayavāra)](../../1.2.4.md)
 

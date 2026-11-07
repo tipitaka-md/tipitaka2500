@@ -17,16 +17,15 @@
 
 (457.)
 
-3475\. Upādinno dhammo upādinnassa dhammassa kammapaccayena paccayo—  upādinnā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe upādinnā cetanā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+3475\. Upādinno dhammo upādinnassa dhammassa kammapaccayena paccayo— upādinnā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe upādinnā cetanā sampayuttakānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (1)
 
-3476\. Upādinno dhammo anupādinnassa dhammassa kammapaccayena paccayo—  upādinnā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (2)
+3476\. Upādinno dhammo anupādinnassa dhammassa kammapaccayena paccayo— upādinnā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. (2)
 
-3477\. Upādinno dhammo upādinnassa ca anupādinnassa ca dhammassa kammapaccayena paccayo—  upādinnā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+3477\. Upādinno dhammo upādinnassa ca anupādinnassa ca dhammassa kammapaccayena paccayo— upādinnā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-3478\. Anupādinno dhammo anupādinnassa dhammassa kammapaccayena paccayo—  anupādinnā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (1)
+3478\. Anupādinno dhammo anupādinnassa dhammassa kammapaccayena paccayo— anupādinnā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (1)
 
-3479\. Anupādinno dhammo upādinnassa dhammassa kammapaccayena paccayo. **Nānākkhaṇikā**—  anupādinnā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
+3479\. Anupādinno dhammo upādinnassa dhammassa kammapaccayena paccayo. Nānākkhaṇikā— anupādinnā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (2)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](../10.14.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.14.7.1.1 Vibhaṅgavāra)](../10.14.7.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 

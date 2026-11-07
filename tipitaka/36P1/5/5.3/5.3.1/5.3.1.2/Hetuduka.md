@@ -13,20 +13,11 @@
 
 * Hetuduka
 
-2550\. Hetupaccayā ārammaṇe satta…pe…  avigate ekādasa.
+2550\. Hetupaccayā ārammaṇe satta…pe… avigate ekādasa.
 
----
+2551\. (Yathā kusalattike gaṇanā evaṁ gaṇetabbā.)
 
-2551\. (Yathā kusalattike gaṇanā evaṃ gaṇetabbā.)
+2552\. Anulomaṁ.
 
-
-
----
-
-2552\. Anulomaṃ.
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (5.3.1.2 Saṅkhyāvāra)](../5.3.1.2.md) / [Go to next page (5.3.2 Paccayapaccanīya)](../../5.3.2.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (5.3.1.2 Saṅkhyāvāra)](../5.3.1.2.md) / [Go to next page (5.3.2 Paccayapaccanīya)](../../5.3.2.md)
 

@@ -17,8 +17,7 @@
 
 (143.)
 
-876\. Lokiyaṃ dhammaṃ paccayā lokiyo dhammo uppajjati nahetupaccayā—  ahetukaṃ lokiyaṃ ekaṃ khandhaṃ…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā lokiyā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.)
+876\. Lokiyaṁ dhammaṁ paccayā lokiyo dhammo uppajjati nahetupaccayā— ahetukaṁ lokiyaṁ ekaṁ khandhaṁ…pe… (yāva asaññasattā) cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā lokiyā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṁkhittaṁ.)
 
-[Go to previous page (2.6.3.2.1 Vibhaṅgavāra)](../2.6.3.2.1.md) / [Go to parent page (2.6.3.2.1 Vibhaṅgavāra)](../2.6.3.2.1.md) / [Go to next page (2.6.3.2.2 Saṅkhyāvāra)](../2.6.3.2.2.md)
-
+[Go to previous page (2.6.3.2.1 Vibhaṅgavāra)](../2.6.3.2.1.md) / [Go to parent page (2.6.3.2.1 Vibhaṅgavāra)](../2.6.3.2.1.md) / [Go to next page (2.6.3.2.2 Saṅkhyāvāra)](../2.6.3.2.2.md)
 

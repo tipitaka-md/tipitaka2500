@@ -13,16 +13,15 @@
 
 (24.)
 
-370\. Sekkhaṃ kusalaṃ dhammaṃ paṭicca sekkho kusalo dhammo uppajjati hetupaccayā. (1)
+370\. Sekkhaṁ kusalaṁ dhammaṁ paṭicca sekkho kusalo dhammo uppajjati hetupaccayā. (1)
 
-371\. Nevasekkhanāsekkhaṃ kusalaṃ dhammaṃ paṭicca nevasekkhanāsekkho kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
+371\. Nevasekkhanāsekkhaṁ kusalaṁ dhammaṁ paṭicca nevasekkhanāsekkho kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
 
-372\. Nevasekkhanāsekkhaṃ akusalaṃ dhammaṃ paṭicca nevasekkhanāsekkho akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+372\. Nevasekkhanāsekkhaṁ akusalaṁ dhammaṁ paṭicca nevasekkhanāsekkho akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-373\. Sekkhaṃ abyākataṃ dhammaṃ paṭicca sekkho abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+373\. Sekkhaṁ abyākataṁ dhammaṁ paṭicca sekkho abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-374\. Hetuyā nava, ārammaṇe tīṇi…pe…  āsevane ekaṃ…pe…  avigate nava. (Sabbattha vitthāretabbaṃ.)
+374\. Hetuyā nava, ārammaṇe tīṇi…pe… āsevane ekaṁ…pe… avigate nava. (Sabbattha vitthāretabbaṁ.)
 
-[Go to previous page (2.10.1--7 Paṭiccādivāra)](../2.10.1--7.md) / [Go to parent page (2.10.1--7 Paṭiccādivāra)](../2.10.1--7.md) / [Go to next page (2.11 Parittattika, Kusalattika)](../../2.11.md)
-
+[Go to previous page (2.10.1--7 Paṭiccādivāra)](../2.10.1--7.md) / [Go to parent page (2.10.1--7 Paṭiccādivāra)](../2.10.1--7.md) / [Go to next page (2.11 Parittattika, Kusalattika)](../../2.11.md)
 

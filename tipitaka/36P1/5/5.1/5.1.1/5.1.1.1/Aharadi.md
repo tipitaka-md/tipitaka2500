@@ -15,10 +15,9 @@
 
 (11.)
 
-2469\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati āhārapaccayā…pe…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+2469\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati āhārapaccayā…pe… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā.
 
-2470\. (Yathā kusalattikassa paṭiccavāro sajjhāyamaggena vitthārito, evaṃ vitthāretabbaṃ.)
+2470\. (Yathā kusalattikassa paṭiccavāro sajjhāyamaggena vitthārito, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (5.1.1.2 Saṅkhyāvāra)](../5.1.1.2.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (5.1.1.2 Saṅkhyāvāra)](../5.1.1.2.md)
 

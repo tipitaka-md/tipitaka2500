@@ -21,4 +21,3 @@
 
 [Go to previous page (Nissayasabhāga)](Nissayasabhaga.md) / [Go to parent page (Nissaya)](../Nissaya.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
-

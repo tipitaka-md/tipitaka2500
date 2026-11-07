@@ -19,4 +19,3 @@
 
 [Go to previous page (Atthi)](../Atthi.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Atthimissakaghaṭanā)](Atthimissakaghatana.md)
 
-

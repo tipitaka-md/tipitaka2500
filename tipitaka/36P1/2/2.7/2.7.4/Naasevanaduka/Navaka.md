@@ -13,14 +13,9 @@
 
 * Navaka
 
-1742\. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte pañca, atthiyā satta, avigate satta. (Saṃkhittaṃ.)
+1742\. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte pañca, atthiyā satta, avigate satta. (Saṁkhittaṁ.)
 
----
-
-1743\. Naāsevanamūlakaṃ.
-
-
+1743\. Naāsevanamūlakaṁ.
 
 [Go to previous page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to parent page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to next page (Nakammaduka)](../Nakammaduka.md)
-
 

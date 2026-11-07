@@ -15,12 +15,11 @@
 
 (31.)
 
-2329\. Sammattaniyataṃ dhammaṃ saṃsaṭṭho sammattaniyato dhammo uppajjati napurejātapaccayā—  arūpe sammattaniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
+2329\. Sammattaniyataṁ dhammaṁ saṁsaṭṭho sammattaniyato dhammo uppajjati napurejātapaccayā— arūpe sammattaniyataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2330\. Aniyataṃ dhammaṃ saṃsaṭṭho aniyato dhammo uppajjati napurejātapaccayā—  arūpe aniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+2330\. Aniyataṁ dhammaṁ saṁsaṭṭho aniyato dhammo uppajjati napurejātapaccayā— arūpe aniyataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2331\. Micchattaniyataṃ dhammaṃ saṃsaṭṭho micchattaniyato dhammo uppajjati napacchājātapaccayā. (Paripuṇṇaṃ.)
+2331\. Micchattaniyataṁ dhammaṁ saṁsaṭṭho micchattaniyato dhammo uppajjati napacchājātapaccayā. (Paripuṇṇaṁ.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (16.5.2.1 Vibhaṅgavāra)](../16.5.2.1.md) / [Go to next page (Naāsevanādi)](Naasevanadi.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (16.5.2.1 Vibhaṅgavāra)](../16.5.2.1.md) / [Go to next page (Naāsevanādi)](Naasevanadi.md)
 

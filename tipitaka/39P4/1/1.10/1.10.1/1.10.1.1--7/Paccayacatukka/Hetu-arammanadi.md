@@ -31,9 +31,9 @@
 
 (135.)
 
-476\. Ācayagāmī hetu dhammo ācayagāmissa hetussa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. (1)
+476\. Ācayagāmī hetu dhammo ācayagāmissa hetussa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. (1)
 
-477\. Apacayagāmī hetu dhammo apacayagāmissa hetussa dhammassa adhipatipaccayena paccayo—  sahajātādhipati… . Apacayagāmī hetu dhammo ācayagāmissa hetussa dhammassa adhipatipaccayena paccayo. Apacayagāmī hetu dhammo nevācayagāmināpacayagāmissa hetussa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati… . (3)
+477\. Apacayagāmī hetu dhammo apacayagāmissa hetussa dhammassa adhipatipaccayena paccayo— sahajātādhipati… . Apacayagāmī hetu dhammo ācayagāmissa hetussa dhammassa adhipatipaccayena paccayo. Apacayagāmī hetu dhammo nevācayagāmināpacayagāmissa hetussa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati… . (3)
 
 478\. Nevācayagāmināpacayagāmī hetu dhammo nevācayagāmināpacayagāmissa hetussa dhammassa adhipatipaccayena paccayo. Nevācayagāmināpacayagāmī hetu dhammo ācayagāmissa hetussa dhammassa adhipatipaccayena paccayo.
 
@@ -43,20 +43,19 @@
 
 480\. Apacayagāmī hetu dhammo nevācayagāmināpacayagāmissa hetussa dhammassa anantarapaccayena paccayo. (1)
 
-481\. Nevācayagāmināpacayagāmī hetu dhammo nevācayagāmināpacayagāmissa hetussa dhammassa anantarapaccayena paccayo. (1) (Saṃkhittaṃ.)
+481\. Nevācayagāmināpacayagāmī hetu dhammo nevācayagāmināpacayagāmissa hetussa dhammassa anantarapaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (137.)
 
-482\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā cha, anantare pañca, samanantare pañca, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye aṭṭha, āsevane tīṇi, vipāke ekaṃ, indriye magge sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+482\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā cha, anantare pañca, samanantare pañca, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye aṭṭha, āsevane tīṇi, vipāke ekaṁ, indriye magge sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-483\. Nahetuyā aṭṭha, naārammaṇe aṭṭha. (Saṃkhittaṃ.)
+483\. Nahetuyā aṭṭha, naārammaṇe aṭṭha. (Saṁkhittaṁ.)
 
-484\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+484\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-485\. Nahetupaccayā ārammaṇe cha. (Saṃkhittaṃ.)
+485\. Nahetupaccayā ārammaṇe cha. (Saṁkhittaṁ.)
 
-486\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+486\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.10.2 Nahetupada)](../../../1.10.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.10.2 Nahetupada)](../../../1.10.2.md)
 

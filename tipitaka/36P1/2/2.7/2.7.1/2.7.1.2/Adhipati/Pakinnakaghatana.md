@@ -17,8 +17,7 @@
 
 (312.)
 
-1021\. Adhipati ārammaṇūpanissayanti satta. Adhipati ārammaṇūpanissaya purejāta atthi avigatanti ekaṃ. Adhipati ārammaṇa nissaya upanissaya purejāta vippayutta atthi avigatanti ekaṃ.
+1021\. Adhipati ārammaṇūpanissayanti satta. Adhipati ārammaṇūpanissaya purejāta atthi avigatanti ekaṁ. Adhipati ārammaṇa nissaya upanissaya purejāta vippayutta atthi avigatanti ekaṁ.
 
 [Go to previous page (Adhipatimissakaghaṭanā)](Adhipatimissakaghatana.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Sahajātachandādhipatighaṭanā)](Sahajatachandadhipatighatana.md)
-
 

@@ -21,14 +21,13 @@
 
 1339\. Abyākato sārammaṇo dhammo abyākatassa sārammaṇassa dhammassa hetupaccayena paccayo. (1)
 
-1340\. Kusalo sārammaṇo dhammo kusalassa sārammaṇassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+1340\. Kusalo sārammaṇo dhammo kusalassa sārammaṇassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
 (4.)
 
-1341\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta…pe…  sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1341\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta…pe… sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṁ, āhāre…pe… sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-1342\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1342\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetusahajātādi)](Hetusahajatadi.md)
-
 

@@ -13,32 +13,31 @@
 
 (51.)
 
-2708\. Saraṇaṃ micchattaniyataṃ dhammaṃ paṭicca saraṇo micchattaniyato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2708\. Saraṇaṁ micchattaniyataṁ dhammaṁ paṭicca saraṇo micchattaniyato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2709\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2709\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-2710\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2710\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (52.)
 
-2711\. Araṇaṃ sammattaniyataṃ dhammaṃ paṭicca araṇo sammattaniyato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2711\. Araṇaṁ sammattaniyataṁ dhammaṁ paṭicca araṇo sammattaniyato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2712\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2712\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.) (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (53.)
 
-2713\. Saraṇaṃ aniyataṃ dhammaṃ paṭicca saraṇo aniyato dhammo uppajjati hetupaccayā…  tīṇi.
+2713\. Saraṇaṁ aniyataṁ dhammaṁ paṭicca saraṇo aniyato dhammo uppajjati hetupaccayā… tīṇi.
 
-2714\. Araṇaṃ aniyataṃ dhammaṃ paṭicca araṇo aniyato dhammo uppajjati hetupaccayā. (1)
+2714\. Araṇaṁ aniyataṁ dhammaṁ paṭicca araṇo aniyato dhammo uppajjati hetupaccayā. (1)
 
-2715\. Saraṇaṃ aniyatañca araṇaṃ aniyatañca dhammaṃ paṭicca araṇo aniyato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2715\. Saraṇaṁ aniyatañca araṇaṁ aniyatañca dhammaṁ paṭicca araṇo aniyato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (54.)
 
-2716\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.)
+2716\. Hetuyā pañca, ārammaṇe dve…pe… avigate pañca. (Saṁkhittaṁ.)
 
-2717\. (Sahajātavāropi…pe…  pañhāvāropi sabbattha vitthāretabbā.)
+2717\. (Sahajātavāropi…pe… pañhāvāropi sabbattha vitthāretabbā.)
 
-[Go to previous page (14.15.1--7 Paṭiccādivāra)](../14.15.1--7.md) / [Go to parent page (14.15.1--7 Paṭiccādivāra)](../14.15.1--7.md) / [Go to next page (14.16 Saraṇaduka, Maggārammaṇattika)](../../14.16.md)
-
+[Go to previous page (14.15.1--7 Paṭiccādivāra)](../14.15.1--7.md) / [Go to parent page (14.15.1--7 Paṭiccādivāra)](../14.15.1--7.md) / [Go to next page (14.16 Saraṇaduka, Maggārammaṇattika)](../../14.16.md)
 

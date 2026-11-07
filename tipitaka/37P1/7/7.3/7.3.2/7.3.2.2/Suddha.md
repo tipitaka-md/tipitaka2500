@@ -15,8 +15,7 @@
 
 (56.)
 
-243\. Nahetuyā tettiṃsa, naārammaṇe satta, naadhipatiyā sattatiṃsa, naanantare nasamanantare naaññamaññe naupanissaye satta, napurejāte napacchājāte naāsevane sattatiṃsa, nakamme ekādasa, navipāke sattatiṃsa, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge tettiṃsa, nasampayutte satta, navippayutte ekādasa, nonatthiyā satta, novigate satta.
+243\. Nahetuyā tettiṁsa, naārammaṇe satta, naadhipatiyā sattatiṁsa, naanantare nasamanantare naaññamaññe naupanissaye satta, napurejāte napacchājāte naāsevane sattatiṁsa, nakamme ekādasa, navipāke sattatiṁsa, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge tettiṁsa, nasampayutte satta, navippayutte ekādasa, nonatthiyā satta, novigate satta.
 
-[Go to previous page (7.3.2.2 Saṅkhyāvāra)](../7.3.2.2.md) / [Go to parent page (7.3.2.2 Saṅkhyāvāra)](../7.3.2.2.md) / [Go to next page (7.3.3 Paccayānulomapaccanīya)](../../7.3.3.md)
-
+[Go to previous page (7.3.2.2 Saṅkhyāvāra)](../7.3.2.2.md) / [Go to parent page (7.3.2.2 Saṅkhyāvāra)](../7.3.2.2.md) / [Go to next page (7.3.3 Paccayānulomapaccanīya)](../../7.3.3.md)
 

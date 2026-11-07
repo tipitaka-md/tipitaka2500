@@ -15,8 +15,7 @@
 
 (411.)
 
-1265\. Nonatthipaccayā nahetuyā pannarasa. (Saṃkhittaṃ.) Nonatthiyā ca, novigate ca. (Nahetupaccayasadisaṃ.)
+1265\. Nonatthipaccayā nahetuyā pannarasa. (Saṁkhittaṁ.) Nonatthiyā ca, novigate ca. (Nahetupaccayasadisaṁ.)
 
-[Go to previous page (Tevīsaka (sakamma))](Noatthiduka/evisaka_sakamma.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Novigataduka)](Novigataduka.md)
-
+[Go to previous page (Tevīsaka (sakamma))](Noatthiduka/evisaka_sakamma.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Novigataduka)](Novigataduka.md)
 

@@ -15,22 +15,21 @@
 
 (46.)
 
-887\. Dassanena pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe paccayā vicikicchāsahagato moho. (1)
+887\. Dassanena pahātabbaṁ dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe paccayā vicikicchāsahagato moho. (1)
 
-888\. Bhāvanāya pahātabbaṃ dhammaṃ paccayā bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā—  uddhaccasahagate khandhe paccayā uddhaccasahagato moho. (1)
+888\. Bhāvanāya pahātabbaṁ dhammaṁ paccayā bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā— uddhaccasahagate khandhe paccayā uddhaccasahagato moho. (1)
 
-889\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nahetupaccayā—  ahetukaṃ nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā nevadassanena nabhāvanāya pahātabbā khandhā. (1)
+889\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati nahetupaccayā— ahetukaṁ nevadassanena nabhāvanāya pahātabbaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paccayā vatthu, vatthuṁ paccayā khandhā; ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā nevadassanena nabhāvanāya pahātabbā khandhā. (1)
 
-890\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā vicikicchāsahagato moho. (2)
+890\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā— vatthuṁ paccayā vicikicchāsahagato moho. (2)
 
-891\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā—  vatthuṃ paccayā uddhaccasahagato moho. (3)
+891\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paccayā bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā— vatthuṁ paccayā uddhaccasahagato moho. (3)
 
 (47.)
 
-892\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe ca vatthuñca paccayā vicikicchāsahagato moho. (1)
+892\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe ca vatthuñca paccayā vicikicchāsahagato moho. (1)
 
-893\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā—  uddhaccasahagate khandhe ca vatthuñca paccayā uddhaccasahagato moho. (1)
+893\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṁ paccayā bhāvanāya pahātabbo dhammo uppajjati nahetupaccayā— uddhaccasahagate khandhe ca vatthuñca paccayā uddhaccasahagato moho. (1)
 
-[Go to previous page (9.3.2.1 Vibhaṅgavāra)](../9.3.2.1.md) / [Go to parent page (9.3.2.1 Vibhaṅgavāra)](../9.3.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (9.3.2.1 Vibhaṅgavāra)](../9.3.2.1.md) / [Go to parent page (9.3.2.1 Vibhaṅgavāra)](../9.3.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

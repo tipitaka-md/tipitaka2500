@@ -17,10 +17,9 @@
 
 (249.)
 
-2936\. Cittasahabhuṃ dhammaṃ paccayā cittasahabhū dhammo uppajjati ārammaṇapaccayā…  tīṇi. (Paṭiccasadisaṃ.)
+2936\. Cittasahabhuṁ dhammaṁ paccayā cittasahabhū dhammo uppajjati ārammaṇapaccayā… tīṇi. (Paṭiccasadisaṁ.)
 
-2937\. Nocittasahabhuṃ dhammaṃ paccayā nocittasahabhū dhammo uppajjati ārammaṇapaccayā…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ…pe… . (Imaṃ cittasamuṭṭhānadukaṃ paccayavāre ārammaṇasadisaṃ. Channampi imesaṃ pañcaviññāṇamūlā kātabbā. Saṃkhittaṃ.)
+2937\. Nocittasahabhuṁ dhammaṁ paccayā nocittasahabhū dhammo uppajjati ārammaṇapaccayā…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ…pe… . (Imaṁ cittasamuṭṭhānadukaṁ paccayavāre ārammaṇasadisaṁ. Channampi imesaṁ pañcaviññāṇamūlā kātabbā. Saṁkhittaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.7.3.1.1 Vibhaṅgavāra)](../10.7.3.1.1.md) / [Go to next page (10.7.3.1.2 Saṅkhyāvāra)](../10.7.3.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.7.3.1.1 Vibhaṅgavāra)](../10.7.3.1.1.md) / [Go to next page (10.7.3.1.2 Saṅkhyāvāra)](../10.7.3.1.2.md)
 

@@ -13,24 +13,23 @@
 
 (30.)
 
-391\. Majjhimaṃ kusalaṃ dhammaṃ paṭicca majjhimo kusalo dhammo uppajjati hetupaccayā. (1)
+391\. Majjhimaṁ kusalaṁ dhammaṁ paṭicca majjhimo kusalo dhammo uppajjati hetupaccayā. (1)
 
-392\. Paṇītaṃ kusalaṃ dhammaṃ paṭicca paṇīto kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
+392\. Paṇītaṁ kusalaṁ dhammaṁ paṭicca paṇīto kusalo dhammo uppajjati hetupaccayā. (1) (Sabbattha dve. Sabbattha vitthāro.)
 
 (31.)
 
-393\. Hīnaṃ akusalaṃ dhammaṃ paṭicca hīno akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+393\. Hīnaṁ akusalaṁ dhammaṁ paṭicca hīno akusalo dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
 (32.)
 
-394\. Majjhimaṃ abyākataṃ dhammaṃ paṭicca majjhimo abyākato dhammo uppajjati hetupaccayā. (1)
+394\. Majjhimaṁ abyākataṁ dhammaṁ paṭicca majjhimo abyākato dhammo uppajjati hetupaccayā. (1)
 
-395\. Paṇītaṃ abyākataṃ dhammaṃ paṭicca paṇīto abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+395\. Paṇītaṁ abyākataṁ dhammaṁ paṭicca paṇīto abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-396\. Majjhimaṃ abyākatañca paṇītaṃ abyākatañca dhammaṃ paṭicca majjhimo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+396\. Majjhimaṁ abyākatañca paṇītaṁ abyākatañca dhammaṁ paṭicca majjhimo abyākato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-397\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca. (Sabbattha vitthāro.)
+397\. Hetuyā pañca, ārammaṇe dve…pe… āsevane ekaṁ…pe… avigate pañca. (Sabbattha vitthāro.)
 
-[Go to previous page (2.13.1--7 Paṭiccādivāra)](../2.13.1--7.md) / [Go to parent page (2.13.1--7 Paṭiccādivāra)](../2.13.1--7.md) / [Go to next page (2.14 Micchattattika, Kusalattika)](../../2.14.md)
-
+[Go to previous page (2.13.1--7 Paṭiccādivāra)](../2.13.1--7.md) / [Go to parent page (2.13.1--7 Paṭiccādivāra)](../2.13.1--7.md) / [Go to next page (2.14 Micchattattika, Kusalattika)](../../2.14.md)
 

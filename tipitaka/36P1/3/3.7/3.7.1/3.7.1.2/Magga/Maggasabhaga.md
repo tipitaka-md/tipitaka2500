@@ -21,4 +21,3 @@
 
 [Go to previous page (Magga)](../Magga.md) / [Go to parent page (Magga)](../Magga.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
 
-

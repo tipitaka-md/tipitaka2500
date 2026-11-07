@@ -13,18 +13,17 @@
 
 (39.)
 
-99\. Sekkhaṃ dhammaṃ paṭicca nasekkho dhammo uppajjati hetupaccayā. Sekkhaṃ dhammaṃ paṭicca naasekkho dhammo uppajjati hetupaccayā. Sekkhaṃ dhammaṃ paṭicca nanevasekkhanāsekkho dhammo uppajjati hetupaccayā. Sekkhaṃ dhammaṃ paṭicca naasekkho ca nanevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā. Sekkhaṃ dhammaṃ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (5)
+99\. Sekkhaṁ dhammaṁ paṭicca nasekkho dhammo uppajjati hetupaccayā. Sekkhaṁ dhammaṁ paṭicca naasekkho dhammo uppajjati hetupaccayā. Sekkhaṁ dhammaṁ paṭicca nanevasekkhanāsekkho dhammo uppajjati hetupaccayā. Sekkhaṁ dhammaṁ paṭicca naasekkho ca nanevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā. Sekkhaṁ dhammaṁ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (5)
 
-100\. Asekkhaṃ dhammaṃ paṭicca naasekkho dhammo uppajjati hetupaccayā. Asekkhaṃ dhammaṃ paṭicca nasekkho dhammo uppajjati hetupaccayā. Asekkhaṃ dhammaṃ paṭicca nanevasekkhanāsekkho dhammo uppajjati hetupaccayā. Asekkhaṃ dhammaṃ paṭicca nasekkho ca nanevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā. Asekkhaṃ dhammaṃ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (5)
+100\. Asekkhaṁ dhammaṁ paṭicca naasekkho dhammo uppajjati hetupaccayā. Asekkhaṁ dhammaṁ paṭicca nasekkho dhammo uppajjati hetupaccayā. Asekkhaṁ dhammaṁ paṭicca nanevasekkhanāsekkho dhammo uppajjati hetupaccayā. Asekkhaṁ dhammaṁ paṭicca nasekkho ca nanevasekkhanāsekkho ca dhammā uppajjanti hetupaccayā. Asekkhaṁ dhammaṁ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (5)
 
-101\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nasekkho dhammo uppajjati hetupaccayā. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca naasekkho dhammo uppajjati hetupaccayā. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (3)
+101\. Nevasekkhanāsekkhaṁ dhammaṁ paṭicca nasekkho dhammo uppajjati hetupaccayā. Nevasekkhanāsekkhaṁ dhammaṁ paṭicca naasekkho dhammo uppajjati hetupaccayā. Nevasekkhanāsekkhaṁ dhammaṁ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (3)
 
-102\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nasekkho dhammo uppajjati hetupaccayā. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca naasekkho dhammo uppajjati hetupaccayā. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (3)
+102\. Sekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca nasekkho dhammo uppajjati hetupaccayā. Sekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca naasekkho dhammo uppajjati hetupaccayā. Sekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (3)
 
-103\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nasekkho dhammo uppajjati hetupaccayā. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca naasekkho dhammo uppajjati hetupaccayā. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
+103\. Asekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca nasekkho dhammo uppajjati hetupaccayā. Asekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca naasekkho dhammo uppajjati hetupaccayā. Asekkhañca nevasekkhanāsekkhañca dhammaṁ paṭicca nasekkho ca naasekkho ca dhammā uppajjanti hetupaccayā. (3) (Saṁkhittaṁ.)
 
-104\. Hetuyā ekūnavīsa, ārammaṇe nava…pe…  avigate ekūnavīsa. (Sabbattha vitthāro.)
+104\. Hetuyā ekūnavīsa, ārammaṇe nava…pe… avigate ekūnavīsa. (Sabbattha vitthāro.)
 
-[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (12 Parittattika)](../../../12.md)
-
+[Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (12 Parittattika)](../../../12.md)
 

@@ -17,8 +17,7 @@
 
 (55.)
 
-1461\. Saññojanasampayuttaṃ dhammaṃ paccayā saññojanasampayutto dhammo uppajjati adhipatipaccayā…pe…  avigatapaccayā…pe… .
+1461\. Saññojanasampayuttaṁ dhammaṁ paccayā saññojanasampayutto dhammo uppajjati adhipatipaccayā…pe… avigatapaccayā…pe… .
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.3.3.1.1 Vibhaṅgavāra)](../4.3.3.1.1.md) / [Go to next page (4.3.3.1.2 Saṅkhyāvāra)](../4.3.3.1.2.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.3.3.1.1 Vibhaṅgavāra)](../4.3.3.1.1.md) / [Go to next page (4.3.3.1.2 Saṅkhyāvāra)](../4.3.3.1.2.md)
 

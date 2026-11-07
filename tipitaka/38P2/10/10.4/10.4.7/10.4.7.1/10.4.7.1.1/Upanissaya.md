@@ -17,10 +17,9 @@
 
 (169.)
 
-2726\. Cittasampayutto dhammo cittasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  patthanaṃ kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ upanissāya dānaṃ deti…pe…  pāṇaṃ hanati…pe…  saṃghaṃ bhindati; saddhā…pe…  kāyikaṃ dukkhaṃ saddhāya…pe…  maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
+2726\. Cittasampayutto dhammo cittasampayuttassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— saddhaṁ upanissāya dānaṁ deti…pe… mānaṁ jappeti, diṭṭhiṁ gaṇhāti; sīlaṁ…pe… patthanaṁ kāyikaṁ sukhaṁ… kāyikaṁ dukkhaṁ upanissāya dānaṁ deti…pe… pāṇaṁ hanati…pe… saṁghaṁ bhindati; saddhā…pe… kāyikaṁ dukkhaṁ saddhāya…pe… maggassa, phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-2727\. Cittavippayutto dhammo cittasampayuttassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  utuṃ…  bhojanaṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; utu…  bhojanaṃ…  senāsanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+2727\. Cittavippayutto dhammo cittasampayuttassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— utuṁ… bhojanaṁ… senāsanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati; utu… bhojanaṁ… senāsanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

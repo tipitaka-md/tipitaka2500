@@ -18,6 +18,5 @@
 * [Tika](Nakammaduka/Tika.md)
 * [Catukka](Nakammaduka/Catukka.md)
 
-[Go to previous page (Catukka)](Naasevanaduka/Catukka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Nakammaduka/Tika.md)
-
+[Go to previous page (Catukka)](Naasevanaduka/Catukka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Nakammaduka/Tika.md)
 

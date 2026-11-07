@@ -17,8 +17,7 @@
 
 (252.)
 
-2940\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, naaññamaññe nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne nava, namagge nava, nasampayutte nava, navippayutte cha, nonatthiyā nava, novigate nava.
+2940\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, naaññamaññe nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme cattāri, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne nava, namagge nava, nasampayutte nava, navippayutte cha, nonatthiyā nava, novigate nava.
 
-[Go to previous page (10.7.3.2.2 Saṅkhyāvāra)](../10.7.3.2.2.md) / [Go to parent page (10.7.3.2.2 Saṅkhyāvāra)](../10.7.3.2.2.md) / [Go to next page (10.7.3.3 Paccayānulomapaccanīya)](../../10.7.3.3.md)
-
+[Go to previous page (10.7.3.2.2 Saṅkhyāvāra)](../10.7.3.2.2.md) / [Go to parent page (10.7.3.2.2 Saṅkhyāvāra)](../10.7.3.2.2.md) / [Go to next page (10.7.3.3 Paccayānulomapaccanīya)](../../10.7.3.3.md)
 

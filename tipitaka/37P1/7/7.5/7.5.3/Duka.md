@@ -13,14 +13,9 @@
 
 (64.)
 
-266\. Hetupaccayā naadhipatiyā ekādasa…pe…  navippayutte ekādasa. (Saṃkhittaṃ.)
+266\. Hetupaccayā naadhipatiyā ekādasa…pe… navippayutte ekādasa. (Saṁkhittaṁ.)
 
----
+267\. Anulomapaccanīyaṁ.
 
-267\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to parent page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to next page (7.5.4 Paccayapaccanīyānuloma)](../7.5.4.md)
-
+[Go to previous page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to parent page (7.5.3 Paccayānulomapaccanīya)](../7.5.3.md) / [Go to next page (7.5.4 Paccayapaccanīyānuloma)](../7.5.4.md)
 

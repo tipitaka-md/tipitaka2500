@@ -15,8 +15,7 @@
 
 (7.)
 
-2462\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati purejātapaccayā…  tīṇi.
+2462\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati purejātapaccayā… tīṇi.
 
-[Go to previous page (Nissaya-upanissaya)](Nissaya-upanissaya.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
-
+[Go to previous page (Nissaya-upanissaya)](Nissaya-upanissaya.md) / [Go to parent page (5.1.1.1 Vibhaṅgavāra)](../5.1.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 

@@ -17,16 +17,15 @@
 
 (416.)
 
-3374\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati hetupaccayā—  upādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe upādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+3374\. Upādinnaṁ dhammaṁ paṭicca upādinno dhammo uppajjati hetupaccayā— upādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe upādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-3375\. Upādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati hetupaccayā—  upādinne khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+3375\. Upādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati hetupaccayā— upādinne khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-3376\. Upādinnaṃ dhammaṃ paṭicca upādinno ca anupādinno ca dhammā uppajjanti hetupaccayā—  upādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+3376\. Upādinnaṁ dhammaṁ paṭicca upādinno ca anupādinno ca dhammā uppajjanti hetupaccayā— upādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-3377\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati hetupaccayā—  anupādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+3377\. Anupādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati hetupaccayā— anupādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ekaṁ mahābhūtaṁ paṭicca…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (1)
 
-3378\. Upādinnañca anupādinnañca dhammaṃ paṭicca anupādinno dhammo uppajjati hetupaccayā—  upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+3378\. Upādinnañca anupādinnañca dhammaṁ paṭicca anupādinno dhammo uppajjati hetupaccayā— upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to parent page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to parent page (10.14.1.1.1 Vibhaṅgavāra)](../10.14.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

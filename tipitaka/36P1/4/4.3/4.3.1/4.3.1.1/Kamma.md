@@ -15,8 +15,7 @@
 
 (71.)
 
-2218\. Vipākaṃ dhammaṃ paccayā vipāko dhammo uppajjati kammapaccayā…  tīṇi. (Sahajātasadisaṃ.)
+2218\. Vipākaṁ dhammaṁ paccayā vipāko dhammo uppajjati kammapaccayā… tīṇi. (Sahajātasadisaṁ.)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
-
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 

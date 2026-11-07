@@ -17,14 +17,9 @@
 
 (341.)
 
-1069\. Vipāka sahajāta nissaya atthi avigatanti ekaṃ. Vipāka sahajātaaññamañña nissaya atthi avigatanti ekaṃ. Vipāka sahajāta aññamañña nissaya sampayutta atthi avigatanti ekaṃ. Vipāka sahajāta nissaya vippayutta atthi avigatanti ekaṃ. Vipāka sahajāta aññamañña nissaya vippayutta atthi avigatanti ekaṃ.
+1069\. Vipāka sahajāta nissaya atthi avigatanti ekaṁ. Vipāka sahajātaaññamañña nissaya atthi avigatanti ekaṁ. Vipāka sahajāta aññamañña nissaya sampayutta atthi avigatanti ekaṁ. Vipāka sahajāta nissaya vippayutta atthi avigatanti ekaṁ. Vipāka sahajāta aññamañña nissaya vippayutta atthi avigatanti ekaṁ.
 
----
-
-1070\. Vipākamūlakaṃ.
-
-
+1070\. Vipākamūlakaṁ.
 
 [Go to previous page (Vipākasabhāga)](Vipakasabhaga.md) / [Go to parent page (Vipāka)](../Vipaka.md) / [Go to next page (Āhāra)](../Ahara.md)
-
 

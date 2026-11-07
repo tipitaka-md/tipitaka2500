@@ -13,8 +13,7 @@
 
 * Dvādasaka
 
-787\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
+787\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā…pe… purejātapaccayā napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Tevīsaka (sāsevana))](evisaka_sasevana.md)
-
 

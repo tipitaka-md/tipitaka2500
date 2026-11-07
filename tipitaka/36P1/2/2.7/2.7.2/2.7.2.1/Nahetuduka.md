@@ -27,6 +27,5 @@
 * [Dvādasaka](Nahetuduka/Dvadasaka.md)
 * [Cuddasaka](Nahetuduka/Cuddasaka.md)
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 

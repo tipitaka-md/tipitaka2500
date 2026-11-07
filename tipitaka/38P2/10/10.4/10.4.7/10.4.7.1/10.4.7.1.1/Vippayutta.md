@@ -17,10 +17,9 @@
 
 (175.)
 
-2741\. Cittasampayutto dhammo cittavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2741\. Cittasampayutto dhammo cittavippayuttassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-2742\. Cittavippayutto dhammo cittasampayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  paṭisandhikkhaṇe vatthu cittasampayuttakānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇasahagatānaṃ khandhānaṃ vippayuttapaccayena paccayo…pe…  kāyāyatanaṃ…pe…  vatthu cittasampayuttakānaṃ khandhānaṃ vippayuttapaccayena paccayo. (1)
+2742\. Cittavippayutto dhammo cittasampayuttassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajātaṁ— paṭisandhikkhaṇe vatthu cittasampayuttakānaṁ khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ— cakkhāyatanaṁ cakkhuviññāṇasahagatānaṁ khandhānaṁ vippayuttapaccayena paccayo…pe… kāyāyatanaṁ…pe… vatthu cittasampayuttakānaṁ khandhānaṁ vippayuttapaccayena paccayo. (1)
 
-[Go to previous page (Indriyādi)](Indriyadi.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Indriyādi)](Indriyadi.md) / [Go to parent page (10.4.7.1.1 Vibhaṅgavāra)](../10.4.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

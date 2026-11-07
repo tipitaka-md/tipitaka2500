@@ -15,8 +15,7 @@
 
 * Catukka
 
-1836\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, namagge ekaṃ, navippayutte ekaṃ…pe… .
+1836\. Nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, namagge ekaṁ, navippayutte ekaṁ…pe… .
 
 [Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Navaka)](Navaka.md)
-
 

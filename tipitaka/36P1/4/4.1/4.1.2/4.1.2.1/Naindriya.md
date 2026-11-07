@@ -15,8 +15,7 @@
 
 (43.)
 
-2129\. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ.
+2129\. Nevavipākanavipākadhammadhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… asaññasattānaṁ mahābhūte paṭicca rūpajīvitindriyaṁ.
 
-[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
-
+[Go to previous page (Naāhāra)](Naahara.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
 

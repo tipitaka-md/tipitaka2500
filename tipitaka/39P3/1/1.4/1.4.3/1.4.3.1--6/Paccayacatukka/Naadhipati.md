@@ -17,22 +17,21 @@
 
 (179.)
 
-323\. Hetuṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca hetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. Hetuṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca nahetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. (2)
+323\. Hetuṁ anupādinnaanupādāniyaṁ dhammaṁ paṭicca hetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. Hetuṁ anupādinnaanupādāniyaṁ dhammaṁ paṭicca nahetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. (2)
 
-324\. Nahetuṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca nahetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. Nahetuṃ anupādinnaanupādāniyaṃ dhammaṃ paṭicca hetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. (2)
+324\. Nahetuṁ anupādinnaanupādāniyaṁ dhammaṁ paṭicca nahetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. Nahetuṁ anupādinnaanupādāniyaṁ dhammaṁ paṭicca hetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. (2)
 
-325\. Hetuṃ anupādinnaanupādāniyañca nahetuṃ anupādinnaanupādāniyañca dhammaṃ paṭicca hetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. Hetuṃ anupādinnaanupādāniyañca nahetuṃ anupādinnaanupādāniyañca dhammaṃ paṭicca nahetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. (2) (Saṃkhittaṃ.)
+325\. Hetuṁ anupādinnaanupādāniyañca nahetuṁ anupādinnaanupādāniyañca dhammaṁ paṭicca hetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. Hetuṁ anupādinnaanupādāniyañca nahetuṁ anupādinnaanupādāniyañca dhammaṁ paṭicca nahetu anupādinnaanupādāniyo dhammo uppajjati naadhipatipaccayā. (2) (Saṁkhittaṁ.)
 
 (180.)
 
-326\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+326\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṁkhittaṁ.)
 
-327\. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
+327\. Hetupaccayā naadhipatiyā cha. (Saṁkhittaṁ.)
 
-328\. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
+328\. Naadhipatipaccayā hetuyā cha. (Saṁkhittaṁ.)
 
-329\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+329\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4.3.7 Pañhāvāra)](../../1.4.3.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4.3.7 Pañhāvāra)](../../1.4.3.7.md)
 

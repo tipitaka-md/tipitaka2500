@@ -13,14 +13,9 @@
 
 * Aṭṭhaka
 
-1716\. Nasamanantarapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte pañca, atthiyā satta, avigate satta. (Saṃkhittaṃ.)
+1716\. Nasamanantarapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nissaye tīṇi, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte pañca, atthiyā satta, avigate satta. (Saṁkhittaṁ.)
 
----
-
-1717\. Nasamanantaramūlakaṃ.
-
-
+1717\. Nasamanantaramūlakaṁ.
 
 [Go to previous page (Naanantara-nasamanantaraduka)](../Naanantara-nasamanantaraduka.md) / [Go to parent page (Naanantara-nasamanantaraduka)](../Naanantara-nasamanantaraduka.md) / [Go to next page (Nasahajātaduka)](../Nasahajataduka.md)
-
 

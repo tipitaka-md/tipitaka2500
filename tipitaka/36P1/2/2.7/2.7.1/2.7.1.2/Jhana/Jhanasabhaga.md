@@ -17,8 +17,7 @@
 
 (360.)
 
-1104\. Jhānapaccayā sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke ekaṃ, indriye satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (10)
+1104\. Jhānapaccayā sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke ekaṁ, indriye satta, magge satta, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (10)
 
 [Go to previous page (Jhāna)](../Jhana.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Sāmaññaghaṭanā)](Samannaghatana.md)
-
 

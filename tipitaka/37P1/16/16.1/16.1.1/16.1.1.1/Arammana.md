@@ -15,12 +15,11 @@
 
 (5.)
 
-2270\. Micchattaniyataṃ dhammaṃ paṭicca micchattaniyato dhammo uppajjati ārammaṇapaccayā—  micchattaniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2270\. Micchattaniyataṁ dhammaṁ paṭicca micchattaniyato dhammo uppajjati ārammaṇapaccayā— micchattaniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2271\. Sammattaniyataṃ dhammaṃ paṭicca sammattaniyato dhammo uppajjati ārammaṇapaccayā—  sammattaniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2271\. Sammattaniyataṁ dhammaṁ paṭicca sammattaniyato dhammo uppajjati ārammaṇapaccayā— sammattaniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2272\. Aniyataṃ dhammaṃ paṭicca aniyato dhammo uppajjati ārammaṇapaccayā—  aniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe aniyataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  vatthuṃ paṭicca khandhā. (Sabbe paccayā iminā kāraṇena vitthāretabbā. Saṃkhittaṃ.)
+2272\. Aniyataṁ dhammaṁ paṭicca aniyato dhammo uppajjati ārammaṇapaccayā— aniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe aniyataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… vatthuṁ paṭicca khandhā. (Sabbe paccayā iminā kāraṇena vitthāretabbā. Saṁkhittaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to next page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (16.1.1.1 Vibhaṅgavāra)](../16.1.1.1.md) / [Go to next page (16.1.1.2 Saṅkhyāvāra)](../16.1.1.2.md)
 

@@ -13,24 +13,23 @@
 
 (29.)
 
-78\. Nahetuṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nanahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu nasanidassanasappaṭigho ca nanahetu nasanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
+78\. Nahetuṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca nanahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu nasanidassanasappaṭigho ca nanahetu nasanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
 
-79\. Nanahetuṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nanahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṃ nasanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu nasanidassanasappaṭigho ca nanahetu nasanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
+79\. Nanahetuṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca nanahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṁ nasanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu nasanidassanasappaṭigho ca nanahetu nasanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
 
-80\. Nahetuṃ nasanidassanasappaṭighañca nanahetuṃ nasanidassanasappaṭighañca dhammaṃ paṭicca nahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ nasanidassanasappaṭighañca nanahetuṃ nasanidassanasappaṭighañca dhammaṃ paṭicca nanahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ nasanidassanasappaṭighañca nanahetuṃ nasanidassanasappaṭighañca dhammaṃ paṭicca nahetu nasanidassanasappaṭigho ca nanahetu nasanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
+80\. Nahetuṁ nasanidassanasappaṭighañca nanahetuṁ nasanidassanasappaṭighañca dhammaṁ paṭicca nahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ nasanidassanasappaṭighañca nanahetuṁ nasanidassanasappaṭighañca dhammaṁ paṭicca nanahetu nasanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ nasanidassanasappaṭighañca nanahetuṁ nasanidassanasappaṭighañca dhammaṁ paṭicca nahetu nasanidassanasappaṭigho ca nanahetu nasanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3) (Saṁkhittaṁ.)
 
-81\. Hetuyā nava…pe…  avigate nava. (Sabbattha nava.)
+81\. Hetuyā nava…pe… avigate nava. (Sabbattha nava.)
 
 (30.)
 
-82\. Nahetuṃ naanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighaṃ dhammaṃ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
+82\. Nahetuṁ naanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ naanidassanasappaṭighaṁ dhammaṁ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ naanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
 
-83\. Nanahetuṃ naanidassanasappaṭighaṃ dhammaṃ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṃ naanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṃ naanidassanasappaṭighaṃ dhammaṃ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
+83\. Nanahetuṁ naanidassanasappaṭighaṁ dhammaṁ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṁ naanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nanahetuṁ naanidassanasappaṭighaṁ dhammaṁ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3)
 
-84\. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṃ naanidassanasappaṭighañca nanahetuṃ naanidassanasappaṭighañca dhammaṃ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
+84\. Nahetuṁ naanidassanasappaṭighañca nanahetuṁ naanidassanasappaṭighañca dhammaṁ paṭicca nahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ naanidassanasappaṭighañca nanahetuṁ naanidassanasappaṭighañca dhammaṁ paṭicca nanahetu naanidassanasappaṭigho dhammo uppajjati hetupaccayā. Nahetuṁ naanidassanasappaṭighañca nanahetuṁ naanidassanasappaṭighañca dhammaṁ paṭicca nahetu naanidassanasappaṭigho ca nanahetu naanidassanasappaṭigho ca dhammā uppajjanti hetupaccayā. (3) (Saṁkhittaṁ.)
 
-85\. Hetuyā nava…pe…  avigate nava. (Sahajātavārepi…pe…  sampayuttavārepi sabbattha vitthāro.)
+85\. Hetuyā nava…pe… avigate nava. (Sahajātavārepi…pe… sampayuttavārepi sabbattha vitthāro.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

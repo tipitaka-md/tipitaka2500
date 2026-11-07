@@ -15,12 +15,11 @@
 
 (48.)
 
-2375\. Aniyato dhammo aniyatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha aniyato rāgo uppajjati…pe…  domanassaṃ uppajjati. Dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…  vatthu aniyatānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+2375\. Aniyato dhammo aniyatassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… vipassati, assādeti abhinandati, taṁ ārabbha aniyato rāgo uppajjati…pe… domanassaṁ uppajjati. Dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa… vatthu aniyatānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-2376\. Aniyato dhammo micchattaniyatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  rūpajīvitindriyaṃ mātughātikammassa…  pitughātikammassa…  arahantaghātikammassa…  ruhiruppādakammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu micchattaniyatānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+2376\. Aniyato dhammo micchattaniyatassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— rūpajīvitindriyaṁ mātughātikammassa… pitughātikammassa… arahantaghātikammassa… ruhiruppādakammassa purejātapaccayena paccayo. Vatthupurejātaṁ— vatthu micchattaniyatānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-2377\. Aniyato dhammo sammattaniyatassa dhammassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  vatthu sammattaniyatānaṃ khandhānaṃ purejātapaccayena paccayo. (3)
+2377\. Aniyato dhammo sammattaniyatassa dhammassa purejātapaccayena paccayo. Vatthupurejātaṁ— vatthu sammattaniyatānaṁ khandhānaṁ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 

@@ -13,7 +13,7 @@
 
 (98.)
 
-395\. Nonatthipaccayā…  novigatapaccayā hetuyā pañca, adhipatiyā pañca, sahajāte pañca, aññamaññe ekaṃ, nissaye pañca, kamme pañca, vipāke ekaṃ, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, vippayutte pañca, atthiyā pañca, avigate pañca.
+395\. Nonatthipaccayā… novigatapaccayā hetuyā pañca, adhipatiyā pañca, sahajāte pañca, aññamaññe ekaṁ, nissaye pañca, kamme pañca, vipāke ekaṁ, āhāre pañca, indriye pañca, jhāne pañca, magge pañca, vippayutte pañca, atthiyā pañca, avigate pañca.
 
 * [Tika](Nonatthi-novigataduka/Tika.md)
 * [Aṭṭhaka](Nonatthi-novigataduka/Atthaka.md)
@@ -21,6 +21,5 @@
 * [Pannarasaka](Nonatthi-novigataduka/Pannarasaka.md)
 * [Ekavīsaka](Nonatthi-novigataduka/Ekavisaka.md)
 
-[Go to previous page (Catukka)](Navippayuttaduka/Catukka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Nonatthi-novigataduka/Tika.md)
-
+[Go to previous page (Catukka)](Navippayuttaduka/Catukka.md) / [Go to parent page (2.1.4 Paccayapaccanīyānuloma)](../2.1.4.md) / [Go to next page (Tika)](Nonatthi-novigataduka/Tika.md)
 

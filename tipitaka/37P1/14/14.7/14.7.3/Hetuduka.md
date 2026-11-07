@@ -13,14 +13,9 @@
 
 (39.)
 
-2249\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā naanantare nasamanantare naupanissaye napurejāte napacchājāte naāsevane tīṇi…pe…  namagge navippayutte nonatthiyā novigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+2249\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā naanantare nasamanantare naupanissaye napurejāte napacchājāte naāsevane tīṇi…pe… namagge navippayutte nonatthiyā novigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+2250\. Anulomapaccanīyaṁ.
 
-2250\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (14.7.3 Paccayānulomapaccanīya)](../14.7.3.md) / [Go to parent page (14.7.3 Paccayānulomapaccanīya)](../14.7.3.md) / [Go to next page (14.7.4 Paccayapaccanīyānuloma)](../14.7.4.md)
-
+[Go to previous page (14.7.3 Paccayānulomapaccanīya)](../14.7.3.md) / [Go to parent page (14.7.3 Paccayānulomapaccanīya)](../14.7.3.md) / [Go to next page (14.7.4 Paccayapaccanīyānuloma)](../14.7.4.md)
 

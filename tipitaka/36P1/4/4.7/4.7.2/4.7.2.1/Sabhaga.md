@@ -13,20 +13,11 @@
 
 * Sabhāga
 
-2425\. Nahetupaccayā naārammaṇe soḷasa…pe…  noavigate dasa.
+2425\. Nahetupaccayā naārammaṇe soḷasa…pe… noavigate dasa.
 
----
+2426\. (Yathā kusalattike paccanīyagaṇanā vitthāritā, evaṁ vitthāretabbaṁ.)
 
-2426\. (Yathā kusalattike paccanīyagaṇanā vitthāritā, evaṃ vitthāretabbaṃ.)
+2427\. Paccanīyaṁ.
 
-
-
----
-
-2427\. Paccanīyaṃ.
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.7.2.1 Saṅkhyāvāra)](../4.7.2.1.md) / [Go to next page (4.7.3 Paccayānulomapaccanīya)](../../4.7.3.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.7.2.1 Saṅkhyāvāra)](../4.7.2.1.md) / [Go to next page (4.7.3 Paccayānulomapaccanīya)](../../4.7.3.md)
 

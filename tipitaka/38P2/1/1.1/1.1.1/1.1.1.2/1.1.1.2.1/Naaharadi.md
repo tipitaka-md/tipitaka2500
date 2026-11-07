@@ -17,8 +17,7 @@
 
 (13.)
 
-33\. Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe…  asaññasattānaṃ mahābhūte paṭicca rūpajīvitindriyaṃ, najhānapaccayā—  pañcaviññāṇaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  namaggapaccayā—  ahetukaṃ nahetuṃ ekaṃ khandhaṃ paṭicca…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  nasampayuttapaccayā…  navippayuttapaccayā…  (napurejātasadisaṃ, arūpapañhāyeva) nonatthipaccayā…  novigatapaccayā.
+33\. Nahetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati naāhārapaccayā— bāhiraṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… asaññasattānaṁ mahābhūte paṭicca rūpajīvitindriyaṁ, najhānapaccayā— pañcaviññāṇaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… namaggapaccayā— ahetukaṁ nahetuṁ ekaṁ khandhaṁ paṭicca…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… nasampayuttapaccayā… navippayuttapaccayā… (napurejātasadisaṁ, arūpapañhāyeva) nonatthipaccayā… novigatapaccayā.
 
-[Go to previous page (Nakammādi)](Nakammadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (1.1.1.2.2 Saṅkhyāvāra)](../1.1.1.2.2.md)
-
+[Go to previous page (Nakammādi)](Nakammadi.md) / [Go to parent page (1.1.1.2.1 Vibhaṅgavāra)](../1.1.1.2.1.md) / [Go to next page (1.1.1.2.2 Saṅkhyāvāra)](../1.1.1.2.2.md)
 

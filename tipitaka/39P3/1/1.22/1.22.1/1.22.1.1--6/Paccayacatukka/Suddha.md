@@ -17,12 +17,11 @@
 
 (542.)
 
-1217\. Hetuyā ekaṃ, adhipatiyā ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, magge ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+1217\. Hetuyā ekaṁ, adhipatiyā ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, kamme ekaṁ, vipāke ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, magge ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
 (543.)
 
-1218\. Nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ (sabbe paccayā kātabbā)…pe…  novigate ekaṃ. (Saṃkhittaṃ.)
+1218\. Nahetuyā ekaṁ, naārammaṇe ekaṁ, naadhipatiyā ekaṁ (sabbe paccayā kātabbā)…pe… novigate ekaṁ. (Saṁkhittaṁ.)
 
-[Go to previous page (Hetvādi)](Hetvadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.22.1.7 Pañhāvāra)](../../1.22.1.7.md)
-
+[Go to previous page (Hetvādi)](Hetvadi.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.22.1.7 Pañhāvāra)](../../1.22.1.7.md)
 

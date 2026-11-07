@@ -15,6 +15,5 @@
 
 2909\. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke cattāri, indriye cattāri, magge cattāri, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta.
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (6.7.1.2 Saṅkhyāvāra)](../6.7.1.2.md) / [Go to next page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (6.7.1.2 Saṅkhyāvāra)](../6.7.1.2.md) / [Go to next page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md)
 

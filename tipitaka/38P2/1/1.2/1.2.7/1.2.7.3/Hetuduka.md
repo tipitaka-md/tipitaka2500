@@ -15,14 +15,9 @@
 
 (124.)
 
-345\. Hetupaccayā naārammaṇe cha, naadhipatiyā cha, naanantare cha, nasamanantare cha, naaññamaññe dve, naupanissaye cha…pe…  namagge cha, nasampayutte dve, navippayutte dve, nonatthiyā cha, novigate cha. (Evaṃ gaṇetabbaṃ.)
+345\. Hetupaccayā naārammaṇe cha, naadhipatiyā cha, naanantare cha, nasamanantare cha, naaññamaññe dve, naupanissaye cha…pe… namagge cha, nasampayutte dve, navippayutte dve, nonatthiyā cha, novigate cha. (Evaṁ gaṇetabbaṁ.)
 
----
+346\. Anulomapaccanīyaṁ.
 
-346\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (1.2.7.3 Paccayānulomapaccanīya)](../1.2.7.3.md) / [Go to parent page (1.2.7.3 Paccayānulomapaccanīya)](../1.2.7.3.md) / [Go to next page (1.2.7.4 Paccayapaccanīyānuloma)](../1.2.7.4.md)
-
+[Go to previous page (1.2.7.3 Paccayānulomapaccanīya)](../1.2.7.3.md) / [Go to parent page (1.2.7.3 Paccayānulomapaccanīya)](../1.2.7.3.md) / [Go to next page (1.2.7.4 Paccayapaccanīyānuloma)](../1.2.7.4.md)
 

@@ -17,24 +17,23 @@
 
 (34.)
 
-1184\. Kusalo lokiyo dhammo kusalassa lokiyassa dhammassa hetupaccayena paccayo…  tīṇi.
+1184\. Kusalo lokiyo dhammo kusalassa lokiyassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1185\. Akusalo lokiyo dhammo akusalassa lokiyassa dhammassa hetupaccayena paccayo…  tīṇi.
+1185\. Akusalo lokiyo dhammo akusalassa lokiyassa dhammassa hetupaccayena paccayo… tīṇi.
 
 1186\. Abyākato lokiyo dhammo abyākatassa lokiyassa dhammassa hetupaccayena paccayo. (1)
 
 (35.)
 
-1187\. Kusalo lokiyo dhammo kusalassa lokiyassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+1187\. Kusalo lokiyo dhammo kusalassa lokiyassa dhammassa ārammaṇapaccayena paccayo… tīṇi.
 
-1188\. Akusalo lokiyo dhammo akusalassa lokiyassa dhammassa ārammaṇapaccayena paccayo…  tīṇi.
+1188\. Akusalo lokiyo dhammo akusalassa lokiyassa dhammassa ārammaṇapaccayena paccayo… tīṇi.
 
-1189\. Abyākato lokiyo dhammo abyākatassa lokiyassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+1189\. Abyākato lokiyo dhammo abyākatassa lokiyassa dhammassa ārammaṇapaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (36.)
 
-1190\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1190\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe… avigate terasa. (Saṁkhittaṁ. Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (3.6.2 Lokuttarapada)](../../../3.6.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (3.6.2 Lokuttarapada)](../../../3.6.2.md)
 

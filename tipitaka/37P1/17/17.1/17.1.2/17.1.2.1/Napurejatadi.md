@@ -15,8 +15,7 @@
 
 (14.)
 
-2468\. Maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati napurejātapaccayā…  napacchājātapaccayā. (Paripuṇṇā dvepi.)
+2468\. Maggārammaṇaṁ dhammaṁ paṭicca maggārammaṇo dhammo uppajjati napurejātapaccayā… napacchājātapaccayā. (Paripuṇṇā dvepi.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (17.1.2.1 Vibhaṅgavāra)](../17.1.2.1.md) / [Go to next page (Naāsevana)](Naasevana.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (17.1.2.1 Vibhaṅgavāra)](../17.1.2.1.md) / [Go to next page (Naāsevana)](Naasevana.md)
 

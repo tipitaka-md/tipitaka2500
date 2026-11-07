@@ -17,14 +17,9 @@
 
 (410.)
 
-3359\. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṃ, samanantare ekaṃ, sahajāte pañca, aññamaññe pañca, nissaye pañca, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi, āhāre cha, indriye satta, jhāne tīṇi, magge tīṇi, sampayutte ekaṃ, vippayutte cattāri, atthiyā nava, natthiyā ekaṃ, vigate ekaṃ, avigate nava.
+3359\. Hetuyā tīṇi, ārammaṇe dve, adhipatiyā cattāri, anantare ekaṁ, samanantare ekaṁ, sahajāte pañca, aññamaññe pañca, nissaye pañca, upanissaye dve, purejāte tīṇi, pacchājāte tīṇi, āsevane ekaṁ, kamme tīṇi, vipāke tīṇi, āhāre cha, indriye satta, jhāne tīṇi, magge tīṇi, sampayutte ekaṁ, vippayutte cattāri, atthiyā nava, natthiyā ekaṁ, vigate ekaṁ, avigate nava.
 
----
+3360\. Anulomaṁ.
 
-3360\. Anulomaṃ.
-
-
-
-[Go to previous page (10.13.7.1.2 Saṅkhyāvāra)](../10.13.7.1.2.md) / [Go to parent page (10.13.7.1.2 Saṅkhyāvāra)](../10.13.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (10.13.7.1.2 Saṅkhyāvāra)](../10.13.7.1.2.md) / [Go to parent page (10.13.7.1.2 Saṅkhyāvāra)](../10.13.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

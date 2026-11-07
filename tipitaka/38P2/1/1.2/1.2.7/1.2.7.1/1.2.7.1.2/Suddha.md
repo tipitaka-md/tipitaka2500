@@ -17,14 +17,9 @@
 
 (119.)
 
-332\. Hetuyā cha, ārammaṇe nava, adhipatiyā cattāri, anantare nava, samanantare nava, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Evaṃ gaṇetabbaṃ.)
+332\. Hetuyā cha, ārammaṇe nava, adhipatiyā cattāri, anantare nava, samanantare nava, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+333\. Anulomaṁ.
 
-333\. Anulomaṃ.
-
-
-
-[Go to previous page (1.2.7.1.2 Saṅkhyāvāra)](../1.2.7.1.2.md) / [Go to parent page (1.2.7.1.2 Saṅkhyāvāra)](../1.2.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (1.2.7.1.2 Saṅkhyāvāra)](../1.2.7.1.2.md) / [Go to parent page (1.2.7.1.2 Saṅkhyāvāra)](../1.2.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

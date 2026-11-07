@@ -17,16 +17,15 @@
 
 (355.)
 
-751\. Hetuṃ parittaṃ dhammaṃ paṭicca hetu paritto dhammo uppajjati hetupaccayā…  tīṇi.
+751\. Hetuṁ parittaṁ dhammaṁ paṭicca hetu paritto dhammo uppajjati hetupaccayā… tīṇi.
 
-752\. Nahetuṃ parittaṃ dhammaṃ paṭicca nahetu paritto dhammo uppajjati hetupaccayā…  tīṇi.
+752\. Nahetuṁ parittaṁ dhammaṁ paṭicca nahetu paritto dhammo uppajjati hetupaccayā… tīṇi.
 
-753\. Hetuṃ parittañca nahetuṃ parittañca dhammaṃ paṭicca hetu paritto dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+753\. Hetuṁ parittañca nahetuṁ parittañca dhammaṁ paṭicca hetu paritto dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (356.)
 
-754\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
+754\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇādi)](Nahetu-naarammanadi.md)
-
 

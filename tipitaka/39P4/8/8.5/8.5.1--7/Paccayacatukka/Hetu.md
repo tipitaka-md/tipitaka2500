@@ -15,36 +15,35 @@
 
 (18.)
 
-1755\. Saṃkiliṭṭhasaṃkilesikaṃ saraṇaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko saraṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1755\. Saṁkiliṭṭhasaṁkilesikaṁ saraṇaṁ dhammaṁ paṭicca saṁkiliṭṭhasaṁkilesiko saraṇo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1756\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1756\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1757\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1757\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (19.)
 
-1758\. Asaṃkiliṭṭhasaṃkilesikaṃ araṇaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko araṇo dhammo uppajjati hetupaccayā. (1)
+1758\. Asaṁkiliṭṭhasaṁkilesikaṁ araṇaṁ dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko araṇo dhammo uppajjati hetupaccayā. (1)
 
-1759\. Asaṃkiliṭṭhaasaṃkilesikaṃ araṇaṃ dhammaṃ paṭicca asaṃkiliṭṭhaasaṃkilesiko araṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1759\. Asaṁkiliṭṭhaasaṁkilesikaṁ araṇaṁ dhammaṁ paṭicca asaṁkiliṭṭhaasaṁkilesiko araṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1760\. Asaṃkiliṭṭhasaṃkilesikaṃ araṇañca asaṃkiliṭṭhaasaṃkilesikaṃ araṇañca dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko araṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1760\. Asaṁkiliṭṭhasaṁkilesikaṁ araṇañca asaṁkiliṭṭhaasaṁkilesikaṁ araṇañca dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko araṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (20.)
 
-1761\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.) (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1761\. Hetuyā pañca, ārammaṇe dve…pe… avigate pañca. (Saṁkhittaṁ.) (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (21.)
 
-1762\. Asaṃkiliṭṭhasaṃkilesiko araṇo dhammo asaṃkiliṭṭhasaṃkilesikassa araṇassa dhammassa hetupaccayena paccayo. (1)
+1762\. Asaṁkiliṭṭhasaṁkilesiko araṇo dhammo asaṁkiliṭṭhasaṁkilesikassa araṇassa dhammassa hetupaccayena paccayo. (1)
 
-1763\. Asaṃkiliṭṭhaasaṃkilesiko araṇo dhammo asaṃkiliṭṭhaasaṃkilesikassa araṇassa dhammassa hetupaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+1763\. Asaṁkiliṭṭhaasaṁkilesiko araṇo dhammo asaṁkiliṭṭhaasaṁkilesikassa araṇassa dhammassa hetupaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (22.)
 
-1764\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā…pe…  samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme…pe…  magge cattāri, sampayutte dve, vippayutte tīṇi…pe…  avigate satta. (Saṃkhittaṃ.)
+1764\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā…pe… samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte āsevane dve, kamme…pe… magge cattāri, sampayutte dve, vippayutte tīṇi…pe… avigate satta. (Saṁkhittaṁ.)
 
-1765\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1765\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.6 Vitakkattika, Saraṇaduka)](../../../8.6.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.6 Vitakkattika, Saraṇaduka)](../../../8.6.md)
 

@@ -13,8 +13,7 @@
 
 * Catukka
 
-389\. Namaggapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, vipāke ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+389\. Namaggapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, kamme ekaṁ, vipāke ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Namaggatika)](../Namaggatika.md) / [Go to parent page (Namaggatika)](../Namaggatika.md) / [Go to next page (Nasampayuttaduka)](../Nasampayuttaduka.md)
-
 

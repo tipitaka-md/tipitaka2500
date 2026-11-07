@@ -15,12 +15,11 @@
 
 (46.)
 
-2003\. Parittaṃ dhammaṃ saṃsaṭṭho paritto dhammo uppajjati naadhipatipaccayā—  parittaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+2003\. Parittaṁ dhammaṁ saṁsaṭṭho paritto dhammo uppajjati naadhipatipaccayā— parittaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2004\. Mahaggataṃ dhammaṃ saṃsaṭṭho mahaggato dhammo uppajjati naadhipatipaccayā—  mahaggate khandhe saṃsaṭṭhā mahaggatā adhipati, vipākaṃ mahaggataṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe…  paṭisandhikkhaṇe…pe… . (1)
+2004\. Mahaggataṁ dhammaṁ saṁsaṭṭho mahaggato dhammo uppajjati naadhipatipaccayā— mahaggate khandhe saṁsaṭṭhā mahaggatā adhipati, vipākaṁ mahaggataṁ ekaṁ khandhaṁ saṁsaṭṭhā…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2005\. Appamāṇaṃ dhammaṃ saṃsaṭṭho appamāṇo dhammo uppajjati naadhipatipaccayā—  appamāṇe khandhe saṃsaṭṭhā appamāṇā adhipati. (1)
+2005\. Appamāṇaṁ dhammaṁ saṁsaṭṭho appamāṇo dhammo uppajjati naadhipatipaccayā— appamāṇe khandhe saṁsaṭṭhā appamāṇā adhipati. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.5.2.1 Vibhaṅgavāra)](../13.5.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (13.5.2.1 Vibhaṅgavāra)](../13.5.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 

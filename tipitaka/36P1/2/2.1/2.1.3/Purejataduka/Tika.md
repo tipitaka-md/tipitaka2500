@@ -15,12 +15,7 @@
 
 304\. Purejātapaccayā hetupaccayā naadhipatiyā tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi.
 
----
-
-305\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+305\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Purejātaduka)](../Purejataduka.md) / [Go to parent page (Purejātaduka)](../Purejataduka.md) / [Go to next page (Āsevanaduka)](../Asevanaduka.md)
-
 

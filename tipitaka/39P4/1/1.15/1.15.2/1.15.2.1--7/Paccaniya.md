@@ -6,6 +6,5 @@
 * [Nahetu](Paccaniya/Nahetu.md)
 * [Ārammaṇa-adhipati-anantara](Paccaniya/Arammana-adhipati-anantara.md)
 
-[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (1.15.2.1--7 Paṭiccādivāra)](../1.15.2.1--7.md) / [Go to next page (Nahetu)](Paccaniya/Nahetu.md)
-
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (1.15.2.1--7 Paṭiccādivāra)](../1.15.2.1--7.md) / [Go to next page (Nahetu)](Paccaniya/Nahetu.md)
 

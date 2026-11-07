@@ -13,8 +13,7 @@
 
 * Tika
 
-777\. Indriyapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+777\. Indriyapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Indriyaduka)](../Indriyaduka.md) / [Go to parent page (Indriyaduka)](../Indriyaduka.md) / [Go to next page (Jhānaduka)](../Jhanaduka.md)
-
 

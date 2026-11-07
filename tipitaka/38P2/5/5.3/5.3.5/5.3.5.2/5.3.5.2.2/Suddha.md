@@ -17,8 +17,7 @@
 
 (66.)
 
-1764\. Nahetuyā ekaṃ, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṃ, namagge ekaṃ, navippayutte cha.
+1764\. Nahetuyā ekaṁ, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṁ, namagge ekaṁ, navippayutte cha.
 
-[Go to previous page (5.3.5.2.2 Saṅkhyāvāra)](../5.3.5.2.2.md) / [Go to parent page (5.3.5.2.2 Saṅkhyāvāra)](../5.3.5.2.2.md) / [Go to next page (5.3.5.3 Paccayānulomapaccanīya)](../../5.3.5.3.md)
-
+[Go to previous page (5.3.5.2.2 Saṅkhyāvāra)](../5.3.5.2.2.md) / [Go to parent page (5.3.5.2.2 Saṅkhyāvāra)](../5.3.5.2.2.md) / [Go to next page (5.3.5.3 Paccayānulomapaccanīya)](../../5.3.5.3.md)
 

@@ -23,4 +23,3 @@
 
 [Go to previous page (Jhānasabhāga)](Jhanasabhaga.md) / [Go to parent page (Jhāna)](../Jhana.md) / [Go to next page (Magga)](../Magga.md)
 
-

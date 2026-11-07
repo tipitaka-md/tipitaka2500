@@ -15,10 +15,9 @@
 
 (8.)
 
-2773\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati naārammaṇapaccayā—  ajjhatte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe ajjhatte khandhe paṭicca kaṭattārūpaṃ. Khandhe paṭicca vatthu…pe…  ekaṃ mahābhūtaṃ paṭicca…pe…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
+2773\. Ajjhattaṁ dhammaṁ paṭicca ajjhatto dhammo uppajjati naārammaṇapaccayā— ajjhatte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe ajjhatte khandhe paṭicca kaṭattārūpaṁ. Khandhe paṭicca vatthu…pe… ekaṁ mahābhūtaṁ paṭicca…pe… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… . (1)
 
-2774\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati naārammaṇapaccayā—  bahiddhā khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe bahiddhā khandhe paṭicca kaṭattārūpaṃ. Khandhe paṭicca vatthu…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+2774\. Bahiddhā dhammaṁ paṭicca bahiddhā dhammo uppajjati naārammaṇapaccayā— bahiddhā khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe bahiddhā khandhe paṭicca kaṭattārūpaṁ. Khandhe paṭicca vatthu…pe… ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… . (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (21.1.2.1 Vibhaṅgavāra)](../21.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (21.1.2.1 Vibhaṅgavāra)](../21.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

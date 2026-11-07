@@ -15,8 +15,7 @@
 
 (39.)
 
-2539\. Maggārammaṇo dhammo maggārammaṇassa dhammassa samanantarapaccayena paccayo…pe…  (anantarasadisaṃ) sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo… . (Tīsupi sattarasa pañhā kātabbā.)
+2539\. Maggārammaṇo dhammo maggārammaṇassa dhammassa samanantarapaccayena paccayo…pe… (anantarasadisaṁ) sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… . (Tīsupi sattarasa pañhā kātabbā.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (17.7.1.1 Vibhaṅgavāra)](../17.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

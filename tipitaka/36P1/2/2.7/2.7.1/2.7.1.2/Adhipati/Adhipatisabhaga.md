@@ -17,8 +17,7 @@
 
 (310.)
 
-1019\. Adhipatipaccayā hetuyā cattāri, ārammaṇe satta, sahajāte satta, aññamaññe tīṇi, nissaye aṭṭha, upanissaye satta, purejāte ekaṃ, vipāke ekaṃ, āhāre satta, indriye satta, magge satta, sampayutte tīṇi, vippayutte cattāri, atthiyā aṭṭha, avigate aṭṭha. (15)
+1019\. Adhipatipaccayā hetuyā cattāri, ārammaṇe satta, sahajāte satta, aññamaññe tīṇi, nissaye aṭṭha, upanissaye satta, purejāte ekaṁ, vipāke ekaṁ, āhāre satta, indriye satta, magge satta, sampayutte tīṇi, vippayutte cattāri, atthiyā aṭṭha, avigate aṭṭha. (15)
 
 [Go to previous page (Adhipati)](../Adhipati.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Adhipatimissakaghaṭanā)](Adhipatimissakaghatana.md)
-
 

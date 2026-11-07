@@ -17,12 +17,11 @@
 
 (30.)
 
-3600\. Noupādāno dhammo noupādānassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  noupādānā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  noupādānā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (1)
+3600\. Noupādāno dhammo noupādānassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— noupādānā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— noupādānā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (1)
 
-3601\. Noupādāno dhammo upādānassa dhammassa kammapaccayena paccayo—  noupādānā cetanā sampayuttakānaṃ upādānānaṃ kammapaccayena paccayo. (2)
+3601\. Noupādāno dhammo upādānassa dhammassa kammapaccayena paccayo— noupādānā cetanā sampayuttakānaṁ upādānānaṁ kammapaccayena paccayo. (2)
 
-3602\. Noupādāno dhammo upādānassa ca noupādānassa ca dhammassa kammapaccayena paccayo—  noupādānā cetanā sampayuttakānaṃ khandhānaṃ upādānānañca cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (3)
+3602\. Noupādāno dhammo upādānassa ca noupādānassa ca dhammassa kammapaccayena paccayo— noupādānā cetanā sampayuttakānaṁ khandhānaṁ upādānānañca cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. (3)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 

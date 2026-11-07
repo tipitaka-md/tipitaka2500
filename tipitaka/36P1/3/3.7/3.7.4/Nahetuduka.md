@@ -19,6 +19,5 @@
 * [Chakka](Nahetuduka/Chakka.md)
 * [Navaka](Nahetuduka/Navaka.md)
 
-[Go to previous page (3.7.4 Paccayapaccanīyānuloma)](../3.7.4.md) / [Go to parent page (3.7.4 Paccayapaccanīyānuloma)](../3.7.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
-
+[Go to previous page (3.7.4 Paccayapaccanīyānuloma)](../3.7.4.md) / [Go to parent page (3.7.4 Paccayapaccanīyānuloma)](../3.7.4.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 

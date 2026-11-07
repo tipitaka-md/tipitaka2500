@@ -15,14 +15,13 @@
 
 (14.)
 
-2897\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ajjhattaṃ viññāṇañcāyatanaṃ garuṃ katvā paccavekkhati, nevasaññānāsaññāyatanaṃ garuṃ katvā paccavekkhati. Ajjhattārammaṇaṃ ajjhattaṃ dibbaṃ cakkhuṃ garuṃ katvā…pe…  dibbaṃ sotadhātuṃ…pe…  iddhividhañāṇaṃ…  pubbenivāsānussatiñāṇaṃ…  yathākammūpagañāṇaṃ…  anāgataṃsañāṇaṃ garuṃ katvā…pe…  ajjhattārammaṇe ajjhatte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā ajjhattārammaṇo rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  ajjhattārammaṇādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2897\. Ajjhattārammaṇo dhammo ajjhattārammaṇassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— ajjhattaṁ viññāṇañcāyatanaṁ garuṁ katvā paccavekkhati, nevasaññānāsaññāyatanaṁ garuṁ katvā paccavekkhati. Ajjhattārammaṇaṁ ajjhattaṁ dibbaṁ cakkhuṁ garuṁ katvā…pe… dibbaṁ sotadhātuṁ…pe… iddhividhañāṇaṁ… pubbenivāsānussatiñāṇaṁ… yathākammūpagañāṇaṁ… anāgataṁsañāṇaṁ garuṁ katvā…pe… ajjhattārammaṇe ajjhatte khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā ajjhattārammaṇo rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— ajjhattārammaṇādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
 (15.)
 
-2898\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  bahiddhārammaṇādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2898\. Bahiddhārammaṇo dhammo bahiddhārammaṇassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— bahiddhārammaṇādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2899\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ…  phalaṃ garuṃ katvā paccavekkhanti. Bahiddhārammaṇaṃ ajjhattaṃ dibbaṃ cakkhuṃ garuṃ katvā…pe…  dibbaṃ sotadhātuṃ…  iddhividhañāṇaṃ…  cetopariyañāṇaṃ…  pubbenivāsānussatiñāṇaṃ…  yathākammūpagañāṇaṃ…  anāgataṃsañāṇaṃ garuṃ katvā paccavekkhati, bahiddhārammaṇe ajjhatte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā ajjhattārammaṇo rāgo uppajjati, diṭṭhi uppajjati. (2)
+2899\. Bahiddhārammaṇo dhammo ajjhattārammaṇassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni paccavekkhati, jhānā vuṭṭhahitvā…pe… ariyā maggā vuṭṭhahitvā maggaṁ… phalaṁ garuṁ katvā paccavekkhanti. Bahiddhārammaṇaṁ ajjhattaṁ dibbaṁ cakkhuṁ garuṁ katvā…pe… dibbaṁ sotadhātuṁ… iddhividhañāṇaṁ… cetopariyañāṇaṁ… pubbenivāsānussatiñāṇaṁ… yathākammūpagañāṇaṁ… anāgataṁsañāṇaṁ garuṁ katvā paccavekkhati, bahiddhārammaṇe ajjhatte khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā ajjhattārammaṇo rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (22.7.1.1 Vibhaṅgavāra)](../22.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

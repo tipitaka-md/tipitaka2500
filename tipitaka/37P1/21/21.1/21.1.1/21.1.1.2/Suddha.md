@@ -15,14 +15,9 @@
 
 (6.)
 
-2769\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve.
+2769\. Hetuyā dve, ārammaṇe dve…pe… avigate dve.
 
----
+2770\. Anulomaṁ.
 
-2770\. Anulomaṃ.
-
-
-
-[Go to previous page (21.1.1.2 Saṅkhyāvāra)](../21.1.1.2.md) / [Go to parent page (21.1.1.2 Saṅkhyāvāra)](../21.1.1.2.md) / [Go to next page (21.1.2 Paccayapaccanīya)](../../21.1.2.md)
-
+[Go to previous page (21.1.1.2 Saṅkhyāvāra)](../21.1.1.2.md) / [Go to parent page (21.1.1.2 Saṅkhyāvāra)](../21.1.1.2.md) / [Go to next page (21.1.2 Paccayapaccanīya)](../../21.1.2.md)
 

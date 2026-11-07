@@ -17,6 +17,5 @@
 
 2015\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava, naanantare nava, nasamanantare nava, nasahajāte nava, naaññamaññe nava, nanissaye nava, naupanissaye nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme nava, navipāke nava, naāhāre nava, naindriye nava, najhāne nava, namagge nava, nasampayutte nava, navippayutte nava, noatthiyā nava, nonatthiyā nava, novigate nava, noavigate nava.
 
-[Go to previous page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to next page (Nahetuduka)](Nahetuduka.md)
-
+[Go to previous page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to next page (Nahetuduka)](Nahetuduka.md)
 

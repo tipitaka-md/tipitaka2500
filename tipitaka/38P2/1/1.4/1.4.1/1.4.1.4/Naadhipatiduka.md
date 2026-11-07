@@ -15,14 +15,9 @@
 
 (135.)
 
-373\. Naadhipatipaccayā hetuyā nava, ārammaṇe nava, anantare nava…pe…  avigate nava. (Evaṃ gaṇetabbaṃ.)
+373\. Naadhipatipaccayā hetuyā nava, ārammaṇe nava, anantare nava…pe… avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+374\. Paccanīyānulomaṁ.
 
-374\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (1.4.1.4 Paccayapaccanīyānuloma)](../1.4.1.4.md) / [Go to parent page (1.4.1.4 Paccayapaccanīyānuloma)](../1.4.1.4.md) / [Go to next page (1.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../1.4.2--6.md)
-
+[Go to previous page (1.4.1.4 Paccayapaccanīyānuloma)](../1.4.1.4.md) / [Go to parent page (1.4.1.4 Paccayapaccanīyānuloma)](../1.4.1.4.md) / [Go to next page (1.4.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../1.4.2--6.md)
 

@@ -17,12 +17,11 @@
 
 (328.)
 
-3130\. Ajjhattikaṃ dhammaṃ paṭicca bāhiro dhammo uppajjati najhānapaccayā—  cakkhuviññāṇaṃ paṭicca sampayuttakā khandhā…pe…  kāyaviññāṇaṃ…pe… .
+3130\. Ajjhattikaṁ dhammaṁ paṭicca bāhiro dhammo uppajjati najhānapaccayā— cakkhuviññāṇaṁ paṭicca sampayuttakā khandhā…pe… kāyaviññāṇaṁ…pe… .
 
-3131\. Bāhiraṃ dhammaṃ paṭicca bāhiro dhammo uppajjati najhānapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe…pe…  kāyaviññāṇasahagataṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . Bāhiraṃ dhammaṃ paṭicca ajjhattiko dhammo uppajjati najhānapaccayā—  cakkhuviññāṇasahagate khandhe paṭicca cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate khandhe paṭicca kāyaviññāṇaṃ. Bāhiraṃ dhammaṃ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti najhānapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca dve khandhā cakkhuviññāṇañca, dve khandhe…pe…  kāyaviññāṇasahagataṃ ekaṃ khandhaṃ…pe… . (3)
+3131\. Bāhiraṁ dhammaṁ paṭicca bāhiro dhammo uppajjati najhānapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe…pe… kāyaviññāṇasahagataṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… . Bāhiraṁ dhammaṁ paṭicca ajjhattiko dhammo uppajjati najhānapaccayā— cakkhuviññāṇasahagate khandhe paṭicca cakkhuviññāṇaṁ…pe… kāyaviññāṇasahagate khandhe paṭicca kāyaviññāṇaṁ. Bāhiraṁ dhammaṁ paṭicca ajjhattiko ca bāhiro ca dhammā uppajjanti najhānapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca dve khandhā cakkhuviññāṇañca, dve khandhe…pe… kāyaviññāṇasahagataṁ ekaṁ khandhaṁ…pe… . (3)
 
-3132\. Ajjhattikañca bāhirañca dhammaṃ paṭicca bāhiro dhammo uppajjati najhānapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhuviññāṇañca paṭicca dve khandhā, dve khandhe…pe…  kāyaviññāṇaṃ. (Cakkaṃ.)
+3132\. Ajjhattikañca bāhirañca dhammaṁ paṭicca bāhiro dhammo uppajjati najhānapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhuviññāṇañca paṭicca dve khandhā, dve khandhe…pe… kāyaviññāṇaṁ. (Cakkaṁ.)
 
-[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (10.12.1.2.1 Vibhaṅgavāra)](../10.12.1.2.1.md) / [Go to next page (10.12.1.2.2 Saṅkhyāvāra)](../10.12.1.2.2.md)
-
+[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (10.12.1.2.1 Vibhaṅgavāra)](../10.12.1.2.1.md) / [Go to next page (10.12.1.2.2 Saṅkhyāvāra)](../10.12.1.2.2.md)
 

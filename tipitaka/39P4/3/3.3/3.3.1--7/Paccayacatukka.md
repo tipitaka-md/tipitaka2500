@@ -13,28 +13,27 @@
 
 (10.)
 
-1118\. Kusalaṃ anidassanaṃ dhammaṃ paṭicca kusalo anidassano dhammo uppajjati hetupaccayā…  tīṇi.
+1118\. Kusalaṁ anidassanaṁ dhammaṁ paṭicca kusalo anidassano dhammo uppajjati hetupaccayā… tīṇi.
 
-1119\. Akusalaṃ anidassanaṃ dhammaṃ paṭicca akusalo anidassano dhammo uppajjati hetupaccayā…  tīṇi.
+1119\. Akusalaṁ anidassanaṁ dhammaṁ paṭicca akusalo anidassano dhammo uppajjati hetupaccayā… tīṇi.
 
-1120\. Abyākataṃ anidassanaṃ dhammaṃ paṭicca abyākato anidassano dhammo uppajjati hetupaccayā. (1)
+1120\. Abyākataṁ anidassanaṁ dhammaṁ paṭicca abyākato anidassano dhammo uppajjati hetupaccayā. (1)
 
-1121\. Kusalaṃ anidassanañca abyākataṃ anidassanañca dhammaṃ paṭicca abyākato anidassano dhammo uppajjati hetupaccayā. (1)
+1121\. Kusalaṁ anidassanañca abyākataṁ anidassanañca dhammaṁ paṭicca abyākato anidassano dhammo uppajjati hetupaccayā. (1)
 
-1122\. Akusalaṃ anidassanañca abyākataṃ anidassanañca dhammaṃ paṭicca abyākato anidassano dhammo uppajjati hetupaccayā. (1)
+1122\. Akusalaṁ anidassanañca abyākataṁ anidassanañca dhammaṁ paṭicca abyākato anidassano dhammo uppajjati hetupaccayā. (1)
 
 (11.)
 
-1123\. Kusalaṃ anidassanaṃ dhammaṃ paṭicca kusalo anidassano dhammo uppajjati ārammaṇapaccayā. (1)
+1123\. Kusalaṁ anidassanaṁ dhammaṁ paṭicca kusalo anidassano dhammo uppajjati ārammaṇapaccayā. (1)
 
-1124\. Akusalaṃ anidassanaṃ dhammaṃ paṭicca akusalo anidassano dhammo uppajjati ārammaṇapaccayā. (1)
+1124\. Akusalaṁ anidassanaṁ dhammaṁ paṭicca akusalo anidassano dhammo uppajjati ārammaṇapaccayā. (1)
 
-1125\. Abyākataṃ anidassanaṃ dhammaṃ paṭicca abyākato anidassano dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+1125\. Abyākataṁ anidassanaṁ dhammaṁ paṭicca abyākato anidassano dhammo uppajjati ārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (12.)
 
-1126\. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+1126\. Hetuyā nava, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
-[Go to previous page (3.3.1--7 Paṭiccādivāra)](../3.3.1--7.md) / [Go to parent page (3.3.1--7 Paṭiccādivāra)](../3.3.1--7.md) / [Go to next page (Paccanīya)](Paccaniya.md)
-
+[Go to previous page (3.3.1--7 Paṭiccādivāra)](../3.3.1--7.md) / [Go to parent page (3.3.1--7 Paṭiccādivāra)](../3.3.1--7.md) / [Go to next page (Paccanīya)](Paccaniya.md)
 

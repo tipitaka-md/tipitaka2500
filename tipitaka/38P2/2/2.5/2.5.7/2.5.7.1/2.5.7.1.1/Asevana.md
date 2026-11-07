@@ -17,8 +17,7 @@
 
 (119.)
 
-815\. Arūpī dhammo arūpissa dhammassa āsevanapaccayena paccayo—  purimā purimā arūpino khandhā pacchimānaṃ pacchimānaṃ arūpīnaṃ khandhānaṃ āsevanapaccayena paccayo.
+815\. Arūpī dhammo arūpissa dhammassa āsevanapaccayena paccayo— purimā purimā arūpino khandhā pacchimānaṁ pacchimānaṁ arūpīnaṁ khandhānaṁ āsevanapaccayena paccayo.
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

@@ -17,20 +17,19 @@
 
 (204.)
 
-380\. Hetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. Hetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. (2)
+380\. Hetuṁ asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca hetu asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati naadhipatipaccayā. Hetuṁ asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca nahetu asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati naadhipatipaccayā. (2)
 
-381\. Nahetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca nahetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. Nahetuṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca hetu asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati naadhipatipaccayā. (2) (Saṃkhittaṃ.)
+381\. Nahetuṁ asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca nahetu asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati naadhipatipaccayā. Nahetuṁ asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca hetu asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati naadhipatipaccayā. (2) (Saṁkhittaṁ.)
 
 (205.)
 
-382\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+382\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Saṁkhittaṁ.)
 
-383\. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
+383\. Hetupaccayā naadhipatiyā cha. (Saṁkhittaṁ.)
 
-384\. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
+384\. Naadhipatipaccayā hetuyā cha. (Saṁkhittaṁ.)
 
-385\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+385\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.5.3.7 Pañhāvāra)](../../1.5.3.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.5.3.7 Pañhāvāra)](../../1.5.3.7.md)
 

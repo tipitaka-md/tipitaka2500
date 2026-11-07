@@ -17,14 +17,9 @@
 
 (133.)
 
-369\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Evaṃ gaṇetabbaṃ.)
+369\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Evaṁ gaṇetabbaṁ.)
 
----
+370\. Paccanīyaṁ.
 
-370\. Paccanīyaṃ.
-
-
-
-[Go to previous page (1.4.1.2.2 Saṅkhyāvāra)](../1.4.1.2.2.md) / [Go to parent page (1.4.1.2.2 Saṅkhyāvāra)](../1.4.1.2.2.md) / [Go to next page (1.4.1.3 Paccayānulomapaccanīya)](../../1.4.1.3.md)
-
+[Go to previous page (1.4.1.2.2 Saṅkhyāvāra)](../1.4.1.2.2.md) / [Go to parent page (1.4.1.2.2 Saṅkhyāvāra)](../1.4.1.2.2.md) / [Go to next page (1.4.1.3 Paccayānulomapaccanīya)](../../1.4.1.3.md)
 

@@ -17,18 +17,17 @@
 
 (10.)
 
-14\. Hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo dhammo uppajjati navipākapaccayā…  nava…pe…  navippayuttapaccayā…  nava.
+14\. Hetuṁ kusalaṁ dhammaṁ paṭicca hetu kusalo dhammo uppajjati navipākapaccayā… nava…pe… navippayuttapaccayā… nava.
 
 (11.)
 
-15\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Paccanīyaṃ.)
+15\. Naadhipatiyā nava, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, navippayutte nava. (Paccanīyaṁ.)
 
-16\. Hetupaccayā naadhipatiyā nava. (Saṃkhittaṃ, anulomapaccanīyaṃ.)
+16\. Hetupaccayā naadhipatiyā nava. (Saṁkhittaṁ, anulomapaccanīyaṁ.)
 
-17\. Naadhipatipaccayā hetuyā nava, ārammaṇe nava. (Saṃkhittaṃ, paccanīyānulomaṃ.)
+17\. Naadhipatipaccayā hetuyā nava, ārammaṇe nava. (Saṁkhittaṁ, paccanīyānulomaṁ.)
 
-18\. (Sahajātavārampi paccayavārampi nissayavārampi saṃsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
+18\. (Sahajātavārampi paccayavārampi nissayavārampi saṁsaṭṭhavārampi sampayuttavārampi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.1.7 Pañhāvāra)](../../1.1.1.7.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.1.1.7 Pañhāvāra)](../../1.1.1.7.md)
 

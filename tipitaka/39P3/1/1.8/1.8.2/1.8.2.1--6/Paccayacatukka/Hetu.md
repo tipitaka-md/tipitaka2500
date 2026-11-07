@@ -17,16 +17,15 @@
 
 (266.)
 
-537\. Hetuṃ bhāvanāya pahātabbaṃ dhammaṃ paṭicca hetu bhāvanāya pahātabbo dhammo uppajjati hetupaccayā…  tīṇi.
+537\. Hetuṁ bhāvanāya pahātabbaṁ dhammaṁ paṭicca hetu bhāvanāya pahātabbo dhammo uppajjati hetupaccayā… tīṇi.
 
-538\. Nahetuṃ bhāvanāya pahātabbaṃ dhammaṃ paṭicca nahetu bhāvanāya pahātabbo dhammo uppajjati hetupaccayā…  tīṇi.
+538\. Nahetuṁ bhāvanāya pahātabbaṁ dhammaṁ paṭicca nahetu bhāvanāya pahātabbo dhammo uppajjati hetupaccayā… tīṇi.
 
-539\. Hetuṃ bhāvanāya pahātabbañca nahetuṃ bhāvanāya pahātabbañca dhammaṃ paṭicca hetu bhāvanāya pahātabbo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+539\. Hetuṁ bhāvanāya pahātabbañca nahetuṁ bhāvanāya pahātabbañca dhammaṁ paṭicca hetu bhāvanāya pahātabbo dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (267.)
 
-540\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+540\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu)](Nahetu.md)
-
 

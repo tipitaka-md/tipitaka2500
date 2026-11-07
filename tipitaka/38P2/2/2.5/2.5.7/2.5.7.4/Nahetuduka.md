@@ -17,15 +17,7 @@
 
 850\. Nahetupaccayā ārammaṇe dve, adhipatiyā cattāri (anulomamātikā kātabbā), avigate satta.
 
----
+851\. Paccanīyānulomaṁ. Rūpīdukaṁ niṭṭhitaṁ.
 
-851\. Paccanīyānulomaṃ.
-
-  
-Rūpīdukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (2.5.7.4 Paccayapaccanīyānuloma)](../2.5.7.4.md) / [Go to parent page (2.5.7.4 Paccayapaccanīyānuloma)](../2.5.7.4.md) / [Go to next page (2.6 Lokiyaduka)](../../../2.6.md)
-
+[Go to previous page (2.5.7.4 Paccayapaccanīyānuloma)](../2.5.7.4.md) / [Go to parent page (2.5.7.4 Paccayapaccanīyānuloma)](../2.5.7.4.md) / [Go to next page (2.6 Lokiyaduka)](../../../2.6.md)
 

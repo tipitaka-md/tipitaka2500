@@ -33,20 +33,19 @@
 
 856\. Ajjhatto hetu dhammo ajjhattassa hetussa dhammassa anantarapaccayena paccayo. (1)
 
-857\. Bahiddhā hetu dhammo bahiddhā hetussa dhammassa anantarapaccayena paccayo. (1) (Saṃkhittaṃ.)
+857\. Bahiddhā hetu dhammo bahiddhā hetussa dhammassa anantarapaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (226.)
 
-858\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe…  avigate dve. (Saṃkhittaṃ.)
+858\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri…pe… avigate dve. (Saṁkhittaṁ.)
 
-859\. Nahetuyā cattāri, naārammaṇe cattāri. (Saṃkhittaṃ.)
+859\. Nahetuyā cattāri, naārammaṇe cattāri. (Saṁkhittaṁ.)
 
-860\. Hetupaccayā naārammaṇe dve. (Saṃkhittaṃ.)
+860\. Hetupaccayā naārammaṇe dve. (Saṁkhittaṁ.)
 
-861\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
+861\. Nahetupaccayā ārammaṇe cattāri. (Saṁkhittaṁ.)
 
-862\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+862\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.20.2 Nahetupada)](../../../1.20.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.20.2 Nahetupada)](../../../1.20.2.md)
 

@@ -15,8 +15,7 @@
 
 (203.)
 
-697\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā…  (adhipati paṭisandhikkhaṇe natthi.) Anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā. (Sabbāni padāni hetumūlakasadisāni.)
+697\. Kusalaṁ dhammaṁ saṁsaṭṭho kusalo dhammo uppajjati ārammaṇapaccayā… adhipatipaccayā… (adhipati paṭisandhikkhaṇe natthi.) Anantarapaccayā… samanantarapaccayā… sahajātapaccayā… aññamaññapaccayā… nissayapaccayā… upanissayapaccayā. (Sabbāni padāni hetumūlakasadisāni.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

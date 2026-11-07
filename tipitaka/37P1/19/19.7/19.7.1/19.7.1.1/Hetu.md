@@ -15,8 +15,7 @@
 
 (1.)
 
-2629\. Paccuppanno dhammo paccuppannassa dhammassa hetupaccayena paccayo—  paccuppannā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
+2629\. Paccuppanno dhammo paccuppannassa dhammassa hetupaccayena paccayo— paccuppannā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. Paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

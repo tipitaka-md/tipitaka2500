@@ -15,14 +15,9 @@
 
 (20.)
 
-172\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati avigatapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā. (Avigatapaccayaṃ sahajātapaccayasadisaṃ.)
-
----
+172\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati avigatapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā. (Avigatapaccayaṁ sahajātapaccayasadisaṁ.)
 
 173\. (Ime tevīsatipaccayā sajjhāyantena vitthāretabbā.)
 
-
-
-[Go to previous page (Natthi-vigata)](Natthi-vigata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (2.1.1.2 Saṅkhyāvāra)](../2.1.1.2.md)
-
+[Go to previous page (Natthi-vigata)](Natthi-vigata.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (2.1.1.2 Saṅkhyāvāra)](../2.1.1.2.md)
 

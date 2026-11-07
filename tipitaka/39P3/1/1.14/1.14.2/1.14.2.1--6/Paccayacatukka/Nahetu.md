@@ -17,18 +17,17 @@
 
 (415.)
 
-899\. Nahetuṃ majjhimaṃ dhammaṃ paṭicca nahetu majjhimo dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+899\. Nahetuṁ majjhimaṁ dhammaṁ paṭicca nahetu majjhimo dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
 (416.)
 
-900\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi…pe…  naupanissaye tīṇi, napurejāte napacchājāte naāsevane nava, na kamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṃ, nasampayutte tīṇi, navippayutte nava…pe…  novigate tīṇi. (Saṃkhittaṃ.)
+900\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi…pe… naupanissaye tīṇi, napurejāte napacchājāte naāsevane nava, na kamme tīṇi, navipāke nava, naāhāre naindriye najhāne namagge ekaṁ, nasampayutte tīṇi, navippayutte nava…pe… novigate tīṇi. (Saṁkhittaṁ.)
 
-901\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+901\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-902\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+902\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-903\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+903\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.14.2.7 Pañhāvāra)](../../1.14.2.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.14.2.7 Pañhāvāra)](../../1.14.2.7.md)
 

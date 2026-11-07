@@ -17,8 +17,7 @@
 
 (26.)
 
-2172\. Parāmāso dhammo parāmāsassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo…  pañca.
+2172\. Parāmāso dhammo parāmāsassa dhammassa samanantarapaccayena paccayo… sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… pañca.
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (9.1.7.1.1 Vibhaṅgavāra)](../9.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

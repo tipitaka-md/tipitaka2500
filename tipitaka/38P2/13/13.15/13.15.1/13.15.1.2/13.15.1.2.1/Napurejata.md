@@ -17,12 +17,11 @@
 
 (304.)
 
-4721\. Niyyānikaṃ dhammaṃ paṭicca niyyāniko dhammo uppajjati napurejātapaccayā—  arūpe niyyānikaṃ ekaṃ khandhaṃ…pe… . Niyyānikaṃ dhammaṃ paṭicca aniyyāniko dhammo uppajjati napurejātapaccayā—  niyyānike khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+4721\. Niyyānikaṁ dhammaṁ paṭicca niyyāniko dhammo uppajjati napurejātapaccayā— arūpe niyyānikaṁ ekaṁ khandhaṁ…pe… . Niyyānikaṁ dhammaṁ paṭicca aniyyāniko dhammo uppajjati napurejātapaccayā— niyyānike khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-4722\. Aniyyānikaṃ dhammaṃ paṭicca aniyyāniko dhammo uppajjati napurejātapaccayā—  arūpe aniyyānikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  aniyyānike khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+4722\. Aniyyānikaṁ dhammaṁ paṭicca aniyyāniko dhammo uppajjati napurejātapaccayā— arūpe aniyyānikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… aniyyānike khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-4723\. Niyyānikañca aniyyānikañca dhammaṃ paṭicca aniyyāniko dhammo uppajjati napurejātapaccayā—  niyyānike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+4723\. Niyyānikañca aniyyānikañca dhammaṁ paṭicca aniyyāniko dhammo uppajjati napurejātapaccayā— niyyānike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to next page (13.15.1.2.2 Saṅkhyāvāra)](../13.15.1.2.2.md)
-
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to next page (13.15.1.2.2 Saṅkhyāvāra)](../13.15.1.2.2.md)
 

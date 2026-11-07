@@ -13,8 +13,7 @@
 
 * Tevīsaka (savipāka)
 
-344\. Vippayuttapaccayā hetupaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte ekaṃ, naāsevane ekaṃ.
+344\. Vippayuttapaccayā hetupaccayā…pe… purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā…pe… avigatapaccayā napacchājāte ekaṁ, naāsevane ekaṁ.
 
 [Go to previous page (Cuddasaka (savipāka))](uddasaka_savipaka.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Atthiduka)](../Atthiduka.md)
-
 

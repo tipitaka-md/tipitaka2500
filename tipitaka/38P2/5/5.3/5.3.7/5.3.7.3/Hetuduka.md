@@ -15,8 +15,7 @@
 
 (101.)
 
-1839\. Hetupaccayā naārammaṇe nava, naadhipatiyā nava…pe…  nasamanantare nava, naaññamaññe tīṇi, naupanissaye nava…pe…  namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā nava, novigate nava.
+1839\. Hetupaccayā naārammaṇe nava, naadhipatiyā nava…pe… nasamanantare nava, naaññamaññe tīṇi, naupanissaye nava…pe… namagge nava, nasampayutte tīṇi, navippayutte cha, nonatthiyā nava, novigate nava.
 
-[Go to previous page (5.3.7.3 Paccayānulomapaccanīya)](../5.3.7.3.md) / [Go to parent page (5.3.7.3 Paccayānulomapaccanīya)](../5.3.7.3.md) / [Go to next page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md)
-
+[Go to previous page (5.3.7.3 Paccayānulomapaccanīya)](../5.3.7.3.md) / [Go to parent page (5.3.7.3 Paccayānulomapaccanīya)](../5.3.7.3.md) / [Go to next page (5.3.7.4 Paccayapaccanīyānuloma)](../5.3.7.4.md)
 

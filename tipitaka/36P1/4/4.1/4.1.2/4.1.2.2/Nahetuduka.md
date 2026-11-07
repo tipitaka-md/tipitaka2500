@@ -15,10 +15,9 @@
 
 (50.)
 
-2143\. Nahetupaccayā naārammaṇe tīṇi, naadhipatiyā dasa, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte dasa, napacchājāte dasa, naāsevane dasa, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+2143\. Nahetupaccayā naārammaṇe tīṇi, naadhipatiyā dasa, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte dasa, napacchājāte dasa, naāsevane dasa, nakamme ekaṁ, navipāke dve, naāhāre ekaṁ, naindriye ekaṁ, najhāne dve, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
 * [Tika](Nahetuduka/Tika.md)
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.1.2.2 Saṅkhyāvāra)](../4.1.2.2.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.1.2.2 Saṅkhyāvāra)](../4.1.2.2.md) / [Go to next page (Tika)](Nahetuduka/Tika.md)
 

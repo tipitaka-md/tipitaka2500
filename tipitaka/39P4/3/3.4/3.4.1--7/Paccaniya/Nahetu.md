@@ -15,16 +15,15 @@
 
 (21.)
 
-1150\. Akusalaṃ appaṭighaṃ dhammaṃ paṭicca akusalo appaṭigho dhammo uppajjati nahetupaccayā. (1)
+1150\. Akusalaṁ appaṭighaṁ dhammaṁ paṭicca akusalo appaṭigho dhammo uppajjati nahetupaccayā. (1)
 
-1151\. Abyākataṃ appaṭighaṃ dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+1151\. Abyākataṁ appaṭighaṁ dhammaṁ paṭicca abyākato appaṭigho dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
 (22.)
 
-1152\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe…  novigate pañca. (Saṃkhittaṃ.)
+1152\. Nahetuyā dve, naārammaṇe pañca, naadhipatiyā nava…pe… novigate pañca. (Saṁkhittaṁ.)
 
-1153\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1153\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu)](Hetu.md)
-
 

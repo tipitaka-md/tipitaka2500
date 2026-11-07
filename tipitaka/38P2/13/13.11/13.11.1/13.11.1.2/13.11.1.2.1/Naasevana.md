@@ -17,12 +17,11 @@
 
 (200.)
 
-4520\. Kāmāvacaraṃ dhammaṃ paṭicca kāmāvacaro dhammo uppajjati naāsevanapaccayā…  tīṇi.
+4520\. Kāmāvacaraṁ dhammaṁ paṭicca kāmāvacaro dhammo uppajjati naāsevanapaccayā… tīṇi.
 
-4521\. Nakāmāvacaraṃ dhammaṃ paṭicca nakāmāvacaro dhammo uppajjati naāsevanapaccayā—  vipākaṃ nakāmāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . Nakāmāvacaraṃ dhammaṃ paṭicca kāmāvacaro dhammo uppajjati naāsevanapaccayā—  nakāmāvacare khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  (mūlaṃ kātabbaṃ.) Vipākaṃ nakāmāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+4521\. Nakāmāvacaraṁ dhammaṁ paṭicca nakāmāvacaro dhammo uppajjati naāsevanapaccayā— vipākaṁ nakāmāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . Nakāmāvacaraṁ dhammaṁ paṭicca kāmāvacaro dhammo uppajjati naāsevanapaccayā— nakāmāvacare khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… (mūlaṁ kātabbaṁ.) Vipākaṁ nakāmāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
-4522\. (Avasesā tīṇi pākatikā. Saṃkhittaṃ.)
+4522\. (Avasesā tīṇi pākatikā. Saṁkhittaṁ.)
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (13.11.1.2.1 Vibhaṅgavāra)](../13.11.1.2.1.md) / [Go to next page (13.11.1.2.2 Saṅkhyāvāra)](../13.11.1.2.2.md)
-
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (13.11.1.2.1 Vibhaṅgavāra)](../13.11.1.2.1.md) / [Go to next page (13.11.1.2.2 Saṅkhyāvāra)](../13.11.1.2.2.md)
 

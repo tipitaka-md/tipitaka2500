@@ -13,19 +13,11 @@
 
 * Sattaka
 
-2156\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte tīṇi, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (Saṃkhittaṃ.)
+2156\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā sahajāte tīṇi, nissaye tīṇi, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, vippayutte tīṇi, atthiyā tīṇi, avigate tīṇi. (Saṁkhittaṁ.)
 
-2157\. (Yathā kusalattike nahetumūlakaṃ gaṇitaṃ, evaṃ gaṇetabbaṃ. Yathā kusalattike paccanīyānulomaṃ vitthāritaṃ, evaṃ idaṃ vitthāretabbaṃ.)
+2157\. (Yathā kusalattike nahetumūlakaṁ gaṇitaṁ, evaṁ gaṇetabbaṁ. Yathā kusalattike paccanīyānulomaṁ vitthāritaṁ, evaṁ idaṁ vitthāretabbaṁ.)
 
----
+2158\. Paccanīyānulomaṁ. Paṭiccavāro.
 
-2158\. Paccanīyānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (Tika)](Tika.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (4.2 Sahajātavāra)](../../../4.2.md)
-
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (4.2 Sahajātavāra)](../../../4.2.md)
 

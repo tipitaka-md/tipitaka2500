@@ -17,16 +17,15 @@
 
 (296.)
 
-3047\. Cittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ saṃsaṭṭho cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhaṃ saṃsaṭṭhā dve khandhā, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+3047\. Cittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ saṁsaṭṭho cittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā— cittasaṁsaṭṭhasamuṭṭhānaṁ ekaṁ khandhaṁ saṁsaṭṭhā dve khandhā, dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-3048\. Cittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ saṃsaṭṭho nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasaṃsaṭṭhasamuṭṭhāne khandhe saṃsaṭṭhaṃ cittaṃ; paṭisandhikkhaṇe…pe… . (2)
+3048\. Cittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ saṁsaṭṭho nocittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā— cittasaṁsaṭṭhasamuṭṭhāne khandhe saṁsaṭṭhaṁ cittaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-3049\. Cittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ saṃsaṭṭho cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti hetupaccayā—  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhaṃ saṃsaṭṭhā dve khandhā cittañca, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+3049\. Cittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ saṁsaṭṭho cittasaṁsaṭṭhasamuṭṭhāno ca nocittasaṁsaṭṭhasamuṭṭhāno ca dhammā uppajjanti hetupaccayā— cittasaṁsaṭṭhasamuṭṭhānaṁ ekaṁ khandhaṁ saṁsaṭṭhā dve khandhā cittañca, dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
-3050\. Nocittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ saṃsaṭṭho cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittaṃ saṃsaṭṭhā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
+3050\. Nocittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ saṁsaṭṭho cittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā— cittaṁ saṁsaṭṭhā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (1)
 
-3051\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ saṃsaṭṭho cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā—  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca cittañca saṃsaṭṭhā dve khandhā, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1) (Saṃkhittaṃ.)
+3051\. Cittasaṁsaṭṭhasamuṭṭhānañca nocittasaṁsaṭṭhasamuṭṭhānañca dhammaṁ saṁsaṭṭho cittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati hetupaccayā— cittasaṁsaṭṭhasamuṭṭhānaṁ ekaṁ khandhañca cittañca saṁsaṭṭhā dve khandhā, dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1) (Saṁkhittaṁ.)
 
-[Go to previous page (10.9.5.1.1 Vibhaṅgavāra)](../10.9.5.1.1.md) / [Go to parent page (10.9.5.1.1 Vibhaṅgavāra)](../10.9.5.1.1.md) / [Go to next page (10.9.5.1.2 Saṅkhyāvāra)](../10.9.5.1.2.md)
-
+[Go to previous page (10.9.5.1.1 Vibhaṅgavāra)](../10.9.5.1.1.md) / [Go to parent page (10.9.5.1.1 Vibhaṅgavāra)](../10.9.5.1.1.md) / [Go to next page (10.9.5.1.2 Saṅkhyāvāra)](../10.9.5.1.2.md)
 

@@ -19,6 +19,5 @@
 
 2119\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, āsevane nava, kamme tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte nava, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
 
-[Go to previous page (8.5.7.1.2 Saṅkhyāvāra)](../8.5.7.1.2.md) / [Go to parent page (8.5.7.1.2 Saṅkhyāvāra)](../8.5.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (8.5.7.1.2 Saṅkhyāvāra)](../8.5.7.1.2.md) / [Go to parent page (8.5.7.1.2 Saṅkhyāvāra)](../8.5.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

@@ -17,16 +17,15 @@
 
 (199.)
 
-753\. Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca maggārammaṇo nahetu dhammo uppajjati nahetupaccayā. (1) (Saṃkhittaṃ.)
+753\. Maggārammaṇaṁ nahetuṁ dhammaṁ paṭicca maggārammaṇo nahetu dhammo uppajjati nahetupaccayā. (1) (Saṁkhittaṁ.)
 
-754\. Nahetuyā ekaṃ, naadhipatiyā sattarasa, napurejāte sattarasa, napacchājāte sattarasa, naāsevane nava, nakamme sattarasa, navipāke sattarasa, namagge ekaṃ, navippayutte sattarasa. (Saṃkhittaṃ.)
+754\. Nahetuyā ekaṁ, naadhipatiyā sattarasa, napurejāte sattarasa, napacchājāte sattarasa, naāsevane nava, nakamme sattarasa, navipāke sattarasa, namagge ekaṁ, navippayutte sattarasa. (Saṁkhittaṁ.)
 
-755\. Hetupaccayā naadhipatiyā sattarasa. (Saṃkhittaṃ.)
+755\. Hetupaccayā naadhipatiyā sattarasa. (Saṁkhittaṁ.)
 
-756\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+756\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-757\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+757\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.16.2.7 Pañhāvāra)](../../1.16.2.7.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.16.2.7 Pañhāvāra)](../../1.16.2.7.md)
 

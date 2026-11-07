@@ -15,28 +15,27 @@
 
 (95.)
 
-2289\. Vipāko dhammo vipākassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  vipākādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2289\. Vipāko dhammo vipākassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— vipākādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2290\. Vipāko dhammo vipākadhammadhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā phalaṃ garuṃ katvā paccavekkhanti, vipāke khandhe garuṃ katvā assādenti abhinandanti; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+2290\. Vipāko dhammo vipākadhammadhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— sekkhā phalaṁ garuṁ katvā paccavekkhanti, vipāke khandhe garuṁ katvā assādenti abhinandanti; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-2291\. Vipāko dhammo nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  arahā phalaṃ garuṃ katvā paccavekkhati. **Sahajātādhipati**—  vipākādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (3)
+2291\. Vipāko dhammo nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— arahā phalaṁ garuṁ katvā paccavekkhati. Sahajātādhipati— vipākādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (3)
 
-2292\. Vipāko dhammo vipākassa ca nevavipākanavipākadhammadhammassa ca adhipatipaccayena paccayo. **Sahajātādhipati**—  vipākādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (4)
+2292\. Vipāko dhammo vipākassa ca nevavipākanavipākadhammadhammassa ca adhipatipaccayena paccayo. Sahajātādhipati— vipākādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (4)
 
 (96.)
 
-2293\. Vipākadhammadhammo vipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ samādiyitvā uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, sekkhā gotrabhuṃ garuṃ katvā paccavekkhanti, vodānaṃ garuṃ katvā paccavekkhanti, sekkhā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, vipākadhammadhamme khandhe garuṃ katvā assādenti abhinandanti; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  vipākadhammadhammādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2293\. Vipākadhammadhammo vipākadhammadhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā sīlaṁ samādiyitvā uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni garuṁ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā paccavekkhati, sekkhā gotrabhuṁ garuṁ katvā paccavekkhanti, vodānaṁ garuṁ katvā paccavekkhanti, sekkhā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti, vipākadhammadhamme khandhe garuṁ katvā assādenti abhinandanti; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— vipākadhammadhammādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2294\. Vipākadhammadhammo nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  arahā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhati. **Sahajātādhipati**—  vipākadhammadhammādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+2294\. Vipākadhammadhammo nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— arahā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhati. Sahajātādhipati— vipākadhammadhammādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-2295\. Vipākadhammadhammo vipākadhammadhammassa ca nevavipākanavipākadhammadhammassa ca adhipatipaccayena paccayo. **Sahajātādhipati**—  vipākadhammadhammādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2295\. Vipākadhammadhammo vipākadhammadhammassa ca nevavipākanavipākadhammadhammassa ca adhipatipaccayena paccayo. Sahajātādhipati— vipākadhammadhammādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
-2296\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  arahā nibbānaṃ garuṃ katvā paccavekkhati. **Sahajātādhipati**—  nevavipākanavipākadhammadhammādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+2296\. Nevavipākanavipākadhammadhammo nevavipākanavipākadhammadhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— arahā nibbānaṁ garuṁ katvā paccavekkhati. Sahajātādhipati— nevavipākanavipākadhammadhammādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-2297\. Nevavipākanavipākadhammadhammo vipākassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  nibbānaṃ phalassa adhipatipaccayena paccayo. (2)
+2297\. Nevavipākanavipākadhammadhammo vipākassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— nibbānaṁ phalassa adhipatipaccayena paccayo. (2)
 
-2298\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sekkhā nibbānaṃ garuṃ katvā paccavekkhanti. Nibbānaṃ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. Cakkhuṃ garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṃ…pe…  nevavipākanavipākadhammadhamme khandhe garuṃ katvā assādeti abhinandati; taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
+2298\. Nevavipākanavipākadhammadhammo vipākadhammadhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— sekkhā nibbānaṁ garuṁ katvā paccavekkhanti. Nibbānaṁ gotrabhussa, vodānassa, maggassa adhipatipaccayena paccayo. Cakkhuṁ garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sotaṁ…pe… nevavipākanavipākadhammadhamme khandhe garuṁ katvā assādeti abhinandati; taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (4.7.1.1 Vibhaṅgavāra)](../4.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

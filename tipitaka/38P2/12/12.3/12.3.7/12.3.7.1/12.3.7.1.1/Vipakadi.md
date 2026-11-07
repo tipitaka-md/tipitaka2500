@@ -17,10 +17,9 @@
 
 (63.)
 
-3978\. Asaṃkiliṭṭho dhammo asaṃkiliṭṭhassa dhammassa vipākapaccayena paccayo…  ekaṃ.
+3978\. Asaṁkiliṭṭho dhammo asaṁkiliṭṭhassa dhammassa vipākapaccayena paccayo… ekaṁ.
 
-3979\. Saṃkiliṭṭho dhammo saṃkiliṭṭhassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
+3979\. Saṁkiliṭṭho dhammo saṁkiliṭṭhassa dhammassa āhārapaccayena paccayo… indriyapaccayena paccayo… jhānapaccayena paccayo… maggapaccayena paccayo… sampayuttapaccayena paccayo.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (12.3.7.1.1 Vibhaṅgavāra)](../12.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

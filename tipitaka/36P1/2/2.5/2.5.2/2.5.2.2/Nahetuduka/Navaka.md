@@ -15,8 +15,7 @@
 
 * Navaka
 
-734\. Nahetupaccayā naadhipatipaccayā…pe…  nakammapaccayā navipākapaccayā namaggapaccayā navippayutte ekaṃ.
+734\. Nahetupaccayā naadhipatipaccayā…pe… nakammapaccayā navipākapaccayā namaggapaccayā navippayutte ekaṁ.
 
 [Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naadhipatiduka)](../Naadhipatiduka.md)
-
 

@@ -25,10 +25,9 @@
 
 1488\. Sappaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa upanissayapaccayena paccayo. (1)
 
-1489\. Appaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo. (1) (Saṃkhittaṃ.)
+1489\. Appaccayo abyākato dhammo sappaccayassa abyākatassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo. (1) (Saṁkhittaṁ.)
 
-1490\. Hetuyā ekaṃ, ārammaṇe dve, adhipatiyā dve, anantare ekaṃ…pe…  nissaye ekaṃ, upanissaye dve, purejāte ekaṃ, pacchājāte ekaṃ, (sabbattha ekaṃ), avigate ekaṃ. (Saṃkhittaṃ.)
+1490\. Hetuyā ekaṁ, ārammaṇe dve, adhipatiyā dve, anantare ekaṁ…pe… nissaye ekaṁ, upanissaye dve, purejāte ekaṁ, pacchājāte ekaṁ, (sabbattha ekaṁ), avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../accayacatukka.md) / [Go to parent page (Paccayacatukka)](../accayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

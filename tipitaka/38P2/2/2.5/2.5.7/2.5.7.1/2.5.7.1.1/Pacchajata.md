@@ -17,8 +17,7 @@
 
 (118.)
 
-814\. Arūpī dhammo rūpissa dhammassa pacchājātapaccayena paccayo—  pacchājātā arūpino khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+814\. Arūpī dhammo rūpissa dhammassa pacchājātapaccayena paccayo— pacchājātā arūpino khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 

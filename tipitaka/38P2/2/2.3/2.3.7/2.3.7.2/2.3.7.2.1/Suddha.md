@@ -19,12 +19,7 @@
 
 653\. Nahetuyā pañca, naārammaṇe cattāri, naadhipatiyā pañca, naanantare pañca, nasamanantare pañca, nasahajāte pañca, naaññamaññe pañca, nanissaye cattāri, naupanissaye pañca, napurejāte cattāri, napacchājāte pañca (sabbattha pañca), nasampayutte pañca, navippayutte cattāri, noatthiyā cattāri, nonatthiyā pañca, novigate pañca, noavigate cattāri.
 
----
+654\. Paccanīyaṁ.
 
-654\. Paccanīyaṃ.
-
-
-
-[Go to previous page (2.3.7.2.1 Saṅkhyāvāra)](../2.3.7.2.1.md) / [Go to parent page (2.3.7.2.1 Saṅkhyāvāra)](../2.3.7.2.1.md) / [Go to next page (2.3.7.3 Paccayānulomapaccanīya)](../../2.3.7.3.md)
-
+[Go to previous page (2.3.7.2.1 Saṅkhyāvāra)](../2.3.7.2.1.md) / [Go to parent page (2.3.7.2.1 Saṅkhyāvāra)](../2.3.7.2.1.md) / [Go to next page (2.3.7.3 Paccayānulomapaccanīya)](../../2.3.7.3.md)
 

@@ -15,14 +15,9 @@
 
 (16.)
 
-38\. Nahetupaccayā ārammaṇe dve, anantare dve…pe…  kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve…pe…  avigate dve.
+38\. Nahetupaccayā ārammaṇe dve, anantare dve…pe… kamme dve, vipāke ekaṁ, āhāre dve, indriye dve, jhāne dve, magge ekaṁ, sampayutte dve…pe… avigate dve.
 
----
+39\. Paccanīyānulomaṁ.
 
-39\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (1.1.1.4 Paccayapaccanīyānuloma)](../1.1.1.4.md) / [Go to parent page (1.1.1.4 Paccayapaccanīyānuloma)](../1.1.1.4.md) / [Go to next page (1.1.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../1.1.2--6.md)
-
+[Go to previous page (1.1.1.4 Paccayapaccanīyānuloma)](../1.1.1.4.md) / [Go to parent page (1.1.1.4 Paccayapaccanīyānuloma)](../1.1.1.4.md) / [Go to next page (1.1.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../1.1.2--6.md)
 

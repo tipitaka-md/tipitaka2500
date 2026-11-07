@@ -13,29 +13,13 @@
 
 (66.)
 
-3099\. Nahetupaccayā ārammaṇe tīṇi, adhipatiyā nava, anantare ekaṃ, samanantare ekaṃ, sahajāte ekavīsa, aññamaññe cha, nissaye ekavīsa, upanissaye tīṇi, purejāte cha, pacchājāte satta, āsevane ekaṃ, kamme satta, vipāke satta, āhāre satta, indriye nava, jhāne satta, magge satta, sampayutte ekaṃ, vippayutte aṭṭha, atthiyā pañcavīsa, natthiyā ekaṃ, vigate ekaṃ, avigate pañcavīsa. (Evaṃ gaṇetabbaṃ.)
+3099\. Nahetupaccayā ārammaṇe tīṇi, adhipatiyā nava, anantare ekaṁ, samanantare ekaṁ, sahajāte ekavīsa, aññamaññe cha, nissaye ekavīsa, upanissaye tīṇi, purejāte cha, pacchājāte satta, āsevane ekaṁ, kamme satta, vipāke satta, āhāre satta, indriye nava, jhāne satta, magge satta, sampayutte ekaṁ, vippayutte aṭṭha, atthiyā pañcavīsa, natthiyā ekaṁ, vigate ekaṁ, avigate pañcavīsa. (Evaṁ gaṇetabbaṁ.)
 
----
+3100\. Paccanīyānulomaṁ. Pañhāvāro niṭṭhito.
 
-3100\. Paccanīyānulomaṃ.
+3101\. Sanidassanasappaṭighattikaṁ niṭṭhitaṁ.
 
-  
-Pañhāvāro niṭṭhito.
+3102\. Dhammānulome tikapaṭṭhānaṁ niṭṭhitaṁ.
 
-
-
----
-
-3101\. Sanidassanasappaṭighattikaṃ niṭṭhitaṃ.
-
-
-
----
-
-3102\. Dhammānulome tikapaṭṭhānaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md) / [Go to parent page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md)
-
+[Go to previous page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md) / [Go to parent page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md)
 

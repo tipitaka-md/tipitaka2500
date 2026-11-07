@@ -17,14 +17,9 @@
 
 (142.)
 
-874\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cattāri, nissaye nava, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme nava, vipāke nava…pe…  magge nava, sampayutte cattāri, vippayutte nava, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava.
+874\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cattāri, nissaye nava, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme nava, vipāke nava…pe… magge nava, sampayutte cattāri, vippayutte nava, atthiyā nava, natthiyā cattāri, vigate cattāri, avigate nava.
 
----
+875\. Anulomaṁ.
 
-875\. Anulomaṃ.
-
-
-
-[Go to previous page (2.6.3.1.2 Saṅkhyāvāra)](../2.6.3.1.2.md) / [Go to parent page (2.6.3.1.2 Saṅkhyāvāra)](../2.6.3.1.2.md) / [Go to next page (2.6.3.2 Paccayapaccanīya)](../../2.6.3.2.md)
-
+[Go to previous page (2.6.3.1.2 Saṅkhyāvāra)](../2.6.3.1.2.md) / [Go to parent page (2.6.3.1.2 Saṅkhyāvāra)](../2.6.3.1.2.md) / [Go to next page (2.6.3.2 Paccayapaccanīya)](../../2.6.3.2.md)
 

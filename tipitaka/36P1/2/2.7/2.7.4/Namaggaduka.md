@@ -13,20 +13,11 @@
 
 (511.)
 
-1760\. Namaggapaccayā hetuyā satta…pe…  avigate terasa.
+1760\. Namaggapaccayā hetuyā satta…pe… avigate terasa.
 
----
+1761\. (Yathā nahetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-1761\. (Yathā nahetumūlakaṃ, evaṃ vitthāretabbaṃ.)
+1762\. Namaggamūlakaṁ.
 
-
-
----
-
-1762\. Namaggamūlakaṃ.
-
-
-
-[Go to previous page (Najhānaduka)](Najhanaduka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Nasampayuttaduka)](Nasampayuttaduka.md)
-
+[Go to previous page (Najhānaduka)](Najhanaduka.md) / [Go to parent page (2.7.4 Paccayapaccanīyānuloma)](../2.7.4.md) / [Go to next page (Nasampayuttaduka)](Nasampayuttaduka.md)
 

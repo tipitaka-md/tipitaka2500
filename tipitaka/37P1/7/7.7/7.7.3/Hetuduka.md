@@ -17,12 +17,7 @@
 
 634\. (Anulomapaccanīyagaṇanā iminā kāraṇena gaṇetabbā.)
 
----
+635\. Anulomapaccanīyaṁ.
 
-635\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (7.7.3 Paccayānulomapaccanīya)](../7.7.3.md) / [Go to parent page (7.7.3 Paccayānulomapaccanīya)](../7.7.3.md) / [Go to next page (7.7.4 Paccayapaccanīyānuloma)](../7.7.4.md)
-
+[Go to previous page (7.7.3 Paccayānulomapaccanīya)](../7.7.3.md) / [Go to parent page (7.7.3 Paccayānulomapaccanīya)](../7.7.3.md) / [Go to next page (7.7.4 Paccayapaccanīyānuloma)](../7.7.4.md)
 

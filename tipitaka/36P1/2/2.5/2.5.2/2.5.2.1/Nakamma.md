@@ -15,12 +15,11 @@
 
 (218.)
 
-718\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati nakammapaccayā. Kusale khandhe saṃsaṭṭhā kusalā cetanā. (1)
+718\. Kusalaṁ dhammaṁ saṁsaṭṭho kusalo dhammo uppajjati nakammapaccayā. Kusale khandhe saṁsaṭṭhā kusalā cetanā. (1)
 
-719\. Akusalaṃ dhammaṃ saṃsaṭṭho akusalo dhammo uppajjati nakammapaccayā. Akusale khandhe saṃsaṭṭhā akusalā cetanā. (1)
+719\. Akusalaṁ dhammaṁ saṁsaṭṭho akusalo dhammo uppajjati nakammapaccayā. Akusale khandhe saṁsaṭṭhā akusalā cetanā. (1)
 
-720\. Abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati nakammapaccayā. Kiriyābyākate khandhe saṃsaṭṭhā kiriyābyākatā cetanā. (1)
+720\. Abyākataṁ dhammaṁ saṁsaṭṭho abyākato dhammo uppajjati nakammapaccayā. Kiriyābyākate khandhe saṁsaṭṭhā kiriyābyākatā cetanā. (1)
 
-[Go to previous page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](../2.5.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md) / [Go to parent page (2.5.2.1 Vibhaṅgavāra)](../2.5.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

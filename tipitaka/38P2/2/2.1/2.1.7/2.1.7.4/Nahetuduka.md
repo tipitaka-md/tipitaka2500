@@ -15,17 +15,9 @@
 
 (16.)
 
-574\. Nahetupaccayā ārammaṇe dve, adhipatiyā dve, anantare ekaṃ…pe…  upanissaye dve, purejāte ekaṃ…pe…  avigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+574\. Nahetupaccayā ārammaṇe dve, adhipatiyā dve, anantare ekaṁ…pe… upanissaye dve, purejāte ekaṁ…pe… avigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+575\. Paccanīyānulomaṁ. Sappaccayadukaṁ niṭṭhitaṁ.
 
-575\. Paccanīyānulomaṃ.
-
-  
-Sappaccayadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (2.1.7.4 Paccayapaccanīyānuloma)](../2.1.7.4.md) / [Go to parent page (2.1.7.4 Paccayapaccanīyānuloma)](../2.1.7.4.md) / [Go to next page (2.2 Saṅkhataduka)](../../../2.2.md)
-
+[Go to previous page (2.1.7.4 Paccayapaccanīyānuloma)](../2.1.7.4.md) / [Go to parent page (2.1.7.4 Paccayapaccanīyānuloma)](../2.1.7.4.md) / [Go to next page (2.2 Saṅkhataduka)](../../../2.2.md)
 

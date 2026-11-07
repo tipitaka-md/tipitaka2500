@@ -17,8 +17,7 @@
 
 (71.)
 
-706\. Appaṭigho dhammo appaṭighassa dhammassa anantarapaccayena paccayo—  purimā purimā appaṭighā khandhā…pe…  phalasamāpattiyā anantarapaccayena paccayo.
+706\. Appaṭigho dhammo appaṭighassa dhammassa anantarapaccayena paccayo— purimā purimā appaṭighā khandhā…pe… phalasamāpattiyā anantarapaccayena paccayo.
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.4.7.1.1 Vibhaṅgavāra)](../2.4.7.1.1.md) / [Go to next page (Samanantara)](Samanantara.md)
 

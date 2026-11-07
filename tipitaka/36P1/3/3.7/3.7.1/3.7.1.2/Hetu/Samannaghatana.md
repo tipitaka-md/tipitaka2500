@@ -19,4 +19,3 @@
 
 [Go to previous page (Hetusabhāga)](Hetusabhaga.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Saindriya-maggaghaṭanā)](Saindriya-maggaghatana.md)
 
-

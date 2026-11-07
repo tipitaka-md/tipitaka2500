@@ -19,6 +19,5 @@
 * [Catukka](Hetuduka/Catukka.md)
 * [Ekādasaka](Hetuduka/Ekadasaka.md)
 
-[Go to previous page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Tika)](Hetuduka/Tika.md)
-
+[Go to previous page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to parent page (2.1.3 Paccayānulomapaccanīya)](../2.1.3.md) / [Go to next page (Tika)](Hetuduka/Tika.md)
 

@@ -15,14 +15,9 @@
 
 (3.)
 
-2874\. Hetupaccayā ārammaṇe dve (saṃkhittaṃ, sabbattha dve), avigate dve. (Evaṃ gaṇetabbaṃ.)
+2874\. Hetupaccayā ārammaṇe dve (saṁkhittaṁ, sabbattha dve), avigate dve. (Evaṁ gaṇetabbaṁ.)
 
----
+2875\. Anulomaṁ.
 
-2875\. Anulomaṃ.
-
-
-
-[Go to previous page (22.1.1.2 Saṅkhyāvāra)](../22.1.1.2.md) / [Go to parent page (22.1.1.2 Saṅkhyāvāra)](../22.1.1.2.md) / [Go to next page (22.1.2 Paccayapaccanīya)](../../22.1.2.md)
-
+[Go to previous page (22.1.1.2 Saṅkhyāvāra)](../22.1.1.2.md) / [Go to parent page (22.1.1.2 Saṅkhyāvāra)](../22.1.1.2.md) / [Go to next page (22.1.2 Paccayapaccanīya)](../../22.1.2.md)
 

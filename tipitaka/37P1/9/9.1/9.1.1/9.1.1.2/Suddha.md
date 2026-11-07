@@ -15,14 +15,9 @@
 
 (15.)
 
-819\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Imāni padāni anumajjantena anulomaṃ gaṇetabbaṃ.)
+819\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṁ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava. (Imāni padāni anumajjantena anulomaṁ gaṇetabbaṁ.)
 
----
+820\. Anulomaṁ.
 
-820\. Anulomaṃ.
-
-
-
-[Go to previous page (9.1.1.2 Saṅkhyāvāra)](../9.1.1.2.md) / [Go to parent page (9.1.1.2 Saṅkhyāvāra)](../9.1.1.2.md) / [Go to next page (9.1.2 Paccayapaccanīya)](../../9.1.2.md)
-
+[Go to previous page (9.1.1.2 Saṅkhyāvāra)](../9.1.1.2.md) / [Go to parent page (9.1.1.2 Saṅkhyāvāra)](../9.1.1.2.md) / [Go to next page (9.1.2 Paccayapaccanīya)](../../9.1.2.md)
 

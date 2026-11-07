@@ -17,12 +17,11 @@
 
 (15.)
 
-1499\. Anidassanaṃ kusalaṃ dhammaṃ paṭicca anidassano kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1499\. Anidassanaṁ kusalaṁ dhammaṁ paṭicca anidassano kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (16.)
 
-1500\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1500\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.3.2 Akusalapada)](../../../3.3.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.3.2 Akusalapada)](../../../3.3.2.md)
 

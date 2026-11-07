@@ -15,16 +15,15 @@
 
 (42.)
 
-1668\. Āsavañceva āsavasampayuttañca akusalaṃ dhammaṃ paṭicca āsavo ceva āsavasampayutto ca akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+1668\. Āsavañceva āsavasampayuttañca akusalaṁ dhammaṁ paṭicca āsavo ceva āsavasampayutto ca akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-1669\. Āsavasampayuttañceva no ca āsavaṃ akusalaṃ dhammaṃ paṭicca āsavasampayutto ceva no ca āsavo akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+1669\. Āsavasampayuttañceva no ca āsavaṁ akusalaṁ dhammaṁ paṭicca āsavasampayutto ceva no ca āsavo akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-1670\. Āsavañceva āsavasampayuttañca akusalañca āsavasampayuttañceva no ca āsavaṃ akusalañca dhammaṃ paṭicca āsavo ceva āsavasampayutto ca akusalo dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+1670\. Āsavañceva āsavasampayuttañca akusalañca āsavasampayuttañceva no ca āsavaṁ akusalañca dhammaṁ paṭicca āsavo ceva āsavasampayutto ca akusalo dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (43.)
 
-1671\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1671\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-[Go to previous page (4.5.1.1--6 Paṭiccādivāra)](../4.5.1.1--6.md) / [Go to parent page (4.5.1.1--6 Paṭiccādivāra)](../4.5.1.1--6.md) / [Go to next page (Paccanīya)](Paccaniya.md)
-
+[Go to previous page (4.5.1.1--6 Paṭiccādivāra)](../4.5.1.1--6.md) / [Go to parent page (4.5.1.1--6 Paṭiccādivāra)](../4.5.1.1--6.md) / [Go to next page (Paccanīya)](Paccaniya.md)
 

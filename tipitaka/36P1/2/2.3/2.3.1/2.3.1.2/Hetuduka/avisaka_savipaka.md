@@ -15,8 +15,7 @@
 
 * Bāvīsaka (savipāka)
 
-503\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā…pe…  vigatapaccayā avigate ekaṃ. Hetumūlakaṃ.
+503\. Hetupaccayā ārammaṇapaccayā…pe… purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā…pe… vigatapaccayā avigate ekaṁ. Hetumūlakaṁ.
 
 [Go to previous page (Terasaka (savipāka))](erasaka_savipaka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Ārammaṇaduka)](../Arammanaduka.md)
-
 

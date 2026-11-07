@@ -13,19 +13,11 @@
 
 * Tika
 
-2244\. Nahetupaccayā naārammaṇapaccayā sahajāte tīṇi, aññamaññe dve…pe…  avigate tīṇi.
+2244\. Nahetupaccayā naārammaṇapaccayā sahajāte tīṇi, aññamaññe dve…pe… avigate tīṇi.
 
-2245\. (Yathā kusalattike paccanīyānulomagaṇanā, evaṃ gaṇetabbaṃ.)
+2245\. (Yathā kusalattike paccanīyānulomagaṇanā, evaṁ gaṇetabbaṁ.)
 
----
+2246\. Paccanīyānulomaṁ. Paccayavāro.
 
-2246\. Paccanīyānulomaṃ.
-
-  
-Paccayavāro.
-
-
-
-[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (4.4 Nissayavāra)](../../../4.4.md)
-
+[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (4.4 Nissayavāra)](../../../4.4.md)
 

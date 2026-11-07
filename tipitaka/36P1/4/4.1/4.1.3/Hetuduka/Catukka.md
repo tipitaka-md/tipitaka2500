@@ -13,8 +13,7 @@
 
 * Catukka
 
-2150\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, navippayutte tīṇi…pe… .
+2150\. Hetupaccayā ārammaṇapaccayā adhipatipaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, navippayutte tīṇi…pe… .
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Ekādasaka)](Ekadasaka.md)
-
 

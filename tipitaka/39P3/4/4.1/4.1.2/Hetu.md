@@ -13,15 +13,15 @@
 
 (3.)
 
-1594\. Āsavaṃ akusalaṃ dhammaṃ paṭicca āsavo akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1594\. Āsavaṁ akusalaṁ dhammaṁ paṭicca āsavo akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (4.)
 
-1595\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1595\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-1596\. Nahetuyā ekaṃ, naadhipatiyā nava…pe…  nakamme tīṇi, navipāke nava, navippayutte nava. (Saṃkhittaṃ.)
+1596\. Nahetuyā ekaṁ, naadhipatiyā nava…pe… nakamme tīṇi, navipāke nava, navippayutte nava. (Saṁkhittaṁ.)
 
-1597\. (Sahajātavāropi…pe…  sampayuttavāropi sabbattha vitthāretabbo.)
+1597\. (Sahajātavāropi…pe… sampayuttavāropi sabbattha vitthāretabbo.)
 
 (5.)
 
@@ -29,8 +29,7 @@
 
 (6.)
 
-1599\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava (majjhe tiṇṇaṃ sahajātādhipati labbhati), anantare nava…pe…  upanissaye nava, āsevane nava, kamme tīṇi…pe…  jhāne tīṇi, magge nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1599\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava (majjhe tiṇṇaṁ sahajātādhipati labbhati), anantare nava…pe… upanissaye nava, āsevane nava, kamme tīṇi…pe… jhāne tīṇi, magge nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-[Go to previous page (4.1.2 Akusalapada)](../4.1.2.md) / [Go to parent page (4.1.2 Akusalapada)](../4.1.2.md) / [Go to next page (4.1.3 Abyākatapada)](../4.1.3.md)
-
+[Go to previous page (4.1.2 Akusalapada)](../4.1.2.md) / [Go to parent page (4.1.2 Akusalapada)](../4.1.2.md) / [Go to next page (4.1.3 Abyākatapada)](../4.1.3.md)
 

@@ -15,12 +15,7 @@
 
 347\. Atthipaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-348\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+348\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Atthiduka)](../Atthiduka.md) / [Go to next page (Natthi-vigataduka)](../Natthi-vigataduka.md)
-
 

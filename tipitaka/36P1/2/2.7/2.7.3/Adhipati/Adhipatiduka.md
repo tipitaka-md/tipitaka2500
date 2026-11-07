@@ -19,4 +19,3 @@
 
 [Go to previous page (Adhipati)](../Adhipati.md) / [Go to parent page (Adhipati)](../Adhipati.md) / [Go to next page (Adhipatimissakaghaṭanā)](Adhipatimissakaghatana.md)
 
-

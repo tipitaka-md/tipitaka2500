@@ -13,14 +13,9 @@
 
 * Nahetumūlaka
 
-2019\. (Yathā kusalattikassa paccanīyagaṇanā gaṇitā, evaṃ idampi asammuyhantena sabbaṃ mūlakaṃ gaṇetabbaṃ.)
+2019\. (Yathā kusalattikassa paccanīyagaṇanā gaṇitā, evaṁ idampi asammuyhantena sabbaṁ mūlakaṁ gaṇetabbaṁ.)
 
----
+2020\. Paccanīyaṁ.
 
-2020\. Paccanīyaṃ.
-
-
-
-[Go to previous page (Tevīsaka)](Nahetuduka/Tevisaka.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to next page (3.7.3 Paccayānulomapaccanīya)](../../3.7.3.md)
-
+[Go to previous page (Tevīsaka)](Nahetuduka/Tevisaka.md) / [Go to parent page (3.7.2.1 Saṅkhyāvāra)](../3.7.2.1.md) / [Go to next page (3.7.3 Paccayānulomapaccanīya)](../../3.7.3.md)
 

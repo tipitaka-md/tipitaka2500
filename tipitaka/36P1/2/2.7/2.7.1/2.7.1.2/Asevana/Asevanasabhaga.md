@@ -21,4 +21,3 @@
 
 [Go to previous page (Āsevana)](../Asevana.md) / [Go to parent page (Āsevana)](../Asevana.md) / [Go to next page (Āsevanaghaṭanā)](Asevanaghatana.md)
 
-

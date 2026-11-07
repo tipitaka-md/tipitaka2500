@@ -15,8 +15,7 @@
 
 (50.)
 
-247\. Kusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati nonatthipaccayā…  novigatapaccayā—  kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Naārammaṇapaccayasadisaṃ.)
+247\. Kusalaṁ dhammaṁ paṭicca abyākato dhammo uppajjati nonatthipaccayā… novigatapaccayā— kusale khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Naārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Navippayutta)](Navippayutta.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md)
-
+[Go to previous page (Navippayutta)](Navippayutta.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (2.1.2.2 Saṅkhyāvāra)](../2.1.2.2.md)
 

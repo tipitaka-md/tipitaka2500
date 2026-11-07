@@ -13,14 +13,9 @@
 
 * Dasaka
 
-1863\. Nahetupaccayā naadhipatipaccayā…pe…  nakammapaccayā navipākapaccayā namaggapaccayā navippayuttapaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, sampayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+1863\. Nahetupaccayā naadhipatipaccayā…pe… nakammapaccayā navipākapaccayā namaggapaccayā navippayuttapaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, sampayutte ekaṁ, atthiyā ekaṁ, natthiyā ekaṁ, vigate ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
----
-
-1864\. Nahetumūlakaṃ.
-
-
+1864\. Nahetumūlakaṁ.
 
 [Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Naadhipatiduka)](../Naadhipatiduka.md)
-
 

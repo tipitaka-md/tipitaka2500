@@ -17,18 +17,17 @@
 
 (46.)
 
-2213\. Parāmāsasampayuttaṃ dhammaṃ paṭicca parāmāsasampayutto dhammo uppajjati hetupaccayā—  parāmāsasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2213\. Parāmāsasampayuttaṁ dhammaṁ paṭicca parāmāsasampayutto dhammo uppajjati hetupaccayā— parāmāsasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2214\. Parāmāsasampayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā—  parāmāsasampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2214\. Parāmāsasampayuttaṁ dhammaṁ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā— parāmāsasampayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2215\. Parāmāsasampayuttaṃ dhammaṃ paṭicca parāmāsasampayutto ca parāmāsavippayutto ca dhammā uppajjanti hetupaccayā—  parāmāsasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+2215\. Parāmāsasampayuttaṁ dhammaṁ paṭicca parāmāsasampayutto ca parāmāsavippayutto ca dhammā uppajjanti hetupaccayā— parāmāsasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (47.)
 
-2216\. Parāmāsavippayuttaṃ dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā—  parāmāsavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ …pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… . (1)
+2216\. Parāmāsavippayuttaṁ dhammaṁ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā— parāmāsavippayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ …pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… . (1)
 
-2217\. Parāmāsasampayuttañca parāmāsavippayuttañca dhammaṃ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā—  parāmāsasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (1)
+2217\. Parāmāsasampayuttañca parāmāsavippayuttañca dhammaṁ paṭicca parāmāsavippayutto dhammo uppajjati hetupaccayā— parāmāsasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (9.3.1.1.1 Vibhaṅgavāra)](../9.3.1.1.1.md) / [Go to parent page (9.3.1.1.1 Vibhaṅgavāra)](../9.3.1.1.1.md) / [Go to next page (9.3.1.1.2 Saṅkhyāvāra)](../9.3.1.1.2.md)
-
+[Go to previous page (9.3.1.1.1 Vibhaṅgavāra)](../9.3.1.1.1.md) / [Go to parent page (9.3.1.1.1 Vibhaṅgavāra)](../9.3.1.1.1.md) / [Go to next page (9.3.1.1.2 Saṅkhyāvāra)](../9.3.1.1.2.md)
 

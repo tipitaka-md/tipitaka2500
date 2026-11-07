@@ -13,56 +13,55 @@
 
 (37.)
 
-2457\. Savicāraṃ kusalaṃ dhammaṃ paṭicca savicāro kusalo dhammo uppajjati hetupaccayā…  tīṇi.
+2457\. Savicāraṁ kusalaṁ dhammaṁ paṭicca savicāro kusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-2458\. Avicāraṃ kusalaṃ dhammaṃ paṭicca avicāro kusalo dhammo uppajjati hetupaccayā…  dve.
+2458\. Avicāraṁ kusalaṁ dhammaṁ paṭicca avicāro kusalo dhammo uppajjati hetupaccayā… dve.
 
-2459\. Savicāraṃ kusalañca avicāraṃ kusalañca dhammaṃ paṭicca savicāro kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2459\. Savicāraṁ kusalañca avicāraṁ kusalañca dhammaṁ paṭicca savicāro kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (38.)
 
-2460\. Hetuyā cha, ārammaṇe cha…pe…  avigate cha. (Saṃkhittaṃ. Savitakkadukakusalasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2460\. Hetuyā cha, ārammaṇe cha…pe… avigate cha. (Saṁkhittaṁ. Savitakkadukakusalasadisaṁ. Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (39.)
 
-2461\. Savicāraṃ akusalaṃ dhammaṃ paṭicca savicāro akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+2461\. Savicāraṁ akusalaṁ dhammaṁ paṭicca savicāro akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-2462\. Avicāraṃ akusalaṃ dhammaṃ paṭicca savicāro akusalo dhammo uppajjati hetupaccayā. (1)
+2462\. Avicāraṁ akusalaṁ dhammaṁ paṭicca savicāro akusalo dhammo uppajjati hetupaccayā. (1)
 
-2463\. Savicāraṃ akusalañca avicāraṃ akusalañca dhammaṃ paṭicca savicāro akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2463\. Savicāraṁ akusalañca avicāraṁ akusalañca dhammaṁ paṭicca savicāro akusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (40.)
 
-2464\. Hetuyā pañca, ārammaṇe pañca…pe…  avigate pañca. (Saṃkhittaṃ. Savitakkadukaakusalasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2464\. Hetuyā pañca, ārammaṇe pañca…pe… avigate pañca. (Saṁkhittaṁ. Savitakkadukaakusalasadisaṁ. Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (41.)
 
-2465\. Savicāraṃ abyākataṃ dhammaṃ paṭicca savicāro abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+2465\. Savicāraṁ abyākataṁ dhammaṁ paṭicca savicāro abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-2466\. Avicāraṃ abyākataṃ dhammaṃ paṭicca avicāro abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+2466\. Avicāraṁ abyākataṁ dhammaṁ paṭicca avicāro abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-2467\. Savicāraṃ abyākatañca avicāraṃ abyākatañca dhammaṃ paṭicca savicāro abyākato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+2467\. Savicāraṁ abyākatañca avicāraṁ abyākatañca dhammaṁ paṭicca savicāro abyākato dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (42.)
 
-2468\. Hetuyā nava, ārammaṇe nava…pe…  purejāte āsevane cha…pe…  vipāke nava…pe…  avigate nava. (Saṃkhittaṃ. Savitakkadukaabyākatasadisaṃ. Sahajātavāropi…pe…  sampayuttavāropi vitthāretabbā.)
+2468\. Hetuyā nava, ārammaṇe nava…pe… purejāte āsevane cha…pe… vipāke nava…pe… avigate nava. (Saṁkhittaṁ. Savitakkadukaabyākatasadisaṁ. Sahajātavāropi…pe… sampayuttavāropi vitthāretabbā.)
 
 (43.)
 
-2469\. Savicāro abyākato dhammo savicārassa abyākatassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+2469\. Savicāro abyākato dhammo savicārassa abyākatassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (44.)
 
-2470\. Hetuyā cattāri, ārammaṇe nava…pe…  magge cattāri…pe…  avigate nava. (Saṃkhittaṃ.)
+2470\. Hetuyā cattāri, ārammaṇe nava…pe… magge cattāri…pe… avigate nava. (Saṁkhittaṁ.)
 
-2471\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+2471\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-2472\. Hetupaccayā naārammaṇe cattāri. (Saṃkhittaṃ.)
+2472\. Hetupaccayā naārammaṇe cattāri. (Saṁkhittaṁ.)
 
-2473\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+2473\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-2474\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+2474\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (13.6.1--7 Paṭiccādivāra)](../13.6.1--7.md) / [Go to parent page (13.6.1--7 Paṭiccādivāra)](../13.6.1--7.md) / [Go to next page (13.7 Sappītikaduka, Kusalattika)](../../13.7.md)
-
+[Go to previous page (13.6.1--7 Paṭiccādivāra)](../13.6.1--7.md) / [Go to parent page (13.6.1--7 Paṭiccādivāra)](../13.6.1--7.md) / [Go to next page (13.7 Sappītikaduka, Kusalattika)](../../13.7.md)
 

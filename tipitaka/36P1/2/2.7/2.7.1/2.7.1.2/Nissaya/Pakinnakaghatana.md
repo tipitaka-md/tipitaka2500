@@ -17,8 +17,7 @@
 
 (327.)
 
-1047\. Nissaya purejāta vippayutta atthi avigatanti tīṇi. Nissaya ārammaṇa purejāta vippayutta atthi avigatanti tīṇi. Nissaya ārammaṇādhipati upanissaya purejāta vippayutta atthi avigatanti ekaṃ. Nissaya purejāta indriya vippayutta atthi avigatanti ekaṃ.
+1047\. Nissaya purejāta vippayutta atthi avigatanti tīṇi. Nissaya ārammaṇa purejāta vippayutta atthi avigatanti tīṇi. Nissaya ārammaṇādhipati upanissaya purejāta vippayutta atthi avigatanti ekaṁ. Nissaya purejāta indriya vippayutta atthi avigatanti ekaṁ.
 
 [Go to previous page (Nissayamissakaghaṭanā)](Nissayamissakaghatana.md) / [Go to parent page (Nissaya)](../Nissaya.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
-
 

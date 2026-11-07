@@ -17,14 +17,9 @@
 
 (4.)
 
-1332\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava (sabbattha nava), vipāke ekaṃ, āhāre nava…pe…  avigate nava.
+1332\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava, anantare nava (sabbattha nava), vipāke ekaṁ, āhāre nava…pe… avigate nava.
 
----
+1333\. Anulomaṁ.
 
-1333\. Anulomaṃ.
-
-
-
-[Go to previous page (4.1.1.1.2 Saṅkhyāvāra)](../4.1.1.1.2.md) / [Go to parent page (4.1.1.1.2 Saṅkhyāvāra)](../4.1.1.1.2.md) / [Go to next page (4.1.1.2 Paccayapaccanīya)](../../4.1.1.2.md)
-
+[Go to previous page (4.1.1.1.2 Saṅkhyāvāra)](../4.1.1.1.2.md) / [Go to parent page (4.1.1.1.2 Saṅkhyāvāra)](../4.1.1.1.2.md) / [Go to next page (4.1.1.2 Paccayapaccanīya)](../../4.1.1.2.md)
 

@@ -17,8 +17,7 @@
 
 (425.)
 
-3397\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati nakammapaccayā—  anupādinne khandhe paṭicca anupādinnā cetanā…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…pe…  mahābhūte paṭicca upādārūpaṃ. (1)
+3397\. Anupādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati nakammapaccayā— anupādinne khandhe paṭicca anupādinnā cetanā… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ…pe… mahābhūte paṭicca upādārūpaṁ. (1)
 
-[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

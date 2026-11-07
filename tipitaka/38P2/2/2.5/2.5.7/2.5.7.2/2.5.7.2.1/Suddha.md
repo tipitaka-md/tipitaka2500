@@ -17,14 +17,9 @@
 
 (130.)
 
-846\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte cha, naaññamaññe cha, nanissaye cha, naupanissaye satta, napurejāte satta…pe…  namagge satta, nasampayutte cha, navippayutte pañca, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
+846\. Nahetuyā satta, naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, nasahajāte cha, naaññamaññe cha, nanissaye cha, naupanissaye satta, napurejāte satta…pe… namagge satta, nasampayutte cha, navippayutte pañca, noatthiyā cattāri, nonatthiyā satta, novigate satta, noavigate cattāri.
 
----
+847\. Paccanīyaṁ.
 
-847\. Paccanīyaṃ.
-
-
-
-[Go to previous page (2.5.7.2.1 Saṅkhyāvāra)](../2.5.7.2.1.md) / [Go to parent page (2.5.7.2.1 Saṅkhyāvāra)](../2.5.7.2.1.md) / [Go to next page (2.5.7.3 Paccayānulomapaccanīya)](../../2.5.7.3.md)
-
+[Go to previous page (2.5.7.2.1 Saṅkhyāvāra)](../2.5.7.2.1.md) / [Go to parent page (2.5.7.2.1 Saṅkhyāvāra)](../2.5.7.2.1.md) / [Go to next page (2.5.7.3 Paccayānulomapaccanīya)](../../2.5.7.3.md)
 

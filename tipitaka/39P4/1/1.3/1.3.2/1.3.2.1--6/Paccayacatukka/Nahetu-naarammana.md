@@ -17,16 +17,15 @@
 
 (45.)
 
-148\. Vipākaṃ nahetuṃ dhammaṃ paṭicca vipāko nahetu dhammo uppajjati nahetupaccayā…  nava.
+148\. Vipākaṁ nahetuṁ dhammaṁ paṭicca vipāko nahetu dhammo uppajjati nahetupaccayā… nava.
 
-149\. Vipākaṃ nahetuṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ.)
+149\. Vipākaṁ nahetuṁ dhammaṁ paṭicca nevavipākanavipākadhammadhammo nahetu dhammo uppajjati naārammaṇapaccayā. (Saṁkhittaṁ.)
 
 (46.)
 
-150\. Nahetuyā nava, naārammaṇe pañca, naadhipatiyā terasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte dvādasa, napacchājāte terasa, naāsevane terasa, nakamme dve, navipāke pañca, naāhāre naindriye ekaṃ, najhāne dve, namagge nava…pe…  navippayutte tīṇi…pe…  novigate pañca. (Saṃkhittaṃ.)
+150\. Nahetuyā nava, naārammaṇe pañca, naadhipatiyā terasa, naanantare pañca, nasamanantare pañca, naaññamaññe pañca, naupanissaye pañca, napurejāte dvādasa, napacchājāte terasa, naāsevane terasa, nakamme dve, navipāke pañca, naāhāre naindriye ekaṁ, najhāne dve, namagge nava…pe… navippayutte tīṇi…pe… novigate pañca. (Saṁkhittaṁ.)
 
-151\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+151\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.3.2.7 Pañhāvāra)](../../1.3.2.7.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.3.2.7 Pañhāvāra)](../../1.3.2.7.md)
 

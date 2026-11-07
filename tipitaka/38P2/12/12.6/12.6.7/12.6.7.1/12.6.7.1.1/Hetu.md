@@ -17,12 +17,11 @@
 
 (86.)
 
-4032\. Kileso ceva saṃkiliṭṭho ca dhammo kilesassa ceva saṃkiliṭṭhassa ca dhammassa hetupaccayena paccayo—  kilesā ceva saṃkiliṭṭhā ca hetū sampayuttakānaṃ kilesānaṃ hetupaccayena paccayo. (1)
+4032\. Kileso ceva saṁkiliṭṭho ca dhammo kilesassa ceva saṁkiliṭṭhassa ca dhammassa hetupaccayena paccayo— kilesā ceva saṁkiliṭṭhā ca hetū sampayuttakānaṁ kilesānaṁ hetupaccayena paccayo. (1)
 
-4033\. Kileso ceva saṃkiliṭṭho ca dhammo saṃkiliṭṭhassa ceva no ca kilesassa dhammassa hetupaccayena paccayo—  kilesā ceva saṃkiliṭṭhā ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo.
+4033\. Kileso ceva saṁkiliṭṭho ca dhammo saṁkiliṭṭhassa ceva no ca kilesassa dhammassa hetupaccayena paccayo— kilesā ceva saṁkiliṭṭhā ca hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo.
 
-4034\. Kileso ceva saṃkiliṭṭho ca dhammo kilesassa ceva saṃkiliṭṭhassa ca saṃkiliṭṭhassa ceva no ca kilesassa ca dhammassa hetupaccayena paccayo—  kilesā ceva saṃkiliṭṭhā ca hetū sampayuttakānaṃ khandhānaṃ kilesānañca hetupaccayena paccayo. (3)
+4034\. Kileso ceva saṁkiliṭṭho ca dhammo kilesassa ceva saṁkiliṭṭhassa ca saṁkiliṭṭhassa ceva no ca kilesassa ca dhammassa hetupaccayena paccayo— kilesā ceva saṁkiliṭṭhā ca hetū sampayuttakānaṁ khandhānaṁ kilesānañca hetupaccayena paccayo. (3)
 
-[Go to previous page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to parent page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to parent page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

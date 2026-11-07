@@ -17,14 +17,9 @@
 
 (144.)
 
-877\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā cattāri, naanantare tīṇi…pe…  naupanissaye tīṇi, napurejāte cattāri, napacchājāte nava, naāsevane nava (lokuttare arūpe vipākanti niyāmetabbaṃ), nakamme cattāri, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+877\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā cattāri, naanantare tīṇi…pe… naupanissaye tīṇi, napurejāte cattāri, napacchājāte nava, naāsevane nava (lokuttare arūpe vipākanti niyāmetabbaṁ), nakamme cattāri, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
----
+878\. Paccanīyaṁ.
 
-878\. Paccanīyaṃ.
-
-
-
-[Go to previous page (2.6.3.2.2 Saṅkhyāvāra)](../2.6.3.2.2.md) / [Go to parent page (2.6.3.2.2 Saṅkhyāvāra)](../2.6.3.2.2.md) / [Go to next page (2.6.3.3 Paccayānulomapaccanīya)](../../2.6.3.3.md)
-
+[Go to previous page (2.6.3.2.2 Saṅkhyāvāra)](../2.6.3.2.2.md) / [Go to parent page (2.6.3.2.2 Saṅkhyāvāra)](../2.6.3.2.2.md) / [Go to next page (2.6.3.3 Paccayānulomapaccanīya)](../../2.6.3.3.md)
 

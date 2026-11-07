@@ -17,20 +17,19 @@
 
 (33.)
 
-1327\. Hetusampayuttaṃ akusalaṃ dhammaṃ paṭicca hetuvippayutto akusalo dhammo uppajjati nahetupaccayā. (1)
+1327\. Hetusampayuttaṁ akusalaṁ dhammaṁ paṭicca hetuvippayutto akusalo dhammo uppajjati nahetupaccayā. (1)
 
-1328\. Hetusampayuttaṃ akusalaṃ dhammaṃ paṭicca hetusampayutto akusalo dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+1328\. Hetusampayuttaṁ akusalaṁ dhammaṁ paṭicca hetusampayutto akusalo dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (34.)
 
-1329\. Nahetuyā ekaṃ, naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, navippayutte pañca. (Saṃkhittaṃ.)
+1329\. Nahetuyā ekaṁ, naadhipatiyā pañca, napurejāte pañca, napacchājāte pañca, naāsevane pañca, nakamme tīṇi, navipāke pañca, navippayutte pañca. (Saṁkhittaṁ.)
 
-1330\. Hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+1330\. Hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-1331\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+1331\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-1332\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1332\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.3.2.7 Pañhāvāra)](../../2.3.2.7.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.3.2.7 Pañhāvāra)](../../2.3.2.7.md)
 

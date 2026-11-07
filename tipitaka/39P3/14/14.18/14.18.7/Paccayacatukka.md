@@ -13,12 +13,11 @@
 
 (60.)
 
-2728\. Saraṇo paccuppanno dhammo saraṇassa paccuppannassa dhammassa hetupaccayena paccayo…  tīṇi.
+2728\. Saraṇo paccuppanno dhammo saraṇassa paccuppannassa dhammassa hetupaccayena paccayo… tīṇi.
 
-2729\. Araṇo paccuppanno dhammo araṇassa paccuppannassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+2729\. Araṇo paccuppanno dhammo araṇassa paccuppannassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
-2730\. Hetuyā cattāri, ārammaṇe dve…pe…  avigate satta. (Saṃkhittaṃ.) (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+2730\. Hetuyā cattāri, ārammaṇe dve…pe… avigate satta. (Saṁkhittaṁ.) (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (14.18.7 Pañhāvāra)](../14.18.7.md) / [Go to parent page (14.18.7 Pañhāvāra)](../14.18.7.md) / [Go to next page (14.19 Saraṇaduka, Atītārammaṇattika)](../../14.19.md)
-
+[Go to previous page (14.18.7 Pañhāvāra)](../14.18.7.md) / [Go to parent page (14.18.7 Pañhāvāra)](../14.18.7.md) / [Go to next page (14.19 Saraṇaduka, Atītārammaṇattika)](../../14.19.md)
 

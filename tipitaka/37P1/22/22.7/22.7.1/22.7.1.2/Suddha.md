@@ -15,14 +15,9 @@
 
 (24.)
 
-2917\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā tīṇi, anantare cattāri, samanantare cattāri, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri, āsevane tīṇi, kamme cattāri, vipāke dve…pe…  (sabbattha dve), sampayutte dve, atthiyā dve, natthiyā cattāri, vigate cattāri, avigate dve. (Evaṃ gaṇetabbaṃ.)
+2917\. Hetuyā dve, ārammaṇe cattāri, adhipatiyā tīṇi, anantare cattāri, samanantare cattāri, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye cattāri, āsevane tīṇi, kamme cattāri, vipāke dve…pe… (sabbattha dve), sampayutte dve, atthiyā dve, natthiyā cattāri, vigate cattāri, avigate dve. (Evaṁ gaṇetabbaṁ.)
 
----
+2918\. Anulomaṁ.
 
-2918\. Anulomaṃ.
-
-
-
-[Go to previous page (22.7.1.2 Saṅkhyāvāra)](../22.7.1.2.md) / [Go to parent page (22.7.1.2 Saṅkhyāvāra)](../22.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (22.7.1.2 Saṅkhyāvāra)](../22.7.1.2.md) / [Go to parent page (22.7.1.2 Saṅkhyāvāra)](../22.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

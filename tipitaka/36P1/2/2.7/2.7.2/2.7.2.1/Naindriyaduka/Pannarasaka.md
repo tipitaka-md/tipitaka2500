@@ -15,8 +15,7 @@
 
 * Pannarasaka
 
-1246\. Naindriyapaccayā nahetupaccayā…pe…  nakammapaccayā navipāke ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+1246\. Naindriyapaccayā nahetupaccayā…pe… nakammapaccayā navipāke ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ…pe… .
 
 [Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Naindriyaduka)](../Naindriyaduka.md) / [Go to next page (Ekavīsaka)](Ekavisaka.md)
-
 

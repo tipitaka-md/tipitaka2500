@@ -17,16 +17,15 @@
 
 (234.)
 
-4593\. Rūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro dhammo uppajjati naāsevanapaccayā—  vipākaṃ rūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . Rūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati naāsevanapaccayā—  rūpāvacare khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . Rūpāvacaraṃ dhammaṃ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti naāsevanapaccayā—  vipākaṃ rūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+4593\. Rūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro dhammo uppajjati naāsevanapaccayā— vipākaṁ rūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . Rūpāvacaraṁ dhammaṁ paṭicca narūpāvacaro dhammo uppajjati naāsevanapaccayā— rūpāvacare khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . Rūpāvacaraṁ dhammaṁ paṭicca rūpāvacaro ca narūpāvacaro ca dhammā uppajjanti naāsevanapaccayā— vipākaṁ rūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
-4594\. Narūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati naāsevanapaccayā…  tīṇi.
+4594\. Narūpāvacaraṁ dhammaṁ paṭicca narūpāvacaro dhammo uppajjati naāsevanapaccayā… tīṇi.
 
-4595\. Rūpāvacarañca narūpāvacarañca dhammaṃ paṭicca rūpāvacaro dhammo uppajjati naāsevanapaccayā (Saṃkhittaṃ. Mūlaṃ. Itarepi pañhā kātabbā)…  nakammapaccayā…  dve…pe…  nasampayuttapaccayā.
+4595\. Rūpāvacarañca narūpāvacarañca dhammaṁ paṭicca rūpāvacaro dhammo uppajjati naāsevanapaccayā (Saṁkhittaṁ. Mūlaṁ. Itarepi pañhā kātabbā)… nakammapaccayā… dve…pe… nasampayuttapaccayā.
 
 (235.)
 
-4596\. Narūpāvacaraṃ dhammaṃ paṭicca narūpāvacaro dhammo uppajjati navippayuttapaccayā—  arūpe narūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  (Saṃkhittaṃ.)
+4596\. Narūpāvacaraṁ dhammaṁ paṭicca narūpāvacaro dhammo uppajjati navippayuttapaccayā— arūpe narūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… (Saṁkhittaṁ.)
 
-[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (13.12.1.2.1 Vibhaṅgavāra)](../13.12.1.2.1.md) / [Go to next page (13.12.1.2.2 Saṅkhyāvāra)](../13.12.1.2.2.md)
-
+[Go to previous page (Napurejātādi)](Napurejatadi.md) / [Go to parent page (13.12.1.2.1 Vibhaṅgavāra)](../13.12.1.2.1.md) / [Go to next page (13.12.1.2.2 Saṅkhyāvāra)](../13.12.1.2.2.md)
 

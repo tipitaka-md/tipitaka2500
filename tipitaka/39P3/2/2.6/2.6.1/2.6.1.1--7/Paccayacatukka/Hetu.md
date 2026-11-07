@@ -15,14 +15,23 @@
 
 * Hetu
 
+(93.)
+
+1450\. Nahetuṁ sahetukaṁ kusalaṁ dhammaṁ paṭicca nahetu sahetuko kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
+
+(94.)
+
+1451\. Hetuyā ekaṁ, ārammaṇe ekaṁ (sabbattha ekaṁ), avigate ekaṁ.
+
+1452\. Naadhipatiyā ekaṁ, napurejāte ekaṁ…pe… navipāke ekaṁ, navippayutte ekaṁ. (Pañhāvārepi sabbattha ekaṁ.)
+
 (95.)
 
-1453\. Nahetuṃ sahetukaṃ akusalaṃ dhammaṃ paṭicca nahetu sahetuko akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1453\. Nahetuṁ sahetukaṁ akusalaṁ dhammaṁ paṭicca nahetu sahetuko akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (96.)
 
-1454\. Hetuyā ekaṃ, ārammaṇe ekaṃ (sabbattha ekaṃ), avigate ekaṃ. (Hetupaccayo natthi. Pañhāvārepi sabbattha ekaṃ, pañhāvārepi imesaṃ tiṇṇannaṃ hetupaccayo natthi.)
+1454\. Hetuyā ekaṁ, ārammaṇe ekaṁ (sabbattha ekaṁ), avigate ekaṁ. (Hetupaccayo natthi. Pañhāvārepi sabbattha ekaṁ, pañhāvārepi imesaṁ tiṇṇannaṁ hetupaccayo natthi.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.6.2 Abyākatapada)](../../../2.6.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.6.2 Abyākatapada)](../../../2.6.2.md)
 

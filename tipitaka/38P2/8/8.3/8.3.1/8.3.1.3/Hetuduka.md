@@ -15,8 +15,7 @@
 
 (57.)
 
-2004\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā pañca, napurejāte cattāri…pe…  nakamme dve, navipāke pañca, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+2004\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā pañca, napurejāte cattāri…pe… nakamme dve, navipāke pañca, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (8.3.1.3 Paccayānulomapaccanīya)](../8.3.1.3.md) / [Go to parent page (8.3.1.3 Paccayānulomapaccanīya)](../8.3.1.3.md) / [Go to next page (8.3.1.4 Paccayapaccanīyānuloma)](../8.3.1.4.md)
-
+[Go to previous page (8.3.1.3 Paccayānulomapaccanīya)](../8.3.1.3.md) / [Go to parent page (8.3.1.3 Paccayānulomapaccanīya)](../8.3.1.3.md) / [Go to next page (8.3.1.4 Paccayapaccanīyānuloma)](../8.3.1.4.md)
 

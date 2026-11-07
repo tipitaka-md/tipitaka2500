@@ -17,14 +17,13 @@
 
 (87.)
 
-4035\. Kileso ceva saṃkiliṭṭho ca dhammo kilesassa ceva saṃkiliṭṭhassa ca dhammassa ārammaṇapaccayena paccayo—  kilese ārabbha kilesā uppajjanti. (Mūlaṃ kātabbaṃ.) Kilese ārabbha saṃkiliṭṭhā ceva no ca kilesā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Kilese ārabbha kilesā ca sampayuttakā khandhā ca uppajjanti. (3)
+4035\. Kileso ceva saṁkiliṭṭho ca dhammo kilesassa ceva saṁkiliṭṭhassa ca dhammassa ārammaṇapaccayena paccayo— kilese ārabbha kilesā uppajjanti. (Mūlaṁ kātabbaṁ.) Kilese ārabbha saṁkiliṭṭhā ceva no ca kilesā khandhā uppajjanti. (Mūlaṁ kātabbaṁ.) Kilese ārabbha kilesā ca sampayuttakā khandhā ca uppajjanti. (3)
 
 (88.)
 
-4036\. Saṃkiliṭṭho ceva no ca kileso dhammo saṃkiliṭṭhassa ceva no ca kilesassa dhammassa ārammaṇapaccayena paccayo—  saṃkiliṭṭhe ceva no ca kilese khandhe ārabbha saṃkiliṭṭhā ceva no ca kilesā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Saṃkiliṭṭhe ceva no ca kilese khandhe ārabbha kilesā uppajjanti. (Mūlaṃ kātabbaṃ.) Saṃkiliṭṭhe ceva no ca kilese khandhe ārabbha kilesā ca sampayuttakā khandhā ca uppajjanti. (3)
+4036\. Saṁkiliṭṭho ceva no ca kileso dhammo saṁkiliṭṭhassa ceva no ca kilesassa dhammassa ārammaṇapaccayena paccayo— saṁkiliṭṭhe ceva no ca kilese khandhe ārabbha saṁkiliṭṭhā ceva no ca kilesā khandhā uppajjanti. (Mūlaṁ kātabbaṁ.) Saṁkiliṭṭhe ceva no ca kilese khandhe ārabbha kilesā uppajjanti. (Mūlaṁ kātabbaṁ.) Saṁkiliṭṭhe ceva no ca kilese khandhe ārabbha kilesā ca sampayuttakā khandhā ca uppajjanti. (3)
 
 4037\. (Itarepi tīṇi kātabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

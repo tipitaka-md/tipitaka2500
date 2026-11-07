@@ -17,32 +17,31 @@
 
 (324.)
 
-666\. Nahetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati nahetupaccayā. (1)
+666\. Nahetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati nahetupaccayā. (1)
 
-667\. Hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (1)
+667\. Hetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (1)
 
-668\. Nahetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (1)
+668\. Nahetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (1)
 
-669\. Hetuṃ nevācayagāmināpacayagāmiñca nahetuṃ nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (1)
+669\. Hetuṁ nevācayagāmināpacayagāmiñca nahetuṁ nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati naārammaṇapaccayā. (1)
 
-670\. Hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati naadhipatipaccayā…pe… .
+670\. Hetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati naadhipatipaccayā…pe… .
 
-671\. Hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati napurejātapaccayā…  tīṇi.
+671\. Hetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati napurejātapaccayā… tīṇi.
 
-672\. Hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati napacchājātapaccayā…pe… .
+672\. Hetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca hetu nevācayagāmināpacayagāmī dhammo uppajjati napacchājātapaccayā…pe… .
 
-673\. Hetuṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati nakammapaccayā. (Saṃkhittaṃ.)
+673\. Hetuṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nahetu nevācayagāmināpacayagāmī dhammo uppajjati nakammapaccayā. (Saṁkhittaṁ.)
 
 (325.)
 
-674\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
+674\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ.)
 
-675\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+675\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-676\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+676\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-677\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+677\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.10.3.7 Pañhāvāra)](../../1.10.3.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.10.3.7 Pañhāvāra)](../../1.10.3.7.md)
 

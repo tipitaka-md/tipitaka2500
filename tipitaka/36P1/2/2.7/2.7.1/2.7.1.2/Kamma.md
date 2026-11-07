@@ -7,6 +7,5 @@
 * [Kammapakiṇṇakaghaṭanā](Kamma/Kammapakinnakaghatana.md)
 * [Sahajātaghaṭanā](Kamma/Sahajataghatana.md)
 
-[Go to previous page (Āsevanaghaṭanā)](Asevana/Asevanaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Kammasabhāga)](Kamma/Kammasabhaga.md)
-
+[Go to previous page (Āsevanaghaṭanā)](Asevana/Asevanaghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Kammasabhāga)](Kamma/Kammasabhaga.md)
 

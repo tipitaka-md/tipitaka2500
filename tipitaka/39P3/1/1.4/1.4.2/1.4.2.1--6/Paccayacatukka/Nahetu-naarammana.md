@@ -17,26 +17,25 @@
 
 (166.)
 
-298\. Nahetuṃ anupādinnupādāniyaṃ dhammaṃ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati nahetupaccayā…  dve. (2)
+298\. Nahetuṁ anupādinnupādāniyaṁ dhammaṁ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati nahetupaccayā… dve. (2)
 
 (167.)
 
-299\. Hetuṃ anupādinnupādāniyaṃ dhammaṃ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (1)
+299\. Hetuṁ anupādinnupādāniyaṁ dhammaṁ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (1)
 
-300\. Nahetuṃ anupādinnupādāniyaṃ dhammaṃ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (1)
+300\. Nahetuṁ anupādinnupādāniyaṁ dhammaṁ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (1)
 
-301\. Hetuṃ anupādinnupādāniyañca nahetuṃ anupādinnupādāniyañca dhammaṃ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+301\. Hetuṁ anupādinnupādāniyañca nahetuṁ anupādinnupādāniyañca dhammaṁ paṭicca nahetu anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (168.)
 
-302\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
+302\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ.)
 
-303\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+303\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-304\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+304\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-305\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+305\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4.2.7 Pañhāvāra)](../../1.4.2.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4.2.7 Pañhāvāra)](../../1.4.2.7.md)
 

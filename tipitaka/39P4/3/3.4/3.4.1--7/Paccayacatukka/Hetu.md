@@ -15,24 +15,23 @@
 
 (17.)
 
-1138\. Abyākataṃ sappaṭighaṃ dhammaṃ paṭicca abyākato sappaṭigho dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1138\. Abyākataṁ sappaṭighaṁ dhammaṁ paṭicca abyākato sappaṭigho dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1139\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1139\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1140\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1140\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (18.)
 
-1141\. Kusalaṃ appaṭighaṃ dhammaṃ paṭicca kusalo appaṭigho dhammo uppajjati hetupaccayā…  tīṇi.
+1141\. Kusalaṁ appaṭighaṁ dhammaṁ paṭicca kusalo appaṭigho dhammo uppajjati hetupaccayā… tīṇi.
 
-1142\. Akusalaṃ appaṭighaṃ dhammaṃ paṭicca akusalo appaṭigho dhammo uppajjati hetupaccayā…  tīṇi.
+1142\. Akusalaṁ appaṭighaṁ dhammaṁ paṭicca akusalo appaṭigho dhammo uppajjati hetupaccayā… tīṇi.
 
-1143\. Abyākataṃ appaṭighaṃ dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
+1143\. Abyākataṁ appaṭighaṁ dhammaṁ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
 
-1144\. Kusalaṃ appaṭighañca abyākataṃ appaṭighañca dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
+1144\. Kusalaṁ appaṭighañca abyākataṁ appaṭighañca dhammaṁ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
 
-1145\. Akusalaṃ appaṭighañca abyākataṃ appaṭighañca dhammaṃ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
+1145\. Akusalaṁ appaṭighañca abyākataṁ appaṭighañca dhammaṁ paṭicca abyākato appaṭigho dhammo uppajjati hetupaccayā. (1)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
 

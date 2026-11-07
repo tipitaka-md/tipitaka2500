@@ -15,16 +15,11 @@
 
 (72.)
 
-2219\. Vipākaṃ dhammaṃ paccayā vipāko dhammo uppajjati vipākapaccayā…  tīṇi.
+2219\. Vipākaṁ dhammaṁ paccayā vipāko dhammo uppajjati vipākapaccayā… tīṇi.
 
-2220\. Nevavipākanavipākadhammadhammaṃ paccayā nevavipākanavipākadhammadhammo uppajjati vipākapaccayā—  ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  dve mahābhūte paccayā dve mahābhūtā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ…pe…  vipāko ca ubhayañca…  tīṇi.
+2220\. Nevavipākanavipākadhammadhammaṁ paccayā nevavipākanavipākadhammadhammo uppajjati vipākapaccayā— ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… dve mahābhūte paccayā dve mahābhūtā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ…pe… vipāko ca ubhayañca… tīṇi.
 
----
+2221\. Vipākañca nevavipākanavipākadhammadhammañca… tīṇi.
 
-2221\. Vipākañca nevavipākanavipākadhammadhammañca…  tīṇi.
-
-
-
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

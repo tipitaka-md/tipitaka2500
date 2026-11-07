@@ -17,12 +17,11 @@
 
 1732\. Saññojaniyo abyākato dhammo saññojaniyassa abyākatassa dhammassa hetupaccayena paccayo. (1)
 
-1733\. Asaññojaniyo abyākato dhammo asaññojaniyassa abyākatassa dhammassa hetupaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+1733\. Asaññojaniyo abyākato dhammo asaññojaniyassa abyākatassa dhammassa hetupaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (17.)
 
-1734\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā cattāri…pe…  avigate satta. (Saṃkhittaṃ.)
+1734\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā cattāri…pe… avigate satta. (Saṁkhittaṁ.)
 
-[Go to previous page (5.2.2.7 Pañhāvāra)](../5.2.2.7.md) / [Go to parent page (5.2.2.7 Pañhāvāra)](../5.2.2.7.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
-
+[Go to previous page (5.2.2.7 Pañhāvāra)](../5.2.2.7.md) / [Go to parent page (5.2.2.7 Pañhāvāra)](../5.2.2.7.md) / [Go to next page (Paccanīyuddhāra)](Paccaniyuddhara.md)
 

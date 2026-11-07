@@ -13,8 +13,7 @@
 
 * Tika
 
-610\. Āhārapaccayā hetupaccayā naārammaṇe pañca…pe…  navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṃkhittaṃ.)
+610\. Āhārapaccayā hetupaccayā naārammaṇe pañca…pe… navipāke sattarasa, nasampayutte pañca, navippayutte tīṇi, nonatthiyā pañca, novigate pañca. (Saṁkhittaṁ.)
 
 [Go to previous page (Āhāraduka)](../Aharaduka.md) / [Go to parent page (Āhāraduka)](../Aharaduka.md) / [Go to next page (Indriyaduka)](../Indriyaduka.md)
-
 

@@ -15,12 +15,7 @@
 
 299\. Aññamaññapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-300\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+300\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Aññamaññaduka)](../Annamannaduka.md) / [Go to next page (Nissaya-upanissayaduka)](../Nissaya-upanissayaduka.md)
-
 

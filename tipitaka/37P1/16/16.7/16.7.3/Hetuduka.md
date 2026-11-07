@@ -13,14 +13,9 @@
 
 (62.)
 
-2425\. Hetupaccayā naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, naaññamaññe tīṇi, naupanissaye satta…pe…  namagge satta, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta. (Evaṃ gaṇetabbaṃ.)
+2425\. Hetupaccayā naārammaṇe satta, naadhipatiyā satta, naanantare satta, nasamanantare satta, naaññamaññe tīṇi, naupanissaye satta…pe… namagge satta, nasampayutte tīṇi, navippayutte tīṇi, nonatthiyā satta, novigate satta. (Evaṁ gaṇetabbaṁ.)
 
----
+2426\. Anulomapaccanīyaṁ.
 
-2426\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (16.7.3 Paccayānulomapaccanīya)](../16.7.3.md) / [Go to parent page (16.7.3 Paccayānulomapaccanīya)](../16.7.3.md) / [Go to next page (16.7.4 Paccayapaccanīyānuloma)](../16.7.4.md)
-
+[Go to previous page (16.7.3 Paccayānulomapaccanīya)](../16.7.3.md) / [Go to parent page (16.7.3 Paccayānulomapaccanīya)](../16.7.3.md) / [Go to next page (16.7.4 Paccayapaccanīyānuloma)](../16.7.4.md)
 

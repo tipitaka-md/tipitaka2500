@@ -15,8 +15,7 @@
 
 (68.)
 
-1254\. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
+1254\. Dassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati sahajātapaccayā… aññamaññapaccayā… nissayapaccayā… upanissayapaccayā… purejātapaccayā… āsevanapaccayā… kammapaccayā… vipākapaccayā… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā… .
 
-[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to next page (10.5.1.2 Saṅkhyāvāra)](../10.5.1.2.md)
-
+[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (10.5.1.1 Vibhaṅgavāra)](../10.5.1.1.md) / [Go to next page (10.5.1.2 Saṅkhyāvāra)](../10.5.1.2.md)
 

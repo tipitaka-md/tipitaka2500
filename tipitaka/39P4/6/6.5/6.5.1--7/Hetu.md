@@ -13,40 +13,39 @@
 
 (21.)
 
-1484\. Akusalaṃ kilesañceva saṃkilesikañca dhammaṃ paṭicca akusalo kileso ceva saṃkilesiko ca dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1484\. Akusalaṁ kilesañceva saṁkilesikañca dhammaṁ paṭicca akusalo kileso ceva saṁkilesiko ca dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1485\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1485\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1486\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1486\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (22.)
 
-1487\. Kusalaṃ saṃkilesikañceva no ca kilesaṃ dhammaṃ paṭicca kusalo saṃkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā…  tīṇi.
+1487\. Kusalaṁ saṁkilesikañceva no ca kilesaṁ dhammaṁ paṭicca kusalo saṁkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā… tīṇi.
 
-1488\. Akusalaṃ saṃkilesikañceva no ca kilesaṃ dhammaṃ paṭicca akusalo saṃkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā…  tīṇi.
+1488\. Akusalaṁ saṁkilesikañceva no ca kilesaṁ dhammaṁ paṭicca akusalo saṁkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā… tīṇi.
 
-1489\. Abyākataṃ saṃkilesikañceva no ca kilesaṃ dhammaṃ paṭicca abyākato saṃkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā.
+1489\. Abyākataṁ saṁkilesikañceva no ca kilesaṁ dhammaṁ paṭicca abyākato saṁkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā.
 
-1490\. Kusalaṃ saṃkilesikañceva no ca kilesañca abyākataṃ saṃkilesikañceva no ca kilesañca dhammaṃ paṭicca abyākato saṃkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā. (1)
+1490\. Kusalaṁ saṁkilesikañceva no ca kilesañca abyākataṁ saṁkilesikañceva no ca kilesañca dhammaṁ paṭicca abyākato saṁkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā. (1)
 
-1491\. Akusalaṃ saṃkilesikañceva no ca kilesañca abyākataṃ saṃkilesikañceva no ca kilesañca dhammaṃ paṭicca abyākato saṃkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1491\. Akusalaṁ saṁkilesikañceva no ca kilesañca abyākataṁ saṁkilesikañceva no ca kilesañca dhammaṁ paṭicca abyākato saṁkilesiko ceva no ca kileso dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (23.)
 
-1492\. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+1492\. Hetuyā nava, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
-1493\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1493\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (24.)
 
-1494\. Kusalo saṃkilesiko ceva no ca kileso dhammo kusalassa saṃkilesikassa ceva no ca kilesassa dhammassa hetupaccayena paccayo…  tīṇi.
+1494\. Kusalo saṁkilesiko ceva no ca kileso dhammo kusalassa saṁkilesikassa ceva no ca kilesassa dhammassa hetupaccayena paccayo… tīṇi.
 
-1495\. Abyākato saṃkilesiko ceva no ca kileso dhammo abyākatassa saṃkilesikassa ceva no ca kilesassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+1495\. Abyākato saṁkilesiko ceva no ca kileso dhammo abyākatassa saṁkilesikassa ceva no ca kilesassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (25.)
 
-1496\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ. Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+1496\. Hetuyā cattāri, ārammaṇe nava, adhipatiyā nava…pe… avigate terasa. (Saṁkhittaṁ. Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to parent page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to next page (6.6 Kusalattika, Kilesasaṃkiliṭṭhaduka)](../../6.6.md)
-
+[Go to previous page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to parent page (6.5.1--7 Paṭiccādivāra)](../6.5.1--7.md) / [Go to next page (6.6 Kusalattika, Kilesasaṃkiliṭṭhaduka)](../../6.6.md)
 

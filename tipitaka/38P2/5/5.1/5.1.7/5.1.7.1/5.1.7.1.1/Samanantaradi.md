@@ -17,8 +17,7 @@
 
 (27.)
 
-1673\. Gantho dhammo ganthassa dhammassa samanantarapaccayena paccayo…  nava…  sahajātapaccayena paccayo…  nava…  aññamaññapaccayena paccayo…  nava, nissayapaccayena paccayo…  nava.
+1673\. Gantho dhammo ganthassa dhammassa samanantarapaccayena paccayo… nava… sahajātapaccayena paccayo… nava… aññamaññapaccayena paccayo… nava, nissayapaccayena paccayo… nava.
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (5.1.7.1.1 Vibhaṅgavāra)](../5.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (5.1.7.1.1 Vibhaṅgavāra)](../5.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

@@ -15,8 +15,7 @@
 
 (54.)
 
-2392\. Micchattaniyato dhammo micchattaniyatassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo…  sampayuttapaccayena paccayo.
+2392\. Micchattaniyato dhammo micchattaniyatassa dhammassa āhārapaccayena paccayo… indriyapaccayena paccayo… jhānapaccayena paccayo… maggapaccayena paccayo… sampayuttapaccayena paccayo.
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (16.7.1.1 Vibhaṅgavāra)](../16.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

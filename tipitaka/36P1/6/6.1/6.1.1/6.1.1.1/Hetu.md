@@ -15,26 +15,25 @@
 
 (1.)
 
-2806\. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  saṃkiliṭṭhasaṃkilesikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+2806\. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca saṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā— saṁkiliṭṭhasaṁkilesikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. (1)
 
-2807\. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  saṃkiliṭṭhasaṃkilesike khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2807\. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā— saṁkiliṭṭhasaṁkilesike khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2808\. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhasaṃkilesiko ca dhammā uppajjanti hetupaccayā—  saṃkiliṭṭhasaṃkilesikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+2808\. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca saṁkiliṭṭhasaṁkilesiko ca asaṁkiliṭṭhasaṁkilesiko ca dhammā uppajjanti hetupaccayā— saṁkiliṭṭhasaṁkilesikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
-2809\. Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  asaṃkiliṭṭhasaṃkilesikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe asaṃkiliṭṭhasaṃkilesikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṃ; khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā; ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+2809\. Asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā— asaṁkiliṭṭhasaṁkilesikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe asaṁkiliṭṭhasaṁkilesikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ…pe… dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṁ; khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā; ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
 (2.)
 
-2810\. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā—  asaṃkiliṭṭhaasaṃkilesikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā. (1)
+2810\. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati hetupaccayā— asaṁkiliṭṭhaasaṁkilesikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā. (1)
 
-2811\. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  asaṃkiliṭṭhaasaṃkilesike khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2811\. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā— asaṁkiliṭṭhaasaṁkilesike khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2812\. Asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko ca asaṃkiliṭṭhaasaṃkilesiko ca dhammā uppajjanti hetupaccayā—  asaṃkiliṭṭhaasaṃkilesikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+2812\. Asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko ca asaṁkiliṭṭhaasaṁkilesiko ca dhammā uppajjanti hetupaccayā— asaṁkiliṭṭhaasaṁkilesikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
-2813\. Asaṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhaasaṃkilesikañca dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  asaṃkiliṭṭhaasaṃkilesike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2813\. Asaṁkiliṭṭhasaṁkilesikañca asaṁkiliṭṭhaasaṁkilesikañca dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā— asaṁkiliṭṭhaasaṁkilesike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-2814\. Saṃkiliṭṭhasaṃkilesikañca asaṃkiliṭṭhasaṃkilesikañca dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā—  saṃkiliṭṭhasaṃkilesike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
+2814\. Saṁkiliṭṭhasaṁkilesikañca asaṁkiliṭṭhasaṁkilesikañca dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā— saṁkiliṭṭhasaṁkilesike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1) (Saṁkhittaṁ.)
 
-[Go to previous page (6.1.1.1 Vibhaṅgavāra)](../6.1.1.1.md) / [Go to parent page (6.1.1.1 Vibhaṅgavāra)](../6.1.1.1.md) / [Go to next page (6.1.1.2 Saṅkhyāvāra)](../6.1.1.2.md)
-
+[Go to previous page (6.1.1.1 Vibhaṅgavāra)](../6.1.1.1.md) / [Go to parent page (6.1.1.1 Vibhaṅgavāra)](../6.1.1.1.md) / [Go to next page (6.1.1.2 Saṅkhyāvāra)](../6.1.1.2.md)
 

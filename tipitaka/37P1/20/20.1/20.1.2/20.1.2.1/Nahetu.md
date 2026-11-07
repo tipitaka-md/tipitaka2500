@@ -15,16 +15,15 @@
 
 (6.)
 
-2670\. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ atītārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2670\. Atītārammaṇaṁ dhammaṁ paṭicca atītārammaṇo dhammo uppajjati nahetupaccayā— ahetukaṁ atītārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
 (7.)
 
-2671\. Anāgatārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ anāgatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2671\. Anāgatārammaṇaṁ dhammaṁ paṭicca anāgatārammaṇo dhammo uppajjati nahetupaccayā— ahetukaṁ anāgatārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
 (8.)
 
-2672\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2672\. Paccuppannārammaṇaṁ dhammaṁ paṭicca paccuppannārammaṇo dhammo uppajjati nahetupaccayā— ahetukaṁ paccuppannārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

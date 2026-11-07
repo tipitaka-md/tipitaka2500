@@ -17,12 +17,11 @@
 
 (82.)
 
-224\. Sahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+224\. Sahetukaṁ dhammaṁ paccayā ahetuko dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-225\. Ahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati nahetupaccayā—  ahetukaṃ ekaṃ khandhaṃ…pe…  paṭisandhikkhaṇe…pe…  (yāva asaññasattā), cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā khandhā moho ca. (1)
+225\. Ahetukaṁ dhammaṁ paccayā ahetuko dhammo uppajjati nahetupaccayā— ahetukaṁ ekaṁ khandhaṁ…pe… paṭisandhikkhaṇe…pe… (yāva asaññasattā), cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā khandhā moho ca. (1)
 
-226\. Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.) (1)
+226\. Sahetukañca ahetukañca dhammaṁ paccayā ahetuko dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (1.2.3.2.1 Vibhaṅgavāra)](../1.2.3.2.1.md) / [Go to parent page (1.2.3.2.1 Vibhaṅgavāra)](../1.2.3.2.1.md) / [Go to next page (1.2.3.2.2 Saṅkhyāvāra)](../1.2.3.2.2.md)
-
+[Go to previous page (1.2.3.2.1 Vibhaṅgavāra)](../1.2.3.2.1.md) / [Go to parent page (1.2.3.2.1 Vibhaṅgavāra)](../1.2.3.2.1.md) / [Go to next page (1.2.3.2.2 Saṅkhyāvāra)](../1.2.3.2.2.md)
 

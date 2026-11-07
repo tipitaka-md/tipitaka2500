@@ -17,28 +17,27 @@
 
 (6.)
 
-2330\. Sārammaṇaṃ dhammaṃ paṭicca sārammaṇo dhammo uppajjati nahetupaccayā—  ahetukaṃ sārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2330\. Sārammaṇaṁ dhammaṁ paṭicca sārammaṇo dhammo uppajjati nahetupaccayā— ahetukaṁ sārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-2331\. Sārammaṇaṃ dhammaṃ paṭicca anārammaṇo dhammo uppajjati nahetupaccayā—  ahetuke sārammaṇe khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe…pe… . (2)
+2331\. Sārammaṇaṁ dhammaṁ paṭicca anārammaṇo dhammo uppajjati nahetupaccayā— ahetuke sārammaṇe khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; ahetukapaṭisandhikkhaṇe…pe… . (2)
 
-2332\. Sārammaṇaṃ dhammaṃ paṭicca sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ sārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (3)
+2332\. Sārammaṇaṁ dhammaṁ paṭicca sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā— ahetukaṁ sārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… . (3)
 
 (7.)
 
-2333\. Anārammaṇaṃ dhammaṃ paṭicca anārammaṇo dhammo uppajjati nahetupaccayā—  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
+2333\. Anārammaṇaṁ dhammaṁ paṭicca anārammaṇo dhammo uppajjati nahetupaccayā— ekaṁ mahābhūtaṁ…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… . (1)
 
-2334\. Anārammaṇaṃ dhammaṃ paṭicca sārammaṇo dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca sārammaṇā khandhā. (2)
+2334\. Anārammaṇaṁ dhammaṁ paṭicca sārammaṇo dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca sārammaṇā khandhā. (2)
 
-2335\. Anārammaṇaṃ dhammaṃ paṭicca sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe vatthuṃ paṭicca sārammaṇā khandhā, mahābhūte paṭicca kaṭattārūpaṃ. (3)
+2335\. Anārammaṇaṁ dhammaṁ paṭicca sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe vatthuṁ paṭicca sārammaṇā khandhā, mahābhūte paṭicca kaṭattārūpaṁ. (3)
 
 (8.)
 
-2336\. Sārammaṇañca anārammaṇañca dhammaṃ paṭicca sārammaṇo dhammo uppajjati nahetupaccayā—  ahetukapaṭisandhikkhaṇe sārammaṇaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+2336\. Sārammaṇañca anārammaṇañca dhammaṁ paṭicca sārammaṇo dhammo uppajjati nahetupaccayā— ahetukapaṭisandhikkhaṇe sārammaṇaṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-2337\. Sārammaṇañca anārammaṇañca dhammaṃ paṭicca anārammaṇo dhammo uppajjati nahetupaccayā—  ahetuke sārammaṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe…pe… . (2)
+2337\. Sārammaṇañca anārammaṇañca dhammaṁ paṭicca anārammaṇo dhammo uppajjati nahetupaccayā— ahetuke sārammaṇe khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; ahetukapaṭisandhikkhaṇe…pe… . (2)
 
-2338\. Sārammaṇañca anārammaṇañca dhammaṃ paṭicca sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  ahetukapaṭisandhikkhaṇe sārammaṇaṃ ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe…  sārammaṇe khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ. (3)
+2338\. Sārammaṇañca anārammaṇañca dhammaṁ paṭicca sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā— ahetukapaṭisandhikkhaṇe sārammaṇaṁ ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… sārammaṇe khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ. (3)
 
-[Go to previous page (10.1.1.2.1 Vibhaṅgavāra)](../10.1.1.2.1.md) / [Go to parent page (10.1.1.2.1 Vibhaṅgavāra)](../10.1.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (10.1.1.2.1 Vibhaṅgavāra)](../10.1.1.2.1.md) / [Go to parent page (10.1.1.2.1 Vibhaṅgavāra)](../10.1.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

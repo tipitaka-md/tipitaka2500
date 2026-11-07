@@ -15,8 +15,7 @@
 
 (59.)
 
-1227\. Dassanena pahātabbahetukaṃ dhammaṃ paccayā dassanena pahātabbahetuko dhammo uppajjati navipākapaccayā (paripuṇṇaṃ, paṭisandhi natthi), naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  mahābhūte paccayā rūpajīvitindriyaṃ…  najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  namaggapaccayā—  ahetukaṃ ekaṃ…pe…  nasampayuttapaccayā…  navippayuttapaccayā… . (Paṭiccavārapaccanīye navippayuttasadisaṃ, ninnānaṃ. Ekādasa.) Nonatthipaccayā…  novigatapaccayā.
+1227\. Dassanena pahātabbahetukaṁ dhammaṁ paccayā dassanena pahātabbahetuko dhammo uppajjati navipākapaccayā (paripuṇṇaṁ, paṭisandhi natthi), naāhārapaccayā— bāhiraṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… mahābhūte paccayā rūpajīvitindriyaṁ… najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… namaggapaccayā— ahetukaṁ ekaṁ…pe… nasampayuttapaccayā… navippayuttapaccayā… . (Paṭiccavārapaccanīye navippayuttasadisaṁ, ninnānaṁ. Ekādasa.) Nonatthipaccayā… novigatapaccayā.
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.3.2.1 Vibhaṅgavāra)](../10.3.2.1.md) / [Go to next page (10.3.2.2 Saṅkhyāvāra)](../10.3.2.2.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.3.2.1 Vibhaṅgavāra)](../10.3.2.1.md) / [Go to next page (10.3.2.2 Saṅkhyāvāra)](../10.3.2.2.md)
 

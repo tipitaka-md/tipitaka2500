@@ -17,12 +17,11 @@
 
 (303.)
 
-4718\. Niyyānikaṃ dhammaṃ paṭicca niyyāniko dhammo uppajjati naadhipatipaccayā—  niyyānike khandhe paṭicca niyyānikādhipati. (1)
+4718\. Niyyānikaṁ dhammaṁ paṭicca niyyāniko dhammo uppajjati naadhipatipaccayā— niyyānike khandhe paṭicca niyyānikādhipati. (1)
 
-4719\. Aniyyānikaṃ dhammaṃ paṭicca aniyyāniko dhammo uppajjati naadhipatipaccayā—  aniyyānikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva asaññasattā kātabbā.) (1)
+4719\. Aniyyānikaṁ dhammaṁ paṭicca aniyyāniko dhammo uppajjati naadhipatipaccayā— aniyyānikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (Yāva asaññasattā kātabbā.) (1)
 
-4720\. Naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…pe… .
+4720\. Naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā…pe… .
 
-[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
-
+[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (13.15.1.2.1 Vibhaṅgavāra)](../13.15.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 

@@ -15,20 +15,11 @@
 
 (302.)
 
-1004\. Kusalo dhammo kusalassa dhammassa avigatapaccayena paccayo—  kusalo eko khandho tiṇṇannaṃ khandhānaṃ avigatapaccayena paccayo. Tayo khandhā ekassa khandhassa avigatapaccayena paccayo. Dve khandhā dvinnaṃ khandhānaṃ avigatapaccayena paccayo. (Saṃkhittaṃ.)
+1004\. Kusalo dhammo kusalassa dhammassa avigatapaccayena paccayo— kusalo eko khandho tiṇṇannaṁ khandhānaṁ avigatapaccayena paccayo. Tayo khandhā ekassa khandhassa avigatapaccayena paccayo. Dve khandhā dvinnaṁ khandhānaṁ avigatapaccayena paccayo. (Saṁkhittaṁ.)
 
----
-
-1005\. (Yathā atthipaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
----
+1005\. (Yathā atthipaccayaṁ, evaṁ vitthāretabbaṁ.)
 
 1006\. Pañhāvārassa vibhaṅgo.
 
-
-
-[Go to previous page (Vigata)](Vigata.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md)
-
+[Go to previous page (Vigata)](Vigata.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md)
 

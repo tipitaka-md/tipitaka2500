@@ -15,8 +15,7 @@
 
 * Tika
 
-263\. Naāsevanapaccayā nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā dve, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte dve, napacchājāte dve, nakamme ekaṃ, navipāke dve, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte dve, nonatthiyā ekaṃ, novigate ekaṃ.
+263\. Naāsevanapaccayā nahetupaccayā naārammaṇe ekaṁ, naadhipatiyā dve, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte dve, napacchājāte dve, nakamme ekaṁ, navipāke dve, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte dve, nonatthiyā ekaṁ, novigate ekaṁ.
 
 [Go to previous page (Napacchājāta-naāsevanaduka)](../Napacchajata-naasevanaduka.md) / [Go to parent page (Napacchājāta-naāsevanaduka)](../Napacchajata-naasevanaduka.md) / [Go to next page (Catukka)](Catukka.md)
-
 

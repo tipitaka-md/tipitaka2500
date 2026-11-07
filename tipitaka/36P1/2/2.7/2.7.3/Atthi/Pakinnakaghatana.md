@@ -25,12 +25,11 @@
 
 1677\. Atthi ārammaṇa nissaya purejāta vippayutta avigatanti nahetuyā tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, nasahajāte tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, naāhāre tīṇi, naindriye tīṇi, najhāne tīṇi, namagge tīṇi, nasampayutte tīṇi, nonatthiyā tīṇi, novigate tīṇi.
 
-1678\. Atthi ārammaṇa adhipati upanissaya purejāta avigatanti nahetuyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ nasahajāte ekaṃ, naaññamaññe ekaṃ, nanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1678\. Atthi ārammaṇa adhipati upanissaya purejāta avigatanti nahetuyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ nasahajāte ekaṁ, naaññamaññe ekaṁ, nanissaye ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1679\. Atthi ārammaṇa adhipati nissaya upanissaya purejāta vippayutta avigatanti nahetuyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1679\. Atthi ārammaṇa adhipati nissaya upanissaya purejāta vippayutta avigatanti nahetuyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
-1680\. Atthi nissaya purejāta indriya vippayutta avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1680\. Atthi nissaya purejāta indriya vippayutta avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naadhipatiyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
 [Go to previous page (Atthimissakaghaṭanā)](Atthimissakaghatana.md) / [Go to parent page (Atthi)](../Atthi.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
-
 

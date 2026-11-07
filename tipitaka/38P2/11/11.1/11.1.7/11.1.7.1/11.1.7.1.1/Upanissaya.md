@@ -17,16 +17,15 @@
 
 (26.)
 
-3590\. Upādāno dhammo upādānassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  upādānā upādānānaṃ upanissayapaccayena paccayo…  tīṇi.
+3590\. Upādāno dhammo upādānassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— upādānā upādānānaṁ upanissayapaccayena paccayo… tīṇi.
 
 (27.)
 
-3591\. Noupādāno dhammo noupādānassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  paññaṃ…  rāgaṃ…pe…  patthanaṃ…  kāyikaṃ sukhaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; pāṇaṃ hanati…pe…  saṃghaṃ bhindati, saddhā…pe…  senāsanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+3591\. Noupādāno dhammo noupādānassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— saddhaṁ upanissāya dānaṁ deti…pe… samāpattiṁ uppādeti, mānaṁ jappeti, diṭṭhiṁ gaṇhāti; sīlaṁ…pe… paññaṁ… rāgaṁ…pe… patthanaṁ… kāyikaṁ sukhaṁ…pe… senāsanaṁ upanissāya dānaṁ deti…pe… samāpattiṁ uppādeti, mānaṁ jappeti, diṭṭhiṁ gaṇhāti; pāṇaṁ hanati…pe… saṁghaṁ bhindati, saddhā…pe… senāsanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-3592\. Noupādāno dhammo upādānassa dhammassa upanissayapaccayena paccayo. **Pakatūpanissayo**—  saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya adinnaṃ…pe…  musā…pe…  pisuṇaṃ…pe…  samphaṃ…pe…  sandhiṃ…pe…  nillopaṃ…pe…  ekāgārikaṃ…pe…  paripanthe…pe…  paradāraṃ…pe…  gāmaghātaṃ…pe…  nigamaghātaṃ karoti; saddhā…pe…  senāsanaṃ upādānānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Saddhaṃ upanissāya mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya adinnaṃ ādiyati, musā…pe…  pisuṇaṃ…pe…  samphaṃ…pe…  sandhiṃ…pe…  nillopaṃ…pe…  ekāgārikaṃ…pe…  paripanthe…pe…  paradāraṃ…pe…  gāmaghātaṃ…pe…  nigamaghātaṃ karoti; saddhā…pe…  senāsanaṃ upādānānaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (3)
+3592\. Noupādāno dhammo upādānassa dhammassa upanissayapaccayena paccayo. Pakatūpanissayo— saddhaṁ upanissāya mānaṁ jappeti, diṭṭhiṁ gaṇhāti; sīlaṁ…pe… senāsanaṁ upanissāya adinnaṁ…pe… musā…pe… pisuṇaṁ…pe… samphaṁ…pe… sandhiṁ…pe… nillopaṁ…pe… ekāgārikaṁ…pe… paripanthe…pe… paradāraṁ…pe… gāmaghātaṁ…pe… nigamaghātaṁ karoti; saddhā…pe… senāsanaṁ upādānānaṁ upanissayapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Saddhaṁ upanissāya mānaṁ jappeti, diṭṭhiṁ gaṇhāti; sīlaṁ…pe… senāsanaṁ upanissāya adinnaṁ ādiyati, musā…pe… pisuṇaṁ…pe… samphaṁ…pe… sandhiṁ…pe… nillopaṁ…pe… ekāgārikaṁ…pe… paripanthe…pe… paradāraṁ…pe… gāmaghātaṁ…pe… nigamaghātaṁ karoti; saddhā…pe… senāsanaṁ upādānānaṁ sampayuttakānañca khandhānaṁ upanissayapaccayena paccayo. (3)
 
-3593\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**…  tīṇi.
+3593\. Upādāno ca noupādāno ca dhammā upādānassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo… tīṇi.
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (11.1.7.1.1 Vibhaṅgavāra)](../11.1.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

@@ -17,18 +17,17 @@
 
 (52.)
 
-1994\. Nīvaraṇasampayuttaṃ dhammaṃ paṭicca nīvaraṇasampayutto dhammo uppajjati hetupaccayā—  nīvaraṇasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1994\. Nīvaraṇasampayuttaṁ dhammaṁ paṭicca nīvaraṇasampayutto dhammo uppajjati hetupaccayā— nīvaraṇasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1995\. Nīvaraṇasampayuttaṃ dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇasampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1995\. Nīvaraṇasampayuttaṁ dhammaṁ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā— nīvaraṇasampayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1996\. Nīvaraṇasampayuttaṃ dhammaṃ paṭicca nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā uppajjanti hetupaccayā—  nīvaraṇasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1996\. Nīvaraṇasampayuttaṁ dhammaṁ paṭicca nīvaraṇasampayutto ca nīvaraṇavippayutto ca dhammā uppajjanti hetupaccayā— nīvaraṇasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (53.)
 
-1997\. Nīvaraṇavippayuttaṃ dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva ajjhattikā mahābhūtā.) (1)
+1997\. Nīvaraṇavippayuttaṁ dhammaṁ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā— nīvaraṇavippayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (Yāva ajjhattikā mahābhūtā.) (1)
 
-1998\. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṃ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā—  nīvaraṇasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.)
+1998\. Nīvaraṇasampayuttañca nīvaraṇavippayuttañca dhammaṁ paṭicca nīvaraṇavippayutto dhammo uppajjati hetupaccayā— nīvaraṇasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.)
 
-[Go to previous page (8.3.1.1.1 Vibhaṅgavāra)](../8.3.1.1.1.md) / [Go to parent page (8.3.1.1.1 Vibhaṅgavāra)](../8.3.1.1.1.md) / [Go to next page (8.3.1.1.2 Saṅkhyāvāra)](../8.3.1.1.2.md)
-
+[Go to previous page (8.3.1.1.1 Vibhaṅgavāra)](../8.3.1.1.1.md) / [Go to parent page (8.3.1.1.1 Vibhaṅgavāra)](../8.3.1.1.1.md) / [Go to next page (8.3.1.1.2 Saṅkhyāvāra)](../8.3.1.1.2.md)
 

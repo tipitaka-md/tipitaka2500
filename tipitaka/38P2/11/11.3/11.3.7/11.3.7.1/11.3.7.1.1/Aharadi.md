@@ -17,8 +17,7 @@
 
 (83.)
 
-3728\. Upādānasampayutto dhammo upādānasampayuttassa dhammassa āhārapaccayena paccayo…  indriyapaccayena paccayo…  jhānapaccayena paccayo…  maggapaccayena paccayo (imesu catūsupi yathā kammapaccaye diṭṭhigatavippayutto lobho dassito evaṃ dassetabbo. Cattāri cattāri pañhā)…  sampayuttapaccayena paccayo…  cha.
+3728\. Upādānasampayutto dhammo upādānasampayuttassa dhammassa āhārapaccayena paccayo… indriyapaccayena paccayo… jhānapaccayena paccayo… maggapaccayena paccayo (imesu catūsupi yathā kammapaccaye diṭṭhigatavippayutto lobho dassito evaṁ dassetabbo. Cattāri cattāri pañhā)… sampayuttapaccayena paccayo… cha.
 
-[Go to previous page (Kamma-vipāka)](Kamma-vipaka.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Kamma-vipāka)](Kamma-vipaka.md) / [Go to parent page (11.3.7.1.1 Vibhaṅgavāra)](../11.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

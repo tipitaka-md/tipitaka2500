@@ -17,28 +17,27 @@
 
 (74.)
 
-204\. Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā—  sahetukaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  paṭisandhikkhaṇe…pe… . (1)
+204\. Sahetukaṁ dhammaṁ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā— sahetukaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… paṭisandhikkhaṇe…pe… . (1)
 
-205\. Sahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
+205\. Sahetukaṁ dhammaṁ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā— vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
-206\. Sahetukaṃ dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paccayā tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
+206\. Sahetukaṁ dhammaṁ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā— vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhaṁ paccayā tayo khandhā moho ca…pe… dve khandhe…pe… . (3)
 
 (75.)
 
-207\. Ahetukaṃ dhammaṃ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā—  ahetukaṃ ekaṃ khandhaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe vatthuṃ paccayā khandhā, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā khandhā. (1)
+207\. Ahetukaṁ dhammaṁ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā— ahetukaṁ ekaṁ khandhaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe vatthuṁ paccayā khandhā, cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā khandhā. (1)
 
-208\. Ahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā—  vatthuṃ paccayā sahetukā khandhā, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (2)
+208\. Ahetukaṁ dhammaṁ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā— vatthuṁ paccayā sahetukā khandhā, vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . (2)
 
-209\. Ahetukaṃ dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā—  vatthuṃ paccayā vicikicchāsahagatā uddhaccasahagatā khandhā moho ca. (3)
+209\. Ahetukaṁ dhammaṁ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā— vatthuṁ paccayā vicikicchāsahagatā uddhaccasahagatā khandhā moho ca. (3)
 
 (76.)
 
-210\. Sahetukañca ahetukañca dhammaṃ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā—  sahetukaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paccayā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+210\. Sahetukañca ahetukañca dhammaṁ paccayā sahetuko dhammo uppajjati ārammaṇapaccayā— sahetukaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca mohañca paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-211\. Sahetukañca ahetukañca dhammaṃ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
+211\. Sahetukañca ahetukañca dhammaṁ paccayā ahetuko dhammo uppajjati ārammaṇapaccayā— vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
-212\. Sahetukañca ahetukañca dhammaṃ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā—  vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
+212\. Sahetukañca ahetukañca dhammaṁ paccayā sahetuko ca ahetuko ca dhammā uppajjanti ārammaṇapaccayā— vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā moho ca…pe… dve khandhe…pe… . (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

@@ -13,8 +13,7 @@
 
 * Dasaka
 
-1766\. Nasampayuttapaccayā nahetupaccayā (mūlakaṃ saṃkhittaṃ) nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā upanissaye nava, pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā pañca, avigate pañca…pe… .
+1766\. Nasampayuttapaccayā nahetupaccayā (mūlakaṁ saṁkhittaṁ) nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā upanissaye nava, pacchājāte tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte tīṇi, atthiyā pañca, avigate pañca…pe… .
 
 [Go to previous page (Navaka)](Navaka.md) / [Go to parent page (Nasampayuttaduka)](../Nasampayuttaduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
-
 

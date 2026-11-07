@@ -15,16 +15,15 @@
 
 86\. Nanahetu naanidassanasappaṭigho dhammo nanahetussa naanidassanasappaṭighassa dhammassa hetupaccayena paccayo. Nanahetu naanidassanasappaṭigho dhammo nahetussa naanidassanasappaṭighassa dhammassa hetupaccayena paccayo. Nanahetu naanidassanasappaṭigho dhammo nahetussa naanidassanasappaṭighassa ca nanahetussa naanidassanasappaṭighassa ca dhammassa hetupaccayena paccayo. (3)
 
-87\. Nahetu naanidassanasappaṭigho dhammo nahetussa naanidassanasappaṭighassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+87\. Nahetu naanidassanasappaṭigho dhammo nahetussa naanidassanasappaṭighassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
-88\. Hetuyā tīṇi, ārammaṇe nava…pe…  upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava, vippayutte pañca…pe…  avigate nava. (Pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+88\. Hetuyā tīṇi, ārammaṇe nava…pe… upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava, vippayutte pañca…pe… avigate nava. (Pañhāvāraṁ evaṁ vitthāretabbaṁ.)
 
 (32.)
 
-89\. Nahetuṃ naanidassanaappaṭighaṃ dhammaṃ paṭicca nahetu naanidassanaappaṭigho dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+89\. Nahetuṁ naanidassanaappaṭighaṁ dhammaṁ paṭicca nahetu naanidassanaappaṭigho dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-90\. Hetuyā ekaṃ, adhipatiyā sahajāte aññamaññe nissaye kamme…pe…  magge ekaṃ, vippayutte atthiyā avigate ekaṃ. (Sabbattha vitthāro.)
+90\. Hetuyā ekaṁ, adhipatiyā sahajāte aññamaññe nissaye kamme…pe… magge ekaṁ, vippayutte atthiyā avigate ekaṁ. (Sabbattha vitthāro.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6 Sahetukadukādi, Kusalattika)](../../../6.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6 Sahetukadukādi, Kusalattika)](../../../6.md)
 

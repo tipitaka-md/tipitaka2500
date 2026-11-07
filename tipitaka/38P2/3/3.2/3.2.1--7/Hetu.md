@@ -13,24 +13,19 @@
 
 (47.)
 
-1088\. Sāsavaṃ dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccayā—  sāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+1088\. Sāsavaṁ dhammaṁ paṭicca sāsavo dhammo uppajjati hetupaccayā— sāsavaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-1089\. Anāsavaṃ dhammaṃ paṭicca anāsavo dhammo uppajjati hetupaccayā—  anāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1089\. Anāsavaṁ dhammaṁ paṭicca anāsavo dhammo uppajjati hetupaccayā— anāsavaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1090\. Anāsavaṃ dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccayā—  anāsave khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1090\. Anāsavaṁ dhammaṁ paṭicca sāsavo dhammo uppajjati hetupaccayā— anāsave khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1091\. Anāsavaṃ dhammaṃ paṭicca sāsavo ca anāsavo ca dhammā uppajjanti hetupaccayā—  anāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1091\. Anāsavaṁ dhammaṁ paṭicca sāsavo ca anāsavo ca dhammā uppajjanti hetupaccayā— anāsavaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-1092\. Sāsavañca anāsavañca dhammaṃ paṭicca sāsavo dhammo uppajjati hetupaccayā—  anāsave khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1092\. Sāsavañca anāsavañca dhammaṁ paṭicca sāsavo dhammo uppajjati hetupaccayā— anāsave khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1093\. (Yathā cūḷantaraduke lokiyadukaṃ, evaṃ kātabbaṃ, ninnānākaraṇaṃ.)
+1093\. (Yathā cūḷantaraduke lokiyadukaṁ, evaṁ kātabbaṁ, ninnānākaraṇaṁ.)
 
----
+1094\. Sāsavadukaṁ niṭṭhitaṁ.
 
-1094\. Sāsavadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (3.2.1--7 Paṭiccādivāra)](../3.2.1--7.md) / [Go to parent page (3.2.1--7 Paṭiccādivāra)](../3.2.1--7.md) / [Go to next page (3.3 Āsavasampayuttaduka)](../../3.3.md)
-
+[Go to previous page (3.2.1--7 Paṭiccādivāra)](../3.2.1--7.md) / [Go to parent page (3.2.1--7 Paṭiccādivāra)](../3.2.1--7.md) / [Go to next page (3.3 Āsavasampayuttaduka)](../../3.3.md)
 

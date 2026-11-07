@@ -13,8 +13,7 @@
 
 * Tika
 
-794\. Nahetupaccayā naadhipatipaccayā ārammaṇe dve…pe…  avigate dve. (Sabbattha dve.)
+794\. Nahetupaccayā naadhipatipaccayā ārammaṇe dve…pe… avigate dve. (Sabbattha dve.)
 
 [Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Catukka)](Catukka.md)
-
 

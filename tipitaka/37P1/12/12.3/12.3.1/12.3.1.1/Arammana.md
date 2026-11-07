@@ -15,20 +15,19 @@
 
 (21.)
 
-1715\. Sekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā…  ekaṃ.
+1715\. Sekkhaṁ dhammaṁ paccayā sekkho dhammo uppajjati ārammaṇapaccayā… ekaṁ.
 
-1716\. Asekkhaṃ dhammaṃ paccayā asekkho dhammo…  ekaṃ.
+1716\. Asekkhaṁ dhammaṁ paccayā asekkho dhammo… ekaṁ.
 
-1717\. Nevasekkhanāsekkhaṃ dhammaṃ paccayā nevasekkhanāsekkho dhammo uppajjati ārammaṇapaccayā…  ekaṃ, vatthuṃ paccayā nevasekkhanāsekkhā khandhā, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā nevasekkhanāsekkhā khandhā. (1)
+1717\. Nevasekkhanāsekkhaṁ dhammaṁ paccayā nevasekkhanāsekkho dhammo uppajjati ārammaṇapaccayā… ekaṁ, vatthuṁ paccayā nevasekkhanāsekkhā khandhā, cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā nevasekkhanāsekkhā khandhā. (1)
 
-1718\. Nevasekkhanāsekkhaṃ dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā—  vatthuṃ paccayā sekkhā khandhā. (2)
+1718\. Nevasekkhanāsekkhaṁ dhammaṁ paccayā sekkho dhammo uppajjati ārammaṇapaccayā— vatthuṁ paccayā sekkhā khandhā. (2)
 
-1719\. Nevasekkhanāsekkhaṃ dhammaṃ paccayā asekkho dhammo uppajjati ārammaṇapaccayā—  vatthuṃ paccayā asekkhā khandhā. (3)
+1719\. Nevasekkhanāsekkhaṁ dhammaṁ paccayā asekkho dhammo uppajjati ārammaṇapaccayā— vatthuṁ paccayā asekkhā khandhā. (3)
 
-1720\. Sekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā sekkho dhammo uppajjati ārammaṇapaccayā—  sekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā. (1)
+1720\. Sekkhañca nevasekkhanāsekkhañca dhammaṁ paccayā sekkho dhammo uppajjati ārammaṇapaccayā— sekkhaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)
 
-1721\. Asekkhañca nevasekkhanāsekkhañca dhammaṃ paccayā asekkho dhammo uppajjati ārammaṇapaccayā—  asekkhaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhā. (1)
+1721\. Asekkhañca nevasekkhanāsekkhañca dhammaṁ paccayā asekkho dhammo uppajjati ārammaṇapaccayā— asekkhaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhā. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.3.1.1 Vibhaṅgavāra)](../12.3.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.3.1.1 Vibhaṅgavāra)](../12.3.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
 

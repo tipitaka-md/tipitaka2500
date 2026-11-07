@@ -19,12 +19,7 @@
 
 935\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane dve, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge cattāri, sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri, vigate cattāri, avigate satta.
 
----
+936\. Anulomaṁ.
 
-936\. Anulomaṃ.
-
-
-
-[Go to previous page (2.6.7.1.2 Saṅkhyāvāra)](../2.6.7.1.2.md) / [Go to parent page (2.6.7.1.2 Saṅkhyāvāra)](../2.6.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (2.6.7.1.2 Saṅkhyāvāra)](../2.6.7.1.2.md) / [Go to parent page (2.6.7.1.2 Saṅkhyāvāra)](../2.6.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

@@ -17,12 +17,11 @@
 
 (76.)
 
-2274\. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2274\. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-2275\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) (1)
+2275\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) (1)
 
-2276\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu parāmāsasampayuttakānaṃ khandhānaṃ vippayuttapaccayena paccayo. (1)
+2276\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa vippayuttapaccayena paccayo. Purejātaṁ— vatthu parāmāsasampayuttakānaṁ khandhānaṁ vippayuttapaccayena paccayo. (1)
 
-[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

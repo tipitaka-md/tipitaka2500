@@ -15,8 +15,7 @@
 
 (83.)
 
-2253\. Vipākaṃ dhammaṃ saṃsaṭṭho vipāko dhammo uppajjati hetupaccayā—  vipākaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā. (Saṃkhittaṃ. Sabbāni padāni vitthāretabbāni.)
+2253\. Vipākaṁ dhammaṁ saṁsaṭṭho vipāko dhammo uppajjati hetupaccayā— vipākaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā. (Saṁkhittaṁ. Sabbāni padāni vitthāretabbāni.)
 
-[Go to previous page (4.5.1.1 Vibhaṅgavāra)](../4.5.1.1.md) / [Go to parent page (4.5.1.1 Vibhaṅgavāra)](../4.5.1.1.md) / [Go to next page (4.5.1.2 Saṅkhyāvāra)](../4.5.1.2.md)
-
+[Go to previous page (4.5.1.1 Vibhaṅgavāra)](../4.5.1.1.md) / [Go to parent page (4.5.1.1 Vibhaṅgavāra)](../4.5.1.1.md) / [Go to next page (4.5.1.2 Saṅkhyāvāra)](../4.5.1.2.md)
 

@@ -15,30 +15,21 @@
 
 (103.)
 
-1466\. Nahetu sahetuko abyākato dhammo nahetussa sahetukassa abyākatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1466\. Nahetu sahetuko abyākato dhammo nahetussa sahetukassa abyākatassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (104.)
 
-1467\. Nahetuyā satta, naārammaṇe satta. (Saṃkhittaṃ.)
+1467\. Nahetuyā satta, naārammaṇe satta. (Saṁkhittaṁ.)
 
-1468\. Ārammaṇapaccayā nahetuyā cattāri. (Saṃkhittaṃ.)
+1468\. Ārammaṇapaccayā nahetuyā cattāri. (Saṁkhittaṁ.)
 
-1469\. Nahetupaccayā ārammaṇe cattāri. (Saṃkhittaṃ.)
+1469\. Nahetupaccayā ārammaṇe cattāri. (Saṁkhittaṁ.)
 
-1470\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1470\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
----
+1471\. Nahetusahetukadukakusalattikaṁ niṭṭhitaṁ.
 
-1471\. Nahetusahetukadukakusalattikaṃ niṭṭhitaṃ.
+1472\. Hetugocchakaṁ niṭṭhitaṁ.
 
-
-
----
-
-1472\. Hetugocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Ārammaṇa)](Paccayacatukka/Arammana.md) / [Go to parent page (2.6.2.7 Pañhāvāra)](../2.6.2.7.md) / [Go to next page (3 Cūḷantaraduka, Kusalattika)](../../../../3.md)
-
+[Go to previous page (Ārammaṇa)](Paccayacatukka/Arammana.md) / [Go to parent page (2.6.2.7 Pañhāvāra)](../2.6.2.7.md) / [Go to next page (3 Cūḷantaraduka, Kusalattika)](../../../../3.md)
 

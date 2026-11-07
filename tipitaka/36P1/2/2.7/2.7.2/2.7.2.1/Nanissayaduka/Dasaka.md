@@ -15,14 +15,9 @@
 
 * Dasaka
 
-1206\. Nanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā naupanissayapaccayā napurejāte pañca, napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre pañca, naindriye pañca, najhāne pañca, namagge pañca, nasampayutte pañca, navippayutte tīṇi, noatthiyā dve, nonatthiyā pañca, novigate pañca, noavigate dve. (Saṃkhittaṃ.)
+1206\. Nanissayapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā naupanissayapaccayā napurejāte pañca, napacchājāte tīṇi, naāsevane pañca, nakamme pañca, navipāke pañca, naāhāre pañca, naindriye pañca, najhāne pañca, namagge pañca, nasampayutte pañca, navippayutte tīṇi, noatthiyā dve, nonatthiyā pañca, novigate pañca, noavigate dve. (Saṁkhittaṁ.)
 
----
-
-1207\. Nanissayamūlakaṃ.
-
-
+1207\. Nanissayamūlakaṁ.
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Nanissayaduka)](../Nanissayaduka.md) / [Go to next page (Naupanissayaduka)](../Naupanissayaduka.md)
-
 

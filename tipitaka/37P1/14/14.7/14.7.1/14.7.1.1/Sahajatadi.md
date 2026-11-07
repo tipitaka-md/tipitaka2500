@@ -15,8 +15,7 @@
 
 (24.)
 
-2215\. Parittārammaṇo dhammo parittārammaṇassa dhammassa sahajātapaccayena paccayo…  aññamaññapaccayena paccayo…  nissayapaccayena paccayo…  tīṇi. (Paṭiccavārasadisā kātabbā.)
+2215\. Parittārammaṇo dhammo parittārammaṇassa dhammassa sahajātapaccayena paccayo… aññamaññapaccayena paccayo… nissayapaccayena paccayo… tīṇi. (Paṭiccavārasadisā kātabbā.)
 
-[Go to previous page (Samanantara)](Samanantara.md) / [Go to parent page (14.7.1.1 Vibhaṅgavāra)](../14.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Samanantara)](Samanantara.md) / [Go to parent page (14.7.1.1 Vibhaṅgavāra)](../14.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

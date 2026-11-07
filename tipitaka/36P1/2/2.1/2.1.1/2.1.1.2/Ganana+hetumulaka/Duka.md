@@ -17,8 +17,7 @@
 
 (22.)
 
-175\. Hetupaccayā ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṃ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
+175\. Hetupaccayā ārammaṇe tīṇi, adhipatiyā nava, anantare tīṇi, samanantare tīṇi, sahajāte nava, aññamaññe tīṇi, nissaye nava, upanissaye tīṇi, purejāte tīṇi, āsevane tīṇi, kamme nava, vipāke ekaṁ, āhāre nava, indriye nava, jhāne nava, magge nava, sampayutte tīṇi, vippayutte nava, atthiyā nava, natthiyā tīṇi, vigate tīṇi, avigate nava.
 
-[Go to previous page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to next page (Tika)](Tika.md)
-
+[Go to previous page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to next page (Tika)](Tika.md)
 

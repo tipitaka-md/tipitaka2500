@@ -17,12 +17,11 @@
 
 (60.)
 
-677\. Sappaṭighaṃ dhammaṃ paṭicca sappaṭigho dhammo uppajjati nahetupaccayā…  tīṇi.
+677\. Sappaṭighaṁ dhammaṁ paṭicca sappaṭigho dhammo uppajjati nahetupaccayā… tīṇi.
 
-678\. Appaṭighaṃ dhammaṃ paṭicca appaṭigho dhammo uppajjati nahetupaccayā—  ahetukaṃ appaṭighaṃ ekaṃ khandhaṃ paṭicca tayo khandhā appaṭighaṃ cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, āpodhātuṃ paṭicca appaṭighaṃ cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ, āpodhātuṃ paṭicca itthindriyaṃ…pe… . **Kabaḷīkāro āhāro**— …  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…  āpodhātuṃ paṭicca appaṭighaṃ kaṭattārūpaṃ upādārūpaṃ; vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+678\. Appaṭighaṁ dhammaṁ paṭicca appaṭigho dhammo uppajjati nahetupaccayā— ahetukaṁ appaṭighaṁ ekaṁ khandhaṁ paṭicca tayo khandhā appaṭighaṁ cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, āpodhātuṁ paṭicca appaṭighaṁ cittasamuṭṭhānaṁ rūpaṁ, kaṭattārūpaṁ, upādārūpaṁ, āpodhātuṁ paṭicca itthindriyaṁ…pe… . Kabaḷīkāro āhāro— … bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ… āpodhātuṁ paṭicca appaṭighaṁ kaṭattārūpaṁ upādārūpaṁ; vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-679\. (Appaṭighamūlakaṃ itarepi dve pañhā kātabbā. Ghaṭanepi tīṇi pañhā kātabbā. Ajjhattikā bāhirā mahābhūtā sabbe jānitvā kātabbā.)
+679\. (Appaṭighamūlakaṁ itarepi dve pañhā kātabbā. Ghaṭanepi tīṇi pañhā kātabbā. Ajjhattikā bāhirā mahābhūtā sabbe jānitvā kātabbā.)
 
-[Go to previous page (2.4.1.2.1 Vibhaṅgavāra)](../2.4.1.2.1.md) / [Go to parent page (2.4.1.2.1 Vibhaṅgavāra)](../2.4.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
-
+[Go to previous page (2.4.1.2.1 Vibhaṅgavāra)](../2.4.1.2.1.md) / [Go to parent page (2.4.1.2.1 Vibhaṅgavāra)](../2.4.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
 

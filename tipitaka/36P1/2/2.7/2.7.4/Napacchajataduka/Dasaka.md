@@ -13,14 +13,9 @@
 
 * Dasaka
 
-1739\. Napacchājātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā upanissaye nava, kamme dve, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+1739\. Napacchājātapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā naaññamaññapaccayā nanissayapaccayā upanissaye nava, kamme dve, āhāre ekaṁ, indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
----
-
-1740\. Napacchājātamūlakaṃ.
-
-
+1740\. Napacchājātamūlakaṁ.
 
 [Go to previous page (Navaka)](Navaka.md) / [Go to parent page (Napacchājātaduka)](../Napacchajataduka.md) / [Go to next page (Naāsevanaduka)](../Naasevanaduka.md)
-
 

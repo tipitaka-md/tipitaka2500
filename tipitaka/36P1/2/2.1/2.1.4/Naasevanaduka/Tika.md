@@ -13,8 +13,7 @@
 
 * Tika
 
-377\. Naāsevanapaccayā nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, kamme dve, vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
+377\. Naāsevanapaccayā nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve, sahajāte dve, aññamaññe dve, nissaye dve, upanissaye dve, purejāte dve, kamme dve, vipāke ekaṁ, āhāre dve, indriye dve, jhāne dve, magge ekaṁ, sampayutte dve, vippayutte dve, atthiyā dve, natthiyā dve, vigate dve, avigate dve.
 
 [Go to previous page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to parent page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to next page (Catukka)](Catukka.md)
-
 

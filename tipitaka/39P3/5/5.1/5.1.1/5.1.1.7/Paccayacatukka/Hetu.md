@@ -17,22 +17,21 @@
 
 (5.)
 
-1711\. Saññojano akusalo dhammo saññojanassa akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1711\. Saññojano akusalo dhammo saññojanassa akusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (6.)
 
-1712\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  upanissaye āsevane nava, kamme tīṇi, āhāre indriye jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1712\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe… upanissaye āsevane nava, kamme tīṇi, āhāre indriye jhāne tīṇi, magge sampayutte nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 (7.)
 
-1713\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1713\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1714\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1714\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1715\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1715\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-1716\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1716\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.1.2 Abyākatapada)](../../../5.1.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.1.2 Abyākatapada)](../../../5.1.2.md)
 

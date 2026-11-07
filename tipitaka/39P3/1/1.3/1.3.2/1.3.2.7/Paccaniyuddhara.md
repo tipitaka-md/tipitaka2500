@@ -15,18 +15,17 @@
 
 (134.)
 
-233\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+233\. Hetu vipākadhammadhammo hetussa vipākadhammadhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (135.)
 
-234\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ, paccanīyaṃ.)
+234\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ, paccanīyaṁ.)
 
-235\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ, anulomapaccanīyaṃ.)
+235\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ, anulomapaccanīyaṁ.)
 
-236\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ, paccanīyānulomaṃ.)
+236\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ, paccanīyānulomaṁ.)
 
-237\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+237\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.3.2.7 Pañhāvāra)](../1.3.2.7.md) / [Go to next page (1.3.3 Nevavipākanavipākadhammapada)](../../1.3.3.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.3.2.7 Pañhāvāra)](../1.3.2.7.md) / [Go to next page (1.3.3 Nevavipākanavipākadhammapada)](../../1.3.3.md)
 

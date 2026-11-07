@@ -13,8 +13,7 @@
 
 * Dvādasaka
 
-359\. Nahetupaccayā naārammaṇapaccayā…pe…  naāsevanapaccayā nakammapaccayā sahajāte ekaṃ, nissaye ekaṃ, āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+359\. Nahetupaccayā naārammaṇapaccayā…pe… naāsevanapaccayā nakammapaccayā sahajāte ekaṁ, nissaye ekaṁ, āhāre ekaṁ, atthiyā ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Cuddasaka)](Cuddasaka.md)
-
 

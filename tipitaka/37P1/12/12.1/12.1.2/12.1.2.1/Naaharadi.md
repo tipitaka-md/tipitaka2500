@@ -15,8 +15,7 @@
 
 (13.)
 
-1692\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…  namaggapaccayā.
+1692\. Nevasekkhanāsekkhaṁ dhammaṁ paṭicca nevasekkhanāsekkho dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā… namaggapaccayā.
 
 [Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
-
 

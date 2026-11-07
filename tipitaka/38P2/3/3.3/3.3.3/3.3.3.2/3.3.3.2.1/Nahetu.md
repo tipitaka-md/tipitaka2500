@@ -17,12 +17,11 @@
 
 (71.)
 
-1160\. Āsavasampayuttaṃ dhammaṃ paccayā āsavavippayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+1160\. Āsavasampayuttaṁ dhammaṁ paccayā āsavavippayutto dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-1161\. Āsavavippayuttaṃ dhammaṃ paccayā āsavavippayutto dhammo uppajjati nahetupaccayā—  ahetukaṃ āsavavippayuttaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā āsavavippayuttā khandhā, vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+1161\. Āsavavippayuttaṁ dhammaṁ paccayā āsavavippayutto dhammo uppajjati nahetupaccayā— ahetukaṁ āsavavippayuttaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… (yāva asaññasattā) cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā āsavavippayuttā khandhā, vatthuṁ paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-1162\. Āsavasampayuttañca āsavavippayuttañca dhammaṃ paccayā āsavavippayutto dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1) (Saṃkhittaṃ.)
+1162\. Āsavasampayuttañca āsavavippayuttañca dhammaṁ paccayā āsavavippayutto dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1) (Saṁkhittaṁ.)
 
-[Go to previous page (3.3.3.2.1 Vibhaṅgavāra)](../3.3.3.2.1.md) / [Go to parent page (3.3.3.2.1 Vibhaṅgavāra)](../3.3.3.2.1.md) / [Go to next page (3.3.3.2.2 Saṅkhyāvāra)](../3.3.3.2.2.md)
-
+[Go to previous page (3.3.3.2.1 Vibhaṅgavāra)](../3.3.3.2.1.md) / [Go to parent page (3.3.3.2.1 Vibhaṅgavāra)](../3.3.3.2.1.md) / [Go to next page (3.3.3.2.2 Saṅkhyāvāra)](../3.3.3.2.2.md)
 

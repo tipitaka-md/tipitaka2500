@@ -13,8 +13,7 @@
 
 * Catukka
 
-1781\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme dve, natthiyā satta, vigate satta…pe… .
+1781\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā anantare satta, samanantare satta, upanissaye nava, āsevane tīṇi, kamme dve, natthiyā satta, vigate satta…pe… .
 
 [Go to previous page (Noatthiduka)](../Noatthiduka.md) / [Go to parent page (Noatthiduka)](../Noatthiduka.md) / [Go to next page (Sattaka)](Sattaka.md)
-
 

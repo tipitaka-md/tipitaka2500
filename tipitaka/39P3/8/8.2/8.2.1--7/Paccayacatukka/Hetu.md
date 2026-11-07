@@ -15,38 +15,37 @@
 
 (11.)
 
-1915\. Nīvaraṇiyaṃ kusalaṃ dhammaṃ paṭicca nīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1)
+1915\. Nīvaraṇiyaṁ kusalaṁ dhammaṁ paṭicca nīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1)
 
-1916\. Anīvaraṇiyaṃ kusalaṃ dhammaṃ paṭicca anīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1916\. Anīvaraṇiyaṁ kusalaṁ dhammaṁ paṭicca anīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (12.)
 
-1917\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1917\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1918\. (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
+1918\. (Sahajātavāropi…pe… pañhāvāropi vitthāretabbā.)
 
 (13.)
 
-1919\. Nīvaraṇiyaṃ akusalaṃ dhammaṃ paṭicca nīvaraṇiyo akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1919\. Nīvaraṇiyaṁ akusalaṁ dhammaṁ paṭicca nīvaraṇiyo akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (14.)
 
-1920\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1920\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1921\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1921\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (15.)
 
-1922\. Nīvaraṇiyaṃ abyākataṃ dhammaṃ paṭicca nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1)
+1922\. Nīvaraṇiyaṁ abyākataṁ dhammaṁ paṭicca nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1)
 
-1923\. Anīvaraṇiyaṃ abyākataṃ dhammaṃ paṭicca anīvaraṇiyo abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+1923\. Anīvaraṇiyaṁ abyākataṁ dhammaṁ paṭicca anīvaraṇiyo abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-1924\. Nīvaraṇiyaṃ abyākatañca anīvaraṇiyaṃ abyākatañca dhammaṃ paṭicca nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1924\. Nīvaraṇiyaṁ abyākatañca anīvaraṇiyaṁ abyākatañca dhammaṁ paṭicca nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (16.)
 
-1925\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  vipāke pañca…pe…  avigate pañca. (Saṃkhittaṃ.) (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
+1925\. Hetuyā pañca, ārammaṇe dve…pe… āsevane ekaṁ…pe… vipāke pañca…pe… avigate pañca. (Saṁkhittaṁ.) (Sahajātavāropi…pe… pañhāvāropi vitthāretabbā.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.3 Nīvaraṇasampayuttaduka, Kusalattika)](../../../8.3.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (8.3 Nīvaraṇasampayuttaduka, Kusalattika)](../../../8.3.md)
 

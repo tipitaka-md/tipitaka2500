@@ -17,10 +17,9 @@
 
 (189.)
 
-514\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa indriyapaccayena paccayo…  tīṇi.
+514\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa indriyapaccayena paccayo… tīṇi.
 
-515\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa indriyapaccayena paccayo—  nahetu ahetukā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo.
+515\. Nahetu ahetuko dhammo nahetuahetukassa dhammassa indriyapaccayena paccayo— nahetu ahetukā indriyā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe… . Rūpajīvitindriyaṁ— kaṭattārūpānaṁ indriyapaccayena paccayo.
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
 

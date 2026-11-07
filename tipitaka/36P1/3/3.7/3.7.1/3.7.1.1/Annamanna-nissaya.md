@@ -15,8 +15,7 @@
 
 (52.)
 
-1915\. Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa aññamaññapaccayena paccayo…  nissayapaccayena paccayo. (Aññamaññampi nissayampi sahajātapaccayasadisaṃ.)
+1915\. Sukhāya vedanāya sampayutto dhammo sukhāya vedanāya sampayuttassa dhammassa aññamaññapaccayena paccayo… nissayapaccayena paccayo. (Aññamaññampi nissayampi sahajātapaccayasadisaṁ.)
 
-[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (3.7.1.1 Vibhaṅgavāra)](../3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

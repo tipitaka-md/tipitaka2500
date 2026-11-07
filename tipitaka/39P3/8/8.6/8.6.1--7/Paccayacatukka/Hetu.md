@@ -15,36 +15,31 @@
 
 (31.)
 
-1949\. Nīvaraṇavippayuttaṃ nīvaraṇiyaṃ kusalaṃ dhammaṃ paṭicca nīvaraṇavippayutto nīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1)
+1949\. Nīvaraṇavippayuttaṁ nīvaraṇiyaṁ kusalaṁ dhammaṁ paṭicca nīvaraṇavippayutto nīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1)
 
-1950\. Nīvaraṇavippayuttaṃ anīvaraṇiyaṃ kusalaṃ dhammaṃ paṭicca nīvaraṇavippayutto anīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1950\. Nīvaraṇavippayuttaṁ anīvaraṇiyaṁ kusalaṁ dhammaṁ paṭicca nīvaraṇavippayutto anīvaraṇiyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (32.)
 
-1951\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1951\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1952\. (Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
+1952\. (Sahajātavāropi…pe… pañhāvāropi vitthāretabbā.)
 
 (33.)
 
-1953\. Nīvaraṇavippayuttaṃ nīvaraṇiyaṃ abyākataṃ dhammaṃ paṭicca nīvaraṇavippayutto nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1)
+1953\. Nīvaraṇavippayuttaṁ nīvaraṇiyaṁ abyākataṁ dhammaṁ paṭicca nīvaraṇavippayutto nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1)
 
-1954\. Nīvaraṇavippayuttaṃ anīvaraṇiyaṃ abyākataṃ dhammaṃ paṭicca nīvaraṇavippayutto anīvaraṇiyo abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+1954\. Nīvaraṇavippayuttaṁ anīvaraṇiyaṁ abyākataṁ dhammaṁ paṭicca nīvaraṇavippayutto anīvaraṇiyo abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-1955\. Nīvaraṇavippayuttaṃ nīvaraṇiyaṃ abyākatañca nīvaraṇavippayuttaṃ anīvaraṇiyaṃ abyākatañca dhammaṃ paṭicca nīvaraṇavippayutto nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1955\. Nīvaraṇavippayuttaṁ nīvaraṇiyaṁ abyākatañca nīvaraṇavippayuttaṁ anīvaraṇiyaṁ abyākatañca dhammaṁ paṭicca nīvaraṇavippayutto nīvaraṇiyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (34.)
 
-1956\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ, vipāke pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+1956\. Hetuyā pañca, ārammaṇe dve…pe… āsevane ekaṁ, vipāke pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-1957\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
+1957\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāretabbaṁ.)
 
----
+1958\. Nīvaraṇagocchakakusalattikaṁ niṭṭhitaṁ.
 
-1958\. Nīvaraṇagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (9 Parāmāsagocchaka, Kusalattika)](../../../../9.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (9 Parāmāsagocchaka, Kusalattika)](../../../../9.md)
 

@@ -17,12 +17,11 @@
 
 (68.)
 
-4224\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa hetupaccayena paccayo—  dassanena pahātabbahetukā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Dassanena pahātabbahetukā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Dassanena pahātabbahetukā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+4224\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa hetupaccayena paccayo— dassanena pahātabbahetukā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (Mūlaṁ kātabbaṁ.) Dassanena pahātabbahetukā hetū cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo. (Mūlaṁ kātabbaṁ.) Dassanena pahātabbahetukā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
 (69.)
 
-4225\. Nadassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa hetupaccayena paccayo—  nadassanena pahātabbahetukā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo, vicikicchāsahagato moho cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Vicikicchāsahagato moho sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Vicikicchāsahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+4225\. Nadassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa hetupaccayena paccayo— nadassanena pahātabbahetukā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo, vicikicchāsahagato moho cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṁ kātabbaṁ.) Vicikicchāsahagato moho sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (Mūlaṁ kātabbaṁ.) Vicikicchāsahagato moho sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
-[Go to previous page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

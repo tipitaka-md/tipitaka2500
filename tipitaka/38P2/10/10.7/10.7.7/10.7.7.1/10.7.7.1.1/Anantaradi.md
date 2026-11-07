@@ -17,8 +17,7 @@
 
 (260.)
 
-2959\. Cittasahabhū dhammo cittasahabhussa dhammassa anantarapaccayena paccayo…  nava (cittasamuṭṭhānadukasadisaṃ, ninnānākaraṇaṃ)…  samanantarapaccayena paccayo…  nava (paṭiccasadisā)…  sahajātapaccayena paccayo…  nava (paṭiccasadisā)…  aññamaññapaccayena paccayo…  nava (paṭiccasadisā)…  nissayapaccayena paccayo…  nava (paccayavārasadisā)…  upanissayapaccayena paccayo…  nava. (Cittasamuṭṭhānadukasadisā.)
+2959\. Cittasahabhū dhammo cittasahabhussa dhammassa anantarapaccayena paccayo… nava (cittasamuṭṭhānadukasadisaṁ, ninnānākaraṇaṁ)… samanantarapaccayena paccayo… nava (paṭiccasadisā)… sahajātapaccayena paccayo… nava (paṭiccasadisā)… aññamaññapaccayena paccayo… nava (paṭiccasadisā)… nissayapaccayena paccayo… nava (paccayavārasadisā)… upanissayapaccayena paccayo… nava. (Cittasamuṭṭhānadukasadisā.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

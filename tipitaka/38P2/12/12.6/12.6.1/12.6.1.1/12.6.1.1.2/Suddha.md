@@ -17,8 +17,7 @@
 
 (83.)
 
-4026\. Hetuyā nava, ārammaṇe nava (sabbattha nava), kamme nava, āhāre nava…pe…  avigate nava.
+4026\. Hetuyā nava, ārammaṇe nava (sabbattha nava), kamme nava, āhāre nava…pe… avigate nava.
 
-[Go to previous page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md) / [Go to parent page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md) / [Go to next page (12.6.1.2 Paccayapaccanīya)](../../12.6.1.2.md)
-
+[Go to previous page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md) / [Go to parent page (12.6.1.1.2 Saṅkhyāvāra)](../12.6.1.1.2.md) / [Go to next page (12.6.1.2 Paccayapaccanīya)](../../12.6.1.2.md)
 

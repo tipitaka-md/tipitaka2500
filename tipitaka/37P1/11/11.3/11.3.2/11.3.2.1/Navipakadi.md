@@ -15,10 +15,9 @@
 
 (33.)
 
-1534\. Ācayagāmiṃ dhammaṃ paccayā ācayagāmī dhammo uppajjati navipākapaccayā. (Paripuṇṇaṃ kātabbaṃ, paṭisandhikkhaṇe natthi.)
+1534\. Ācayagāmiṁ dhammaṁ paccayā ācayagāmī dhammo uppajjati navipākapaccayā. (Paripuṇṇaṁ kātabbaṁ, paṭisandhikkhaṇe natthi.)
 
-1535\. Nevācayagāmināpacayagāmiṃ dhammaṃ paccayā nevācayagāmināpacayagāmī dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  naindriyapaccayā—  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  mahābhūte paccayā rūpajīvitindriyaṃ…  najhānapaccayā—  pañcaviññāṇaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ…pe…  namaggapaccayā—  ahetukā nevācayagāmināpacayagāmī…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā nevācayagāmināpacayagāmī…pe…  nasampayuttapaccayā…  navippayuttapaccayā (paṭiccavārasadisaṃ, tīṇi)…  nonatthipaccayā…  novigatapaccayā.
+1535\. Nevācayagāmināpacayagāmiṁ dhammaṁ paccayā nevācayagāmināpacayagāmī dhammo uppajjati naāhārapaccayā— bāhiraṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… naindriyapaccayā— bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… mahābhūte paccayā rūpajīvitindriyaṁ… najhānapaccayā— pañcaviññāṇaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ…pe… namaggapaccayā— ahetukā nevācayagāmināpacayagāmī…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā nevācayagāmināpacayagāmī…pe… nasampayuttapaccayā… navippayuttapaccayā (paṭiccavārasadisaṁ, tīṇi)… nonatthipaccayā… novigatapaccayā.
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to next page (11.3.2.2 Saṅkhyāvāra)](../11.3.2.2.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to next page (11.3.2.2 Saṅkhyāvāra)](../11.3.2.2.md)
 

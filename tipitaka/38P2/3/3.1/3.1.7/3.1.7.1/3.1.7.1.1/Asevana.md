@@ -17,8 +17,7 @@
 
 (30.)
 
-1049\. Āsavo dhammo āsavassa dhammassa āsevanapaccayena paccayo…  nava.
+1049\. Āsavo dhammo āsavassa dhammassa āsevanapaccayena paccayo… nava.
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../3.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../3.1.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

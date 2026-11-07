@@ -15,8 +15,7 @@
 
 (10.)
 
-2643\. Paccuppanno dhammo paccuppannassa dhammassa pacchājātapaccayena paccayo—  pacchājātā paccuppannā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
+2643\. Paccuppanno dhammo paccuppannassa dhammassa pacchājātapaccayena paccayo— pacchājātā paccuppannā khandhā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (1)
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 

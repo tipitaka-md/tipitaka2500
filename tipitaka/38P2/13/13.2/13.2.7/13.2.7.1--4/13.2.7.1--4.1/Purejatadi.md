@@ -17,16 +17,15 @@
 
 (44.)
 
-4160\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha nabhāvanāya pahātabbo rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati; nabhāvanāya pahātabbaṃ domanassaṃ uppajjati, dibbena cakkhunā rūpaṃ passati…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu nabhāvanāya pahātabbānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+4160\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… vipassati assādeti abhinandati, taṁ ārabbha nabhāvanāya pahātabbo rāgo uppajjati, diṭṭhi uppajjati, vicikicchā uppajjati; nabhāvanāya pahātabbaṁ domanassaṁ uppajjati, dibbena cakkhunā rūpaṁ passati…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… . Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu nabhāvanāya pahātabbānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-4161\. Nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṃ uppajjati, bhāvanāya pahātabbaṃ domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu bhāvanāya pahātabbānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+4161\. Nabhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ assādeti abhinandati, taṁ ārabbha bhāvanāya pahātabbo rāgo uppajjati, uddhaccaṁ uppajjati, bhāvanāya pahātabbaṁ domanassaṁ uppajjati. Vatthupurejātaṁ— vatthu bhāvanāya pahātabbānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
 (45.)
 
-4162\. Pacchājātapaccayena paccayo…  dve, āsevanapaccayena paccayo…  dve, kammapaccayena paccayo—  bhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Bhāvanāya pahātabbā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Bhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+4162\. Pacchājātapaccayena paccayo… dve, āsevanapaccayena paccayo… dve, kammapaccayena paccayo— bhāvanāya pahātabbā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Bhāvanāya pahātabbā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Bhāvanāya pahātabbā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-4163\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  nabhāvanāya pahātabbā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  nabhāvanāya pahātabbā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo…  vipākapaccayena paccayo…  ekaṃ…pe…  avigatapaccayena paccayo. (Sabbapaccayā dassanadukasadisā, bhāvanā ninnānākaraṇā.)
+4163\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— nabhāvanāya pahātabbā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— nabhāvanāya pahātabbā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo… vipākapaccayena paccayo… ekaṁ…pe… avigatapaccayena paccayo. (Sabbapaccayā dassanadukasadisā, bhāvanā ninnānākaraṇā.)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to next page (13.2.7.1.2 Saṅkhyāvāra)](../13.2.7.1.2.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to next page (13.2.7.1.2 Saṅkhyāvāra)](../13.2.7.1.2.md)
 

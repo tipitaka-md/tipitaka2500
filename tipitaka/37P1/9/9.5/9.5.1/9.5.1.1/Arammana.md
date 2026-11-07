@@ -15,8 +15,7 @@
 
 (61.)
 
-926\. Dassanena pahātabbaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbo dhammo uppajjati ārammaṇapaccayā. (Sabbāni padāni vitthāretabbāni tīṇi, tīṇi.)
+926\. Dassanena pahātabbaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbo dhammo uppajjati ārammaṇapaccayā. (Sabbāni padāni vitthāretabbāni tīṇi, tīṇi.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (9.5.1.1 Vibhaṅgavāra)](../9.5.1.1.md) / [Go to next page (9.5.1.2 Saṅkhyāvāra)](../9.5.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (9.5.1.1 Vibhaṅgavāra)](../9.5.1.1.md) / [Go to next page (9.5.1.2 Saṅkhyāvāra)](../9.5.1.2.md)
 

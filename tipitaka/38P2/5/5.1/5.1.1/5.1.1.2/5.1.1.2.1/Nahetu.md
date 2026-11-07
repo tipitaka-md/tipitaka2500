@@ -17,8 +17,7 @@
 
 (5.)
 
-1625\. Noganthaṃ dhammaṃ paṭicca nogantho dhammo uppajjati nahetupaccayā—  ahetukaṃ noganthaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe (yāva asaññasattā), vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+1625\. Noganthaṁ dhammaṁ paṭicca nogantho dhammo uppajjati nahetupaccayā— ahetukaṁ noganthaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe (yāva asaññasattā), vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (5.1.1.2.1 Vibhaṅgavāra)](../5.1.1.2.1.md) / [Go to parent page (5.1.1.2.1 Vibhaṅgavāra)](../5.1.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
-
+[Go to previous page (5.1.1.2.1 Vibhaṅgavāra)](../5.1.1.2.1.md) / [Go to parent page (5.1.1.2.1 Vibhaṅgavāra)](../5.1.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
 

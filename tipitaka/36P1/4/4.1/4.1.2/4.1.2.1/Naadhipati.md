@@ -15,10 +15,9 @@
 
 (32.)
 
-2105\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+2105\. Vipākaṁ dhammaṁ paṭicca vipāko dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
-2106\. (Yathā anulomaṃ sahajātasadisaṃ.)
+2106\. (Yathā anulomaṁ sahajātasadisaṁ.)
 
-[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
-
+[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Naanantarādi)](Naanantaradi.md)
 

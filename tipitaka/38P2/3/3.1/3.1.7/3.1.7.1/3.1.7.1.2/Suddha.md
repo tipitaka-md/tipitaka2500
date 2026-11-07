@@ -17,14 +17,9 @@
 
 (40.)
 
-1071\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke ekaṃ, āhāre tīṇi…pe…  magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
+1071\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke ekaṁ, āhāre tīṇi…pe… magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava.
 
----
+1072\. Anulomaṁ.
 
-1072\. Anulomaṃ.
-
-
-
-[Go to previous page (3.1.7.1.2 Saṅkhyāvāra)](../3.1.7.1.2.md) / [Go to parent page (3.1.7.1.2 Saṅkhyāvāra)](../3.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (3.1.7.1.2 Saṅkhyāvāra)](../3.1.7.1.2.md) / [Go to parent page (3.1.7.1.2 Saṅkhyāvāra)](../3.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

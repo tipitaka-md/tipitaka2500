@@ -17,12 +17,11 @@
 
 (285.)
 
-3023\. Cittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ paṭicca nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittasaṃsaṭṭhasamuṭṭhāne khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (1)
+3023\. Cittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ paṭicca nocittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— cittasaṁsaṭṭhasamuṭṭhāne khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (1)
 
-3024\. Nocittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ paṭicca nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cittaṃ paṭicca kaṭattārūpaṃ, cittaṃ paṭicca vatthu, ekaṃ mahābhūtaṃ…pe… . (Yāva asaññasattā.) (1)
+3024\. Nocittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ paṭicca nocittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— cittaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe cittaṁ paṭicca kaṭattārūpaṁ, cittaṁ paṭicca vatthu, ekaṁ mahābhūtaṁ…pe… . (Yāva asaññasattā.) (1)
 
-3025\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paṭicca nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā—  cittasaṃsaṭṭhasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cittasaṃsaṭṭhasamuṭṭhāne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (Paṭisandhikkhaṇe dve, saṃkhittaṃ.) (1)
+3025\. Cittasaṁsaṭṭhasamuṭṭhānañca nocittasaṁsaṭṭhasamuṭṭhānañca dhammaṁ paṭicca nocittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati naārammaṇapaccayā— cittasaṁsaṭṭhasamuṭṭhāne khandhe ca cittañca paṭicca cittasamuṭṭhānaṁ rūpaṁ, cittasaṁsaṭṭhasamuṭṭhāne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (Paṭisandhikkhaṇe dve, saṁkhittaṁ.) (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.9.1.2.1 Vibhaṅgavāra)](../10.9.1.2.1.md) / [Go to next page (10.9.1.2.2 Saṅkhyāvāra)](../10.9.1.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.9.1.2.1 Vibhaṅgavāra)](../10.9.1.2.1.md) / [Go to next page (10.9.1.2.2 Saṅkhyāvāra)](../10.9.1.2.2.md)
 

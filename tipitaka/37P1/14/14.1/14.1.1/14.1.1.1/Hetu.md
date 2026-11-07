@@ -15,12 +15,11 @@
 
 (1.)
 
-2157\. Parittārammaṇaṃ dhammaṃ paṭicca parittārammaṇo dhammo uppajjati hetupaccayā—  parittārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. Paṭisandhikkhaṇe parittārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+2157\. Parittārammaṇaṁ dhammaṁ paṭicca parittārammaṇo dhammo uppajjati hetupaccayā— parittārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. Paṭisandhikkhaṇe parittārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. (1)
 
-2158\. Mahaggatārammaṇaṃ dhammaṃ paṭicca mahaggatārammaṇo dhammo uppajjati hetupaccayā—  mahaggatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. Paṭisandhikkhaṇe mahaggatārammaṇaṃ…pe… . (1)
+2158\. Mahaggatārammaṇaṁ dhammaṁ paṭicca mahaggatārammaṇo dhammo uppajjati hetupaccayā— mahaggatārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. Paṭisandhikkhaṇe mahaggatārammaṇaṁ…pe… . (1)
 
-2159\. Appamāṇārammaṇaṃ dhammaṃ paṭicca appamāṇārammaṇo dhammo uppajjati hetupaccayā—  appamāṇārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhā. (1)
+2159\. Appamāṇārammaṇaṁ dhammaṁ paṭicca appamāṇārammaṇo dhammo uppajjati hetupaccayā— appamāṇārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhā. (1)
 
-[Go to previous page (14.1.1.1 Vibhaṅgavāra)](../14.1.1.1.md) / [Go to parent page (14.1.1.1 Vibhaṅgavāra)](../14.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
-
+[Go to previous page (14.1.1.1 Vibhaṅgavāra)](../14.1.1.1.md) / [Go to parent page (14.1.1.1 Vibhaṅgavāra)](../14.1.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 

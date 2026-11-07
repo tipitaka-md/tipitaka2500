@@ -15,8 +15,7 @@
 
 (22.)
 
-2504\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati namaggapaccayā—  ahetukaṃ upādinnupādāniyaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…  pañca.
+2504\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati namaggapaccayā— ahetukaṁ upādinnupādāniyaṁ ekaṁ khandhaṁ paṭicca tayo khandhā… pañca.
 
-[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
-
+[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
 

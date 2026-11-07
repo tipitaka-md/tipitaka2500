@@ -15,14 +15,9 @@
 
 (34.)
 
-1536\. Nahetuyā cattāri, naārammaṇe pañca, naadhipatiyā dvādasa, naanantare pañca, nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane ekādasa, nakamme satta, navipāke sattarasa, naāhāre naindriye najhāne namagge ekaṃ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā novigate pañca. (Evaṃ gaṇetabbaṃ.)
+1536\. Nahetuyā cattāri, naārammaṇe pañca, naadhipatiyā dvādasa, naanantare pañca, nasamanantare naaññamaññe naupanissaye pañca, napurejāte satta, napacchājāte sattarasa, naāsevane ekādasa, nakamme satta, navipāke sattarasa, naāhāre naindriye najhāne namagge ekaṁ, nasampayutte pañca, navippayutte tīṇi, nonatthiyā novigate pañca. (Evaṁ gaṇetabbaṁ.)
 
----
+1537\. Paccanīyaṁ.
 
-1537\. Paccanīyaṃ.
-
-
-
-[Go to previous page (11.3.2.2 Saṅkhyāvāra)](../11.3.2.2.md) / [Go to parent page (11.3.2.2 Saṅkhyāvāra)](../11.3.2.2.md) / [Go to next page (11.3.3 Paccayānulomapaccanīya)](../../11.3.3.md)
-
+[Go to previous page (11.3.2.2 Saṅkhyāvāra)](../11.3.2.2.md) / [Go to parent page (11.3.2.2 Saṅkhyāvāra)](../11.3.2.2.md) / [Go to next page (11.3.3 Paccayānulomapaccanīya)](../../11.3.3.md)
 

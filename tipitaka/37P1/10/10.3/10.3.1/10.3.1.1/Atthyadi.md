@@ -15,8 +15,7 @@
 
 (50.)
 
-1206\. Dassanena pahātabbahetukaṃ dhammaṃ paccayā dassanena pahātabbahetuko dhammo uppajjati atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+1206\. Dassanena pahātabbahetukaṁ dhammaṁ paccayā dassanena pahātabbahetuko dhammo uppajjati atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā.
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.3.1.1 Vibhaṅgavāra)](../10.3.1.1.md) / [Go to next page (10.3.1.2 Saṅkhyāvāra)](../10.3.1.2.md)
-
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (10.3.1.1 Vibhaṅgavāra)](../10.3.1.1.md) / [Go to next page (10.3.1.2 Saṅkhyāvāra)](../10.3.1.2.md)
 

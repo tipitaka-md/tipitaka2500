@@ -25,11 +25,11 @@
 
 (21.)
 
-66\. Kusalo nahetu dhammo kusalassa nahetussa dhammassa adhipatipaccayena paccayo. Kusalo nahetu dhammo akusalassa nahetussa dhammassa adhipatipaccayena paccayo. Kusalo nahetu dhammo abyākatassa nahetussa dhammassa adhipatipaccayena paccayo. Kusalo nahetu dhammo kusalassa nahetussa ca abyākatassa nahetussa ca dhammassa adhipatipaccayena paccayo…  cattāri.
+66\. Kusalo nahetu dhammo kusalassa nahetussa dhammassa adhipatipaccayena paccayo. Kusalo nahetu dhammo akusalassa nahetussa dhammassa adhipatipaccayena paccayo. Kusalo nahetu dhammo abyākatassa nahetussa dhammassa adhipatipaccayena paccayo. Kusalo nahetu dhammo kusalassa nahetussa ca abyākatassa nahetussa ca dhammassa adhipatipaccayena paccayo… cattāri.
 
-67\. Akusalo nahetu dhammo akusalassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+67\. Akusalo nahetu dhammo akusalassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
-68\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa adhipatipaccayena paccayo. Abyākato nahetu dhammo kusalassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+68\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa adhipatipaccayena paccayo. Abyākato nahetu dhammo kusalassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
 (22.)
 
@@ -37,8 +37,7 @@
 
 70\. Akusalo nahetu dhammo akusalassa nahetussa dhammassa anantarapaccayena paccayo. Akusalo nahetu dhammo abyākatassa nahetussa dhammassa anantarapaccayena paccayo. (2)
 
-71\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa anantarapaccayena paccayo…  tīṇi…pe… .
+71\. Abyākato nahetu dhammo abyākatassa nahetussa dhammassa anantarapaccayena paccayo… tīṇi…pe… .
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
 

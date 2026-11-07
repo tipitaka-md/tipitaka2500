@@ -17,8 +17,7 @@
 
 (82.)
 
-4248\. Dassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) Nadassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa pacchājātapaccayena paccayo. (Saṃkhittaṃ.) Dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā nadassanena pahātabbahetukassa dhammassa pacchājātapaccayena paccayo (saṃkhittaṃ)…  āsevanapaccayena paccayo.
+4248\. Dassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) Nadassanena pahātabbahetuko dhammo nadassanena pahātabbahetukassa dhammassa pacchājātapaccayena paccayo. (Saṁkhittaṁ.) Dassanena pahātabbahetuko ca nadassanena pahātabbahetuko ca dhammā nadassanena pahātabbahetukassa dhammassa pacchājātapaccayena paccayo (saṁkhittaṁ)… āsevanapaccayena paccayo.
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (13.3.7.1.1 Vibhaṅgavāra)](../13.3.7.1.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 

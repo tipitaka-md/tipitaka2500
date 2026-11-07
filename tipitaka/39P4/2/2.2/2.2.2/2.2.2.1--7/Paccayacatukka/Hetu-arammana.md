@@ -17,18 +17,17 @@
 
 (5.)
 
-942\. Akusalaṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati hetupaccayā. (1)
+942\. Akusalaṁ ahetukaṁ dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati hetupaccayā. (1)
 
-943\. Abyākataṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati hetupaccayā. (1)
+943\. Abyākataṁ ahetukaṁ dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati hetupaccayā. (1)
 
-944\. Akusalaṃ ahetukañca abyākataṃ ahetukañca dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati hetupaccayā. (1)
+944\. Akusalaṁ ahetukañca abyākataṁ ahetukañca dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati hetupaccayā. (1)
 
-945\. Abyākataṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati ārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+945\. Abyākataṁ ahetukaṁ dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati ārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (6.)
 
-946\. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+946\. Hetuyā tīṇi, ārammaṇe ekaṁ, adhipatiyā ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
-
 

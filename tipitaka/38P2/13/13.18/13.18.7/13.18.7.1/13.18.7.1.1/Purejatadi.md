@@ -17,10 +17,9 @@
 
 (358.)
 
-4824\. Araṇo dhammo araṇassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  vipassati…pe…  dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti, rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu araṇānaṃ khandhānaṃ purejātapaccayena paccayo. Araṇo dhammo saraṇassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  domanassaṃ uppajjati. **Vatthupurejātaṃ**—  vatthu saraṇānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+4824\. Araṇo dhammo araṇassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… vipassati…pe… dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti, rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… . Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu araṇānaṁ khandhānaṁ purejātapaccayena paccayo. Araṇo dhammo saraṇassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ assādeti abhinandati, taṁ ārabbha rāgo uppajjati…pe… domanassaṁ uppajjati. Vatthupurejātaṁ— vatthu saraṇānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-4825\. Pacchājātapaccayena paccayo…  dve…  āsevanapaccayena paccayo…  dve.
+4825\. Pacchājātapaccayena paccayo… dve… āsevanapaccayena paccayo… dve.
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.18.7.1.1 Vibhaṅgavāra)](../13.18.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.18.7.1.1 Vibhaṅgavāra)](../13.18.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

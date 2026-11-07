@@ -15,8 +15,7 @@
 
 (208.)
 
-704\. Kusalaṃ dhammaṃ saṃsaṭṭho kusalo dhammo uppajjati āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā. (Imāni padāni hetupaccayasadisāni.)
+704\. Kusalaṁ dhammaṁ saṁsaṭṭho kusalo dhammo uppajjati āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā. (Imāni padāni hetupaccayasadisāni.)
 
-[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Vipāka)](Vipaka.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

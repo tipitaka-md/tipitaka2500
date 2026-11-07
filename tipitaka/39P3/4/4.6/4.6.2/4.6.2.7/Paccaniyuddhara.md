@@ -15,30 +15,21 @@
 
 (56.)
 
-1697\. Āsavavippayutto sāsavo abyākato dhammo āsavavippayuttassa sāsavassa abyākatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo…  pacchājātapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (Saṃkhittaṃ.)
+1697\. Āsavavippayutto sāsavo abyākato dhammo āsavavippayuttassa sāsavassa abyākatassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo… pacchājātapaccayena paccayo… āhārapaccayena paccayo… indriyapaccayena paccayo. (Saṁkhittaṁ.)
 
 (57.)
 
-1698\. Nahetuyā satta, naārammaṇe satta. (Saṃkhittaṃ.)
+1698\. Nahetuyā satta, naārammaṇe satta. (Saṁkhittaṁ.)
 
-1699\. Hetupaccayā naārammaṇe cattāri. (Saṃkhittaṃ.)
+1699\. Hetupaccayā naārammaṇe cattāri. (Saṁkhittaṁ.)
 
-1700\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+1700\. Nahetupaccayā ārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1701\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1701\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
----
+1702\. Āsavavippayuttasāsavadukakusalattikaṁ niṭṭhitaṁ.
 
-1702\. Āsavavippayuttasāsavadukakusalattikaṃ niṭṭhitaṃ.
+1703\. Āsavagocchakaṁ niṭṭhitaṁ.
 
-
-
----
-
-1703\. Āsavagocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (4.6.2.7 Pañhāvāra)](../4.6.2.7.md) / [Go to next page (5 Saññojanagocchaka, Kusalattika)](../../../../5.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md) / [Go to parent page (4.6.2.7 Pañhāvāra)](../4.6.2.7.md) / [Go to next page (5 Saññojanagocchaka, Kusalattika)](../../../../5.md)
 

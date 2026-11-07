@@ -15,8 +15,7 @@
 
 (90.)
 
-1014\. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa vipākapaccayena paccayo—  vipāko nevadassanena nabhāvanāya pahātabbo eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo.
+1014\. Nevadassanena nabhāvanāya pahātabbo dhammo nevadassanena nabhāvanāya pahātabbassa dhammassa vipākapaccayena paccayo— vipāko nevadassanena nabhāvanāya pahātabbo eko khandho tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa vipākapaccayena paccayo.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

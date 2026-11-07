@@ -17,8 +17,7 @@
 
 (104.)
 
-1846\. Gantho ceva ganthaniyo ca dhammo ganthassa ceva ganthaniyassa ca dhammassa hetupaccayena paccayo—  ganthā hetū sampayuttakānaṃ ganthānaṃ hetupaccayena paccayo. (Evaṃ nava pañhā vitthāretabbā.)
+1846\. Gantho ceva ganthaniyo ca dhammo ganthassa ceva ganthaniyassa ca dhammassa hetupaccayena paccayo— ganthā hetū sampayuttakānaṁ ganthānaṁ hetupaccayena paccayo. (Evaṁ nava pañhā vitthāretabbā.)
 
-[Go to previous page (5.4.7.1--4.1 Vibhaṅgavāra)](../5.4.7.1--4.1.md) / [Go to parent page (5.4.7.1--4.1 Vibhaṅgavāra)](../5.4.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (5.4.7.1--4.1 Vibhaṅgavāra)](../5.4.7.1--4.1.md) / [Go to parent page (5.4.7.1--4.1 Vibhaṅgavāra)](../5.4.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

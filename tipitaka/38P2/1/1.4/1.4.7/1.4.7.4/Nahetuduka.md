@@ -15,17 +15,9 @@
 
 (157.)
 
-436\. Nahetupaccayā ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane nava, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, natthiyā nava, vigate nava, avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+436\. Nahetupaccayā ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane nava, kamme tīṇi, vipāke tīṇi, āhāre tīṇi, indriye tīṇi, jhāne tīṇi, magge tīṇi, sampayutte tīṇi, atthiyā tīṇi, natthiyā nava, vigate nava, avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+437\. Paccanīyānulomaṁ. Hetusahetukadukaṁ niṭṭhitaṁ.
 
-437\. Paccanīyānulomaṃ.
-
-  
-Hetusahetukadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (1.4.7.4 Paccayapaccanīyānuloma)](../1.4.7.4.md) / [Go to parent page (1.4.7.4 Paccayapaccanīyānuloma)](../1.4.7.4.md) / [Go to next page (1.5 Hetuhetusampayuttaduka)](../../../1.5.md)
-
+[Go to previous page (1.4.7.4 Paccayapaccanīyānuloma)](../1.4.7.4.md) / [Go to parent page (1.4.7.4 Paccayapaccanīyānuloma)](../1.4.7.4.md) / [Go to next page (1.5 Hetuhetusampayuttaduka)](../../../1.5.md)
 

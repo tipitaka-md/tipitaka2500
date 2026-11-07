@@ -15,8 +15,7 @@
 
 * Terasaka (savipāka)
 
-502\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhāre ekaṃ…pe…  avigate ekaṃ.
+502\. Hetupaccayā ārammaṇapaccayā…pe… purejātapaccayā kammapaccayā vipākapaccayā āhāre ekaṁ…pe… avigate ekaṁ.
 
 [Go to previous page (Bāvīsaka (sāsevana))](avisaka_sasevana.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Bāvīsaka (savipāka))](avisaka_savipaka.md)
-
 

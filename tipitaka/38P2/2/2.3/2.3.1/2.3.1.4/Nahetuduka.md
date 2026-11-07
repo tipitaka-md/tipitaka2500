@@ -15,14 +15,9 @@
 
 (25.)
 
-595\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte tīṇi, aññamaññe ekaṃ, nissaye tīṇi, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme tīṇi…pe…  jhāne tīṇi, magge ekaṃ, sampayutte ekaṃ, vippayutte tīṇi, atthiyā tīṇi, natthiyā ekaṃ, vigate ekaṃ, avigate tīṇi.
+595\. Nahetupaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte tīṇi, aññamaññe ekaṁ, nissaye tīṇi, upanissaye ekaṁ, purejāte ekaṁ, āsevane ekaṁ, kamme tīṇi…pe… jhāne tīṇi, magge ekaṁ, sampayutte ekaṁ, vippayutte tīṇi, atthiyā tīṇi, natthiyā ekaṁ, vigate ekaṁ, avigate tīṇi.
 
----
+596\. Paccanīyānulomaṁ.
 
-596\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (2.3.1.4 Paccayapaccanīyānuloma)](../2.3.1.4.md) / [Go to parent page (2.3.1.4 Paccayapaccanīyānuloma)](../2.3.1.4.md) / [Go to next page (2.3.2 Sahajātavāra)](../../2.3.2.md)
-
+[Go to previous page (2.3.1.4 Paccayapaccanīyānuloma)](../2.3.1.4.md) / [Go to parent page (2.3.1.4 Paccayapaccanīyānuloma)](../2.3.1.4.md) / [Go to next page (2.3.2 Sahajātavāra)](../../2.3.2.md)
 

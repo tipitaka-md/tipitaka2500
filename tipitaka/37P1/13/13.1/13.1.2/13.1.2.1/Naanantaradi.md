@@ -15,8 +15,7 @@
 
 (15.)
 
-1912\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā.
+1912\. Parittaṁ dhammaṁ paṭicca paritto dhammo uppajjati naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā.
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 

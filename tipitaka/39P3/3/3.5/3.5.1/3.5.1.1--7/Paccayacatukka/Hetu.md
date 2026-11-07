@@ -17,20 +17,19 @@
 
 (34.)
 
-1534\. Arūpiṃ kusalaṃ dhammaṃ paṭicca arūpī kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1534\. Arūpiṁ kusalaṁ dhammaṁ paṭicca arūpī kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (35.)
 
-1535\. Hetuyā ekaṃ, ārammaṇe ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1535\. Hetuyā ekaṁ, ārammaṇe ekaṁ. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (36.)
 
-1536\. Arūpiṃ akusalaṃ dhammaṃ paṭicca arūpī akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1536\. Arūpiṁ akusalaṁ dhammaṁ paṭicca arūpī akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (37.)
 
-1537\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1537\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.5.2 Abyākatapada)](../../../3.5.2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3.5.2 Abyākatapada)](../../../3.5.2.md)
 

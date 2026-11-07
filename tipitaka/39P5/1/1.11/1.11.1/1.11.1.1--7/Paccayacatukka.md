@@ -15,34 +15,33 @@
 
 (51.)
 
-156\. Kusalaṃ parittaṃ dhammaṃ paṭicca kusalo paritto dhammo uppajjati hetupaccayā. Kusalaṃ parittaṃ dhammaṃ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. Kusalaṃ parittaṃ dhammaṃ paṭicca kusalo paritto ca abyākato paritto ca dhammā uppajjanti hetupaccayā. (3)
+156\. Kusalaṁ parittaṁ dhammaṁ paṭicca kusalo paritto dhammo uppajjati hetupaccayā. Kusalaṁ parittaṁ dhammaṁ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. Kusalaṁ parittaṁ dhammaṁ paṭicca kusalo paritto ca abyākato paritto ca dhammā uppajjanti hetupaccayā. (3)
 
-157\. Akusalaṃ parittaṃ dhammaṃ paṭicca akusalo paritto dhammo uppajjati hetupaccayā…  tīṇi.
+157\. Akusalaṁ parittaṁ dhammaṁ paṭicca akusalo paritto dhammo uppajjati hetupaccayā… tīṇi.
 
-158\. Abyākataṃ parittaṃ dhammaṃ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. (1)
+158\. Abyākataṁ parittaṁ dhammaṁ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. (1)
 
-159\. Kusalaṃ parittañca abyākataṃ parittañca dhammaṃ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. (1)
+159\. Kusalaṁ parittañca abyākataṁ parittañca dhammaṁ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. (1)
 
-160\. Akusalaṃ parittañca abyākataṃ parittañca dhammaṃ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+160\. Akusalaṁ parittañca abyākataṁ parittañca dhammaṁ paṭicca abyākato paritto dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-161\. Hetuyā nava, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+161\. Hetuyā nava, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
-162\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+162\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (52.)
 
-163\. Kusalo paritto dhammo kusalassa parittassa dhammassa hetupaccayena paccayo…  tīṇi.
+163\. Kusalo paritto dhammo kusalassa parittassa dhammassa hetupaccayena paccayo… tīṇi.
 
-164\. Akusalo paritto dhammo akusalassa parittassa dhammassa hetupaccayena paccayo…  tīṇi.
+164\. Akusalo paritto dhammo akusalassa parittassa dhammassa hetupaccayena paccayo… tīṇi.
 
 165\. Abyākato paritto dhammo abyākatassa parittassa dhammassa hetupaccayena paccayo. (1)
 
-166\. Kusalo paritto dhammo kusalassa parittassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+166\. Kusalo paritto dhammo kusalassa parittassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
-167\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe…  avigate terasa. (Saṃkhittaṃ.)
+167\. Hetuyā satta, ārammaṇe nava, adhipatiyā nava…pe… avigate terasa. (Saṁkhittaṁ.)
 
-168\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+168\. (Yathā kusalattike pañhāvāraṁ evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.11.1.1--7 Paṭiccādivāra)](../1.11.1.1--7.md) / [Go to parent page (1.11.1.1--7 Paṭiccādivāra)](../1.11.1.1--7.md) / [Go to next page (1.11.2 Mahaggatādipada)](../../1.11.2.md)
-
+[Go to previous page (1.11.1.1--7 Paṭiccādivāra)](../1.11.1.1--7.md) / [Go to parent page (1.11.1.1--7 Paṭiccādivāra)](../1.11.1.1--7.md) / [Go to next page (1.11.2 Mahaggatādipada)](../../1.11.2.md)
 

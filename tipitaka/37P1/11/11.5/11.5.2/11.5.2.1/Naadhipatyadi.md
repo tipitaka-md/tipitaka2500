@@ -15,10 +15,9 @@
 
 (41.)
 
-1551\. Ācayagāmiṃ dhammaṃ saṃsaṭṭho ācayagāmī dhammo uppajjati naadhipatipaccayā…  napurejātapaccayā…  napacchājātapaccayā…  naāsevanapaccayā…  ācayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… .
+1551\. Ācayagāmiṁ dhammaṁ saṁsaṭṭho ācayagāmī dhammo uppajjati naadhipatipaccayā… napurejātapaccayā… napacchājātapaccayā… naāsevanapaccayā… ācayagāmiṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… .
 
-1552\. Nevācayagāmināpacayagāmiṃ dhammaṃ saṃsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā—  nevācayagāmināpacayagāmiṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe…  paṭisandhikkhaṇe…pe…  nakammapaccayā…  navipākapaccayā…  najhānapaccayā…  namaggapaccayā…  navippayuttapaccayā.
+1552\. Nevācayagāmināpacayagāmiṁ dhammaṁ saṁsaṭṭho nevācayagāmināpacayagāmī dhammo uppajjati naāsevanapaccayā— nevācayagāmināpacayagāmiṁ ekaṁ khandhaṁ saṁsaṭṭhā…pe… paṭisandhikkhaṇe…pe… nakammapaccayā… navipākapaccayā… najhānapaccayā… namaggapaccayā… navippayuttapaccayā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.5.2.1 Vibhaṅgavāra)](../11.5.2.1.md) / [Go to next page (11.5.2.2 Saṅkhyāvāra)](../11.5.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (11.5.2.1 Vibhaṅgavāra)](../11.5.2.1.md) / [Go to next page (11.5.2.2 Saṅkhyāvāra)](../11.5.2.2.md)
 

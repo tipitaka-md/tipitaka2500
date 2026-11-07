@@ -13,10 +13,9 @@
 
 (169.)
 
-597\. Purejātapaccayā nahetuyā cattāri, naadhipatiyā satta, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, najhāne ekaṃ, namagge ekaṃ.
+597\. Purejātapaccayā nahetuyā cattāri, naadhipatiyā satta, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta, najhāne ekaṁ, namagge ekaṁ.
 
-598\. Purejātapaccayā hetupaccayā…pe… .
+598\. Purejātapaccayā hetupaccayā…pe… .
 
-[Go to previous page (Upanissayaduka)](Upanissayaduka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Āsevanaduka)](Asevanaduka.md)
-
+[Go to previous page (Upanissayaduka)](Upanissayaduka.md) / [Go to parent page (2.3.3 Paccayānulomapaccanīya)](../2.3.3.md) / [Go to next page (Āsevanaduka)](Asevanaduka.md)
 

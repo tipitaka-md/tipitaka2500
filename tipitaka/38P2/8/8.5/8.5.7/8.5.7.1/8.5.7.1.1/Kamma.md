@@ -17,8 +17,7 @@
 
 (104.)
 
-2117\. Nīvaraṇasampayutto ceva no ca nīvaraṇo dhammo nīvaraṇasampayuttassa ceva no ca nīvaraṇassa dhammassa kammapaccayena paccayo—  nīvaraṇasampayuttā ceva no ca nīvaraṇā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Nīvaraṇasampayuttā ceva no ca nīvaraṇā cetanā sampayuttakānaṃ nīvaraṇānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Nīvaraṇasampayuttā ceva no ca nīvaraṇā cetanā sampayuttakānaṃ khandhānaṃ nīvaraṇānañca kammapaccayena paccayo. (3)
+2117\. Nīvaraṇasampayutto ceva no ca nīvaraṇo dhammo nīvaraṇasampayuttassa ceva no ca nīvaraṇassa dhammassa kammapaccayena paccayo— nīvaraṇasampayuttā ceva no ca nīvaraṇā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Nīvaraṇasampayuttā ceva no ca nīvaraṇā cetanā sampayuttakānaṁ nīvaraṇānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Nīvaraṇasampayuttā ceva no ca nīvaraṇā cetanā sampayuttakānaṁ khandhānaṁ nīvaraṇānañca kammapaccayena paccayo. (3)
 
-[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Adhipatyādi)](Adhipatyadi.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

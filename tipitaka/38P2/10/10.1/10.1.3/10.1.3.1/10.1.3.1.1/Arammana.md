@@ -17,12 +17,11 @@
 
 (16.)
 
-2353\. Sārammaṇaṃ dhammaṃ paccayā sārammaṇo dhammo uppajjati ārammaṇapaccayā—  sārammaṇaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+2353\. Sārammaṇaṁ dhammaṁ paccayā sārammaṇo dhammo uppajjati ārammaṇapaccayā— sārammaṇaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2354\. Anārammaṇaṃ dhammaṃ paccayā sārammaṇo dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā sārammaṇā khandhā; paṭisandhikkhaṇe…pe… . (1)
+2354\. Anārammaṇaṁ dhammaṁ paccayā sārammaṇo dhammo uppajjati ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā sārammaṇā khandhā; paṭisandhikkhaṇe…pe… . (1)
 
-2355\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  kāyaviññāṇasahagataṃ…pe…  sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  (Saṃkhittaṃ.) (1)
+2355\. Sārammaṇañca anārammaṇañca dhammaṁ paccayā sārammaṇo dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe… dve khandhe ca…pe… kāyaviññāṇasahagataṁ…pe… sārammaṇaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… paṭisandhikkhaṇe…pe… (Saṁkhittaṁ.) (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.1.3.1.1 Vibhaṅgavāra)](../10.1.3.1.1.md) / [Go to next page (10.1.3.1.2 Saṅkhyāvāra)](../10.1.3.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.1.3.1.1 Vibhaṅgavāra)](../10.1.3.1.1.md) / [Go to next page (10.1.3.1.2 Saṅkhyāvāra)](../10.1.3.1.2.md)
 

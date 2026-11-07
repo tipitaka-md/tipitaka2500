@@ -15,8 +15,7 @@
 
 (78.)
 
-972\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṃ.)
+972\. Dassanena pahātabbo dhammo dassanena pahātabbassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṁ.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (9.7.1.1 Vibhaṅgavāra)](../9.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

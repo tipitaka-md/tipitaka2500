@@ -15,8 +15,7 @@
 
 357\. Nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā naaññamaññapaccayā naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā.
 
-358\. (Yāvāsevanā sabbaṃ sadisaṃ, nakamme gaṇite pañca pañhā honti.)
+358\. (Yāvāsevanā sabbaṁ sadisaṁ, nakamme gaṇite pañca pañhā honti.)
 
 [Go to previous page (Sattaka)](Sattaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
-
 

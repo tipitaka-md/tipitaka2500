@@ -17,8 +17,7 @@
 
 (25.)
 
-178\. Hetupaccayā ārammaṇapaccayā…pe…  āsevanapaccayā kammapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigate tīṇi…pe… .
+178\. Hetupaccayā ārammaṇapaccayā…pe… āsevanapaccayā kammapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigate tīṇi…pe… .
 
-[Go to previous page (Dvādasaka)](Ganana+hetumulaka/Dvadasaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](Ganana+hetumulaka.md) / [Go to next page (Terasaka)](Ganana+hetumulaka/Terasaka.md)
-
+[Go to previous page (Dvādasaka)](Ganana+hetumulaka/Dvadasaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](Ganana+hetumulaka.md) / [Go to next page (Terasaka)](Ganana+hetumulaka/Terasaka.md)
 

@@ -17,8 +17,7 @@
 
 (119.)
 
-1291\. Āsavañceva āsavasampayuttaṃ dhammaṃ paṭicca āsavo ceva āsavasampayutto ca dhammo uppajjati naadhipatipaccayā (nahetumūlakaṃ natthi), napurejātapaccayā, napacchājātapaccayā. (Saṃkhittaṃ.)
+1291\. Āsavañceva āsavasampayuttaṁ dhammaṁ paṭicca āsavo ceva āsavasampayutto ca dhammo uppajjati naadhipatipaccayā (nahetumūlakaṁ natthi), napurejātapaccayā, napacchājātapaccayā. (Saṁkhittaṁ.)
 
-[Go to previous page (3.5.1.2.1 Vibhaṅgavāra)](../3.5.1.2.1.md) / [Go to parent page (3.5.1.2.1 Vibhaṅgavāra)](../3.5.1.2.1.md) / [Go to next page (3.5.1.2.2 Saṅkhyāvāra)](../3.5.1.2.2.md)
-
+[Go to previous page (3.5.1.2.1 Vibhaṅgavāra)](../3.5.1.2.1.md) / [Go to parent page (3.5.1.2.1 Vibhaṅgavāra)](../3.5.1.2.1.md) / [Go to next page (3.5.1.2.2 Saṅkhyāvāra)](../3.5.1.2.2.md)
 

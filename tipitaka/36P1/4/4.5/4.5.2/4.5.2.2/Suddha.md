@@ -15,16 +15,11 @@
 
 (86.)
 
-2258\. Nahetuyā tīṇi, na adhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne ekaṃ, namagge dve, navippayutte tīṇi.
+2258\. Nahetuyā tīṇi, na adhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne ekaṁ, namagge dve, navippayutte tīṇi.
 
-2259\. (Yathā kusalattike paccanīyagaṇanā, evaṃ gaṇetabbaṃ.)
+2259\. (Yathā kusalattike paccanīyagaṇanā, evaṁ gaṇetabbaṁ.)
 
----
+2260\. Paccanīyaṁ.
 
-2260\. Paccanīyaṃ.
-
-
-
-[Go to previous page (4.5.2.2 Saṅkhyāvāra)](../4.5.2.2.md) / [Go to parent page (4.5.2.2 Saṅkhyāvāra)](../4.5.2.2.md) / [Go to next page (4.5.3 Paccayānulomapaccanīya)](../../4.5.3.md)
-
+[Go to previous page (4.5.2.2 Saṅkhyāvāra)](../4.5.2.2.md) / [Go to parent page (4.5.2.2 Saṅkhyāvāra)](../4.5.2.2.md) / [Go to next page (4.5.3 Paccayānulomapaccanīya)](../../4.5.3.md)
 

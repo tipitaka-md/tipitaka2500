@@ -17,16 +17,15 @@
 
 (99.)
 
-332\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo…  satta.
+332\. Savitakkasavicāro nahetu dhammo savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo… satta.
 
-333\. Avitakkavicāramatto nahetu dhammo avitakkavicāramattassa nahetussa dhammassa adhipatipaccayena paccayo…  pañca.
+333\. Avitakkavicāramatto nahetu dhammo avitakkavicāramattassa nahetussa dhammassa adhipatipaccayena paccayo… pañca.
 
-334\. Avitakkaavicāro nahetu dhammo avitakkaavicārassa nahetussa dhammassa adhipatipaccayena paccayo…  pañca.
+334\. Avitakkaavicāro nahetu dhammo avitakkaavicārassa nahetussa dhammassa adhipatipaccayena paccayo… pañca.
 
-335\. Avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+335\. Avitakkavicāramatto nahetu ca avitakkaavicāro nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
-336\. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo…  tīṇi.
+336\. Savitakkasavicāro nahetu ca avitakkavicāramatto nahetu ca dhammā savitakkasavicārassa nahetussa dhammassa adhipatipaccayena paccayo… tīṇi.
 
 [Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
 

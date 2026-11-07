@@ -17,18 +17,17 @@
 
 (125.)
 
-2621\. Cetasiko dhammo cetasikassa dhammassa anantarapaccayena paccayo—  purimā purimā cetasikā khandhā pacchimānaṃ pacchimānaṃ cetasikānaṃ khandhānaṃ anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimā purimā cetasikā khandhā pacchimassa pacchimassa cittassa anantarapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Purimā purimā cetasikā khandhā pacchimānaṃ pacchimānaṃ cetasikānaṃ khandhānaṃ cittassa ca anantarapaccayena paccayo. (3)
+2621\. Cetasiko dhammo cetasikassa dhammassa anantarapaccayena paccayo— purimā purimā cetasikā khandhā pacchimānaṁ pacchimānaṁ cetasikānaṁ khandhānaṁ anantarapaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Purimā purimā cetasikā khandhā pacchimassa pacchimassa cittassa anantarapaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Purimā purimā cetasikā khandhā pacchimānaṁ pacchimānaṁ cetasikānaṁ khandhānaṁ cittassa ca anantarapaccayena paccayo. (3)
 
 (126.)
 
-2622\. Acetasiko dhammo acetasikassa dhammassa anantarapaccayena paccayo—  purimaṃ purimaṃ cittaṃ pacchimassa pacchimassa cittassa anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe…  phalasamāpattiyā anantarapaccayena paccayo. (1)
+2622\. Acetasiko dhammo acetasikassa dhammassa anantarapaccayena paccayo— purimaṁ purimaṁ cittaṁ pacchimassa pacchimassa cittassa anantarapaccayena paccayo; anulomaṁ gotrabhussa…pe… phalasamāpattiyā anantarapaccayena paccayo. (1)
 
-2623\. Acetasiko dhammo cetasikassa dhammassa anantarapaccayena paccayo. (Evaṃ tīṇi kātabbāni, paṭhamagamanasadisaṃ. Pūritvā kātabbaṃ, ninnānākaraṇaṃ.)
+2623\. Acetasiko dhammo cetasikassa dhammassa anantarapaccayena paccayo. (Evaṁ tīṇi kātabbāni, paṭhamagamanasadisaṁ. Pūritvā kātabbaṁ, ninnānākaraṇaṁ.)
 
-2624\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa anantarapaccayena paccayo…  tīṇi. (Āvajjanāpi vuṭṭhānampi natthi.)
+2624\. Cetasiko ca acetasiko ca dhammā cetasikassa dhammassa anantarapaccayena paccayo… tīṇi. (Āvajjanāpi vuṭṭhānampi natthi.)
 
-2625\. Samanantarapaccayena paccayo…  nava, sahajātapaccayena paccayo…  nava (paṭiccavārasadisaṃ), aññamaññapaccayena paccayo…  nava (paṭiccavārasadisaṃ), nissayapaccayena paccayo…  nava. (Paccayavārasadisaṃ.)
+2625\. Samanantarapaccayena paccayo… nava, sahajātapaccayena paccayo… nava (paṭiccavārasadisaṁ), aññamaññapaccayena paccayo… nava (paṭiccavārasadisaṁ), nissayapaccayena paccayo… nava. (Paccayavārasadisaṁ.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.3.7.1.1 Vibhaṅgavāra)](../10.3.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

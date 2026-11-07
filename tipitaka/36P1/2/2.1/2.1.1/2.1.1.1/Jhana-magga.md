@@ -15,8 +15,7 @@
 
 (15.)
 
-163\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati jhānapaccayā…  maggapaccayā. (Jhānapaccayampi maggapaccayampi hetupaccayasadisaṃ.)
+163\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati jhānapaccayā… maggapaccayā. (Jhānapaccayampi maggapaccayampi hetupaccayasadisaṁ.)
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Sampayutta)](Sampayutta.md)
-
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Sampayutta)](Sampayutta.md)
 

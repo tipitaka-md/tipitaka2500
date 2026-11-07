@@ -17,10 +17,9 @@
 
 (63.)
 
-2245\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa hetupaccayena paccayo—  parāmāsasampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Parāmāsasampayuttā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (Mūlaṃ kātabbaṃ.) Parāmāsasampayuttā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+2245\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa hetupaccayena paccayo— parāmāsasampayuttā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (Mūlaṁ kātabbaṁ.) Parāmāsasampayuttā hetū cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo. (Mūlaṁ kātabbaṁ.) Parāmāsasampayuttā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
-2246\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa hetupaccayena paccayo—  parāmāsavippayuttā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+2246\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa hetupaccayena paccayo— parāmāsavippayuttā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

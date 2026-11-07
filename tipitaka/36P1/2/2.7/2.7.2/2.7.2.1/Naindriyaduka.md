@@ -15,7 +15,7 @@
 
 (408.)
 
-1240\. Naindriyapaccayā nahetuyā pannarasa, naārammaṇe pannarasa…pe…  noavigate nava…pe… .
+1240\. Naindriyapaccayā nahetuyā pannarasa, naārammaṇe pannarasa…pe… noavigate nava…pe… .
 
 * [Catukka](Naindriyaduka/Catukka.md)
 * [Aṭṭhaka](Naindriyaduka/Atthaka.md)
@@ -25,6 +25,5 @@
 * [Pannarasaka](Naindriyaduka/Pannarasaka.md)
 * [Ekavīsaka](Naindriyaduka/Ekavisaka.md)
 
-[Go to previous page (Aṭṭhārasaka)](Naaharaduka/Attharasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Naindriyaduka/Catukka.md)
-
+[Go to previous page (Aṭṭhārasaka)](Naaharaduka/Attharasaka.md) / [Go to parent page (2.7.2.1 Saṅkhyāvāra)](../2.7.2.1.md) / [Go to next page (Catukka)](Naindriyaduka/Catukka.md)
 

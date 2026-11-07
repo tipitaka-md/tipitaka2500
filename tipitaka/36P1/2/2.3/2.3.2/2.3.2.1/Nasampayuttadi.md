@@ -15,14 +15,9 @@
 
 (150.)
 
-543\. Nasampayuttapaccayā…  navippayuttapaccayā…  nonatthipaccayā…  kusalaṃ dhammaṃ paccayā abyākato dhammo uppajjati novigatapaccayā—  kusale khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ.
+543\. Nasampayuttapaccayā… navippayuttapaccayā… nonatthipaccayā… kusalaṁ dhammaṁ paccayā abyākato dhammo uppajjati novigatapaccayā— kusale khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ.
 
----
+544\. (Yathā paṭiccavāre, evaṁ vitthāretabbaṁ.)
 
-544\. (Yathā paṭiccavāre, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Naāhārādi)](Naaharadi.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md)
-
+[Go to previous page (Naāhārādi)](Naaharadi.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md)
 

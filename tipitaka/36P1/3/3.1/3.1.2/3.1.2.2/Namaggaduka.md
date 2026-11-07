@@ -15,11 +15,10 @@
 
 (23.)
 
-1848\. Namaggapaccayā nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, navippayutte ekaṃ.
+1848\. Namaggapaccayā nahetuyā tīṇi, naadhipatiyā tīṇi, napurejāte ekaṁ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, navippayutte ekaṁ.
 
 * [Tika](Namaggaduka/Tika.md)
 * [Pañcaka](Namaggaduka/Pancaka.md)
 
-[Go to previous page (Chakka)](Najhanaduka/Chakka.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Tika)](Namaggaduka/Tika.md)
-
+[Go to previous page (Chakka)](Najhanaduka/Chakka.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Tika)](Namaggaduka/Tika.md)
 

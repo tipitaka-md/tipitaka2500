@@ -17,8 +17,7 @@
 
 (268.)
 
-4654\. Naarūpāvacaraṃ dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati nahetupaccayā—  ahetukaṃ naarūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1) Naārammaṇapaccayā…  tīṇi.
+4654\. Naarūpāvacaraṁ dhammaṁ paṭicca naarūpāvacaro dhammo uppajjati nahetupaccayā— ahetukaṁ naarūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1) Naārammaṇapaccayā… tīṇi.
 
-[Go to previous page (13.13.1.2.1 Vibhaṅgavāra)](../13.13.1.2.1.md) / [Go to parent page (13.13.1.2.1 Vibhaṅgavāra)](../13.13.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (13.13.1.2.1 Vibhaṅgavāra)](../13.13.1.2.1.md) / [Go to parent page (13.13.1.2.1 Vibhaṅgavāra)](../13.13.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

@@ -15,14 +15,9 @@
 
 (9.)
 
-989\. Nahetupaccayā ārammaṇe dve, anantare dve…pe…  vipāke ekaṃ…pe…  magge ekaṃ…pe…  avigate dve.
+989\. Nahetupaccayā ārammaṇe dve, anantare dve…pe… vipāke ekaṁ…pe… magge ekaṁ…pe… avigate dve.
 
----
+990\. Paccanīyānulomaṁ.
 
-990\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (3.1.1.4 Paccayapaccanīyānuloma)](../3.1.1.4.md) / [Go to parent page (3.1.1.4 Paccayapaccanīyānuloma)](../3.1.1.4.md) / [Go to next page (3.1.2 Sahajātavāra)](../../3.1.2.md)
-
+[Go to previous page (3.1.1.4 Paccayapaccanīyānuloma)](../3.1.1.4.md) / [Go to parent page (3.1.1.4 Paccayapaccanīyānuloma)](../3.1.1.4.md) / [Go to next page (3.1.2 Sahajātavāra)](../../3.1.2.md)
 

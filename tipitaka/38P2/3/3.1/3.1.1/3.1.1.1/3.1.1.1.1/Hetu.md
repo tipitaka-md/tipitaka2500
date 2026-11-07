@@ -17,28 +17,27 @@
 
 (1.)
 
-969\. Āsavaṃ dhammaṃ paṭicca āsavo dhammo uppajjati hetupaccayā—  kāmāsavaṃ paṭicca diṭṭhāsavo avijjāsavo, diṭṭhāsavaṃ paṭicca kāmāsavo avijjāsavo, avijjāsavaṃ paṭicca kāmāsavo diṭṭhāsavo, bhavāsavaṃ paṭicca avijjāsavo, diṭṭhāsavaṃ paṭicca avijjāsavo. (Ekekampi cakkaṃ kātabbaṃ.) (1)
+969\. Āsavaṁ dhammaṁ paṭicca āsavo dhammo uppajjati hetupaccayā— kāmāsavaṁ paṭicca diṭṭhāsavo avijjāsavo, diṭṭhāsavaṁ paṭicca kāmāsavo avijjāsavo, avijjāsavaṁ paṭicca kāmāsavo diṭṭhāsavo, bhavāsavaṁ paṭicca avijjāsavo, diṭṭhāsavaṁ paṭicca avijjāsavo. (Ekekampi cakkaṁ kātabbaṁ.) (1)
 
-970\. Āsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati hetupaccayā—  āsavaṃ paṭicca āsavasampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (2)
+970\. Āsavaṁ dhammaṁ paṭicca noāsavo dhammo uppajjati hetupaccayā— āsavaṁ paṭicca āsavasampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ. (2)
 
-971\. Āsavaṃ dhammaṃ paṭicca āsavo ca noāsavo ca dhammā uppajjanti hetupaccayā—  kāmāsavaṃ paṭicca diṭṭhāsavo avijjāsavo sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṃ. (Cakkaṃ.) (3)
+971\. Āsavaṁ dhammaṁ paṭicca āsavo ca noāsavo ca dhammā uppajjanti hetupaccayā— kāmāsavaṁ paṭicca diṭṭhāsavo avijjāsavo sampayuttakā ca khandhā cittasamuṭṭhānañca rūpaṁ. (Cakkaṁ.) (3)
 
 (2.)
 
-972\. Noāsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati hetupaccayā—  noāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+972\. Noāsavaṁ dhammaṁ paṭicca noāsavo dhammo uppajjati hetupaccayā— noāsavaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānaṁ rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-973\. Noāsavaṃ dhammaṃ paṭicca āsavo dhammo uppajjati hetupaccayā—  noāsave khandhe paṭicca āsavā. (2)
+973\. Noāsavaṁ dhammaṁ paṭicca āsavo dhammo uppajjati hetupaccayā— noāsave khandhe paṭicca āsavā. (2)
 
-974\. Noāsavaṃ dhammaṃ paṭicca āsavo ca noāsavo ca dhammā uppajjanti hetupaccayā—  noāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā āsavā ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+974\. Noāsavaṁ dhammaṁ paṭicca āsavo ca noāsavo ca dhammā uppajjanti hetupaccayā— noāsavaṁ ekaṁ khandhaṁ paṭicca tayo khandhā āsavā ca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (3.)
 
-975\. Āsavañca noāsavañca dhammaṃ paṭicca āsavo dhammo uppajjati hetupaccayā—  kāmāsavañca sampayuttake ca khandhe paṭicca diṭṭhāsavo avijjāsavo. (Cakkaṃ bandhitabbaṃ.) (1)
+975\. Āsavañca noāsavañca dhammaṁ paṭicca āsavo dhammo uppajjati hetupaccayā— kāmāsavañca sampayuttake ca khandhe paṭicca diṭṭhāsavo avijjāsavo. (Cakkaṁ bandhitabbaṁ.) (1)
 
-976\. Āsavañca noāsavañca dhammaṃ paṭicca noāsavo dhammo uppajjati hetupaccayā—  noāsavaṃ ekaṃ khandhañca āsave ca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (2)
+976\. Āsavañca noāsavañca dhammaṁ paṭicca noāsavo dhammo uppajjati hetupaccayā— noāsavaṁ ekaṁ khandhañca āsave ca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (2)
 
-977\. Āsavañca noāsavañca dhammaṃ paṭicca āsavo ca noāsavo ca dhammā uppajjanti hetupaccayā—  noāsavaṃ ekaṃ khandhañca kāmāsavañca paṭicca tayo khandhā diṭṭhāsavo avijjāsavo cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe ca…pe… . (Cakkaṃ. Saṃkhittaṃ.) (3)
+977\. Āsavañca noāsavañca dhammaṁ paṭicca āsavo ca noāsavo ca dhammā uppajjanti hetupaccayā— noāsavaṁ ekaṁ khandhañca kāmāsavañca paṭicca tayo khandhā diṭṭhāsavo avijjāsavo cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe ca…pe… . (Cakkaṁ. Saṁkhittaṁ.) (3)
 
-[Go to previous page (3.1.1.1.1 Vibhaṅgavāra)](../3.1.1.1.1.md) / [Go to parent page (3.1.1.1.1 Vibhaṅgavāra)](../3.1.1.1.1.md) / [Go to next page (3.1.1.1.2 Saṅkhyāvāra)](../3.1.1.1.2.md)
-
+[Go to previous page (3.1.1.1.1 Vibhaṅgavāra)](../3.1.1.1.1.md) / [Go to parent page (3.1.1.1.1 Vibhaṅgavāra)](../3.1.1.1.1.md) / [Go to next page (3.1.1.1.2 Saṅkhyāvāra)](../3.1.1.1.2.md)
 

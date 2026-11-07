@@ -19,14 +19,13 @@
 
 1749\. Saññojanavippayutto akusalo dhammo saññojanasampayuttassa akusalassa dhammassa hetupaccayena paccayo. (1)
 
-1750\. Saññojanasampayutto akusalo dhammo saññojanasampayuttassa akusalassa dhammassa ārammaṇapaccayena paccayo…  nava.
+1750\. Saññojanasampayutto akusalo dhammo saññojanasampayuttassa akusalassa dhammassa ārammaṇapaccayena paccayo… nava.
 
-1751\. Saññojanasampayutto akusalo dhammo saññojanasampayuttassa akusalassa dhammassa adhipatipaccayena paccayo. (1) (Saṃkhittaṃ.)
+1751\. Saññojanasampayutto akusalo dhammo saññojanasampayuttassa akusalassa dhammassa adhipatipaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (26.)
 
-1752\. Hetuyā dve, ārammaṇe nava, adhipatiyā ekaṃ, anantare samanantare nava, sahajāte aññamaññe nissaye pañca, upanissaye āsevane nava, kamme tīṇi, āhāre indriye jhāne magge tīṇi, sampayutte pañca, atthiyā pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+1752\. Hetuyā dve, ārammaṇe nava, adhipatiyā ekaṁ, anantare samanantare nava, sahajāte aññamaññe nissaye pañca, upanissaye āsevane nava, kamme tīṇi, āhāre indriye jhāne magge tīṇi, sampayutte pañca, atthiyā pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-[Go to previous page (5.3.1.7 Pañhāvāra)](../5.3.1.7.md) / [Go to parent page (5.3.1.7 Pañhāvāra)](../5.3.1.7.md) / [Go to next page (5.3.2 Abyākatapada)](../../5.3.2.md)
-
+[Go to previous page (5.3.1.7 Pañhāvāra)](../5.3.1.7.md) / [Go to parent page (5.3.1.7 Pañhāvāra)](../5.3.1.7.md) / [Go to next page (5.3.2 Abyākatapada)](../../5.3.2.md)
 

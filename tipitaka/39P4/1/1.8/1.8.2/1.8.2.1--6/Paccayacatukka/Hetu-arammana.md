@@ -17,26 +17,25 @@
 
 (118.)
 
-406\. Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca dassanena pahātabbo nahetu dhammo uppajjati hetupaccayā. Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca dassanena pahātabbo nahetu ca nevadassanena nabhāvanāya pahātabbo nahetu ca dhammā uppajjanti hetupaccayā…  tīṇi.
+406\. Dassanena pahātabbaṁ nahetuṁ dhammaṁ paṭicca dassanena pahātabbo nahetu dhammo uppajjati hetupaccayā. Dassanena pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. Dassanena pahātabbaṁ nahetuṁ dhammaṁ paṭicca dassanena pahātabbo nahetu ca nevadassanena nabhāvanāya pahātabbo nahetu ca dhammā uppajjanti hetupaccayā… tīṇi.
 
-407\. Bhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca bhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. Bhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. Bhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca bhāvanāya pahātabbo nahetu ca nevadassanena nabhāvanāya pahātabbo nahetu ca dhammā uppajjanti hetupaccayā…  tīṇi.
+407\. Bhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca bhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. Bhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. Bhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca bhāvanāya pahātabbo nahetu ca nevadassanena nabhāvanāya pahātabbo nahetu ca dhammā uppajjanti hetupaccayā… tīṇi.
 
-408\. Nevadassanena nabhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. (1)
+408\. Nevadassanena nabhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. (1)
 
-409\. Dassanena pahātabbaṃ nahetuñca nevadassanena nabhāvanāya pahātabbaṃ nahetuñca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. (1)
+409\. Dassanena pahātabbaṁ nahetuñca nevadassanena nabhāvanāya pahātabbaṁ nahetuñca dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. (1)
 
-410\. Bhāvanāya pahātabbaṃ nahetuñca nevadassanena nabhāvanāya pahātabbaṃ nahetuñca dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. (1)
+410\. Bhāvanāya pahātabbaṁ nahetuñca nevadassanena nabhāvanāya pahātabbaṁ nahetuñca dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati hetupaccayā. (1)
 
-411\. Dassanena pahātabbaṃ nahetuṃ dhammaṃ paṭicca dassanena pahātabbo nahetu dhammo uppajjati ārammaṇapaccayā. (1)
+411\. Dassanena pahātabbaṁ nahetuṁ dhammaṁ paṭicca dassanena pahātabbo nahetu dhammo uppajjati ārammaṇapaccayā. (1)
 
-412\. Bhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca bhāvanāya pahātabbo nahetu dhammo uppajjati ārammaṇapaccayā. (1)
+412\. Bhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca bhāvanāya pahātabbo nahetu dhammo uppajjati ārammaṇapaccayā. (1)
 
-413\. Nevadassanena nabhāvanāya pahātabbaṃ nahetuṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati ārammaṇapaccayā. (Saṃkhittaṃ.)
+413\. Nevadassanena nabhāvanāya pahātabbaṁ nahetuṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo nahetu dhammo uppajjati ārammaṇapaccayā. (Saṁkhittaṁ.)
 
 (119.)
 
-414\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe…  vipāke ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+414\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā nava…pe… vipāke ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naārammaṇa)](Nahetu-naarammana.md)
-
 

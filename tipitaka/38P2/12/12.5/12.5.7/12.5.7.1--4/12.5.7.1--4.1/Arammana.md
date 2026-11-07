@@ -17,12 +17,11 @@
 
 (76.)
 
-4009\. Kileso ceva saṃkilesiko ca dhammo kilesassa ceva saṃkilesikassa ca dhammassa ārammaṇapaccayena paccayo—  kilese ārabbha kilesā uppajjanti. (Mūlaṃ kātabbaṃ.) Kilese ārabbha saṃkilesikā ceva no ca kilesā khandhā uppajjanti. (Mūlaṃ kātabbaṃ.) Kilese ārabbha kilesā ca sampayuttakā ca khandhā uppajjanti. (3)
+4009\. Kileso ceva saṁkilesiko ca dhammo kilesassa ceva saṁkilesikassa ca dhammassa ārammaṇapaccayena paccayo— kilese ārabbha kilesā uppajjanti. (Mūlaṁ kātabbaṁ.) Kilese ārabbha saṁkilesikā ceva no ca kilesā khandhā uppajjanti. (Mūlaṁ kātabbaṁ.) Kilese ārabbha kilesā ca sampayuttakā ca khandhā uppajjanti. (3)
 
 (77.)
 
-4010\. Saṃkilesiko ceva no ca kileso dhammo saṃkilesikassa ceva no ca kilesassa dhammassa ārammaṇapaccayena paccayo—  dānaṃ…pe…  sīlaṃ…pe…  uposathakammaṃ…pe…  pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā jhānaṃ paccavekkhati, assādeti abhinandati, taṃ ārabbha rāgo uppajjati…pe…  uddhaccaṃ uppajjati, jhāne parihīne vippaṭisārissa domanassaṃ uppajjati; ariyā gotrabhuṃ paccavekkhanti, vodānaṃ paccavekkhanti, cakkhuṃ…pe…  vatthuṃ saṃkilesike ceva no ca kilese khandhe aniccato…pe…  domanassaṃ uppajjati; dibbena cakkhunā rūpaṃ passati…pe…  āvajjanāya ārammaṇapaccayena paccayo. (Itare dve kilesadukasadisā, ghaṭanārammaṇāpi kilesadukasadisā.)
+4010\. Saṁkilesiko ceva no ca kileso dhammo saṁkilesikassa ceva no ca kilesassa dhammassa ārammaṇapaccayena paccayo— dānaṁ…pe… sīlaṁ…pe… uposathakammaṁ…pe… pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā jhānaṁ paccavekkhati, assādeti abhinandati, taṁ ārabbha rāgo uppajjati…pe… uddhaccaṁ uppajjati, jhāne parihīne vippaṭisārissa domanassaṁ uppajjati; ariyā gotrabhuṁ paccavekkhanti, vodānaṁ paccavekkhanti, cakkhuṁ…pe… vatthuṁ saṁkilesike ceva no ca kilese khandhe aniccato…pe… domanassaṁ uppajjati; dibbena cakkhunā rūpaṁ passati…pe… āvajjanāya ārammaṇapaccayena paccayo. (Itare dve kilesadukasadisā, ghaṭanārammaṇāpi kilesadukasadisā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.5.7.1--4.1 Vibhaṅgavāra)](../12.5.7.1--4.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (12.5.7.1--4.1 Vibhaṅgavāra)](../12.5.7.1--4.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

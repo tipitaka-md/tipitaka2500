@@ -21,4 +21,3 @@
 
 [Go to previous page (Indriyasabhāga)](Indriyasabhaga.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
-

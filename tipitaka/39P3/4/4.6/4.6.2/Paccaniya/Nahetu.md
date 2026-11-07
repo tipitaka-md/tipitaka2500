@@ -15,14 +15,13 @@
 
 (52.)
 
-1689\. Āsavavippayuttaṃ sāsavaṃ abyākataṃ dhammaṃ paṭicca āsavavippayutto sāsavo abyākato dhammo uppajjati nahetupaccayā. (Saṃkhittaṃ.)
+1689\. Āsavavippayuttaṁ sāsavaṁ abyākataṁ dhammaṁ paṭicca āsavavippayutto sāsavo abyākato dhammo uppajjati nahetupaccayā. (Saṁkhittaṁ.)
 
 (53.)
 
-1690\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā dve …pe…  napurejāte cattāri, napacchājāte naāsevane pañca, nakamme navipāke…pe…  namagge ekaṃ…pe…  navippayutte dve…pe…  novigate tīṇi. (Saṃkhittaṃ.)
+1690\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā dve …pe… napurejāte cattāri, napacchājāte naāsevane pañca, nakamme navipāke…pe… namagge ekaṁ…pe… navippayutte dve…pe… novigate tīṇi. (Saṁkhittaṁ.)
 
-1691\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1691\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (4.6.2.1--6 Paṭiccādivāra)](../4.6.2.1--6.md)
-
+[Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (4.6.2.1--6 Paṭiccādivāra)](../4.6.2.1--6.md)
 

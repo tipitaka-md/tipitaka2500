@@ -15,48 +15,47 @@
 
 (16.)
 
-1833\. Ganthavippayuttaṃ kusalaṃ dhammaṃ paṭicca ganthavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1833\. Ganthavippayuttaṁ kusalaṁ dhammaṁ paṭicca ganthavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (17.)
 
-1834\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1834\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1835\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1835\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (18.)
 
-1836\. Ganthasampayuttaṃ akusalaṃ dhammaṃ paṭicca ganthasampayutto akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+1836\. Ganthasampayuttaṁ akusalaṁ dhammaṁ paṭicca ganthasampayutto akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-1837\. Ganthavippayuttaṃ akusalaṃ dhammaṃ paṭicca ganthavippayutto akusalo dhammo uppajjati hetupaccayā…  dve.
+1837\. Ganthavippayuttaṁ akusalaṁ dhammaṁ paṭicca ganthavippayutto akusalo dhammo uppajjati hetupaccayā… dve.
 
-1838\. Ganthasampayuttaṃ akusalañca ganthavippayuttaṃ akusalañca dhammaṃ paṭicca ganthasampayutto akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1838\. Ganthasampayuttaṁ akusalañca ganthavippayuttaṁ akusalañca dhammaṁ paṭicca ganthasampayutto akusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (19.)
 
-1839\. Hetuyā cha, ārammaṇe cha, adhipatiyā pañca…pe…  avigate cha. (Saṃkhittaṃ.)
+1839\. Hetuyā cha, ārammaṇe cha, adhipatiyā pañca…pe… avigate cha. (Saṁkhittaṁ.)
 
-1840\. Nahetuyā ekaṃ, naadhipatiyā cha, napurejāte cha…pe…  nakamme cattāri, navippayutte cha. (Saṃkhittaṃ.)
+1840\. Nahetuyā ekaṁ, naadhipatiyā cha, napurejāte cha…pe… nakamme cattāri, navippayutte cha. (Saṁkhittaṁ.)
 
-1841\. (Sahajātavāropi…pe…  sampayuttavāropi vitthāretabbā.)
+1841\. (Sahajātavāropi…pe… sampayuttavāropi vitthāretabbā.)
 
 (20.)
 
-1842\. Ganthasampayutto akusalo dhammo ganthasampayuttassa akusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1842\. Ganthasampayutto akusalo dhammo ganthasampayuttassa akusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (21.)
 
-1843\. Hetuyā cha, ārammaṇe nava, adhipatiyā nava, anantare samanantare nava, sahajāte cha…pe…  nissaye cha, upanissaye nava, āsevane nava, kamme cattāri…pe…  magge cattāri, sampayutte cha…pe…  avigate cha. (Saṃkhittaṃ.)
+1843\. Hetuyā cha, ārammaṇe nava, adhipatiyā nava, anantare samanantare nava, sahajāte cha…pe… nissaye cha, upanissaye nava, āsevane nava, kamme cattāri…pe… magge cattāri, sampayutte cha…pe… avigate cha. (Saṁkhittaṁ.)
 
 (22.)
 
-1844\. Ganthavippayuttaṃ abyākataṃ dhammaṃ paṭicca ganthavippayutto abyākato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1844\. Ganthavippayuttaṁ abyākataṁ dhammaṁ paṭicca ganthavippayutto abyākato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (23.)
 
-1845\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1845\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1846\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1846\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6.4 Ganthaganthaniyaduka, Kusalattika)](../../../6.4.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (6.4 Ganthaganthaniyaduka, Kusalattika)](../../../6.4.md)
 

@@ -17,12 +17,11 @@
 
 (100.)
 
-2107\. Nīvaraṇo ceva nīvaraṇasampayutto ca dhammo nīvaraṇassa ceva nīvaraṇasampayuttassa ca dhammassa hetupaccayena paccayo—  nīvaraṇā ceva nīvaraṇasampayuttā ca hetū sampayuttakānaṃ nīvaraṇānaṃ hetupaccayena paccayo. (1)
+2107\. Nīvaraṇo ceva nīvaraṇasampayutto ca dhammo nīvaraṇassa ceva nīvaraṇasampayuttassa ca dhammassa hetupaccayena paccayo— nīvaraṇā ceva nīvaraṇasampayuttā ca hetū sampayuttakānaṁ nīvaraṇānaṁ hetupaccayena paccayo. (1)
 
-2108\. Nīvaraṇo ceva nīvaraṇasampayutto ca dhammo nīvaraṇasampayuttassa ceva no ca nīvaraṇassa dhammassa hetupaccayena paccayo—  nīvaraṇā ceva nīvaraṇasampayuttā ca hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
+2108\. Nīvaraṇo ceva nīvaraṇasampayutto ca dhammo nīvaraṇasampayuttassa ceva no ca nīvaraṇassa dhammassa hetupaccayena paccayo— nīvaraṇā ceva nīvaraṇasampayuttā ca hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (2)
 
-2109\. Nīvaraṇo ceva nīvaraṇasampayutto ca dhammo nīvaraṇassa ceva nīvaraṇasampayuttassa ca nīvaraṇasampayuttassa ceva no ca nīvaraṇassa ca dhammassa hetupaccayena paccayo—  nīvaraṇā ceva nīvaraṇasampayuttā ca hetū sampayuttakānaṃ khandhānaṃ nīvaraṇānañca hetupaccayena paccayo. (3)
+2109\. Nīvaraṇo ceva nīvaraṇasampayutto ca dhammo nīvaraṇassa ceva nīvaraṇasampayuttassa ca nīvaraṇasampayuttassa ceva no ca nīvaraṇassa ca dhammassa hetupaccayena paccayo— nīvaraṇā ceva nīvaraṇasampayuttā ca hetū sampayuttakānaṁ khandhānaṁ nīvaraṇānañca hetupaccayena paccayo. (3)
 
-[Go to previous page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to parent page (8.5.7.1.1 Vibhaṅgavāra)](../8.5.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

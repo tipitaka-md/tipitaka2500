@@ -13,16 +13,11 @@
 
 (65.)
 
-3096\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe…  naanantare satta, nasamanantare satta, naaññamaññe satta (idhāpi saṃkhittaṃ), nasampayutte satta, navippayutte ekaṃ, nonatthiyā satta, novigate satta.
+3096\. Hetu sahajāta nissaya atthi avigatanti naārammaṇe satta…pe… naanantare satta, nasamanantare satta, naaññamaññe satta (idhāpi saṁkhittaṁ), nasampayutte satta, navippayutte ekaṁ, nonatthiyā satta, novigate satta.
 
-3097\. Hetu sahajāta aññamañña nissaya atthi avigatanti naārammaṇe ekaṃ (sabbattha ekaṃ), novigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+3097\. Hetu sahajāta aññamañña nissaya atthi avigatanti naārammaṇe ekaṁ (sabbattha ekaṁ), novigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+3098\. Anulomapaccanīyaṁ.
 
-3098\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Hetuduka)](Hetuduka.md) / [Go to parent page (23.7.3 Paccayānulomapaccanīya)](../23.7.3.md) / [Go to next page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md)
-
+[Go to previous page (Hetuduka)](Hetuduka.md) / [Go to parent page (23.7.3 Paccayānulomapaccanīya)](../23.7.3.md) / [Go to next page (23.7.4 Paccayapaccanīyānuloma)](../23.7.4.md)
 

@@ -17,28 +17,27 @@
 
 (92.)
 
-2542\. Cetasikaṃ dhammaṃ paṭicca cetasiko dhammo uppajjati hetupaccayā—  cetasikaṃ ekaṃ khandhaṃ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; paṭisandhikkhaṇe…pe… . (1)
+2542\. Cetasikaṁ dhammaṁ paṭicca cetasiko dhammo uppajjati hetupaccayā— cetasikaṁ ekaṁ khandhaṁ paṭicca dve khandhā, dve khandhe paṭicca eko khandho; paṭisandhikkhaṇe…pe… . (1)
 
-2543\. Cetasikaṃ dhammaṃ paṭicca acetasiko dhammo uppajjati hetupaccayā—  cetasike khandhe paṭicca cittañca cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe cetasike khandhe paṭicca cittañca kaṭattā ca rūpaṃ. (2)
+2543\. Cetasikaṁ dhammaṁ paṭicca acetasiko dhammo uppajjati hetupaccayā— cetasike khandhe paṭicca cittañca cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe cetasike khandhe paṭicca cittañca kaṭattā ca rūpaṁ. (2)
 
-2544\. Cetasikaṃ dhammaṃ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā—  cetasikaṃ ekaṃ khandhaṃ paṭicca dve khandhā cittañca cittasamuṭṭhānañca rūpaṃ, dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (3)
+2544\. Cetasikaṁ dhammaṁ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā— cetasikaṁ ekaṁ khandhaṁ paṭicca dve khandhā cittañca cittasamuṭṭhānañca rūpaṁ, dve khandhe…pe… paṭisandhikkhaṇe…pe… . (3)
 
 (93.)
 
-2545\. Acetasikaṃ dhammaṃ paṭicca acetasiko dhammo uppajjati hetupaccayā—  cittaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cittaṃ paṭicca kaṭattārūpaṃ, cittaṃ paṭicca vatthu, vatthuṃ paṭicca cittaṃ, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ. (1)
+2545\. Acetasikaṁ dhammaṁ paṭicca acetasiko dhammo uppajjati hetupaccayā— cittaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe cittaṁ paṭicca kaṭattārūpaṁ, cittaṁ paṭicca vatthu, vatthuṁ paṭicca cittaṁ, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ. (1)
 
-2546\. Acetasikaṃ dhammaṃ paṭicca cetasiko dhammo uppajjati hetupaccayā—  cittaṃ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe cittaṃ…pe…  paṭisandhikkhaṇe vatthuṃ paṭicca cetasikā khandhā. (2)
+2546\. Acetasikaṁ dhammaṁ paṭicca cetasiko dhammo uppajjati hetupaccayā— cittaṁ paṭicca sampayuttakā khandhā; paṭisandhikkhaṇe cittaṁ…pe… paṭisandhikkhaṇe vatthuṁ paṭicca cetasikā khandhā. (2)
 
-2547\. Acetasikaṃ dhammaṃ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā—  cittaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe cittaṃ…pe…  paṭisandhikkhaṇe vatthuṃ paṭicca cittañca sampayuttakā ca khandhā. (3)
+2547\. Acetasikaṁ dhammaṁ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā— cittaṁ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe cittaṁ…pe… paṭisandhikkhaṇe vatthuṁ paṭicca cittañca sampayuttakā ca khandhā. (3)
 
 (94.)
 
-2548\. Cetasikañca acetasikañca dhammaṃ paṭicca cetasiko dhammo uppajjati hetupaccayā—  cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe…  paṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā, dve khandhe ca…pe… . (1)
+2548\. Cetasikañca acetasikañca dhammaṁ paṭicca cetasiko dhammo uppajjati hetupaccayā— cetasikaṁ ekaṁ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe… paṭisandhikkhaṇe cetasikaṁ ekaṁ khandhañca cittañca paṭicca dve khandhā, dve khandhe ca…pe… paṭisandhikkhaṇe cetasikaṁ ekaṁ khandhañca vatthuñca paṭicca dve khandhā, dve khandhe ca…pe… . (1)
 
-2549\. Cetasikañca acetasikañca dhammaṃ paṭicca acetasiko dhammo uppajjati hetupaccayā—  cetasike khandhe ca cittañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, cetasike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe cetasike khandhe ca cittañca paṭicca kaṭattārūpaṃ, paṭisandhikkhaṇe cetasike khandhe ca mahābhūte ca paṭicca kaṭattārūpaṃ, paṭisandhikkhaṇe cetasike khandhe ca vatthuñca paṭicca cittaṃ. (2)
+2549\. Cetasikañca acetasikañca dhammaṁ paṭicca acetasiko dhammo uppajjati hetupaccayā— cetasike khandhe ca cittañca paṭicca cittasamuṭṭhānaṁ rūpaṁ, cetasike khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe cetasike khandhe ca cittañca paṭicca kaṭattārūpaṁ, paṭisandhikkhaṇe cetasike khandhe ca mahābhūte ca paṭicca kaṭattārūpaṁ, paṭisandhikkhaṇe cetasike khandhe ca vatthuñca paṭicca cittaṁ. (2)
 
-2550\. Cetasikañca acetasikañca dhammaṃ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā—  cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṃ, dve khandhe ca…pe…  paṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṃ, dve khandhe ca…pe…  paṭisandhikkhaṇe cetasikaṃ ekaṃ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe ca vatthuñca paṭicca eko khandho cittañca. (3)
+2550\. Cetasikañca acetasikañca dhammaṁ paṭicca cetasiko ca acetasiko ca dhammā uppajjanti hetupaccayā— cetasikaṁ ekaṁ khandhañca cittañca paṭicca dve khandhā cittasamuṭṭhānañca rūpaṁ, dve khandhe ca…pe… paṭisandhikkhaṇe cetasikaṁ ekaṁ khandhañca cittañca paṭicca dve khandhā kaṭattā ca rūpaṁ, dve khandhe ca…pe… paṭisandhikkhaṇe cetasikaṁ ekaṁ khandhañca vatthuñca paṭicca dve khandhā cittañca, dve khandhe ca vatthuñca paṭicca eko khandho cittañca. (3)
 
-[Go to previous page (10.3.1.1.1 Vibhaṅgavāra)](../10.3.1.1.1.md) / [Go to parent page (10.3.1.1.1 Vibhaṅgavāra)](../10.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.3.1.1.1 Vibhaṅgavāra)](../10.3.1.1.1.md) / [Go to parent page (10.3.1.1.1 Vibhaṅgavāra)](../10.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

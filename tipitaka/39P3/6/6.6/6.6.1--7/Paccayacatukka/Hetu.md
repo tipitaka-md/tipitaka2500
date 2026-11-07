@@ -15,66 +15,61 @@
 
 (38.)
 
-1875\. Ganthavippayuttaṃ ganthaniyaṃ kusalaṃ dhammaṃ paṭicca ganthavippayutto ganthaniyo kusalo dhammo uppajjati hetupaccayā. (1)
+1875\. Ganthavippayuttaṁ ganthaniyaṁ kusalaṁ dhammaṁ paṭicca ganthavippayutto ganthaniyo kusalo dhammo uppajjati hetupaccayā. (1)
 
-1876\. Ganthavippayuttaṃ aganthaniyaṃ kusalaṃ dhammaṃ paṭicca ganthavippayutto aganthaniyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1876\. Ganthavippayuttaṁ aganthaniyaṁ kusalaṁ dhammaṁ paṭicca ganthavippayutto aganthaniyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (39.)
 
-1877\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1877\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1878\. (Sahajātavāropi…pe…  pañhāvāropi sabbattha vitthāretabbā.)
+1878\. (Sahajātavāropi…pe… pañhāvāropi sabbattha vitthāretabbā.)
 
 (40.)
 
-1879\. Ganthavippayuttaṃ ganthaniyaṃ akusalaṃ dhammaṃ paṭicca ganthavippayutto ganthaniyo akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1879\. Ganthavippayuttaṁ ganthaniyaṁ akusalaṁ dhammaṁ paṭicca ganthavippayutto ganthaniyo akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (41.)
 
-1880\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1880\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1881\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1881\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (42.)
 
-1882\. Ganthavippayuttaṃ ganthaniyaṃ abyākataṃ dhammaṃ paṭicca ganthavippayutto ganthaniyo abyākato dhammo uppajjati hetupaccayā. (1)
+1882\. Ganthavippayuttaṁ ganthaniyaṁ abyākataṁ dhammaṁ paṭicca ganthavippayutto ganthaniyo abyākato dhammo uppajjati hetupaccayā. (1)
 
-1883\. Ganthavippayuttaṃ aganthaniyaṃ abyākataṃ dhammaṃ paṭicca ganthavippayutto aganthaniyo abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+1883\. Ganthavippayuttaṁ aganthaniyaṁ abyākataṁ dhammaṁ paṭicca ganthavippayutto aganthaniyo abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-1884\. Ganthavippayuttaṃ ganthaniyaṃ abyākatañca ganthavippayuttaṃ aganthaniyaṃ abyākatañca dhammaṃ paṭicca ganthavippayutto ganthaniyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1884\. Ganthavippayuttaṁ ganthaniyaṁ abyākatañca ganthavippayuttaṁ aganthaniyaṁ abyākatañca dhammaṁ paṭicca ganthavippayutto ganthaniyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (43.)
 
-1885\. Hetuyā pañca, ārammaṇe dve…pe…  vipāke pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+1885\. Hetuyā pañca, ārammaṇe dve…pe… vipāke pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-1886\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1886\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 (44.)
 
 1887\. Ganthavippayutto ganthaniyo abyākato dhammo ganthavippayuttassa ganthaniyassa abyākatassa dhammassa hetupaccayena paccayo. (1)
 
-1888\. Ganthavippayutto aganthaniyo abyākato dhammo ganthavippayuttassa aganthaniyassa abyākatassa dhammassa hetupaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+1888\. Ganthavippayutto aganthaniyo abyākato dhammo ganthavippayuttassa aganthaniyassa abyākatassa dhammassa hetupaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (45.)
 
-1889\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā cattāri, anantare samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte dve, āsevane ekaṃ, kamme…pe…  magge cattāri, sampayutte dve, vippayutte tīṇi…pe…  avigate satta. (Saṃkhittaṃ.)
+1889\. Hetuyā cattāri, ārammaṇe tīṇi, adhipatiyā cattāri, anantare samanantare cattāri, sahajāte pañca, aññamaññe dve, nissaye satta, upanissaye cattāri, purejāte pacchājāte dve, āsevane ekaṁ, kamme…pe… magge cattāri, sampayutte dve, vippayutte tīṇi…pe… avigate satta. (Saṁkhittaṁ.)
 
 (46.)
 
-1890\. Nahetuyā satta, naārammaṇe satta. (Saṃkhittaṃ.)
+1890\. Nahetuyā satta, naārammaṇe satta. (Saṁkhittaṁ.)
 
-1891\. Hetupaccayā naārammaṇe cattāri. (Saṃkhittaṃ.)
+1891\. Hetupaccayā naārammaṇe cattāri. (Saṁkhittaṁ.)
 
-1892\. Nahetupaccayā ārammaṇe tīṇi. (Saṃkhittaṃ.)
+1892\. Nahetupaccayā ārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1893\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1893\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
----
+1894\. Ganthagocchakakusalattikaṁ niṭṭhitaṁ.
 
-1894\. Ganthagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (7 Oghayogagocchaka, Kusalattika)](../../../../7.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (7 Oghayogagocchaka, Kusalattika)](../../../../7.md)
 

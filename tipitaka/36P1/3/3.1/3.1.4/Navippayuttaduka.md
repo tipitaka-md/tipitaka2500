@@ -18,6 +18,5 @@
 * [Tika](Navippayuttaduka/Tika.md)
 * [Dasaka](Navippayuttaduka/Dasaka.md)
 
-[Go to previous page (Namaggaduka)](Namaggaduka.md) / [Go to parent page (3.1.4 Paccayapaccanīyānuloma)](../3.1.4.md) / [Go to next page (Tika)](Navippayuttaduka/Tika.md)
-
+[Go to previous page (Namaggaduka)](Namaggaduka.md) / [Go to parent page (3.1.4 Paccayapaccanīyānuloma)](../3.1.4.md) / [Go to next page (Tika)](Navippayuttaduka/Tika.md)
 

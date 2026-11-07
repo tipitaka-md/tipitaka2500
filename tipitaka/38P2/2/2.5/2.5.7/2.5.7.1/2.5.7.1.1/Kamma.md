@@ -17,12 +17,11 @@
 
 (120.)
 
-816\. Arūpī dhammo arūpissa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  arūpī cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  arūpī cetanā vipākānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+816\. Arūpī dhammo arūpissa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— arūpī cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— arūpī cetanā vipākānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-817\. Arūpī dhammo rūpissa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  arūpī cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  arūpī cetanā kaṭattārūpānaṃ kammapaccayena paccayo. (2)
+817\. Arūpī dhammo rūpissa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— arūpī cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— arūpī cetanā kaṭattārūpānaṁ kammapaccayena paccayo. (2)
 
-818\. Arūpī dhammo rūpissa ca arūpissa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  arūpī cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  arūpī cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+818\. Arūpī dhammo rūpissa ca arūpissa ca dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— arūpī cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— arūpī cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (3)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Vipākāhāra)](Vipakahara.md)
-
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.5.7.1.1 Vibhaṅgavāra)](../2.5.7.1.1.md) / [Go to next page (Vipākāhāra)](Vipakahara.md)
 

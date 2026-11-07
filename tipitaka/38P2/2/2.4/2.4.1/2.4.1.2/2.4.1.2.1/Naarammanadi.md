@@ -17,8 +17,7 @@
 
 (61.)
 
-680\. Sappaṭighaṃ dhammaṃ paṭicca sappaṭigho dhammo uppajjati naārammaṇapaccayā (sabbaṃ saṃkhittaṃ)…  novigatapaccayā.
+680\. Sappaṭighaṁ dhammaṁ paṭicca sappaṭigho dhammo uppajjati naārammaṇapaccayā (sabbaṁ saṁkhittaṁ)… novigatapaccayā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (2.4.1.2.1 Vibhaṅgavāra)](../2.4.1.2.1.md) / [Go to next page (2.4.1.2.2 Saṅkhyāvāra)](../2.4.1.2.2.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (2.4.1.2.1 Vibhaṅgavāra)](../2.4.1.2.1.md) / [Go to next page (2.4.1.2.2 Saṅkhyāvāra)](../2.4.1.2.2.md)
 

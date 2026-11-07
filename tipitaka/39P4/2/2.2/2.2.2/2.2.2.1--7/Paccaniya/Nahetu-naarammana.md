@@ -15,24 +15,23 @@
 
 * Nahetu-naārammaṇa
 
-947\. Abyākataṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati nahetupaccayā. (1)
+947\. Abyākataṁ ahetukaṁ dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati nahetupaccayā. (1)
 
-948\. Akusalaṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati naārammaṇapaccayā. (1)
+948\. Akusalaṁ ahetukaṁ dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati naārammaṇapaccayā. (1)
 
-949\. Abyākataṃ ahetukaṃ dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati naārammaṇapaccayā. (1)
+949\. Abyākataṁ ahetukaṁ dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati naārammaṇapaccayā. (1)
 
-950\. Akusalaṃ ahetukañca abyākataṃ ahetukañca dhammaṃ paṭicca abyākato ahetuko dhammo uppajjati naārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+950\. Akusalaṁ ahetukañca abyākataṁ ahetukañca dhammaṁ paṭicca abyākato ahetuko dhammo uppajjati naārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (7.)
 
-951\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe…  novigate tīṇi. (Saṃkhittaṃ.)
+951\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe… novigate tīṇi. (Saṁkhittaṁ.)
 
-952\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+952\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-953\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+953\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-954\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+954\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
-
 

@@ -15,8 +15,7 @@
 
 * Pannarasaka
 
-1238\. Naāhārapaccayā nahetupaccayā…pe…  napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ…pe… .
+1238\. Naāhārapaccayā nahetupaccayā…pe… napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipāke ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ…pe… .
 
 [Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Naāhāraduka)](../Naaharaduka.md) / [Go to next page (Aṭṭhārasaka)](Attharasaka.md)
-
 

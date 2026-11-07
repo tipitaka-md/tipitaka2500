@@ -25,14 +25,13 @@
 
 13\. Nahetu sahetuko dhammo nahetussa sahetukassa dhammassa ārammaṇapaccayena paccayo. Nahetu sahetuko dhammo hetussa sahetukassa dhammassa ārammaṇapaccayena paccayo. Nahetu sahetuko dhammo hetussa sahetukassa ca nahetussa sahetukassa ca dhammassa ārammaṇapaccayena paccayo. (3)
 
-14\. Hetu sahetuko ca nahetu sahetuko ca dhammā hetussa sahetukassa dhammassa ārammaṇapaccayena paccayo. Hetu sahetuko ca nahetu sahetuko ca dhammā nahetussa sahetukassa dhammassa ārammaṇapaccayena paccayo. Hetu sahetuko ca nahetu sahetuko ca dhammā hetussa sahetukassa ca nahetussa sahetukassa ca dhammassa ārammaṇapaccayena paccayo. (3) (Saṃkhittaṃ.)
+14\. Hetu sahetuko ca nahetu sahetuko ca dhammā hetussa sahetukassa dhammassa ārammaṇapaccayena paccayo. Hetu sahetuko ca nahetu sahetuko ca dhammā nahetussa sahetukassa dhammassa ārammaṇapaccayena paccayo. Hetu sahetuko ca nahetu sahetuko ca dhammā hetussa sahetukassa ca nahetussa sahetukassa ca dhammassa ārammaṇapaccayena paccayo. (3) (Saṁkhittaṁ.)
 
 (8.)
 
-15\. Hetuyā tīṇi, ārammaṇe nava…pe…  upanissaye nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+15\. Hetuyā tīṇi, ārammaṇe nava…pe… upanissaye nava, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-16\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+16\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.1.2 Ahetukapada)](../../../1.1.2.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (1.1.2 Ahetukapada)](../../../1.1.2.md)
 

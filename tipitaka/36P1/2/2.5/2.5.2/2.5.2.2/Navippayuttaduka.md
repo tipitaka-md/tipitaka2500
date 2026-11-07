@@ -15,11 +15,10 @@
 
 (232.)
 
-748\. Navippayuttapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṃ.
+748\. Navippayuttapaccayā nahetuyā dve, naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, namagge ekaṁ.
 
 * [Tika](Navippayuttaduka/Tika.md)
 * [Navaka](Navippayuttaduka/Navaka.md)
 
-[Go to previous page (Namaggaduka)](Namaggaduka.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Tika)](Navippayuttaduka/Tika.md)
-
+[Go to previous page (Namaggaduka)](Namaggaduka.md) / [Go to parent page (2.5.2.2 Saṅkhyāvāra)](../2.5.2.2.md) / [Go to next page (Tika)](Navippayuttaduka/Tika.md)
 

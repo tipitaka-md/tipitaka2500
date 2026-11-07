@@ -15,14 +15,9 @@
 
 (156.)
 
-434\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi. (Saṃkhittaṃ. Sabbattha tīṇi), namagge tīṇi, nonatthiyā tīṇi, novigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+434\. Hetupaccayā naārammaṇe tīṇi, naadhipatiyā tīṇi, naanantare tīṇi, nasamanantare tīṇi, naupanissaye tīṇi. (Saṁkhittaṁ. Sabbattha tīṇi), namagge tīṇi, nonatthiyā tīṇi, novigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+435\. Anulomapaccanīyaṁ.
 
-435\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (1.4.7.3 Paccayānulomapaccanīya)](../1.4.7.3.md) / [Go to parent page (1.4.7.3 Paccayānulomapaccanīya)](../1.4.7.3.md) / [Go to next page (1.4.7.4 Paccayapaccanīyānuloma)](../1.4.7.4.md)
-
+[Go to previous page (1.4.7.3 Paccayānulomapaccanīya)](../1.4.7.3.md) / [Go to parent page (1.4.7.3 Paccayānulomapaccanīya)](../1.4.7.3.md) / [Go to next page (1.4.7.4 Paccayapaccanīyānuloma)](../1.4.7.4.md)
 

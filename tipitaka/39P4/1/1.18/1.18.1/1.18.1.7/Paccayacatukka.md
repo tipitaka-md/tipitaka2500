@@ -17,18 +17,17 @@
 
 801\. Paccuppanno hetu dhammo paccuppannassa hetussa dhammassa hetupaccayena paccayo. (1)
 
-802\. Atīto hetu dhammo paccuppannassa hetussa dhammassa ārammaṇapaccayena paccayo. Anāgato hetu dhammo paccuppannassa hetussa dhammassa ārammaṇapaccayena paccayo. (2) (Saṃkhittaṃ.)
+802\. Atīto hetu dhammo paccuppannassa hetussa dhammassa ārammaṇapaccayena paccayo. Anāgato hetu dhammo paccuppannassa hetussa dhammassa ārammaṇapaccayena paccayo. (2) (Saṁkhittaṁ.)
 
 (211.)
 
-803\. Hetuyā ekaṃ, ārammaṇe dve, adhipatiyā tīṇi…pe…  sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye dve…pe…  vipāke ekaṃ, indriye ekaṃ, magge ekaṃ, sampayutte ekaṃ, atthiyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+803\. Hetuyā ekaṁ, ārammaṇe dve, adhipatiyā tīṇi…pe… sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye dve…pe… vipāke ekaṁ, indriye ekaṁ, magge ekaṁ, sampayutte ekaṁ, atthiyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-804\. Nahetuyā dve, naārammaṇe dve. (Saṃkhittaṃ.)
+804\. Nahetuyā dve, naārammaṇe dve. (Saṁkhittaṁ.)
 
-805\. Hetupaccayā naārammaṇe ekaṃ. (Saṃkhittaṃ.)
+805\. Hetupaccayā naārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-806\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+806\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-[Go to previous page (1.18.1.7 Pañhāvāra)](../1.18.1.7.md) / [Go to parent page (1.18.1.7 Pañhāvāra)](../1.18.1.7.md) / [Go to next page (1.18.2 Nahetupada)](../../1.18.2.md)
-
+[Go to previous page (1.18.1.7 Pañhāvāra)](../1.18.1.7.md) / [Go to parent page (1.18.1.7 Pañhāvāra)](../1.18.1.7.md) / [Go to next page (1.18.2 Nahetupada)](../../1.18.2.md)
 

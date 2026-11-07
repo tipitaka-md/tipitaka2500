@@ -17,14 +17,9 @@
 
 (21.)
 
-586\. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā tīṇi, anantare ekaṃ, samanantare ekaṃ, sahajāte tīṇi, aññamaññe ekaṃ, nissaye tīṇi, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme tīṇi, vipāke tīṇi (sabbattha tīṇi), magge tīṇi, sampayutte ekaṃ, vippayutte tīṇi, atthiyā tīṇi, natthiyā ekaṃ, vigate ekaṃ, avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+586\. Hetuyā tīṇi, ārammaṇe ekaṁ, adhipatiyā tīṇi, anantare ekaṁ, samanantare ekaṁ, sahajāte tīṇi, aññamaññe ekaṁ, nissaye tīṇi, upanissaye ekaṁ, purejāte ekaṁ, āsevane ekaṁ, kamme tīṇi, vipāke tīṇi (sabbattha tīṇi), magge tīṇi, sampayutte ekaṁ, vippayutte tīṇi, atthiyā tīṇi, natthiyā ekaṁ, vigate ekaṁ, avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+587\. Anulomaṁ.
 
-587\. Anulomaṃ.
-
-
-
-[Go to previous page (2.3.1.1.2 Saṅkhyāvāra)](../2.3.1.1.2.md) / [Go to parent page (2.3.1.1.2 Saṅkhyāvāra)](../2.3.1.1.2.md) / [Go to next page (2.3.1.2 Paccayapaccanīya)](../../2.3.1.2.md)
-
+[Go to previous page (2.3.1.1.2 Saṅkhyāvāra)](../2.3.1.1.2.md) / [Go to parent page (2.3.1.1.2 Saṅkhyāvāra)](../2.3.1.1.2.md) / [Go to next page (2.3.1.2 Paccayapaccanīya)](../../2.3.1.2.md)
 

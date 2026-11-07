@@ -17,8 +17,7 @@
 
 (37.)
 
-622\. Anidassano dhammo anidassanassa dhammassa anantarapaccayena paccayo—  purimā purimā anidassanā khandhā pacchimānaṃ pacchimānaṃ anidassanānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…pe…  gotrabhu maggassa…pe…  nevasaññānāsaññāyatanaṃ phalasamāpattiyā anantarapaccayena paccayo. (1)
+622\. Anidassano dhammo anidassanassa dhammassa anantarapaccayena paccayo— purimā purimā anidassanā khandhā pacchimānaṁ pacchimānaṁ anidassanānaṁ khandhānaṁ anantarapaccayena paccayo; anulomaṁ gotrabhussa…pe… gotrabhu maggassa…pe… nevasaññānāsaññāyatanaṁ phalasamāpattiyā anantarapaccayena paccayo. (1)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Samanantarādi)](Samanantaradi.md)
 

@@ -15,8 +15,7 @@
 
 (39.)
 
-2567\. Upādinnupādāniyaṃ dhammaṃ paccayā upādinnupādāniyo dhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā…  napacchājātapaccayā…  naāsevanapaccayā…pe… .
+2567\. Upādinnupādāniyaṁ dhammaṁ paccayā upādinnupādāniyo dhammo uppajjati naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā… napacchājātapaccayā… naāsevanapaccayā…pe… .
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (5.3.2.1 Vibhaṅgavāra)](../5.3.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (5.3.2.1 Vibhaṅgavāra)](../5.3.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

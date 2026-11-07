@@ -15,16 +15,15 @@
 
 (40.)
 
-224\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati napurejātapaccayā—  arūpe kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. Kusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati napurejātapaccayā—  kusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+224\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati napurejātapaccayā— arūpe kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. Kusalaṁ dhammaṁ paṭicca abyākato dhammo uppajjati napurejātapaccayā— kusale khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-225\. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati napurejātapaccayā—  arūpe akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. Akusalaṃ dhammaṃ paṭicca abyākato dhammo uppajjati napurejātapaccayā—  akusale khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+225\. Akusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati napurejātapaccayā— arūpe akusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. Akusalaṁ dhammaṁ paṭicca abyākato dhammo uppajjati napurejātapaccayā— akusale khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-226\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati napurejātapaccayā—  arūpe vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā, vipākābyākate kiriyābyākate khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā kaṭattā ca rūpaṃ, tayo khandhe paṭicca eko khandho kaṭattā ca rūpaṃ, dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṃ. Khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. Ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṃ mahābhūtaṃ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+226\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati napurejātapaccayā— arūpe vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā, vipākābyākate kiriyābyākate khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe vipākābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā kaṭattā ca rūpaṁ, tayo khandhe paṭicca eko khandho kaṭattā ca rūpaṁ, dve khandhe paṭicca dve khandhā kaṭattā ca rūpaṁ. Khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā. Ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā, tayo mahābhūte paṭicca ekaṁ mahābhūtaṁ, dve mahābhūte paṭicca dve mahābhūtā, mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-227\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati napurejātapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+227\. Kusalañca abyākatañca dhammaṁ paṭicca abyākato dhammo uppajjati napurejātapaccayā— kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-228\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati napurejātapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+228\. Akusalañca abyākatañca dhammaṁ paṭicca abyākato dhammo uppajjati napurejātapaccayā— akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Naupanissaya)](Naupanissaya.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md)
-
+[Go to previous page (Naupanissaya)](Naupanissaya.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Napacchājāta-naāsevana)](Napacchajata-naasevana.md)
 

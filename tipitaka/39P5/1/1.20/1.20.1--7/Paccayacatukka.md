@@ -13,16 +13,15 @@
 
 (82.)
 
-283\. Kusalaṃ ajjhattārammaṇaṃ dhammaṃ paṭicca kusalo ajjhattārammaṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+283\. Kusalaṁ ajjhattārammaṇaṁ dhammaṁ paṭicca kusalo ajjhattārammaṇo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-284\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+284\. Hetuyā tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
 (83.)
 
-285\. Kusalaṃ bahiddhārammaṇaṃ dhammaṃ paṭicca kusalo bahiddhārammaṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+285\. Kusalaṁ bahiddhārammaṇaṁ dhammaṁ paṭicca kusalo bahiddhārammaṇo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-286\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+286\. Hetuyā tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-[Go to previous page (1.20.1--7 Paṭiccādivāra)](../1.20.1--7.md) / [Go to parent page (1.20.1--7 Paṭiccādivāra)](../1.20.1--7.md) / [Go to next page (1.21 Kusalattika, Sanidassanattika)](../../1.21.md)
-
+[Go to previous page (1.20.1--7 Paṭiccādivāra)](../1.20.1--7.md) / [Go to parent page (1.20.1--7 Paṭiccādivāra)](../1.20.1--7.md) / [Go to next page (1.21 Kusalattika, Sanidassanattika)](../../1.21.md)
 

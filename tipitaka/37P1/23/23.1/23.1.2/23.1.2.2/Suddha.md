@@ -15,14 +15,9 @@
 
 (26.)
 
-2994\. Nahetuyā ekavīsa, naārammaṇe ekavīsa, naadhipatiyā ekavīsa (saṃkhittaṃ, sabbattha ekavīsa), nonatthiyā ekavīsa, novigate ekavīsa. (Evaṃ gaṇetabbaṃ.)
+2994\. Nahetuyā ekavīsa, naārammaṇe ekavīsa, naadhipatiyā ekavīsa (saṁkhittaṁ, sabbattha ekavīsa), nonatthiyā ekavīsa, novigate ekavīsa. (Evaṁ gaṇetabbaṁ.)
 
----
+2995\. Paccanīyaṁ.
 
-2995\. Paccanīyaṃ.
-
-
-
-[Go to previous page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md) / [Go to parent page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md) / [Go to next page (23.1.3 Paccayānulomapaccanīya)](../../23.1.3.md)
-
+[Go to previous page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md) / [Go to parent page (23.1.2.2 Saṅkhyāvāra)](../23.1.2.2.md) / [Go to next page (23.1.3 Paccayānulomapaccanīya)](../../23.1.3.md)
 

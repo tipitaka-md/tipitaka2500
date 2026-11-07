@@ -13,22 +13,21 @@
 
 (15.)
 
-2635\. Saraṇaṃ saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca saraṇo saṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2635\. Saraṇaṁ saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca saraṇo saṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2636\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2636\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (16.)
 
-2637\. Araṇaṃ asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca araṇo asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2637\. Araṇaṁ asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca araṇo asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2638\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2638\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (17.)
 
-2639\. Araṇaṃ asaṃkiliṭṭhaasaṃkilesikaṃ dhammaṃ paṭicca araṇo asaṃkiliṭṭhaasaṃkilesiko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2639\. Araṇaṁ asaṁkiliṭṭhaasaṁkilesikaṁ dhammaṁ paṭicca araṇo asaṁkiliṭṭhaasaṁkilesiko dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2640\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2640\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (14.5.1--7 Paṭiccādivāra)](../14.5.1--7.md) / [Go to parent page (14.5.1--7 Paṭiccādivāra)](../14.5.1--7.md) / [Go to next page (14.6 Saraṇaduka, Vitakkattika)](../../14.6.md)
-
+[Go to previous page (14.5.1--7 Paṭiccādivāra)](../14.5.1--7.md) / [Go to parent page (14.5.1--7 Paṭiccādivāra)](../14.5.1--7.md) / [Go to next page (14.6 Saraṇaduka, Vitakkattika)](../../14.6.md)
 

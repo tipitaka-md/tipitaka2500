@@ -15,26 +15,25 @@
 
 (23.)
 
-36\. Hetu kusalo dhammo hetussa kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  tīṇi. (3)
+36\. Hetu kusalo dhammo hetussa kusalassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… tīṇi. (3)
 
 (24.)
 
-37\. Nahetu kusalo dhammo nahetussa kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. Nahetu kusalo dhammo hetussa kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. Nahetu kusalo dhammo hetussa kusalassa ca nahetussa kusalassa ca dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (3)
+37\. Nahetu kusalo dhammo nahetussa kusalassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. Nahetu kusalo dhammo hetussa kusalassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. Nahetu kusalo dhammo hetussa kusalassa ca nahetussa kusalassa ca dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (3)
 
 (25.)
 
-38\. Hetu kusalo ca nahetu kusalo ca dhammā hetussa kusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  tīṇi. (3)
+38\. Hetu kusalo ca nahetu kusalo ca dhammā hetussa kusalassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… tīṇi. (3)
 
 (26.)
 
-39\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava…pe…  noavigate nava. (Saṃkhittaṃ, paccanīyaṃ.)
+39\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava…pe… noavigate nava. (Saṁkhittaṁ, paccanīyaṁ.)
 
-40\. Hetupaccayā naārammaṇe tīṇi…pe…  nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ, anulomapaccanīyaṃ.)
+40\. Hetupaccayā naārammaṇe tīṇi…pe… nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ, anulomapaccanīyaṁ.)
 
-41\. Nahetupaccayā ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ, paccanīyānulomaṃ.)
+41\. Nahetupaccayā ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ, paccanīyānulomaṁ.)
 
-42\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+42\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Āhārādi)](Paccayacatukka/Aharadi.md) / [Go to parent page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to next page (1.1.2 Akusalapada)](../../1.1.2.md)
-
+[Go to previous page (Āhārādi)](Paccayacatukka/Aharadi.md) / [Go to parent page (1.1.1.7 Pañhāvāra)](../1.1.1.7.md) / [Go to next page (1.1.2 Akusalapada)](../../1.1.2.md)
 

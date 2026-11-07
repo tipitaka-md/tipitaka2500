@@ -13,20 +13,11 @@
 
 (247.)
 
-790\. Atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
+790\. Atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā… .
 
----
+791\. (Yathā ārammaṇamūlakaṁ, evaṁ vitthāretabbaṁ.)
 
-791\. (Yathā ārammaṇamūlakaṃ, evaṃ vitthāretabbaṃ.)
+792\. Anulomapaccanīyaṁ.
 
-
-
----
-
-792\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Tevīsaka (savipāka))](Vippayuttaduka/evisaka_savipaka.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md)
-
+[Go to previous page (Tevīsaka (savipāka))](Vippayuttaduka/evisaka_savipaka.md) / [Go to parent page (2.5.3 Paccayānulomapaccanīya)](../2.5.3.md) / [Go to next page (2.5.4 Paccayapaccanīyānuloma)](../2.5.4.md)
 

@@ -17,8 +17,7 @@
 
 (377.)
 
-1136\. Vippayutta pacchājāta atthi avigatanti tīṇi. Vippayutta nissaya purejāta atthi avigatanti tīṇi. Vippayutta ārammaṇa nissaya purejāta atthi avigatanti tīṇi. Vippayutta ārammaṇādhipati nissaya upanissaya purejāta atthi avigatanti ekaṃ. Vippayutta nissaya purejāta indriya atthi avigatanti ekaṃ.
+1136\. Vippayutta pacchājāta atthi avigatanti tīṇi. Vippayutta nissaya purejāta atthi avigatanti tīṇi. Vippayutta ārammaṇa nissaya purejāta atthi avigatanti tīṇi. Vippayutta ārammaṇādhipati nissaya upanissaya purejāta atthi avigatanti ekaṁ. Vippayutta nissaya purejāta indriya atthi avigatanti ekaṁ.
 
 [Go to previous page (Vippayuttamissakaghaṭanā)](Vippayuttamissakaghatana.md) / [Go to parent page (Vippayutta)](../Vippayutta.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
-
 

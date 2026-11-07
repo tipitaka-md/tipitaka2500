@@ -15,14 +15,9 @@
 
 (64.)
 
-685\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye ekaṃ, purejāte ekaṃ, āsevane ekaṃ, kamme nava…pe…  magge ekaṃ, sampayutte ekaṃ, vippayutte nava, atthiyā nava, natthiyā ekaṃ, vigate ekaṃ, avigate nava.
+685\. Nahetupaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte nava, aññamaññe cha, nissaye nava, upanissaye ekaṁ, purejāte ekaṁ, āsevane ekaṁ, kamme nava…pe… magge ekaṁ, sampayutte ekaṁ, vippayutte nava, atthiyā nava, natthiyā ekaṁ, vigate ekaṁ, avigate nava.
 
----
+686\. Paccanīyānulomaṁ.
 
-686\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (2.4.1.4 Paccayapaccanīyānuloma)](../2.4.1.4.md) / [Go to parent page (2.4.1.4 Paccayapaccanīyānuloma)](../2.4.1.4.md) / [Go to next page (2.4.2 Sahajātavāra)](../../2.4.2.md)
-
+[Go to previous page (2.4.1.4 Paccayapaccanīyānuloma)](../2.4.1.4.md) / [Go to parent page (2.4.1.4 Paccayapaccanīyānuloma)](../2.4.1.4.md) / [Go to next page (2.4.2 Sahajātavāra)](../../2.4.2.md)
 

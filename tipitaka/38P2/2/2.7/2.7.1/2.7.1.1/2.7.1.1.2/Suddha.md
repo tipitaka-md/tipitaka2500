@@ -17,14 +17,9 @@
 
 (179.)
 
-959\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava.
+959\. Hetuyā nava, ārammaṇe nava…pe… avigate nava.
 
----
+960\. Anulomaṁ.
 
-960\. Anulomaṃ.
-
-
-
-[Go to previous page (2.7.1.1.2 Saṅkhyāvāra)](../2.7.1.1.2.md) / [Go to parent page (2.7.1.1.2 Saṅkhyāvāra)](../2.7.1.1.2.md) / [Go to next page (2.7.1.2--4 Paccayapaccanīyādi)](../../2.7.1.2--4.md)
-
+[Go to previous page (2.7.1.1.2 Saṅkhyāvāra)](../2.7.1.1.2.md) / [Go to parent page (2.7.1.1.2 Saṅkhyāvāra)](../2.7.1.1.2.md) / [Go to next page (2.7.1.2--4 Paccayapaccanīyādi)](../../2.7.1.2--4.md)
 

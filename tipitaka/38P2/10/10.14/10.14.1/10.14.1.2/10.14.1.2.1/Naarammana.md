@@ -17,14 +17,13 @@
 
 (422.)
 
-3388\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati naārammaṇapaccayā—  paṭisandhikkhaṇe upādinne khandhe paṭicca kaṭattārūpaṃ, khandhe paṭicca vatthu, ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. Asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+3388\. Upādinnaṁ dhammaṁ paṭicca upādinno dhammo uppajjati naārammaṇapaccayā— paṭisandhikkhaṇe upādinne khandhe paṭicca kaṭattārūpaṁ, khandhe paṭicca vatthu, ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. Asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-3389\. Upādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā—  upādinne khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+3389\. Upādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā— upādinne khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-3390\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā—  anupādinne khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca upādārūpaṃ. (1)
+3390\. Anupādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā— anupādinne khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ, ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca upādārūpaṁ. (1)
 
-3391\. Upādinnañca anupādinnañca dhammaṃ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā—  upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+3391\. Upādinnañca anupādinnañca dhammaṁ paṭicca anupādinno dhammo uppajjati naārammaṇapaccayā— upādinne khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

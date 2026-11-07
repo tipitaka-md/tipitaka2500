@@ -17,8 +17,7 @@
 
 (58.)
 
-1125\. Āsavasampayuttaṃ dhammaṃ paṭicca āsavasampayutto dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+1125\. Āsavasampayuttaṁ dhammaṁ paṭicca āsavasampayutto dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
-[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (3.3.1.2.1 Vibhaṅgavāra)](../3.3.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
-
+[Go to previous page (Naārammaṇa)](Naarammana.md) / [Go to parent page (3.3.1.2.1 Vibhaṅgavāra)](../3.3.1.2.1.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
 

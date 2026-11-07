@@ -17,14 +17,13 @@
 
 (91.)
 
-4041\. Saṃkiliṭṭho ceva no ca kileso dhammo saṃkiliṭṭhassa ceva no ca kilesassa dhammassa kammapaccayena paccayo—  saṃkiliṭṭhā ceva no ca kilesā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (1)
+4041\. Saṁkiliṭṭho ceva no ca kileso dhammo saṁkiliṭṭhassa ceva no ca kilesassa dhammassa kammapaccayena paccayo— saṁkiliṭṭhā ceva no ca kilesā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-4042\. Saṃkiliṭṭho ceva no ca kileso dhammo kilesassa ceva saṃkiliṭṭhassa ca dhammassa kammapaccayena paccayo—  saṃkiliṭṭhā ceva no ca kilesā cetanā sampayuttakānaṃ kilesānaṃ kammapaccayena paccayo. (2)
+4042\. Saṁkiliṭṭho ceva no ca kileso dhammo kilesassa ceva saṁkiliṭṭhassa ca dhammassa kammapaccayena paccayo— saṁkiliṭṭhā ceva no ca kilesā cetanā sampayuttakānaṁ kilesānaṁ kammapaccayena paccayo. (2)
 
-4043\. Saṃkiliṭṭho ceva no ca kileso dhammo kilesassa ceva saṃkiliṭṭhassa ca saṃkiliṭṭhassa ceva no ca kilesassa dhammassa kammapaccayena paccayo—  saṃkiliṭṭhā ceva no ca kilesā cetanā sampayuttakānaṃ khandhānaṃ kilesānañca kammapaccayena paccayo. (3)
+4043\. Saṁkiliṭṭho ceva no ca kileso dhammo kilesassa ceva saṁkiliṭṭhassa ca saṁkiliṭṭhassa ceva no ca kilesassa dhammassa kammapaccayena paccayo— saṁkiliṭṭhā ceva no ca kilesā cetanā sampayuttakānaṁ khandhānaṁ kilesānañca kammapaccayena paccayo. (3)
 
-4044\. Āhārapaccayena paccayo…  tīṇi…  indriyapaccayena paccayo…  tīṇi…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  nava…  sampayuttapaccayena paccayo…  nava…  atthipaccayena paccayo…  nava…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo…  nava.
+4044\. Āhārapaccayena paccayo… tīṇi… indriyapaccayena paccayo… tīṇi… jhānapaccayena paccayo… tīṇi… maggapaccayena paccayo… nava… sampayuttapaccayena paccayo… nava… atthipaccayena paccayo… nava… natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo… nava.
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to next page (12.6.7.1.2 Saṅkhyāvāra)](../12.6.7.1.2.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (12.6.7.1.1 Vibhaṅgavāra)](../12.6.7.1.1.md) / [Go to next page (12.6.7.1.2 Saṅkhyāvāra)](../12.6.7.1.2.md)
 

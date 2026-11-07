@@ -17,16 +17,15 @@
 
 (242.)
 
-478\. Hetuṃ sukhasahagataṃ dhammaṃ paṭicca hetu sukhasahagato dhammo uppajjati hetupaccayā…  tīṇi.
+478\. Hetuṁ sukhasahagataṁ dhammaṁ paṭicca hetu sukhasahagato dhammo uppajjati hetupaccayā… tīṇi.
 
-479\. Nahetuṃ sukhasahagataṃ dhammaṃ paṭicca nahetu sukhasahagato dhammo uppajjati hetupaccayā…  tīṇi.
+479\. Nahetuṁ sukhasahagataṁ dhammaṁ paṭicca nahetu sukhasahagato dhammo uppajjati hetupaccayā… tīṇi.
 
-480\. Hetuṃ sukhasahagatañca nahetuṃ sukhasahagatañca dhammaṃ paṭicca hetu sukhasahagato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+480\. Hetuṁ sukhasahagatañca nahetuṁ sukhasahagatañca dhammaṁ paṭicca hetu sukhasahagato dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (243.)
 
-481\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
+481\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu-naadhipati)](Nahetu-naadhipati.md)
-
 

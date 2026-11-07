@@ -9,6 +9,5 @@
 * [Samaggaghaṭanā](Jhana/Samaggaghatana.md)
 * [Saindriya-maggaghaṭanā](Jhana/Saindriya-maggaghatana.md)
 
-[Go to previous page (Sahetādhipati-maggaghaṭanā)](Indriya/Sahetadhipati-maggaghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Jhānaduka)](Jhana/Jhanaduka.md)
-
+[Go to previous page (Sahetādhipati-maggaghaṭanā)](Indriya/Sahetadhipati-maggaghatana.md) / [Go to parent page (2.7.3 Paccayānulomapaccanīya)](../2.7.3.md) / [Go to next page (Jhānaduka)](Jhana/Jhanaduka.md)
 

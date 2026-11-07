@@ -17,12 +17,11 @@
 
 (66.)
 
-691\. Sappaṭighaṃ dhammaṃ paccayā appaṭigho dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ. (1)
+691\. Sappaṭighaṁ dhammaṁ paccayā appaṭigho dhammo uppajjati ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ. (1)
 
-692\. Appaṭighaṃ dhammaṃ paccayā appaṭigho dhammo uppajjati ārammaṇapaccayā—  appaṭighaṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuṃ paccayā appaṭighā khandhā. (1)
+692\. Appaṭighaṁ dhammaṁ paccayā appaṭigho dhammo uppajjati ārammaṇapaccayā— appaṭighaṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… vatthuṁ paccayā appaṭighā khandhā. (1)
 
-693\. Sappaṭighañca appaṭighañca dhammaṃ paccayā appaṭigho dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  kāyaviññāṇasahagataṃ ekaṃ khandhañca kāyāyatanañca paccayā tayo khandhā…pe…  adhipatipaccayā…  (saṃkhittaṃ) avigatapaccayā.
+693\. Sappaṭighañca appaṭighañca dhammaṁ paccayā appaṭigho dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe… kāyaviññāṇasahagataṁ ekaṁ khandhañca kāyāyatanañca paccayā tayo khandhā…pe… adhipatipaccayā… (saṁkhittaṁ) avigatapaccayā.
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to next page (2.4.3.1--4.2 Saṅkhyāvāra)](../2.4.3.1--4.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.4.3.1--4.1 Vibhaṅgavāra)](../2.4.3.1--4.1.md) / [Go to next page (2.4.3.1--4.2 Saṅkhyāvāra)](../2.4.3.1--4.2.md)
 

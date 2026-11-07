@@ -15,18 +15,17 @@
 
 (15.)
 
-1279\. Sahetuko akusalo dhammo sahetukassa akusalassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1279\. Sahetuko akusalo dhammo sahetukassa akusalassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (16.)
 
-1280\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1280\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1281\. Hetupaccayā naārammaṇe dve. (Saṃkhittaṃ.)
+1281\. Hetupaccayā naārammaṇe dve. (Saṁkhittaṁ.)
 
-1282\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1282\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-1283\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1283\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetu-ārammaṇādi)](Paccayacatukka/Hetu-arammanadi.md) / [Go to parent page (2.2.2.7 Pañhāvāra)](../2.2.2.7.md) / [Go to next page (2.2.3 Abyākatapada)](../../2.2.3.md)
-
+[Go to previous page (Hetu-ārammaṇādi)](Paccayacatukka/Hetu-arammanadi.md) / [Go to parent page (2.2.2.7 Pañhāvāra)](../2.2.2.7.md) / [Go to next page (2.2.3 Abyākatapada)](../../2.2.3.md)
 

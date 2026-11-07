@@ -15,8 +15,7 @@
 
 (13.)
 
-2647\. Paccuppanno dhammo paccuppannassa dhammassa vipākapaccayena paccayo—  vipāko paccuppanno eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ vipākapaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa vipākapaccayena paccayo. (1)
+2647\. Paccuppanno dhammo paccuppannassa dhammassa vipākapaccayena paccayo— vipāko paccuppanno eko khandho tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ vipākapaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa vipākapaccayena paccayo. (1)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

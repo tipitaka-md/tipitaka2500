@@ -25,28 +25,23 @@
 
 933\. Kusalo sahetuko dhammo kusalassa sahetukassa dhammassa ārammaṇapaccayena paccayo. Kusalo sahetuko dhammo akusalassa sahetukassa dhammassa ārammaṇapaccayena paccayo. Kusalo sahetuko dhammo abyākatassa sahetukassa dhammassa ārammaṇapaccayena paccayo. (3)
 
-934\. Akusalo sahetuko dhammo akusalassa sahetukassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (3)
+934\. Akusalo sahetuko dhammo akusalassa sahetukassa dhammassa ārammaṇapaccayena paccayo… tīṇi. (3)
 
-935\. Abyākato sahetuko dhammo abyākatassa sahetukassa dhammassa ārammaṇapaccayena paccayo…  tīṇi. (3)
+935\. Abyākato sahetuko dhammo abyākatassa sahetukassa dhammassa ārammaṇapaccayena paccayo… tīṇi. (3)
 
-936\. Kusalo sahetuko dhammo kusalassa sahetukassa dhammassa adhipatipaccayena paccayo. (Saṃkhittaṃ.)
+936\. Kusalo sahetuko dhammo kusalassa sahetukassa dhammassa adhipatipaccayena paccayo. (Saṁkhittaṁ.)
 
 (4.)
 
-937\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare pañca, samanantare pañca, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṃ, āhāre…pe…  sampayutte tīṇi…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+937\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare pañca, samanantare pañca, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme pañca, vipāke ekaṁ, āhāre…pe… sampayutte tīṇi…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-938\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+938\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-939\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+939\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-940\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+940\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
----
+941\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-941\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.2.2 Ahetukapada)](../../../2.2.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2.2.2 Ahetukapada)](../../../2.2.2.md)
 

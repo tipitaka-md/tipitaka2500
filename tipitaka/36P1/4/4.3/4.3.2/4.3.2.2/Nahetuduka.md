@@ -15,16 +15,11 @@
 
 (79.)
 
-2237\. Nahetupaccayā naārammaṇe tīṇi, naadhipatiyā dvādasa, naanantare tīṇi, nasamanantare tīṇi…pe…  nakamme ekaṃ, navipāke cattāri, naāhāre ekaṃ, naindriye ekaṃ, najhāne cattāri, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+2237\. Nahetupaccayā naārammaṇe tīṇi, naadhipatiyā dvādasa, naanantare tīṇi, nasamanantare tīṇi…pe… nakamme ekaṁ, navipāke cattāri, naāhāre ekaṁ, naindriye ekaṁ, najhāne cattāri, namagge nava, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
-2238\. (Yathā kusalattike paccanīyagaṇanā, evaṃ gaṇetabbaṃ.)
+2238\. (Yathā kusalattike paccanīyagaṇanā, evaṁ gaṇetabbaṁ.)
 
----
+2239\. Paccanīyaṁ.
 
-2239\. Paccanīyaṃ.
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.3.2.2 Saṅkhyāvāra)](../4.3.2.2.md) / [Go to next page (4.3.3 Paccayānulomapaccanīya)](../../4.3.3.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.3.2.2 Saṅkhyāvāra)](../4.3.2.2.md) / [Go to next page (4.3.3 Paccayānulomapaccanīya)](../../4.3.3.md)
 

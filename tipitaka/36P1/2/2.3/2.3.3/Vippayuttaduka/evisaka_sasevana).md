@@ -13,8 +13,7 @@
 
 * Tevīsaka (sāsevana)
 
-621\. Vippayuttapaccayā hetupaccayā…pe…  āsevanapaccayā kammapaccayā āhārapaccayā…pe…  avigatapaccayā napacchājāte satta, navipāke satta.
+621\. Vippayuttapaccayā hetupaccayā…pe… āsevanapaccayā kammapaccayā āhārapaccayā…pe… avigatapaccayā napacchājāte satta, navipāke satta.
 
 [Go to previous page (Terasaka (sāsevana))](erasaka_sasevana.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Cuddasaka (savipāka))](uddasaka_savipaka.md)
-
 

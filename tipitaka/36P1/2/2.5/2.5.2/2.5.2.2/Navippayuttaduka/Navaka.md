@@ -15,14 +15,9 @@
 
 * Navaka
 
-750\. Navippayuttapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā namagge ekaṃ.
+750\. Navippayuttapaccayā nahetupaccayā naadhipatipaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā namagge ekaṁ.
 
----
+751\. Paccanīyaṁ.
 
-751\. Paccanīyaṃ.
-
-
-
-[Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (2.5.3 Paccayānulomapaccanīya)](../../../2.5.3.md)
-
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (2.5.3 Paccayānulomapaccanīya)](../../../2.5.3.md)
 

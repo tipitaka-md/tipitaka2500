@@ -6,6 +6,5 @@
 * [Hetu](Paccayacatukka/Hetu.md)
 * [Hetu-ārammaṇa](Paccayacatukka/Hetu-arammana.md)
 
-[Go to previous page (5.1--7 Paṭiccādivāra)](../5.1--7.md) / [Go to parent page (5.1--7 Paṭiccādivāra)](../5.1--7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
-
+[Go to previous page (5.1--7 Paṭiccādivāra)](../5.1--7.md) / [Go to parent page (5.1--7 Paṭiccādivāra)](../5.1--7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
 

@@ -17,26 +17,25 @@
 
 (1.)
 
-1704\. Nosaññojanaṃ kusalaṃ dhammaṃ paṭicca nosaññojano kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1704\. Nosaññojanaṁ kusalaṁ dhammaṁ paṭicca nosaññojano kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (2.)
 
-1705\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1705\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1706\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1706\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (3.)
 
-1707\. Saññojanaṃ akusalaṃ dhammaṃ paṭicca saññojano akusalo dhammo uppajjati hetupaccayā. Saññojanaṃ akusalaṃ dhammaṃ paṭicca nosaññojano akusalo dhammo uppajjati hetupaccayā. Saññojanaṃ akusalaṃ dhammaṃ paṭicca saññojano akusalo ca nosaññojano akusalo ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
+1707\. Saññojanaṁ akusalaṁ dhammaṁ paṭicca saññojano akusalo dhammo uppajjati hetupaccayā. Saññojanaṁ akusalaṁ dhammaṁ paṭicca nosaññojano akusalo dhammo uppajjati hetupaccayā. Saññojanaṁ akusalaṁ dhammaṁ paṭicca saññojano akusalo ca nosaññojano akusalo ca dhammā uppajjanti hetupaccayā. (3) (Saṁkhittaṁ.)
 
 (4.)
 
-1708\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1708\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… avigate nava. (Saṁkhittaṁ.)
 
-1709\. Nahetuyā tīṇi, naadhipatiyā nava…pe…  nakamme tīṇi…pe…  navippayutte nava. (Saṃkhittaṃ.)
+1709\. Nahetuyā tīṇi, naadhipatiyā nava…pe… nakamme tīṇi…pe… navippayutte nava. (Saṁkhittaṁ.)
 
-1710\. (Sahajātavāropi…pe…  sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+1710\. (Sahajātavāropi…pe… sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.1.1.7 Pañhāvāra)](../../5.1.1.7.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (5.1.1.7 Pañhāvāra)](../../5.1.1.7.md)
 

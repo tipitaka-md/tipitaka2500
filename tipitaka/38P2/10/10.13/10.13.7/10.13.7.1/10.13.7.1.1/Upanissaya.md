@@ -17,10 +17,9 @@
 
 (398.)
 
-3329\. Upādā dhammo noupādā dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  cakkhusampadaṃ…pe…  kāyasampadaṃ…  vaṇṇasampadaṃ…  saddasampadaṃ…  gandhasampadaṃ…  rasasampadaṃ…  bhojanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati, cakkhusampadā…pe…  kāyasampadā…  vaṇṇasampadā…  saddasampadā…  gandhasampadā…  rasasampadā…  bhojanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+3329\. Upādā dhammo noupādā dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— cakkhusampadaṁ…pe… kāyasampadaṁ… vaṇṇasampadaṁ… saddasampadaṁ… gandhasampadaṁ… rasasampadaṁ… bhojanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati, cakkhusampadā…pe… kāyasampadā… vaṇṇasampadā… saddasampadā… gandhasampadā… rasasampadā… bhojanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-3330\. Noupādā dhammo noupādā dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  paññaṃ…  rāgaṃ…pe…  patthanaṃ…  kāyikaṃ sukhaṃ…  kāyikaṃ dukkhaṃ…  utuṃ…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (1)
+3330\. Noupādā dhammo noupādā dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— saddhaṁ upanissāya dānaṁ deti…pe… samāpattiṁ uppādeti, mānaṁ jappeti, diṭṭhiṁ gaṇhāti; sīlaṁ…pe… paññaṁ… rāgaṁ…pe… patthanaṁ… kāyikaṁ sukhaṁ… kāyikaṁ dukkhaṁ… utuṁ… senāsanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati; saddhā…pe… senāsanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.13.7.1.1 Vibhaṅgavāra)](../10.13.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

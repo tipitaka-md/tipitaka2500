@@ -13,8 +13,7 @@
 
 * Catukka
 
-648\. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+648\. Naāsevanapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to next page (Nakammaduka)](../Nakammaduka.md)
-
 

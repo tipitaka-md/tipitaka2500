@@ -17,28 +17,27 @@
 
 (45.)
 
-1719\. Ganthasampayuttaṃ dhammaṃ paṭicca ganthasampayutto dhammo uppajjati hetupaccayā—  ganthasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1719\. Ganthasampayuttaṁ dhammaṁ paṭicca ganthasampayutto dhammo uppajjati hetupaccayā— ganthasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1720\. Ganthasampayuttaṃ dhammaṃ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā—  ganthasampayutte khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe paṭicca lobho cittasamuṭṭhānañca rūpaṃ, domanassasahagate khandhe paṭicca paṭighaṃ cittasamuṭṭhānañca rūpaṃ. (2)
+1720\. Ganthasampayuttaṁ dhammaṁ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā— ganthasampayutte khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ, diṭṭhigatavippayuttalobhasahagate khandhe paṭicca lobho cittasamuṭṭhānañca rūpaṁ, domanassasahagate khandhe paṭicca paṭighaṁ cittasamuṭṭhānañca rūpaṁ. (2)
 
-1721\. Ganthasampayuttaṃ dhammaṃ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā—  ganthasampayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā lobho ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā paṭighañca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1721\. Ganthasampayuttaṁ dhammaṁ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā— ganthasampayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… diṭṭhigatavippayuttalobhasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā lobho ca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… domanassasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā paṭighañca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
 (46.)
 
-1722\. Ganthavippayuttaṃ dhammaṃ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā—  ganthavippayuttaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ, paṭighaṃ paṭicca cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe…  khandhe paṭicca. (Saṃkhittaṃ.) (1)
+1722\. Ganthavippayuttaṁ dhammaṁ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā— ganthavippayuttaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… diṭṭhigatavippayuttaṁ lobhaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ, paṭighaṁ paṭicca cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… khandhe paṭicca. (Saṁkhittaṁ.) (1)
 
-1723\. Ganthavippayuttaṃ dhammaṃ paṭicca ganthasampayutto dhammo uppajjati hetupaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā khandhā, paṭighaṃ paṭicca sampayuttakā khandhā. (2)
+1723\. Ganthavippayuttaṁ dhammaṁ paṭicca ganthasampayutto dhammo uppajjati hetupaccayā— diṭṭhigatavippayuttaṁ lobhaṁ paṭicca sampayuttakā khandhā, paṭighaṁ paṭicca sampayuttakā khandhā. (2)
 
-1724\. Ganthavippayuttaṃ dhammaṃ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā—  diṭṭhigatavippayuttaṃ lobhaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ, paṭighaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ. (3)
+1724\. Ganthavippayuttaṁ dhammaṁ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā— diṭṭhigatavippayuttaṁ lobhaṁ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ, paṭighaṁ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ. (3)
 
 (47.)
 
-1725\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthasampayutto dhammo uppajjati hetupaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+1725\. Ganthasampayuttañca ganthavippayuttañca dhammaṁ paṭicca ganthasampayutto dhammo uppajjati hetupaccayā— diṭṭhigatavippayuttalobhasahagataṁ ekaṁ khandhañca lobhañca paṭicca tayo khandhā…pe… dve khandhe…pe… domanassasahagataṁ ekaṁ khandhañca paṭighañca paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-1726\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā—  ganthasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṃ rūpaṃ, domanassasahagate khandhe ca paṭighañca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+1726\. Ganthasampayuttañca ganthavippayuttañca dhammaṁ paṭicca ganthavippayutto dhammo uppajjati hetupaccayā— ganthasampayutte khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paṭicca cittasamuṭṭhānaṁ rūpaṁ, domanassasahagate khandhe ca paṭighañca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1727\. Ganthasampayuttañca ganthavippayuttañca dhammaṃ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā—  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  domanassasahagataṃ ekaṃ khandhañca paṭighañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (3)
+1727\. Ganthasampayuttañca ganthavippayuttañca dhammaṁ paṭicca ganthasampayutto ca ganthavippayutto ca dhammā uppajjanti hetupaccayā— diṭṭhigatavippayuttalobhasahagataṁ ekaṁ khandhañca lobhañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… domanassasahagataṁ ekaṁ khandhañca paṭighañca paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (3)
 
-[Go to previous page (5.3.1.1.1 Vibhaṅgavāra)](../5.3.1.1.1.md) / [Go to parent page (5.3.1.1.1 Vibhaṅgavāra)](../5.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (5.3.1.1.1 Vibhaṅgavāra)](../5.3.1.1.1.md) / [Go to parent page (5.3.1.1.1 Vibhaṅgavāra)](../5.3.1.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

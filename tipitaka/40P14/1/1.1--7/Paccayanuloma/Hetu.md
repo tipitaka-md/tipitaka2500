@@ -13,14 +13,13 @@
 
 (1.)
 
-2\. Hetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā—  hetuṃ dhammaṃ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ; paṭisandhikkhaṇe…pe…  hetuṃ dhammaṃ paṭicca nanahetu dhammo uppajjati hetupaccayā. Hetuṃ dhammaṃ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3)
+2\. Hetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati hetupaccayā— hetuṁ dhammaṁ paṭicca sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ; paṭisandhikkhaṇe…pe… hetuṁ dhammaṁ paṭicca nanahetu dhammo uppajjati hetupaccayā. Hetuṁ dhammaṁ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-3\. Nahetuṃ dhammaṃ paṭicca nanahetu dhammo uppajjati hetupaccayā. Nahetuṃ dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā. Nahetuṃ dhammaṃ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3)
+3\. Nahetuṁ dhammaṁ paṭicca nanahetu dhammo uppajjati hetupaccayā. Nahetuṁ dhammaṁ paṭicca nahetu dhammo uppajjati hetupaccayā. Nahetuṁ dhammaṁ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-4\. Hetuñca nahetuñca dhammaṃ paṭicca nahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṃ paṭicca nanahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṃ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
+4\. Hetuñca nahetuñca dhammaṁ paṭicca nahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṁ paṭicca nanahetu dhammo uppajjati hetupaccayā. Hetuñca nahetuñca dhammaṁ paṭicca nahetu ca nanahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṁkhittaṁ.)
 
-5\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+5\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccayānuloma)](../Paccayanuloma.md) / [Go to parent page (Paccayānuloma)](../Paccayanuloma.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

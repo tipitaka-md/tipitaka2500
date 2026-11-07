@@ -15,18 +15,17 @@
 
 (48.)
 
-894\. Dassanena pahātabbaṃ dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā—  dassanena pahātabbe khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+894\. Dassanena pahātabbaṁ dhammaṁ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā— dassanena pahātabbe khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-895\. Bhāvanāya pahātabbaṃ dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā—  bhāvanāya pahātabbe khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+895\. Bhāvanāya pahātabbaṁ dhammaṁ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā— bhāvanāya pahātabbe khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-896\. Nevadassanena nabhāvanāya pahātabbaṃ dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā—  nevadassanena nabhāvanāya pahātabbe khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbe khandhe paccayā kaṭattārūpaṃ, khandhe paccayā vatthu; ekaṃ mahābhūtaṃ paccayā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+896\. Nevadassanena nabhāvanāya pahātabbaṁ dhammaṁ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā— nevadassanena nabhāvanāya pahātabbe khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ. Paṭisandhikkhaṇe nevadassanena nabhāvanāya pahātabbe khandhe paccayā kaṭattārūpaṁ, khandhe paccayā vatthu; ekaṁ mahābhūtaṁ paccayā…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… . (1)
 
 (49.)
 
-897\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā dassanena pahātabbo dhammo uppajjati naārammaṇapaccayā—  dassanena pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+897\. Dassanena pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṁ paccayā dassanena pahātabbo dhammo uppajjati naārammaṇapaccayā— dassanena pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-898\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṃ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā—  bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+898\. Bhāvanāya pahātabbañca nevadassanena nabhāvanāya pahātabbañca dhammaṁ paccayā nevadassanena nabhāvanāya pahātabbo dhammo uppajjati naārammaṇapaccayā— bhāvanāya pahātabbe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.3.2.1 Vibhaṅgavāra)](../9.3.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (9.3.2.1 Vibhaṅgavāra)](../9.3.2.1.md) / [Go to next page (Naadhipatyādi)](Naadhipatyadi.md)
 

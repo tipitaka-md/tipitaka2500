@@ -17,8 +17,7 @@
 
 (180.)
 
-495\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa samanantarapaccayena paccayo…  sahajātapaccayena paccayo (iha ghaṭanā natthi, satta pañhā)…  aññamaññapaccayena paccayo (cha pañhā)…  nissayapaccayena paccayo. (Pavattipaṭisandhi satta pañhā, iha ghaṭanā natthi.)
+495\. Nahetu sahetuko dhammo nahetusahetukassa dhammassa samanantarapaccayena paccayo… sahajātapaccayena paccayo (iha ghaṭanā natthi, satta pañhā)… aññamaññapaccayena paccayo (cha pañhā)… nissayapaccayena paccayo. (Pavattipaṭisandhi satta pañhā, iha ghaṭanā natthi.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (1.6.7.1.1 Vibhaṅgavāra)](../1.6.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

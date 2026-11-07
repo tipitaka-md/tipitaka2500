@@ -15,18 +15,13 @@
 
 (27.)
 
-599\. Anidassanaṃ dhammaṃ paccayā anidassano dhammo uppajjati ārammaṇapaccayā—  anidassanaṃ ekaṃ khandhaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuṃ paccayā khandhā, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā anidassanā khandhā. (Saṃkhittaṃ.)
+599\. Anidassanaṁ dhammaṁ paccayā anidassano dhammo uppajjati ārammaṇapaccayā— anidassanaṁ ekaṁ khandhaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… vatthuṁ paccayā khandhā, cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā anidassanā khandhā. (Saṁkhittaṁ.)
 
 (28.)
 
-600\. Hetuyā tīṇi, ārammaṇe ekaṃ, adhipatiyā tīṇi…pe…  avigate tīṇi.
+600\. Hetuyā tīṇi, ārammaṇe ekaṁ, adhipatiyā tīṇi…pe… avigate tīṇi.
 
----
+601\. Anulomaṁ.
 
-601\. Anulomaṃ.
-
-
-
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.3.3.1 Paccayānuloma)](../2.3.3.1.md) / [Go to next page (2.3.3.2 Paccayapaccanīya)](../2.3.3.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (2.3.3.1 Paccayānuloma)](../2.3.3.1.md) / [Go to next page (2.3.3.2 Paccayapaccanīya)](../2.3.3.2.md)
 

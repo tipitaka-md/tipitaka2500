@@ -17,8 +17,7 @@
 
 (51.)
 
-2224\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte cattāri, napacchājāte pañca, naāsevane pañca, nakamme dve, navipāke pañca, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
+2224\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā pañca, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte cattāri, napacchājāte pañca, naāsevane pañca, nakamme dve, navipāke pañca, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte dve, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (9.3.1.2.2 Saṅkhyāvāra)](../9.3.1.2.2.md) / [Go to parent page (9.3.1.2.2 Saṅkhyāvāra)](../9.3.1.2.2.md) / [Go to next page (9.3.1.3 Paccayānulomapaccanīya)](../../9.3.1.3.md)
-
+[Go to previous page (9.3.1.2.2 Saṅkhyāvāra)](../9.3.1.2.2.md) / [Go to parent page (9.3.1.2.2 Saṅkhyāvāra)](../9.3.1.2.2.md) / [Go to next page (9.3.1.3 Paccayānulomapaccanīya)](../../9.3.1.3.md)
 

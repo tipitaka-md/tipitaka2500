@@ -17,10 +17,9 @@
 
 (426.)
 
-3398\. Upādinnaṃ dhammaṃ paṭicca upādinno dhammo uppajjati navipākapaccayā—  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+3398\. Upādinnaṁ dhammaṁ paṭicca upādinno dhammo uppajjati navipākapaccayā— asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-3399\. Anupādinnaṃ dhammaṃ paṭicca anupādinno dhammo uppajjati navipākapaccayā—  anupādinnaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ekaṃ mahābhūtaṃ…pe… . (Yāva utusamuṭṭhānaṃ.)
+3399\. Anupādinnaṁ dhammaṁ paṭicca anupādinno dhammo uppajjati navipākapaccayā— anupādinnaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ekaṁ mahābhūtaṁ…pe… . (Yāva utusamuṭṭhānaṁ.)
 
-[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Naāhāra)](Naahara.md)
-
+[Go to previous page (Nakamma)](Nakamma.md) / [Go to parent page (10.14.1.2.1 Vibhaṅgavāra)](../10.14.1.2.1.md) / [Go to next page (Naāhāra)](Naahara.md)
 

@@ -15,8 +15,7 @@
 
 (205.)
 
-701\. Kusalaṃ dhammaṃ saṃsaṭṭho…pe…  akusalaṃ dhammaṃ…pe…  abyākataṃ dhammaṃ saṃsaṭṭho abyākato dhammo uppajjati āsevanapaccayā—  kiriyābyākataṃ ekaṃ khandhaṃ saṃsaṭṭhā…pe… .
+701\. Kusalaṁ dhammaṁ saṁsaṭṭho…pe… akusalaṁ dhammaṁ…pe… abyākataṁ dhammaṁ saṁsaṭṭho abyākato dhammo uppajjati āsevanapaccayā— kiriyābyākataṁ ekaṁ khandhaṁ saṁsaṭṭhā…pe… .
 
-[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Purejāta)](Purejata.md) / [Go to parent page (2.5.1.1 Vibhaṅgavāra)](../2.5.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

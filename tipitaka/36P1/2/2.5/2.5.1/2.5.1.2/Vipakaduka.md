@@ -15,14 +15,9 @@
 
 (214.)
 
-712\. Vipākapaccayā hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye ekaṃ, purejāte ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, jhāne ekaṃ, magge ekaṃ, sampayutte ekaṃ, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā ekaṃ, vigate ekaṃ, avigate ekaṃ…pe… .
+712\. Vipākapaccayā hetuyā ekaṁ, ārammaṇe ekaṁ, adhipatiyā ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye ekaṁ, purejāte ekaṁ, kamme ekaṁ, āhāre ekaṁ, indriye ekaṁ, jhāne ekaṁ, magge ekaṁ, sampayutte ekaṁ, vippayutte ekaṁ, atthiyā ekaṁ, natthiyā ekaṁ, vigate ekaṁ, avigate ekaṁ…pe… .
 
----
+713\. Saṁsaṭṭhavāre anulomaṁ.
 
-713\. Saṃsaṭṭhavāre anulomaṃ.
-
-
-
-[Go to previous page (Āsevanaduka)](Asevanaduka.md) / [Go to parent page (2.5.1.2 Saṅkhyāvāra)](../2.5.1.2.md) / [Go to next page (2.5.2 Paccayapaccanīya)](../../2.5.2.md)
-
+[Go to previous page (Āsevanaduka)](Asevanaduka.md) / [Go to parent page (2.5.1.2 Saṅkhyāvāra)](../2.5.1.2.md) / [Go to next page (2.5.2 Paccayapaccanīya)](../../2.5.2.md)
 

@@ -13,8 +13,7 @@
 
 * Catukka
 
-786\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
+786\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte ekaṁ, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi…pe… .
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
-
 

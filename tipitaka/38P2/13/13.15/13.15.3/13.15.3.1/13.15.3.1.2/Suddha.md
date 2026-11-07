@@ -17,8 +17,7 @@
 
 (308.)
 
-4729\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cattāri, nissaye nava, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme nava, vipāke ekaṃ…pe…  avigate nava.
+4729\. Hetuyā nava, ārammaṇe cattāri, adhipatiyā nava, anantare cattāri, samanantare cattāri, sahajāte nava, aññamaññe cattāri, nissaye nava, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme nava, vipāke ekaṁ…pe… avigate nava.
 
-[Go to previous page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md) / [Go to parent page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md) / [Go to next page (13.15.3.2 Paccayapaccanīya)](../../13.15.3.2.md)
-
+[Go to previous page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md) / [Go to parent page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md) / [Go to next page (13.15.3.2 Paccayapaccanīya)](../../13.15.3.2.md)
 

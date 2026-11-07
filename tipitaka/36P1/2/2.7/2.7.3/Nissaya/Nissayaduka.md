@@ -19,4 +19,3 @@
 
 [Go to previous page (Nissaya)](../Nissaya.md) / [Go to parent page (Nissaya)](../Nissaya.md) / [Go to next page (Nissayamissakaghaṭanā)](Nissayamissakaghatana.md)
 
-

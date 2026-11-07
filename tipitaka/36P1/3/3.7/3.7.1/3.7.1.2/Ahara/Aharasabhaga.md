@@ -21,4 +21,3 @@
 
 [Go to previous page (Āhāra)](../Ahara.md) / [Go to parent page (Āhāra)](../Ahara.md) / [Go to next page (Ghaṭanā)](Ghatana.md)
 
-

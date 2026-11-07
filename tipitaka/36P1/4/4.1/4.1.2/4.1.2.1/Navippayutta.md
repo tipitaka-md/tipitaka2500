@@ -15,12 +15,11 @@
 
 (47.)
 
-2138\. Vipākaṃ dhammaṃ paṭicca vipāko dhammo uppajjati navippayuttapaccayā—  arūpe vipākaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā.
+2138\. Vipākaṁ dhammaṁ paṭicca vipāko dhammo uppajjati navippayuttapaccayā— arūpe vipākaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā.
 
-2139\. Vipākadhammadhammaṃ paṭicca vipākadhammadhammo uppajjati navippayuttapaccayā—  arūpe vipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā.
+2139\. Vipākadhammadhammaṁ paṭicca vipākadhammadhammo uppajjati navippayuttapaccayā— arūpe vipākadhammadhammaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā.
 
-2140\. Nevavipākanavipākadhammadhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati navippayuttapaccayā—  arūpe nevavipākanavipākadhammadhammaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe paṭicca dve khandhā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ.
+2140\. Nevavipākanavipākadhammadhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati navippayuttapaccayā— arūpe nevavipākanavipākadhammadhammaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe paṭicca dve khandhā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ.
 
-[Go to previous page (Nasampayutta)](Nasampayutta.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Nonatthi-novigata)](Nonatthi-novigata.md)
-
+[Go to previous page (Nasampayutta)](Nasampayutta.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Nonatthi-novigata)](Nonatthi-novigata.md)
 

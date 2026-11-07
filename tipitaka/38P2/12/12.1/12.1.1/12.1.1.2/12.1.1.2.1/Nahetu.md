@@ -17,14 +17,13 @@
 
 (5.)
 
-3819\. Kilesaṃ dhammaṃ paṭicca kileso dhammo uppajjati nahetupaccayā—  vicikicchaṃ paṭicca moho, uddhaccaṃ paṭicca moho. (1)
+3819\. Kilesaṁ dhammaṁ paṭicca kileso dhammo uppajjati nahetupaccayā— vicikicchaṁ paṭicca moho, uddhaccaṁ paṭicca moho. (1)
 
-3820\. Nokilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati nahetupaccayā—  ahetukaṃ nokilesaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+3820\. Nokilesaṁ dhammaṁ paṭicca nokileso dhammo uppajjati nahetupaccayā— ahetukaṁ nokilesaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-3821\. Nokilesaṃ dhammaṃ paṭicca kileso dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
+3821\. Nokilesaṁ dhammaṁ paṭicca kileso dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
 
-3822\. Kilesañca nokilesañca dhammaṃ paṭicca kileso dhammo uppajjati nahetupaccayā—  vicikicchāsahagate khandhe ca vicikicchañca paṭicca vicikicchāsahagato moho, uddhaccasahagate khandhe ca uddhaccañca paṭicca uddhaccasahagato moho. (1)
+3822\. Kilesañca nokilesañca dhammaṁ paṭicca kileso dhammo uppajjati nahetupaccayā— vicikicchāsahagate khandhe ca vicikicchañca paṭicca vicikicchāsahagato moho, uddhaccasahagate khandhe ca uddhaccañca paṭicca uddhaccasahagato moho. (1)
 
-[Go to previous page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
-
+[Go to previous page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
 

@@ -15,20 +15,11 @@
 
 (92.)
 
-2795\. Nahetupaccayā naārammaṇe catuvīsati. (Saṃkhittaṃ.)
+2795\. Nahetupaccayā naārammaṇe catuvīsati. (Saṁkhittaṁ.)
 
----
+2796\. (Yathā kusalattike paccanīyagaṇanā vitthāritā, evaṁ vitthāretabbaṁ.)
 
-2796\. (Yathā kusalattike paccanīyagaṇanā vitthāritā, evaṃ vitthāretabbaṃ.)
+2797\. Paccanīyaṁ.
 
-
-
----
-
-2797\. Paccanīyaṃ.
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (5.7.2.1 Saṅkhyāvāra)](../5.7.2.1.md) / [Go to next page (5.7.3 Paccayānulomapaccanīya)](../../5.7.3.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (5.7.2.1 Saṅkhyāvāra)](../5.7.2.1.md) / [Go to next page (5.7.3 Paccayānulomapaccanīya)](../../5.7.3.md)
 

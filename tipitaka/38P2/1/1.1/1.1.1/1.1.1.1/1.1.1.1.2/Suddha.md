@@ -17,14 +17,9 @@
 
 (5.)
 
-12\. Hetuyā nava, ārammaṇe nava (sabbattha nava), avigate nava. (Evaṃ gaṇetabbaṃ.)
+12\. Hetuyā nava, ārammaṇe nava (sabbattha nava), avigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+13\. Anulomaṁ.
 
-13\. Anulomaṃ.
-
-
-
-[Go to previous page (1.1.1.1.2 Saṅkhyāvāra)](../1.1.1.1.2.md) / [Go to parent page (1.1.1.1.2 Saṅkhyāvāra)](../1.1.1.1.2.md) / [Go to next page (1.1.1.2 Paccayapaccanīya)](../../1.1.1.2.md)
-
+[Go to previous page (1.1.1.1.2 Saṅkhyāvāra)](../1.1.1.1.2.md) / [Go to parent page (1.1.1.1.2 Saṅkhyāvāra)](../1.1.1.1.2.md) / [Go to next page (1.1.1.2 Paccayapaccanīya)](../../1.1.1.2.md)
 

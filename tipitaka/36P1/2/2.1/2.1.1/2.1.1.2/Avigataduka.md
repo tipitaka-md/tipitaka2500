@@ -15,17 +15,9 @@
 
 (33.)
 
-203\. Avigatapaccayā hetuyā nava, ārammaṇe tīṇi; adhipatiyā nava…pe…  natthiyā tīṇi, vigate tīṇi.
+203\. Avigatapaccayā hetuyā nava, ārammaṇe tīṇi; adhipatiyā nava…pe… natthiyā tīṇi, vigate tīṇi.
 
----
+204\. (Ekekaṁ paccayaṁ mūlakaṁ kātuna sajjhāyantena gaṇetabbāti.) Anulomaṁ.
 
-204\. (Ekekaṃ paccayaṃ mūlakaṃ kātuna sajjhāyantena gaṇetabbāti.)
-
-  
-Anulomaṃ.
-
-
-
-[Go to previous page (Āhāradukādi)](Aharadukadi.md) / [Go to parent page (2.1.1.2 Saṅkhyāvāra)](../2.1.1.2.md) / [Go to next page (2.1.2 Paccayapaccanīya)](../../2.1.2.md)
-
+[Go to previous page (Āhāradukādi)](Aharadukadi.md) / [Go to parent page (2.1.1.2 Saṅkhyāvāra)](../2.1.1.2.md) / [Go to next page (2.1.2 Paccayapaccanīya)](../../2.1.2.md)
 

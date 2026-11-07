@@ -15,12 +15,7 @@
 
 335\. Sampayuttapaccayā hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi.
 
----
-
-336\. (Yathā hetumūlakaṃ, evaṃ vitthāretabbaṃ.)
-
-
+336\. (Yathā hetumūlakaṁ, evaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Sampayuttaduka)](../Sampayuttaduka.md) / [Go to parent page (Sampayuttaduka)](../Sampayuttaduka.md) / [Go to next page (Vippayuttaduka)](../Vippayuttaduka.md)
-
 

@@ -15,12 +15,11 @@
 
 (30.)
 
-847\. Dassanena pahātabbaṃ…pe…  navippayuttapaccayā—  arūpe dassanena pahātabbaṃ ekaṃ khandhaṃ paṭicca…pe… . (1)
+847\. Dassanena pahātabbaṁ…pe… navippayuttapaccayā— arūpe dassanena pahātabbaṁ ekaṁ khandhaṁ paṭicca…pe… . (1)
 
-848\. Bhāvanāya pahātabbaṃ…pe…  navippayuttapaccayā—  arūpe bhāvanāya pahātabbaṃ ekaṃ khandhaṃ…pe… . (1)
+848\. Bhāvanāya pahātabbaṁ…pe… navippayuttapaccayā— arūpe bhāvanāya pahātabbaṁ ekaṁ khandhaṁ…pe… . (1)
 
-849\. Nevadassanena nabhāvanāya pahātabbaṃ…pe…  navippayuttapaccayā—  arūpe nevadassanena nabhāvanāya pahātabbaṃ ekaṃ khandhaṃ paṭicca…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+849\. Nevadassanena nabhāvanāya pahātabbaṁ…pe… navippayuttapaccayā— arūpe nevadassanena nabhāvanāya pahātabbaṁ ekaṁ khandhaṁ paṭicca…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… . (1)
 
-[Go to previous page (Nasampayutta)](Nasampayutta.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Nonatthi-novigata)](Nonatthi-novigata.md)
-
+[Go to previous page (Nasampayutta)](Nasampayutta.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Nonatthi-novigata)](Nonatthi-novigata.md)
 

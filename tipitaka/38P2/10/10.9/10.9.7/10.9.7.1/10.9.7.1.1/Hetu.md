@@ -17,8 +17,7 @@
 
 (300.)
 
-3056\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa hetupaccayena paccayo—  cittasaṃsaṭṭhasamuṭṭhānā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Cittasaṃsaṭṭhasamuṭṭhānā hetū cittassa cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṃ kātabbaṃ.) Cittasaṃsaṭṭhasamuṭṭhānā hetū sampayuttakānaṃ khandhānaṃ cittassa ca cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
+3056\. Cittasaṁsaṭṭhasamuṭṭhāno dhammo cittasaṁsaṭṭhasamuṭṭhānassa dhammassa hetupaccayena paccayo— cittasaṁsaṭṭhasamuṭṭhānā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṁ kātabbaṁ.) Cittasaṁsaṭṭhasamuṭṭhānā hetū cittassa cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (Mūlaṁ kātabbaṁ.) Cittasaṁsaṭṭhasamuṭṭhānā hetū sampayuttakānaṁ khandhānaṁ cittassa ca cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (3)
 
-[Go to previous page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

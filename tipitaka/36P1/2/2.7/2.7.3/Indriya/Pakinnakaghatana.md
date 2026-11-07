@@ -15,8 +15,7 @@
 
 (460.)
 
-1471\. Indriya nissaya purejāta vippayutta atthi avigatanti nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā ekaṃ, naanantare ekaṃ, nasamanantare ekaṃ, nasahajāte ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napacchājāte ekaṃ, naāsevane ekaṃ, nakamme ekaṃ, navipāke ekaṃ, naāhāre ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, nonatthiyā ekaṃ, novigate ekaṃ.
+1471\. Indriya nissaya purejāta vippayutta atthi avigatanti nahetuyā ekaṁ, naārammaṇe ekaṁ, naadhipatiyā ekaṁ, naanantare ekaṁ, nasamanantare ekaṁ, nasahajāte ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napacchājāte ekaṁ, naāsevane ekaṁ, nakamme ekaṁ, navipāke ekaṁ, naāhāre ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, nonatthiyā ekaṁ, novigate ekaṁ.
 
 [Go to previous page (Indriyamissakaghaṭanā)](Indriyamissakaghatana.md) / [Go to parent page (Indriya)](../Indriya.md) / [Go to next page (Sahajātasāmaññaghaṭanā)](Sahajatasamannaghatana.md)
-
 

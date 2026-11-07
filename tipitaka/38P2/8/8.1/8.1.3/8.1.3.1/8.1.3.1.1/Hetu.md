@@ -17,22 +17,21 @@
 
 (13.)
 
-1916\. Nīvaraṇaṃ dhammaṃ paccayā nīvaraṇo dhammo uppajjati hetupaccayā…  tīṇi.
+1916\. Nīvaraṇaṁ dhammaṁ paccayā nīvaraṇo dhammo uppajjati hetupaccayā… tīṇi.
 
-1917\. Nonīvaraṇaṃ dhammaṃ paccayā nonīvaraṇo dhammo uppajjati hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  (yāva ajjhattikā mahābhūtā), vatthuṃ paccayā nonīvaraṇā khandhā. (1)
+1917\. Nonīvaraṇaṁ dhammaṁ paccayā nonīvaraṇo dhammo uppajjati hetupaccayā— nonīvaraṇaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… (yāva ajjhattikā mahābhūtā), vatthuṁ paccayā nonīvaraṇā khandhā. (1)
 
-1918\. Nonīvaraṇaṃ dhammaṃ paccayā nīvaraṇo dhammo uppajjati hetupaccayā—  nonīvaraṇe khandhe paccayā nīvaraṇā, vatthuṃ paccayā nīvaraṇā. (2)
+1918\. Nonīvaraṇaṁ dhammaṁ paccayā nīvaraṇo dhammo uppajjati hetupaccayā— nonīvaraṇe khandhe paccayā nīvaraṇā, vatthuṁ paccayā nīvaraṇā. (2)
 
-1919\. Nonīvaraṇaṃ dhammaṃ paccayā nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhaṃ paccayā tayo khandhā nīvaraṇā ca cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  vatthuṃ paccayā nīvaraṇā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, vatthuṃ paccayā nīvaraṇā ca sampayuttakā ca khandhā. (3)
+1919\. Nonīvaraṇaṁ dhammaṁ paccayā nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā— nonīvaraṇaṁ ekaṁ khandhaṁ paccayā tayo khandhā nīvaraṇā ca cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… vatthuṁ paccayā nīvaraṇā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, vatthuṁ paccayā nīvaraṇā ca sampayuttakā ca khandhā. (3)
 
 (14.)
 
-1920\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nīvaraṇo dhammo uppajjati hetupaccayā—  kāmacchandanīvaraṇañca sampayuttake ca khandhe paccayā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ (cakkaṃ). Kāmacchandanīvaraṇañca vatthuñca paccayā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ. (Cakkaṃ.) (1)
+1920\. Nīvaraṇañca nonīvaraṇañca dhammaṁ paccayā nīvaraṇo dhammo uppajjati hetupaccayā— kāmacchandanīvaraṇañca sampayuttake ca khandhe paccayā thinamiddhanīvaraṇaṁ uddhaccanīvaraṇaṁ avijjānīvaraṇaṁ (cakkaṁ). Kāmacchandanīvaraṇañca vatthuñca paccayā thinamiddhanīvaraṇaṁ uddhaccanīvaraṇaṁ avijjānīvaraṇaṁ. (Cakkaṁ.) (1)
 
-1921\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nonīvaraṇo dhammo uppajjati hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca nīvaraṇañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  nīvaraṇañca vatthuñca paccayā sampayuttakā khandhā, nīvaraṇañca sampayuttake ca khandhe paccayā cittasamuṭṭhānaṃ rūpaṃ, nīvaraṇe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (2)
+1921\. Nīvaraṇañca nonīvaraṇañca dhammaṁ paccayā nonīvaraṇo dhammo uppajjati hetupaccayā— nonīvaraṇaṁ ekaṁ khandhañca nīvaraṇañca paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… nīvaraṇañca vatthuñca paccayā sampayuttakā khandhā, nīvaraṇañca sampayuttake ca khandhe paccayā cittasamuṭṭhānaṁ rūpaṁ, nīvaraṇe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-1922\. Nīvaraṇañca nonīvaraṇañca dhammaṃ paccayā nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā—  nonīvaraṇaṃ ekaṃ khandhañca kāmacchandanīvaraṇañca paccayā tayo khandhā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ…pe…  dve khandhe…pe…  (cakkaṃ). Kāmacchandanīvaraṇañca vatthuñca paccayā thinamiddhanīvaraṇaṃ uddhaccanīvaraṇaṃ avijjānīvaraṇaṃ sampayuttakā ca khandhā. (Cakkaṃ. Saṃkhittaṃ.) (3)
+1922\. Nīvaraṇañca nonīvaraṇañca dhammaṁ paccayā nīvaraṇo ca nonīvaraṇo ca dhammā uppajjanti hetupaccayā— nonīvaraṇaṁ ekaṁ khandhañca kāmacchandanīvaraṇañca paccayā tayo khandhā thinamiddhanīvaraṇaṁ uddhaccanīvaraṇaṁ avijjānīvaraṇaṁ…pe… dve khandhe…pe… (cakkaṁ). Kāmacchandanīvaraṇañca vatthuñca paccayā thinamiddhanīvaraṇaṁ uddhaccanīvaraṇaṁ avijjānīvaraṇaṁ sampayuttakā ca khandhā. (Cakkaṁ. Saṁkhittaṁ.) (3)
 
-[Go to previous page (8.1.3.1.1 Vibhaṅgavāra)](../8.1.3.1.1.md) / [Go to parent page (8.1.3.1.1 Vibhaṅgavāra)](../8.1.3.1.1.md) / [Go to next page (8.1.3.1.2 Saṅkhyāvāra)](../8.1.3.1.2.md)
-
+[Go to previous page (8.1.3.1.1 Vibhaṅgavāra)](../8.1.3.1.1.md) / [Go to parent page (8.1.3.1.1 Vibhaṅgavāra)](../8.1.3.1.1.md) / [Go to next page (8.1.3.1.2 Saṅkhyāvāra)](../8.1.3.1.2.md)
 

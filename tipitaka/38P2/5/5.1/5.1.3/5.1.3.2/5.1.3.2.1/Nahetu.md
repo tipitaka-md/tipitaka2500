@@ -17,8 +17,7 @@
 
 (14.)
 
-1644\. Noganthaṃ dhammaṃ paccayā nogantho dhammo uppajjati nahetupaccayā—  ahetukaṃ noganthaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  (yāva asaññasattā), cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ. Vatthuṃ paccayā ahetukā noganthā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṃkhittaṃ.)
+1644\. Noganthaṁ dhammaṁ paccayā nogantho dhammo uppajjati nahetupaccayā— ahetukaṁ noganthaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… (yāva asaññasattā), cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ. Vatthuṁ paccayā ahetukā noganthā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (Saṁkhittaṁ.)
 
-[Go to previous page (5.1.3.2.1 Vibhaṅgavāra)](../5.1.3.2.1.md) / [Go to parent page (5.1.3.2.1 Vibhaṅgavāra)](../5.1.3.2.1.md) / [Go to next page (5.1.3.2.2 Saṅkhyāvāra)](../5.1.3.2.2.md)
-
+[Go to previous page (5.1.3.2.1 Vibhaṅgavāra)](../5.1.3.2.1.md) / [Go to parent page (5.1.3.2.1 Vibhaṅgavāra)](../5.1.3.2.1.md) / [Go to next page (5.1.3.2.2 Saṅkhyāvāra)](../5.1.3.2.2.md)
 

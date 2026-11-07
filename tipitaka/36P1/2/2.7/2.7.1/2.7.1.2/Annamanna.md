@@ -6,6 +6,5 @@
 * [Aññamaññasabhāga](Annamanna/Annamannasabhaga.md)
 * [Aññamaññaghaṭanā](Annamanna/Annamannaghatana.md)
 
-[Go to previous page (Sahajātaghaṭanā)](Sahajata/Sahajataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Aññamaññasabhāga)](Annamanna/Annamannasabhaga.md)
-
+[Go to previous page (Sahajātaghaṭanā)](Sahajata/Sahajataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Aññamaññasabhāga)](Annamanna/Annamannasabhaga.md)
 

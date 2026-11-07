@@ -17,8 +17,7 @@
 
 (32.)
 
-2384\. Sārammaṇo dhammo sārammaṇassa dhammassa anantarapaccayena paccayo—  purimā purimā sārammaṇā…pe…  phalasamāpattiyā anantarapaccayena paccayo…  samanantarapaccayena paccayo…  ekaṃ…  sahajātapaccayena paccayo…  satta (paṭiccavāre sahajātasadisā)…  aññamaññapaccayena paccayo…  cha (paṭiccavāre aññamaññasadisaṃ)…  nissayapaccayena paccayo…  satta. (Paccayavāre nissayasadiso.)
+2384\. Sārammaṇo dhammo sārammaṇassa dhammassa anantarapaccayena paccayo— purimā purimā sārammaṇā…pe… phalasamāpattiyā anantarapaccayena paccayo… samanantarapaccayena paccayo… ekaṁ… sahajātapaccayena paccayo… satta (paṭiccavāre sahajātasadisā)… aññamaññapaccayena paccayo… cha (paṭiccavāre aññamaññasadisaṁ)… nissayapaccayena paccayo… satta. (Paccayavāre nissayasadiso.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

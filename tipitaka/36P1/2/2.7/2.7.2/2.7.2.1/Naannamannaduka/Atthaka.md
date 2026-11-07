@@ -15,14 +15,9 @@
 
 * Aṭṭhaka
 
-1202\. Naaññamaññapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā nanissaye ekādasa, naupanissaye satta, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava. (Saṃkhittaṃ.)
+1202\. Naaññamaññapaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā nasahajātapaccayā nanissaye ekādasa, naupanissaye satta, napurejāte ekādasa, napacchājāte nava, naāsevane ekādasa, nakamme ekādasa, navipāke ekādasa, naāhāre ekādasa, naindriye ekādasa, najhāne ekādasa, namagge ekādasa, nasampayutte ekādasa, navippayutte nava, noatthiyā nava, nonatthiyā ekādasa, novigate ekādasa, noavigate nava. (Saṁkhittaṁ.)
 
----
-
-1203\. Naaññamaññamūlakaṃ.
-
-
+1203\. Naaññamaññamūlakaṁ.
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Naaññamaññaduka)](../Naannamannaduka.md) / [Go to next page (Nanissayaduka)](../Nanissayaduka.md)
-
 

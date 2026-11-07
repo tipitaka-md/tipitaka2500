@@ -17,12 +17,11 @@
 
 (302.)
 
-615\. Hetu nevadassanena nabhāvanāya pahātabbahetuko dhammo hetussa nevadassanena nabhāvanāya pahātabbahetukassa dhammassa hetupaccayena paccayo…  tīṇi. (Saṃkhittaṃ.)
+615\. Hetu nevadassanena nabhāvanāya pahātabbahetuko dhammo hetussa nevadassanena nabhāvanāya pahātabbahetukassa dhammassa hetupaccayena paccayo… tīṇi. (Saṁkhittaṁ.)
 
 (303.)
 
-616\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṃkhittaṃ.)
+616\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava, anantare nava, samanantare nava, sahajāte nava, aññamaññe nava, nissaye nava, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge nava, sampayutte nava, vippayutte pañca, atthiyā nava, natthiyā nava, vigate nava, avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

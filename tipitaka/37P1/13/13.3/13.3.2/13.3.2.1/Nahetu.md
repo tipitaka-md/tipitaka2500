@@ -15,8 +15,7 @@
 
 (33.)
 
-1974\. Parittaṃ dhammaṃ paccayā paritto dhammo uppajjati nahetupaccayā—  ahetukaṃ parittaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā parittā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+1974\. Parittaṁ dhammaṁ paccayā paritto dhammo uppajjati nahetupaccayā— ahetukaṁ parittaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paccayā vatthu, vatthuṁ paccayā khandhā; ekaṁ mahābhūtaṁ…pe… asaññasattānaṁ…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā parittā khandhā, vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-[Go to previous page (13.3.2.1 Vibhaṅgavāra)](../13.3.2.1.md) / [Go to parent page (13.3.2.1 Vibhaṅgavāra)](../13.3.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (13.3.2.1 Vibhaṅgavāra)](../13.3.2.1.md) / [Go to parent page (13.3.2.1 Vibhaṅgavāra)](../13.3.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

@@ -17,8 +17,7 @@
 
 (7.)
 
-1630\. Ganthaṃ dhammaṃ paṭicca gantho dhammo uppajjati napurejātapaccayā—  arūpe idaṃsaccābhinivesaṃ kāyaganthaṃ paṭicca abhijjhākāyagantho, abhijjhākāyaganthaṃ paṭicca idaṃsaccābhiniveso kāyagantho (arūpe sīlabbataparāmāso natthi, evaṃ nava pañhā kātabbā), napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi.
+1630\. Ganthaṁ dhammaṁ paṭicca gantho dhammo uppajjati napurejātapaccayā— arūpe idaṁsaccābhinivesaṁ kāyaganthaṁ paṭicca abhijjhākāyagantho, abhijjhākāyaganthaṁ paṭicca idaṁsaccābhiniveso kāyagantho (arūpe sīlabbataparāmāso natthi, evaṁ nava pañhā kātabbā), napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi.
 
-[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (5.1.1.2.1 Vibhaṅgavāra)](../5.1.1.2.1.md) / [Go to next page (5.1.1.2.2 Saṅkhyāvāra)](../5.1.1.2.2.md)
-
+[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (5.1.1.2.1 Vibhaṅgavāra)](../5.1.1.2.1.md) / [Go to next page (5.1.1.2.2 Saṅkhyāvāra)](../5.1.1.2.2.md)
 

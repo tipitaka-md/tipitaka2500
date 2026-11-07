@@ -15,10 +15,9 @@
 
 (17.)
 
-42\. Hetuṃ hetuñceva sahetukañca dhammaṃ paṭicca hetu hetu ceva sahetuko dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+42\. Hetuṁ hetuñceva sahetukañca dhammaṁ paṭicca hetu hetu ceva sahetuko dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-43\. Nahetuṃ sahetukañceva na ca hetuṃ dhammaṃ paṭicca nahetu sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+43\. Nahetuṁ sahetukañceva na ca hetuṁ dhammaṁ paṭicca nahetu sahetuko ceva na ca hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4 Hetuduka, Hetuhetusampayuttaduka)](../../../1.4.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.4 Hetuduka, Hetuhetusampayuttaduka)](../../../1.4.md)
 

@@ -13,8 +13,7 @@
 
 * Tika
 
-779\. Jhānapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṃkhittaṃ.)
+779\. Jhānapaccayā hetupaccayā naadhipatiyā tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Jhānaduka)](../Jhanaduka.md) / [Go to parent page (Jhānaduka)](../Jhanaduka.md) / [Go to next page (Maggaduka)](../Maggaduka.md)
-
 

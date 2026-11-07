@@ -19,6 +19,5 @@
 
 2465\. Hetuyā pañca, ārammaṇe pañca, adhipatiyā pañca (sabbattha pañca), avigate pañca.
 
-[Go to previous page (10.2.3.1.2 Saṅkhyāvāra)](../10.2.3.1.2.md) / [Go to parent page (10.2.3.1.2 Saṅkhyāvāra)](../10.2.3.1.2.md) / [Go to next page (10.2.3.2 Paccayapaccanīya)](../../10.2.3.2.md)
-
+[Go to previous page (10.2.3.1.2 Saṅkhyāvāra)](../10.2.3.1.2.md) / [Go to parent page (10.2.3.1.2 Saṅkhyāvāra)](../10.2.3.1.2.md) / [Go to next page (10.2.3.2 Paccayapaccanīya)](../../10.2.3.2.md)
 

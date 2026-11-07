@@ -17,22 +17,21 @@
 
 (291.)
 
-3036\. Cittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ paccayā cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā…  tīṇi. (Paṭiccasadisā.)
+3036\. Cittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ paccayā cittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā… tīṇi. (Paṭiccasadisā.)
 
-3037\. Nocittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ paccayā nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ…pe…  vatthuṃ paccayā cittaṃ; paṭisandhikkhaṇe…pe… . (1)
+3037\. Nocittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ paccayā nocittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ…pe… vatthuṁ paccayā cittaṁ; paṭisandhikkhaṇe…pe… . (1)
 
-3038\. Nocittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ paccayā cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇasahagatā khandhā…pe…  kāyāyatanaṃ…pe…  cittaṃ paccayā sampayuttakā khandhā, vatthuṃ paccayā cittasaṃsaṭṭhasamuṭṭhānā khandhā. (Paṭisandhikkhaṇe dvepi kātabbā.) (2)
+3038\. Nocittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ paccayā cittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇasahagatā khandhā…pe… kāyāyatanaṁ…pe… cittaṁ paccayā sampayuttakā khandhā, vatthuṁ paccayā cittasaṁsaṭṭhasamuṭṭhānā khandhā. (Paṭisandhikkhaṇe dvepi kātabbā.) (2)
 
-3039\. Nocittasaṃsaṭṭhasamuṭṭhānaṃ dhammaṃ paccayā cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ sampayuttakā ca khandhā…pe…  kāyāyatanaṃ…pe…  vatthuṃ paccayā cittaṃ sampayuttakā ca khandhā. (Paṭisandhikkhaṇe ekaṃ kātabbaṃ.) (3)
+3039\. Nocittasaṁsaṭṭhasamuṭṭhānaṁ dhammaṁ paccayā cittasaṁsaṭṭhasamuṭṭhāno ca nocittasaṁsaṭṭhasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ sampayuttakā ca khandhā…pe… kāyāyatanaṁ…pe… vatthuṁ paccayā cittaṁ sampayuttakā ca khandhā. (Paṭisandhikkhaṇe ekaṁ kātabbaṁ.) (3)
 
 (292.)
 
-3040\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paccayā cittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca cakkhuviññāṇañca paccayā dve khandhā, dve khandhe…pe…  kāyaviññāṇasahagataṃ…pe…  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca cittañca paccayā dve khandhā, dve khandhe…pe…  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā, dve khandhe…pe… . (Paṭisandhikkhaṇe dve kātabbā.) (1)
+3040\. Cittasaṁsaṭṭhasamuṭṭhānañca nocittasaṁsaṭṭhasamuṭṭhānañca dhammaṁ paccayā cittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca cakkhuviññāṇañca paccayā dve khandhā, dve khandhe…pe… kāyaviññāṇasahagataṁ…pe… cittasaṁsaṭṭhasamuṭṭhānaṁ ekaṁ khandhañca cittañca paccayā dve khandhā, dve khandhe…pe… cittasaṁsaṭṭhasamuṭṭhānaṁ ekaṁ khandhañca vatthuñca paccayā dve khandhā, dve khandhe…pe… . (Paṭisandhikkhaṇe dve kātabbā.) (1)
 
-3041\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paccayā nocittasaṃsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe…  cittasaṃsaṭṭhasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṃ. (Paṭisandhikkhaṇe ekaṃ kātabbaṃ.) (2)
+3041\. Cittasaṁsaṭṭhasamuṭṭhānañca nocittasaṁsaṭṭhasamuṭṭhānañca dhammaṁ paccayā nocittasaṁsaṭṭhasamuṭṭhāno dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṁ…pe… kāyaviññāṇasahagate…pe… cittasaṁsaṭṭhasamuṭṭhāne khandhe ca vatthuñca paccayā cittaṁ. (Paṭisandhikkhaṇe ekaṁ kātabbaṁ.) (2)
 
-3042\. Cittasaṃsaṭṭhasamuṭṭhānañca nocittasaṃsaṭṭhasamuṭṭhānañca dhammaṃ paccayā cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā—  cittasaṃsaṭṭhasamuṭṭhānaṃ ekaṃ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe… . (Paṭisandhikkhaṇe ekaṃ kātabbaṃ, saṃkhittaṃ.) (3)
+3042\. Cittasaṁsaṭṭhasamuṭṭhānañca nocittasaṁsaṭṭhasamuṭṭhānañca dhammaṁ paccayā cittasaṁsaṭṭhasamuṭṭhāno ca nocittasaṁsaṭṭhasamuṭṭhāno ca dhammā uppajjanti ārammaṇapaccayā— cittasaṁsaṭṭhasamuṭṭhānaṁ ekaṁ khandhañca vatthuñca paccayā dve khandhā cittañca, dve khandhe…pe… . (Paṭisandhikkhaṇe ekaṁ kātabbaṁ, saṁkhittaṁ.) (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.9.3.1.1 Vibhaṅgavāra)](../10.9.3.1.1.md) / [Go to next page (10.9.3.1.2 Saṅkhyāvāra)](../10.9.3.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.9.3.1.1 Vibhaṅgavāra)](../10.9.3.1.1.md) / [Go to next page (10.9.3.1.2 Saṅkhyāvāra)](../10.9.3.1.2.md)
 

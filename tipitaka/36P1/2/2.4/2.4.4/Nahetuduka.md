@@ -13,22 +13,13 @@
 
 (201.)
 
-690\. Nahetupaccayā ārammaṇe cattāri, anantare cattāri, samanantare cattāri, sahajāte cattāri, aññamaññe cattāri, nissaye cattāri, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme cattāri, vipāke ekaṃ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cattāri, vippayutte cattāri, atthiyā cattāri, natthiyā cattāri, vigate cattāri, avigate cattāri. (Saṃkhittaṃ.)
+690\. Nahetupaccayā ārammaṇe cattāri, anantare cattāri, samanantare cattāri, sahajāte cattāri, aññamaññe cattāri, nissaye cattāri, upanissaye cattāri, purejāte cattāri, āsevane cattāri, kamme cattāri, vipāke ekaṁ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cattāri, vippayutte cattāri, atthiyā cattāri, natthiyā cattāri, vigate cattāri, avigate cattāri. (Saṁkhittaṁ.)
 
----
+691\. Nissayavāre paccanīyānulomaṁ.
 
-691\. Nissayavāre paccanīyānulomaṃ.
-
-
-
-692\. (Paccayattaṃ nāma nissayattaṃ, nissayattaṃ nāma paccayattaṃ.)
-
----
+692\. (Paccayattaṁ nāma nissayattaṁ, nissayattaṁ nāma paccayattaṁ.)
 
 693\. Nissayavāro.
 
-
-
-[Go to previous page (2.4.4 Paccayapaccanīyānuloma)](../2.4.4.md) / [Go to parent page (2.4.4 Paccayapaccanīyānuloma)](../2.4.4.md) / [Go to next page (2.5 Saṃsaṭṭhavāra)](../../2.5.md)
-
+[Go to previous page (2.4.4 Paccayapaccanīyānuloma)](../2.4.4.md) / [Go to parent page (2.4.4 Paccayapaccanīyānuloma)](../2.4.4.md) / [Go to next page (2.5 Saṃsaṭṭhavāra)](../../2.5.md)
 

@@ -13,32 +13,27 @@
 
 (28.)
 
-2364\. Kilesavippayuttaṃ saṃkilesikaṃ kusalaṃ dhammaṃ paṭicca kilesavippayutto saṃkilesiko kusalo dhammo uppajjati hetupaccayā. (1)
+2364\. Kilesavippayuttaṁ saṁkilesikaṁ kusalaṁ dhammaṁ paṭicca kilesavippayutto saṁkilesiko kusalo dhammo uppajjati hetupaccayā. (1)
 
-2365\. Kilesavippayuttaṃ asaṃkilesikaṃ kusalaṃ dhammaṃ paṭicca kilesavippayutto asaṃkilesiko kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2365\. Kilesavippayuttaṁ asaṁkilesikaṁ kusalaṁ dhammaṁ paṭicca kilesavippayutto asaṁkilesiko kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (29.)
 
-2366\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ. Lokiyadukakusalasadisaṃ. Sahajātavārepi…pe…  pañhāvārepi vitthāretabbaṃ.)
+2366\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ. Lokiyadukakusalasadisaṁ. Sahajātavārepi…pe… pañhāvārepi vitthāretabbaṁ.)
 
 (30.)
 
-2367\. Kilesavippayuttaṃ saṃkilesikaṃ abyākataṃ dhammaṃ paṭicca kilesavippayutto saṃkilesiko abyākato dhammo uppajjati hetupaccayā. (1)
+2367\. Kilesavippayuttaṁ saṁkilesikaṁ abyākataṁ dhammaṁ paṭicca kilesavippayutto saṁkilesiko abyākato dhammo uppajjati hetupaccayā. (1)
 
-2368\. Kilesavippayuttaṃ asaṃkilesikaṃ abyākataṃ dhammaṃ paṭicca kilesavippayutto asaṃkilesiko abyākato dhammo uppajjati hetupaccayā…  tīṇi.
+2368\. Kilesavippayuttaṁ asaṁkilesikaṁ abyākataṁ dhammaṁ paṭicca kilesavippayutto asaṁkilesiko abyākato dhammo uppajjati hetupaccayā… tīṇi.
 
-2369\. Kilesavippayuttaṃ saṃkilesikaṃ abyākatañca kilesavippayuttaṃ asaṃkilesikaṃ abyākatañca dhammaṃ paṭicca kilesavippayutto saṃkilesiko abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2369\. Kilesavippayuttaṁ saṁkilesikaṁ abyākatañca kilesavippayuttaṁ asaṁkilesikaṁ abyākatañca dhammaṁ paṭicca kilesavippayutto saṁkilesiko abyākato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (31.)
 
-2370\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ. Lokiyadukaabyākatasadisaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbaṃ.)
+2370\. Hetuyā pañca, ārammaṇe dve…pe… āsevane ekaṁ…pe… avigate pañca. (Saṁkhittaṁ. Lokiyadukaabyākatasadisaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāretabbaṁ.)
 
----
+2371\. Kilesagocchakakusalattikaṁ niṭṭhitaṁ.
 
-2371\. Kilesagocchakakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (12.8.1--7 Paṭiccādivāra)](../12.8.1--7.md) / [Go to parent page (12.8.1--7 Paṭiccādivāra)](../12.8.1--7.md) / [Go to next page (13 Piṭṭhiduka, Kusalattika)](../../../13.md)
-
+[Go to previous page (12.8.1--7 Paṭiccādivāra)](../12.8.1--7.md) / [Go to parent page (12.8.1--7 Paṭiccādivāra)](../12.8.1--7.md) / [Go to next page (13 Piṭṭhiduka, Kusalattika)](../../../13.md)
 

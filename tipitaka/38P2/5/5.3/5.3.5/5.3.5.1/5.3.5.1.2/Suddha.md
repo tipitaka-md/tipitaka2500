@@ -17,14 +17,9 @@
 
 (64.)
 
-1761\. Hetuyā cha, ārammaṇe cha, adhipatiyā cha (sabbattha cha), vipāke ekaṃ, āhāre cha…pe…  avigate cha.
+1761\. Hetuyā cha, ārammaṇe cha, adhipatiyā cha (sabbattha cha), vipāke ekaṁ, āhāre cha…pe… avigate cha.
 
----
+1762\. Anulomaṁ.
 
-1762\. Anulomaṃ.
-
-
-
-[Go to previous page (5.3.5.1.2 Saṅkhyāvāra)](../5.3.5.1.2.md) / [Go to parent page (5.3.5.1.2 Saṅkhyāvāra)](../5.3.5.1.2.md) / [Go to next page (5.3.5.2 Paccayapaccanīya)](../../5.3.5.2.md)
-
+[Go to previous page (5.3.5.1.2 Saṅkhyāvāra)](../5.3.5.1.2.md) / [Go to parent page (5.3.5.1.2 Saṅkhyāvāra)](../5.3.5.1.2.md) / [Go to next page (5.3.5.2 Paccayapaccanīya)](../../5.3.5.2.md)
 

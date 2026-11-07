@@ -19,12 +19,7 @@
 
 1061\. Āsevana anantara samanantara upanissaya natthi vigatanti tīṇi.
 
----
-
-1062\. Āsevanamūlakaṃ.
-
-
+1062\. Āsevanamūlakaṁ.
 
 [Go to previous page (Āsevanasabhāga)](Asevanasabhaga.md) / [Go to parent page (Āsevana)](../Asevana.md) / [Go to next page (Kamma)](../Kamma.md)
-
 

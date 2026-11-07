@@ -17,10 +17,9 @@
 
 (28.)
 
-1312\. Hetusampayutto kusalo dhammo hetusampayuttassa kusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1312\. Hetusampayutto kusalo dhammo hetusampayuttassa kusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
-1313\. Hetuyā ekaṃ, ārammaṇe ekaṃ, adhipatiyā ekaṃ, anantare ekaṃ, samanantare ekaṃ…pe…  kamme ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1313\. Hetuyā ekaṁ, ārammaṇe ekaṁ, adhipatiyā ekaṁ, anantare ekaṁ, samanantare ekaṁ…pe… kamme ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

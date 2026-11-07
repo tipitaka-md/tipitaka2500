@@ -15,8 +15,7 @@
 
 (8.)
 
-2604\. Uppanno dhammo uppannassa dhammassa nissayapaccayena paccayo—  uppanno eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ nissayapaccayena paccayo…pe…  dve khandhā…pe…  paṭisandhikkhaṇe…pe…  khandhā vatthussa…pe…  vatthu khandhānaṃ…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  mahābhūtā cittasamuṭṭhānānaṃ rūpānaṃ kaṭattārūpānaṃ upādārūpānaṃ cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu uppannānaṃ khandhānaṃ nissayapaccayena paccayo. (1)
+2604\. Uppanno dhammo uppannassa dhammassa nissayapaccayena paccayo— uppanno eko khandho tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ nissayapaccayena paccayo…pe… dve khandhā…pe… paṭisandhikkhaṇe…pe… khandhā vatthussa…pe… vatthu khandhānaṁ…pe… ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… mahābhūtā cittasamuṭṭhānānaṁ rūpānaṁ kaṭattārūpānaṁ upādārūpānaṁ cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu uppannānaṁ khandhānaṁ nissayapaccayena paccayo. (1)
 
-[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (18.7.1.1 Vibhaṅgavāra)](../18.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

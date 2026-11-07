@@ -17,22 +17,21 @@
 
 (57.)
 
-3672\. Upādānasampayuttaṃ dhammaṃ paccayā upādānasampayutto dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccasadisaṃ.)
+3672\. Upādānasampayuttaṁ dhammaṁ paccayā upādānasampayutto dhammo uppajjati hetupaccayā… tīṇi. (Paṭiccasadisaṁ.)
 
-3673\. Upādānavippayuttaṃ dhammaṃ paccayā upādānavippayutto dhammo uppajjati hetupaccayā—  upādānavippayuttaṃ ekaṃ khandhaṃ paccayā…pe…  (yāva ajjhattikā mahābhūtā) vatthuṃ paccayā upādānavippayuttā khandhā, vatthuṃ paccayā diṭṭhigatavippayutto lobho. (1)
+3673\. Upādānavippayuttaṁ dhammaṁ paccayā upādānavippayutto dhammo uppajjati hetupaccayā— upādānavippayuttaṁ ekaṁ khandhaṁ paccayā…pe… (yāva ajjhattikā mahābhūtā) vatthuṁ paccayā upādānavippayuttā khandhā, vatthuṁ paccayā diṭṭhigatavippayutto lobho. (1)
 
-3674\. Upādānavippayuttaṃ dhammaṃ paccayā upādānasampayutto dhammo uppajjati hetupaccayā—  vatthuṃ paccayā upādānasampayuttā khandhā, diṭṭhigatavippayuttaṃ lobhaṃ paccayā sampayuttakā khandhā. (2)
+3674\. Upādānavippayuttaṁ dhammaṁ paccayā upādānasampayutto dhammo uppajjati hetupaccayā— vatthuṁ paccayā upādānasampayuttā khandhā, diṭṭhigatavippayuttaṁ lobhaṁ paccayā sampayuttakā khandhā. (2)
 
-3675\. Upādānavippayuttaṃ dhammaṃ paccayā upādānasampayutto ca upādānavippayutto ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā upādānasampayuttakā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ; diṭṭhigatavippayuttaṃ lobhaṃ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṃ, vatthuṃ paccayā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca. (3)
+3675\. Upādānavippayuttaṁ dhammaṁ paccayā upādānasampayutto ca upādānavippayutto ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā upādānasampayuttakā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ; diṭṭhigatavippayuttaṁ lobhaṁ paccayā sampayuttakā khandhā cittasamuṭṭhānañca rūpaṁ, vatthuṁ paccayā diṭṭhigatavippayuttalobhasahagatā khandhā ca lobho ca. (3)
 
 (58.)
 
-3676\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paccayā upādānasampayutto dhammo uppajjati hetupaccayā—  upādānasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca lobhañca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+3676\. Upādānasampayuttañca upādānavippayuttañca dhammaṁ paccayā upādānasampayutto dhammo uppajjati hetupaccayā— upādānasampayuttaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… diṭṭhigatavippayuttalobhasahagataṁ ekaṁ khandhañca lobhañca paccayā tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-3677\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paccayā upādānavippayutto dhammo uppajjati hetupaccayā—  upādānasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paccayā cittasamuṭṭhānaṃ rūpaṃ, diṭṭhigatavippayuttalobhasahagate khandhe ca vatthuñca paccayā lobho. (2)
+3677\. Upādānasampayuttañca upādānavippayuttañca dhammaṁ paccayā upādānavippayutto dhammo uppajjati hetupaccayā— upādānasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ, diṭṭhigatavippayuttalobhasahagate khandhe ca lobhañca paccayā cittasamuṭṭhānaṁ rūpaṁ, diṭṭhigatavippayuttalobhasahagate khandhe ca vatthuñca paccayā lobho. (2)
 
-3678\. Upādānasampayuttañca upādānavippayuttañca dhammaṃ paccayā upādānasampayutto ca upādānavippayutto ca dhammā uppajjanti hetupaccayā—  upādānasampayuttaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  upādānasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; diṭṭhigatavippayuttalobhasahagataṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā lobho ca…pe…  dve khandhe ca…pe… . (3) (Saṃkhittaṃ. Ārammaṇapaccayamhi pañca viññāṇā kātabbā.)
+3678\. Upādānasampayuttañca upādānavippayuttañca dhammaṁ paccayā upādānasampayutto ca upādānavippayutto ca dhammā uppajjanti hetupaccayā— upādānasampayuttaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… upādānasampayutte khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ; diṭṭhigatavippayuttalobhasahagataṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā lobho ca…pe… dve khandhe ca…pe… . (3) (Saṁkhittaṁ. Ārammaṇapaccayamhi pañca viññāṇā kātabbā.)
 
-[Go to previous page (11.3.3.1.1 Vibhaṅgavāra)](../11.3.3.1.1.md) / [Go to parent page (11.3.3.1.1 Vibhaṅgavāra)](../11.3.3.1.1.md) / [Go to next page (11.3.3.1.2 Saṅkhyāvāra)](../11.3.3.1.2.md)
-
+[Go to previous page (11.3.3.1.1 Vibhaṅgavāra)](../11.3.3.1.1.md) / [Go to parent page (11.3.3.1.1 Vibhaṅgavāra)](../11.3.3.1.1.md) / [Go to next page (11.3.3.1.2 Saṅkhyāvāra)](../11.3.3.1.2.md)
 

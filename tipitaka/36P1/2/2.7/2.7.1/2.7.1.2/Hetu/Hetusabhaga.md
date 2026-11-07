@@ -17,8 +17,7 @@
 
 (304.)
 
-1008\. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke ekaṃ, indriye cattāri, magge cattāri, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (11)
+1008\. Hetupaccayā adhipatiyā cattāri, sahajāte satta, aññamaññe tīṇi, nissaye satta, vipāke ekaṁ, indriye cattāri, magge cattāri, sampayutte tīṇi, vippayutte tīṇi, atthiyā satta, avigate satta. (11)
 
 [Go to previous page (Suddha)](Suddha.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Hetusāmaññaghaṭanā)](Hetusamannaghatana.md)
-
 

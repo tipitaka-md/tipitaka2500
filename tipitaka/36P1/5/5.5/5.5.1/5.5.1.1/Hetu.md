@@ -15,12 +15,11 @@
 
 (47.)
 
-2590\. Upādinnupādāniyaṃ dhammaṃ saṃsaṭṭho upādinnupādāniyo dhammo uppajjati hetupaccayā—  upādinnupādāniyaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā, tayo khandhe saṃsaṭṭho eko khandho, dve khandhe saṃsaṭṭhā dve khandhā, paṭisandhikkhaṇe upādinnupādāniyaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. (1)
+2590\. Upādinnupādāniyaṁ dhammaṁ saṁsaṭṭho upādinnupādāniyo dhammo uppajjati hetupaccayā— upādinnupādāniyaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā, tayo khandhe saṁsaṭṭho eko khandho, dve khandhe saṁsaṭṭhā dve khandhā, paṭisandhikkhaṇe upādinnupādāniyaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā. (1)
 
-2591\. Anupādinnupādāniyaṃ dhammaṃ saṃsaṭṭho anupādinnupādāniyo dhammo uppajjati hetupaccayā—  anupādinnupādāniyaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. (1)
+2591\. Anupādinnupādāniyaṁ dhammaṁ saṁsaṭṭho anupādinnupādāniyo dhammo uppajjati hetupaccayā— anupādinnupādāniyaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā. (1)
 
-2592\. Anupādinnaanupādāniyaṃ dhammaṃ saṃsaṭṭho anupādinnaanupādāniyo dhammo uppajjati hetupaccayā—  anupādinnaanupādāniyaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe saṃsaṭṭhā dve khandhā. (1) (Saṃkhittaṃ.)
+2592\. Anupādinnaanupādāniyaṁ dhammaṁ saṁsaṭṭho anupādinnaanupādāniyo dhammo uppajjati hetupaccayā— anupādinnaanupādāniyaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe saṁsaṭṭhā dve khandhā. (1) (Saṁkhittaṁ.)
 
-[Go to previous page (5.5.1.1 Vibhaṅgavāra)](../5.5.1.1.md) / [Go to parent page (5.5.1.1 Vibhaṅgavāra)](../5.5.1.1.md) / [Go to next page (5.5.1.2 Saṅkhyāvāra)](../5.5.1.2.md)
-
+[Go to previous page (5.5.1.1 Vibhaṅgavāra)](../5.5.1.1.md) / [Go to parent page (5.5.1.1 Vibhaṅgavāra)](../5.5.1.1.md) / [Go to next page (5.5.1.2 Saṅkhyāvāra)](../5.5.1.2.md)
 

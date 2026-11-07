@@ -13,64 +13,63 @@
 
 (72.)
 
-209\. Sappaccayaṃ hetuṃ dhammaṃ paṭicca sappaccayo hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+209\. Sappaccayaṁ hetuṁ dhammaṁ paṭicca sappaccayo hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-210\. Sappaccayaṃ nahetuṃ dhammaṃ paṭicca sappaccayo nahetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+210\. Sappaccayaṁ nahetuṁ dhammaṁ paṭicca sappaccayo nahetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
 (73.)
 
-211\. Saṅkhataṃ hetuṃ dhammaṃ paṭicca saṅkhato hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+211\. Saṅkhataṁ hetuṁ dhammaṁ paṭicca saṅkhato hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-212\. Saṅkhataṃ nahetuṃ dhammaṃ paṭicca saṅkhato nahetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+212\. Saṅkhataṁ nahetuṁ dhammaṁ paṭicca saṅkhato nahetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
 (74.)
 
-213\. Anidassanaṃ hetuṃ dhammaṃ paṭicca anidassano hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+213\. Anidassanaṁ hetuṁ dhammaṁ paṭicca anidassano hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-214\. Anidassanaṃ nahetuṃ dhammaṃ paṭicca anidassano nahetu dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+214\. Anidassanaṁ nahetuṁ dhammaṁ paṭicca anidassano nahetu dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-215\. Hetuyā tīṇi, ārammaṇe ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+215\. Hetuyā tīṇi, ārammaṇe ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
 (75.)
 
-216\. Appaṭighaṃ hetuṃ dhammaṃ paṭicca sappaṭigho hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+216\. Appaṭighaṁ hetuṁ dhammaṁ paṭicca sappaṭigho hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-217\. Sappaṭighaṃ nahetuṃ dhammaṃ paṭicca sappaṭigho nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+217\. Sappaṭighaṁ nahetuṁ dhammaṁ paṭicca sappaṭigho nahetu dhammo uppajjati hetupaccayā… tīṇi.
 
-218\. Appaṭighaṃ nahetuṃ dhammaṃ paṭicca appaṭigho nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+218\. Appaṭighaṁ nahetuṁ dhammaṁ paṭicca appaṭigho nahetu dhammo uppajjati hetupaccayā… tīṇi.
 
-219\. Sappaṭighaṃ nahetuñca appaṭighaṃ nahetuñca dhammaṃ paṭicca sappaṭigho nahetu dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+219\. Sappaṭighaṁ nahetuñca appaṭighaṁ nahetuñca dhammaṁ paṭicca sappaṭigho nahetu dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
-220\. Hetuyā nava, ārammaṇe ekaṃ…pe…  aññamaññe cha…pe…  avigate nava.
+220\. Hetuyā nava, ārammaṇe ekaṁ…pe… aññamaññe cha…pe… avigate nava.
 
 (76.)
 
-221\. Arūpiṃ hetuṃ dhammaṃ paṭicca arūpī hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṃ.)
+221\. Arūpiṁ hetuṁ dhammaṁ paṭicca arūpī hetu dhammo uppajjati hetupaccayā. (Sabbattha ekaṁ.)
 
-222\. Rūpiṃ nahetuṃ dhammaṃ paṭicca rūpī nahetu dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+222\. Rūpiṁ nahetuṁ dhammaṁ paṭicca rūpī nahetu dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-223\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe…  aññamaññe cha…pe…  purejāte āsevane ekaṃ…pe…  avigate nava. (Saṃkhittaṃ.)
+223\. Hetuyā nava, ārammaṇe tīṇi, adhipatiyā pañca…pe… aññamaññe cha…pe… purejāte āsevane ekaṁ…pe… avigate nava. (Saṁkhittaṁ.)
 
 (77.)
 
-224\. Lokiyaṃ hetuṃ dhammaṃ paṭicca lokiyo hetu dhammo uppajjati hetupaccayā. (1)
+224\. Lokiyaṁ hetuṁ dhammaṁ paṭicca lokiyo hetu dhammo uppajjati hetupaccayā. (1)
 
-225\. Lokuttaraṃ hetuṃ dhammaṃ paṭicca lokuttaro hetu dhammo uppajjati hetupaccayā. (1) (Sabbattha dve.)
+225\. Lokuttaraṁ hetuṁ dhammaṁ paṭicca lokuttaro hetu dhammo uppajjati hetupaccayā. (1) (Sabbattha dve.)
 
-226\. Lokiyaṃ nahetuṃ dhammaṃ paṭicca lokiyo nahetu dhammo uppajjati hetupaccayā. (1)
+226\. Lokiyaṁ nahetuṁ dhammaṁ paṭicca lokiyo nahetu dhammo uppajjati hetupaccayā. (1)
 
-227\. Lokuttaraṃ nahetuṃ dhammaṃ paṭicca lokuttaro nahetu dhammo uppajjati hetupaccayā…  tīṇi.
+227\. Lokuttaraṁ nahetuṁ dhammaṁ paṭicca lokuttaro nahetu dhammo uppajjati hetupaccayā… tīṇi.
 
-228\. Lokiyaṃ nahetuñca lokuttaraṃ nahetuñca dhammaṃ paṭicca lokiyo nahetu dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+228\. Lokiyaṁ nahetuñca lokuttaraṁ nahetuñca dhammaṁ paṭicca lokiyo nahetu dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-229\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.)
+229\. Hetuyā pañca, ārammaṇe dve…pe… avigate pañca. (Saṁkhittaṁ.)
 
 (78.)
 
-230\. Kenaci viññeyyaṃ hetuṃ dhammaṃ paṭicca…pe…  nakenaci viññeyyaṃ hetuṃ dhammaṃ paṭicca… . (Sabbattha nava.)
+230\. Kenaci viññeyyaṁ hetuṁ dhammaṁ paṭicca…pe… nakenaci viññeyyaṁ hetuṁ dhammaṁ paṭicca… . (Sabbattha nava.)
 
-231\. Kenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca…pe…  nakenaci viññeyyaṃ nahetuṃ dhammaṃ paṭicca… . (Sabbattha nava.)
+231\. Kenaci viññeyyaṁ nahetuṁ dhammaṁ paṭicca…pe… nakenaci viññeyyaṁ nahetuṁ dhammaṁ paṭicca… . (Sabbattha nava.)
 
-[Go to previous page (1.42.1--7 Paṭiccādivāra)](../1.42.1--7.md) / [Go to parent page (1.42.1--7 Paṭiccādivāra)](../1.42.1--7.md) / [Go to next page (1.43 Āsavagocchaka, Hetuduka)](../../1.43.md)
-
+[Go to previous page (1.42.1--7 Paṭiccādivāra)](../1.42.1--7.md) / [Go to parent page (1.42.1--7 Paṭiccādivāra)](../1.42.1--7.md) / [Go to next page (1.43 Āsavagocchaka, Hetuduka)](../../1.43.md)
 

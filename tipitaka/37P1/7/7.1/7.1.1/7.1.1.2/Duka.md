@@ -13,17 +13,9 @@
 
 * Duka
 
-100\. Hetupaccayā ārammaṇe ekavīsa…pe…  avigate sattatiṃsa. (Saṃkhittaṃ.)
+100\. Hetupaccayā ārammaṇe ekavīsa…pe… avigate sattatiṁsa. (Saṁkhittaṁ.)
 
----
+101\. (Yathā kusalattike gaṇanā, evaṁ gaṇetabbaṁ.) Anulomaṁ.
 
-101\. (Yathā kusalattike gaṇanā, evaṃ gaṇetabbaṃ.)
-
-  
-Anulomaṃ.
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (7.1.1.2 Saṅkhyāvāra)](../7.1.1.2.md) / [Go to next page (7.1.2 Paccayapaccanīya)](../../7.1.2.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (7.1.1.2 Saṅkhyāvāra)](../7.1.1.2.md) / [Go to next page (7.1.2 Paccayapaccanīya)](../../7.1.2.md)
 

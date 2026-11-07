@@ -15,14 +15,13 @@
 
 (30.)
 
-1647\. Sāsavañceva no ca āsavaṃ kusalaṃ dhammaṃ paṭicca sāsavo ceva no ca āsavo kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1647\. Sāsavañceva no ca āsavaṁ kusalaṁ dhammaṁ paṭicca sāsavo ceva no ca āsavo kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (31.)
 
-1648\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1648\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1649\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1649\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (4.4.1.1--7 Paṭiccādivāra)](../4.4.1.1--7.md) / [Go to parent page (4.4.1.1--7 Paṭiccādivāra)](../4.4.1.1--7.md) / [Go to next page (4.4.2 Akusalapada)](../../4.4.2.md)
-
+[Go to previous page (4.4.1.1--7 Paṭiccādivāra)](../4.4.1.1--7.md) / [Go to parent page (4.4.1.1--7 Paṭiccādivāra)](../4.4.1.1--7.md) / [Go to next page (4.4.2 Akusalapada)](../../4.4.2.md)
 

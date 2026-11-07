@@ -17,22 +17,21 @@
 
 (18.)
 
-2357\. Sārammaṇaṃ dhammaṃ paccayā sārammaṇo dhammo uppajjati nahetupaccayā…  tīṇi. (Paṭiccavārasadisaṃ.)
+2357\. Sārammaṇaṁ dhammaṁ paccayā sārammaṇo dhammo uppajjati nahetupaccayā… tīṇi. (Paṭiccavārasadisaṁ.)
 
-2358\. Anārammaṇaṃ dhammaṃ paccayā anārammaṇo dhammo uppajjati nahetupaccayā—  ekaṃ mahābhūtaṃ…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… . (1)
+2358\. Anārammaṇaṁ dhammaṁ paccayā anārammaṇo dhammo uppajjati nahetupaccayā— ekaṁ mahābhūtaṁ…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… . (1)
 
-2359\. Anārammaṇaṃ dhammaṃ paccayā sārammaṇo dhammo uppajjati nahetupaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā sārammaṇā khandhā; paṭisandhikkhaṇe…pe…  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
+2359\. Anārammaṇaṁ dhammaṁ paccayā sārammaṇo dhammo uppajjati nahetupaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā sārammaṇā khandhā; paṭisandhikkhaṇe…pe… vatthuṁ paccayā vicikicchāsahagato uddhaccasahagato moho. (2)
 
-2360\. Anārammaṇaṃ dhammaṃ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  vatthuṃ paccayā ahetukā sārammaṇā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (3)
+2360\. Anārammaṇaṁ dhammaṁ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā— vatthuṁ paccayā ahetukā sārammaṇā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (3)
 
 (19.)
 
-2361\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo dhammo uppajjati nahetupaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  kāyaviññāṇasahagataṃ…pe…  ahetukaṃ sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  ahetukapaṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+2361\. Sārammaṇañca anārammaṇañca dhammaṁ paccayā sārammaṇo dhammo uppajjati nahetupaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe… dve khandhe ca…pe… kāyaviññāṇasahagataṁ…pe… ahetukaṁ sārammaṇaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… ahetukapaṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-2362\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā anārammaṇo dhammo uppajjati nahetupaccayā—  ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; paṭisandhikkhaṇe…pe… . (2)
+2362\. Sārammaṇañca anārammaṇañca dhammaṁ paccayā anārammaṇo dhammo uppajjati nahetupaccayā— ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ; paṭisandhikkhaṇe…pe… . (2)
 
-2363\. Sārammaṇañca anārammaṇañca dhammaṃ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā—  ahetukaṃ sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ; ahetukapaṭisandhikkhaṇe ahetukaṃ sārammaṇaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā kaṭattārūpaṃ…pe…  (Saṃkhittaṃ.) (3)
+2363\. Sārammaṇañca anārammaṇañca dhammaṁ paccayā sārammaṇo ca anārammaṇo ca dhammā uppajjanti nahetupaccayā— ahetukaṁ sārammaṇaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ; ahetukapaṭisandhikkhaṇe ahetukaṁ sārammaṇaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… ahetuke sārammaṇe khandhe ca mahābhūte ca paccayā kaṭattārūpaṁ…pe… (Saṁkhittaṁ.) (3)
 
-[Go to previous page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to parent page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to next page (10.1.3.2.2 Saṅkhyāvāra)](../10.1.3.2.2.md)
-
+[Go to previous page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to parent page (10.1.3.2.1 Vibhaṅgavāra)](../10.1.3.2.1.md) / [Go to next page (10.1.3.2.2 Saṅkhyāvāra)](../10.1.3.2.2.md)
 

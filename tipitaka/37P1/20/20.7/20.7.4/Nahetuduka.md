@@ -13,23 +13,11 @@
 
 (45.)
 
-2757\. Nahetupaccayā ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme nava, vipāke tīṇi, āhāre indriye jhāne magge sampayutte atthiyā tīṇi, natthiyā satta, vigate satta, avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+2757\. Nahetupaccayā ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme nava, vipāke tīṇi, āhāre indriye jhāne magge sampayutte atthiyā tīṇi, natthiyā satta, vigate satta, avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+2758\. Paccanīyānulomaṁ. Pañhāvāro.
 
-2758\. Paccanīyānulomaṃ.
+2759\. Atītārammaṇattikaṁ niṭṭhitaṁ.
 
-  
-Pañhāvāro.
-
-
-
----
-
-2759\. Atītārammaṇattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (20.7.4 Paccayapaccanīyānuloma)](../20.7.4.md) / [Go to parent page (20.7.4 Paccayapaccanīyānuloma)](../20.7.4.md) / [Go to next page (21 Ajjhattattika)](../../../21.md)
-
+[Go to previous page (20.7.4 Paccayapaccanīyānuloma)](../20.7.4.md) / [Go to parent page (20.7.4 Paccayapaccanīyānuloma)](../20.7.4.md) / [Go to next page (21 Ajjhattattika)](../../../21.md)
 

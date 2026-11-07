@@ -15,10 +15,9 @@
 
 (130.)
 
-484\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati jhānapaccayā…pe…  maggapaccayā.
+484\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati jhānapaccayā…pe… maggapaccayā.
 
-485\. (Jhānapaccayāpi maggapaccayāpi yathā hetupaccayā, evaṃ vitthāretabbaṃ.)
+485\. (Jhānapaccayāpi maggapaccayāpi yathā hetupaccayā, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Sampayutta)](Sampayutta.md)
-
+[Go to previous page (Indriya)](Indriya.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Sampayutta)](Sampayutta.md)
 

@@ -17,16 +17,15 @@
 
 (437.)
 
-949\. Hetuṃ sammattaniyataṃ dhammaṃ paṭicca hetu sammattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
+949\. Hetuṁ sammattaniyataṁ dhammaṁ paṭicca hetu sammattaniyato dhammo uppajjati hetupaccayā… tīṇi.
 
-950\. Nahetuṃ sammattaniyataṃ dhammaṃ paṭicca nahetu sammattaniyato dhammo uppajjati hetupaccayā…  tīṇi.
+950\. Nahetuṁ sammattaniyataṁ dhammaṁ paṭicca nahetu sammattaniyato dhammo uppajjati hetupaccayā… tīṇi.
 
-951\. Hetuṃ sammattaniyatañca nahetuṃ sammattaniyatañca dhammaṃ paṭicca hetu sammattaniyato dhammo uppajjati hetupaccayā…  tīṇi. (Saṃkhittaṃ.)
+951\. Hetuṁ sammattaniyatañca nahetuṁ sammattaniyatañca dhammaṁ paṭicca hetu sammattaniyato dhammo uppajjati hetupaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (438.)
 
-952\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  purejāte nava, āsevane nava, kamme nava, āhāre nava…pe…  avigate nava. (Saṃkhittaṃ.)
+952\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… purejāte nava, āsevane nava, kamme nava, āhāre nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
 

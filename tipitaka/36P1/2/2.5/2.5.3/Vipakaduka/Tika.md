@@ -13,8 +13,7 @@
 
 * Tika
 
-773\. Vipākapaccayā hetupaccayā naadhipatiyā ekaṃ. (Saṃkhittaṃ.)
+773\. Vipākapaccayā hetupaccayā naadhipatiyā ekaṁ. (Saṁkhittaṁ.)
 
 [Go to previous page (Vipākaduka)](../Vipakaduka.md) / [Go to parent page (Vipākaduka)](../Vipakaduka.md) / [Go to next page (Āhāraduka)](../Aharaduka.md)
-
 

@@ -15,8 +15,7 @@
 
 (18.)
 
-170\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati atthipaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā. (Saṃkhittaṃ. Atthipaccayaṃ sahajātapaccayasadisaṃ.)
+170\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati atthipaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā. (Saṁkhittaṁ. Atthipaccayaṁ sahajātapaccayasadisaṁ.)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Natthi-vigata)](Natthi-vigata.md)
-
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Natthi-vigata)](Natthi-vigata.md)
 

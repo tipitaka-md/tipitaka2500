@@ -15,8 +15,7 @@
 
 (68.)
 
-2212\. Vipākaṃ dhammaṃ paccayā vipāko dhammo uppajjati nissayapaccayā. (Sahajātasadisaṃ.)
+2212\. Vipākaṁ dhammaṁ paccayā vipāko dhammo uppajjati nissayapaccayā. (Sahajātasadisaṁ.)
 
-[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Upanissaya-purejāta)](Upanissaya-purejata.md)
-
+[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Upanissaya-purejāta)](Upanissaya-purejata.md)
 

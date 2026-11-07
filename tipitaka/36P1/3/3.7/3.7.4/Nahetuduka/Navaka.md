@@ -13,8 +13,7 @@
 
 * Navaka
 
-2029\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) nanissayapaccayā upanissaye nava, kamme aṭṭha…pe… .
+2029\. Nahetupaccayā naārammaṇapaccayā (mūlakaṁ saṁkhittaṁ) nanissayapaccayā upanissaye nava, kamme aṭṭha…pe… .
 
 [Go to previous page (Chakka)](Chakka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Catuvīsaka (saupanissaya))](Catuvisaka_saupanissaya.md)
-
 

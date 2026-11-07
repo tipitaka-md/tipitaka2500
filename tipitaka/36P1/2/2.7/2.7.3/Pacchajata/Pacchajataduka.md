@@ -19,4 +19,3 @@
 
 [Go to previous page (Pacchājāta)](../Pacchajata.md) / [Go to parent page (Pacchājāta)](../Pacchajata.md) / [Go to next page (Pacchājātaghaṭanā)](Pacchajataghatana.md)
 
-

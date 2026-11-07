@@ -17,12 +17,11 @@
 
 (123.)
 
-216\. Nahetuṃ vipākadhammadhammaṃ paṭicca hetu vipākadhammadhammo uppajjati nahetupaccayā. (1)
+216\. Nahetuṁ vipākadhammadhammaṁ paṭicca hetu vipākadhammadhammo uppajjati nahetupaccayā. (1)
 
 (124.)
 
-217\. Hetuṃ vipākadhammadhammaṃ paṭicca hetu vipākadhammadhammo uppajjati naadhipatipaccayā…  nava.
+217\. Hetuṁ vipākadhammadhammaṁ paṭicca hetu vipākadhammadhammo uppajjati naadhipatipaccayā… nava.
 
 [Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
-
 

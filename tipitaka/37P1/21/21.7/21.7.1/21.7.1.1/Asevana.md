@@ -15,10 +15,9 @@
 
 (40.)
 
-2836\. Ajjhatto dhammo ajjhattassa dhammassa āsevanapaccayena paccayo—  purimā purimā ajjhattā khandhā pacchimānaṃ pacchimānaṃ ajjhattānaṃ khandhānaṃ āsevanapaccayena paccayo. Anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  gotrabhu maggassa…  vodānaṃ maggassa āsevanapaccayena paccayo. (1)
+2836\. Ajjhatto dhammo ajjhattassa dhammassa āsevanapaccayena paccayo— purimā purimā ajjhattā khandhā pacchimānaṁ pacchimānaṁ ajjhattānaṁ khandhānaṁ āsevanapaccayena paccayo. Anulomaṁ gotrabhussa… anulomaṁ vodānassa… gotrabhu maggassa… vodānaṁ maggassa āsevanapaccayena paccayo. (1)
 
-2837\. Bahiddhā dhammo bahiddhā dhammassa āsevanapaccayena paccayo—  purimā purimā…pe… . (Ajjhattasadisaṃyeva.)
+2837\. Bahiddhā dhammo bahiddhā dhammassa āsevanapaccayena paccayo— purimā purimā…pe… . (Ajjhattasadisaṁyeva.)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (21.7.1.1 Vibhaṅgavāra)](../21.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

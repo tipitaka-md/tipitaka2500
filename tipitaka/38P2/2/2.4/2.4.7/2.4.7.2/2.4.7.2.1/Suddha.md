@@ -17,14 +17,9 @@
 
 (90.)
 
-748\. Nahetuyā nava…pe…  naanantare nava, nasamanantare nava, nasahajāte cattāri, naaññamaññe nava, nanissaye cattāri, naupanissaye nava, napurejāte nava…pe…  nasampayutte nava, navippayutte nava, noatthiyā cattāri, nonatthiyā nava, novigate nava, noavigate cattāri.
+748\. Nahetuyā nava…pe… naanantare nava, nasamanantare nava, nasahajāte cattāri, naaññamaññe nava, nanissaye cattāri, naupanissaye nava, napurejāte nava…pe… nasampayutte nava, navippayutte nava, noatthiyā cattāri, nonatthiyā nava, novigate nava, noavigate cattāri.
 
----
+749\. Paccanīyaṁ.
 
-749\. Paccanīyaṃ.
-
-
-
-[Go to previous page (2.4.7.2.1 Saṅkhyāvāra)](../2.4.7.2.1.md) / [Go to parent page (2.4.7.2.1 Saṅkhyāvāra)](../2.4.7.2.1.md) / [Go to next page (2.4.7.3 Paccayānulomapaccanīya)](../../2.4.7.3.md)
-
+[Go to previous page (2.4.7.2.1 Saṅkhyāvāra)](../2.4.7.2.1.md) / [Go to parent page (2.4.7.2.1 Saṅkhyāvāra)](../2.4.7.2.1.md) / [Go to next page (2.4.7.3 Paccayānulomapaccanīya)](../../2.4.7.3.md)
 

@@ -17,10 +17,9 @@
 
 (62.)
 
-165\. Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+165\. Sahetukaṁ dhammaṁ paṭicca ahetuko dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-166\. Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati nahetupaccayā—  ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1) (Sabbaṃ yāva asaññasattā tāva kātabbaṃ.)
+166\. Ahetukaṁ dhammaṁ paṭicca ahetuko dhammo uppajjati nahetupaccayā— ahetukaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānaṁ rūpaṁ…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1) (Sabbaṁ yāva asaññasattā tāva kātabbaṁ.)
 
-[Go to previous page (1.2.1.2.1 Vibhaṅgavāra)](../1.2.1.2.1.md) / [Go to parent page (1.2.1.2.1 Vibhaṅgavāra)](../1.2.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
-
+[Go to previous page (1.2.1.2.1 Vibhaṅgavāra)](../1.2.1.2.1.md) / [Go to parent page (1.2.1.2.1 Vibhaṅgavāra)](../1.2.1.2.1.md) / [Go to next page (Naārammaṇādi)](Naarammanadi.md)
 

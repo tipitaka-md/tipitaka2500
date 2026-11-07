@@ -15,8 +15,7 @@
 
 (31.)
 
-850\. Dassanena pahātabbaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya…pe…  nonatthipaccayā…  novigatapaccayā. (Naārammaṇasadisaṃ.)
+850\. Dassanena pahātabbaṁ dhammaṁ paṭicca nevadassanena nabhāvanāya…pe… nonatthipaccayā… novigatapaccayā. (Naārammaṇasadisaṁ.)
 
-[Go to previous page (Navippayutta)](Navippayutta.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (9.1.2.2 Saṅkhyāvāra)](../9.1.2.2.md)
-
+[Go to previous page (Navippayutta)](Navippayutta.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (9.1.2.2 Saṅkhyāvāra)](../9.1.2.2.md)
 

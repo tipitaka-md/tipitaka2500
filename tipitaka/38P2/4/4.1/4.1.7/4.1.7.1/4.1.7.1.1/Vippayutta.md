@@ -17,16 +17,15 @@
 
 (28.)
 
-1387\. Saññojano dhammo nosaññojanassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Vibhajitabbaṃ.) (1)
+1387\. Saññojano dhammo nosaññojanassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Vibhajitabbaṁ.) (1)
 
-1388\. Nosaññojano dhammo nosaññojanassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Vibhajitabbaṃ.) (1)
+1388\. Nosaññojano dhammo nosaññojanassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. (Vibhajitabbaṁ.) (1)
 
-1389\. Nosaññojano dhammo saññojanassa dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu saññojanānaṃ vippayuttapaccayena paccayo. (2)
+1389\. Nosaññojano dhammo saññojanassa dhammassa vippayuttapaccayena paccayo. Purejātaṁ— vatthu saññojanānaṁ vippayuttapaccayena paccayo. (2)
 
-1390\. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu saññojanānaṃ sampayuttakānañca khandhānaṃ vippayuttapaccayena paccayo. (3)
+1390\. Nosaññojano dhammo saññojanassa ca nosaññojanassa ca dhammassa vippayuttapaccayena paccayo. Purejātaṁ— vatthu saññojanānaṁ sampayuttakānañca khandhānaṁ vippayuttapaccayena paccayo. (3)
 
-1391\. Saññojano ca nosaññojano ca dhammā nosaññojanassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. (Vibhajitabbaṃ.) (1)
+1391\. Saññojano ca nosaññojano ca dhammā nosaññojanassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. (Vibhajitabbaṁ.) (1)
 
-[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](../4.1.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
-
+[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (4.1.7.1.1 Vibhaṅgavāra)](../4.1.7.1.1.md) / [Go to next page (Atthi)](Atthi.md)
 

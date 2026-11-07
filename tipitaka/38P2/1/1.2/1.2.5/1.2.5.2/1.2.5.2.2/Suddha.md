@@ -17,14 +17,9 @@
 
 (93.)
 
-250\. Nahetuyā dve, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṃ, namagge ekaṃ, navippayutte cha. (Evaṃ gaṇetabbaṃ.)
+250\. Nahetuyā dve, naadhipatiyā cha, napurejāte cha, napacchājāte cha, naāsevane cha, nakamme cattāri, navipāke cha, najhāne ekaṁ, namagge ekaṁ, navippayutte cha. (Evaṁ gaṇetabbaṁ.)
 
----
+251\. Paccanīyaṁ.
 
-251\. Paccanīyaṃ.
-
-
-
-[Go to previous page (1.2.5.2.2 Saṅkhyāvāra)](../1.2.5.2.2.md) / [Go to parent page (1.2.5.2.2 Saṅkhyāvāra)](../1.2.5.2.2.md) / [Go to next page (1.2.5.3 Paccayānulomapaccanīya)](../../1.2.5.3.md)
-
+[Go to previous page (1.2.5.2.2 Saṅkhyāvāra)](../1.2.5.2.2.md) / [Go to parent page (1.2.5.2.2 Saṅkhyāvāra)](../1.2.5.2.2.md) / [Go to next page (1.2.5.3 Paccayānulomapaccanīya)](../../1.2.5.3.md)
 

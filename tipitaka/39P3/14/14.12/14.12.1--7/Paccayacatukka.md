@@ -13,28 +13,27 @@
 
 (42.)
 
-2685\. Saraṇaṃ parittaṃ dhammaṃ paṭicca saraṇo paritto dhammo uppajjati hetupaccayā…  tīṇi.
+2685\. Saraṇaṁ parittaṁ dhammaṁ paṭicca saraṇo paritto dhammo uppajjati hetupaccayā… tīṇi.
 
-2686\. Araṇaṃ parittaṃ dhammaṃ paṭicca araṇo paritto dhammo uppajjati hetupaccayā. (1)
+2686\. Araṇaṁ parittaṁ dhammaṁ paṭicca araṇo paritto dhammo uppajjati hetupaccayā. (1)
 
-2687\. Saraṇaṃ parittañca araṇaṃ parittañca dhammaṃ paṭicca araṇo paritto dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2687\. Saraṇaṁ parittañca araṇaṁ parittañca dhammaṁ paṭicca araṇo paritto dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-2688\. Hetuyā pañca, ārammaṇe dve…pe…  avigate pañca. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāretabbo.)
+2688\. Hetuyā pañca, ārammaṇe dve…pe… avigate pañca. (Saṁkhittaṁ.) (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāretabbo.)
 
 (43.)
 
-2689\. Araṇaṃ mahaggataṃ dhammaṃ paṭicca araṇo mahaggato dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2689\. Araṇaṁ mahaggataṁ dhammaṁ paṭicca araṇo mahaggato dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2690\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.) (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2690\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.) (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (44.)
 
-2691\. Araṇaṃ appamāṇaṃ dhammaṃ paṭicca araṇo appamāṇo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2691\. Araṇaṁ appamāṇaṁ dhammaṁ paṭicca araṇo appamāṇo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2692\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2692\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-2693\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2693\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (14.12.1--7 Paṭiccādivāra)](../14.12.1--7.md) / [Go to parent page (14.12.1--7 Paṭiccādivāra)](../14.12.1--7.md) / [Go to next page (14.13 Saraṇaduka, Parittārammaṇattika)](../../14.13.md)
-
+[Go to previous page (14.12.1--7 Paṭiccādivāra)](../14.12.1--7.md) / [Go to parent page (14.12.1--7 Paṭiccādivāra)](../14.12.1--7.md) / [Go to next page (14.13 Saraṇaduka, Parittārammaṇattika)](../../14.13.md)
 

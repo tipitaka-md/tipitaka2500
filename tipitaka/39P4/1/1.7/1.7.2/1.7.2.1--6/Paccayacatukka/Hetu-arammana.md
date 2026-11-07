@@ -17,32 +17,31 @@
 
 (107.)
 
-365\. Pītisahagataṃ nahetuṃ dhammaṃ paṭicca pītisahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṃ nahetuṃ dhammaṃ paṭicca sukhasahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṃ nahetuṃ dhammaṃ paṭicca pītisahagato nahetu ca sukhasahagato nahetu ca dhammā uppajjanti hetupaccayā. (3)
+365\. Pītisahagataṁ nahetuṁ dhammaṁ paṭicca pītisahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṁ nahetuṁ dhammaṁ paṭicca sukhasahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṁ nahetuṁ dhammaṁ paṭicca pītisahagato nahetu ca sukhasahagato nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-366\. Sukhasahagataṃ nahetuṃ dhammaṃ paṭicca sukhasahagato nahetu dhammo uppajjati hetupaccayā. Sukhasahagataṃ nahetuṃ dhammaṃ paṭicca pītisahagato nahetu dhammo uppajjati hetupaccayā. Sukhasahagataṃ nahetuṃ dhammaṃ paṭicca pītisahagato nahetu ca sukhasahagato nahetu ca dhammā uppajjanti hetupaccayā. (3)
+366\. Sukhasahagataṁ nahetuṁ dhammaṁ paṭicca sukhasahagato nahetu dhammo uppajjati hetupaccayā. Sukhasahagataṁ nahetuṁ dhammaṁ paṭicca pītisahagato nahetu dhammo uppajjati hetupaccayā. Sukhasahagataṁ nahetuṁ dhammaṁ paṭicca pītisahagato nahetu ca sukhasahagato nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-367\. Upekkhāsahagataṃ nahetuṃ dhammaṃ paṭicca upekkhāsahagato nahetudhammo uppajjati hetupaccayā. (1)
+367\. Upekkhāsahagataṁ nahetuṁ dhammaṁ paṭicca upekkhāsahagato nahetudhammo uppajjati hetupaccayā. (1)
 
-368\. Pītisahagataṃ nahetuñca sukhasahagataṃ nahetuñca dhammaṃ paṭicca pītisahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṃ nahetuñca sukhasahagataṃ nahetuñca dhammaṃ paṭicca sukhasahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṃ nahetuñca sukhasahagataṃ nahetuñca dhammaṃ paṭicca pītisahagato nahetu ca sukhasahagato nahetu ca dhammā uppajjanti hetupaccayā. (3)
+368\. Pītisahagataṁ nahetuñca sukhasahagataṁ nahetuñca dhammaṁ paṭicca pītisahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṁ nahetuñca sukhasahagataṁ nahetuñca dhammaṁ paṭicca sukhasahagato nahetu dhammo uppajjati hetupaccayā. Pītisahagataṁ nahetuñca sukhasahagataṁ nahetuñca dhammaṁ paṭicca pītisahagato nahetu ca sukhasahagato nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
 (108.)
 
-369\. Pītisahagataṃ nahetuṃ dhammaṃ paṭicca pītisahagato nahetu dhammo uppajjati ārammaṇapaccayā…  tīṇi.
+369\. Pītisahagataṁ nahetuṁ dhammaṁ paṭicca pītisahagato nahetu dhammo uppajjati ārammaṇapaccayā… tīṇi.
 
-370\. Sukhasahagataṃ nahetuṃ dhammaṃ paṭicca sukhasahagato nahetu dhammo uppajjati ārammaṇapaccayā…  tīṇi.
+370\. Sukhasahagataṁ nahetuṁ dhammaṁ paṭicca sukhasahagato nahetu dhammo uppajjati ārammaṇapaccayā… tīṇi.
 
-371\. Upekkhāsahagataṃ nahetuṃ dhammaṃ paṭicca upekkhāsahagato nahetu dhammo uppajjati ārammaṇapaccayā…  ekaṃ.
+371\. Upekkhāsahagataṁ nahetuṁ dhammaṁ paṭicca upekkhāsahagato nahetu dhammo uppajjati ārammaṇapaccayā… ekaṁ.
 
-372\. Pītisahagataṃ nahetuñca sukhasahagataṃ nahetuñca dhammaṃ paṭicca pītisahagato nahetu dhammo uppajjati ārammaṇapaccayā…  tīṇi. (Saṃkhittaṃ.)
+372\. Pītisahagataṁ nahetuñca sukhasahagataṁ nahetuñca dhammaṁ paṭicca pītisahagato nahetu dhammo uppajjati ārammaṇapaccayā… tīṇi. (Saṁkhittaṁ.)
 
 (109.)
 
-373\. Hetuyā dasa, ārammaṇe dasa, adhipatiyā dasa, anantare dasa…pe…  avigate dasa. (Saṃkhittaṃ.)
+373\. Hetuyā dasa, ārammaṇe dasa, adhipatiyā dasa, anantare dasa…pe… avigate dasa. (Saṁkhittaṁ.)
 
-374\. Nahetuyā dasa, naadhipatiyā dasa…pe…  najhāne dve…pe…  navippayutte dasa. (Saṃkhittaṃ.)
+374\. Nahetuyā dasa, naadhipatiyā dasa…pe… najhāne dve…pe… navippayutte dasa. (Saṁkhittaṁ.)
 
-375\. (Sahajātavārampi…pe…  sampayuttavārampi vitthāretabbaṃ.)
+375\. (Sahajātavārampi…pe… sampayuttavārampi vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7.2.7 Pañhāvāra)](../../1.7.2.7.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.7.2.7 Pañhāvāra)](../../1.7.2.7.md)
 

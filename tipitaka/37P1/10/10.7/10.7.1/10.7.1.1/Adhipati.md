@@ -15,8 +15,7 @@
 
 (82.)
 
-1298\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa adhipatipaccayena paccayo. (Dassanattikasadisaṃ, dasa pañhā.)
+1298\. Dassanena pahātabbahetuko dhammo dassanena pahātabbahetukassa dhammassa adhipatipaccayena paccayo. (Dassanattikasadisaṁ, dasa pañhā.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.7.1.1 Vibhaṅgavāra)](../10.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

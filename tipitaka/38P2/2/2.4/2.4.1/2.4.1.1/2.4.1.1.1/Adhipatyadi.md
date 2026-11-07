@@ -17,20 +17,19 @@
 
 (57.)
 
-669\. Sappaṭighaṃ dhammaṃ paṭicca appaṭigho dhammo uppajjati adhipatipaccayā (paṭisandhi vajjetabbā, kaṭattārūpā ca)…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā (sabbe mahābhūtā kātabbā)…  aññamaññapaccayā—  sappaṭighaṃ ekaṃ mahābhūtaṃ paṭicca dve mahābhūtā, dve mahābhūte…pe… . (1)
+669\. Sappaṭighaṁ dhammaṁ paṭicca appaṭigho dhammo uppajjati adhipatipaccayā (paṭisandhi vajjetabbā, kaṭattārūpā ca)… anantarapaccayā… samanantarapaccayā… sahajātapaccayā (sabbe mahābhūtā kātabbā)… aññamaññapaccayā— sappaṭighaṁ ekaṁ mahābhūtaṁ paṭicca dve mahābhūtā, dve mahābhūte…pe… . (1)
 
-670\. Sappaṭighaṃ dhammaṃ paṭicca appaṭigho dhammo uppajjati aññamaññapaccayā—  sappaṭighe mahābhūte paṭicca āpodhātu…pe… . (2)
+670\. Sappaṭighaṁ dhammaṁ paṭicca appaṭigho dhammo uppajjati aññamaññapaccayā— sappaṭighe mahābhūte paṭicca āpodhātu…pe… . (2)
 
-671\. Sappaṭighaṃ dhammaṃ paṭicca sappaṭigho ca appaṭigho ca dhammā uppajjanti aññamaññapaccayā—  sappaṭighaṃ ekaṃ mahābhūtaṃ paṭicca dve mahābhūtā āpodhātu ca, dve mahābhūte…pe… . (3)
+671\. Sappaṭighaṁ dhammaṁ paṭicca sappaṭigho ca appaṭigho ca dhammā uppajjanti aññamaññapaccayā— sappaṭighaṁ ekaṁ mahābhūtaṁ paṭicca dve mahābhūtā āpodhātu ca, dve mahābhūte…pe… . (3)
 
 (58.)
 
-672\. Appaṭighaṃ dhammaṃ paṭicca appaṭigho dhammo uppajjati aññamaññapaccayā—  appaṭighaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā. (1)
+672\. Appaṭighaṁ dhammaṁ paṭicca appaṭigho dhammo uppajjati aññamaññapaccayā— appaṭighaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā. (1)
 
-673\. Appaṭighaṃ dhammaṃ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā—  āpodhātuṃ paṭicca sappaṭighā mahābhūtā. (Ime ajjhattikabāhirā mahābhūtā kātabbā.) (2)
+673\. Appaṭighaṁ dhammaṁ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā— āpodhātuṁ paṭicca sappaṭighā mahābhūtā. (Ime ajjhattikabāhirā mahābhūtā kātabbā.) (2)
 
-674\. Sappaṭighañca appaṭighañca dhammaṃ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā—  sappaṭighaṃ ekaṃ mahābhūtañca āpodhātuñca paṭicca dve mahābhūtā…pe…  nissayapaccayā…pe…  avigatapaccayā.
+674\. Sappaṭighañca appaṭighañca dhammaṁ paṭicca sappaṭigho dhammo uppajjati aññamaññapaccayā— sappaṭighaṁ ekaṁ mahābhūtañca āpodhātuñca paṭicca dve mahābhūtā…pe… nissayapaccayā…pe… avigatapaccayā.
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.4.1.1.1 Vibhaṅgavāra)](../2.4.1.1.1.md) / [Go to next page (2.4.1.1.2 Saṅkhyāvāra)](../2.4.1.1.2.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.4.1.1.1 Vibhaṅgavāra)](../2.4.1.1.1.md) / [Go to next page (2.4.1.1.2 Saṅkhyāvāra)](../2.4.1.1.2.md)
 

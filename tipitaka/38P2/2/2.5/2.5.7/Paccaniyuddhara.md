@@ -13,20 +13,19 @@
 
 (129.)
 
-839\. Rūpī dhammo rūpissa dhammassa sahajātapaccayena paccayo…  āhārapaccayena paccayo…  indriyapaccayena paccayo. (1)
+839\. Rūpī dhammo rūpissa dhammassa sahajātapaccayena paccayo… āhārapaccayena paccayo… indriyapaccayena paccayo. (1)
 
-840\. Rūpī dhammo arūpissa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  purejātapaccayena paccayo. (2)
+840\. Rūpī dhammo arūpissa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… purejātapaccayena paccayo. (2)
 
-841\. Arūpī dhammo arūpissa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  kammapaccayena paccayo. (1)
+841\. Arūpī dhammo arūpissa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… kammapaccayena paccayo. (1)
 
-842\. Arūpī dhammo rūpissa dhammassa sahajātapaccayena paccayo…  pacchājātapaccayena paccayo…  kammapaccayena paccayo. (2)
+842\. Arūpī dhammo rūpissa dhammassa sahajātapaccayena paccayo… pacchājātapaccayena paccayo… kammapaccayena paccayo. (2)
 
-843\. Arūpī dhammo rūpissa ca arūpissa ca dhammassa sahajātapaccayena paccayo…  kammapaccayena paccayo. (3)
+843\. Arūpī dhammo rūpissa ca arūpissa ca dhammassa sahajātapaccayena paccayo… kammapaccayena paccayo. (3)
 
-844\. Rūpī ca arūpī ca dhammā rūpissa dhammassa sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (1)
+844\. Rūpī ca arūpī ca dhammā rūpissa dhammassa sahajātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. (1)
 
-845\. Rūpī ca arūpī ca dhammā arūpissa dhammassa sahajātaṃ, purejātaṃ. (2)
+845\. Rūpī ca arūpī ca dhammā arūpissa dhammassa sahajātaṁ, purejātaṁ. (2)
 
-[Go to previous page (Suddha)](2.5.7.1/2.5.7.1.2/Suddha.md) / [Go to parent page (2.5.7 Pañhāvāra)](../2.5.7.md) / [Go to next page (2.5.7.2 Paccayapaccanīya)](2.5.7.2.md)
-
+[Go to previous page (Suddha)](2.5.7.1/2.5.7.1.2/Suddha.md) / [Go to parent page (2.5.7 Pañhāvāra)](../2.5.7.md) / [Go to next page (2.5.7.2 Paccayapaccanīya)](2.5.7.2.md)
 

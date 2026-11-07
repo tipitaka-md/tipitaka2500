@@ -15,14 +15,9 @@
 
 (54.)
 
-2864\. Nahetuyā cha, naārammaṇe cha, naadhipatiyā cha (saṃkhittaṃ, sabbattha cha kātabbā), navippayutte cha, noatthiyā cattāri, nonatthiyā cha, novigate cha, noavigate cattāri (evaṃ gaṇetabbaṃ)
+2864\. Nahetuyā cha, naārammaṇe cha, naadhipatiyā cha (saṁkhittaṁ, sabbattha cha kātabbā), navippayutte cha, noatthiyā cattāri, nonatthiyā cha, novigate cha, noavigate cattāri (evaṁ gaṇetabbaṁ)
 
----
+2865\. Paccanīyaṁ.
 
-2865\. Paccanīyaṃ.
-
-
-
-[Go to previous page (21.7.2.1 Saṅkhyāvāra)](../21.7.2.1.md) / [Go to parent page (21.7.2.1 Saṅkhyāvāra)](../21.7.2.1.md) / [Go to next page (21.7.3 Paccayānulomapaccanīya)](../../21.7.3.md)
-
+[Go to previous page (21.7.2.1 Saṅkhyāvāra)](../21.7.2.1.md) / [Go to parent page (21.7.2.1 Saṅkhyāvāra)](../21.7.2.1.md) / [Go to next page (21.7.3 Paccayānulomapaccanīya)](../../21.7.3.md)
 

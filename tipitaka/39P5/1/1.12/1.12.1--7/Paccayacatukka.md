@@ -13,38 +13,37 @@
 
 (55.)
 
-175\. Kusalaṃ parittārammaṇaṃ dhammaṃ paṭicca kusalo parittārammaṇo dhammo uppajjati hetupaccayā. (1)
+175\. Kusalaṁ parittārammaṇaṁ dhammaṁ paṭicca kusalo parittārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-176\. Akusalaṃ parittārammaṇaṃ dhammaṃ paṭicca akusalo parittārammaṇo dhammo uppajjati hetupaccayā. (1)
+176\. Akusalaṁ parittārammaṇaṁ dhammaṁ paṭicca akusalo parittārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-177\. Abyākataṃ parittārammaṇaṃ dhammaṃ paṭicca abyākato parittārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+177\. Abyākataṁ parittārammaṇaṁ dhammaṁ paṭicca abyākato parittārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-178\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+178\. Hetuyā tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-179\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+179\. (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (56.)
 
-180\. Kusalaṃ mahaggatārammaṇaṃ dhammaṃ paṭicca kusalo mahaggatārammaṇo dhammo uppajjati hetupaccayā. (1)
+180\. Kusalaṁ mahaggatārammaṇaṁ dhammaṁ paṭicca kusalo mahaggatārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-181\. Akusalaṃ mahaggatārammaṇaṃ dhammaṃ paṭicca akusalo mahaggatārammaṇo dhammo uppajjati hetupaccayā. (1)
+181\. Akusalaṁ mahaggatārammaṇaṁ dhammaṁ paṭicca akusalo mahaggatārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-182\. Abyākataṃ mahaggatārammaṇaṃ dhammaṃ paṭicca abyākato mahaggatārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+182\. Abyākataṁ mahaggatārammaṇaṁ dhammaṁ paṭicca abyākato mahaggatārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-183\. Hetuyā tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+183\. Hetuyā tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-184\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+184\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
 (57.)
 
-185\. Kusalaṃ appamāṇārammaṇaṃ dhammaṃ paṭicca kusalo appamāṇārammaṇo dhammo uppajjati hetupaccayā. (1)
+185\. Kusalaṁ appamāṇārammaṇaṁ dhammaṁ paṭicca kusalo appamāṇārammaṇo dhammo uppajjati hetupaccayā. (1)
 
-186\. Abyākataṃ appamāṇārammaṇaṃ dhammaṃ paṭicca abyākato appamāṇārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+186\. Abyākataṁ appamāṇārammaṇaṁ dhammaṁ paṭicca abyākato appamāṇārammaṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-187\. Hetuyā dve…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+187\. Hetuyā dve…pe… vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
-188\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+188\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
-[Go to previous page (1.12.1--7 Paṭiccādivāra)](../1.12.1--7.md) / [Go to parent page (1.12.1--7 Paṭiccādivāra)](../1.12.1--7.md) / [Go to next page (1.13 Kusalattika, Hīnattika)](../../1.13.md)
-
+[Go to previous page (1.12.1--7 Paṭiccādivāra)](../1.12.1--7.md) / [Go to parent page (1.12.1--7 Paṭiccādivāra)](../1.12.1--7.md) / [Go to next page (1.13 Kusalattika, Hīnattika)](../../1.13.md)
 

@@ -17,14 +17,13 @@
 
 (6.)
 
-7\. Hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo dhammo uppajjati naadhipatipaccayā. Hetuṃ kusalaṃ dhammaṃ paṭicca nahetu kusalo dhammo uppajjati naadhipatipaccayā. Hetuṃ kusalaṃ dhammaṃ paṭicca hetu kusalo ca nahetu kusalo ca dhammā uppajjanti naadhipatipaccayā. (3)
+7\. Hetuṁ kusalaṁ dhammaṁ paṭicca hetu kusalo dhammo uppajjati naadhipatipaccayā. Hetuṁ kusalaṁ dhammaṁ paṭicca nahetu kusalo dhammo uppajjati naadhipatipaccayā. Hetuṁ kusalaṁ dhammaṁ paṭicca hetu kusalo ca nahetu kusalo ca dhammā uppajjanti naadhipatipaccayā. (3)
 
 (7.)
 
-8\. Nahetuṃ kusalaṃ dhammaṃ paṭicca nahetu kusalo dhammo uppajjati naadhipatipaccayā…  tīṇi.
+8\. Nahetuṁ kusalaṁ dhammaṁ paṭicca nahetu kusalo dhammo uppajjati naadhipatipaccayā… tīṇi.
 
-9\. Hetuṃ kusalañca nahetuṃ kusalañca dhammaṃ paṭicca hetu kusalo dhammo uppajjati naadhipatipaccayā…  tīṇi.
+9\. Hetuṁ kusalañca nahetuṁ kusalañca dhammaṁ paṭicca hetu kusalo dhammo uppajjati naadhipatipaccayā… tīṇi.
 
 [Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Napurejātādi)](Napurejatadi.md)
-
 

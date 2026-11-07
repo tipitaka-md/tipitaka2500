@@ -15,14 +15,9 @@
 
 (48.)
 
-2565\. Hetuyā sattarasa, ārammaṇe nava, adhipatiyā ekavīsa, anantare nava, samanantare nava, sahajāte sattarasa, aññamaññe sattarasa, nissaye sattarasa, upanissaye ekavīsa, āsevane nava, kamme sattarasa, āhāre indriye jhāne magge sampayutte sattarasa, atthiyā sattarasa, natthiyā nava, vigate nava, avigate sattarasa. (Evaṃ gaṇetabbaṃ.)
+2565\. Hetuyā sattarasa, ārammaṇe nava, adhipatiyā ekavīsa, anantare nava, samanantare nava, sahajāte sattarasa, aññamaññe sattarasa, nissaye sattarasa, upanissaye ekavīsa, āsevane nava, kamme sattarasa, āhāre indriye jhāne magge sampayutte sattarasa, atthiyā sattarasa, natthiyā nava, vigate nava, avigate sattarasa. (Evaṁ gaṇetabbaṁ.)
 
----
+2566\. Anulomaṁ.
 
-2566\. Anulomaṃ.
-
-
-
-[Go to previous page (17.7.1.2 Saṅkhyāvāra)](../17.7.1.2.md) / [Go to parent page (17.7.1.2 Saṅkhyāvāra)](../17.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (17.7.1.2 Saṅkhyāvāra)](../17.7.1.2.md) / [Go to parent page (17.7.1.2 Saṅkhyāvāra)](../17.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

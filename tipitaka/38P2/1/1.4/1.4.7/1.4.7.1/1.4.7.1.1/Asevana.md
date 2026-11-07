@@ -17,8 +17,7 @@
 
 (147.)
 
-412\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa āsevanapaccayena paccayo. (Anantarasadisaṃ.)
+412\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa āsevanapaccayena paccayo. (Anantarasadisaṁ.)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

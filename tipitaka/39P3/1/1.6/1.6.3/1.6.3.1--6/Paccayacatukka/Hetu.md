@@ -17,12 +17,11 @@
 
 (226.)
 
-436\. Hetuṃ avitakkaavicāraṃ dhammaṃ paṭicca hetu avitakkaavicāro dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+436\. Hetuṁ avitakkaavicāraṁ dhammaṁ paṭicca hetu avitakkaavicāro dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (227.)
 
-437\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  kamme nava, vipāke nava…pe…  vigate nava, avigate nava. (Saṃkhittaṃ.)
+437\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… kamme nava, vipāke nava…pe… vigate nava, avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetvādi)](Nahetvadi.md)
-
 

@@ -15,16 +15,11 @@
 
 * Catukka
 
-572\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṃ. (Sabbattha ekaṃ.)
+572\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā naadhipatiyā ekaṁ. (Sabbattha ekaṁ.)
 
-573\. Nonatthipaccayā…  novigatapaccayā. (Naārammaṇapaccayasadisaṃ.)
+573\. Nonatthipaccayā… novigatapaccayā. (Naārammaṇapaccayasadisaṁ.)
 
----
+574\. Paccayavāre paccanīyaṁ.
 
-574\. Paccayavāre paccanīyaṃ.
-
-
-
-[Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (2.3.3 Paccayānulomapaccanīya)](../../../2.3.3.md)
-
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (2.3.3 Paccayānulomapaccanīya)](../../../2.3.3.md)
 

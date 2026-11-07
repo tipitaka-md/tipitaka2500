@@ -17,22 +17,21 @@
 
 (20.)
 
-1740\. Saññojanavippayuttaṃ kusalaṃ dhammaṃ paṭicca saññojanavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+1740\. Saññojanavippayuttaṁ kusalaṁ dhammaṁ paṭicca saññojanavippayutto kusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-1741\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1741\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1742\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1742\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (21.)
 
-1743\. Saññojanasampayuttaṃ akusalaṃ dhammaṃ paṭicca saññojanasampayutto akusalo dhammo uppajjati hetupaccayā…  tīṇi.
+1743\. Saññojanasampayuttaṁ akusalaṁ dhammaṁ paṭicca saññojanasampayutto akusalo dhammo uppajjati hetupaccayā… tīṇi.
 
-1744\. Saññojanasampayuttaṃ akusalaṃ dhammaṃ paṭicca saññojanasampayutto akusalo dhammo uppajjati ārammaṇapaccayā. (Saṃkhittaṃ.)
+1744\. Saññojanasampayuttaṁ akusalaṁ dhammaṁ paṭicca saññojanasampayutto akusalo dhammo uppajjati ārammaṇapaccayā. (Saṁkhittaṁ.)
 
 (22.)
 
-1745\. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ, anulomaṃ.)
+1745\. Hetuyā tīṇi, ārammaṇe pañca, adhipatiyā ekaṁ…pe… avigate pañca. (Saṁkhittaṁ, anulomaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
-
 

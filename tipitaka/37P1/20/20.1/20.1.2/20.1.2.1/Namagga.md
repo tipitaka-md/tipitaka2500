@@ -15,8 +15,7 @@
 
 (14.)
 
-2682\. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati namaggapaccayā—  ahetukaṃ atītārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe… . (Nahetusadisā tisso pañhā, moho natthi.)
+2682\. Atītārammaṇaṁ dhammaṁ paṭicca atītārammaṇo dhammo uppajjati namaggapaccayā— ahetukaṁ atītārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… . (Nahetusadisā tisso pañhā, moho natthi.)
 
-[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
-
+[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
 

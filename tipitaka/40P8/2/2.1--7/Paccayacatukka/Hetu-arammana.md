@@ -15,16 +15,15 @@
 
 17\. Nasahetuko dhammo nasahetukassa dhammassa hetupaccayena paccayo. Nasahetuko dhammo naahetukassa dhammassa hetupaccayena paccayo. Nasahetuko dhammo nasahetukassa ca naahetukassa ca dhammassa hetupaccayena paccayo. (3)
 
-18\. Naahetuko dhammo naahetukassa dhammassa hetupaccayena paccayo…  tīṇi.
+18\. Naahetuko dhammo naahetukassa dhammassa hetupaccayena paccayo… tīṇi.
 
-19\. Nasahetuko dhammo nasahetukassa dhammassa ārammaṇapaccayena paccayo. (Saṃkhittaṃ.)
+19\. Nasahetuko dhammo nasahetukassa dhammassa ārammaṇapaccayena paccayo. (Saṁkhittaṁ.)
 
 (8.)
 
-20\. Hetuyā cha, ārammaṇe nava, adhipatiyā cattāri, anantare nava…pe…  sahajāte nava, aññamaññe cha, nissaye upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme…pe…  jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca…pe…  avigate nava.
+20\. Hetuyā cha, ārammaṇe nava, adhipatiyā cattāri, anantare nava…pe… sahajāte nava, aññamaññe cha, nissaye upanissaye nava, purejāte pacchājāte tīṇi, āsevane nava, kamme…pe… jhāne cattāri, magge tīṇi, sampayutte cha, vippayutte pañca…pe… avigate nava.
 
-21\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+21\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3 Hetusampayuttaduka)](../../../3.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (3 Hetusampayuttaduka)](../../../3.md)
 

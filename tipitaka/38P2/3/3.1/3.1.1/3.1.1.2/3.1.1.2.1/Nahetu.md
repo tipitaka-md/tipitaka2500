@@ -17,10 +17,9 @@
 
 (5.)
 
-980\. Noāsavaṃ dhammaṃ paṭicca noāsavo dhammo uppajjati nahetupaccayā—  ahetukaṃ noāsavaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe… . (Yāva asaññasattā.) (1)
+980\. Noāsavaṁ dhammaṁ paṭicca noāsavo dhammo uppajjati nahetupaccayā— ahetukaṁ noāsavaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… . (Yāva asaññasattā.) (1)
 
-981\. Noāsavaṃ dhammaṃ paṭicca āsavo dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
+981\. Noāsavaṁ dhammaṁ paṭicca āsavo dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
 
-[Go to previous page (3.1.1.2.1 Vibhaṅgavāra)](../3.1.1.2.1.md) / [Go to parent page (3.1.1.2.1 Vibhaṅgavāra)](../3.1.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
+[Go to previous page (3.1.1.2.1 Vibhaṅgavāra)](../3.1.1.2.1.md) / [Go to parent page (3.1.1.2.1 Vibhaṅgavāra)](../3.1.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
 

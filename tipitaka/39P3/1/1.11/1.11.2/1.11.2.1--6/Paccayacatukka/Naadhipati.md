@@ -17,18 +17,17 @@
 
 (340.)
 
-711\. Hetuṃ asekkhaṃ dhammaṃ paṭicca hetu asekkho dhammo uppajjati naadhipatipaccayā. (Saṃkhittaṃ.)
+711\. Hetuṁ asekkhaṁ dhammaṁ paṭicca hetu asekkho dhammo uppajjati naadhipatipaccayā. (Saṁkhittaṁ.)
 
 (341.)
 
-712\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, navippayutte nava. (Saṃkhittaṃ.)
+712\. Naadhipatiyā cha, napurejāte nava, napacchājāte nava, naāsevane nava, navippayutte nava. (Saṁkhittaṁ.)
 
-713\. Hetupaccayā naadhipatiyā cha. (Saṃkhittaṃ.)
+713\. Hetupaccayā naadhipatiyā cha. (Saṁkhittaṁ.)
 
-714\. Naadhipatipaccayā hetuyā cha. (Saṃkhittaṃ.)
+714\. Naadhipatipaccayā hetuyā cha. (Saṁkhittaṁ.)
 
-715\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+715\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.11.2.7 Pañhāvāra)](../../1.11.2.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.11.2.7 Pañhāvāra)](../../1.11.2.7.md)
 

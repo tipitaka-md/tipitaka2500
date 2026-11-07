@@ -15,8 +15,7 @@
 
 (6.)
 
-2637\. Atīto dhammo paccuppannassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṃ.) (1)
+2637\. Atīto dhammo paccuppannassa dhammassa samanantarapaccayena paccayo. (Anantarasadisaṁ.) (1)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Sahajātādi)](Sahajatadi.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (19.7.1.1 Vibhaṅgavāra)](../19.7.1.1.md) / [Go to next page (Sahajātādi)](Sahajatadi.md)
 

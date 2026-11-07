@@ -15,14 +15,9 @@
 
 (21.)
 
-2085\. Hetupaccayā ārammaṇe pañca…pe…  avigate terasa…pe… .
+2085\. Hetupaccayā ārammaṇe pañca…pe… avigate terasa…pe… .
 
----
+2086\. (Yathā kusalattikassa gaṇanā, evaṁ gaṇetabbaṁ.)
 
-2086\. (Yathā kusalattikassa gaṇanā, evaṃ gaṇetabbaṃ.)
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.1.1.2 Saṅkhyāvāra)](../4.1.1.2.md) / [Go to next page (Āsevanaduka)](Asevanaduka.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (4.1.1.2 Saṅkhyāvāra)](../4.1.1.2.md) / [Go to next page (Āsevanaduka)](Asevanaduka.md)
 

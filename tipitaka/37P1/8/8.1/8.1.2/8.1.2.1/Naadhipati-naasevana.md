@@ -15,8 +15,7 @@
 
 (10.)
 
-663\. Pītisahagataṃ dhammaṃ paṭicca pītisahagato dhammo uppajjati naadhipatipaccayā (naadhipatipaṭisandhikkhaṇe paripuṇṇaṃ)…  napurejātapaccayā…  (“arūpe”ti niyāmetabbaṃ “paṭisandhikkhaṇe”ti ca) napacchājātapaccayā…  naāsevanapaccayā.
+663\. Pītisahagataṁ dhammaṁ paṭicca pītisahagato dhammo uppajjati naadhipatipaccayā (naadhipatipaṭisandhikkhaṇe paripuṇṇaṁ)… napurejātapaccayā… (“arūpe”ti niyāmetabbaṁ “paṭisandhikkhaṇe”ti ca) napacchājātapaccayā… naāsevanapaccayā.
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (8.1.2.1 Vibhaṅgavāra)](../8.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

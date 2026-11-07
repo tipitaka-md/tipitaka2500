@@ -11,17 +11,9 @@
 
 * Duka
 
-2928\. Nahetupaccayā naārammaṇe cuddasa. (Saṃkhittaṃ.)
+2928\. Nahetupaccayā naārammaṇe cuddasa. (Saṁkhittaṁ.)
 
----
+2929\. (Yathā kusalattike paccanīyagaṇanā, evaṁ gaṇetabbaṁ.) Paccanīyaṁ.
 
-2929\. (Yathā kusalattike paccanīyagaṇanā, evaṃ gaṇetabbaṃ.)
-
-  
-Paccanīyaṃ.
-
-
-
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (6.7.2 Paccayapaccanīya)](../6.7.2.md) / [Go to next page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (6.7.2 Paccayapaccanīya)](../6.7.2.md) / [Go to next page (6.7.3 Paccayānulomapaccanīya)](../6.7.3.md)
 

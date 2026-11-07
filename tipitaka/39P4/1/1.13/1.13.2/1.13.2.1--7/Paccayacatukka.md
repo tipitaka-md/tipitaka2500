@@ -6,6 +6,5 @@
 * [Hetu](Paccayacatukka/Hetu.md)
 * [Ārammaṇa-adhipati](Paccayacatukka/Arammana-adhipati.md)
 
-[Go to previous page (1.13.2.1--7 Paṭiccādivāra)](../1.13.2.1--7.md) / [Go to parent page (1.13.2.1--7 Paṭiccādivāra)](../1.13.2.1--7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
-
+[Go to previous page (1.13.2.1--7 Paṭiccādivāra)](../1.13.2.1--7.md) / [Go to parent page (1.13.2.1--7 Paṭiccādivāra)](../1.13.2.1--7.md) / [Go to next page (Hetu)](Paccayacatukka/Hetu.md)
 

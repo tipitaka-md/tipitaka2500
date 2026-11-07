@@ -17,14 +17,13 @@
 
 (36.)
 
-618\. Sanidassano dhammo anidassanassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  sanidassanaṃ rūpaṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
+618\. Sanidassano dhammo anidassanassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— sanidassanaṁ rūpaṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (1)
 
-619\. Anidassano dhammo anidassanassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni…pe…  jhānā vuṭṭhahitvā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṃ…pe…  vatthuṃ anidassane khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  anidassanādhipati sampayuttakānaṃ khandhānaṃ anidassanānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+619\. Anidassano dhammo anidassanassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni…pe… jhānā vuṭṭhahitvā…pe… ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti, phalaṁ garuṁ katvā paccavekkhanti, nibbānaṁ garuṁ katvā paccavekkhanti; nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo; cakkhuṁ…pe… vatthuṁ anidassane khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— anidassanādhipati sampayuttakānaṁ khandhānaṁ anidassanānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-620\. Anidassano dhammo sanidassanassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anidassanādhipati sanidassanānaṃ cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+620\. Anidassano dhammo sanidassanassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— anidassanādhipati sanidassanānaṁ cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-621\. Anidassano dhammo sanidassanassa ca anidassanassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  anidassanādhipati sampayuttakānaṃ khandhānaṃ sanidassanānañca anidassanānañca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+621\. Anidassano dhammo sanidassanassa ca anidassanassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— anidassanādhipati sampayuttakānaṁ khandhānaṁ sanidassanānañca anidassanānañca cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

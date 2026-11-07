@@ -15,8 +15,7 @@
 
 * Chakka
 
-1847\. Najhānapaccayā nahetupaccayā naadhipatipaccayā napacchājātapaccayā naāsevanapaccayā namagge tīṇi. (Saṃkhittaṃ.)
+1847\. Najhānapaccayā nahetupaccayā naadhipatipaccayā napacchājātapaccayā naāsevanapaccayā namagge tīṇi. (Saṁkhittaṁ.)
 
 [Go to previous page (Najhānaduka)](../Najhanaduka.md) / [Go to parent page (Najhānaduka)](../Najhanaduka.md) / [Go to next page (Namaggaduka)](../Namaggaduka.md)
-
 

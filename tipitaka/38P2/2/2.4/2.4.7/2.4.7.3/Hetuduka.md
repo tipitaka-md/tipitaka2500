@@ -15,14 +15,9 @@
 
 (91.)
 
-750\. Hetupaccayā naārammaṇe tīṇi…pe…  naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi…pe…  nasampayutte tīṇi, navippayutte ekaṃ, nonatthiyā tīṇi, novigate tīṇi.
+750\. Hetupaccayā naārammaṇe tīṇi…pe… naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi…pe… nasampayutte tīṇi, navippayutte ekaṁ, nonatthiyā tīṇi, novigate tīṇi.
 
----
+751\. Anulomapaccanīyaṁ.
 
-751\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (2.4.7.3 Paccayānulomapaccanīya)](../2.4.7.3.md) / [Go to parent page (2.4.7.3 Paccayānulomapaccanīya)](../2.4.7.3.md) / [Go to next page (2.4.7.4 Paccayapaccanīyānuloma)](../2.4.7.4.md)
-
+[Go to previous page (2.4.7.3 Paccayānulomapaccanīya)](../2.4.7.3.md) / [Go to parent page (2.4.7.3 Paccayānulomapaccanīya)](../2.4.7.3.md) / [Go to next page (2.4.7.4 Paccayapaccanīyānuloma)](../2.4.7.4.md)
 

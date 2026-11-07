@@ -15,12 +15,11 @@
 
 (2.)
 
-124\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati ārammaṇapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
+124\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati ārammaṇapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
 
-125\. Akusalaṃ dhammaṃ paṭicca akusalo dhammo uppajjati ārammaṇapaccayā—  akusalaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
+125\. Akusalaṁ dhammaṁ paṭicca akusalo dhammo uppajjati ārammaṇapaccayā— akusalaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā. (1)
 
-126\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā, vatthuṃ paṭicca khandhā. (1)
+126\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati ārammaṇapaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā; paṭisandhikkhaṇe vipākābyākataṁ ekaṁ khandhaṁ paṭicca tayo khandhā, tayo khandhe paṭicca eko khandho, dve khandhe paṭicca dve khandhā, vatthuṁ paṭicca khandhā. (1)
 
-[Go to previous page (Anuloma-hetu)](Anuloma-hetu.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Anuloma-hetu)](Anuloma-hetu.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

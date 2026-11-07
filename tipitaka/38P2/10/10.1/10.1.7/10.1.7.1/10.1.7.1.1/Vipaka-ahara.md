@@ -17,12 +17,11 @@
 
 (37.)
 
-2393\. Sārammaṇo dhammo sārammaṇassa dhammassa vipākapaccayena paccayo…  tīṇi.
+2393\. Sārammaṇo dhammo sārammaṇassa dhammassa vipākapaccayena paccayo… tīṇi.
 
-2394\. Sārammaṇo dhammo sārammaṇassa dhammassa āhārapaccayena paccayo…  tīṇi.
+2394\. Sārammaṇo dhammo sārammaṇassa dhammassa āhārapaccayena paccayo… tīṇi.
 
-2395\. Anārammaṇo dhammo anārammaṇassa dhammassa āhārapaccayena paccayo—  kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
+2395\. Anārammaṇo dhammo anārammaṇassa dhammassa āhārapaccayena paccayo— kabaḷīkāro āhāro imassa kāyassa āhārapaccayena paccayo. (1)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (10.1.7.1.1 Vibhaṅgavāra)](../10.1.7.1.1.md) / [Go to next page (Indriya)](Indriya.md)
 

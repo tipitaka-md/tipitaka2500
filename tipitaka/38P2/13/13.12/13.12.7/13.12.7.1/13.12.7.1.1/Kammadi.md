@@ -17,12 +17,11 @@
 
 (255.)
 
-4633\. Rūpāvacaro dhammo rūpāvacarassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  rūpāvacarā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  rūpāvacarā cetanā vipākānaṃ rūpāvacarānaṃ khandhānaṃ kammapaccayena paccayo. Rūpāvacaro dhammo narūpāvacarassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  rūpāvacarā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  rūpāvacarā cetanā kaṭattārūpānaṃ kammapaccayena paccayo. Rūpāvacaro dhammo rūpāvacarassa ca narūpāvacarassa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  rūpāvacarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  rūpāvacarā cetanā vipākānaṃ rūpāvacarānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+4633\. Rūpāvacaro dhammo rūpāvacarassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— rūpāvacarā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— rūpāvacarā cetanā vipākānaṁ rūpāvacarānaṁ khandhānaṁ kammapaccayena paccayo. Rūpāvacaro dhammo narūpāvacarassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— rūpāvacarā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— rūpāvacarā cetanā kaṭattārūpānaṁ kammapaccayena paccayo. Rūpāvacaro dhammo rūpāvacarassa ca narūpāvacarassa ca dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— rūpāvacarā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— rūpāvacarā cetanā vipākānaṁ rūpāvacarānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (3)
 
-4634\. Narūpāvacaro dhammo narūpāvacarassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  narūpāvacarā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  narūpāvacarā cetanā vipākānaṃ narūpāvacarānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo… . (1)
+4634\. Narūpāvacaro dhammo narūpāvacarassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— narūpāvacarā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— narūpāvacarā cetanā vipākānaṁ narūpāvacarānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo… . (1)
 
-4635\. Vipākapaccayena paccayo…  cattāri…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve.
+4635\. Vipākapaccayena paccayo… cattāri… āhārapaccayena paccayo… cattāri… indriyapaccayena paccayo… cattāri… jhānapaccayena paccayo… cattāri… maggapaccayena paccayo… cattāri… sampayuttapaccayena paccayo… dve.
 
-[Go to previous page (Purejātādi)](Purejatadi.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Purejātādi)](Purejatadi.md) / [Go to parent page (13.12.7.1.1 Vibhaṅgavāra)](../13.12.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

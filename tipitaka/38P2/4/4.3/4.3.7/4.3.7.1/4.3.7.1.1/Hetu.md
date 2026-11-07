@@ -17,20 +17,19 @@
 
 (66.)
 
-1481\. Saññojanasampayutto dhammo saññojanasampayuttassa dhammassa hetupaccayena paccayo—  saññojanasampayuttā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+1481\. Saññojanasampayutto dhammo saññojanasampayuttassa dhammassa hetupaccayena paccayo— saññojanasampayuttā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (1)
 
-1482\. Saññojanasampayutto dhammo saññojanavippayuttassa dhammassa hetupaccayena paccayo—  saññojanasampayuttā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
+1482\. Saññojanasampayutto dhammo saññojanavippayuttassa dhammassa hetupaccayena paccayo— saññojanasampayuttā hetū cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo. (2)
 
-1483\. Saññojanasampayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa hetupaccayena paccayo—  saññojanasampayuttā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+1483\. Saññojanasampayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa hetupaccayena paccayo— saññojanasampayuttā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
 (67.)
 
-1484\. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa hetupaccayena paccayo—  saññojanavippayuttā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo, uddhaccasahagato moho cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
+1484\. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa hetupaccayena paccayo— saññojanavippayuttā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo, uddhaccasahagato moho cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… . (1)
 
-1485\. Saññojanavippayutto dhammo saññojanasampayuttassa dhammassa hetupaccayena paccayo—  uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (2)
+1485\. Saññojanavippayutto dhammo saññojanasampayuttassa dhammassa hetupaccayena paccayo— uddhaccasahagato moho sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (2)
 
-1486\. Saññojanavippayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa hetupaccayena paccayo—  uddhaccasahagato moho sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+1486\. Saññojanavippayutto dhammo saññojanasampayuttassa ca saññojanavippayuttassa ca dhammassa hetupaccayena paccayo— uddhaccasahagato moho sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
-[Go to previous page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

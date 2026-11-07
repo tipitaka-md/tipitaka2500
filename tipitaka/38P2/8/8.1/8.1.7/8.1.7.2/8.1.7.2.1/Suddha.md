@@ -19,6 +19,5 @@
 
 1986\. Nahetuyā nava, naārammaṇe nava, naadhipatiyā nava (sabbattha nava), novigate nava, noavigate nava.
 
-[Go to previous page (8.1.7.2.1 Saṅkhyāvāra)](../8.1.7.2.1.md) / [Go to parent page (8.1.7.2.1 Saṅkhyāvāra)](../8.1.7.2.1.md) / [Go to next page (8.1.7.3 Paccayānulomapaccanīya)](../../8.1.7.3.md)
-
+[Go to previous page (8.1.7.2.1 Saṅkhyāvāra)](../8.1.7.2.1.md) / [Go to parent page (8.1.7.2.1 Saṅkhyāvāra)](../8.1.7.2.1.md) / [Go to next page (8.1.7.3 Paccayānulomapaccanīya)](../../8.1.7.3.md)
 

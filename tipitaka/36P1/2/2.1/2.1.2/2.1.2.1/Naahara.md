@@ -15,8 +15,7 @@
 
 (44.)
 
-239\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati naāhārapaccayā—  bāhiraṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+239\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati naāhārapaccayā— bāhiraṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Naindriya)](Naindriya.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (2.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Naindriya)](Naindriya.md)
 

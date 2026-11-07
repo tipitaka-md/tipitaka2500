@@ -17,8 +17,7 @@
 
 (77.)
 
-213\. Sahetukaṃ dhammaṃ paccayā sahetuko dhammo uppajjati adhipatipaccayā. (Adhipatiyā nava pañhā pavatteyeva.)
+213\. Sahetukaṁ dhammaṁ paccayā sahetuko dhammo uppajjati adhipatipaccayā. (Adhipatiyā nava pañhā pavatteyeva.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (1.2.3.1.1 Vibhaṅgavāra)](../1.2.3.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

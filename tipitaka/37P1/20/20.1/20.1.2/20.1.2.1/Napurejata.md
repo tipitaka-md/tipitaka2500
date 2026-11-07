@@ -15,12 +15,11 @@
 
 (10.)
 
-2674\. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe atītārammaṇaṃ ekaṃ khandhaṃ paṭicca…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+2674\. Atītārammaṇaṁ dhammaṁ paṭicca atītārammaṇo dhammo uppajjati napurejātapaccayā— arūpe atītārammaṇaṁ ekaṁ khandhaṁ paṭicca…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-2675\. Anāgatārammaṇaṃ dhammaṃ paṭicca anāgatārammaṇo dhammo uppajjati napurejātapaccayā—  arūpe anāgatārammaṇaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (1)
+2675\. Anāgatārammaṇaṁ dhammaṁ paṭicca anāgatārammaṇo dhammo uppajjati napurejātapaccayā— arūpe anāgatārammaṇaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2676\. Paccuppannārammaṇaṃ dhammaṃ paṭicca paccuppannārammaṇo dhammo uppajjati napurejātapaccayā—  paṭisandhikkhaṇe paccuppannārammaṇaṃ ekaṃ khandhaṃ paṭicca…pe…  dve khandhe…pe… . (1)
+2676\. Paccuppannārammaṇaṁ dhammaṁ paṭicca paccuppannārammaṇo dhammo uppajjati napurejātapaccayā— paṭisandhikkhaṇe paccuppannārammaṇaṁ ekaṁ khandhaṁ paṭicca…pe… dve khandhe…pe… . (1)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Napacchājātādi)](Napacchajatadi.md)
 

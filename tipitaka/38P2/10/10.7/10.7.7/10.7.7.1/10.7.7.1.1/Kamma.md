@@ -17,12 +17,11 @@
 
 (263.)
 
-2964\. Cittasahabhū dhammo cittasahabhussa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasahabhū cetanā sampayuttakānaṃ khandhānaṃ cittasahabhūnaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasahabhū cetanā vipākānaṃ cittasahabhūnaṃ khandhānaṃ kammapaccayena paccayo. (1)
+2964\. Cittasahabhū dhammo cittasahabhussa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasahabhū cetanā sampayuttakānaṁ khandhānaṁ cittasahabhūnaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasahabhū cetanā vipākānaṁ cittasahabhūnaṁ khandhānaṁ kammapaccayena paccayo. (1)
 
-2965\. Cittasahabhū dhammo nocittasahabhussa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasahabhū cetanā cittassa nocittasahabhūnaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasahabhū cetanā vipākassa cittassa kaṭattā ca rūpānaṃ kammapaccayena paccayo. (2)
+2965\. Cittasahabhū dhammo nocittasahabhussa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasahabhū cetanā cittassa nocittasahabhūnaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasahabhū cetanā vipākassa cittassa kaṭattā ca rūpānaṁ kammapaccayena paccayo. (2)
 
-2966\. Cittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  cittasahabhū cetanā sampayuttakānaṃ khandhānaṃ cittassa ca cittasahabhūnañca nocittasahabhūnañca cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Nānākkhaṇikā**—  cittasahabhū cetanā vipākānaṃ khandhānaṃ cittassa kaṭattā ca rūpānaṃ kammapaccayena paccayo. (3)
+2966\. Cittasahabhū dhammo cittasahabhussa ca nocittasahabhussa ca dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— cittasahabhū cetanā sampayuttakānaṁ khandhānaṁ cittassa ca cittasahabhūnañca nocittasahabhūnañca cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo; paṭisandhikkhaṇe…pe… . Nānākkhaṇikā— cittasahabhū cetanā vipākānaṁ khandhānaṁ cittassa kaṭattā ca rūpānaṁ kammapaccayena paccayo. (3)
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (10.7.7.1.1 Vibhaṅgavāra)](../10.7.7.1.1.md) / [Go to next page (Vipākādi)](Vipakadi.md)
 

@@ -15,8 +15,7 @@
 
 * Ekavīsaka (sāhāra)
 
-1186\. Nahetupaccayā naārammaṇapaccayā…pe…  naāhārapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigate ekaṃ.
+1186\. Nahetupaccayā naārammaṇapaccayā…pe… naāhārapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā nonatthipaccayā novigate ekaṁ.
 
 [Go to previous page (Sattarasaka (sāhāra))](attarasaka_sahara.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Soḷasaka (saindriya))](oḷasaka_saindriya.md)
-
 

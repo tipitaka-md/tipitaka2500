@@ -17,14 +17,9 @@
 
 (12.)
 
-566\. Hetuyā ekaṃ, ārammaṇe dve, adhipatiyā dve, anantare ekaṃ, samanantare ekaṃ, sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, upanissaye dve, purejāte ekaṃ (sabbattha ekaṃ), avigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+566\. Hetuyā ekaṁ, ārammaṇe dve, adhipatiyā dve, anantare ekaṁ, samanantare ekaṁ, sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, upanissaye dve, purejāte ekaṁ (sabbattha ekaṁ), avigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+567\. Anulomaṁ.
 
-567\. Anulomaṃ.
-
-
-
-[Go to previous page (2.1.7.1.2 Saṅkhyāvāra)](../2.1.7.1.2.md) / [Go to parent page (2.1.7.1.2 Saṅkhyāvāra)](../2.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (2.1.7.1.2 Saṅkhyāvāra)](../2.1.7.1.2.md) / [Go to parent page (2.1.7.1.2 Saṅkhyāvāra)](../2.1.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

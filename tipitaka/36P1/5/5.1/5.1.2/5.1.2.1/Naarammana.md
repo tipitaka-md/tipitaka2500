@@ -15,18 +15,17 @@
 
 (14.)
 
-2480\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  paṭisandhikkhaṇe upādinnupādāniye khandhe paṭicca kaṭattārūpaṃ, khandhe paṭicca vatthu, ekaṃ mahābhūtaṃ paṭicca…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
+2480\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati naārammaṇapaccayā— paṭisandhikkhaṇe upādinnupādāniye khandhe paṭicca kaṭattārūpaṁ, khandhe paṭicca vatthu, ekaṁ mahābhūtaṁ paṭicca…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… . (1)
 
-2481\. Upādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  upādinnupādāniye khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+2481\. Upādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā— upādinnupādāniye khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-2482\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  anupādinnupādāniye khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ, ekaṃ mahābhūtaṃ paṭicca…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
+2482\. Anupādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā— anupādinnupādāniye khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ, ekaṁ mahābhūtaṁ paṭicca…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… . (1)
 
-2483\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  anupādinnaanupādāniye khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2483\. Anupādinnaanupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā— anupādinnaanupādāniye khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-2484\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  anupādinnaanupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2484\. Anupādinnupādāniyañca anupādinnaanupādāniyañca dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā— anupādinnaanupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-2485\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā—  upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+2485\. Upādinnupādāniyañca anupādinnupādāniyañca dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati naārammaṇapaccayā— upādinnupādāniye khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

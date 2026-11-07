@@ -15,8 +15,7 @@
 
 (12.)
 
-2680\. Atītārammaṇaṃ dhammaṃ paṭicca atītārammaṇo dhammo uppajjati navipākapaccayā…pe… . (Navipāke paṭisandhi natthi.)
+2680\. Atītārammaṇaṁ dhammaṁ paṭicca atītārammaṇo dhammo uppajjati navipākapaccayā…pe… . (Navipāke paṭisandhi natthi.)
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
-
+[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (20.1.2.1 Vibhaṅgavāra)](../20.1.2.1.md) / [Go to next page (Najhāna)](Najhana.md)
 

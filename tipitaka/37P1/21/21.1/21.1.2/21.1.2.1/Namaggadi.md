@@ -15,10 +15,9 @@
 
 (14.)
 
-2785\. Ajjhattaṃ dhammaṃ paṭicca ajjhatto dhammo uppajjati namaggapaccayā…  (nahetusadisaṃ. Moho natthi) nasampayuttapaccayā…  navippayuttapaccayā—  arūpe…pe…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe… . (1)
+2785\. Ajjhattaṁ dhammaṁ paṭicca ajjhatto dhammo uppajjati namaggapaccayā… (nahetusadisaṁ. Moho natthi) nasampayuttapaccayā… navippayuttapaccayā— arūpe…pe… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… . (1)
 
-2786\. Bahiddhā dhammaṃ paṭicca bahiddhā dhammo uppajjati navippayuttapaccayā—  arūpe…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ…pe…  nonatthipaccayā, novigatapaccayā.
+2786\. Bahiddhā dhammaṁ paṭicca bahiddhā dhammo uppajjati navippayuttapaccayā— arūpe…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ…pe… nonatthipaccayā, novigatapaccayā.
 
-[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (21.1.2.1 Vibhaṅgavāra)](../21.1.2.1.md) / [Go to next page (21.1.2.2 Saṅkhyāvāra)](../21.1.2.2.md)
-
+[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (21.1.2.1 Vibhaṅgavāra)](../21.1.2.1.md) / [Go to next page (21.1.2.2 Saṅkhyāvāra)](../21.1.2.2.md)
 

@@ -15,8 +15,7 @@
 
 (30.)
 
-1517\. Naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…  naupanissayapaccayā…  napurejātapaccayā (paṭiccavārasadisā, satta pañhā)…  napacchājātapaccayā. (Paripuṇṇaṃ.)
+1517\. Naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā… naupanissayapaccayā… napurejātapaccayā (paṭiccavārasadisā, satta pañhā)… napacchājātapaccayā. (Paripuṇṇaṁ.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to next page (Naāsevana)](Naasevana.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (11.3.2.1 Vibhaṅgavāra)](../11.3.2.1.md) / [Go to next page (Naāsevana)](Naasevana.md)
 

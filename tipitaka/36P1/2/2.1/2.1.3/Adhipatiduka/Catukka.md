@@ -13,8 +13,7 @@
 
 * Catukka
 
-291\. Adhipatipaccayā hetupaccayā ārammaṇapaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi…pe… .
+291\. Adhipatipaccayā hetupaccayā ārammaṇapaccayā napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi…pe… .
 
 [Go to previous page (Adhipatiduka)](../Adhipatiduka.md) / [Go to parent page (Adhipatiduka)](../Adhipatiduka.md) / [Go to next page (Anantara-samanantaraduka)](../Anantara-samanantaraduka.md)
-
 

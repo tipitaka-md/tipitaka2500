@@ -21,4 +21,3 @@
 
 [Go to previous page (Suddha)](Suddha.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Sāmaññaghaṭanā)](Samannaghatana.md)
 
-

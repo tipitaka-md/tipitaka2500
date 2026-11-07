@@ -17,15 +17,7 @@
 
 752\. Nahetupaccayā ārammaṇe dve, adhipatiyā cattāri (anulomamātikā gaṇetabbā), avigate nava.
 
----
+753\. Paccanīyānulomaṁ. Sappaṭighadukaṁ niṭṭhitaṁ.
 
-753\. Paccanīyānulomaṃ.
-
-  
-Sappaṭighadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (2.4.7.4 Paccayapaccanīyānuloma)](../2.4.7.4.md) / [Go to parent page (2.4.7.4 Paccayapaccanīyānuloma)](../2.4.7.4.md) / [Go to next page (2.5 Rūpīduka)](../../../2.5.md)
-
+[Go to previous page (2.4.7.4 Paccayapaccanīyānuloma)](../2.4.7.4.md) / [Go to parent page (2.4.7.4 Paccayapaccanīyānuloma)](../2.4.7.4.md) / [Go to next page (2.5 Rūpīduka)](../../../2.5.md)
 

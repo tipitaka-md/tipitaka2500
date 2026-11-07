@@ -17,14 +17,13 @@
 
 (381.)
 
-3275\. Noupādā dhammaṃ paṭicca noupādā dhammo uppajjati najhānapaccayā—  pañcaviññāṇasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ asaññasattānaṃ…pe…  dve mahābhūte paṭicca dve mahābhūtā. (1)
+3275\. Noupādā dhammaṁ paṭicca noupādā dhammo uppajjati najhānapaccayā— pañcaviññāṇasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… bāhiraṁ āhārasamuṭṭhānaṁ utusamuṭṭhānaṁ asaññasattānaṁ…pe… dve mahābhūte paṭicca dve mahābhūtā. (1)
 
-3276\. Noupādā dhammaṃ paṭicca upādā dhammo uppajjati najhānapaccayā—  bāhire āhārasamuṭṭhāne utusamuṭṭhāne asaññasattānaṃ mahābhūte paṭicca upādā kaṭattārūpaṃ. (2)
+3276\. Noupādā dhammaṁ paṭicca upādā dhammo uppajjati najhānapaccayā— bāhire āhārasamuṭṭhāne utusamuṭṭhāne asaññasattānaṁ mahābhūte paṭicca upādā kaṭattārūpaṁ. (2)
 
-3277\. Noupādā dhammaṃ paṭicca upādā ca noupādā ca dhammā uppajjanti najhānapaccayā—  bāhiraṃ āhārasamuṭṭhānaṃ utusamuṭṭhānaṃ asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  dve mahābhūte…pe…  mahābhūte paṭicca upādā kaṭattārūpaṃ upādārūpaṃ. (3)
+3277\. Noupādā dhammaṁ paṭicca upādā ca noupādā ca dhammā uppajjanti najhānapaccayā— bāhiraṁ āhārasamuṭṭhānaṁ utusamuṭṭhānaṁ asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… dve mahābhūte…pe… mahābhūte paṭicca upādā kaṭattārūpaṁ upādārūpaṁ. (3)
 
-3278\. Upādā dhammaṃ paṭicca noupādā dhammo uppajjati namaggapaccayā pañca…  nasampayuttapaccayā…  tīṇi.
+3278\. Upādā dhammaṁ paṭicca noupādā dhammo uppajjati namaggapaccayā pañca… nasampayuttapaccayā… tīṇi.
 
-[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
-
+[Go to previous page (Naindriya)](Naindriya.md) / [Go to parent page (10.13.1.2.1 Vibhaṅgavāra)](../10.13.1.2.1.md) / [Go to next page (Navippayuttādi)](Navippayuttadi.md)
 

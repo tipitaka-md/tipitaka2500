@@ -17,12 +17,11 @@
 
 (28.)
 
-1043\. Noāsavo dhammo noāsavassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ (evaṃ vitthāretabbaṃ), phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa, vatthu noāsavānaṃ khandhānaṃ purejātapaccayena paccayo. (1)
+1043\. Noāsavo dhammo noāsavassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ (evaṁ vitthāretabbaṁ), phoṭṭhabbāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa, vatthu noāsavānaṁ khandhānaṁ purejātapaccayena paccayo. (1)
 
-1044\. Noāsavo dhammo āsavassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha āsavā uppajjanti. **Vatthupurejātaṃ**—  vatthu āsavānaṃ purejātapaccayena paccayo. (2)
+1044\. Noāsavo dhammo āsavassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ assādeti abhinandati, taṁ ārabbha āsavā uppajjanti. Vatthupurejātaṁ— vatthu āsavānaṁ purejātapaccayena paccayo. (2)
 
-1045\. Noāsavo dhammo āsavassa ca noāsavassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha āsavā ca sampayuttakā ca khandhā uppajjanti. **Vatthupurejātaṃ**—  vatthu āsavānañca āsavasampayuttakānañca khandhānaṃ purejātapaccayena paccayo. (3)
+1045\. Noāsavo dhammo āsavassa ca noāsavassa ca dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ assādeti abhinandati, taṁ ārabbha āsavā ca sampayuttakā ca khandhā uppajjanti. Vatthupurejātaṁ— vatthu āsavānañca āsavasampayuttakānañca khandhānaṁ purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../3.1.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (3.1.7.1.1 Vibhaṅgavāra)](../3.1.7.1.1.md) / [Go to next page (Pacchājāta)](Pacchajata.md)
 

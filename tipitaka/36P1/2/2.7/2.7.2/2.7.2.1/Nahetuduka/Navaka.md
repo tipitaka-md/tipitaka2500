@@ -19,4 +19,3 @@
 
 [Go to previous page (Aṭṭhaka)](Atthaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Dasaka)](Dasaka.md)
 
-

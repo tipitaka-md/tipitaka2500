@@ -15,10 +15,9 @@
 
 (17.)
 
-2492\. Anupādinnupādāniyaṃ dhammaṃ paṭicca anupādinnupādāniyo dhammo uppajjati nakammapaccayā—  anupādinnupādāniye khandhe paṭicca anupādinnupādāniyā cetanā. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ ekaṃ mahābhūtaṃ paṭicca…pe… . (1)
+2492\. Anupādinnupādāniyaṁ dhammaṁ paṭicca anupādinnupādāniyo dhammo uppajjati nakammapaccayā— anupādinnupādāniye khandhe paṭicca anupādinnupādāniyā cetanā. Bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ ekaṁ mahābhūtaṁ paṭicca…pe… . (1)
 
-2493\. Anupādinnaanupādāniyaṃ dhammaṃ paṭicca anupādinnaanupādāniyo dhammo uppajjati nakammapaccayā—  kusale anupādinnaanupādāniye khandhe paṭicca anupādinnaanupādāniyā cetanā. (2)
+2493\. Anupādinnaanupādāniyaṁ dhammaṁ paṭicca anupādinnaanupādāniyo dhammo uppajjati nakammapaccayā— kusale anupādinnaanupādāniye khandhe paṭicca anupādinnaanupādāniyā cetanā. (2)
 
-[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Naanantarādi)](Naanantaradi.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

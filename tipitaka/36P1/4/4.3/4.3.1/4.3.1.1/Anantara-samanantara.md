@@ -15,8 +15,7 @@
 
 (65.)
 
-2202\. Vipākaṃ dhammaṃ paccayā vipāko dhammo uppajjati anantarapaccayā…  samanantarapaccayā. (Ārammaṇapaccayasadisaṃ.)
+2202\. Vipākaṁ dhammaṁ paccayā vipāko dhammo uppajjati anantarapaccayā… samanantarapaccayā. (Ārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (4.3.1.1 Vibhaṅgavāra)](../4.3.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
 

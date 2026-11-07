@@ -15,8 +15,7 @@
 
 (6.)
 
-2447\. Maggārammaṇaṃ dhammaṃ paṭicca maggārammaṇo dhammo uppajjati ārammaṇapaccayā…  adhipatipaccayā…  anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā…  aññamaññapaccayā…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā.
+2447\. Maggārammaṇaṁ dhammaṁ paṭicca maggārammaṇo dhammo uppajjati ārammaṇapaccayā… adhipatipaccayā… anantarapaccayā… samanantarapaccayā… sahajātapaccayā… aññamaññapaccayā… nissayapaccayā… upanissayapaccayā… purejātapaccayā… āsevanapaccayā… kammapaccayā… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā.
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (17.1.1.1 Vibhaṅgavāra)](../17.1.1.1.md) / [Go to next page (17.1.1.2 Saṅkhyāvāra)](../17.1.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (17.1.1.1 Vibhaṅgavāra)](../17.1.1.1.md) / [Go to next page (17.1.1.2 Saṅkhyāvāra)](../17.1.1.2.md)
 

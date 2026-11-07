@@ -13,14 +13,9 @@
 
 (263.)
 
-827\. Hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṃkhittaṃ.)
+827\. Hetupaccayā naadhipatiyā tīṇi, napurejāte tīṇi, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte tīṇi. (Saṁkhittaṁ.)
 
----
+828\. Anulomapaccanīyaṁ.
 
-828\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (2.6.3 Paccayānulomapaccanīya)](../2.6.3.md) / [Go to parent page (2.6.3 Paccayānulomapaccanīya)](../2.6.3.md) / [Go to next page (2.6.4 Paccayapaccanīyānuloma)](../2.6.4.md)
-
+[Go to previous page (2.6.3 Paccayānulomapaccanīya)](../2.6.3.md) / [Go to parent page (2.6.3 Paccayānulomapaccanīya)](../2.6.3.md) / [Go to next page (2.6.4 Paccayapaccanīyānuloma)](../2.6.4.md)
 

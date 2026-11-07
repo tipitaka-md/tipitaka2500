@@ -17,8 +17,7 @@
 
 (8.)
 
-560\. Sappaccayo dhammo sappaccayassa dhammassa hetupaccayena paccayo—  sappaccayā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… .
+560\. Sappaccayo dhammo sappaccayassa dhammassa hetupaccayena paccayo— sappaccayā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe…pe… .
 
-[Go to previous page (2.1.7.1.1 Vibhaṅgavāra)](../2.1.7.1.1.md) / [Go to parent page (2.1.7.1.1 Vibhaṅgavāra)](../2.1.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (2.1.7.1.1 Vibhaṅgavāra)](../2.1.7.1.1.md) / [Go to parent page (2.1.7.1.1 Vibhaṅgavāra)](../2.1.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

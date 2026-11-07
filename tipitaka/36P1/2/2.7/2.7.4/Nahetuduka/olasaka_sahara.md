@@ -13,8 +13,7 @@
 
 * Soḷasaka (sāhāra)
 
-1704\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā naāhārapaccayā indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+1704\. Nahetupaccayā naārammaṇapaccayā (mūlakaṁ saṁkhittaṁ) napacchājātapaccayā naāsevanapaccayā nakammapaccayā navipākapaccayā naāhārapaccayā indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Dvādasaka)](Dvadasaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Bāvīsaka (sāhāra))](avisaka_sahara.md)
-
 

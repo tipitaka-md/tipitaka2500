@@ -13,8 +13,7 @@
 
 * Sattaka
 
-1782\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā upanissaye nava, kamme dve…pe… .
+1782\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā naadhipatipaccayā naanantarapaccayā nasamanantarapaccayā upanissaye nava, kamme dve…pe… .
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Noatthiduka)](../Noatthiduka.md) / [Go to next page (Catuvīsaka (saupanissaya))](atuvisaka_saupanissaya.md)
-
 

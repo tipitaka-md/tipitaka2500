@@ -15,23 +15,11 @@
 
 (201.)
 
-542\. Nahetupaccayā ārammaṇe cattāri, adhipatiyā cattāri…pe…  avigate satta.
+542\. Nahetupaccayā ārammaṇe cattāri, adhipatiyā cattāri…pe… avigate satta.
 
----
+543\. Paccanīyānulomaṁ. Nahetusahetukadukaṁ niṭṭhitaṁ.
 
-543\. Paccanīyānulomaṃ.
+544\. Hetugocchakaṁ niṭṭhitaṁ.
 
-  
-Nahetusahetukadukaṃ niṭṭhitaṃ.
-
-
-
----
-
-544\. Hetugocchakaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md) / [Go to parent page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md) / [Go to next page (2 Cūḷantaraduka)](../../../../2.md)
-
+[Go to previous page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md) / [Go to parent page (1.6.7.4 Paccayapaccanīyānuloma)](../1.6.7.4.md) / [Go to next page (2 Cūḷantaraduka)](../../../../2.md)
 

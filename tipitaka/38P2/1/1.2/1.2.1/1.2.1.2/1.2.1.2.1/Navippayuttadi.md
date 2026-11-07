@@ -17,18 +17,17 @@
 
 (68.)
 
-184\. Sahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā—  arūpe sahetukaṃ ekaṃ khandhaṃ…pe… . (1)
+184\. Sahetukaṁ dhammaṁ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā— arūpe sahetukaṁ ekaṁ khandhaṁ…pe… . (1)
 
-185\. Sahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
+185\. Sahetukaṁ dhammaṁ paṭicca ahetuko dhammo uppajjati navippayuttapaccayā— arūpe vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (2)
 
-186\. Sahetukaṃ dhammaṃ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti navippayuttapaccayā—  arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhaṃ paṭicca tayo khandhā moho ca…pe…  dve khandhe…pe… . (3)
+186\. Sahetukaṁ dhammaṁ paṭicca sahetuko ca ahetuko ca dhammā uppajjanti navippayuttapaccayā— arūpe vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhaṁ paṭicca tayo khandhā moho ca…pe… dve khandhe…pe… . (3)
 
-187\. Ahetukaṃ dhammaṃ paṭicca ahetuko dhammo uppajjati navippayuttapaccayā—  arūpe ahetukaṃ ekaṃ khandhaṃ paṭicca tayo khandhā, dve khandhe…pe… . (1)
+187\. Ahetukaṁ dhammaṁ paṭicca ahetuko dhammo uppajjati navippayuttapaccayā— arūpe ahetukaṁ ekaṁ khandhaṁ paṭicca tayo khandhā, dve khandhe…pe… . (1)
 
-188\. Ahetukaṃ dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ paṭicca sampayuttakā khandhā. (2)
+188\. Ahetukaṁ dhammaṁ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā— arūpe vicikicchāsahagataṁ uddhaccasahagataṁ mohaṁ paṭicca sampayuttakā khandhā. (2)
 
-189\. Sahetukañca ahetukañca dhammaṃ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā—  arūpe vicikicchāsahagataṃ uddhaccasahagataṃ ekaṃ khandhañca mohañca paṭicca tayo khandhā…pe…  dve khandhe…pe…  nonatthipaccayā…  novigatapaccayā. (1)
+189\. Sahetukañca ahetukañca dhammaṁ paṭicca sahetuko dhammo uppajjati navippayuttapaccayā— arūpe vicikicchāsahagataṁ uddhaccasahagataṁ ekaṁ khandhañca mohañca paṭicca tayo khandhā…pe… dve khandhe…pe… nonatthipaccayā… novigatapaccayā. (1)
 
-[Go to previous page (Naāhārādi)](Naaharadi.md) / [Go to parent page (1.2.1.2.1 Vibhaṅgavāra)](../1.2.1.2.1.md) / [Go to next page (1.2.1.2.2 Saṅkhyāvāra)](../1.2.1.2.2.md)
-
+[Go to previous page (Naāhārādi)](Naaharadi.md) / [Go to parent page (1.2.1.2.1 Vibhaṅgavāra)](../1.2.1.2.1.md) / [Go to next page (1.2.1.2.2 Saṅkhyāvāra)](../1.2.1.2.2.md)
 

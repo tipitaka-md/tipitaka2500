@@ -17,8 +17,7 @@
 
 (44.)
 
-636\. Anidassano dhammo anidassanassa dhammassa vipākapaccayena paccayo…  tīṇi…  āhārapaccayena paccayo…  tīṇi (tīsupi kabaḷīkāro āhāro kātabbo)…  indriyapaccayena paccayo…  tīṇi (tīsupi rūpajīvitindriyaṃ)…  jhānapaccayena paccayo…  tīṇi…  maggapaccayena paccayo…  tīṇi…  sampayuttapaccayena paccayo…  ekaṃ.
+636\. Anidassano dhammo anidassanassa dhammassa vipākapaccayena paccayo… tīṇi… āhārapaccayena paccayo… tīṇi (tīsupi kabaḷīkāro āhāro kātabbo)… indriyapaccayena paccayo… tīṇi (tīsupi rūpajīvitindriyaṁ)… jhānapaccayena paccayo… tīṇi… maggapaccayena paccayo… tīṇi… sampayuttapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (2.3.7.1.1 Vibhaṅgavāra)](../2.3.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

@@ -15,20 +15,15 @@
 
 (121.)
 
-449\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati aññamaññapaccayā…  ekaṃ.
+449\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati aññamaññapaccayā… ekaṁ.
 
-450\. Akusalaṃ dhammaṃ paccayā akusalo dhammo uppajjati aññamaññapaccayā…  ekaṃ.
+450\. Akusalaṁ dhammaṁ paccayā akusalo dhammo uppajjati aññamaññapaccayā… ekaṁ.
 
-451\. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati aññamaññapaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paccayā tayo khandhā…pe…  dve khandhe paccayā dve khandhā; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ paccayā tayo khandhā vatthu ca…pe…  dve khandhe paccayā dve khandhā vatthu ca, khandhe paccayā vatthu, vatthuṃ paccayā khandhā; ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  dve mahābhūte paccayā dve mahābhūtā; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paccayā tayo mahābhūtā…pe…  dve mahābhūte paccayā dve mahābhūtā, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā vipākābyākatā kiriyābyākatā khandhā.
+451\. Abyākataṁ dhammaṁ paccayā abyākato dhammo uppajjati aññamaññapaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paccayā tayo khandhā…pe… dve khandhe paccayā dve khandhā; paṭisandhikkhaṇe vipākābyākataṁ ekaṁ khandhaṁ paccayā tayo khandhā vatthu ca…pe… dve khandhe paccayā dve khandhā vatthu ca, khandhe paccayā vatthu, vatthuṁ paccayā khandhā; ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… dve mahābhūte paccayā dve mahābhūtā; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paccayā tayo mahābhūtā…pe… dve mahābhūte paccayā dve mahābhūtā, cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā vipākābyākatā kiriyābyākatā khandhā.
 
-452\. Abyākataṃ dhammaṃ paccayā kusalo dhammo uppajjati aññamaññapaccayā—  vatthuṃ paccayā kusalā khandhā.
+452\. Abyākataṁ dhammaṁ paccayā kusalo dhammo uppajjati aññamaññapaccayā— vatthuṁ paccayā kusalā khandhā.
 
----
+453\. (Yathā ārammaṇapaccayaṁ, evaṁ vitthāretabbaṁ.)
 
-453\. (Yathā ārammaṇapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
-
+[Go to previous page (Sahajāta)](Sahajata.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Nissaya)](Nissaya.md)
 

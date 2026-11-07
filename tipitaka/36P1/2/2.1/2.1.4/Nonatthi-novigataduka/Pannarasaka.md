@@ -13,8 +13,7 @@
 
 * Pannarasaka
 
-399\. Novigatapaccayā nahetupaccayā…pe…  nakammapaccayā navipākapaccayā naāhārapaccayā sahajāte ekaṃ, nissaye ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+399\. Novigatapaccayā nahetupaccayā…pe… nakammapaccayā navipākapaccayā naāhārapaccayā sahajāte ekaṁ, nissaye ekaṁ, atthiyā ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to next page (Ekavīsaka)](Ekavisaka.md)
-
 

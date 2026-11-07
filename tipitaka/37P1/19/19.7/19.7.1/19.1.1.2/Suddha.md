@@ -15,14 +15,9 @@
 
 (17.)
 
-2652\. Hetuyā ekaṃ, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare ekaṃ, samanantare ekaṃ, sahajāte aññamaññe nissaye ekaṃ, upanissaye tīṇi, purejāte pacchājāte āsevane ekaṃ, kamme dve, vipāke āhāre ekaṃ…pe…  avigate ekaṃ. (Evaṃ gaṇetabbaṃ.)
+2652\. Hetuyā ekaṁ, ārammaṇe tīṇi, adhipatiyā tīṇi, anantare ekaṁ, samanantare ekaṁ, sahajāte aññamaññe nissaye ekaṁ, upanissaye tīṇi, purejāte pacchājāte āsevane ekaṁ, kamme dve, vipāke āhāre ekaṁ…pe… avigate ekaṁ. (Evaṁ gaṇetabbaṁ.)
 
----
+2653\. Anulomaṁ.
 
-2653\. Anulomaṃ.
-
-
-
-[Go to previous page (19.1.1.2 Saṅkhyāvāra)](../19.1.1.2.md) / [Go to parent page (19.1.1.2 Saṅkhyāvāra)](../19.1.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (19.1.1.2 Saṅkhyāvāra)](../19.1.1.2.md) / [Go to parent page (19.1.1.2 Saṅkhyāvāra)](../19.1.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

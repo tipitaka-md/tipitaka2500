@@ -15,8 +15,7 @@
 
 (7.)
 
-1673\. Nevasekkhanāsekkhaṃ dhammaṃ paṭicca nevasekkhanāsekkho dhammo uppajjati nahetupaccayā—  ahetukaṃ nevasekkhanāsekkhaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  khandhe paṭicca vatthu, vatthuṃ paṭicca khandhā, ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe…  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+1673\. Nevasekkhanāsekkhaṁ dhammaṁ paṭicca nevasekkhanāsekkho dhammo uppajjati nahetupaccayā— ahetukaṁ nevasekkhanāsekkhaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… khandhe paṭicca vatthu, vatthuṁ paṭicca khandhā, ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
 [Go to previous page (12.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to parent page (12.1.2.1 Vibhaṅgavāra)](../2.1.2.1.md) / [Go to next page (Naārammaṇa)](Naarammana.md)
-
 

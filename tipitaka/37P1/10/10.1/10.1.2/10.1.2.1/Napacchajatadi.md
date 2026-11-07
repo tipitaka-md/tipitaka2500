@@ -15,8 +15,7 @@
 
 (24.)
 
-1118\. Dassanena pahātabbahetukaṃ dhammaṃ paṭicca dassanena pahātabbahetuko dhammo uppajjati napacchājātapaccayā…  naāsevanapaccayā.
+1118\. Dassanena pahātabbahetukaṁ dhammaṁ paṭicca dassanena pahātabbahetuko dhammo uppajjati napacchājātapaccayā… naāsevanapaccayā.
 
-[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](../10.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Napurejāta)](Napurejata.md) / [Go to parent page (10.1.2.1 Vibhaṅgavāra)](../10.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

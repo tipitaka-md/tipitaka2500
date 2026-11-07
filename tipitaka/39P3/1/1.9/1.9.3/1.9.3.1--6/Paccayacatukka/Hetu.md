@@ -17,12 +17,11 @@
 
 (298.)
 
-608\. Hetuṃ nevadassanena nabhāvanāya pahātabbahetukaṃ dhammaṃ paṭicca hetu nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+608\. Hetuṁ nevadassanena nabhāvanāya pahātabbahetukaṁ dhammaṁ paṭicca hetu nevadassanena nabhāvanāya pahātabbahetuko dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
 (299.)
 
-609\. Hetuyā nava, ārammaṇe nava…pe…  avigate nava. (Saṃkhittaṃ.)
+609\. Hetuyā nava, ārammaṇe nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Nahetu)](Nahetu.md)
-
 

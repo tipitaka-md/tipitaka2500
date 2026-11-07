@@ -17,8 +17,7 @@
 
 (215.)
 
-2849\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa sahajātapaccayena paccayo (paṭiccavārasadisaṃ)…  aññamaññapaccayena paccayo (paṭiccavārasadisaṃ)…  nissayapaccayena paccayo. (Paccayavārasadisaṃ.)
+2849\. Cittasamuṭṭhāno dhammo cittasamuṭṭhānassa dhammassa sahajātapaccayena paccayo (paṭiccavārasadisaṁ)… aññamaññapaccayena paccayo (paṭiccavārasadisaṁ)… nissayapaccayena paccayo. (Paccayavārasadisaṁ.)
 
-[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (10.6.7.1.1 Vibhaṅgavāra)](../10.6.7.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

@@ -15,24 +15,19 @@
 
 (69.)
 
-1401\. Hetu ceva sahetuko ca abyākato dhammo hetussa ceva sahetukassa ca abyākatassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1401\. Hetu ceva sahetuko ca abyākato dhammo hetussa ceva sahetukassa ca abyākatassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (70.)
 
-1402\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1402\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1403\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1403\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1404\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1404\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-1405\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1405\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
----
+1406\. Hetusahetukadukakusalattikaṁ niṭṭhitaṁ.
 
-1406\. Hetusahetukadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.4.3.7 Pañhāvāra)](../2.4.3.7.md) / [Go to next page (2.5 Hetuhetusampayuttaduka, Kusalattika)](../../../2.5.md)
-
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (2.4.3.7 Pañhāvāra)](../2.4.3.7.md) / [Go to next page (2.5 Hetuhetusampayuttaduka, Kusalattika)](../../../2.5.md)
 

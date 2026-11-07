@@ -17,14 +17,13 @@
 
 (306.)
 
-4726\. Niyyānikaṃ dhammaṃ paccayā niyyāniko dhammo uppajjati hetupaccayā…  tīṇi. (Paṭiccasadisā.)
+4726\. Niyyānikaṁ dhammaṁ paccayā niyyāniko dhammo uppajjati hetupaccayā… tīṇi. (Paṭiccasadisā.)
 
-4727\. Aniyyānikaṃ dhammaṃ paccayā aniyyāniko dhammo uppajjati hetupaccayā—  aniyyānikaṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe…  (yāva ajjhattikā mahābhūtā) vatthuṃ paccayā aniyyānikā khandhā. Aniyyānikaṃ dhammaṃ paccayā niyyāniko dhammo uppajjati hetupaccayā—  vatthuṃ paccayā niyyānikā khandhā. Aniyyānikaṃ dhammaṃ paccayā niyyāniko ca aniyyāniko ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā niyyānikā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
+4727\. Aniyyānikaṁ dhammaṁ paccayā aniyyāniko dhammo uppajjati hetupaccayā— aniyyānikaṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… (yāva ajjhattikā mahābhūtā) vatthuṁ paccayā aniyyānikā khandhā. Aniyyānikaṁ dhammaṁ paccayā niyyāniko dhammo uppajjati hetupaccayā— vatthuṁ paccayā niyyānikā khandhā. Aniyyānikaṁ dhammaṁ paccayā niyyāniko ca aniyyāniko ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā niyyānikā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ. (3)
 
 (307.)
 
-4728\. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko dhammo uppajjati hetupaccayā—  niyyānikaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe… . Niyyānikañca aniyyānikañca dhammaṃ paccayā aniyyāniko dhammo uppajjati hetupaccayā—  niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. Niyyānikañca aniyyānikañca dhammaṃ paccayā niyyāniko ca aniyyāniko ca dhammā uppajjanti hetupaccayā—  niyyānikaṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
+4728\. Niyyānikañca aniyyānikañca dhammaṁ paccayā niyyāniko dhammo uppajjati hetupaccayā— niyyānikaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… . Niyyānikañca aniyyānikañca dhammaṁ paccayā aniyyāniko dhammo uppajjati hetupaccayā— niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. Niyyānikañca aniyyānikañca dhammaṁ paccayā niyyāniko ca aniyyāniko ca dhammā uppajjanti hetupaccayā— niyyānikaṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… niyyānike khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (3)
 
-[Go to previous page (13.15.3.1.1 Vibhaṅgavāra)](../13.15.3.1.1.md) / [Go to parent page (13.15.3.1.1 Vibhaṅgavāra)](../13.15.3.1.1.md) / [Go to next page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md)
-
+[Go to previous page (13.15.3.1.1 Vibhaṅgavāra)](../13.15.3.1.1.md) / [Go to parent page (13.15.3.1.1 Vibhaṅgavāra)](../13.15.3.1.1.md) / [Go to next page (13.15.3.1.2 Saṅkhyāvāra)](../13.15.3.1.2.md)
 

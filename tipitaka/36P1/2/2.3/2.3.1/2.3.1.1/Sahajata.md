@@ -15,20 +15,15 @@
 
 (120.)
 
-444\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati sahajātapaccayā—  kusalaṃ ekaṃ khandhaṃ paccayā…  tīṇi.
+444\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati sahajātapaccayā— kusalaṁ ekaṁ khandhaṁ paccayā… tīṇi.
 
-445\. Akusalaṃ dhammaṃ paccayā…  tīṇi.
+445\. Akusalaṁ dhammaṁ paccayā… tīṇi.
 
-446\. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati sahajātapaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ paccayā…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ paccayā…pe…  mahābhūte paccayā kaṭattārūpaṃ upādārūpaṃ, cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā vipākābyākatā kiriyābyākatā khandhā.
+446\. Abyākataṁ dhammaṁ paccayā abyākato dhammo uppajjati sahajātapaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paccayā tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ paccayā…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ paccayā…pe… mahābhūte paccayā kaṭattārūpaṁ upādārūpaṁ, cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā vipākābyākatā kiriyābyākatā khandhā.
 
-447\. Abyākataṃ dhammaṃ paccayā kusalo dhammo uppajjati sahajātapaccayā—  vatthuṃ paccayā kusalā khandhā.
+447\. Abyākataṁ dhammaṁ paccayā kusalo dhammo uppajjati sahajātapaccayā— vatthuṁ paccayā kusalā khandhā.
 
----
+448\. (Yathā hetupaccayaṁ, evaṁ vitthāretabbaṁ.)
 
-448\. (Yathā hetupaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
-
+[Go to previous page (Anantara-samanantara)](Anantara-samanantara.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Aññamañña)](Annamanna.md)
 

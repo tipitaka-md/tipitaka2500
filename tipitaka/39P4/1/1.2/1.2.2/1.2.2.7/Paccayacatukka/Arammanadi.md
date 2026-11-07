@@ -33,4 +33,3 @@
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Anantara-upanissaya)](Anantara-upanissaya.md)
 
-

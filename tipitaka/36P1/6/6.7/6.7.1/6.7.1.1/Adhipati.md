@@ -15,24 +15,23 @@
 
 (11.)
 
-2839\. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  rāgaṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati; diṭṭhiṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. **Sahajātādhipati**—  saṃkiliṭṭhasaṃkilesikādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2839\. Saṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— rāgaṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati; diṭṭhiṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. Sahajātādhipati— saṁkiliṭṭhasaṁkilesikādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2840\. Saṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  saṃkiliṭṭhasaṃkilesikādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+2840\. Saṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— saṁkiliṭṭhasaṁkilesikādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-2841\. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhasaṃkilesikassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  saṃkiliṭṭhasaṃkilesikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2841\. Saṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa ca asaṁkiliṭṭhasaṁkilesikassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— saṁkiliṭṭhasaṁkilesikādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (12.)
 
-2842\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā, sīlaṃ samādiyitvā, uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati, pubbe suciṇṇāni garuṃ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā paccavekkhati, sekkhā gotrabhuṃ garuṃ katvā paccavekkhanti, vodānaṃ garuṃ katvā paccavekkhanti. **Sahajātādhipati**—  asaṃkiliṭṭhasaṃkilesikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+2842\. Asaṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā, sīlaṁ samādiyitvā, uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati, pubbe suciṇṇāni garuṁ katvā paccavekkhati, jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā paccavekkhati, sekkhā gotrabhuṁ garuṁ katvā paccavekkhanti, vodānaṁ garuṁ katvā paccavekkhanti. Sahajātādhipati— asaṁkiliṭṭhasaṁkilesikādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-2843\. Asaṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā, sīlaṃ samādiyitvā, uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni garuṃ katvā assādeti abhinandati…pe…  jhānā vuṭṭhahitvā jhānaṃ garuṃ katvā assādeti abhinandati…pe…  cakkhuṃ garuṃ katvā assādeti abhinandati…pe…  phoṭṭhabbe…pe…  vatthuṃ asaṃkiliṭṭhasaṃkilesike khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+2843\. Asaṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— dānaṁ datvā, sīlaṁ samādiyitvā, uposathakammaṁ katvā taṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni garuṁ katvā assādeti abhinandati…pe… jhānā vuṭṭhahitvā jhānaṁ garuṁ katvā assādeti abhinandati…pe… cakkhuṁ garuṁ katvā assādeti abhinandati…pe… phoṭṭhabbe…pe… vatthuṁ asaṁkiliṭṭhasaṁkilesike khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-2844\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  nibbānaṃ maggassa, phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  asaṃkiliṭṭhaasaṃkilesikādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+2844\. Asaṁkiliṭṭhaasaṁkilesiko dhammo asaṁkiliṭṭhaasaṁkilesikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— nibbānaṁ maggassa, phalassa adhipatipaccayena paccayo. Sahajātādhipati— asaṁkiliṭṭhaasaṁkilesikādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-2845\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  ariyā maggā vuṭṭhahitvā maggaṃ garuṃ katvā paccavekkhanti, phalaṃ garuṃ katvā paccavekkhanti, nibbānaṃ garuṃ katvā paccavekkhanti, nibbānaṃ gotrabhussa, vodānassa adhipatipaccayena paccayo. **Sahajātādhipati**—  asaṃkiliṭṭhaasaṃkilesikādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo. (2)
+2845\. Asaṁkiliṭṭhaasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— ariyā maggā vuṭṭhahitvā maggaṁ garuṁ katvā paccavekkhanti, phalaṁ garuṁ katvā paccavekkhanti, nibbānaṁ garuṁ katvā paccavekkhanti, nibbānaṁ gotrabhussa, vodānassa adhipatipaccayena paccayo. Sahajātādhipati— asaṁkiliṭṭhaasaṁkilesikādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo. (2)
 
-2846\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhaasaṃkilesikassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  asaṃkiliṭṭhaasaṃkilesikādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+2846\. Asaṁkiliṭṭhaasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa ca asaṁkiliṭṭhaasaṁkilesikassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— asaṁkiliṭṭhaasaṁkilesikādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

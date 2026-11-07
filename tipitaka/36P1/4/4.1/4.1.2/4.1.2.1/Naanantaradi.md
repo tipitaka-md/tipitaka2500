@@ -15,8 +15,7 @@
 
 (33.)
 
-2107\. Vipākaṃ dhammaṃ paṭicca nevavipākanavipākadhammadhammo uppajjati naanantarapaccayā…  nasamanantarapaccayā…  naaññamaññapaccayā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ; bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ, asaññasattānaṃ mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ (idaṃ nānattaṃ) naaññamaññapaccayā…  naupanissayapaccayā…  (Saṃkhittaṃ.)
+2107\. Vipākaṁ dhammaṁ paṭicca nevavipākanavipākadhammadhammo uppajjati naanantarapaccayā… nasamanantarapaccayā… naaññamaññapaccayā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ; bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ, asaññasattānaṁ mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ (idaṁ nānattaṁ) naaññamaññapaccayā… naupanissayapaccayā… (Saṁkhittaṁ.)
 
-[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
-
+[Go to previous page (Naadhipati)](Naadhipati.md) / [Go to parent page (4.1.2.1 Vibhaṅgavāra)](../4.1.2.1.md) / [Go to next page (Napurejāta)](Napurejata.md)
 

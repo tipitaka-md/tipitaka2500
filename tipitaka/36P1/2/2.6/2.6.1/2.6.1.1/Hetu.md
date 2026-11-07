@@ -15,16 +15,15 @@
 
 (256.)
 
-818\. Kusalaṃ dhammaṃ sampayutto kusalo dhammo uppajjati hetupaccayā—  kusalaṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (1)
+818\. Kusalaṁ dhammaṁ sampayutto kusalo dhammo uppajjati hetupaccayā— kusalaṁ ekaṁ khandhaṁ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (1)
 
 (257.)
 
-819\. Akusalaṃ dhammaṃ sampayutto akusalo dhammo uppajjati hetupaccayā—  akusalaṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (1)
+819\. Akusalaṁ dhammaṁ sampayutto akusalo dhammo uppajjati hetupaccayā— akusalaṁ ekaṁ khandhaṁ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (1)
 
 (258.)
 
-820\. Abyākataṃ dhammaṃ sampayutto abyākato dhammo uppajjati hetupaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā; paṭisandhikkhaṇe vipākābyākataṃ ekaṃ khandhaṃ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (Saṃkhittaṃ.) (1)
+820\. Abyākataṁ dhammaṁ sampayutto abyākato dhammo uppajjati hetupaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā; paṭisandhikkhaṇe vipākābyākataṁ ekaṁ khandhaṁ sampayuttā tayo khandhā, tayo khandhe sampayutto eko khandho, dve khandhe sampayuttā dve khandhā. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (2.6.1.1 Vibhaṅgavāra)](../2.6.1.1.md) / [Go to parent page (2.6.1.1 Vibhaṅgavāra)](../2.6.1.1.md) / [Go to next page (2.6.1.2 Saṅkhyāvāra)](../2.6.1.2.md)
-
+[Go to previous page (2.6.1.1 Vibhaṅgavāra)](../2.6.1.1.md) / [Go to parent page (2.6.1.1 Vibhaṅgavāra)](../2.6.1.1.md) / [Go to next page (2.6.1.2 Saṅkhyāvāra)](../2.6.1.2.md)
 

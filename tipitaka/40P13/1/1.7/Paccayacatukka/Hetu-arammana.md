@@ -23,16 +23,15 @@
 
 (10.)
 
-20\. Kusalo dhammo nakusalassa dhammassa ārammaṇapaccayena paccayo… . (Cha pañhā.)
+20\. Kusalo dhammo nakusalassa dhammassa ārammaṇapaccayena paccayo… . (Cha pañhā.)
 
-21\. Akusalo dhammo naakusalassa dhammassa ārammaṇapaccayena paccayo … . (Cha pañhā.)
+21\. Akusalo dhammo naakusalassa dhammassa ārammaṇapaccayena paccayo … . (Cha pañhā.)
 
-22\. Abyākato dhammo naabyākatassa dhammassa ārammaṇapaccayena paccayo… . (Cha pañhā, saṃkhittaṃ.)
+22\. Abyākato dhammo naabyākatassa dhammassa ārammaṇapaccayena paccayo… . (Cha pañhā, saṁkhittaṁ.)
 
 (11.)
 
-23\. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare soḷasa, samanantare soḷasa, sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye aṭṭhārasa, purejāte cha, pacchājāte nava, āsevane nava, kamme terasa, vipāke tīṇi, āhāre terasa…pe…  magge terasa, sampayutte nava, vippayutte dvādasa…pe…  avigate chabbīsa. (Pañhāvāraṃ vitthāretabbaṃ.)
+23\. Hetuyā terasa, ārammaṇe aṭṭhārasa, adhipatiyā sattarasa, anantare soḷasa, samanantare soḷasa, sahajāte ekūnavīsa, aññamaññe nava, nissaye chabbīsa, upanissaye aṭṭhārasa, purejāte cha, pacchājāte nava, āsevane nava, kamme terasa, vipāke tīṇi, āhāre terasa…pe… magge terasa, sampayutte nava, vippayutte dvādasa…pe… avigate chabbīsa. (Pañhāvāraṁ vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2 Vedanāttika)](../../../2.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (2 Vedanāttika)](../../../2.md)
 

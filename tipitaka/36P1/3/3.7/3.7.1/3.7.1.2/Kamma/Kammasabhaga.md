@@ -21,4 +21,3 @@
 
 [Go to previous page (Kamma)](../Kamma.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
-

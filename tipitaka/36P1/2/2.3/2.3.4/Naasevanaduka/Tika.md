@@ -13,8 +13,7 @@
 
 * Tika
 
-647\. Naāsevanapaccayā nahetupaccayā ārammaṇe cattāri, anantare cattāri, samanantare cattāri, sahajāte cattāri, aññamaññe cattāri, nissaye cattāri, upanissaye cattāri, purejāte cattāri, kamme cattāri, vipāke ekaṃ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cattāri, vippayutte cattāri, atthiyā cattāri, natthiyā cattāri, vigate cattāri, avigate cattāri.
+647\. Naāsevanapaccayā nahetupaccayā ārammaṇe cattāri, anantare cattāri, samanantare cattāri, sahajāte cattāri, aññamaññe cattāri, nissaye cattāri, upanissaye cattāri, purejāte cattāri, kamme cattāri, vipāke ekaṁ, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte cattāri, vippayutte cattāri, atthiyā cattāri, natthiyā cattāri, vigate cattāri, avigate cattāri.
 
 [Go to previous page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to parent page (Naāsevanaduka)](../Naasevanaduka.md) / [Go to next page (Catukka)](Catukka.md)
-
 

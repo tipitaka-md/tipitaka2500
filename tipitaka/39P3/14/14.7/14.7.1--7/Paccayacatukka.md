@@ -13,34 +13,33 @@
 
 (22.)
 
-2649\. Saraṇaṃ pītisahagataṃ dhammaṃ paṭicca saraṇo pītisahagato dhammo uppajjati hetupaccayā. (1)
+2649\. Saraṇaṁ pītisahagataṁ dhammaṁ paṭicca saraṇo pītisahagato dhammo uppajjati hetupaccayā. (1)
 
-2650\. Araṇaṃ pītisahagataṃ dhammaṃ paṭicca araṇo pītisahagato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2650\. Araṇaṁ pītisahagataṁ dhammaṁ paṭicca araṇo pītisahagato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (23.)
 
-2651\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavāropi…pe…  pañhāvāropi sabbattha vitthāretabbā.)
+2651\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ. Sahajātavāropi…pe… pañhāvāropi sabbattha vitthāretabbā.)
 
 (24.)
 
-2652\. Saraṇaṃ sukhasahagataṃ dhammaṃ paṭicca saraṇo sukhasahagato dhammo uppajjati hetupaccayā. (1)
+2652\. Saraṇaṁ sukhasahagataṁ dhammaṁ paṭicca saraṇo sukhasahagato dhammo uppajjati hetupaccayā. (1)
 
-2653\. Araṇaṃ sukhasahagataṃ dhammaṃ paṭicca araṇo sukhasahagato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2653\. Araṇaṁ sukhasahagataṁ dhammaṁ paṭicca araṇo sukhasahagato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (25.)
 
-2654\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavāropi…pe…  pañhāvāropi vitthāretabbā.)
+2654\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ. Sahajātavāropi…pe… pañhāvāropi vitthāretabbā.)
 
 (26.)
 
-2655\. Saraṇaṃ upekkhāsahagataṃ dhammaṃ paṭicca saraṇo upekkhāsahagato dhammo uppajjati hetupaccayā. (1)
+2655\. Saraṇaṁ upekkhāsahagataṁ dhammaṁ paṭicca saraṇo upekkhāsahagato dhammo uppajjati hetupaccayā. (1)
 
-2656\. Araṇaṃ upekkhāsahagataṃ dhammaṃ paṭicca araṇo upekkhāsahagato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2656\. Araṇaṁ upekkhāsahagataṁ dhammaṁ paṭicca araṇo upekkhāsahagato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (27.)
 
-2657\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi vitthāretabbo.)
+2657\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi vitthāretabbo.)
 
-[Go to previous page (14.7.1--7 Paṭiccādivāra)](../14.7.1--7.md) / [Go to parent page (14.7.1--7 Paṭiccādivāra)](../14.7.1--7.md) / [Go to next page (14.8 Saraṇaduka, Dassanenapahātabbattika)](../../14.8.md)
-
+[Go to previous page (14.7.1--7 Paṭiccādivāra)](../14.7.1--7.md) / [Go to parent page (14.7.1--7 Paṭiccādivāra)](../14.7.1--7.md) / [Go to next page (14.8 Saraṇaduka, Dassanenapahātabbattika)](../../14.8.md)
 

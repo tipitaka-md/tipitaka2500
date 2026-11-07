@@ -15,20 +15,19 @@
 
 (8.)
 
-2825\. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo—  saṃkiliṭṭhasaṃkilesikā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+2825\. Saṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa dhammassa hetupaccayena paccayo— saṁkiliṭṭhasaṁkilesikā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (1)
 
-2826\. Saṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo—  saṃkiliṭṭhasaṃkilesikā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
+2826\. Saṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa hetupaccayena paccayo— saṁkiliṭṭhasaṁkilesikā hetū cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo. (2)
 
-2827\. Saṃkiliṭṭhasaṃkilesiko dhammo saṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhasaṃkilesikassa ca dhammassa hetupaccayena paccayo—  saṃkiliṭṭhasaṃkilesikā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+2827\. Saṁkiliṭṭhasaṁkilesiko dhammo saṁkiliṭṭhasaṁkilesikassa ca asaṁkiliṭṭhasaṁkilesikassa ca dhammassa hetupaccayena paccayo— saṁkiliṭṭhasaṁkilesikā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
-2828\. Asaṃkiliṭṭhasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo—  asaṃkiliṭṭhasaṃkilesikā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo; paṭisandhikkhaṇe asaṃkiliṭṭhasaṃkilesikā hetū sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ hetupaccayena paccayo. (1)
+2828\. Asaṁkiliṭṭhasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa hetupaccayena paccayo— asaṁkiliṭṭhasaṁkilesikā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo; paṭisandhikkhaṇe asaṁkiliṭṭhasaṁkilesikā hetū sampayuttakānaṁ khandhānaṁ kaṭattā ca rūpānaṁ hetupaccayena paccayo. (1)
 
-2829\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhaasaṃkilesikassa dhammassa hetupaccayena paccayo—  asaṃkiliṭṭhaasaṃkilesikā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo. (1)
+2829\. Asaṁkiliṭṭhaasaṁkilesiko dhammo asaṁkiliṭṭhaasaṁkilesikassa dhammassa hetupaccayena paccayo— asaṁkiliṭṭhaasaṁkilesikā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo. (1)
 
-2830\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa dhammassa hetupaccayena paccayo—  asaṃkiliṭṭhaasaṃkilesikā hetū cittasamuṭṭhānānaṃ rūpānaṃ hetupaccayena paccayo. (2)
+2830\. Asaṁkiliṭṭhaasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa dhammassa hetupaccayena paccayo— asaṁkiliṭṭhaasaṁkilesikā hetū cittasamuṭṭhānānaṁ rūpānaṁ hetupaccayena paccayo. (2)
 
-2831\. Asaṃkiliṭṭhaasaṃkilesiko dhammo asaṃkiliṭṭhasaṃkilesikassa ca asaṃkiliṭṭhaasaṃkilesikassa ca dhammassa hetupaccayena paccayo—  asaṃkiliṭṭhaasaṃkilesikā hetū sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo. (3)
+2831\. Asaṁkiliṭṭhaasaṁkilesiko dhammo asaṁkiliṭṭhasaṁkilesikassa ca asaṁkiliṭṭhaasaṁkilesikassa ca dhammassa hetupaccayena paccayo— asaṁkiliṭṭhaasaṁkilesikā hetū sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ hetupaccayena paccayo. (3)
 
-[Go to previous page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to parent page (6.7.1.1 Vibhaṅgavāra)](../6.7.1.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

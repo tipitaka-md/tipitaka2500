@@ -15,8 +15,7 @@
 
 (6.)
 
-1440\. Ācayagāmiṃ dhammaṃ paṭicca, ācayagāmī dhammo uppajjati anantarapaccayā…  samanantarapaccayā…  sahajātapaccayā (sabbepi mahābhūtā kātabbā)…  aññamaññapaccayā (cittasamuṭṭhānampi kaṭattārūpampi upādārūpampi natthi)…  nissayapaccayā…  upanissayapaccayā…  purejātapaccayā…  āsevanapaccayā…  kammapaccayā…  vipākapaccayā…  āhārapaccayā…  indriyapaccayā…  jhānapaccayā…  maggapaccayā…  sampayuttapaccayā…  vippayuttapaccayā…  atthipaccayā…  natthipaccayā…  vigatapaccayā…  avigatapaccayā… .
+1440\. Ācayagāmiṁ dhammaṁ paṭicca, ācayagāmī dhammo uppajjati anantarapaccayā… samanantarapaccayā… sahajātapaccayā (sabbepi mahābhūtā kātabbā)… aññamaññapaccayā (cittasamuṭṭhānampi kaṭattārūpampi upādārūpampi natthi)… nissayapaccayā… upanissayapaccayā… purejātapaccayā… āsevanapaccayā… kammapaccayā… vipākapaccayā… āhārapaccayā… indriyapaccayā… jhānapaccayā… maggapaccayā… sampayuttapaccayā… vippayuttapaccayā… atthipaccayā… natthipaccayā… vigatapaccayā… avigatapaccayā… .
 
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (11.1.1.2 Saṅkhyāvāra)](../11.1.1.2.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (11.1.1.2 Saṅkhyāvāra)](../11.1.1.2.md)
 

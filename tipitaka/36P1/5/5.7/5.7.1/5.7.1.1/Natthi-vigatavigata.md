@@ -15,8 +15,7 @@
 
 (87.)
 
-2765\. Upādinnupādāniyo dhammo upādinnupādāniyassa dhammassa natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo. (Saṃkhittaṃ.)
+2765\. Upādinnupādāniyo dhammo upādinnupādāniyassa dhammassa natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo. (Saṁkhittaṁ.)
 
-[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (5.7.1.2 Saṅkhyāvāra)](../5.7.1.2.md)
-
+[Go to previous page (Atthi)](Atthi.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (5.7.1.2 Saṅkhyāvāra)](../5.7.1.2.md)
 

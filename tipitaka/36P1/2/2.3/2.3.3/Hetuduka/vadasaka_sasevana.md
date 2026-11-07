@@ -13,8 +13,7 @@
 
 * Dvādasaka (sāsevana)
 
-578\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā āsevanapaccayā napacchājāte satta, nakamme satta, navipāke satta…pe… .
+578\. Hetupaccayā ārammaṇapaccayā…pe… purejātapaccayā āsevanapaccayā napacchājāte satta, nakamme satta, navipāke satta…pe… .
 
 [Go to previous page (Ekādasaka)](Ekadasaka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (Tevīsaka (sāsevana))](evisaka_sasevana.md)
-
 

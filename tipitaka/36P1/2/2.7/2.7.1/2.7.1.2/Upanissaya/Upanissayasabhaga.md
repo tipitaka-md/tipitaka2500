@@ -17,8 +17,7 @@
 
 (329.)
 
-1051\. Upanissayapaccayā ārammaṇe satta, adhipatiyā satta, anantare satta, samanantare satta, nissaye ekaṃ, purejāte ekaṃ, āsevane tīṇi, kamme dve, vippayutte ekaṃ, atthiyā ekaṃ, natthiyā satta, vigate satta, avigate ekaṃ. (13)
+1051\. Upanissayapaccayā ārammaṇe satta, adhipatiyā satta, anantare satta, samanantare satta, nissaye ekaṁ, purejāte ekaṁ, āsevane tīṇi, kamme dve, vippayutte ekaṁ, atthiyā ekaṁ, natthiyā satta, vigate satta, avigate ekaṁ. (13)
 
 [Go to previous page (Upanissaya)](../Upanissaya.md) / [Go to parent page (Upanissaya)](../Upanissaya.md) / [Go to next page (Upanissayaghaṭanā)](Upanissayaghatana.md)
-
 

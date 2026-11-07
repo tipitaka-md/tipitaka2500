@@ -17,10 +17,9 @@
 
 (289.)
 
-4695\. Arūpāvacaro dhammo arūpāvacarassa dhammassa vipākapaccayena paccayo. (Saṃkhittaṃ.)
+4695\. Arūpāvacaro dhammo arūpāvacarassa dhammassa vipākapaccayena paccayo. (Saṁkhittaṁ.)
 
-4696\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa vipākapaccayena paccayo (saṃkhittaṃ)…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve.
+4696\. Naarūpāvacaro dhammo naarūpāvacarassa dhammassa vipākapaccayena paccayo (saṁkhittaṁ)… āhārapaccayena paccayo… cattāri… indriyapaccayena paccayo… cattāri… jhānapaccayena paccayo… cattāri… maggapaccayena paccayo… cattāri… sampayuttapaccayena paccayo… dve.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (13.13.7.1.1 Vibhaṅgavāra)](../13.13.7.1.1.md) / [Go to next page (Vippayutta)](Vippayutta.md)
 

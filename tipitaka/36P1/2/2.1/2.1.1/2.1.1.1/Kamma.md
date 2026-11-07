@@ -15,16 +15,15 @@
 
 (11.)
 
-149\. Kusalaṃ dhammaṃ paṭicca kusalo dhammo uppajjati kammapaccayā—  kusalaṃ ekaṃ khandhaṃ paṭicca…  tīṇi.
+149\. Kusalaṁ dhammaṁ paṭicca kusalo dhammo uppajjati kammapaccayā— kusalaṁ ekaṁ khandhaṁ paṭicca… tīṇi.
 
-150\. Akusalaṃ dhammaṃ paṭicca…  tīṇi.
+150\. Akusalaṁ dhammaṁ paṭicca… tīṇi.
 
-151\. Abyākataṃ dhammaṃ paṭicca abyākato dhammo uppajjati kammapaccayā—  vipākābyākataṃ kiriyābyākataṃ ekaṃ khandhaṃ paṭicca…pe…  paṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ kaṭattārūpaṃ upādārūpaṃ; asaññasattānaṃ ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca kaṭattārūpaṃ upādārūpaṃ. (1)
+151\. Abyākataṁ dhammaṁ paṭicca abyākato dhammo uppajjati kammapaccayā— vipākābyākataṁ kiriyābyākataṁ ekaṁ khandhaṁ paṭicca…pe… paṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ kaṭattārūpaṁ upādārūpaṁ; asaññasattānaṁ ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca kaṭattārūpaṁ upādārūpaṁ. (1)
 
-152\. Kusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati kammapaccayā—  kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+152\. Kusalañca abyākatañca dhammaṁ paṭicca abyākato dhammo uppajjati kammapaccayā— kusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-153\. Akusalañca abyākatañca dhammaṃ paṭicca abyākato dhammo uppajjati kammapaccayā—  akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+153\. Akusalañca abyākatañca dhammaṁ paṭicca abyākato dhammo uppajjati kammapaccayā— akusale khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
-
+[Go to previous page (Āsevana)](Asevana.md) / [Go to parent page (2.1.1.1 Vibhaṅgavāra)](../2.1.1.1.md) / [Go to next page (Vipāka)](Vipaka.md)
 

@@ -15,10 +15,9 @@
 
 (158.)
 
-560\. Nakammapaccayā nahetuyā ekaṃ, naārammaṇe ekaṃ, naadhipatiyā satta, naanantare ekaṃ, nasamanantare ekaṃ, naaññamaññe ekaṃ, naupanissaye ekaṃ, napurejāte tīṇi, napacchājāte satta, naāsevane satta, navipāke satta, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte ekaṃ, navippayutte tīṇi, nonatthiyā ekaṃ, novigate ekaṃ.
+560\. Nakammapaccayā nahetuyā ekaṁ, naārammaṇe ekaṁ, naadhipatiyā satta, naanantare ekaṁ, nasamanantare ekaṁ, naaññamaññe ekaṁ, naupanissaye ekaṁ, napurejāte tīṇi, napacchājāte satta, naāsevane satta, navipāke satta, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte ekaṁ, navippayutte tīṇi, nonatthiyā ekaṁ, novigate ekaṁ.
 
 * [Tika](Nakammaduka/Tika.md)
 
-[Go to previous page (Catukka)](Napacchajata-naasevanaduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Tika)](Nakammaduka/Tika.md)
-
+[Go to previous page (Catukka)](Napacchajata-naasevanaduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Tika)](Nakammaduka/Tika.md)
 

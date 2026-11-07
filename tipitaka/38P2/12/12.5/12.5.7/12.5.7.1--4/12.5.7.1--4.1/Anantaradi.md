@@ -17,18 +17,13 @@
 
 (79.)
 
-4013\. Kileso ceva saṃkilesiko ca dhammo kilesassa ceva saṃkilesikassa ca dhammassa anantarapaccayena paccayo…  tīṇi. (Kilesadukasadisā.)
+4013\. Kileso ceva saṁkilesiko ca dhammo kilesassa ceva saṁkilesikassa ca dhammassa anantarapaccayena paccayo… tīṇi. (Kilesadukasadisā.)
 
-4014\. Saṃkilesiko ceva no ca kileso dhammo saṃkilesikassa ceva no ca kilesassa dhammassa anantarapaccayena paccayo—  purimā purimā saṃkilesikā ceva no ca kilesā khandhā pacchimānaṃ pacchimānaṃ saṃkilesikānañceva no ca kilesānaṃ khandhānaṃ anantarapaccayena paccayo; anulomaṃ gotrabhussa…  anulomaṃ vodānassa…  āvajjanā saṃkilesikānañceva no ca kilesānaṃ khandhānaṃ anantarapaccayena paccayo.
+4014\. Saṁkilesiko ceva no ca kileso dhammo saṁkilesikassa ceva no ca kilesassa dhammassa anantarapaccayena paccayo— purimā purimā saṁkilesikā ceva no ca kilesā khandhā pacchimānaṁ pacchimānaṁ saṁkilesikānañceva no ca kilesānaṁ khandhānaṁ anantarapaccayena paccayo; anulomaṁ gotrabhussa… anulomaṁ vodānassa… āvajjanā saṁkilesikānañceva no ca kilesānaṁ khandhānaṁ anantarapaccayena paccayo.
 
-4015\. (Itare dve anantarā kilesadukasadisā, ninnānākaraṇā. Ghaṭanānantarampi sabbe paccayā kilesadukasadisā, ninnānākaraṇā. Upanissaye lokuttaraṃ natthi, idaṃ dukaṃ kilesadukasadisaṃ, ninnānākaraṇaṃ.)
+4015\. (Itare dve anantarā kilesadukasadisā, ninnānākaraṇā. Ghaṭanānantarampi sabbe paccayā kilesadukasadisā, ninnānākaraṇā. Upanissaye lokuttaraṁ natthi, idaṁ dukaṁ kilesadukasadisaṁ, ninnānākaraṇaṁ.)
 
----
+4016\. Kilesasaṁkilesikadukaṁ niṭṭhitaṁ.
 
-4016\. Kilesasaṃkilesikadukaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (12.5.7.1--4.1 Vibhaṅgavāra)](../12.5.7.1--4.1.md) / [Go to next page (12.6 Kilesasaṃkiliṭṭhaduka)](../../../../12.6.md)
-
+[Go to previous page (Adhipati)](Adhipati.md) / [Go to parent page (12.5.7.1--4.1 Vibhaṅgavāra)](../12.5.7.1--4.1.md) / [Go to next page (12.6 Kilesasaṃkiliṭṭhaduka)](../../../../12.6.md)
 

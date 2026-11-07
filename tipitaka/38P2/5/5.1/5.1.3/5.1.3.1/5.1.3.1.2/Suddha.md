@@ -17,14 +17,9 @@
 
 (13.)
 
-1642\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe…  avigate nava.
+1642\. Hetuyā nava, ārammaṇe nava, adhipatiyā nava…pe… avigate nava.
 
----
+1643\. Anulomaṁ.
 
-1643\. Anulomaṃ.
-
-
-
-[Go to previous page (5.1.3.1.2 Saṅkhyāvāra)](../5.1.3.1.2.md) / [Go to parent page (5.1.3.1.2 Saṅkhyāvāra)](../5.1.3.1.2.md) / [Go to next page (5.1.3.2 Paccayapaccanīya)](../../5.1.3.2.md)
-
+[Go to previous page (5.1.3.1.2 Saṅkhyāvāra)](../5.1.3.1.2.md) / [Go to parent page (5.1.3.1.2 Saṅkhyāvāra)](../5.1.3.1.2.md) / [Go to next page (5.1.3.2 Paccayapaccanīya)](../../5.1.3.2.md)
 

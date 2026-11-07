@@ -15,14 +15,9 @@
 
 (14.)
 
-671\. Nahetuyā dasa, naadhipatiyā dasa, napurejāte napacchājāte naāsevane nakamme navipāke dasa, najhāne dve, namagge dasa, navippayutte dasa. (Paccanīyaṃ paripuṇṇaṃ kātabbaṃ.)
+671\. Nahetuyā dasa, naadhipatiyā dasa, napurejāte napacchājāte naāsevane nakamme navipāke dasa, najhāne dve, namagge dasa, navippayutte dasa. (Paccanīyaṁ paripuṇṇaṁ kātabbaṁ.)
 
----
+672\. Paccanīyaṁ.
 
-672\. Paccanīyaṃ.
-
-
-
-[Go to previous page (8.1.2.2 Saṅkhyāvāra)](../8.1.2.2.md) / [Go to parent page (8.1.2.2 Saṅkhyāvāra)](../8.1.2.2.md) / [Go to next page (8.1.3 Paccayānulomapaccanīya)](../../8.1.3.md)
-
+[Go to previous page (8.1.2.2 Saṅkhyāvāra)](../8.1.2.2.md) / [Go to parent page (8.1.2.2 Saṅkhyāvāra)](../8.1.2.2.md) / [Go to next page (8.1.3 Paccayānulomapaccanīya)](../../8.1.3.md)
 

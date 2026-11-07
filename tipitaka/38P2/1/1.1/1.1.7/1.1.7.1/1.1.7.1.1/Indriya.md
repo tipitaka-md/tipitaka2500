@@ -17,10 +17,9 @@
 
 (36.)
 
-95\. Hetu dhammo hetussa dhammassa indriyapaccayena paccayo…pe… . (Hetumūlake tīṇi.)
+95\. Hetu dhammo hetussa dhammassa indriyapaccayena paccayo…pe… . (Hetumūlake tīṇi.)
 
-96\. Nahetu dhammo nahetussa dhammassa indriyapaccayena paccayo—  nahetū indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe…  cakkhundriyaṃ cakkhuviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa…pe… . **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo. (Evaṃ indriyapaccayā vitthāretabbā. Nava.)
+96\. Nahetu dhammo nahetussa dhammassa indriyapaccayena paccayo— nahetū indriyā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ indriyapaccayena paccayo; paṭisandhikkhaṇe…pe… cakkhundriyaṁ cakkhuviññāṇassa…pe… kāyindriyaṁ kāyaviññāṇassa…pe… . Rūpajīvitindriyaṁ— kaṭattārūpānaṁ indriyapaccayena paccayo. (Evaṁ indriyapaccayā vitthāretabbā. Nava.)
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (1.1.7.1.1 Vibhaṅgavāra)](../1.1.7.1.1.md) / [Go to next page (Jhānādi)](Jhanadi.md)
 

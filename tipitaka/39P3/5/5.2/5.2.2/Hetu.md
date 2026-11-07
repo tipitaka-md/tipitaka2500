@@ -13,18 +13,17 @@
 
 (14.)
 
-1727\. Saññojaniyaṃ abyākataṃ dhammaṃ paṭicca saññojaniyo abyākato dhammo uppajjati hetupaccayā. (1)
+1727\. Saññojaniyaṁ abyākataṁ dhammaṁ paṭicca saññojaniyo abyākato dhammo uppajjati hetupaccayā. (1)
 
-1728\. Asaññojaniyaṃ abyākataṃ dhammaṃ paṭicca asaññojaniyo abyākato dhammo uppajjati hetupaccayā. Asaññojaniyaṃ abyākataṃ dhammaṃ paṭicca saññojaniyo abyākato dhammo uppajjati hetupaccayā. Asaññojaniyaṃ abyākataṃ dhammaṃ paṭicca saññojaniyo abyākato ca asaññojaniyo abyākato ca dhammā uppajjanti hetupaccayā. (3)
+1728\. Asaññojaniyaṁ abyākataṁ dhammaṁ paṭicca asaññojaniyo abyākato dhammo uppajjati hetupaccayā. Asaññojaniyaṁ abyākataṁ dhammaṁ paṭicca saññojaniyo abyākato dhammo uppajjati hetupaccayā. Asaññojaniyaṁ abyākataṁ dhammaṁ paṭicca saññojaniyo abyākato ca asaññojaniyo abyākato ca dhammā uppajjanti hetupaccayā. (3)
 
-1729\. Saññojaniyaṃ abyākatañca asaññojaniyaṃ abyākatañca dhammaṃ paṭicca saññojaniyo abyākato dhammo uppajjati hetupaccayā. (1)
+1729\. Saññojaniyaṁ abyākatañca asaññojaniyaṁ abyākatañca dhammaṁ paṭicca saññojaniyo abyākato dhammo uppajjati hetupaccayā. (1)
 
 (15.)
 
-1730\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe…  avigate pañca. (Saṃkhittaṃ.)
+1730\. Hetuyā pañca, ārammaṇe dve, adhipatiyā pañca…pe… avigate pañca. (Saṁkhittaṁ.)
 
-1731\. Cūḷantaraduke lokiyadukasadisaṃ. (Sahajātavāropi…pe…  sampayuttavāropi vitthāretabbā.)
+1731\. Cūḷantaraduke lokiyadukasadisaṁ. (Sahajātavāropi…pe… sampayuttavāropi vitthāretabbā.)
 
-[Go to previous page (5.2.2 Abyākatapada)](../5.2.2.md) / [Go to parent page (5.2.2 Abyākatapada)](../5.2.2.md) / [Go to next page (5.2.2.1--6 Paṭiccādivāra)](5.2.2.1--6.md)
-
+[Go to previous page (5.2.2 Abyākatapada)](../5.2.2.md) / [Go to parent page (5.2.2 Abyākatapada)](../5.2.2.md) / [Go to next page (5.2.2.1--6 Paṭiccādivāra)](5.2.2.1--6.md)
 

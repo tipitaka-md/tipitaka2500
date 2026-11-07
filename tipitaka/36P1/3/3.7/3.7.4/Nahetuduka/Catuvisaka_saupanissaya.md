@@ -13,8 +13,7 @@
 
 * Catuvīsaka (saupanissaya)
 
-2030\. Nahetupaccayā naārammaṇapaccayā…pe…  naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā noatthipaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā kamme aṭṭha.
+2030\. Nahetupaccayā naārammaṇapaccayā…pe… naupanissayapaccayā napurejātapaccayā napacchājātapaccayā naāsevanapaccayā navipākapaccayā naāhārapaccayā naindriyapaccayā najhānapaccayā namaggapaccayā nasampayuttapaccayā navippayuttapaccayā noatthipaccayā nonatthipaccayā novigatapaccayā noavigatapaccayā kamme aṭṭha.
 
 [Go to previous page (Navaka)](Navaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Catuvīsaka (sakamma))](Catuvisaka_sakamma.md)
-
 

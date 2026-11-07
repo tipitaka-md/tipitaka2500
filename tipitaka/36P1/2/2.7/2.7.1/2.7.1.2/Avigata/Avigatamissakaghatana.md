@@ -21,4 +21,3 @@
 
 [Go to previous page (Avigatasabhāga)](Avigatasabhaga.md) / [Go to parent page (Avigata)](../Avigata.md) / [Go to next page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md)
 
-

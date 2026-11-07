@@ -17,24 +17,23 @@
 
 (77.)
 
-2277\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa atthipaccayena paccayo—  parāmāsasampayutto eko khandho tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā…pe… . (1)
+2277\. Parāmāsasampayutto dhammo parāmāsasampayuttassa dhammassa atthipaccayena paccayo— parāmāsasampayutto eko khandho tiṇṇannaṁ khandhānaṁ atthipaccayena paccayo…pe… dve khandhā…pe… . (1)
 
-2278\. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa atthipaccayena paccayo—  parāmāsasampayuttā khandhā cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. (Mūlaṃ kātabbaṃ.) (2)
+2278\. Parāmāsasampayutto dhammo parāmāsavippayuttassa dhammassa atthipaccayena paccayo— parāmāsasampayuttā khandhā cittasamuṭṭhānānaṁ rūpānaṁ atthipaccayena paccayo. (Mūlaṁ kātabbaṁ.) (2)
 
-2279\. Parāmāsasampayutto dhammo parāmāsasampayuttassa ca parāmāsavippayuttassa ca dhammassa atthipaccayena paccayo—  parāmāsasampayutto eko khandho tiṇṇannaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ atthipaccayena paccayo…pe…  dve khandhā…pe… . (3)
+2279\. Parāmāsasampayutto dhammo parāmāsasampayuttassa ca parāmāsavippayuttassa ca dhammassa atthipaccayena paccayo— parāmāsasampayutto eko khandho tiṇṇannaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ atthipaccayena paccayo…pe… dve khandhā…pe… . (3)
 
 (78.)
 
-2280\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. (Saṃkhittaṃ.) (1)
+2280\. Parāmāsavippayutto dhammo parāmāsavippayuttassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. (Saṁkhittaṁ.) (1)
 
-2281\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa atthipaccayena paccayo. **Purejātaṃ**—  cakkhuṃ…pe…  vatthuṃ assādeti abhinandati, taṃ ārabbha parāmāsasampayutto rāgo uppajjati, vatthu parāmāsasampayuttakānaṃ khandhānaṃ atthipaccayena paccayo. (2)
+2281\. Parāmāsavippayutto dhammo parāmāsasampayuttassa dhammassa atthipaccayena paccayo. Purejātaṁ— cakkhuṁ…pe… vatthuṁ assādeti abhinandati, taṁ ārabbha parāmāsasampayutto rāgo uppajjati, vatthu parāmāsasampayuttakānaṁ khandhānaṁ atthipaccayena paccayo. (2)
 
 (79.)
 
-2282\. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsasampayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajāto**—  parāmāsasampayutto eko khandho ca vatthu ca tiṇṇannaṃ khandhānaṃ atthipaccayena paccayo…pe…  dve khandhā ca…pe… . (1)
+2282\. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsasampayuttassa dhammassa atthipaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajāto— parāmāsasampayutto eko khandho ca vatthu ca tiṇṇannaṁ khandhānaṁ atthipaccayena paccayo…pe… dve khandhā ca…pe… . (1)
 
-2283\. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsavippayuttassa dhammassa atthipaccayena paccayo—  sahajātaṃ, pacchājātaṃ, āhāraṃ, indriyaṃ. **Sahajātā**—  parāmāsasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṃ rūpānaṃ atthipaccayena paccayo. **Pacchājātā**—  parāmāsasampayuttā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. **Pacchājātā**—  parāmāsasampayuttā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṃ atthipaccayena paccayo. (2)
+2283\. Parāmāsasampayutto ca parāmāsavippayutto ca dhammā parāmāsavippayuttassa dhammassa atthipaccayena paccayo— sahajātaṁ, pacchājātaṁ, āhāraṁ, indriyaṁ. Sahajātā— parāmāsasampayuttā khandhā ca mahābhūtā ca cittasamuṭṭhānānaṁ rūpānaṁ atthipaccayena paccayo. Pacchājātā— parāmāsasampayuttā khandhā ca kabaḷīkāro āhāro ca imassa kāyassa atthipaccayena paccayo. Pacchājātā— parāmāsasampayuttā khandhā ca rūpajīvitindriyañca kaṭattārūpānaṁ atthipaccayena paccayo. (2)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (9.3.7.1.2 Saṅkhyāvāra)](../9.3.7.1.2.md)
-
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (9.3.7.1.1 Vibhaṅgavāra)](../9.3.7.1.1.md) / [Go to next page (9.3.7.1.2 Saṅkhyāvāra)](../9.3.7.1.2.md)
 

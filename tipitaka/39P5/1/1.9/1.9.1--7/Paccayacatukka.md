@@ -13,26 +13,25 @@
 
 (44.)
 
-132\. Kusalaṃ ācayagāmiṃ dhammaṃ paṭicca kusalo ācayagāmī dhammo uppajjati hetupaccayā. (1)
+132\. Kusalaṁ ācayagāmiṁ dhammaṁ paṭicca kusalo ācayagāmī dhammo uppajjati hetupaccayā. (1)
 
-133\. Akusalaṃ ācayagāmiṃ dhammaṃ paṭicca akusalo ācayagāmī dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+133\. Akusalaṁ ācayagāmiṁ dhammaṁ paṭicca akusalo ācayagāmī dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-134\. Hetuyā dve…pe…  avigate dve. (Saṃkhittaṃ.)
+134\. Hetuyā dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-135\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+135\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
 (45.)
 
-136\. Kusalaṃ apacayagāmiṃ dhammaṃ paṭicca kusalo apacayagāmī dhammo uppajjati hetupaccayā. (Saṃkhittaṃ. Paṭiccavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+136\. Kusalaṁ apacayagāmiṁ dhammaṁ paṭicca kusalo apacayagāmī dhammo uppajjati hetupaccayā. (Saṁkhittaṁ. Paṭiccavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (46.)
 
-137\. Abyākataṃ nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca abyākato nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+137\. Abyākataṁ nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca abyākato nevācayagāmināpacayagāmī dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-138\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+138\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-139\. (Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+139\. (Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
-[Go to previous page (1.9.1--7 Paṭiccādivāra)](../1.9.1--7.md) / [Go to parent page (1.9.1--7 Paṭiccādivāra)](../1.9.1--7.md) / [Go to next page (1.10 Kusalattika, Sekkhattika)](../../1.10.md)
-
+[Go to previous page (1.9.1--7 Paṭiccādivāra)](../1.9.1--7.md) / [Go to parent page (1.9.1--7 Paṭiccādivāra)](../1.9.1--7.md) / [Go to next page (1.10 Kusalattika, Sekkhattika)](../../1.10.md)
 

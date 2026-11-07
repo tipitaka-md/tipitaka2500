@@ -15,12 +15,11 @@
 
 (22.)
 
-1936\. Parittaṃ dhammaṃ paṭicca paritto dhammo uppajjati nakammapaccayā—  paritte khandhe paṭicca parittā cetanā. Bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  ekaṃ mahābhūtaṃ…pe… . (1)
+1936\. Parittaṁ dhammaṁ paṭicca paritto dhammo uppajjati nakammapaccayā— paritte khandhe paṭicca parittā cetanā. Bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… ekaṁ mahābhūtaṁ…pe… . (1)
 
-1937\. Mahaggataṃ dhammaṃ paṭicca mahaggato dhammo uppajjati nakammapaccayā—  mahaggate khandhe paṭicca mahaggatā cetanā. (1)
+1937\. Mahaggataṁ dhammaṁ paṭicca mahaggato dhammo uppajjati nakammapaccayā— mahaggate khandhe paṭicca mahaggatā cetanā. (1)
 
-1938\. Appamāṇaṃ dhammaṃ paṭicca appamāṇo dhammo uppajjati nakammapaccayā—  kusale appamāṇe khandhe paṭicca appamāṇā cetanā. (1)
+1938\. Appamāṇaṁ dhammaṁ paṭicca appamāṇo dhammo uppajjati nakammapaccayā— kusale appamāṇe khandhe paṭicca appamāṇā cetanā. (1)
 
-[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
-
+[Go to previous page (Napacchājātādi)](Napacchajatadi.md) / [Go to parent page (13.1.2.1 Vibhaṅgavāra)](../13.1.2.1.md) / [Go to next page (Navipāka)](Navipaka.md)
 

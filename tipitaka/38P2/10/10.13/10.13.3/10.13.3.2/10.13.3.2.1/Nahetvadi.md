@@ -17,18 +17,13 @@
 
 (389.)
 
-3293\. Upādā dhammaṃ paccayā noupādā dhammo uppajjati nahetupaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ, vatthuṃ paccayā ahetukā noupādā khandhā; ahetukapaṭisandhikkhaṇe…pe…  vatthuṃ paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
+3293\. Upādā dhammaṁ paccayā noupādā dhammo uppajjati nahetupaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ, vatthuṁ paccayā ahetukā noupādā khandhā; ahetukapaṭisandhikkhaṇe…pe… vatthuṁ paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
-3294\. Noupādā dhammaṃ paccayā noupādā dhammo uppajjati nahetupaccayā—  ahetukaṃ noupādā ekaṃ khandhaṃ paccayā tayo khandhā noupādā ca cittasamuṭṭhānaṃ rūpaṃ…pe…  dve khandhe…pe…  ahetukapaṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe…  (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (Tīṇipi paṭiccasadisā, ninnānākaraṇā.) (3)
+3294\. Noupādā dhammaṁ paccayā noupādā dhammo uppajjati nahetupaccayā— ahetukaṁ noupādā ekaṁ khandhaṁ paccayā tayo khandhā noupādā ca cittasamuṭṭhānaṁ rūpaṁ…pe… dve khandhe…pe… ahetukapaṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ…pe… (yāva asaññasattā) vicikicchāsahagate uddhaccasahagate khandhe paccayā vicikicchāsahagato uddhaccasahagato moho. (Tīṇipi paṭiccasadisā, ninnānākaraṇā.) (3)
 
-3295\. Upādā ca noupādā ca dhammaṃ paccayā noupādā dhammo uppajjati nahetupaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  kāyaviññāṇasahagataṃ…pe…  ahetukaṃ noupādā ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe ca…pe…  paṭisandhikkhaṇe…pe…  vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
-
----
+3295\. Upādā ca noupādā ca dhammaṁ paccayā noupādā dhammo uppajjati nahetupaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca paccayā tayo khandhā…pe… dve khandhe ca…pe… kāyaviññāṇasahagataṁ…pe… ahetukaṁ noupādā ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe ca…pe… paṭisandhikkhaṇe…pe… vicikicchāsahagate uddhaccasahagate khandhe ca vatthuñca paccayā vicikicchāsahagato uddhaccasahagato moho. (1)
 
 3296\. Naārammaṇapaccayā tīṇi, naāsevanapaccayā pañca.
 
-
-
-[Go to previous page (10.13.3.2.1 Vibhaṅgavāra)](../10.13.3.2.1.md) / [Go to parent page (10.13.3.2.1 Vibhaṅgavāra)](../10.13.3.2.1.md) / [Go to next page (Nakammādi)](Nakammadi.md)
-
+[Go to previous page (10.13.3.2.1 Vibhaṅgavāra)](../10.13.3.2.1.md) / [Go to parent page (10.13.3.2.1 Vibhaṅgavāra)](../10.13.3.2.1.md) / [Go to next page (Nakammādi)](Nakammadi.md)
 

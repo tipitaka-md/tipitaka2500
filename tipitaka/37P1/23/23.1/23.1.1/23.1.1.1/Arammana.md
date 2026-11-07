@@ -15,8 +15,7 @@
 
 (4.)
 
-2951\. Anidassanaappaṭighaṃ dhammaṃ paṭicca anidassanaappaṭigho dhammo uppajjati ārammaṇapaccayā—  anidassanaappaṭighaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe …pe…  paṭisandhikkhaṇe anidassanaappaṭighaṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  vatthuṃ paṭicca khandhā. (1)
+2951\. Anidassanaappaṭighaṁ dhammaṁ paṭicca anidassanaappaṭigho dhammo uppajjati ārammaṇapaccayā— anidassanaappaṭighaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe …pe… paṭisandhikkhaṇe anidassanaappaṭighaṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… vatthuṁ paṭicca khandhā. (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (23.1.1.1 Vibhaṅgavāra)](../23.1.1.1.md) / [Go to next page (Adhipati)](Adhipati.md)
 

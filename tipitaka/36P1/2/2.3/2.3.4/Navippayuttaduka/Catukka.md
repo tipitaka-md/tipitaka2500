@@ -13,19 +13,11 @@
 
 * Catukka
 
-665\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṃ, aññamaññe ekaṃ, nissaye ekaṃ, kamme ekaṃ, āhāre ekaṃ, indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ. (Saṃkhittaṃ.)
+665\. Navippayuttapaccayā nahetupaccayā naārammaṇapaccayā sahajāte ekaṁ, aññamaññe ekaṁ, nissaye ekaṁ, kamme ekaṁ, āhāre ekaṁ, indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ. (Saṁkhittaṁ.)
 
-666\. Nonatthipaccayā…  novigatapaccayā. (Naārammaṇapaccayasadisaṃ.)
+666\. Nonatthipaccayā… novigatapaccayā. (Naārammaṇapaccayasadisaṁ.)
 
----
+667\. Paccayavāre paccanīyānulomaṁ. Paccayavāro.
 
-667\. Paccayavāre paccanīyānulomaṃ.
-
-  
-Paccayavāro.
-
-
-
-[Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (2.4 Nissayavāra)](../../../2.4.md)
-
+[Go to previous page (Tika)](Tika.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (2.4 Nissayavāra)](../../../2.4.md)
 

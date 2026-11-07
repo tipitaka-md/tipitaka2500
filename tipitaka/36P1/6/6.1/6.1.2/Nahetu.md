@@ -13,16 +13,11 @@
 
 (4.)
 
-2817\. Saṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca saṃkiliṭṭhasaṃkilesiko dhammo uppajjati nahetupaccayā—  vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
+2817\. Saṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca saṁkiliṭṭhasaṁkilesiko dhammo uppajjati nahetupaccayā— vicikicchāsahagate uddhaccasahagate khandhe paṭicca vicikicchāsahagato uddhaccasahagato moho. (1)
 
-2818\. Asaṃkiliṭṭhasaṃkilesikaṃ dhammaṃ paṭicca asaṃkiliṭṭhasaṃkilesiko dhammo uppajjati nahetupaccayā—  ahetukaṃ asaṃkiliṭṭhasaṃkilesikaṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  ahetukapaṭisandhikkhaṇe…pe…  asaññasattānaṃ ekaṃ mahābhūtaṃ. (1) (Saṃkhittaṃ.)
+2818\. Asaṁkiliṭṭhasaṁkilesikaṁ dhammaṁ paṭicca asaṁkiliṭṭhasaṁkilesiko dhammo uppajjati nahetupaccayā— ahetukaṁ asaṁkiliṭṭhasaṁkilesikaṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… ahetukapaṭisandhikkhaṇe…pe… asaññasattānaṁ ekaṁ mahābhūtaṁ. (1) (Saṁkhittaṁ.)
 
----
+2819\. (Yathā kusalattike vibhattaṁ, evaṁ vibhajitabbaṁ.)
 
-2819\. (Yathā kusalattike vibhattaṃ, evaṃ vibhajitabbaṃ.)
-
-
-
-[Go to previous page (6.1.2 Paccayapaccanīya)](../6.1.2.md) / [Go to parent page (6.1.2 Paccayapaccanīya)](../6.1.2.md) / [Go to next page (Suddha)](Suddha.md)
-
+[Go to previous page (6.1.2 Paccayapaccanīya)](../6.1.2.md) / [Go to parent page (6.1.2 Paccayapaccanīya)](../6.1.2.md) / [Go to next page (Suddha)](Suddha.md)
 

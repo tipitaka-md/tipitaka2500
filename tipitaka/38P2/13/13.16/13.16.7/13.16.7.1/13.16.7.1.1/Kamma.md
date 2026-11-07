@@ -17,12 +17,11 @@
 
 (338.)
 
-4780\. Niyato dhammo niyatassa dhammassa kammapaccayena paccayo—  niyatā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. Niyato dhammo aniyatassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. **Sahajātā**—  niyatā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  niyatā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Niyatā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+4780\. Niyato dhammo niyatassa dhammassa kammapaccayena paccayo— niyatā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. Niyato dhammo aniyatassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. Sahajātā— niyatā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. Nānākkhaṇikā— niyatā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Niyatā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-4781\. Aniyato dhammo aniyatassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. (Saṃkhittaṃ.)
+4781\. Aniyato dhammo aniyatassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. (Saṁkhittaṁ.)
 
-4782\. Vipākapaccayena paccayo…  ekaṃ…  āhārapaccayena paccayo…  cattāri…  indriyapaccayena paccayo…  cattāri…  jhānapaccayena paccayo…  cattāri…  maggapaccayena paccayo…  cattāri…  sampayuttapaccayena paccayo…  dve…  vippayuttapaccayena paccayo…  tīṇi (arūpadukasadisaṃ)…  atthipaccayena paccayo…  satta (arūpāvacaradukasadisaṃ)…  natthipaccayena paccayo…  vigatapaccayena paccayo…  avigatapaccayena paccayo…  satta.
+4782\. Vipākapaccayena paccayo… ekaṁ… āhārapaccayena paccayo… cattāri… indriyapaccayena paccayo… cattāri… jhānapaccayena paccayo… cattāri… maggapaccayena paccayo… cattāri… sampayuttapaccayena paccayo… dve… vippayuttapaccayena paccayo… tīṇi (arūpadukasadisaṁ)… atthipaccayena paccayo… satta (arūpāvacaradukasadisaṁ)… natthipaccayena paccayo… vigatapaccayena paccayo… avigatapaccayena paccayo… satta.
 
-[Go to previous page (Purejātādi)](Purejatadi.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to next page (13.16.7.1.2 Saṅkhyāvāra)](../13.16.7.1.2.md)
-
+[Go to previous page (Purejātādi)](Purejatadi.md) / [Go to parent page (13.16.7.1.1 Vibhaṅgavāra)](../13.16.7.1.1.md) / [Go to next page (13.16.7.1.2 Saṅkhyāvāra)](../13.16.7.1.2.md)
 

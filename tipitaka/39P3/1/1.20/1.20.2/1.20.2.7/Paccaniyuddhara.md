@@ -15,24 +15,19 @@
 
 (523.)
 
-1175\. Hetu bahiddhā dhammo hetussa bahiddhā dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+1175\. Hetu bahiddhā dhammo hetussa bahiddhā dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (524.)
 
-1176\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1176\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1177\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1177\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1178\. Nahetupaccayā ārammaṇe nava. (Saṃkhittaṃ.)
+1178\. Nahetupaccayā ārammaṇe nava. (Saṁkhittaṁ.)
 
-1179\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ. Ajjhattabahiddhā na labbhanti.)
+1179\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ. Ajjhattabahiddhā na labbhanti.)
 
----
+1180\. Hetudukaajjhattattikaṁ niṭṭhitaṁ.
 
-1180\. Hetudukaajjhattattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.20.2.7 Pañhāvāra)](../1.20.2.7.md) / [Go to next page (1.21 Hetuduka, Ajjhattārammaṇattika)](../../../1.21.md)
-
+[Go to previous page (Hetvādi)](Paccayacatukka/Hetvadi.md) / [Go to parent page (1.20.2.7 Pañhāvāra)](../1.20.2.7.md) / [Go to next page (1.21 Hetuduka, Ajjhattārammaṇattika)](../../../1.21.md)
 

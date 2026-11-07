@@ -17,14 +17,9 @@
 
 (195.)
 
-529\. Ārammaṇe cattāri, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane dve, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri, vigate cattāri, avigate satta (evaṃ gaṇetabbaṃ)
+529\. Ārammaṇe cattāri, adhipatiyā cattāri, anantare cattāri, samanantare cattāri, sahajāte satta, aññamaññe cha, nissaye satta, upanissaye cattāri, purejāte dve, pacchājāte dve, āsevane dve, kamme cattāri, vipāke cattāri, āhāre cattāri, indriye cattāri, jhāne cattāri, magge tīṇi, sampayutte dve, vippayutte tīṇi, atthiyā satta, natthiyā cattāri, vigate cattāri, avigate satta (evaṁ gaṇetabbaṁ)
 
----
+530\. Anulomaṁ.
 
-530\. Anulomaṃ.
-
-
-
-[Go to previous page (1.6.7.1.2 Saṅkhyāvāra)](../1.6.7.1.2.md) / [Go to parent page (1.6.7.1.2 Saṅkhyāvāra)](../1.6.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (1.6.7.1.2 Saṅkhyāvāra)](../1.6.7.1.2.md) / [Go to parent page (1.6.7.1.2 Saṅkhyāvāra)](../1.6.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

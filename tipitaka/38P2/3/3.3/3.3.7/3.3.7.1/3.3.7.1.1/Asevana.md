@@ -17,8 +17,7 @@
 
 (91.)
 
-1218\. Āsavasampayutto dhammo āsavasampayuttassa dhammassa āsevanapaccayena paccayo…  nava. (Āvajjanāpi vuṭṭhānampi natthi.)
+1218\. Āsavasampayutto dhammo āsavasampayuttassa dhammassa āsevanapaccayena paccayo… nava. (Āvajjanāpi vuṭṭhānampi natthi.)
 
-[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
-
+[Go to previous page (Pacchājāta)](Pacchajata.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Kamma)](Kamma.md)
 

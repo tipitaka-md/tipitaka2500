@@ -11,54 +11,53 @@
 
 * Paccayacatukka
 
+* Kusalattika, Mahantaradukaupādānagocchaka
+
+* Kusalattika, Cetasikaduka
+
+* Paṭiccādivāra
+
+* Paccayacatukka
+
+* Kusalattika, Mahantaradukaupādānagocchaka
+
+* Kusalattika, Cetasikaduka
+
+* Paṭiccādivāra
+
+* Paccayacatukka
+
+* Kusalattika, Mahantaradukaupādānagocchaka
+
+* Kusalattika, Cetasikaduka
+
+* Paṭiccādivāra
+
+* Paccayacatukka
+
+* Kusalattika, Mahantaradukaupādānagocchaka
+
+* Kusalattika, Cetasikaduka
+
+* Paṭiccādivāra
+
+* Paccayacatukka
+
 (11.)
 
-1361\. Kusalaṃ cetasikaṃ dhammaṃ paṭicca kusalo cetasiko dhammo uppajjati hetupaccayā. (1)
+1361\. Kusalaṁ cetasikaṁ dhammaṁ paṭicca kusalo cetasiko dhammo uppajjati hetupaccayā. (1)
 
-* Kusalattika, Mahantaradukaupādānagocchaka
+1362\. Akusalaṁ cetasikaṁ dhammaṁ paṭicca akusalo cetasiko dhammo uppajjati hetupaccayā. (1)
 
-* Kusalattika, Cetasikaduka
-
-* Paṭiccādivāra
-
-* Paccayacatukka
-
-1362\. Akusalaṃ cetasikaṃ dhammaṃ paṭicca akusalo cetasiko dhammo uppajjati hetupaccayā. (1)
-
-* Kusalattika, Mahantaradukaupādānagocchaka
-
-* Kusalattika, Cetasikaduka
-
-* Paṭiccādivāra
-
-* Paccayacatukka
-
-1363\. Abyākataṃ cetasikaṃ dhammaṃ paṭicca abyākato cetasiko dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
-
-* Kusalattika, Mahantaradukaupādānagocchaka
-
-* Kusalattika, Cetasikaduka
-
-* Paṭiccādivāra
-
-* Paccayacatukka
+1363\. Abyākataṁ cetasikaṁ dhammaṁ paṭicca abyākato cetasiko dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (12.)
 
-1364\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  vipāke ekaṃ…pe…  avigate tīṇi. (Saṃkhittaṃ.)
+1364\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… vipāke ekaṁ…pe… avigate tīṇi. (Saṁkhittaṁ.)
 
-* Kusalattika, Mahantaradukaupādānagocchaka
-
-* Kusalattika, Cetasikaduka
-
-* Paṭiccādivāra
-
-* Paccayacatukka
-
-1365\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1365\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 * [Hetu-ārammaṇa](Paccayacatukka/Hetu-arammana.md)
 
-[Go to previous page (5.3.1--7 Paṭiccādivāra)](../5.3.1--7.md) / [Go to parent page (5.3.1--7 Paṭiccādivāra)](../5.3.1--7.md) / [Go to next page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md)
-
+[Go to previous page (5.3.1--7 Paṭiccādivāra)](../5.3.1--7.md) / [Go to parent page (5.3.1--7 Paṭiccādivāra)](../5.3.1--7.md) / [Go to next page (Hetu-ārammaṇa)](Paccayacatukka/Hetu-arammana.md)
 

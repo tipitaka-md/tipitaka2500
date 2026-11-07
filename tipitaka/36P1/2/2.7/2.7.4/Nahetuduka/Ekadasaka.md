@@ -13,8 +13,7 @@
 
 * Ekādasaka
 
-1702\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) nanissayapaccayā naupanissayapaccayā napurejātapaccayā pacchājāte tīṇi, kamme dve, āhāre ekaṃ, indriye ekaṃ, vippayutte tīṇi, atthiyā pañca, avigate pañca.
+1702\. Nahetupaccayā naārammaṇapaccayā (mūlakaṁ saṁkhittaṁ) nanissayapaccayā naupanissayapaccayā napurejātapaccayā pacchājāte tīṇi, kamme dve, āhāre ekaṁ, indriye ekaṁ, vippayutte tīṇi, atthiyā pañca, avigate pañca.
 
 [Go to previous page (Navaka)](Navaka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Dvādasaka)](Dvadasaka.md)
-
 

@@ -15,11 +15,10 @@
 
 (17.)
 
-1835\. Nahetupaccayā naadhipatiyā tīṇi, napurejāte ekaṃ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, namagge tīṇi, navippayutte ekaṃ…pe… .
+1835\. Nahetupaccayā naadhipatiyā tīṇi, napurejāte ekaṁ, napacchājāte tīṇi, naāsevane tīṇi, nakamme dve, navipāke dve, najhāne tīṇi, namagge tīṇi, navippayutte ekaṁ…pe… .
 
 * [Catukka](Nahetuduka/Catukka.md)
 * [Navaka](Nahetuduka/Navaka.md)
 
-[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Catukka)](Nahetuduka/Catukka.md)
-
+[Go to previous page (Suddha)](Suddha.md) / [Go to parent page (3.1.2.2 Saṅkhyāvāra)](../3.1.2.2.md) / [Go to next page (Catukka)](Nahetuduka/Catukka.md)
 

@@ -15,8 +15,7 @@
 
 * Ekādasaka
 
-1260\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) naupanissayapaccayā napurejāte dve, napacchājāte dve, naāsevane dve, navipāke dve, naāhāre dve, naindriye dve, najhāne dve, namagge dve, nasampayutte dve, navippayutte dve, nonatthiyā dve, novigate dve, noavigate dve…pe… .
+1260\. Noatthipaccayā nahetupaccayā naārammaṇapaccayā (mūlakaṁ saṁkhittaṁ) naupanissayapaccayā napurejāte dve, napacchājāte dve, naāsevane dve, navipāke dve, naāhāre dve, naindriye dve, najhāne dve, namagge dve, nasampayutte dve, navippayutte dve, nonatthiyā dve, novigate dve, noavigate dve…pe… .
 
 [Go to previous page (Dasaka)](Dasaka.md) / [Go to parent page (Noatthiduka)](../Noatthiduka.md) / [Go to next page (Sattarasaka)](Sattarasaka.md)
-
 

@@ -17,10 +17,9 @@
 
 (77.)
 
-2051\. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa kammapaccayena paccayo—  nīvaraṇasampayuttā cetanā sampayuttakānaṃ khandhānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Sahajātā, nānākkhaṇikā. **Sahajātā**—  nīvaraṇasampayuttā cetanā cittasamuṭṭhānānaṃ rūpānaṃ kammapaccayena paccayo. **Nānākkhaṇikā**—  nīvaraṇasampayuttā cetanā vipākānaṃ khandhānaṃ kaṭattā ca rūpānaṃ kammapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Nīvaraṇasampayuttā cetanā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ kammapaccayena paccayo. (3)
+2051\. Nīvaraṇasampayutto dhammo nīvaraṇasampayuttassa dhammassa kammapaccayena paccayo— nīvaraṇasampayuttā cetanā sampayuttakānaṁ khandhānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Sahajātā, nānākkhaṇikā. Sahajātā— nīvaraṇasampayuttā cetanā cittasamuṭṭhānānaṁ rūpānaṁ kammapaccayena paccayo. Nānākkhaṇikā— nīvaraṇasampayuttā cetanā vipākānaṁ khandhānaṁ kaṭattā ca rūpānaṁ kammapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Nīvaraṇasampayuttā cetanā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ kammapaccayena paccayo. (3)
 
-2052\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa kammapaccayena paccayo—  sahajātā, nānākkhaṇikā. (Saṃkhittaṃ.) Vipākapaccayā…  ekaṃ.
+2052\. Nīvaraṇavippayutto dhammo nīvaraṇavippayuttassa dhammassa kammapaccayena paccayo— sahajātā, nānākkhaṇikā. (Saṁkhittaṁ.) Vipākapaccayā… ekaṁ.
 
-[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Pacchājātāsevana)](Pacchajatasevana.md) / [Go to parent page (8.3.7.1.1 Vibhaṅgavāra)](../8.3.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

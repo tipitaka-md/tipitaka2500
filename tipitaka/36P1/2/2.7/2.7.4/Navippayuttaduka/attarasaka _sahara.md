@@ -13,8 +13,7 @@
 
 * Sattarasaka (sāhāra)
 
-1775\. Navippayuttapaccayā nahetupaccayā…pe…  nakammapaccayā navipākapaccayā naāhārapaccayā indriye ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+1775\. Navippayuttapaccayā nahetupaccayā…pe… nakammapaccayā navipākapaccayā naāhārapaccayā indriye ekaṁ, atthiyā ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Pannarasaka)](Pannarasaka.md) / [Go to parent page (Navippayuttaduka)](../Navippayuttaduka.md) / [Go to next page (Bāvīsaka (sāhāra))](avisaka_sahara.md)
-
 

@@ -17,12 +17,11 @@
 
 (302.)
 
-3059\. Cittasaṃsaṭṭhasamuṭṭhāno dhammo cittasaṃsaṭṭhasamuṭṭhānassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  tīṇi. (Dvepi adhipatī kātabbā.) (3)
+3059\. Cittasaṁsaṭṭhasamuṭṭhāno dhammo cittasaṁsaṭṭhasamuṭṭhānassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati… tīṇi. (Dvepi adhipatī kātabbā.) (3)
 
-3060\. Nocittasaṃsaṭṭhasamuṭṭhāno dhammo nocittasaṃsaṭṭhasamuṭṭhānassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati…  tīṇi. (Dvepi adhipati kātabbā.) (3)
+3060\. Nocittasaṁsaṭṭhasamuṭṭhāno dhammo nocittasaṁsaṭṭhasamuṭṭhānassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati… tīṇi. (Dvepi adhipati kātabbā.) (3)
 
-3061\. Cittasaṃsaṭṭhasamuṭṭhāno ca nocittasaṃsaṭṭhasamuṭṭhāno ca dhammā cittasaṃsaṭṭhasamuṭṭhānassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati. (Ekāyeva adhipati kātabbā, navapi pañhā. Yathā cittasahabhūdukaṃ, evaṃ kātabbaṃ, ninnānākaraṇaṃ.)
+3061\. Cittasaṁsaṭṭhasamuṭṭhāno ca nocittasaṁsaṭṭhasamuṭṭhāno ca dhammā cittasaṁsaṭṭhasamuṭṭhānassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati. (Ekāyeva adhipati kātabbā, navapi pañhā. Yathā cittasahabhūdukaṁ, evaṁ kātabbaṁ, ninnānākaraṇaṁ.)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (10.9.7.1.1 Vibhaṅgavāra)](../10.9.7.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

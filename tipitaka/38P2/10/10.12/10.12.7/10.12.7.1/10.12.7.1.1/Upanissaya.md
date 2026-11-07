@@ -17,12 +17,11 @@
 
 (344.)
 
-3169\. Ajjhattiko dhammo ajjhattikassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  cittaṃ cittassa upanissayapaccayena paccayo…  tīṇi.
+3169\. Ajjhattiko dhammo ajjhattikassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— cittaṁ cittassa upanissayapaccayena paccayo… tīṇi.
 
-3170\. Bāhiro dhammo bāhirassa dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  mānaṃ jappeti, diṭṭhiṃ gaṇhāti; sīlaṃ…pe…  senāsanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  senāsanaṃ saddhāya…pe…  phalasamāpattiyā upanissayapaccayena paccayo. (Tīṇipi pūretvā kātabbā, cittassāti kātabbā, sampayuttakānañcāti kātabbā.)
+3170\. Bāhiro dhammo bāhirassa dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— saddhaṁ upanissāya dānaṁ deti…pe… mānaṁ jappeti, diṭṭhiṁ gaṇhāti; sīlaṁ…pe… senāsanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati; saddhā…pe… senāsanaṁ saddhāya…pe… phalasamāpattiyā upanissayapaccayena paccayo. (Tīṇipi pūretvā kātabbā, cittassāti kātabbā, sampayuttakānañcāti kātabbā.)
 
-3171\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa dhammassa upanissayapaccayena paccayo…  tīṇi.
+3171\. Ajjhattiko ca bāhiro ca dhammā ajjhattikassa dhammassa upanissayapaccayena paccayo… tīṇi.
 
-[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
-
+[Go to previous page (Anantarādi)](Anantaradi.md) / [Go to parent page (10.12.7.1.1 Vibhaṅgavāra)](../10.12.7.1.1.md) / [Go to next page (Purejāta)](Purejata.md)
 

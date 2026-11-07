@@ -15,14 +15,9 @@
 
 (39.)
 
-2742\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme nava, vipāke tīṇi, āhāre tīṇi, indriye jhāne magge sampayutte tīṇi, atthiyā tīṇi, natthiyā satta, vigate satta, avigate tīṇi. (Evaṃ gaṇetabbaṃ.)
+2742\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā satta, anantare satta, samanantare satta, sahajāte aññamaññe nissaye tīṇi, upanissaye nava, āsevane tīṇi, kamme nava, vipāke tīṇi, āhāre tīṇi, indriye jhāne magge sampayutte tīṇi, atthiyā tīṇi, natthiyā satta, vigate satta, avigate tīṇi. (Evaṁ gaṇetabbaṁ.)
 
----
+2743\. Anulomaṁ.
 
-2743\. Anulomaṃ.
-
-
-
-[Go to previous page (20.7.1.2 Saṅkhyāvāra)](../20.7.1.2.md) / [Go to parent page (20.7.1.2 Saṅkhyāvāra)](../20.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
-
+[Go to previous page (20.7.1.2 Saṅkhyāvāra)](../20.7.1.2.md) / [Go to parent page (20.7.1.2 Saṅkhyāvāra)](../20.7.1.2.md) / [Go to next page (Paccanīyuddhāra)](../../Paccaniyuddhara.md)
 

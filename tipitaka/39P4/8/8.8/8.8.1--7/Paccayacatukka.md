@@ -13,22 +13,21 @@
 
 (31.)
 
-1791\. Dassanena pahātabbaṃ saraṇaṃ dhammaṃ paṭicca dassanena pahātabbo saraṇo dhammo uppajjati hetupaccayā. (1)
+1791\. Dassanena pahātabbaṁ saraṇaṁ dhammaṁ paṭicca dassanena pahātabbo saraṇo dhammo uppajjati hetupaccayā. (1)
 
-1792\. Bhāvanāya pahātabbaṃ saraṇaṃ dhammaṃ paṭicca bhāvanāya pahātabbo saraṇo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1792\. Bhāvanāya pahātabbaṁ saraṇaṁ dhammaṁ paṭicca bhāvanāya pahātabbo saraṇo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-1793\. Hetuyā dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1793\. Hetuyā dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1794\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+1794\. (Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
 (32.)
 
-1795\. Nevadassanena nabhāvanāya pahātabbaṃ araṇaṃ dhammaṃ paṭicca nevadassanena nabhāvanāya pahātabbo araṇo dhammo uppajjati hetupaccayā (Saṃkhittaṃ.)
+1795\. Nevadassanena nabhāvanāya pahātabbaṁ araṇaṁ dhammaṁ paṭicca nevadassanena nabhāvanāya pahātabbo araṇo dhammo uppajjati hetupaccayā (Saṁkhittaṁ.)
 
-1796\. Hetuyā ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1796\. Hetuyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-1797\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1797\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (8.8.1--7 Paṭiccādivāra)](../8.8.1--7.md) / [Go to parent page (8.8.1--7 Paṭiccādivāra)](../8.8.1--7.md) / [Go to next page (8.9 Dassanahetuttika, Saraṇaduka)](../../8.9.md)
-
+[Go to previous page (8.8.1--7 Paṭiccādivāra)](../8.8.1--7.md) / [Go to parent page (8.8.1--7 Paṭiccādivāra)](../8.8.1--7.md) / [Go to next page (8.9 Dassanahetuttika, Saraṇaduka)](../../8.9.md)
 

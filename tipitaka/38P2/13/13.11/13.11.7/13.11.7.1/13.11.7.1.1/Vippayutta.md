@@ -17,10 +17,9 @@
 
 (217.)
 
-4568\. Kāmāvacaro dhammo kāmāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ, pacchājātaṃ. (Saṃkhittaṃ.) Kāmāvacaro dhammo nakāmāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, purejātaṃ. **Sahajātaṃ**—  (saṃkhittaṃ) paṭisandhikkhaṇe vatthu nakāmāvacarānaṃ khandhānaṃ vippayuttapaccayena paccayo. **Purejātaṃ**—  vatthu nakāmāvacarānaṃ khandhānaṃ vippayuttapaccayena paccayo. (2)
+4568\. Kāmāvacaro dhammo kāmāvacarassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ, pacchājātaṁ. (Saṁkhittaṁ.) Kāmāvacaro dhammo nakāmāvacarassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, purejātaṁ. Sahajātaṁ— (saṁkhittaṁ) paṭisandhikkhaṇe vatthu nakāmāvacarānaṁ khandhānaṁ vippayuttapaccayena paccayo. Purejātaṁ— vatthu nakāmāvacarānaṁ khandhānaṁ vippayuttapaccayena paccayo. (2)
 
-4569\. Nakāmāvacaro dhammo kāmāvacarassa dhammassa vippayuttapaccayena paccayo—  sahajātaṃ, pacchājātaṃ. **Sahajātā**—  nakāmāvacarā khandhā cittasamuṭṭhānānaṃ rūpānaṃ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . **Pacchājātā**—  nakāmāvacarā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
+4569\. Nakāmāvacaro dhammo kāmāvacarassa dhammassa vippayuttapaccayena paccayo— sahajātaṁ, pacchājātaṁ. Sahajātā— nakāmāvacarā khandhā cittasamuṭṭhānānaṁ rūpānaṁ vippayuttapaccayena paccayo; paṭisandhikkhaṇe…pe… . Pacchājātā— nakāmāvacarā khandhā purejātassa imassa kāyassa vippayuttapaccayena paccayo. (1)
 
-[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (13.11.7.1.1 Vibhaṅgavāra)](../13.11.7.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
-
+[Go to previous page (Kammādi)](Kammadi.md) / [Go to parent page (13.11.7.1.1 Vibhaṅgavāra)](../13.11.7.1.1.md) / [Go to next page (Atthyādi)](Atthyadi.md)
 

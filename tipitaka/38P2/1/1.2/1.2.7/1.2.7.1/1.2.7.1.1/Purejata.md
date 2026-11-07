@@ -17,12 +17,11 @@
 
 (109.)
 
-295\. Ahetuko dhammo ahetukassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati, kusalākusale niruddhe ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṃ cakkhuviññāṇassa…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa purejātapaccayena paccayo. **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…  purejātaṃ vatthu ahetukānaṃ khandhānaṃ mohassa ca purejātapaccayena paccayo. (1)
+295\. Ahetuko dhammo ahetukassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati, kusalākusale niruddhe ahetuko vipāko tadārammaṇatā uppajjati; rūpāyatanaṁ cakkhuviññāṇassa…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa purejātapaccayena paccayo. Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa… purejātaṁ vatthu ahetukānaṁ khandhānaṁ mohassa ca purejātapaccayena paccayo. (1)
 
-296\. Ahetuko dhammo sahetukassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ aniccato…pe…  domanassaṃ uppajjati; kusalākusale niruddhe sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṃ passati, dibbāya sotadhātuyā saddaṃ suṇāti. **Vatthupurejātaṃ**—  vatthu sahetukānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+296\. Ahetuko dhammo sahetukassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ aniccato…pe… domanassaṁ uppajjati; kusalākusale niruddhe sahetuko vipāko tadārammaṇatā uppajjati; dibbena cakkhunā rūpaṁ passati, dibbāya sotadhātuyā saddaṁ suṇāti. Vatthupurejātaṁ— vatthu sahetukānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-297\. Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. **Vatthupurejātaṃ**—  vatthu vicikicchāsahagatānaṃ uddhaccasahagatānaṃ khandhānaṃ mohassa ca purejātapaccayena paccayo. (3)
+297\. Ahetuko dhammo sahetukassa ca ahetukassa ca dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ ārabbha vicikicchāsahagatā uddhaccasahagatā khandhā ca moho ca uppajjanti. Vatthupurejātaṁ— vatthu vicikicchāsahagatānaṁ uddhaccasahagatānaṁ khandhānaṁ mohassa ca purejātapaccayena paccayo. (3)
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Pacchājātādi)](Pacchajatadi.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (1.2.7.1.1 Vibhaṅgavāra)](../1.2.7.1.1.md) / [Go to next page (Pacchājātādi)](Pacchajatadi.md)
 

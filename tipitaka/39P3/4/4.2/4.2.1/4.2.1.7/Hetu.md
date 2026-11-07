@@ -17,14 +17,13 @@
 
 1608\. Sāsavo kusalo dhammo sāsavassa kusalassa dhammassa hetupaccayena paccayo. (1)
 
-1609\. Anāsavo kusalo dhammo anāsavassa kusalassa dhammassa hetupaccayena paccayo. (1) (Saṃkhittaṃ.)
+1609\. Anāsavo kusalo dhammo anāsavassa kusalassa dhammassa hetupaccayena paccayo. (1) (Saṁkhittaṁ.)
 
 (13.)
 
-1610\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe…  nissaye dve, upanissaye cattāri, āsevane dve…pe…  avigate dve. (Saṃkhittaṃ.)
+1610\. Hetuyā dve, ārammaṇe dve, adhipatiyā tīṇi, anantare dve…pe… nissaye dve, upanissaye cattāri, āsevane dve…pe… avigate dve. (Saṁkhittaṁ.)
 
-1611\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1611\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (4.2.1.7 Pañhāvāra)](../4.2.1.7.md) / [Go to parent page (4.2.1.7 Pañhāvāra)](../4.2.1.7.md) / [Go to next page (4.2.2 Akusalapada)](../../4.2.2.md)
-
+[Go to previous page (4.2.1.7 Pañhāvāra)](../4.2.1.7.md) / [Go to parent page (4.2.1.7 Pañhāvāra)](../4.2.1.7.md) / [Go to next page (4.2.2 Akusalapada)](../../4.2.2.md)
 

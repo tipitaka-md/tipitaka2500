@@ -17,8 +17,7 @@
 
 (303.)
 
-1007\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṃ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā satta, vigate satta, avigate terasa.
+1007\. Hetuyā satta, ārammaṇe nava, adhipatiyā dasa, anantare satta, samanantare satta, sahajāte nava, aññamaññe tīṇi, nissaye terasa, upanissaye nava, purejāte tīṇi, pacchājāte tīṇi, āsevane tīṇi, kamme satta, vipāke ekaṁ, āhāre satta, indriye satta, jhāne satta, magge satta, sampayutte tīṇi, vippayutte pañca, atthiyā terasa, natthiyā satta, vigate satta, avigate terasa.
 
 [Go to previous page (Hetu)](../Hetu.md) / [Go to parent page (Hetu)](../Hetu.md) / [Go to next page (Hetusabhāga)](Hetusabhaga.md)
-
 

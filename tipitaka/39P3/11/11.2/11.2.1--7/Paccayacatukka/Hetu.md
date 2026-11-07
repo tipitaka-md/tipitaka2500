@@ -15,34 +15,33 @@
 
 (10.)
 
-2254\. Upādāniyaṃ kusalaṃ dhammaṃ paṭicca upādāniyo kusalo dhammo uppajjati hetupaccayā. (1)
+2254\. Upādāniyaṁ kusalaṁ dhammaṁ paṭicca upādāniyo kusalo dhammo uppajjati hetupaccayā. (1)
 
-2255\. Anupādāniyaṃ kusalaṃ dhammaṃ paṭicca anupādāniyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2255\. Anupādāniyaṁ kusalaṁ dhammaṁ paṭicca anupādāniyo kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (11.)
 
-2256\. Hetuyā dve, ārammaṇe dve…pe…  avigate dve. (Saṃkhittaṃ. Lokiyalokuttaradukakusalasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2256\. Hetuyā dve, ārammaṇe dve…pe… avigate dve. (Saṁkhittaṁ. Lokiyalokuttaradukakusalasadisaṁ. Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
 (12.)
 
-2257\. Upādāniyaṃ akusalaṃ dhammaṃ paṭicca upādāniyo akusalo dhammo uppajjati hetupaccayā. (Saṃkhittaṃ.)
+2257\. Upādāniyaṁ akusalaṁ dhammaṁ paṭicca upādāniyo akusalo dhammo uppajjati hetupaccayā. (Saṁkhittaṁ.)
 
-2258\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+2258\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
-2259\. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+2259\. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
 (13.)
 
-2260\. Upādāniyaṃ abyākataṃ dhammaṃ paṭicca upādāniyo abyākato dhammo uppajjati hetupaccayā. (1)
+2260\. Upādāniyaṁ abyākataṁ dhammaṁ paṭicca upādāniyo abyākato dhammo uppajjati hetupaccayā. (1)
 
-2261\. Anupādāniyaṃ abyākataṃ dhammaṃ paṭicca anupādāniyo abyākato dhammo uppajjati hetupaccayā. Anupādāniyaṃ abyākataṃ dhammaṃ paṭicca upādāniyo abyākato dhammo uppajjati hetupaccayā. Anupādāniyaṃ abyākataṃ dhammaṃ paṭicca upādāniyo abyākato ca anupādāniyo abyākato ca dhammā uppajjanti hetupaccayā. (3)
+2261\. Anupādāniyaṁ abyākataṁ dhammaṁ paṭicca anupādāniyo abyākato dhammo uppajjati hetupaccayā. Anupādāniyaṁ abyākataṁ dhammaṁ paṭicca upādāniyo abyākato dhammo uppajjati hetupaccayā. Anupādāniyaṁ abyākataṁ dhammaṁ paṭicca upādāniyo abyākato ca anupādāniyo abyākato ca dhammā uppajjanti hetupaccayā. (3)
 
-2262\. Upādāniyaṃ abyākatañca anupādāniyaṃ abyākatañca dhammaṃ paṭicca upādāniyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+2262\. Upādāniyaṁ abyākatañca anupādāniyaṁ abyākatañca dhammaṁ paṭicca upādāniyo abyākato dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (14.)
 
-2263\. Hetuyā pañca, ārammaṇe dve…pe…  āsevane ekaṃ…pe…  avigate pañca. (Saṃkhittaṃ. Lokiyadukaabyākatasadisaṃ. Sahajātavārampi…pe…  pañhāvārampi vitthāretabbaṃ.)
+2263\. Hetuyā pañca, ārammaṇe dve…pe… āsevane ekaṁ…pe… avigate pañca. (Saṁkhittaṁ. Lokiyadukaabyākatasadisaṁ. Sahajātavārampi…pe… pañhāvārampi vitthāretabbaṁ.)
 
-[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (11.3 Upādānasampayuttaduka, Kusalattika)](../../../11.3.md)
-
+[Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (11.3 Upādānasampayuttaduka, Kusalattika)](../../../11.3.md)
 

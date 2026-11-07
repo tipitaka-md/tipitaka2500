@@ -17,20 +17,19 @@
 
 (270.)
 
-4657\. Arūpāvacaraṃ dhammaṃ paṭicca arūpāvacaro dhammo uppajjati napurejātapaccayā—  arūpe arūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe… . (Mūlaṃ kātabbaṃ.) Arūpāvacare khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+4657\. Arūpāvacaraṁ dhammaṁ paṭicca arūpāvacaro dhammo uppajjati napurejātapaccayā— arūpe arūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… . (Mūlaṁ kātabbaṁ.) Arūpāvacare khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-4658\. Naarūpāvacaraṃ dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati napurejātapaccayā—  arūpe naarūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
+4658\. Naarūpāvacaraṁ dhammaṁ paṭicca naarūpāvacaro dhammo uppajjati napurejātapaccayā— arūpe naarūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (Yāva asaññasattā.) (1)
 
-4659\. Arūpāvacarañca naarūpāvacarañca dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati napurejātapaccayā—  arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) Napacchājātapaccayā… .
+4659\. Arūpāvacarañca naarūpāvacarañca dhammaṁ paṭicca naarūpāvacaro dhammo uppajjati napurejātapaccayā— arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1) Napacchājātapaccayā… .
 
 (271.)
 
-4660\. Arūpāvacaraṃ dhammaṃ paṭicca arūpāvacaro dhammo uppajjati naāsevanapaccayā—  vipākaṃ arūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . Arūpāvacaraṃ dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  arūpāvacare khandhe paṭicca cittasamuṭṭhānaṃ rūpaṃ. (2)
+4660\. Arūpāvacaraṁ dhammaṁ paṭicca arūpāvacaro dhammo uppajjati naāsevanapaccayā— vipākaṁ arūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . Arūpāvacaraṁ dhammaṁ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā— arūpāvacare khandhe paṭicca cittasamuṭṭhānaṁ rūpaṁ. (2)
 
-4661\. Naarūpāvacaraṃ dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  naarūpāvacaraṃ ekaṃ khandhaṃ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṃ…pe…  dve khandhe…pe… . (Yāva asaññasattā.) (1)
+4661\. Naarūpāvacaraṁ dhammaṁ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā— naarūpāvacaraṁ ekaṁ khandhaṁ paṭicca tayo khandhā cittasamuṭṭhānañca rūpaṁ…pe… dve khandhe…pe… . (Yāva asaññasattā.) (1)
 
-4662\. Arūpāvacarañca naarūpāvacarañca dhammaṃ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā—  arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1) (Saṃkhittaṃ.)
+4662\. Arūpāvacarañca naarūpāvacarañca dhammaṁ paṭicca naarūpāvacaro dhammo uppajjati naāsevanapaccayā— arūpāvacare khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1) (Saṁkhittaṁ.)
 
-[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (13.13.1.2.1 Vibhaṅgavāra)](../13.13.1.2.1.md) / [Go to next page (13.13.1.2.2 Saṅkhyāvāra)](../13.13.1.2.2.md)
-
+[Go to previous page (Naadhipatyādi)](Naadhipatyadi.md) / [Go to parent page (13.13.1.2.1 Vibhaṅgavāra)](../13.13.1.2.1.md) / [Go to next page (13.13.1.2.2 Saṅkhyāvāra)](../13.13.1.2.2.md)
 

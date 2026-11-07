@@ -13,8 +13,7 @@
 
 * Catukka
 
-618\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta, napurejāte ekaṃ, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta.
+618\. Vippayuttapaccayā hetupaccayā ārammaṇapaccayā naadhipatiyā satta, napurejāte ekaṁ, napacchājāte satta, naāsevane satta, nakamme satta, navipāke satta.
 
 [Go to previous page (Tika)](Tika.md) / [Go to parent page (Vippayuttaduka)](../Vippayuttaduka.md) / [Go to next page (Pañcaka)](Pancaka.md)
-
 

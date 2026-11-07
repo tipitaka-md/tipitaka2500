@@ -15,24 +15,19 @@
 
 (65.)
 
-4211\. Dassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā…  tīṇi. (Paṭiccasadisā.)
+4211\. Dassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā… tīṇi. (Paṭiccasadisā.)
 
-4212\. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho nadassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā—  nadassanena pahātabbahetukaṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+4212\. Nadassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho nadassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā— nadassanena pahātabbahetukaṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-4213\. Nadassanena pahātabbahetukaṃ dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā. (Paṭiccasadisaṃ.) (2)
+4213\. Nadassanena pahātabbahetukaṁ dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā. (Paṭiccasadisaṁ.) (2)
 
-4214\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṃ saṃsaṭṭho dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā. (Paṭiccasadisaṃ, saṃkhittaṃ.) (1)
+4214\. Dassanena pahātabbahetukañca nadassanena pahātabbahetukañca dhammaṁ saṁsaṭṭho dassanena pahātabbahetuko dhammo uppajjati ārammaṇapaccayā. (Paṭiccasadisaṁ, saṁkhittaṁ.) (1)
 
 (66.)
 
-4215\. Hetuyā cattāri, ārammaṇe cha, adhipatiyā dve, anantare cha (sabbattha cha), vipāke ekaṃ…pe…  avigate cha.
+4215\. Hetuyā cattāri, ārammaṇe cha, adhipatiyā dve, anantare cha (sabbattha cha), vipāke ekaṁ…pe… avigate cha.
 
----
+4216\. Anulomaṁ.
 
-4216\. Anulomaṃ.
-
-
-
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to next page (Nahetu)](Nahetu.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (13.3.5.1--4 Paccayacatukka)](../13.3.5.1--4.md) / [Go to next page (Nahetu)](Nahetu.md)
 

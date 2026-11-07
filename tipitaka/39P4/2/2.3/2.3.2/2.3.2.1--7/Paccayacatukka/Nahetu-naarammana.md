@@ -17,20 +17,19 @@
 
 (16.)
 
-988\. Abyākataṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati nahetupaccayā. (1)
+988\. Abyākataṁ hetuvippayuttaṁ dhammaṁ paṭicca abyākato hetuvippayutto dhammo uppajjati nahetupaccayā. (1)
 
-989\. Akusalaṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati naārammaṇapaccayā. (1)
+989\. Akusalaṁ hetuvippayuttaṁ dhammaṁ paṭicca abyākato hetuvippayutto dhammo uppajjati naārammaṇapaccayā. (1)
 
-990\. Abyākataṃ hetuvippayuttaṃ dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati naārammaṇapaccayā. (1)
+990\. Abyākataṁ hetuvippayuttaṁ dhammaṁ paṭicca abyākato hetuvippayutto dhammo uppajjati naārammaṇapaccayā. (1)
 
-991\. Akusalaṃ hetuvippayuttañca abyākataṃ hetuvippayuttañca dhammaṃ paṭicca abyākato hetuvippayutto dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ.)
+991\. Akusalaṁ hetuvippayuttañca abyākataṁ hetuvippayuttañca dhammaṁ paṭicca abyākato hetuvippayutto dhammo uppajjati naārammaṇapaccayā. (Saṁkhittaṁ.)
 
 (17.)
 
-992\. Nahetuyā ekaṃ, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe…  novigate tīṇi. (Saṃkhittaṃ.)
+992\. Nahetuyā ekaṁ, naārammaṇe tīṇi, naadhipatiyā tīṇi…pe… novigate tīṇi. (Saṁkhittaṁ.)
 
-993\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+993\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇa-anantara)](Hetu-arammana-anantara.md)
-
 

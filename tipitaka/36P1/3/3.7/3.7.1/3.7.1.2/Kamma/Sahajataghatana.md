@@ -19,4 +19,3 @@
 
 [Go to previous page (Pakiṇṇakaghaṭanā)](Pakinnakaghatana.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Vipāka)](../Vipaka.md)
 
-

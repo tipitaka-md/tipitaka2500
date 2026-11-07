@@ -13,16 +13,15 @@
 
 (89.)
 
-188\. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa ārammaṇapaccayena paccayo…  sahajātapaccayena paccayo…  upanissayapaccayena paccayo…  pacchājātapaccayena paccayo…  (Saṃkhittaṃ.)
+188\. Nasaraṇo nasauttaro dhammo araṇassa sauttarassa dhammassa ārammaṇapaccayena paccayo… sahajātapaccayena paccayo… upanissayapaccayena paccayo… pacchājātapaccayena paccayo… (Saṁkhittaṁ.)
 
-189\. Nahetuyā ekaṃ, naārammaṇe ekaṃ…pe…  noavigate ekaṃ.
+189\. Nahetuyā ekaṁ, naārammaṇe ekaṁ…pe… noavigate ekaṁ.
 
-190\. Hetupaccayā naārammaṇe ekaṃ. (Saṃkhittaṃ.)
+190\. Hetupaccayā naārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-191\. Nahetupaccayā ārammaṇe ekaṃ. (Saṃkhittaṃ.)
+191\. Nahetupaccayā ārammaṇe ekaṁ. (Saṁkhittaṁ.)
 
-192\. (Yathā kusalattike pañhāvāraṃ evaṃ vitthāretabbaṃ.)
+192\. (Yathā kusalattike pañhāvāraṁ evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (22.1.7 Pañhāvāra)](../22.1.7.md) / [Go to next page (22.2 Anuttarapada)](../../22.2.md)
-
+[Go to previous page (Hetu-ārammaṇa)](Hetu-arammana.md) / [Go to parent page (22.1.7 Pañhāvāra)](../22.1.7.md) / [Go to next page (22.2 Anuttarapada)](../../22.2.md)
 

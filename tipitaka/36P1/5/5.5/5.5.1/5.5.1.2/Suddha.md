@@ -15,20 +15,11 @@
 
 (48.)
 
-2593\. Hetuyā tīṇi…pe…  adhipatiyā dve…pe…  āsevane dve…pe…  vipāke dve…pe…  avigate tīṇi.
+2593\. Hetuyā tīṇi…pe… adhipatiyā dve…pe… āsevane dve…pe… vipāke dve…pe… avigate tīṇi.
 
----
+2594\. (Yathā kusalattike gaṇanā, evaṁ gaṇetabbā.)
 
-2594\. (Yathā kusalattike gaṇanā, evaṃ gaṇetabbā.)
+2595\. Anulomaṁ.
 
-
-
----
-
-2595\. Anulomaṃ.
-
-
-
-[Go to previous page (5.5.1.2 Saṅkhyāvāra)](../5.5.1.2.md) / [Go to parent page (5.5.1.2 Saṅkhyāvāra)](../5.5.1.2.md) / [Go to next page (5.5.2 Paccayapaccanīya)](../../5.5.2.md)
-
+[Go to previous page (5.5.1.2 Saṅkhyāvāra)](../5.5.1.2.md) / [Go to parent page (5.5.1.2 Saṅkhyāvāra)](../5.5.1.2.md) / [Go to next page (5.5.2 Paccayapaccanīya)](../../5.5.2.md)
 

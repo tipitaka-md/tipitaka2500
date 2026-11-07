@@ -15,8 +15,7 @@
 
 (37.)
 
-2558\. Upādinnupādāniyaṃ dhammaṃ paccayā upādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ.)
+2558\. Upādinnupādāniyaṁ dhammaṁ paccayā upādinnupādāniyo dhammo uppajjati naārammaṇapaccayā. (Saṁkhittaṁ.)
 
-[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (5.3.2.1 Vibhaṅgavāra)](../5.3.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
-
+[Go to previous page (Nahetu)](Nahetu.md) / [Go to parent page (5.3.2.1 Vibhaṅgavāra)](../5.3.2.1.md) / [Go to next page (Naadhipati)](Naadhipati.md)
 

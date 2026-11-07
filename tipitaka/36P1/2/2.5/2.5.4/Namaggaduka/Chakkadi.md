@@ -13,8 +13,7 @@
 
 * Chakkādi
 
-813\. Namaggapaccayā nahetupaccayā. (Saṃkhittaṃ.)
+813\. Namaggapaccayā nahetupaccayā. (Saṁkhittaṁ.)
 
 [Go to previous page (Pañcaka)](Pancaka.md) / [Go to parent page (Namaggaduka)](../Namaggaduka.md) / [Go to next page (Navippayuttaduka)](../Navippayuttaduka.md)
-
 

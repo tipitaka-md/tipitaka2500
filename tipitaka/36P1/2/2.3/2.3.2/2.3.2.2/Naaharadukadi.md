@@ -15,16 +15,15 @@
 
 (160.)
 
-565\. Naāhārapaccayā nahetuyā ekaṃ (sabbattha ekaṃ) novigate ekaṃ.
+565\. Naāhārapaccayā nahetuyā ekaṁ (sabbattha ekaṁ) novigate ekaṁ.
 
-566\. Naindriyapaccayā nahetuyā ekaṃ. (Sabbattha ekaṃ.)
+566\. Naindriyapaccayā nahetuyā ekaṁ. (Sabbattha ekaṁ.)
 
-567\. Najhānapaccayā nahetuyā ekaṃ. (Sabbattha ekaṃ.)
+567\. Najhānapaccayā nahetuyā ekaṁ. (Sabbattha ekaṁ.)
 
-568\. Namaggapaccayā nahetuyā ekaṃ. (Sabbattha ekaṃ.)
+568\. Namaggapaccayā nahetuyā ekaṁ. (Sabbattha ekaṁ.)
 
-569\. Nasampayuttapaccayā. (Naārammaṇapaccayasadisaṃ.)
+569\. Nasampayuttapaccayā. (Naārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Catukka)](Navipakaduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Navippayuttaduka)](Navippayuttaduka.md)
-
+[Go to previous page (Catukka)](Navipakaduka/Catukka.md) / [Go to parent page (2.3.2.2 Saṅkhyāvāra)](../2.3.2.2.md) / [Go to next page (Navippayuttaduka)](Navippayuttaduka.md)
 

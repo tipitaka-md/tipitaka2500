@@ -15,8 +15,7 @@
 
 (6.)
 
-1807\. Hetuyā tīṇi, ārammaṇe tīṇi…pe…  avigate tīṇi.
+1807\. Hetuyā tīṇi, ārammaṇe tīṇi…pe… avigate tīṇi.
 
-[Go to previous page (3.1.1.2 Saṅkhyāvāra)](../3.1.1.2.md) / [Go to parent page (3.1.1.2 Saṅkhyāvāra)](../3.1.1.2.md) / [Go to next page (Hetudukādi)](Hetudukadi.md)
-
+[Go to previous page (3.1.1.2 Saṅkhyāvāra)](../3.1.1.2.md) / [Go to parent page (3.1.1.2 Saṅkhyāvāra)](../3.1.1.2.md) / [Go to next page (Hetudukādi)](Hetudukadi.md)
 

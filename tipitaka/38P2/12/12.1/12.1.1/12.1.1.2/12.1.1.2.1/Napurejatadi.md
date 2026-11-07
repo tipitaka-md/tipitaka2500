@@ -17,10 +17,9 @@
 
 (7.)
 
-3827\. Kilesaṃ dhammaṃ paṭicca kileso dhammo uppajjati napurejātapaccayā—  arūpe lobhaṃ paṭicca moho diṭṭhi thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho diṭṭhi uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho māno thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho māno uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho thinaṃ uddhaccaṃ ahirikaṃ anottappaṃ, lobhaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; vicikicchaṃ paṭicca moho uddhaccaṃ ahirikaṃ anottappaṃ; uddhaccaṃ paṭicca moho ahirikaṃ anottappaṃ. (Arūpe dosamūlakaṃ natthi.) (1)
+3827\. Kilesaṁ dhammaṁ paṭicca kileso dhammo uppajjati napurejātapaccayā— arūpe lobhaṁ paṭicca moho diṭṭhi thinaṁ uddhaccaṁ ahirikaṁ anottappaṁ, lobhaṁ paṭicca moho diṭṭhi uddhaccaṁ ahirikaṁ anottappaṁ, lobhaṁ paṭicca moho māno thinaṁ uddhaccaṁ ahirikaṁ anottappaṁ, lobhaṁ paṭicca moho māno uddhaccaṁ ahirikaṁ anottappaṁ, lobhaṁ paṭicca moho thinaṁ uddhaccaṁ ahirikaṁ anottappaṁ, lobhaṁ paṭicca moho uddhaccaṁ ahirikaṁ anottappaṁ; vicikicchaṁ paṭicca moho uddhaccaṁ ahirikaṁ anottappaṁ; uddhaccaṁ paṭicca moho ahirikaṁ anottappaṁ. (Arūpe dosamūlakaṁ natthi.) (1)
 
-3828\. Kilesaṃ dhammaṃ paṭicca nokileso dhammo uppajjati napurejātapaccayā—  arūpe kilese paṭicca sampayuttakā khandhā, kilese paṭicca cittasamuṭṭhānaṃ rūpaṃ (evaṃ navapi pañhā kātabbā), napacchājātapaccayā, naāsevanapaccayā.
+3828\. Kilesaṁ dhammaṁ paṭicca nokileso dhammo uppajjati napurejātapaccayā— arūpe kilese paṭicca sampayuttakā khandhā, kilese paṭicca cittasamuṭṭhānaṁ rūpaṁ (evaṁ navapi pañhā kātabbā), napacchājātapaccayā, naāsevanapaccayā.
 
-[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
-
+[Go to previous page (Naārammaṇādi)](Naarammanadi.md) / [Go to parent page (12.1.1.2.1 Vibhaṅgavāra)](../12.1.1.2.1.md) / [Go to next page (Nakamma)](Nakamma.md)
 

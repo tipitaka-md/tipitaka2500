@@ -13,22 +13,13 @@
 
 * Catuvīsaka (sakamma)
 
-2037\. Noavigatapaccayā nahetupaccayā…pe…  nanissayapaccayā napurejātapaccayā…pe…  nakammapaccayā…pe…  novigatapaccayā upanissaye nava.
+2037\. Noavigatapaccayā nahetupaccayā…pe… nanissayapaccayā napurejātapaccayā…pe… nakammapaccayā…pe… novigatapaccayā upanissaye nava.
 
-2038\. (Yathā kusalattikassa paccanīyānulomagaṇanā sajjhāyamaggena gaṇitā, evaṃ gaṇetabbaṃ.)
+2038\. (Yathā kusalattikassa paccanīyānulomagaṇanā sajjhāyamaggena gaṇitā, evaṁ gaṇetabbaṁ.)
 
----
+2039\. Paccanīyānulomaṁ.
 
-2039\. Paccanīyānulomaṃ.
+2040\. Vedanāttikaṁ niṭṭhitaṁ.
 
-
-
----
-
-2040\. Vedanāttikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Catuvīsaka (saupanissaya))](atuvisaka_saupanissaya.md) / [Go to parent page (Noavigataduka)](../Noavigataduka.md) / [Go to next page (4 Vipākattika)](../../../../4.md)
-
+[Go to previous page (Catuvīsaka (saupanissaya))](atuvisaka_saupanissaya.md) / [Go to parent page (Noavigataduka)](../Noavigataduka.md) / [Go to next page (4 Vipākattika)](../../../../4.md)
 

@@ -15,18 +15,17 @@
 
 (443.)
 
-962\. Hetu sammattaniyato dhammo hetussa sammattaniyatassa dhammassa sahajātapaccayena paccayo…  upanissayapaccayena paccayo. (Saṃkhittaṃ.)
+962\. Hetu sammattaniyato dhammo hetussa sammattaniyatassa dhammassa sahajātapaccayena paccayo… upanissayapaccayena paccayo. (Saṁkhittaṁ.)
 
 (444.)
 
-963\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+963\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-964\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+964\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-965\. Nahetupaccayā adhipatiyā tīṇi. (Saṃkhittaṃ.)
+965\. Nahetupaccayā adhipatiyā tīṇi. (Saṁkhittaṁ.)
 
-966\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+966\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
-[Go to previous page (Hetu-adhipati)](Paccayacatukka/Hetu-adhipati.md) / [Go to parent page (1.15.2.7 Pañhāvāra)](../1.15.2.7.md) / [Go to next page (1.15.3 Aniyatapada)](../../1.15.3.md)
-
+[Go to previous page (Hetu-adhipati)](Paccayacatukka/Hetu-adhipati.md) / [Go to parent page (1.15.2.7 Pañhāvāra)](../1.15.2.7.md) / [Go to next page (1.15.3 Aniyatapada)](../../1.15.3.md)
 

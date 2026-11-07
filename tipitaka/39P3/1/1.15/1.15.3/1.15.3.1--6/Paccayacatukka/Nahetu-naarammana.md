@@ -17,24 +17,23 @@
 
 (447.)
 
-971\. Nahetuṃ aniyataṃ dhammaṃ paṭicca nahetu aniyato dhammo uppajjati nahetupaccayā. Nahetuṃ aniyataṃ dhammaṃ paṭicca hetu aniyato dhammo uppajjati nahetupaccayā. (2)
+971\. Nahetuṁ aniyataṁ dhammaṁ paṭicca nahetu aniyato dhammo uppajjati nahetupaccayā. Nahetuṁ aniyataṁ dhammaṁ paṭicca hetu aniyato dhammo uppajjati nahetupaccayā. (2)
 
-972\. Hetuṃ aniyataṃ dhammaṃ paṭicca nahetu aniyato dhammo uppajjati naārammaṇapaccayā. (1)
+972\. Hetuṁ aniyataṁ dhammaṁ paṭicca nahetu aniyato dhammo uppajjati naārammaṇapaccayā. (1)
 
-973\. Nahetuṃ aniyataṃ dhammaṃ paṭicca nahetu aniyato dhammo uppajjati naārammaṇapaccayā. (1)
+973\. Nahetuṁ aniyataṁ dhammaṁ paṭicca nahetu aniyato dhammo uppajjati naārammaṇapaccayā. (1)
 
-974\. Hetuṃ aniyatañca nahetuṃ aniyatañca dhammaṃ paṭicca nahetu aniyato dhammo uppajjati naārammaṇapaccayā. (1) (Saṃkhittaṃ.)
+974\. Hetuṁ aniyatañca nahetuṁ aniyatañca dhammaṁ paṭicca nahetu aniyato dhammo uppajjati naārammaṇapaccayā. (1) (Saṁkhittaṁ.)
 
 (448.)
 
-975\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṃ, naindriye ekaṃ, najhāne ekaṃ, namagge ekaṃ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṃkhittaṃ.)
+975\. Nahetuyā dve, naārammaṇe tīṇi, naadhipatiyā nava, naanantare tīṇi, nasamanantare tīṇi, naaññamaññe tīṇi, naupanissaye tīṇi, napurejāte nava, napacchājāte nava, naāsevane nava, nakamme tīṇi, navipāke nava, naāhāre ekaṁ, naindriye ekaṁ, najhāne ekaṁ, namagge ekaṁ, nasampayutte tīṇi, navippayutte nava, nonatthiyā tīṇi, novigate tīṇi. (Saṁkhittaṁ.)
 
-976\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+976\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-977\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+977\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-978\. (Sahajātavāropi paccayavāropi nissayavāropi saṃsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
+978\. (Sahajātavāropi paccayavāropi nissayavāropi saṁsaṭṭhavāropi sampayuttavāropi paṭiccavārasadisā vitthāretabbā.)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.15.3.7 Pañhāvāra)](../../1.15.3.7.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (1.15.3.7 Pañhāvāra)](../../1.15.3.7.md)
 

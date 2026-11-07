@@ -15,18 +15,9 @@
 
 1856\. Hetupaccayā ārammaṇapaccayā naadhipatiyā tīṇi, napurejāte dve, napacchājāte tīṇi, naāsevane tīṇi, nakamme tīṇi, navipāke tīṇi, navippayutte dve.
 
----
+1857\. (Yathā kusalattikaṁ, evaṁ gaṇetabbaṁ.)
 
-1857\. (Yathā kusalattikaṃ, evaṃ gaṇetabbaṃ.)
+1858\. Anulomapaccanīyaṁ.
 
-
-
----
-
-1858\. Anulomapaccanīyaṃ.
-
-
-
-[Go to previous page (Hetuduka)](../Hetuduka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (3.1.4 Paccayapaccanīyānuloma)](../../3.1.4.md)
-
+[Go to previous page (Hetuduka)](../Hetuduka.md) / [Go to parent page (Hetuduka)](../Hetuduka.md) / [Go to next page (3.1.4 Paccayapaccanīyānuloma)](../../3.1.4.md)
 

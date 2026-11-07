@@ -15,22 +15,29 @@
 
 * Hetu
 
+(1.)
+
+1473\. Sappaccayaṁ kusalaṁ dhammaṁ paṭicca sappaccayo kusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
+
+(2.)
+
+1474\. Hetuyā ekaṁ, ārammaṇe ekaṁ, adhipatiyā ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
+
 (5.)
 
-1478\. Sappaccayo kusalo dhammo sappaccayassa kusalassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1478\. Sappaccayo kusalo dhammo sappaccayassa kusalassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (6.)
 
-1479\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Saṃkhittaṃ.)
+1479\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Saṁkhittaṁ.)
 
 (7.)
 
-1480\. Sappaccayaṃ akusalaṃ dhammaṃ paṭicca sappaccayo akusalo dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1480\. Sappaccayaṁ akusalaṁ dhammaṁ paṭicca sappaccayo akusalo dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (8.)
 
-1481\. Hetuyā ekaṃ, ārammaṇe ekaṃ…pe…  avigate ekaṃ. (Sahajātavārepi…pe…  pañhāvārepi sabbattha ekaṃ.)
+1481\. Hetuyā ekaṁ, ārammaṇe ekaṁ…pe… avigate ekaṁ. (Sahajātavārepi…pe… pañhāvārepi sabbattha ekaṁ.)
 
-[Go to previous page (Paccayacatukka)](../accayacatukka.md) / [Go to parent page (Paccayacatukka)](../accayacatukka.md) / [Go to next page (3.1.2 Abyākatapada)](../../../3.1.2.md)
-
+[Go to previous page (Paccayacatukka)](../accayacatukka.md) / [Go to parent page (Paccayacatukka)](../accayacatukka.md) / [Go to next page (3.1.2 Abyākatapada)](../../../3.1.2.md)
 

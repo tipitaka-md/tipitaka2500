@@ -17,12 +17,11 @@
 
 (89.)
 
-1442\. Hetu ceva hetusampayutto ca abyākato dhammo hetussa ceva hetusampayuttassa ca abyākatassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.)
+1442\. Hetu ceva hetusampayutto ca abyākato dhammo hetussa ceva hetusampayuttassa ca abyākatassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.)
 
 (90.)
 
-1443\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe…  āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava…pe…  avigate nava. (Saṃkhittaṃ.)
+1443\. Hetuyā tīṇi, ārammaṇe nava, adhipatiyā nava…pe… āsevane nava, kamme tīṇi, vipāke nava, āhāre tīṇi, indriye nava, jhāne tīṇi, magge sampayutte nava…pe… avigate nava. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīyuddhāra)](../Paccaniyuddhara.md)
-
 

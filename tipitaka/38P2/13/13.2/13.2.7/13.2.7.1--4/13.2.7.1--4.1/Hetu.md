@@ -17,10 +17,9 @@
 
 (36.)
 
-4144\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa hetupaccayena paccayo—  bhāvanāya pahātabbā hetū sampayuttakānaṃ khandhānaṃ hetupaccayena paccayo…  tīṇi.
+4144\. Bhāvanāya pahātabbo dhammo bhāvanāya pahātabbassa dhammassa hetupaccayena paccayo— bhāvanāya pahātabbā hetū sampayuttakānaṁ khandhānaṁ hetupaccayena paccayo… tīṇi.
 
-4145\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa hetupaccayena paccayo. (Saṃkhittaṃ.) (1)
+4145\. Nabhāvanāya pahātabbo dhammo nabhāvanāya pahātabbassa dhammassa hetupaccayena paccayo. (Saṁkhittaṁ.) (1)
 
-[Go to previous page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to parent page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
-
+[Go to previous page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to parent page (13.2.7.1--4.1 Vibhaṅgavāra)](../13.2.7.1--4.1.md) / [Go to next page (Ārammaṇa)](Arammana.md)
 

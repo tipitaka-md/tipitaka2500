@@ -9,12 +9,11 @@
 
 (105.)
 
-289\. Saraṇo anidassanaappaṭigho dhammo nasaraṇassa naanidassanaappaṭighassa dhammassa sahajātapaccayena paccayo, pacchājātapaccayena paccayo, kammapaccayena paccayo. (Saṃkhittaṃ.)
+289\. Saraṇo anidassanaappaṭigho dhammo nasaraṇassa naanidassanaappaṭighassa dhammassa sahajātapaccayena paccayo, pacchājātapaccayena paccayo, kammapaccayena paccayo. (Saṁkhittaṁ.)
 
-290\. Nahetuyā tīṇi, naārammaṇe tīṇi…pe…  noavigate tīṇi.
+290\. Nahetuyā tīṇi, naārammaṇe tīṇi…pe… noavigate tīṇi.
 
-291\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+291\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](../90.md)
-
+[Go to previous page (Nahetu-naārammaṇa)](Nahetu-naarammana.md) / [Go to parent page (90 Saraṇaduka, Sanidassanattika)](../90.md)
 

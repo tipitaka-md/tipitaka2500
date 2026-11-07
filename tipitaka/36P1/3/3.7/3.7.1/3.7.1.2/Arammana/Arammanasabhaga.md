@@ -21,4 +21,3 @@
 
 [Go to previous page (Ārammaṇa)](../Arammana.md) / [Go to parent page (Ārammaṇa)](../Arammana.md) / [Go to next page (Ārammaṇaghaṭanā)](Arammanaghatana.md)
 
-

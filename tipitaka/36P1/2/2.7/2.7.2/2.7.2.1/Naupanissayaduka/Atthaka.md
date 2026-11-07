@@ -19,4 +19,3 @@
 
 [Go to previous page (Catukka)](Catukka.md) / [Go to parent page (Naupanissayaduka)](../Naupanissayaduka.md) / [Go to next page (Navaka)](Navaka.md)
 
-

@@ -15,20 +15,19 @@
 
 (294.)
 
-957\. Kusalo dhammo kusalassa dhammassa indriyapaccayena paccayo—  kusalā indriyā sampayuttakānaṃ khandhānaṃ indriyapaccayena paccayo. (1)
+957\. Kusalo dhammo kusalassa dhammassa indriyapaccayena paccayo— kusalā indriyā sampayuttakānaṁ khandhānaṁ indriyapaccayena paccayo. (1)
 
-958\. Kusalo dhammo abyākatassa dhammassa indriyapaccayena paccayo—  kusalā indriyā cittasamuṭṭhānānaṃ rūpānaṃ indriyapaccayena paccayo. (2)
+958\. Kusalo dhammo abyākatassa dhammassa indriyapaccayena paccayo— kusalā indriyā cittasamuṭṭhānānaṁ rūpānaṁ indriyapaccayena paccayo. (2)
 
-959\. Kusalo dhammo kusalassa ca abyākatassa ca dhammassa indriyapaccayena paccayo—  kusalā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. (3)
+959\. Kusalo dhammo kusalassa ca abyākatassa ca dhammassa indriyapaccayena paccayo— kusalā indriyā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ indriyapaccayena paccayo. (3)
 
-960\. Akusalo dhammo akusalassa dhammassa indriyapaccayena paccayo—  akusalā indriyā sampayuttakānaṃ khandhānaṃ indriyapaccayena paccayo. (1)
+960\. Akusalo dhammo akusalassa dhammassa indriyapaccayena paccayo— akusalā indriyā sampayuttakānaṁ khandhānaṁ indriyapaccayena paccayo. (1)
 
-961\. Akusalo dhammo abyākatassa dhammassa indriyapaccayena paccayo—  akusalā indriyā cittasamuṭṭhānānaṃ rūpānaṃ indriyapaccayena paccayo. (2)
+961\. Akusalo dhammo abyākatassa dhammassa indriyapaccayena paccayo— akusalā indriyā cittasamuṭṭhānānaṁ rūpānaṁ indriyapaccayena paccayo. (2)
 
-962\. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa indriyapaccayena paccayo—  akusalā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. (3)
+962\. Akusalo dhammo akusalassa ca abyākatassa ca dhammassa indriyapaccayena paccayo— akusalā indriyā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ indriyapaccayena paccayo. (3)
 
-963\. Abyākato dhammo abyākatassa dhammassa indriyapaccayena paccayo—  vipākābyākatā kiriyābyākatā indriyā sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ indriyapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatā indriyā sampayuttakānaṃ khandhānaṃ kaṭattā ca rūpānaṃ indriyapaccayena paccayo. Cakkhundriyaṃ cakkhuviññāṇassa indriyapaccayena paccayo. Sotindriyaṃ sotaviññāṇassa…pe…  ghānindriyaṃ ghānaviññāṇassa…pe…  jivhindriyaṃ jivhāviññāṇassa…pe…  kāyindriyaṃ kāyaviññāṇassa indriyapaccayena paccayo. **Rūpajīvitindriyaṃ**—  kaṭattārūpānaṃ indriyapaccayena paccayo. (1)
+963\. Abyākato dhammo abyākatassa dhammassa indriyapaccayena paccayo— vipākābyākatā kiriyābyākatā indriyā sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ indriyapaccayena paccayo. Paṭisandhikkhaṇe vipākābyākatā indriyā sampayuttakānaṁ khandhānaṁ kaṭattā ca rūpānaṁ indriyapaccayena paccayo. Cakkhundriyaṁ cakkhuviññāṇassa indriyapaccayena paccayo. Sotindriyaṁ sotaviññāṇassa…pe… ghānindriyaṁ ghānaviññāṇassa…pe… jivhindriyaṁ jivhāviññāṇassa…pe… kāyindriyaṁ kāyaviññāṇassa indriyapaccayena paccayo. Rūpajīvitindriyaṁ— kaṭattārūpānaṁ indriyapaccayena paccayo. (1)
 
-[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Jhāna)](Jhana.md)
-
+[Go to previous page (Āhāra)](Ahara.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Jhāna)](Jhana.md)
 

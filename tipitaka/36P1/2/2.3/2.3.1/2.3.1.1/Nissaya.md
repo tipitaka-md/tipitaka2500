@@ -15,14 +15,9 @@
 
 (122.)
 
-454\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati nissayapaccayā—  kusalaṃ ekaṃ khandhaṃ paccayā tayo khandhā.
+454\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati nissayapaccayā— kusalaṁ ekaṁ khandhaṁ paccayā tayo khandhā.
 
----
+455\. (Yathā sahajātapaccayaṁ, evaṁ vitthāretabbaṁ.)
 
-455\. (Yathā sahajātapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
-
+[Go to previous page (Aññamañña)](Annamanna.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (Upanissaya)](Upanissaya.md)
 

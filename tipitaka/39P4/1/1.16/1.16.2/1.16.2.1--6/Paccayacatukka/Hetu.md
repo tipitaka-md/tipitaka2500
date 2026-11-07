@@ -17,20 +17,19 @@
 
 (197.)
 
-747\. Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca maggārammaṇo nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṃ nahetuṃ dhammaṃ paṭicca maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3)
+747\. Maggārammaṇaṁ nahetuṁ dhammaṁ paṭicca maggārammaṇo nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṁ nahetuṁ dhammaṁ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṁ nahetuṁ dhammaṁ paṭicca maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-748\. Maggahetukaṃ nahetuṃ dhammaṃ paṭicca maggahetuko nahetu dhammo uppajjati hetupaccayā. Maggahetukaṃ nahetuṃ dhammaṃ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggahetukaṃ nahetuṃ dhammaṃ paṭicca maggahetuko nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3)
+748\. Maggahetukaṁ nahetuṁ dhammaṁ paṭicca maggahetuko nahetu dhammo uppajjati hetupaccayā. Maggahetukaṁ nahetuṁ dhammaṁ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggahetukaṁ nahetuṁ dhammaṁ paṭicca maggahetuko nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-749\. Maggādhipatiṃ nahetuṃ dhammaṃ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggādhipatiṃ nahetuṃ dhammaṃ paṭicca maggārammaṇo nahetu dhammo uppajjati hetupaccayā. Maggādhipatiṃ nahetuṃ dhammaṃ paṭicca maggahetuko nahetu dhammo uppajjati hetupaccayā. Maggādhipatiṃ nahetuṃ dhammaṃ paṭicca maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. Maggādhipatiṃ nahetuṃ dhammaṃ paṭicca maggahetuko nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (5)
+749\. Maggādhipatiṁ nahetuṁ dhammaṁ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggādhipatiṁ nahetuṁ dhammaṁ paṭicca maggārammaṇo nahetu dhammo uppajjati hetupaccayā. Maggādhipatiṁ nahetuṁ dhammaṁ paṭicca maggahetuko nahetu dhammo uppajjati hetupaccayā. Maggādhipatiṁ nahetuṁ dhammaṁ paṭicca maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. Maggādhipatiṁ nahetuṁ dhammaṁ paṭicca maggahetuko nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (5)
 
-750\. Maggārammaṇaṃ nahetuñca maggādhipatiṃ nahetuñca dhammaṃ paṭicca maggārammaṇo nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṃ nahetuñca maggādhipatiṃ nahetuñca dhammaṃ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṃ nahetuñca maggādhipatiṃ nahetuñca dhammaṃ paṭicca maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3)
+750\. Maggārammaṇaṁ nahetuñca maggādhipatiṁ nahetuñca dhammaṁ paṭicca maggārammaṇo nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṁ nahetuñca maggādhipatiṁ nahetuñca dhammaṁ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggārammaṇaṁ nahetuñca maggādhipatiṁ nahetuñca dhammaṁ paṭicca maggārammaṇo nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3)
 
-751\. Maggahetukaṃ nahetuñca maggādhipatiṃ nahetuñca dhammaṃ paṭicca maggahetuko nahetu dhammo uppajjati hetupaccayā. Maggahetukaṃ nahetuñca maggādhipatiṃ nahetuñca dhammaṃ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggahetukaṃ nahetuñca maggādhipatiṃ nahetuñca dhammaṃ paṭicca maggahetuko nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṃkhittaṃ.)
+751\. Maggahetukaṁ nahetuñca maggādhipatiṁ nahetuñca dhammaṁ paṭicca maggahetuko nahetu dhammo uppajjati hetupaccayā. Maggahetukaṁ nahetuñca maggādhipatiṁ nahetuñca dhammaṁ paṭicca maggādhipati nahetu dhammo uppajjati hetupaccayā. Maggahetukaṁ nahetuñca maggādhipatiṁ nahetuñca dhammaṁ paṭicca maggahetuko nahetu ca maggādhipati nahetu ca dhammā uppajjanti hetupaccayā. (3) (Saṁkhittaṁ.)
 
 (198.)
 
-752\. Hetuyā sattarasa, ārammaṇe sattarasa…pe…  avigate sattarasa. (Saṃkhittaṃ.)
+752\. Hetuyā sattarasa, ārammaṇe sattarasa…pe… avigate sattarasa. (Saṁkhittaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Paccanīya)](../Paccaniya.md)
-
 

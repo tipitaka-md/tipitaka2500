@@ -17,18 +17,17 @@
 
 (37.)
 
-1191\. Kusalaṃ lokuttaraṃ dhammaṃ paṭicca kusalo lokuttaro dhammo uppajjati hetupaccayā. (1)
+1191\. Kusalaṁ lokuttaraṁ dhammaṁ paṭicca kusalo lokuttaro dhammo uppajjati hetupaccayā. (1)
 
-1192\. Abyākataṃ lokuttaraṃ dhammaṃ paṭicca abyākato lokuttaro dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+1192\. Abyākataṁ lokuttaraṁ dhammaṁ paṭicca abyākato lokuttaro dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
 (38.)
 
-1193\. Hetuyā dve, ārammaṇe dve, adhipatiyā dve…pe…  āsevane vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ.)
+1193\. Hetuyā dve, ārammaṇe dve, adhipatiyā dve…pe… āsevane vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ.)
 
-1194\. Naadhipatiyā dve…pe…  naāsevane nakamme navipāke ekaṃ, navippayutte dve. (Saṃkhittaṃ.)
+1194\. Naadhipatiyā dve…pe… naāsevane nakamme navipāke ekaṁ, navippayutte dve. (Saṁkhittaṁ.)
 
-1195\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ.)
+1195\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ.)
 
 [Go to previous page (Paccayacatukka)](../Paccayacatukka.md) / [Go to parent page (Paccayacatukka)](../Paccayacatukka.md) / [Go to next page (Hetu-ārammaṇādi)](Hetu-arammanadi.md)
-
 

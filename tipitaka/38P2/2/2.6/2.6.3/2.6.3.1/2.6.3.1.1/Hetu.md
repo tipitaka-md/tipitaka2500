@@ -17,22 +17,21 @@
 
 (140.)
 
-867\. Lokiyaṃ dhammaṃ paccayā lokiyo dhammo uppajjati hetupaccayā—  lokiyaṃ ekaṃ khandhaṃ paccayā…pe…  ekaṃ mahābhūtaṃ…pe…  mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ, kaṭattārūpaṃ, upādārūpaṃ, vatthuṃ paccayā lokiyā khandhā. (1)
+867\. Lokiyaṁ dhammaṁ paccayā lokiyo dhammo uppajjati hetupaccayā— lokiyaṁ ekaṁ khandhaṁ paccayā…pe… ekaṁ mahābhūtaṁ…pe… mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ, kaṭattārūpaṁ, upādārūpaṁ, vatthuṁ paccayā lokiyā khandhā. (1)
 
-868\. Lokiyaṃ dhammaṃ paccayā lokuttaro dhammo uppajjati hetupaccayā—  vatthuṃ paccayā lokuttarā khandhā. (2)
+868\. Lokiyaṁ dhammaṁ paccayā lokuttaro dhammo uppajjati hetupaccayā— vatthuṁ paccayā lokuttarā khandhā. (2)
 
-869\. Lokiyaṃ dhammaṃ paccayā lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā—  vatthuṃ paccayā lokuttarā khandhā, mahābhūte paccayā cittasamuṭṭhānaṃ rūpaṃ. (3)
+869\. Lokiyaṁ dhammaṁ paccayā lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā— vatthuṁ paccayā lokuttarā khandhā, mahābhūte paccayā cittasamuṭṭhānaṁ rūpaṁ. (3)
 
 (141.)
 
-870\. Lokuttaraṃ dhammaṃ paccayā lokuttaro dhammo uppajjati hetupaccayā…  tīṇi.
+870\. Lokuttaraṁ dhammaṁ paccayā lokuttaro dhammo uppajjati hetupaccayā… tīṇi.
 
-871\. Lokiyañca lokuttarañca dhammaṃ paccayā lokiyo dhammo uppajjati hetupaccayā—  lokuttare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (1)
+871\. Lokiyañca lokuttarañca dhammaṁ paccayā lokiyo dhammo uppajjati hetupaccayā— lokuttare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-872\. Lokiyañca lokuttarañca dhammaṃ paccayā lokuttaro dhammo uppajjati hetupaccayā—  lokuttaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe… . (2)
+872\. Lokiyañca lokuttarañca dhammaṁ paccayā lokuttaro dhammo uppajjati hetupaccayā— lokuttaraṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… . (2)
 
-873\. Lokiyañca lokuttarañca dhammaṃ paccayā lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā—  lokuttaraṃ ekaṃ khandhañca vatthuñca paccayā tayo khandhā…pe…  dve khandhe…pe…  lokuttare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṃ rūpaṃ. (Saṃkhittaṃ.) (3)
+873\. Lokiyañca lokuttarañca dhammaṁ paccayā lokiyo ca lokuttaro ca dhammā uppajjanti hetupaccayā— lokuttaraṁ ekaṁ khandhañca vatthuñca paccayā tayo khandhā…pe… dve khandhe…pe… lokuttare khandhe ca mahābhūte ca paccayā cittasamuṭṭhānaṁ rūpaṁ. (Saṁkhittaṁ.) (3)
 
-[Go to previous page (2.6.3.1.1 Vibhaṅgavāra)](../2.6.3.1.1.md) / [Go to parent page (2.6.3.1.1 Vibhaṅgavāra)](../2.6.3.1.1.md) / [Go to next page (2.6.3.1.2 Saṅkhyāvāra)](../2.6.3.1.2.md)
-
+[Go to previous page (2.6.3.1.1 Vibhaṅgavāra)](../2.6.3.1.1.md) / [Go to parent page (2.6.3.1.1 Vibhaṅgavāra)](../2.6.3.1.1.md) / [Go to next page (2.6.3.1.2 Saṅkhyāvāra)](../2.6.3.1.2.md)
 

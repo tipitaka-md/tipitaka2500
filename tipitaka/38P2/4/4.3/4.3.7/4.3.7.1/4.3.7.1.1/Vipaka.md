@@ -17,8 +17,7 @@
 
 (84.)
 
-1527\. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa vipākapaccayena paccayo…  ekaṃ.
+1527\. Saññojanavippayutto dhammo saññojanavippayuttassa dhammassa vipākapaccayena paccayo… ekaṁ.
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (4.3.7.1.1 Vibhaṅgavāra)](../4.3.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

@@ -15,8 +15,7 @@
 
 (28.)
 
-845\. Nevadassanena nabhāvanāya pahātabbaṃ…pe…  namaggapaccayā—  ahetukaṃ nevadassanena nabhāvanāya pahātabbaṃ…pe…  ahetukapaṭisandhikkhaṇe…pe…  ekaṃ mahābhūtaṃ…pe…  bāhiraṃ…  āhārasamuṭṭhānaṃ…  utusamuṭṭhānaṃ…  asaññasattānaṃ ekaṃ mahābhūtaṃ…pe… .
+845\. Nevadassanena nabhāvanāya pahātabbaṁ…pe… namaggapaccayā— ahetukaṁ nevadassanena nabhāvanāya pahātabbaṁ…pe… ahetukapaṭisandhikkhaṇe…pe… ekaṁ mahābhūtaṁ…pe… bāhiraṁ… āhārasamuṭṭhānaṁ… utusamuṭṭhānaṁ… asaññasattānaṁ ekaṁ mahābhūtaṁ…pe… .
 
-[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
-
+[Go to previous page (Najhāna)](Najhana.md) / [Go to parent page (9.1.2.1 Vibhaṅgavāra)](../9.1.2.1.md) / [Go to next page (Nasampayutta)](Nasampayutta.md)
 

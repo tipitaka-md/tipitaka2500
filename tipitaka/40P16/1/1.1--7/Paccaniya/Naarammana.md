@@ -13,12 +13,11 @@
 
 (2.)
 
-6\. Kusalaṃ hetuṃ dhammaṃ paṭicca nakusalo nahetu dhammo uppajjati naārammaṇapaccayā. (Saṃkhittaṃ.)
+6\. Kusalaṁ hetuṁ dhammaṁ paṭicca nakusalo nahetu dhammo uppajjati naārammaṇapaccayā. (Saṁkhittaṁ.)
 
-7\. Naārammaṇe nava, naadhipatiyā terasa…pe…  napurejāte terasa…pe…  navippayutte nava…pe…  novigate nava.
+7\. Naārammaṇe nava, naadhipatiyā terasa…pe… napurejāte terasa…pe… navippayutte nava…pe… novigate nava.
 
-8\. (Sahajātavārampi…pe…  sampayuttavārampi paṭiccavārasadisaṃ vitthāretabbaṃ.)
+8\. (Sahajātavārampi…pe… sampayuttavārampi paṭiccavārasadisaṁ vitthāretabbaṁ.)
 
 [Go to previous page (Paccanīya)](../Paccaniya.md) / [Go to parent page (Paccanīya)](../Paccaniya.md) / [Go to next page (Hetu-ārammaṇa)](Hetu-arammana.md)
-
 

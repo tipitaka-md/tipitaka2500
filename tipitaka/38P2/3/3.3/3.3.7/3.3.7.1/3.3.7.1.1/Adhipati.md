@@ -17,18 +17,17 @@
 
 (80.)
 
-1189\. Āsavasampayutto dhammo āsavasampayuttassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  āsavasampayutte khandhe garuṃ katvā āsavasampayuttakā khandhā uppajjanti. **Sahajātādhipati**—  āsavasampayuttādhipati sampayuttakānaṃ khandhānaṃ adhipatipaccayena paccayo. (1)
+1189\. Āsavasampayutto dhammo āsavasampayuttassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— āsavasampayutte khandhe garuṁ katvā āsavasampayuttakā khandhā uppajjanti. Sahajātādhipati— āsavasampayuttādhipati sampayuttakānaṁ khandhānaṁ adhipatipaccayena paccayo. (1)
 
-1190\. Āsavasampayutto dhammo āsavavippayuttassa dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  āsavasampayuttādhipati cittasamuṭṭhānānaṃ rūpānaṃ adhipatipaccayena paccayo; domanassasahagatādhipati mohassa cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (2)
+1190\. Āsavasampayutto dhammo āsavavippayuttassa dhammassa adhipatipaccayena paccayo. Sahajātādhipati— āsavasampayuttādhipati cittasamuṭṭhānānaṁ rūpānaṁ adhipatipaccayena paccayo; domanassasahagatādhipati mohassa cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (2)
 
-1191\. Āsavasampayutto dhammo āsavasampayuttassa ca āsavavippayuttassa ca dhammassa adhipatipaccayena paccayo. **Sahajātādhipati**—  āsavasampayuttādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo; domanassasahagatādhipati sampayuttakānaṃ khandhānaṃ mohassa ca cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (3)
+1191\. Āsavasampayutto dhammo āsavasampayuttassa ca āsavavippayuttassa ca dhammassa adhipatipaccayena paccayo. Sahajātādhipati— āsavasampayuttādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo; domanassasahagatādhipati sampayuttakānaṁ khandhānaṁ mohassa ca cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (3)
 
 (81.)
 
-1192\. Āsavavippayutto dhammo āsavavippayuttassa dhammassa adhipatipaccayena paccayo—  ārammaṇādhipati, sahajātādhipati. **Ārammaṇādhipati**—  dānaṃ datvā, sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā paccavekkhati; pubbe suciṇṇāni…pe…  jhānā…pe…  ariyā maggā vuṭṭhahitvā maggaṃ…pe…  phalaṃ…pe…  nibbānaṃ garuṃ katvā paccavekkhanti; nibbānaṃ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. **Sahajātādhipati**—  āsavavippayuttādhipati sampayuttakānaṃ khandhānaṃ cittasamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo. (1)
+1192\. Āsavavippayutto dhammo āsavavippayuttassa dhammassa adhipatipaccayena paccayo— ārammaṇādhipati, sahajātādhipati. Ārammaṇādhipati— dānaṁ datvā, sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā paccavekkhati; pubbe suciṇṇāni…pe… jhānā…pe… ariyā maggā vuṭṭhahitvā maggaṁ…pe… phalaṁ…pe… nibbānaṁ garuṁ katvā paccavekkhanti; nibbānaṁ gotrabhussa, vodānassa, maggassa, phalassa adhipatipaccayena paccayo. Sahajātādhipati— āsavavippayuttādhipati sampayuttakānaṁ khandhānaṁ cittasamuṭṭhānānañca rūpānaṁ adhipatipaccayena paccayo. (1)
 
-1193\. Āsavavippayutto dhammo āsavasampayuttassa dhammassa adhipatipaccayena paccayo. **Ārammaṇādhipati**—  dānaṃ datvā sīlaṃ…pe…  uposathakammaṃ katvā taṃ garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe…  jhānā…pe…  cakkhuṃ…pe…  vatthuṃ āsavavippayutte khandhe garuṃ katvā assādeti abhinandati, taṃ garuṃ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
+1193\. Āsavavippayutto dhammo āsavasampayuttassa dhammassa adhipatipaccayena paccayo. Ārammaṇādhipati— dānaṁ datvā sīlaṁ…pe… uposathakammaṁ katvā taṁ garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati, pubbe suciṇṇāni…pe… jhānā…pe… cakkhuṁ…pe… vatthuṁ āsavavippayutte khandhe garuṁ katvā assādeti abhinandati, taṁ garuṁ katvā rāgo uppajjati, diṭṭhi uppajjati. (2)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (3.3.7.1.1 Vibhaṅgavāra)](../3.3.7.1.1.md) / [Go to next page (Anantara)](Anantara.md)
 

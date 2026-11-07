@@ -39,26 +39,25 @@
 
 (83.)
 
-269\. Savitakkasavicāro hetu dhammo savitakkasavicārassa hetussa dhammassa anantarapaccayena paccayo…  tīṇi.
+269\. Savitakkasavicāro hetu dhammo savitakkasavicārassa hetussa dhammassa anantarapaccayena paccayo… tīṇi.
 
-270\. Avitakkavicāramatto hetu dhammo avitakkavicāramattassa hetussa dhammassa anantarapaccayena paccayo…  tīṇi.
+270\. Avitakkavicāramatto hetu dhammo avitakkavicāramattassa hetussa dhammassa anantarapaccayena paccayo… tīṇi.
 
-271\. Avitakkaavicāro hetu dhammo avitakkaavicārassa hetussa dhammassa anantarapaccayena paccayo…  tīṇi…pe… .
+271\. Avitakkaavicāro hetu dhammo avitakkaavicārassa hetussa dhammassa anantarapaccayena paccayo… tīṇi…pe… .
 
-272\. Savitakkasavicāro hetu dhammo savitakkasavicārassa hetussa dhammassa upanissayapaccayena paccayo…  nava. (Saṃkhittaṃ.)
+272\. Savitakkasavicāro hetu dhammo savitakkasavicārassa hetussa dhammassa upanissayapaccayena paccayo… nava. (Saṁkhittaṁ.)
 
 (84.)
 
-273\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā pañca, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane pañca, vipāke tīṇi…pe…  avigate tīṇi.
+273\. Hetuyā tīṇi, ārammaṇe cha, adhipatiyā pañca, anantare nava, samanantare nava, sahajāte tīṇi, aññamaññe tīṇi, nissaye tīṇi, upanissaye nava, āsevane pañca, vipāke tīṇi…pe… avigate tīṇi.
 
-274\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+274\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-275\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+275\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-276\. Nahetupaccayā ārammaṇe cha. (Saṃkhittaṃ.)
+276\. Nahetupaccayā ārammaṇe cha. (Saṁkhittaṁ.)
 
-277\. (Yathā kusalattike pañhāvāraṃ, evaṃ vitthāretabbaṃ.)
+277\. (Yathā kusalattike pañhāvāraṁ, evaṁ vitthāretabbaṁ.)
 
-[Go to previous page (1.6.1.7 Pañhāvāra)](../1.6.1.7.md) / [Go to parent page (1.6.1.7 Pañhāvāra)](../1.6.1.7.md) / [Go to next page (1.6.2 Nahetupada)](../../1.6.2.md)
-
+[Go to previous page (1.6.1.7 Pañhāvāra)](../1.6.1.7.md) / [Go to parent page (1.6.1.7 Pañhāvāra)](../1.6.1.7.md) / [Go to next page (1.6.2 Nahetupada)](../../1.6.2.md)
 

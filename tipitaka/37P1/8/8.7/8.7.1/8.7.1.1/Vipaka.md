@@ -15,10 +15,9 @@
 
 (43.)
 
-758\. Pītisahagato dhammo pītisahagatassa dhammassa vipākapaccayena paccayo—  pītisahagato vipāko eko khandho tiṇṇannaṃ khandhānaṃ vipākapaccayena paccayo…pe…  dve khandhā dvinnaṃ khandhānaṃ…pe…  paṭisandhikkhaṇe pītisahagato eko khandho tiṇṇannaṃ khandhānaṃ…pe…  dve khandhā dvinnaṃ khandhānaṃ…pe… .
+758\. Pītisahagato dhammo pītisahagatassa dhammassa vipākapaccayena paccayo— pītisahagato vipāko eko khandho tiṇṇannaṁ khandhānaṁ vipākapaccayena paccayo…pe… dve khandhā dvinnaṁ khandhānaṁ…pe… paṭisandhikkhaṇe pītisahagato eko khandho tiṇṇannaṁ khandhānaṁ…pe… dve khandhā dvinnaṁ khandhānaṁ…pe… .
 
-759\. (Yathā paṭiccavāre hetupaccaye evaṃ vitthāretabbā dasa pañhā.)
+759\. (Yathā paṭiccavāre hetupaccaye evaṁ vitthāretabbā dasa pañhā.)
 
-[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../8.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
-
+[Go to previous page (Kamma)](Kamma.md) / [Go to parent page (8.7.1.1 Vibhaṅgavāra)](../8.7.1.1.md) / [Go to next page (Āhārādi)](Aharadi.md)
 

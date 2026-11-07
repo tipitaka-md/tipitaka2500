@@ -15,12 +15,11 @@
 
 (26.)
 
-2319\. Micchattaniyataṃ dhammaṃ saṃsaṭṭho micchattaniyato dhammo uppajjati hetupaccayā—  micchattaniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
+2319\. Micchattaniyataṁ dhammaṁ saṁsaṭṭho micchattaniyato dhammo uppajjati hetupaccayā— micchattaniyataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2320\. Sammattaniyataṃ dhammaṃ saṃsaṭṭho sammattaniyato dhammo uppajjati hetupaccayā—  sammattaniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe… . (1)
+2320\. Sammattaniyataṁ dhammaṁ saṁsaṭṭho sammattaniyato dhammo uppajjati hetupaccayā— sammattaniyataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… . (1)
 
-2321\. Aniyataṃ dhammaṃ saṃsaṭṭho aniyato dhammo uppajjati hetupaccayā—  aniyataṃ ekaṃ khandhaṃ saṃsaṭṭhā tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+2321\. Aniyataṁ dhammaṁ saṁsaṭṭho aniyato dhammo uppajjati hetupaccayā— aniyataṁ ekaṁ khandhaṁ saṁsaṭṭhā tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-[Go to previous page (16.5.1.1 Vibhaṅgavāra)](../16.5.1.1.md) / [Go to parent page (16.5.1.1 Vibhaṅgavāra)](../16.5.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
-
+[Go to previous page (16.5.1.1 Vibhaṅgavāra)](../16.5.1.1.md) / [Go to parent page (16.5.1.1 Vibhaṅgavāra)](../16.5.1.1.md) / [Go to next page (Ārammaṇādi)](Arammanadi.md)
 

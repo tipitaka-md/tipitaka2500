@@ -15,14 +15,9 @@
 
 (301.)
 
-1002\. Kusalo dhammo kusalassa dhammassa vigatapaccayena paccayo—  purimā purimā kusalā khandhā pacchimānaṃ pacchimānaṃ kusalānaṃ khandhānaṃ vigatapaccayena paccayo. (Saṃkhittaṃ.)
+1002\. Kusalo dhammo kusalassa dhammassa vigatapaccayena paccayo— purimā purimā kusalā khandhā pacchimānaṁ pacchimānaṁ kusalānaṁ khandhānaṁ vigatapaccayena paccayo. (Saṁkhittaṁ.)
 
----
+1003\. (Yathā anantarapaccayaṁ, evaṁ vitthāretabbaṁ.)
 
-1003\. (Yathā anantarapaccayaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Natthi)](Natthi.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Avigata)](Avigata.md)
-
+[Go to previous page (Natthi)](Natthi.md) / [Go to parent page (2.7.1.1 Vibhaṅgavāra)](../2.7.1.1.md) / [Go to next page (Avigata)](Avigata.md)
 

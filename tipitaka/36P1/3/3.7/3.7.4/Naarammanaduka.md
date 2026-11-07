@@ -13,8 +13,7 @@
 
 (89.)
 
-2033\. Naārammaṇapaccayā hetuyā tīṇi…pe…  kamme aṭṭha…pe…  avigate tīṇi…pe… .
+2033\. Naārammaṇapaccayā hetuyā tīṇi…pe… kamme aṭṭha…pe… avigate tīṇi…pe… .
 
-[Go to previous page (Catuvīsaka (sakamma))](Nahetuduka/Catuvisaka_sakamma.md) / [Go to parent page (3.7.4 Paccayapaccanīyānuloma)](../3.7.4.md) / [Go to next page (Noavigataduka)](Noavigataduka.md)
-
+[Go to previous page (Catuvīsaka (sakamma))](Nahetuduka/Catuvisaka_sakamma.md) / [Go to parent page (3.7.4 Paccayapaccanīyānuloma)](../3.7.4.md) / [Go to next page (Noavigataduka)](Noavigataduka.md)
 

@@ -17,14 +17,9 @@
 
 (27.)
 
-180\. Hetupaccayā ārammaṇapaccayā…pe…  purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigate ekaṃ.
-
----
+180\. Hetupaccayā ārammaṇapaccayā…pe… purejātapaccayā kammapaccayā vipākapaccayā āhārapaccayā indriyapaccayā jhānapaccayā maggapaccayā sampayuttapaccayā vippayuttapaccayā atthipaccayā natthipaccayā vigatapaccayā avigate ekaṁ.
 
 181\. Gaṇanā hetumūlakā.
 
-
-
-[Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to next page (Ārammaṇadukādi)](../Arammanadukadi.md)
-
+[Go to previous page (Terasaka)](Terasaka.md) / [Go to parent page (Gaṇanā hetumūlakā)](../Ganana+hetumulaka.md) / [Go to next page (Ārammaṇadukādi)](../Arammanadukadi.md)
 

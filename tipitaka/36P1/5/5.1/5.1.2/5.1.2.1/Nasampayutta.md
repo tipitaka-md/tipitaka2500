@@ -15,8 +15,7 @@
 
 (23.)
 
-2505\. Upādinnupādāniyaṃ dhammaṃ paṭicca upādinnupādāniyo dhammo uppajjati nasampayuttapaccayā. (Naārammaṇapaccayasadisaṃ.)
+2505\. Upādinnupādāniyaṁ dhammaṁ paṭicca upādinnupādāniyo dhammo uppajjati nasampayuttapaccayā. (Naārammaṇapaccayasadisaṁ.)
 
-[Go to previous page (Namagga)](Namagga.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
-
+[Go to previous page (Namagga)](Namagga.md) / [Go to parent page (5.1.2.1 Vibhaṅgavāra)](../5.1.2.1.md) / [Go to next page (Navippayutta)](Navippayutta.md)
 

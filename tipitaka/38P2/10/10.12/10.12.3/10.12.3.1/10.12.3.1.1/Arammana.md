@@ -17,16 +17,15 @@
 
 (334.)
 
-3140\. Ajjhattikaṃ dhammaṃ paccayā ajjhattiko dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ…pe… . Ajjhattikaṃ dhammaṃ paccayā bāhiro dhammo uppajjati ārammaṇapaccayā—  cakkhāyatanañca cakkhuviññāṇañca paccayā cakkhuviññāṇasahagatā khandhā…pe…  kāyāyatanañca…pe…  cittaṃ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . Ajjhattikaṃ dhammaṃ paccayā ajjhattiko ca bāhiro ca dhammā uppajjanti ārammaṇapaccayā—  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ sampayuttakā ca khandhā…pe…  kāyāyatanaṃ…pe… . (3)
+3140\. Ajjhattikaṁ dhammaṁ paccayā ajjhattiko dhammo uppajjati ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ…pe… . Ajjhattikaṁ dhammaṁ paccayā bāhiro dhammo uppajjati ārammaṇapaccayā— cakkhāyatanañca cakkhuviññāṇañca paccayā cakkhuviññāṇasahagatā khandhā…pe… kāyāyatanañca…pe… cittaṁ paccayā sampayuttakā khandhā; paṭisandhikkhaṇe…pe… . Ajjhattikaṁ dhammaṁ paccayā ajjhattiko ca bāhiro ca dhammā uppajjanti ārammaṇapaccayā— cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ sampayuttakā ca khandhā…pe… kāyāyatanaṁ…pe… . (3)
 
-3141\. Bāhiraṃ dhammaṃ paccayā bāhiro dhammo uppajjati ārammaṇapaccayā—  bāhiraṃ ekaṃ khandhaṃ paccayā dve khandhā, dve khandhe…pe…  paṭisandhikkhaṇe…pe…  vatthuṃ paccayā bāhirā khandhā. Bāhiraṃ dhammaṃ paccayā ajjhattiko dhammo uppajjati ārammaṇapaccayā—  bāhire khandhe paccayā cittaṃ, vatthuṃ paccayā cittaṃ (paṭisandhikkhaṇe dvepi kātabbā). Bāhiraṃ dhammaṃ paccayā ajjhattiko ca bāhiro ca dhammā uppajjanti ārammaṇapaccayā—  vatthuṃ paccayā cittañca sampayuttakā ca khandhā. (Paṭisandhikkhaṇe ekaṃ kātabbaṃ.) (3)
+3141\. Bāhiraṁ dhammaṁ paccayā bāhiro dhammo uppajjati ārammaṇapaccayā— bāhiraṁ ekaṁ khandhaṁ paccayā dve khandhā, dve khandhe…pe… paṭisandhikkhaṇe…pe… vatthuṁ paccayā bāhirā khandhā. Bāhiraṁ dhammaṁ paccayā ajjhattiko dhammo uppajjati ārammaṇapaccayā— bāhire khandhe paccayā cittaṁ, vatthuṁ paccayā cittaṁ (paṭisandhikkhaṇe dvepi kātabbā). Bāhiraṁ dhammaṁ paccayā ajjhattiko ca bāhiro ca dhammā uppajjanti ārammaṇapaccayā— vatthuṁ paccayā cittañca sampayuttakā ca khandhā. (Paṭisandhikkhaṇe ekaṁ kātabbaṁ.) (3)
 
 (335.)
 
-3142\. Ajjhattikañca bāhirañca dhammaṃ paccayā ajjhattiko dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṃ…pe…  kāyaviññāṇasahagate…pe… .
+3142\. Ajjhattikañca bāhirañca dhammaṁ paccayā ajjhattiko dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagate khandhe ca cakkhāyatanañca paccayā cakkhuviññāṇaṁ…pe… kāyaviññāṇasahagate…pe… .
 
-3143\. Ajjhattikañca bāhirañca dhammaṃ paccayā bāhiro dhammo uppajjati ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca cakkhuviññāṇañca paccayā dve khandhā, dve khandhe…pe…  kāyaviññāṇasahagataṃ…pe…  bāhiraṃ ekaṃ khandhañca cittañca paccayā dve khandhā, dve khandhe…pe…  cittañca vatthuñca paccayā bāhirā khandhā (paṭisandhikkhaṇe dvepi kātabbā). Ajjhattikañca bāhirañca dhammaṃ paccayā ajjhattiko ca bāhiro ca dhammā uppajjanti ārammaṇapaccayā—  cakkhuviññāṇasahagataṃ ekaṃ khandhañca cakkhāyatanañca paccayā dve khandhā cakkhuviññāṇañca, dve khandhe…pe…  (Saṃkhittaṃ.) (3)
+3143\. Ajjhattikañca bāhirañca dhammaṁ paccayā bāhiro dhammo uppajjati ārammaṇapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca cakkhuviññāṇañca paccayā dve khandhā, dve khandhe…pe… kāyaviññāṇasahagataṁ…pe… bāhiraṁ ekaṁ khandhañca cittañca paccayā dve khandhā, dve khandhe…pe… cittañca vatthuñca paccayā bāhirā khandhā (paṭisandhikkhaṇe dvepi kātabbā). Ajjhattikañca bāhirañca dhammaṁ paccayā ajjhattiko ca bāhiro ca dhammā uppajjanti ārammaṇapaccayā— cakkhuviññāṇasahagataṁ ekaṁ khandhañca cakkhāyatanañca paccayā dve khandhā cakkhuviññāṇañca, dve khandhe…pe… (Saṁkhittaṁ.) (3)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.12.3.1.1 Vibhaṅgavāra)](../10.12.3.1.1.md) / [Go to next page (10.12.3.1.2 Saṅkhyāvāra)](../10.12.3.1.2.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.12.3.1.1 Vibhaṅgavāra)](../10.12.3.1.1.md) / [Go to next page (10.12.3.1.2 Saṅkhyāvāra)](../10.12.3.1.2.md)
 

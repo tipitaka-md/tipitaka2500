@@ -17,14 +17,13 @@
 
 (174.)
 
-4458\. Nasukhasahagato dhammo nasukhasahagatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ nasukhasahagatena cittena aniccato…pe…  vipassati assādeti abhinandati, taṃ ārabbha nasukhasahagato rāgo uppajjati…pe…  domanassaṃ uppajjati, sukhaṃ uppajjati, dibbena cakkhunā rūpaṃ passati…pe…  phoṭṭhabbāyatanaṃ kāyaviññāṇassa…pe… . **Vatthupurejātaṃ**—  cakkhāyatanaṃ cakkhuviññāṇassa…pe…  kāyāyatanaṃ kāyaviññāṇassa…pe…  vatthu nasukhasahagatānaṃ khandhānaṃ sukhassa ca purejātapaccayena paccayo. (1)
+4458\. Nasukhasahagato dhammo nasukhasahagatassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ nasukhasahagatena cittena aniccato…pe… vipassati assādeti abhinandati, taṁ ārabbha nasukhasahagato rāgo uppajjati…pe… domanassaṁ uppajjati, sukhaṁ uppajjati, dibbena cakkhunā rūpaṁ passati…pe… phoṭṭhabbāyatanaṁ kāyaviññāṇassa…pe… . Vatthupurejātaṁ— cakkhāyatanaṁ cakkhuviññāṇassa…pe… kāyāyatanaṁ kāyaviññāṇassa…pe… vatthu nasukhasahagatānaṁ khandhānaṁ sukhassa ca purejātapaccayena paccayo. (1)
 
-4459\. Nasukhasahagato dhammo sukhasahagatassa dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ sukhasahagatena cittena aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha sukhasahagato rāgo uppajjati, diṭṭhi uppajjati. **Vatthupurejātaṃ**—  vatthu sukhasahagatānaṃ khandhānaṃ purejātapaccayena paccayo. (2)
+4459\. Nasukhasahagato dhammo sukhasahagatassa dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ sukhasahagatena cittena aniccato…pe… vipassati, assādeti abhinandati, taṁ ārabbha sukhasahagato rāgo uppajjati, diṭṭhi uppajjati. Vatthupurejātaṁ— vatthu sukhasahagatānaṁ khandhānaṁ purejātapaccayena paccayo. (2)
 
-4460\. Nasukhasahagato dhammo sukhasahagatassa ca nasukhasahagatassa ca dhammassa purejātapaccayena paccayo—  ārammaṇapurejātaṃ, vatthupurejātaṃ. **Ārammaṇapurejātaṃ**—  cakkhuṃ…pe…  vatthuṃ sukhasahagatena cittena aniccato…pe…  vipassati, assādeti abhinandati, taṃ ārabbha sukhañca sampayuttakā khandhā ca uppajjanti. **Vatthupurejātaṃ**—  vatthu sukhasahagatānaṃ khandhānaṃ sukhassa ca purejātapaccayena paccayo. (3)
+4460\. Nasukhasahagato dhammo sukhasahagatassa ca nasukhasahagatassa ca dhammassa purejātapaccayena paccayo— ārammaṇapurejātaṁ, vatthupurejātaṁ. Ārammaṇapurejātaṁ— cakkhuṁ…pe… vatthuṁ sukhasahagatena cittena aniccato…pe… vipassati, assādeti abhinandati, taṁ ārabbha sukhañca sampayuttakā khandhā ca uppajjanti. Vatthupurejātaṁ— vatthu sukhasahagatānaṁ khandhānaṁ sukhassa ca purejātapaccayena paccayo. (3)
 
-4461\. Pacchājātapaccayena paccayo…  tīṇi…  āsevanapaccayena paccayo…  nava.
+4461\. Pacchājātapaccayena paccayo… tīṇi… āsevanapaccayena paccayo… nava.
 
-[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.9.7.1--4.1 Vibhaṅgavāra)](../13.9.7.1--4.1.md) / [Go to next page (Kammādi)](Kammadi.md)
-
+[Go to previous page (Upanissaya)](Upanissaya.md) / [Go to parent page (13.9.7.1--4.1 Vibhaṅgavāra)](../13.9.7.1--4.1.md) / [Go to next page (Kammādi)](Kammadi.md)
 

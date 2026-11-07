@@ -15,14 +15,9 @@
 
 (149.)
 
-541\. Abyākataṃ dhammaṃ paccayā abyākato dhammo uppajjati naāhārapaccayā…  naindriyapaccayā…  najhānapaccayā…pe…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ. (Na jhāne idaṃ nānākaraṇaṃ.) Namaggapaccayā…  cakkhāyatanaṃ paccayā cakkhuviññāṇaṃ…pe…  kāyāyatanaṃ paccayā kāyaviññāṇaṃ. Vatthuṃ paccayā ahetukavipākābyākatā kiriyābyākatā khandhā. (Namagge idaṃ nānākaraṇaṃ.)
+541\. Abyākataṁ dhammaṁ paccayā abyākato dhammo uppajjati naāhārapaccayā… naindriyapaccayā… najhānapaccayā…pe… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ. (Na jhāne idaṁ nānākaraṇaṁ.) Namaggapaccayā… cakkhāyatanaṁ paccayā cakkhuviññāṇaṁ…pe… kāyāyatanaṁ paccayā kāyaviññāṇaṁ. Vatthuṁ paccayā ahetukavipākābyākatā kiriyābyākatā khandhā. (Namagge idaṁ nānākaraṇaṁ.)
 
----
+542\. (Avasesaṁ yathā paṭiccavāre paccanīyaṁ, evaṁ vitthāretabbaṁ.)
 
-542\. (Avasesaṃ yathā paṭiccavāre paccanīyaṃ, evaṃ vitthāretabbaṃ.)
-
-
-
-[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Nasampayuttādi)](Nasampayuttadi.md)
-
+[Go to previous page (Navipāka)](Navipaka.md) / [Go to parent page (2.3.2.1 Vibhaṅgavāra)](../2.3.2.1.md) / [Go to next page (Nasampayuttādi)](Nasampayuttadi.md)
 

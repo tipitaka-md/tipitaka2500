@@ -15,14 +15,9 @@
 
 * Tika
 
-276\. Novigatapaccayā nahetupaccayā naārammaṇe ekaṃ, naadhipatiyā ekaṃ (sabbattha ekaṃ) navippayutte ekaṃ, nonatthiyā ekaṃ…pe… .
+276\. Novigatapaccayā nahetupaccayā naārammaṇe ekaṁ, naadhipatiyā ekaṁ (sabbattha ekaṁ) navippayutte ekaṁ, nonatthiyā ekaṁ…pe… .
 
----
+277\. Paccanīyaṁ
 
-277\. Paccanīyaṃ
-
-
-
-[Go to previous page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to parent page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to next page (2.1.3 Paccayānulomapaccanīya)](../../../2.1.3.md)
-
+[Go to previous page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to parent page (Nonatthi-novigataduka)](../Nonatthi-novigataduka.md) / [Go to next page (2.1.3 Paccayānulomapaccanīya)](../../../2.1.3.md)
 

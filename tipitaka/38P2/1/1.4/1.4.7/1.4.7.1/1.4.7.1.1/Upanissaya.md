@@ -17,14 +17,13 @@
 
 (146.)
 
-408\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  hetū hetūnaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Hetū sahetukānañceva na ca hetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ kātabbaṃ.) Hetū hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (Imesaṃ dvinnampi pañhānaṃ mūlāni pucchitabbāni.)
+408\. Hetu ceva sahetuko ca dhammo hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— hetū hetūnaṁ upanissayapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Hetū sahetukānañceva na ca hetūnaṁ khandhānaṁ upanissayapaccayena paccayo. (Mūlaṁ kātabbaṁ.) Hetū hetūnaṁ sampayuttakānañca khandhānaṁ upanissayapaccayena paccayo. (Imesaṁ dvinnampi pañhānaṁ mūlāni pucchitabbāni.)
 
-409\. Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  saddhaṃ upanissāya dānaṃ deti…pe…  samāpattiṃ uppādeti, mānaṃ jappeti, diṭṭhiṃ gaṇhāti, sīlaṃ…pe…  patthanaṃ upanissāya dānaṃ deti…pe…  saṃghaṃ bhindati; saddhā…pe…  patthanā saddhāya…pe…  patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (1)
+409\. Sahetuko ceva na ca hetu dhammo sahetukassa ceva na ca hetussa ca dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— saddhaṁ upanissāya dānaṁ deti…pe… samāpattiṁ uppādeti, mānaṁ jappeti, diṭṭhiṁ gaṇhāti, sīlaṁ…pe… patthanaṁ upanissāya dānaṁ deti…pe… saṁghaṁ bhindati; saddhā…pe… patthanā saddhāya…pe… patthanāya maggassa phalasamāpattiyā upanissayapaccayena paccayo. (1)
 
 410\. (Sahetuko ceva na ca hetumūlake iminākārena vitthāretabbā avasesā dve pañhā.)
 
-411\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo—  ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . **Pakatūpanissayo**—  hetū ca sampayuttakā ca khandhā hetūnaṃ upanissayapaccayena paccayo. (Dve mūlāni pucchitabbāni) Hetū ca sampayuttakā ca khandhā sahetukānañceva na ca hetūnaṃ khandhānaṃ upanissayapaccayena paccayo. (Mūlaṃ pucchitabbaṃ.) Hetū ca sampayuttakā ca khandhā hetūnaṃ sampayuttakānañca khandhānaṃ upanissayapaccayena paccayo. (1)
+411\. Hetu ceva sahetuko ca sahetuko ceva na ca hetu ca dhammā hetussa ceva sahetukassa ca dhammassa upanissayapaccayena paccayo— ārammaṇūpanissayo, anantarūpanissayo, pakatūpanissayo…pe… . Pakatūpanissayo— hetū ca sampayuttakā ca khandhā hetūnaṁ upanissayapaccayena paccayo. (Dve mūlāni pucchitabbāni) Hetū ca sampayuttakā ca khandhā sahetukānañceva na ca hetūnaṁ khandhānaṁ upanissayapaccayena paccayo. (Mūlaṁ pucchitabbaṁ.) Hetū ca sampayuttakā ca khandhā hetūnaṁ sampayuttakānañca khandhānaṁ upanissayapaccayena paccayo. (1)
 
-[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
-
+[Go to previous page (Sahajātādi)](Sahajatadi.md) / [Go to parent page (1.4.7.1.1 Vibhaṅgavāra)](../1.4.7.1.1.md) / [Go to next page (Āsevana)](Asevana.md)
 

@@ -15,14 +15,9 @@
 
 (71.)
 
-194\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve (sabbattha dve), vipāke ekaṃ, āhāre dve, indriye dve, jhāne dve, magge ekaṃ, sampayutte dve…pe…  avigate dve. (Evaṃ gaṇetabbaṃ.)
+194\. Nahetupaccayā ārammaṇe dve, anantare dve, samanantare dve (sabbattha dve), vipāke ekaṁ, āhāre dve, indriye dve, jhāne dve, magge ekaṁ, sampayutte dve…pe… avigate dve. (Evaṁ gaṇetabbaṁ.)
 
----
+195\. Paccanīyānulomaṁ.
 
-195\. Paccanīyānulomaṃ.
-
-
-
-[Go to previous page (1.2.1.4 Paccayapaccanīyānuloma)](../1.2.1.4.md) / [Go to parent page (1.2.1.4 Paccayapaccanīyānuloma)](../1.2.1.4.md) / [Go to next page (1.2.2 Sahajātavāra)](../../1.2.2.md)
-
+[Go to previous page (1.2.1.4 Paccayapaccanīyānuloma)](../1.2.1.4.md) / [Go to parent page (1.2.1.4 Paccayapaccanīyānuloma)](../1.2.1.4.md) / [Go to next page (1.2.2 Sahajātavāra)](../../1.2.2.md)
 

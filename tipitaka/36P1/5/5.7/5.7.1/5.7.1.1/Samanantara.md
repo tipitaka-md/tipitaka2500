@@ -15,8 +15,7 @@
 
 (57.)
 
-2631\. Upādinnupādāniyo dhammo upādinnupādāniyassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayasadisaṃ.)
+2631\. Upādinnupādāniyo dhammo upādinnupādāniyassa dhammassa samanantarapaccayena paccayo. (Anantarapaccayasadisaṁ.)
 
-[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
-
+[Go to previous page (Anantara)](Anantara.md) / [Go to parent page (5.7.1.1 Vibhaṅgavāra)](../5.7.1.1.md) / [Go to next page (Sahajāta)](Sahajata.md)
 

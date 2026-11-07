@@ -15,8 +15,7 @@
 
 (133.)
 
-496\. Kusalaṃ dhammaṃ paccayā kusalo dhammo uppajjati atthipaccayā…pe… . (Atthipaccayā sahajātapaccayasadisaṃ kātabbaṃ. Natthipaccayā vigatapaccayā ārammaṇapaccayasadisaṃ, avigatapaccayā sahajātapaccayasadisaṃ.)
+496\. Kusalaṁ dhammaṁ paccayā kusalo dhammo uppajjati atthipaccayā…pe… . (Atthipaccayā sahajātapaccayasadisaṁ kātabbaṁ. Natthipaccayā vigatapaccayā ārammaṇapaccayasadisaṁ, avigatapaccayā sahajātapaccayasadisaṁ.)
 
-[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md)
-
+[Go to previous page (Vippayutta)](Vippayutta.md) / [Go to parent page (2.3.1.1 Vibhaṅgavāra)](../2.3.1.1.md) / [Go to next page (2.3.1.2 Saṅkhyāvāra)](../2.3.1.2.md)
 

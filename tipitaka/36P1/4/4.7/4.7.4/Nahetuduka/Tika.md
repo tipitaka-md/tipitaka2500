@@ -13,22 +13,13 @@
 
 * Tika
 
-2433\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta…pe…  avigate terasa.
+2433\. Nahetupaccayā naārammaṇapaccayā adhipatiyā satta…pe… avigate terasa.
 
-2434\. (Yathā kusalattike paccanīyānulomagaṇanā vitthāritā, evaṃ vitthāretabbaṃ.)
+2434\. (Yathā kusalattike paccanīyānulomagaṇanā vitthāritā, evaṁ vitthāretabbaṁ.)
 
----
+2435\. Paccanīyānulomaṁ.
 
-2435\. Paccanīyānulomaṃ.
+2436\. Vipākattikaṁ niṭṭhitaṁ.
 
-
-
----
-
-2436\. Vipākattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (5 Upādinnattika)](../../../../5.md)
-
+[Go to previous page (Nahetuduka)](../Nahetuduka.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (5 Upādinnattika)](../../../../5.md)
 

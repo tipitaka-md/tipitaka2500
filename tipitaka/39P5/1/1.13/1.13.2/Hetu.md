@@ -13,12 +13,11 @@
 
 (62.)
 
-205\. Kusalaṃ paṇītaṃ dhammaṃ paṭicca kusalo paṇīto dhammo uppajjati hetupaccayā. (1)
+205\. Kusalaṁ paṇītaṁ dhammaṁ paṭicca kusalo paṇīto dhammo uppajjati hetupaccayā. (1)
 
-206\. Abyākataṃ paṇītaṃ dhammaṃ paṭicca abyākato paṇīto dhammo uppajjati hetupaccayā. (1) (Saṃkhittaṃ.)
+206\. Abyākataṁ paṇītaṁ dhammaṁ paṭicca abyākato paṇīto dhammo uppajjati hetupaccayā. (1) (Saṁkhittaṁ.)
 
-207\. Hetuyā dve…pe…  āsevane ekaṃ…pe…  vipāke ekaṃ…pe…  avigate dve. (Saṃkhittaṃ. Sahajātavārepi…pe…  pañhāvārepi sabbattha vitthāro.)
+207\. Hetuyā dve…pe… āsevane ekaṁ…pe… vipāke ekaṁ…pe… avigate dve. (Saṁkhittaṁ. Sahajātavārepi…pe… pañhāvārepi sabbattha vitthāro.)
 
-[Go to previous page (1.13.2 Paṇītapada)](../1.13.2.md) / [Go to parent page (1.13.2 Paṇītapada)](../1.13.2.md) / [Go to next page (1.14 Kusalattika, Micchattaniyatattika)](../../1.14.md)
-
+[Go to previous page (1.13.2 Paṇītapada)](../1.13.2.md) / [Go to parent page (1.13.2 Paṇītapada)](../1.13.2.md) / [Go to next page (1.14 Kusalattika, Micchattaniyatattika)](../../1.14.md)
 

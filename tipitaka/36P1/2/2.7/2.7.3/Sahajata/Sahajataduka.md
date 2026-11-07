@@ -19,4 +19,3 @@
 
 [Go to previous page (Sahajāta)](../Sahajata.md) / [Go to parent page (Sahajāta)](../Sahajata.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
 
-

@@ -19,4 +19,3 @@
 
 [Go to previous page (Kammasabhāga)](Kammasabhaga.md) / [Go to parent page (Kamma)](../Kamma.md) / [Go to next page (Sahajātaghaṭanā)](Sahajataghatana.md)
 
-

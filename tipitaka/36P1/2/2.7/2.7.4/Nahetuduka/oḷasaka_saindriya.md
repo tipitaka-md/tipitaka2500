@@ -13,8 +13,7 @@
 
 * Soḷasaka (saindriya)
 
-1706\. Nahetupaccayā naārammaṇapaccayā (mūlakaṃ saṃkhittaṃ) navipākapaccayā naindriyapaccayā āhāre ekaṃ, atthiyā ekaṃ, avigate ekaṃ…pe… .
+1706\. Nahetupaccayā naārammaṇapaccayā (mūlakaṁ saṁkhittaṁ) navipākapaccayā naindriyapaccayā āhāre ekaṁ, atthiyā ekaṁ, avigate ekaṁ…pe… .
 
 [Go to previous page (Bāvīsaka (sāhāra))](avisaka_sahara.md) / [Go to parent page (Nahetuduka)](../Nahetuduka.md) / [Go to next page (Bāvīsaka (saindriya))](avisaka_saindriya.md)
-
 

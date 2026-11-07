@@ -15,24 +15,19 @@
 
 (32.)
 
-1528\. Sappaṭigho abyākato dhammo sappaṭighassa abyākatassa dhammassa sahajātapaccayena paccayo. (Saṃkhittaṃ.)
+1528\. Sappaṭigho abyākato dhammo sappaṭighassa abyākatassa dhammassa sahajātapaccayena paccayo. (Saṁkhittaṁ.)
 
 (33.)
 
-1529\. Nahetuyā nava, naārammaṇe nava. (Saṃkhittaṃ.)
+1529\. Nahetuyā nava, naārammaṇe nava. (Saṁkhittaṁ.)
 
-1530\. Hetupaccayā naārammaṇe tīṇi. (Saṃkhittaṃ.)
+1530\. Hetupaccayā naārammaṇe tīṇi. (Saṁkhittaṁ.)
 
-1531\. Nahetupaccayā ārammaṇe dve. (Saṃkhittaṃ.)
+1531\. Nahetupaccayā ārammaṇe dve. (Saṁkhittaṁ.)
 
-1532\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṃ, evaṃ gaṇetabbaṃ.)
+1532\. (Yathā kusalattike pañhāvārassa anulomampi paccanīyampi anulomapaccanīyampi paccanīyānulomampi gaṇitaṁ, evaṁ gaṇetabbaṁ.)
 
----
+1533\. Sappaṭighadukakusalattikaṁ niṭṭhitaṁ.
 
-1533\. Sappaṭighadukakusalattikaṃ niṭṭhitaṃ.
-
-
-
-[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (3.4.2.7 Pañhāvāra)](../3.4.2.7.md) / [Go to next page (3.5 Rūpīduka, Kusalattika)](../../../3.5.md)
-
+[Go to previous page (Hetu)](Paccayacatukka/Hetu.md) / [Go to parent page (3.4.2.7 Pañhāvāra)](../3.4.2.7.md) / [Go to next page (3.5 Rūpīduka, Kusalattika)](../../../3.5.md)
 

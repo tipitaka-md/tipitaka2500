@@ -13,17 +13,9 @@
 
 (28.)
 
-2998\. Nahetupaccayā ārammaṇe ekaṃ, anantare ekaṃ, samanantare ekaṃ, sahajāte ekavīsa…pe…  jhāne ekavīsa, magge ekaṃ, sampayutte ekaṃ, vippayutte ekavīsa, atthiyā ekavīsa, natthiyā ekaṃ, vigate ekaṃ, avigate ekavīsa. (Evaṃ gaṇetabbaṃ.)
+2998\. Nahetupaccayā ārammaṇe ekaṁ, anantare ekaṁ, samanantare ekaṁ, sahajāte ekavīsa…pe… jhāne ekavīsa, magge ekaṁ, sampayutte ekaṁ, vippayutte ekavīsa, atthiyā ekavīsa, natthiyā ekaṁ, vigate ekaṁ, avigate ekavīsa. (Evaṁ gaṇetabbaṁ.)
 
----
+2999\. Paccanīyānulomaṁ. Paṭiccavāro.
 
-2999\. Paccanīyānulomaṃ.
-
-  
-Paṭiccavāro.
-
-
-
-[Go to previous page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md) / [Go to parent page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md) / [Go to next page (23.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../23.2--6.md)
-
+[Go to previous page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md) / [Go to parent page (23.1.4 Paccayapaccanīyānuloma)](../23.1.4.md) / [Go to next page (23.2--6 Sahajāta-paccaya-nissaya-saṃsaṭṭha-sampayuttavāra)](../../23.2--6.md)
 

@@ -17,14 +17,9 @@
 
 (46.)
 
-125\. Nahetuyā nava, naārammaṇe nava…pe…  noavigate nava. (Evaṃ gaṇetabbaṃ.)
+125\. Nahetuyā nava, naārammaṇe nava…pe… noavigate nava. (Evaṁ gaṇetabbaṁ.)
 
----
+126\. Paccanīyaṁ.
 
-126\. Paccanīyaṃ.
-
-
-
-[Go to previous page (1.1.7.2.1 Saṅkhyāvāra)](../1.1.7.2.1.md) / [Go to parent page (1.1.7.2.1 Saṅkhyāvāra)](../1.1.7.2.1.md) / [Go to next page (1.1.7.3 Paccayānulomapaccanīya)](../../1.1.7.3.md)
-
+[Go to previous page (1.1.7.2.1 Saṅkhyāvāra)](../1.1.7.2.1.md) / [Go to parent page (1.1.7.2.1 Saṅkhyāvāra)](../1.1.7.2.1.md) / [Go to next page (1.1.7.3 Paccayānulomapaccanīya)](../../1.1.7.3.md)
 

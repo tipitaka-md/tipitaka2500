@@ -15,16 +15,15 @@
 
 (5.)
 
-1435\. Ācayagāmiṃ dhammaṃ paṭicca ācayagāmī dhammo uppajjati adhipatipaccayā…  tīṇi.
+1435\. Ācayagāmiṁ dhammaṁ paṭicca ācayagāmī dhammo uppajjati adhipatipaccayā… tīṇi.
 
-1436\. Apacayagāmiṃ dhammaṃ paṭicca apacayagāmī dhammo uppajjati adhipatipaccayā…  tīṇi.
+1436\. Apacayagāmiṁ dhammaṁ paṭicca apacayagāmī dhammo uppajjati adhipatipaccayā… tīṇi.
 
-1437\. Nevācayagāmināpacayagāmiṃ dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo…  ekaṃ (paṭisandhi natthi); ekaṃ mahābhūtaṃ paṭicca tayo mahābhūtā…pe…  mahābhūte paṭicca cittasamuṭṭhānaṃ rūpaṃ upādārūpaṃ. (1)
+1437\. Nevācayagāmināpacayagāmiṁ dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo… ekaṁ (paṭisandhi natthi); ekaṁ mahābhūtaṁ paṭicca tayo mahābhūtā…pe… mahābhūte paṭicca cittasamuṭṭhānaṁ rūpaṁ upādārūpaṁ. (1)
 
-1438\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati adhipatipaccayā—  ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1438\. Ācayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati adhipatipaccayā— ācayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-1439\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṃ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati adhipatipaccayā—  apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṃ rūpaṃ. (1)
+1439\. Apacayagāmiñca nevācayagāmināpacayagāmiñca dhammaṁ paṭicca nevācayagāmināpacayagāmī dhammo uppajjati adhipatipaccayā— apacayagāmī khandhe ca mahābhūte ca paṭicca cittasamuṭṭhānaṁ rūpaṁ. (1)
 
-[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
-
+[Go to previous page (Ārammaṇa)](Arammana.md) / [Go to parent page (11.1.1.1 Vibhaṅgavāra)](../11.1.1.1.md) / [Go to next page (Anantarādi)](Anantaradi.md)
 

@@ -8,6 +8,5 @@
 * [Pakiṇṇakaghaṭanā](Avigata/Pakinnakaghatana.md)
 * [Sahajātaghaṭanā](Avigata/Sahajataghatana.md)
 
-[Go to previous page (Vigataghaṭanā)](Vigata/Vigataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Avigatasabhāga)](Avigata/Avigatasabhaga.md)
-
+[Go to previous page (Vigataghaṭanā)](Vigata/Vigataghatana.md) / [Go to parent page (2.7.1.2 Saṅkhyāvāra)](../2.7.1.2.md) / [Go to next page (Avigatasabhāga)](Avigata/Avigatasabhaga.md)
 

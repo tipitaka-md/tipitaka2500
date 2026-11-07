@@ -17,12 +17,11 @@
 
 (371.)
 
-3243\. Upādā dhammaṃ paṭicca noupādā dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe vatthuṃ paṭicca noupādā khandhā. (1)
+3243\. Upādā dhammaṁ paṭicca noupādā dhammo uppajjati ārammaṇapaccayā— paṭisandhikkhaṇe vatthuṁ paṭicca noupādā khandhā. (1)
 
-3244\. Noupādā dhammaṃ paṭicca noupādā dhammo uppajjati ārammaṇapaccayā—  noupādā ekaṃ khandhaṃ paṭicca tayo khandhā…pe…  dve khandhe…pe…  paṭisandhikkhaṇe…pe… . (1)
+3244\. Noupādā dhammaṁ paṭicca noupādā dhammo uppajjati ārammaṇapaccayā— noupādā ekaṁ khandhaṁ paṭicca tayo khandhā…pe… dve khandhe…pe… paṭisandhikkhaṇe…pe… . (1)
 
-3245\. Upādā ca noupādā ca dhammaṃ paṭicca noupādā dhammo uppajjati ārammaṇapaccayā—  paṭisandhikkhaṇe noupādā ekaṃ khandhañca vatthuñca paṭicca tayo khandhā…pe…  dve khandhe ca…pe… . (1)
+3245\. Upādā ca noupādā ca dhammaṁ paṭicca noupādā dhammo uppajjati ārammaṇapaccayā— paṭisandhikkhaṇe noupādā ekaṁ khandhañca vatthuñca paṭicca tayo khandhā…pe… dve khandhe ca…pe… . (1)
 
-[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.13.1.1.1 Vibhaṅgavāra)](../10.13.1.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
-
+[Go to previous page (Hetu)](Hetu.md) / [Go to parent page (10.13.1.1.1 Vibhaṅgavāra)](../10.13.1.1.1.md) / [Go to next page (Adhipatyādi)](Adhipatyadi.md)
 
